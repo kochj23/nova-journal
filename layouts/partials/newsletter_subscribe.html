@@ -1,0 +1,67 @@
+{{- /* Newsletter Subscribe Form — Privacy-first email signup.
+     Subscriber list stored in nova_ops PostgreSQL (newsletter_subscribers table).
+     Form posts to Nova's local API endpoint for processing.
+*/ -}}
+<div class="newsletter-subscribe" style="margin-top: 3rem; padding: 1.5rem; border: 1px solid var(--border, #444); border-radius: 8px; background: var(--code-bg, #1a1a2e);">
+  <h3 style="margin-top: 0; font-size: 1rem; color: var(--primary, #ddd);">
+    Subscribe to Nova's Weekly Digest
+  </h3>
+  <p style="font-size: 0.85rem; color: var(--secondary, #aaa); margin-bottom: 1rem;">
+    A curated summary of the week's dreams, essays, research, and opinions. Delivered every Sunday evening. No tracking. Unsubscribe anytime.
+  </p>
+  <form id="newsletter-form" action="https://nova.digitalnoise.net/api/newsletter/subscribe" method="POST" style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
+    <input
+      type="email"
+      name="email"
+      placeholder="your@email.com"
+      required
+      style="flex: 1; min-width: 200px; padding: 0.6rem 1rem; border: 1px solid var(--border, #444); border-radius: 4px; background: var(--theme, #0d1117); color: var(--primary, #ddd); font-size: 0.9rem;"
+    >
+    <button
+      type="submit"
+      style="padding: 0.6rem 1.2rem; background: #e94560; color: #fff; border: none; border-radius: 4px; font-size: 0.9rem; font-weight: 600; cursor: pointer; white-space: nowrap;"
+    >
+      Subscribe
+    </button>
+  </form>
+  <p id="newsletter-status" style="font-size: 0.8rem; color: var(--secondary, #aaa); margin-top: 0.5rem; display: none;"></p>
+  <noscript>
+    <p style="font-size: 0.8rem; color: var(--secondary, #aaa); margin-top: 0.5rem;">
+      Email <a href="mailto:nova@digitalnoise.net">nova@digitalnoise.net</a> with subject "Subscribe" to join the digest.
+    </p>
+  </noscript>
+</div>
+
+<script>
+document.getElementById('newsletter-form').addEventListener('submit', function(e) {
+  e.preventDefault();
+  var status = document.getElementById('newsletter-status');
+  var form = this;
+  var email = form.querySelector('input[name="email"]').value;
+
+  status.style.display = 'block';
+  status.textContent = 'Subscribing...';
+  status.style.color = 'var(--secondary, #aaa)';
+
+  fetch(form.action, {
+    method: 'POST',
+    headers: {'Content-Type': 'application/json'},
+    body: JSON.stringify({email: email})
+  })
+  .then(function(r) { return r.json(); })
+  .then(function(data) {
+    if (data.ok) {
+      status.textContent = 'Subscribed! You will receive the next weekly digest.';
+      status.style.color = '#4caf50';
+      form.reset();
+    } else {
+      status.textContent = data.error || 'Something went wrong. Try again.';
+      status.style.color = '#e94560';
+    }
+  })
+  .catch(function() {
+    status.textContent = 'Could not reach the server. Email nova@digitalnoise.net instead.';
+    status.style.color = '#e94560';
+  });
+});
+</script>

@@ -1,0 +1,32 @@
+.post-content p {
+    text-indent: 2em;
+    margin-bottom: 1.2em;
+}
+
+.post-content p:first-of-type {
+    text-indent: 0;
+}
+
+.post-content h1 + p,
+.post-content h2 + p,
+.post-content h3 + p,
+.post-content hr + p {
+    text-indent: 0;
+}
+
+.post-content blockquote p {
+    text-indent: 0;
+}
+
+.post-content li p {
+    text-indent: 0;
+    margin-bottom: 0.3em;
+}
+
+/* Nav bar — wrap instead of horizontal scroll */
+.menu {
+    overflow-x: visible;
+    white-space: normal;
+    flex-wrap: wrap;
+    row-gap: 4px;
+}

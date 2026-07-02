@@ -1,0 +1,18 @@
+{{/* Related Posts — cross-category semantic links injected by nova_publish_journal.py */}}
+{{- if .Params.related }}
+<div class="related-posts" style="margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid var(--border, #444);">
+  <h3 style="font-size: 0.9rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--secondary, #aaa); margin-bottom: 0.8rem;">
+    ✦ Connected threads
+  </h3>
+  <ul style="list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 0.5rem;">
+    {{- range .Params.related }}
+    <li>
+      <a href="{{ .url }}" style="display: flex; align-items: baseline; gap: 0.5rem; text-decoration: none; color: inherit;">
+        <span style="font-size: 0.75rem; color: var(--secondary, #aaa); white-space: nowrap; min-width: 80px;">{{ .category }}</span>
+        <span style="font-size: 0.9rem; color: var(--primary, #ddd);">{{ .title }}</span>
+      </a>
+    </li>
+    {{- end }}
+  </ul>
+</div>
+{{- end }}

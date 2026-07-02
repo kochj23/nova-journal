@@ -1,0 +1,12 @@
+public/
+resources/_gen/
+.hugo_build.lock
+.DS_Store
+
+# build output + redundant sources (only webp ships)
+public/
+resources/
+.hugo_build.lock
+static/images/**/*.png
+..bfg-report/
+*.bfg-report/

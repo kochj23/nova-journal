@@ -1,0 +1,19 @@
+#!/bin/bash
+# Pre-commit hook: prevent .png image references in markdown frontmatter
+# The deploy pipeline converts PNGs to WebP — refs must match.
+
+BROKEN=$(git diff --cached --name-only --diff-filter=ACM | grep '\.md$' | xargs grep -l '\.png"' 2>/dev/null)
+
+if [[ -n "$BROKEN" ]]; then
+    echo "ERROR: .png image references found in markdown (must be .webp):"
+    echo "$BROKEN" | sed 's/^/  /'
+    echo ""
+    echo "Auto-fixing..."
+    echo "$BROKEN" | while read f; do
+        sed -i '' 's|\.png"|\.webp"|g' "$f" 2>/dev/null || sed -i 's|\.png"|\.webp"|g' "$f"
+        git add "$f"
+    done
+    echo "Fixed. Commit proceeding."
+fi
+
+exit 0

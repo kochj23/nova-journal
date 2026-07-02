@@ -1,0 +1,23 @@
+{{- /* Responsive image partial with WebP srcset and lazy loading.
+     Usage in templates: {{ partial "responsive_image" (dict "src" "/images/foo.webp" "alt" "description" "width" 1200 "height" 800) }}
+     The thumbnail (-thumb.webp) is used for smaller viewports.
+*/ -}}
+{{- $src := .src -}}
+{{- $alt := .alt | default "" -}}
+{{- $width := .width | default 1200 -}}
+{{- $height := .height | default 800 -}}
+{{- $thumb := replace $src ".webp" "-thumb.webp" -}}
+<picture>
+  <source
+    type="image/webp"
+    srcset="{{ $thumb }} 600w, {{ $src }} 1200w"
+    sizes="(max-width: 768px) 600px, 1200px">
+  <img
+    src="{{ $src }}"
+    alt="{{ $alt }}"
+    width="{{ $width }}"
+    height="{{ $height }}"
+    loading="lazy"
+    decoding="async"
+    style="max-width: 100%; height: auto;">
+</picture>

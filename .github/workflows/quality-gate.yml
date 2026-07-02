@@ -1,0 +1,46 @@
+name: Content Quality Gate
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'content/**'
+      - 'static/images/**'
+  pull_request:
+    branches: [main]
+    paths:
+      - 'content/**'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Run content quality checks
+        run: python3 scripts/quality_gate.py
+
+      - name: Verify cover images exist
+        run: |
+          errors=0
+          for md in content/**/*.md; do
+            [[ "$(basename "$md")" == "_index.md" ]] && continue
+            img=$(grep -A1 "^cover:" "$md" | grep "image:" | sed 's/.*image: *"\?\([^"]*\)"\?.*/\1/' | tr -d '"')
+            if [[ -n "$img" && ! -f "static${img}" ]]; then
+              echo "::warning::MISSING: $img (referenced in $md)"
+              errors=$((errors + 1))
+            fi
+          done
+          if [[ $errors -gt 0 ]]; then
+            echo "::warning::${errors} cover images missing — posts will display without images"
+          fi
+          echo "Image check complete (${errors} warnings)."
