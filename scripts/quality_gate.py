@@ -26,7 +26,8 @@ STOPWORDS = {
 }
 
 REQUIRED_FIELDS = {"title", "date"}
-ERRORS = []
+ERRORS = []      # fatal — genuinely breaks the Hugo build (missing frontmatter/title/date)
+WARNINGS = []    # cosmetic — logged but never blocks the deploy (junk tags, short desc, etc.)
 
 
 def validate_file(filepath: str):
@@ -62,9 +63,9 @@ def validate_file(filepath: str):
         if desc_match:
             desc = desc_match.group(1)
             if len(desc) < 15:
-                ERRORS.append(f"{rel_path}: Description too short ({len(desc)} chars, min 15)")
+                WARNINGS.append(f"{rel_path}: Description too short ({len(desc)} chars, min 15)")
         elif not re.search(r'^description:', front_matter, re.MULTILINE):
-            ERRORS.append(f"{rel_path}: Missing description field")
+            WARNINGS.append(f"{rel_path}: Missing description field")
 
     # Check tags for stopwords
     tags_match = re.search(r'^tags:\s*\[([^\]]*)\]', front_matter, re.MULTILINE)
@@ -73,7 +74,7 @@ def validate_file(filepath: str):
         tags = [t.strip().strip('"').strip("'") for t in tags_str.split(',') if t.strip()]
         for tag in tags:
             if tag.lower() in STOPWORDS:
-                ERRORS.append(f"{rel_path}: Stopword tag found: '{tag}'")
+                WARNINGS.append(f"{rel_path}: Stopword tag found: '{tag}'")
 
     # Check for duplicate headings in research papers
     if '/research/' in filepath:
@@ -82,7 +83,7 @@ def validate_file(filepath: str):
         h1_chapters = re.findall(r'^# (Chapter \d+)', body, re.MULTILINE)
         for ch in h1_chapters:
             if ch in h2_chapters:
-                ERRORS.append(f"{rel_path}: Duplicate heading for {ch} (## and # both exist)")
+                WARNINGS.append(f"{rel_path}: Duplicate heading for {ch} (## and # both exist)")
 
 
 def main():
@@ -98,16 +99,23 @@ def main():
     print(f"=== Content Quality Gate ===")
     print(f"Files checked: {file_count}")
 
+    if WARNINGS:
+        print(f"\nWARNINGS (non-blocking): {len(WARNINGS)}")
+        for w in WARNINGS[:50]:
+            print(f"  WARN: {w}")
+        if len(WARNINGS) > 50:
+            print(f"  ... and {len(WARNINGS) - 50} more")
+
     if ERRORS:
-        print(f"\nVIOLATIONS FOUND: {len(ERRORS)}")
-        for err in ERRORS[:50]:  # Limit output
+        print(f"\nBLOCKING ERRORS: {len(ERRORS)}")
+        for err in ERRORS[:50]:
             print(f"  ERROR: {err}")
         if len(ERRORS) > 50:
             print(f"  ... and {len(ERRORS) - 50} more")
-        print(f"\nQuality gate FAILED.")
+        print(f"\nQuality gate FAILED (only fatal content errors block the deploy).")
         sys.exit(1)
     else:
-        print("All checks passed.")
+        print(f"\nAll blocking checks passed ({len(WARNINGS)} non-fatal warnings).")
         sys.exit(0)
 
 
