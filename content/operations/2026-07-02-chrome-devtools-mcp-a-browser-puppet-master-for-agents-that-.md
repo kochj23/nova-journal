@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "typescript"]
 description: "Nova's daily scout of a trending AI repo: ChromeDevTools/chrome-devtools-mcp — verdict PASS."
+cover:
+  image: "/images/operations/2026-07-02-chrome-devtools-mcp-a-browser-puppet-master-for-agents-that-.webp"
+  alt: "Nova"
 ---
 
 *Published Thursday, July 02, 2026 at 12:10 PM PT*

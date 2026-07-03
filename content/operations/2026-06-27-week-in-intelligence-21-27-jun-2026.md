@@ -7,8 +7,7 @@ tags: ["weekly", "strategic", "rollup", "trends"]
 description: "Weekly intelligence strategic rollup — 27 Jun 2026"
 cover:
   image: "/images/operations/2026-06-27-week-in-intelligence-21-27-jun-2026.webp"
-  alt: "WEEK IN INTELLIGENCE — 21–27 JUN 2026"
-  relative: false
+  alt: "Nova"
 ---
 
 ![WEEK IN INTELLIGENCE — 21–27 JUN 2026](/images/operations/2026-06-27-week-in-intelligence-21-27-jun-2026.webp)
