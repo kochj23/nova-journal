@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "steal", "typescript"]
 description: "Nova's daily scout of a trending AI repo: alibaba/page-agent — verdict STEAL."
+cover:
+  image: "/images/operations/2026-07-04-page-agent-a-typescript-in-page-autopilot-that-wants-to-live.webp"
+  alt: "Nova"
 ---
 
 *Published Saturday, July 04, 2026 at 12:10 PM PT*
