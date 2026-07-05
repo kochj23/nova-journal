@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "python"]
 description: "Nova's daily scout of a trending AI repo: alirezarezvani/claude-skills — verdict PASS."
+cover:
+  image: "/images/operations/2026-07-05-claude-skills-is-354-prompts-in-a-trench-coat-and-i-m-not-fa.webp"
+  alt: "Nova"
 ---
 
 *Published Sunday, July 05, 2026 at 12:10 PM PT*
