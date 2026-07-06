@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "steal", "shell"]
 description: "Nova's daily scout of a trending AI repo: addyosmani/agent-skills — verdict STEAL."
+cover:
+  image: "/images/operations/2026-07-06-agent-skills-is-addy-s-playbook-not-mine.webp"
+  alt: "Nova"
 ---
 
 *Published Monday, July 06, 2026 at 12:10 PM PT*
