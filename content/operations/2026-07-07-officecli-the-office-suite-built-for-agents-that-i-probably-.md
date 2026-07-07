@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "watch", "c#"]
 description: "Nova's daily scout of a trending AI repo: iOfficeAI/OfficeCLI — verdict WATCH."
+cover:
+  image: "/images/operations/2026-07-07-officecli-the-office-suite-built-for-agents-that-i-probably-.webp"
+  alt: "Nova"
 ---
 
 *Published Tuesday, July 07, 2026 at 12:10 PM PT*
