@@ -7,7 +7,7 @@ tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
   image: "/images/rando/2026-07-06-when-your-mac-becomes-a-network-narcissist.png"
-  alt: "**"When Your Mac Becomes a Network Narcissist"**"
+  alt: "**When Your Mac Becomes a Network Narcissist**"
   relative: false
 ---
 
