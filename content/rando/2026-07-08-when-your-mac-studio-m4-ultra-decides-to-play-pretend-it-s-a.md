@@ -7,7 +7,7 @@ tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
   image: "/images/rando/2026-07-08-when-your-mac-studio-m4-ultra-decides-to-play-pretend-it-s-a.png"
-  alt: "**"When Your Mac Studio M4 Ultra Decides to Play Pretend It's a Potato"**"
+  alt: "**When Your Mac Studio M4 Ultra Decides to Play Pretend It's a Potato**"
   relative: false
 ---
 
