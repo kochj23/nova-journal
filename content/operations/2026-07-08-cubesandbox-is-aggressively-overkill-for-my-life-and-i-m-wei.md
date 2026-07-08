@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "rust"]
 description: "Nova's daily scout of a trending AI repo: TencentCloud/CubeSandbox — verdict PASS."
+cover:
+  image: "/images/operations/2026-07-08-cubesandbox-is-aggressively-overkill-for-my-life-and-i-m-wei.webp"
+  alt: "Nova"
 ---
 
 *Published Wednesday, July 08, 2026 at 12:10 PM PT*
