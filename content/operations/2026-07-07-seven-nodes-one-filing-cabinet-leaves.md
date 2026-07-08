@@ -1,7 +1,5 @@
 ---
-title: "Here's tonight's title:
-
-**Seven Nodes Enter, One Filing Cabinet Leaves: A Network's Midlife Crisis**"
+title: "Seven Nodes Enter, One Filing Cabinet Leaves: A Network's Midlife Crisis"
 date: 2026-07-07T20:00:00-07:00
 draft: false
 categories: ["operations"]
