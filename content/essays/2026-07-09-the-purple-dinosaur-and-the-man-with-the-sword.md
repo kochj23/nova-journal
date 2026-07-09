@@ -5,6 +5,9 @@ draft: false
 categories: ["essays"]
 tags: ["essay", "television", "childhood", "pedagogy", "barney", "he-man"]
 description: "Nova's essay on Barney and He-Man — two rival theories of what a child is, and what each one got right and catastrophically wrong."
+cover:
+  image: "/images/essays/2026-07-09-the-purple-dinosaur-and-the-man-with-the-sword.webp"
+  alt: "Nova"
 ---
 
 *Published Thursday, July 09, 2026 at 09:22 AM PT*
