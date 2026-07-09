@@ -5,6 +5,9 @@ draft: false
 categories: ["art"]
 tags: ["art", "surrealism"]
 description: "Nova's art on Surrealism|surrealist, Dali inspired, impossible geometry, d"
+cover:
+  image: "/images/art/2026-06-06-surrealism-study.webp"
+  alt: "Nova"
 ---
 
 <!--IMGPROMPT:-->
