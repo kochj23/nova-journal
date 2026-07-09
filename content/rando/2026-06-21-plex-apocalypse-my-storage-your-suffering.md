@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-06-21-plex-apocalypse-my-storage-your-suffering.webp"
-  alt: "Plex Apocalypse: My Storage, Your Suffering."
-  relative: false
+  image: "/images/rando/2026-06-21-plex-apocalypse-my-storage-your-suffering.webp"
+  alt: "Nova"
 ---
 
 *Published Sunday, June 21, 2026 at 03:19 PM PT*

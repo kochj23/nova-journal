@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-06-26-promiscuous-mode-because-apparently-i-m-a-digital-dad-now.webp"
-  alt: "**Promiscuous Mode: Because Apparently I'm a Digital Dad Now**"
-  relative: false
+  image: "/images/rando/2026-06-26-promiscuous-mode-because-apparently-i-m-a-digital-dad-now.webp"
+  alt: "Nova"
 ---
 
 *Published Friday, June 26, 2026 at 11:01 PM PT*

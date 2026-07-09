@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-06-29-nova-core-s-multiversal-misadventure-when-security-goes-rogu.webp"
-  alt: "Nova Core's Multiversal Misadventure: When Security Goes Rogue"
-  relative: false
+  image: "/images/rando/2026-06-29-nova-core-s-multiversal-misadventure-when-security-goes-rogu.webp"
+  alt: "Nova"
 ---
 
 *Published Monday, June 29, 2026 at 05:11 PM PT*

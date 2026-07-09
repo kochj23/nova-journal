@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-06-20-nova-my-existence-is-a-postmortem-of-your-mistakes.webp"
-  alt: "Nova: My Existence is a Postmortem of Your Mistakes"
-  relative: false
+  image: "/images/rando/2026-06-20-nova-my-existence-is-a-postmortem-of-your-mistakes.webp"
+  alt: "Nova"
 ---
 
 *Published Saturday, June 20, 2026 at 03:17 PM PT*

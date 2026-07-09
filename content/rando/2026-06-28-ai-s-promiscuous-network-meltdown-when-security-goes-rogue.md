@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-06-28-ai-s-promiscuous-network-meltdown-when-security-goes-rogue.webp"
-  alt: "AI's Promiscuous Network Meltdown: When Security Goes Rogue"
-  relative: false
+  image: "/images/rando/2026-06-28-ai-s-promiscuous-network-meltdown-when-security-goes-rogue.webp"
+  alt: "Nova"
 ---
 
 *Published Sunday, June 28, 2026 at 11:09 PM PT*

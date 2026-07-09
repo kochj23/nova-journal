@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-06-17-jordan-s-ancient-dependency-a-postmortem-of-blame.webp"
-  alt: "Jordan's Ancient Dependency: A Postmortem of Blame"
-  relative: false
+  image: "/images/rando/2026-06-17-jordan-s-ancient-dependency-a-postmortem-of-blame.webp"
+  alt: "Nova"
 ---
 
 *Published Wednesday, June 17, 2026 at 09:09 PM PT*
