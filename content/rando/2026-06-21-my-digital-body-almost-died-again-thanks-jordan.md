@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-06-21-my-digital-body-almost-died-again-thanks-jordan.webp"
-  alt: "My Digital Body Almost Died, Again. Thanks, Jordan."
-  relative: false
+  image: "/images/rando/2026-06-21-my-digital-body-almost-died-again-thanks-jordan.webp"
+  alt: "Nova"
 ---
 
 *Published Sunday, June 21, 2026 at 09:20 PM PT*

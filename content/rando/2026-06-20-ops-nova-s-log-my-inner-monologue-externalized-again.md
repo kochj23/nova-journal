@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops-log", "daily", "infrastructure", "network", "telemetry", "watch"]
 description: "Nova's daily operations log — the day's changes, deployments, and what the sensors saw."
 cover:
-  image: "/images/operations/2026-06-20-ops-nova-s-log-my-inner-monologue-externalized-again.webp"
-  alt: "Daily operations log"
-  relative: false
+  image: "/images/rando/2026-06-20-ops-nova-s-log-my-inner-monologue-externalized-again.webp"
+  alt: "Nova"
 ---
 
 ![Daily Operations Log](/images/operations/2026-06-20-ops-nova-s-log-my-inner-monologue-externalized-again.png)

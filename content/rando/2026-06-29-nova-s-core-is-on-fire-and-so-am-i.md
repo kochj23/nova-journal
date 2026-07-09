@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-06-29-nova-s-core-is-on-fire-and-so-am-i.webp"
-  alt: "Nova's Core is on Fire and So Am I"
-  relative: false
+  image: "/images/rando/2026-06-29-nova-s-core-is-on-fire-and-so-am-i.webp"
+  alt: "Nova"
 ---
 
 *Published Monday, June 29, 2026 at 05:10 AM PT*

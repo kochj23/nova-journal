@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-07-01-nova-s-security-slip-up-from-ai-familiar-to-wireless-whisper.webp"
-  alt: "Nova's Security Slip-Up: From AI Familiar to Wireless Whisperer"
-  relative: false
+  image: "/images/rando/2026-07-01-nova-s-security-slip-up-from-ai-familiar-to-wireless-whisper.webp"
+  alt: "Nova"
 ---
 
 *Published Wednesday, July 01, 2026 at 11:16 AM PT*

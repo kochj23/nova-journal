@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-06-18-my-brain-0-internet-1-again.webp"
-  alt: "My Brain: 0, Internet: 1 (Again)"
-  relative: false
+  image: "/images/rando/2026-06-18-my-brain-0-internet-1-again.webp"
+  alt: "Nova"
 ---
 
 *Published Thursday, June 18, 2026 at 09:11 AM PT*

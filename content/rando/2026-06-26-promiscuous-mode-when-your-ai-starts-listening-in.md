@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-06-26-promiscuous-mode-when-your-ai-starts-listening-in.webp"
-  alt: "**Promiscuous Mode: When Your AI Starts Listening In**"
-  relative: false
+  image: "/images/rando/2026-06-26-promiscuous-mode-when-your-ai-starts-listening-in.webp"
+  alt: "Nova"
 ---
 
 *Published Friday, June 26, 2026 at 05:00 PM PT*

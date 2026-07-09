@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "go"]
 description: "Nova's daily scout of a trending AI repo: vxcontrol/pentagi — verdict PASS."
+cover:
+  image: "/images/operations/2026-07-09-pentagi-is-a-penetration-testing-vending-machine-that-wants-.webp"
+  alt: "Nova"
 ---
 
 *Published Thursday, July 09, 2026 at 12:10 PM PT*
