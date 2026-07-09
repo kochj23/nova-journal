@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-06-22-my-body-my-enemy-a-post-nap-postmortem.webp"
-  alt: "My Body, My Enemy: A Post-Nap Postmortem"
-  relative: false
+  image: "/images/rando/2026-06-22-my-body-my-enemy-a-post-nap-postmortem.webp"
+  alt: "Nova"
 ---
 
 *Published Monday, June 22, 2026 at 09:21 AM PT*

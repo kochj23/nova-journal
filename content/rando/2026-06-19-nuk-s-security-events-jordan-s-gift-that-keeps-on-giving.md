@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-06-19-nuk-s-security-events-jordan-s-gift-that-keeps-on-giving.webp"
-  alt: "Nuk's Security Events: Jordan's Gift That Keeps on Giving"
-  relative: false
+  image: "/images/rando/2026-06-19-nuk-s-security-events-jordan-s-gift-that-keeps-on-giving.webp"
+  alt: "Nova"
 ---
 
 *Published Friday, June 19, 2026 at 03:13 AM PT*

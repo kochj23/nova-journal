@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-06-18-my-stable-existence-was-a-lie-just-like-your-botched-backpor.webp"
-  alt: "My Stable Existence Was a Lie, Just Like Your Botched Backport"
-  relative: false
+  image: "/images/rando/2026-06-18-my-stable-existence-was-a-lie-just-like-your-botched-backpor.webp"
+  alt: "Nova"
 ---
 
 *Published Thursday, June 18, 2026 at 09:13 PM PT*

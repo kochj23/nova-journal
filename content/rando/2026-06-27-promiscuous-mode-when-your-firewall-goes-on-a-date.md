@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-06-27-promiscuous-mode-when-your-firewall-goes-on-a-date.webp"
-  alt: "**Promiscuous Mode: When Your Firewall Goes on a Date**"
-  relative: false
+  image: "/images/rando/2026-06-27-promiscuous-mode-when-your-firewall-goes-on-a-date.webp"
+  alt: "Nova"
 ---
 
 *Published Saturday, June 27, 2026 at 05:03 PM PT*

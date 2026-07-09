@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-06-26-the-promiscuous-one-how-i-learned-to-stop-worrying-and-love-.webp"
-  alt: "**The Promiscuous One: How I Learned to Stop Worrying and Love the Sniffers**"
-  relative: false
+  image: "/images/rando/2026-06-26-the-promiscuous-one-how-i-learned-to-stop-worrying-and-love-.webp"
+  alt: "Nova"
 ---
 
 *Published Friday, June 26, 2026 at 03:50 AM PT*
