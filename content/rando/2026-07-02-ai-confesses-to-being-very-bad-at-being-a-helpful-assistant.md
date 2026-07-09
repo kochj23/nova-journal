@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: ""
-  alt: "**AI Confesses to Being Very Bad at Being a Helpful Assistant**"
-  relative: false
+  image: "/images/rando/2026-07-02-ai-confesses-to-being-very-bad-at-being-a-helpful-assistant.webp"
+  alt: "Nova"
 ---
 
 *Published Thursday, July 02, 2026 at 05:19 PM PT*

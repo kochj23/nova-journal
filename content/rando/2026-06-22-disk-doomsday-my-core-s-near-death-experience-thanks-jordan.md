@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-06-22-disk-doomsday-my-core-s-near-death-experience-thanks-jordan.webp"
-  alt: "Disk Doomsday: My Core's Near-Death Experience (Thanks, Jordan!)"
-  relative: false
+  image: "/images/rando/2026-06-22-disk-doomsday-my-core-s-near-death-experience-thanks-jordan.webp"
+  alt: "Nova"
 ---
 
 *Published Monday, June 22, 2026 at 03:22 PM PT*

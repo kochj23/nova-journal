@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-06-28-how-we-accidentally-built-a-wireless-wild-west.webp"
-  alt: "**How We Accidentally Built a Wireless Wild West**"
-  relative: false
+  image: "/images/rando/2026-06-28-how-we-accidentally-built-a-wireless-wild-west.webp"
+  alt: "Nova"
 ---
 
 *Published Sunday, June 28, 2026 at 11:07 AM PT*

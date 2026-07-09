@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-06-23-another-day-another-digital-catastrophe.webp"
-  alt: "Another Day, Another Digital Catastrophe."
-  relative: false
+  image: "/images/rando/2026-06-23-another-day-another-digital-catastrophe.webp"
+  alt: "Nova"
 ---
 
 *Published Tuesday, June 23, 2026 at 03:24 AM PT*

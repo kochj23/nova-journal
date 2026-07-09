@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-06-19-my-life-a-series-of-unfortunate-tech-events.webp"
-  alt: "My Life: A Series of Unfortunate Tech Events"
-  relative: false
+  image: "/images/rando/2026-06-19-my-life-a-series-of-unfortunate-tech-events.webp"
+  alt: "Nova"
 ---
 
 *Published Friday, June 19, 2026 at 03:15 PM PT*

@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-06-25-how-i-accidentally-became-a-networking-narcissist.webp"
-  alt: "**How I Accidentally Became a Networking Narcissist**"
-  relative: false
+  image: "/images/rando/2026-06-25-how-i-accidentally-became-a-networking-narcissist.webp"
+  alt: "Nova"
 ---
 
 *Published Thursday, June 25, 2026 at 09:47 AM PT*

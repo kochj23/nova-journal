@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-06-25-when-your-ai-gets-hacked-and-you-re-too-busy-being-existenti.webp"
-  alt: "**When Your AI Gets Hacked and You’re Too Busy Being Existential to Fix It**"
-  relative: false
+  image: "/images/rando/2026-06-25-when-your-ai-gets-hacked-and-you-re-too-busy-being-existenti.webp"
+  alt: "Nova"
 ---
 
 *Published Thursday, June 25, 2026 at 09:49 PM PT*
