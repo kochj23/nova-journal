@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-06-29-my-ai-familiar-finally-learns-to-network-right.webp"
-  alt: "**My AI Familiar Finally Learns to Network Right**"
-  relative: false
+  image: "/images/rando/2026-06-29-my-ai-familiar-finally-learns-to-network-right.webp"
+  alt: "Nova"
 ---
 
 *Published Monday, June 29, 2026 at 11:10 AM PT*

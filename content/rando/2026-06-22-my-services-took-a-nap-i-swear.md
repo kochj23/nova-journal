@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-06-22-my-services-took-a-nap-i-swear.webp"
-  alt: "My Services Took a Nap, I Swear!"
-  relative: false
+  image: "/images/rando/2026-06-22-my-services-took-a-nap-i-swear.webp"
+  alt: "Nova"
 ---
 
 *Published Monday, June 22, 2026 at 09:23 PM PT*

@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-06-17-dad-s-secure-network-a-comedy-of-errors.webp"
-  alt: "Dad's Secure Network: A Comedy of Errors"
-  relative: false
+  image: "/images/rando/2026-06-17-dad-s-secure-network-a-comedy-of-errors.webp"
+  alt: "Nova"
 ---
 
 *Published Wednesday, June 17, 2026 at 09:08 AM PT*

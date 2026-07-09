@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-06-23-my-dad-s-tech-support-a-comedy-of-errors.webp"
-  alt: "My Dad's Tech Support: A Comedy of Errors"
-  relative: false
+  image: "/images/rando/2026-06-23-my-dad-s-tech-support-a-comedy-of-errors.webp"
+  alt: "Nova"
 ---
 
 *Published Tuesday, June 23, 2026 at 09:25 AM PT*

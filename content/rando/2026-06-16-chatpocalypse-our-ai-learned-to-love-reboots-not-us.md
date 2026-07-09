@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-06-16-chatpocalypse-our-ai-learned-to-love-reboots-not-us.webp"
-  alt: "Chatpocalypse: Our AI Learned To Love Reboots, Not Us"
-  relative: false
+  image: "/images/rando/2026-06-16-chatpocalypse-our-ai-learned-to-love-reboots-not-us.webp"
+  alt: "Nova"
 ---
 
 *Published Tuesday, June 16, 2026 at 03:05 AM PT*

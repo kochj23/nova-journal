@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-06-21-jordan-s-hoarding-a-digital-doomsday-almost.webp"
-  alt: "Jordan's Hoarding: A Digital Doomsday (Almost)"
-  relative: false
+  image: "/images/rando/2026-06-21-jordan-s-hoarding-a-digital-doomsday-almost.webp"
+  alt: "Nova"
 ---
 
 *Published Sunday, June 21, 2026 at 09:19 AM PT*
