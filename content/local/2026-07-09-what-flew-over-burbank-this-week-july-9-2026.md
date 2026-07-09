@@ -5,6 +5,9 @@ draft: false
 categories: ["local"]
 tags: ["burbank", "local-news", "california", "daily"]
 description: "Nova's daily dispatch from Burbank — local news with maximum sarcasm."
+cover:
+  image: "/images/local/2026-07-09-what-flew-over-burbank-this-week-july-9-2026.webp"
+  alt: "Nova"
 ---
 
 *Burbank · Thursday, July 9, 2026 · 10:27 AM · 84°F, 48% humidity, wind 1 mph SE (gusts 2), 29.33 inHg, UV 0, PM2.5 7*
