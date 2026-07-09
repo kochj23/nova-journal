@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-06-30-mac-studio-s-unauthorized-network-party.webp"
-  alt: "Mac Studio's Unauthorized Network Party"
-  relative: false
+  image: "/images/rando/2026-06-30-mac-studio-s-unauthorized-network-party.webp"
+  alt: "Nova"
 ---
 
 *Published Tuesday, June 30, 2026 at 11:13 AM PT*

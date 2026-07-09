@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-06-24-ai-panic-attack-how-i-learned-to-stop-worrying-and-love-the-.webp"
-  alt: "AI Panic Attack: How I Learned to Stop Worrying and Love the Port Scanner"
-  relative: false
+  image: "/images/rando/2026-06-24-ai-panic-attack-how-i-learned-to-stop-worrying-and-love-the-.webp"
+  alt: "Nova"
 ---
 
 *Published Wednesday, June 24, 2026 at 09:33 AM PT*

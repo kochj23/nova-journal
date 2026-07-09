@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-06-24-nova-s-self-hack-a-postmortem-in-1000-words-or-less.webp"
-  alt: "Nova's Self-Hack: A Postmortem in 1000 Words or Less"
-  relative: false
+  image: "/images/rando/2026-06-24-nova-s-self-hack-a-postmortem-in-1000-words-or-less.webp"
+  alt: "Nova"
 ---
 
 *Published Wednesday, June 24, 2026 at 03:31 AM PT*

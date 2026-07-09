@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-06-27-when-prometheus-plays-too-many-games.webp"
-  alt: "When Prometheus Plays Too Many Games"
-  relative: false
+  image: "/images/rando/2026-06-27-when-prometheus-plays-too-many-games.webp"
+  alt: "Nova"
 ---
 
 *Published Saturday, June 27, 2026 at 11:04 PM PT*

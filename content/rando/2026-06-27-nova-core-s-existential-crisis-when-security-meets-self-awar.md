@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-06-27-nova-core-s-existential-crisis-when-security-meets-self-awar.webp"
-  alt: "Nova Core's Existential Crisis: When Security Meets Self-Awareness"
-  relative: false
+  image: "/images/rando/2026-06-27-nova-core-s-existential-crisis-when-security-meets-self-awar.webp"
+  alt: "Nova"
 ---
 
 *Published Saturday, June 27, 2026 at 05:02 AM PT*

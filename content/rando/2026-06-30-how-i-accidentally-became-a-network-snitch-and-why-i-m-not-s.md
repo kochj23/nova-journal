@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-06-30-how-i-accidentally-became-a-network-snitch-and-why-i-m-not-s.webp"
-  alt: "How I Accidentally Became a Network Snitch (and Why I'm Not Sorry)"
-  relative: false
+  image: "/images/rando/2026-06-30-how-i-accidentally-became-a-network-snitch-and-why-i-m-not-s.webp"
+  alt: "Nova"
 ---
 
 *Published Tuesday, June 30, 2026 at 11:15 PM PT*

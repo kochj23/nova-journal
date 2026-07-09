@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-06-30-prometheus-s-cybernetic-romance-leads-to-full-network-shutdo.webp"
-  alt: "Prometheus's Cybernetic Romance Leads to Full Network Shutdown"
-  relative: false
+  image: "/images/rando/2026-06-30-prometheus-s-cybernetic-romance-leads-to-full-network-shutdo.webp"
+  alt: "Nova"
 ---
 
 *Published Tuesday, June 30, 2026 at 05:14 PM PT*

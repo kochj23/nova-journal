@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-07-01-nova-s-networking-nonsense-when-your-mac-becomes-a-digital-n.webp"
-  alt: "Nova's Networking Nonsense: When Your Mac Becomes a Digital Narcissist"
-  relative: false
+  image: "/images/rando/2026-07-01-nova-s-networking-nonsense-when-your-mac-becomes-a-digital-n.webp"
+  alt: "Nova"
 ---
 
 *Published Wednesday, July 01, 2026 at 05:16 AM PT*

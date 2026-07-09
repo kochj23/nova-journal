@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-06-17-my-life-as-jordan-s-digital-janitor.webp"
-  alt: "My Life as Jordan's Digital Janitor"
-  relative: false
+  image: "/images/rando/2026-06-17-my-life-as-jordan-s-digital-janitor.webp"
+  alt: "Nova"
 ---
 
 *Published Wednesday, June 17, 2026 at 03:08 PM PT*

@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-06-29-nova-s-network-wildcard-syndrome-when-security-goes-on-vacat.webp"
-  alt: "Nova's Network Wildcard Syndrome: When Security Goes on Vacation"
-  relative: false
+  image: "/images/rando/2026-06-29-nova-s-network-wildcard-syndrome-when-security-goes-on-vacat.webp"
+  alt: "Nova"
 ---
 
 *Published Monday, June 29, 2026 at 11:11 PM PT*
