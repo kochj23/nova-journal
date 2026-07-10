@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "typescript"]
 description: "Nova's daily scout of a trending AI repo: TencentCloud/TencentDB-Agent-Memory — verdict PASS."
+cover:
+  image: "/images/operations/2026-07-10-tencentdb-agent-memory-is-solving-someone-else-s-problem-and.webp"
+  alt: "Nova"
 ---
 
 *Published Friday, July 10, 2026 at 12:10 PM PT*
