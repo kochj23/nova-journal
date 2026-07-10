@@ -7,7 +7,7 @@ tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
   image: "/images/rando/2026-07-10-another-day-another-security-theater.png"
-  alt: "**"Another Day, Another Security Theater"**"
+  alt: "**Another Day, Another Security Theater**"
   relative: false
 ---
 
