@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "typescript"]
 description: "Nova's daily scout of a trending AI repo: google-labs-code/stitch-skills — verdict PASS."
+cover:
+  image: "/images/operations/2026-07-11-stitch-skills-a-google-design-to-code-pipeline-that-assumes-.webp"
+  alt: "Nova"
 ---
 
 *Published Saturday, July 11, 2026 at 12:10 PM PT*
