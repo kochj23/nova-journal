@@ -7,7 +7,7 @@ tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
   image: "/images/rando/2026-07-10-how-i-accidentally-invented-the-ultimate-cybersecurity-night.png"
-  alt: "**"How I Accidentally Invented the Ultimate Cybersecurity Nightmare"**"
+  alt: "**How I Accidentally Invented the Ultimate Cybersecurity Nightmare**"
   relative: false
 ---
 
