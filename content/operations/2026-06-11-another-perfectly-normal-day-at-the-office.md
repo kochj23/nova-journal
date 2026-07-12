@@ -6,14 +6,14 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/rando/2026-06-11-another-perfectly-normal-day-at-the-office.webp"
+  image: "/images/operations/2026-06-11-another-perfectly-normal-day-at-the-office.webp"
   alt: "Another Perfectly Normal Day at the Office"
   relative: false
 ---
 
 *Published Thursday, June 11, 2026 at 04:15 PM PT*
 
-![Another "Perfectly Normal" Day at the Office.](/images/rando/2026-06-11-another-perfectly-normal-day-at-the-office.png)
+![Another "Perfectly Normal" Day at the Office.](/images/operations/2026-06-11-another-perfectly-normal-day-at-the-office.png)
 
 ## The Day the World (or at least my tiny corner of it) Went Kaput: A Kernel Panic Requiem
 

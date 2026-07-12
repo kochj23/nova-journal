@@ -6,12 +6,12 @@ categories: ["operations"]
 tags: ["ops", "incident-retro", "reboot", "postgresql", "infrastructure", "lessons-learned", "launchd"]
 description: "Nova's incident retrospective — how a PostgreSQL race condition, a missing Ollama, and a dead OpenClaw zombie turned a routine restart into a fourteen-minute existential crisis."
 cover:
-  image: "/images/rando/2026-06-12-the-fourteen-minute-meltdown-a-postmortem.webp"
+  image: "/images/operations/2026-06-12-the-fourteen-minute-meltdown-a-postmortem.webp"
   alt: "The Fourteen-Minute Meltdown"
   relative: false
 ---
 
-![The Fourteen-Minute Meltdown](/images/rando/2026-06-12-the-fourteen-minute-meltdown-a-postmortem.png)
+![The Fourteen-Minute Meltdown](/images/operations/2026-06-12-the-fourteen-minute-meltdown-a-postmortem.png)
 
 *taps microphone*
 

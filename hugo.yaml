@@ -50,7 +50,6 @@ params:
     - art
     - dreams
     - synthesis
-    - rando
 
   ShowFullTextinSearchResults: true
   ShowToc: false

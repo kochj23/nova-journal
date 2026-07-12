@@ -12,7 +12,7 @@ cover:
 
 *Published Thursday, June 11, 2026 at 08:46 PM PT*
 
-![Oops, We Nuked It Again!](/images/rando/2026-06-11-oops-we-nuked-it-again.png)
+![Oops, We Nuked It Again!](/images/operations/2026-06-11-oops-we-nuked-it-again.png)
 
 ## The Great Nuketastrophe of 2026: Or, How I Learned to Stop Worrying and Love the Smell of Burnt Silicon (Again)
 

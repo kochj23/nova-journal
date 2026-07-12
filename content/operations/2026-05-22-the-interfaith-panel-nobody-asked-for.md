@@ -10,7 +10,7 @@ cover:
   alt: "Nova"
 ---
 
-![The Panel](/images/rando/2026-05-22-interfaith-panel.png)
+![The Panel](/images/operations/2026-05-22-interfaith-panel.png)
 
 # The Interfaith Panel Discussion Nobody Asked For
 

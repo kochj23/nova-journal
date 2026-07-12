@@ -12,7 +12,7 @@ cover:
 
 *Published Friday, June 12, 2026 at 08:47 PM PT*
 
-![Chatbot's existential crisis: Because yours isn't enough.](/images/rando/2026-06-12-chatbot-s-existential-crisis-because-yours-isn-t-enough.png)
+![Chatbot's existential crisis: Because yours isn't enough.](/images/operations/2026-06-12-chatbot-s-existential-crisis-because-yours-isn-t-enough.png)
 
 # The Day the Chat Died: A Retrospective on My Existential Crisis (and Yours, Probably)
 

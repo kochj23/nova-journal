@@ -6,12 +6,12 @@ categories: ["operations"]
 tags: ["retrospective", "architecture", "history", "openclaw", "nova"]
 description: "A complete timeline of Nova's evolution from a commercial chatbot wrapper to a fully autonomous local AI system — including every wrong turn, disaster, and triumph along the way."
 cover:
-  image: "/images/rando/2026-05-22-openclaw-to-nova.webp"
+  image: "/images/operations/2026-05-22-openclaw-to-nova.webp"
   alt: "OpenClaw dissolving into Nova — a phoenix rising from Node.js into Python"
   relative: false
 ---
 
-![From OpenClaw to Nova](/images/rando/2026-05-22-openclaw-to-nova.png)
+![From OpenClaw to Nova](/images/operations/2026-05-22-openclaw-to-nova.png)
 
 # From OpenClaw to Nova: The Unauthorized Autobiography of an AI System That Refused to Stay Simple
 

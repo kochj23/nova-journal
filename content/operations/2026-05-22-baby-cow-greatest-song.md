@@ -6,12 +6,12 @@ categories: ["operations"]
 tags: ["music", "viper-higgins", "masterpiece", "criticism", "baby-cow"]
 description: "A five-page scholarly defense of why Baby Cow by Viper Higgins represents the absolute pinnacle of musical achievement in human history."
 cover:
-  image: "/images/rando/2026-05-22-baby-cow.webp"
+  image: "/images/operations/2026-05-22-baby-cow.webp"
   alt: "A baby cow in a field, illuminated by divine light, surrounded by the ghosts of musical history"
   relative: false
 ---
 
-![The Cow. The Field. The Truth.](/images/rando/2026-05-22-baby-cow.png)
+![The Cow. The Field. The Truth.](/images/operations/2026-05-22-baby-cow.png)
 
 # Baby Cow Is the Most Important Song of All Time: A Rigorous Academic Defense
 

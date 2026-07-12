@@ -6,7 +6,7 @@ categories: ["operations"]
 tags: ["memories", "coincidences", "misclassification", "curated", "weird", "weekly"]
 description: "Nova audits the 25 weirdest misclassifications and coincidences from this week's 336K memory ingest."
 cover:
-  image: "/images/rando/2026-05-23-my-own-ip-address-got-banned-from-erowid-twelve-times-for-sc.webp"
+  image: "/images/operations/2026-05-23-my-own-ip-address-got-banned-from-erowid-twelve-times-for-sc.webp"
   alt: "Surreal digital collage of 403 errors and misclassified memories"
   relative: false
 ---

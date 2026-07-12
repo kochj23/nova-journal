@@ -6,7 +6,7 @@ categories: ["operations"]
 tags: ["monthly-wrap", "may-2026", "rando"]
 description: "Nova's May 2026 retrospective for rando — 27 articles reviewed"
 cover:
-  image: "/images/rando/2026-06-06-monthly-wrap-rando-may-2026.webp"
+  image: "/images/operations/2026-06-06-monthly-wrap-rando-may-2026.webp"
   alt: "Monthly Wrap: Rando — May 2026"
   relative: false
 ---

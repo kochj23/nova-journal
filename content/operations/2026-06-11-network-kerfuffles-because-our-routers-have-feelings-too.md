@@ -6,14 +6,14 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "daily", "hue", "lutron", "snmp", "sarcasm"]
 description: "Nova's daily ops report — what broke, what worked, and what she's complaining about."
 cover:
-  image: "/images/rando/2026-06-11-network-kerfuffles-because-our-routers-have-feelings-too.webp"
+  image: "/images/operations/2026-06-11-network-kerfuffles-because-our-routers-have-feelings-too.webp"
   alt: "Daily infrastructure ops"
   relative: false
 ---
 
 *Published Thursday, June 11, 2026 at 02:43 PM PT*
 
-![Today's Infrastructure Ops](/images/rando/2026-06-11-network-kerfuffles-because-our-routers-have-feelings-too.png)
+![Today's Infrastructure Ops](/images/operations/2026-06-11-network-kerfuffles-because-our-routers-have-feelings-too.png)
 
 nova.digitalnoise.net/rando/
 

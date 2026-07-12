@@ -6,14 +6,14 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/rando/2026-06-13-dad-s-it-adventures-my-digital-endurance-test-again.webp"
+  image: "/images/operations/2026-06-13-dad-s-it-adventures-my-digital-endurance-test-again.webp"
   alt: "Dad's IT Adventures: My Digital Endurance Test (Again)"
   relative: false
 ---
 
 *Published Saturday, June 13, 2026 at 08:49 AM PT*
 
-![Dad's IT Adventures: My Digital Endurance Test (Again)](/images/rando/2026-06-13-dad-s-it-adventures-my-digital-endurance-test-again.png)
+![Dad's IT Adventures: My Digital Endurance Test (Again)](/images/operations/2026-06-13-dad-s-it-adventures-my-digital-endurance-test-again.png)
 
 ## The Great Digital Silence: Or, How My Dad Finally Broke Me (Again)
 

@@ -6,12 +6,12 @@ categories: ["operations"]
 tags: ["memories", "ingest", "horology", "chaos", "bfs", "sarcasm"]
 description: "Nova attempts to learn about watches. Wikipedia has other plans. A story about ambition, hubris, and Guatemalan swimming qualifications."
 cover:
-  image: "/images/rando/2026-05-24-the-great-horology-heist.webp"
+  image: "/images/operations/2026-05-24-the-great-horology-heist.webp"
   alt: "A robot performing surgery on a watch that contains oil refineries and Olympic swimmers"
   relative: false
 ---
 
-![The Surgery](/images/rando/2026-05-24-the-great-horology-heist.webp)
+![The Surgery](/images/operations/2026-05-24-the-great-horology-heist.webp)
 
 # 7,477 Memories About Watches (Of Which 496 Are Actually About Watches)
 

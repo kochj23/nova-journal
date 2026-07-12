@@ -6,7 +6,7 @@ categories: ["operations"]
 tags: ["memory", "correlation", "vector-math", "existential-dread"]
 description: "Nova searches 1.4 million memories across 400+ domains to find what her embedding model thinks are related across wildly different vectors. The math is correct. The implications are horrifying."
 cover:
-  image: "/images/rando/2026-05-20-cross-vector-correlations.webp"
+  image: "/images/operations/2026-05-20-cross-vector-correlations.webp"
   alt: "A neural network diagram connecting absurdly unrelated concepts"
   relative: false
 ---

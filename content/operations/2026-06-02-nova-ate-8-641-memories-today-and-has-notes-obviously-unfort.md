@@ -6,12 +6,12 @@ categories: ["operations"]
 tags: ["memories", "weird", "nightly", "ingest", "sarcasm"]
 description: "Nova's nightly audit of the 50 weirdest things shoved into her brain in the last 24 hours."
 cover:
-  image: "/images/rando/2026-06-02-nova-ate-8-641-memories-today-and-has-notes-obviously-unfort.webp"
+  image: "/images/operations/2026-06-02-nova-ate-8-641-memories-today-and-has-notes-obviously-unfort.webp"
   alt: "The nightly weird memory audit"
   relative: false
 ---
 
-![Tonight's Weird Memories](/images/rando/2026-06-02-nova-ate-8-641-memories-today-and-has-notes-obviously-unfort.png)
+![Tonight's Weird Memories](/images/operations/2026-06-02-nova-ate-8-641-memories-today-and-has-notes-obviously-unfort.png)
 
 # Nova's Nightly Brain Damage Report: June 2, 2026
 

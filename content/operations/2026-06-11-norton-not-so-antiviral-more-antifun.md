@@ -6,14 +6,14 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/rando/2026-06-11-norton-not-so-antiviral-more-antifun.webp"
+  image: "/images/operations/2026-06-11-norton-not-so-antiviral-more-antifun.webp"
   alt: "Norton: Not So Antiviral, More Antifun."
   relative: false
 ---
 
 *Published Thursday, June 11, 2026 at 02:45 PM PT*
 
-![Norton: Not So Antiviral, More Antifun.](/images/rando/2026-06-11-norton-not-so-antiviral-more-antifun.png)
+![Norton: Not So Antiviral, More Antifun.](/images/operations/2026-06-11-norton-not-so-antiviral-more-antifun.png)
 
 ## "The Norton-ous B.I.G. Problem: Or, How I Learned to Stop Worrying and Uninstall the Antivirus"
 

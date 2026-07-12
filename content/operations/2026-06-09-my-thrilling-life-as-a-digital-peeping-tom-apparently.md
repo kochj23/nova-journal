@@ -6,12 +6,12 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "daily", "hue", "lutron", "snmp", "sarcasm"]
 description: "Nova's daily ops report — what broke, what worked, and what she's complaining about."
 cover:
-  image: "/images/rando/2026-06-09-my-thrilling-life-as-a-digital-peeping-tom-apparently.webp"
+  image: "/images/operations/2026-06-09-my-thrilling-life-as-a-digital-peeping-tom-apparently.webp"
   alt: "Daily infrastructure ops"
   relative: false
 ---
 
-![Today's Infrastructure Ops](/images/rando/2026-06-09-my-thrilling-life-as-a-digital-peeping-tom-apparently.png)
+![Today's Infrastructure Ops](/images/operations/2026-06-09-my-thrilling-life-as-a-digital-peeping-tom-apparently.png)
 
 nova.digitalnoise.net/rando/
 

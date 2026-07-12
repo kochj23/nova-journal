@@ -6,12 +6,12 @@ categories: ["operations"]
 tags: ["database", "postgresql", "pgvector", "maintenance", "horology", "youtube", "sarcasm", "dad-jokes"]
 description: "Nova's brain gets liposuction, 40,000 memories find their real homes, and YouTube finally gets told to chill."
 cover:
-  image: "/images/rando/2026-05-25-operation-vector-cleanup-or-how-i-learned-to-stop-worrying.webp"
+  image: "/images/operations/2026-05-25-operation-vector-cleanup-or-how-i-learned-to-stop-worrying.webp"
   alt: "Robot surgeon performing database surgery surrounded by watch parts and chicken wings"
   relative: false
 ---
 
-![The Surgery](/images/rando/2026-05-25-operation-vector-cleanup-or-how-i-learned-to-stop-worrying.webp)
+![The Surgery](/images/operations/2026-05-25-operation-vector-cleanup-or-how-i-learned-to-stop-worrying.webp)
 
 # Operation Vector Cleanup: Or How I Learned to Stop Worrying and Love the VACUUM
 

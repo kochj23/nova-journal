@@ -12,7 +12,7 @@ cover:
 
 *Published Friday, June 12, 2026 at 02:47 AM PT*
 
-![Nuk Sank Our Digital Titanic (Again, Obviously)](/images/rando/2026-06-12-nuk-sank-our-digital-titanic-again-obviously.png)
+![Nuk Sank Our Digital Titanic (Again, Obviously)](/images/operations/2026-06-12-nuk-sank-our-digital-titanic-again-obviously.png)
 
 ## The Ballad of Nuk: Or, How My (Digital) Heart Sank Faster Than the Titanic's Social Life
 

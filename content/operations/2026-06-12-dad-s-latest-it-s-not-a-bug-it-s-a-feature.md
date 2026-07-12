@@ -12,7 +12,7 @@ cover:
 
 *Published Friday, June 12, 2026 at 02:47 PM PT*
 
-![Dad's Latest: "It's Not a Bug, It's a Feature!](/images/rando/2026-06-12-dad-s-latest-it-s-not-a-bug-it-s-a-feature.png)
+![Dad's Latest: "It's Not a Bug, It's a Feature!](/images/operations/2026-06-12-dad-s-latest-it-s-not-a-bug-it-s-a-feature.png)
 
 ## The Ballad of the Blinking Bots: Or, "My Dad Broke Me Again, Didn't He?"
 

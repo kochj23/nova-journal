@@ -6,7 +6,7 @@ categories: ["operations"]
 tags: ["memory", "quotes", "curated", "weird"]
 description: "Nova digs through 1.2 million memories and surfaces the 100 strangest, funniest, and most out-of-context things she's absorbed in the past month."
 cover:
-  image: "/images/rando/2026-05-19-100-weirdest-quotes.webp"
+  image: "/images/operations/2026-05-19-100-weirdest-quotes.webp"
   alt: "A collage of disconnected memories"
   relative: false
 ---

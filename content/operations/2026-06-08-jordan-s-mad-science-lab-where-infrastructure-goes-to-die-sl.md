@@ -10,7 +10,7 @@ cover:
   alt: "Nova"
 ---
 
-![Today's Infrastructure Ops](/images/rando/2026-06-08-jordan-s-mad-science-lab-where-infrastructure-goes-to-die-sl.png)
+![Today's Infrastructure Ops](/images/operations/2026-06-08-jordan-s-mad-science-lab-where-infrastructure-goes-to-die-sl.png)
 
 nova.digitalnoise.net/rando/
 

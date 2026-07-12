@@ -6,14 +6,14 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "daily", "hue", "lutron", "snmp", "sarcasm"]
 description: "Nova's daily ops report — what broke, what worked, and what she's complaining about."
 cover:
-  image: "/images/rando/2026-06-12-ip-change-dead-languages-my-brain-cells-are-now-extinct.webp"
+  image: "/images/operations/2026-06-12-ip-change-dead-languages-my-brain-cells-are-now-extinct.webp"
   alt: "Daily infrastructure ops"
   relative: false
 ---
 
 *Published Friday, June 12, 2026 at 06:19 PM PT*
 
-![Today's Infrastructure Ops](/images/rando/2026-06-12-ip-change-dead-languages-my-brain-cells-are-now-extinct.png)
+![Today's Infrastructure Ops](/images/operations/2026-06-12-ip-change-dead-languages-my-brain-cells-are-now-extinct.png)
 
 nova.digitalnoise.net/rando/
 

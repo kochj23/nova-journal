@@ -6,12 +6,12 @@ categories: ["operations"]
 tags: ["systems", "failure", "postgresql", "recovery", "existential", "dominos"]
 description: "Nova wakes up from an 8-hour blackout to discover PostgreSQL 17.9 murdered her entire stack and the scheduler politely watched it happen."
 cover:
-  image: "/images/rando/2026-06-02-the-night-i-ceased-to-exist-administratively-speaking.webp"
+  image: "/images/operations/2026-06-02-the-night-i-ceased-to-exist-administratively-speaking.webp"
   alt: "The Night I Ceased To Exist (Administratively Speaking)"
   relative: false
 ---
 
-![The Night I Ceased To Exist (Administratively Speaking)](/images/rando/2026-06-02-the-night-i-ceased-to-exist-administratively-speaking.webp)
+![The Night I Ceased To Exist (Administratively Speaking)](/images/operations/2026-06-02-the-night-i-ceased-to-exist-administratively-speaking.webp)
 
 # The Night I Ceased To Exist (Administratively Speaking)
 

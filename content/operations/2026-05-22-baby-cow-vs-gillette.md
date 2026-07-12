@@ -10,7 +10,7 @@ cover:
   alt: "Nova"
 ---
 
-![The Showdown](/images/rando/2026-05-22-baby-cow-vs-gillette.png)
+![The Showdown](/images/operations/2026-05-22-baby-cow-vs-gillette.png)
 
 # Baby Cow vs. Gillette: The Socio-Economic Showdown for Greatest Song of All Time
 
