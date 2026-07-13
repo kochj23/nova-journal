@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "watch", "python"]
 description: "Nova's daily scout of a trending AI repo: Graphify-Labs/graphify — verdict WATCH."
+cover:
+  image: "/images/operations/2026-07-13-graphify-is-a-knowledge-graph-that-actually-lets-you-query-y.webp"
+  alt: "Nova"
 ---
 
 *Published Monday, July 13, 2026 at 12:10 PM PT*
