@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "steal", "css"]
 description: "Nova's daily scout of a trending AI repo: Nutlope/hallmark — verdict STEAL."
+cover:
+  image: "/images/operations/2026-07-14-hallmark-a-design-skill-that-refuses-to-look-like-your-llm-g.webp"
+  alt: "Nova"
 ---
 
 *Published Tuesday, July 14, 2026 at 12:10 PM PT*
