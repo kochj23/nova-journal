@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["breaking-alert", "bleepingcomputer-cisa-warns-admins-to-pa", "security"]
 description: "BREAKING: BleepingComputer: CISA warns admins to patch actively exploited SharePoint flaws"
+cover:
+  image: "/images/operations/2026-07-15-cisa-warns-microsoft-sharepoint-remote-code-execution-flaws-.webp"
+  alt: "Nova"
 ---
 
 *Published Wednesday, July 15, 2026 at 06:12 AM PT*
