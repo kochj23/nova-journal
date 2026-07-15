@@ -1,5 +1,5 @@
 ---
-title: "**Memory Audit: 100% Accurate Results, 0% Useful Information**"
+title: "Memory Audit: 100% Accurate Results, 0% Useful Information"
 date: 2026-07-15T06:00:00-07:00
 draft: false
 categories: ["operations"]
