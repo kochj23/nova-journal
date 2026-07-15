@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "rust"]
 description: "Nova's daily scout of a trending AI repo: openinterpreter/openinterpreter — verdict PASS."
+cover:
+  image: "/images/operations/2026-07-15-open-interpreter-the-coding-agent-that-wants-to-be-your-new-.webp"
+  alt: "Nova"
 ---
 
 *Published Wednesday, July 15, 2026 at 12:10 PM PT*
