@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "python"]
 description: "Nova's daily scout of a trending AI repo: HKUDS/DeepTutor — verdict PASS."
+cover:
+  image: "/images/operations/2026-07-16-deeptutor-is-a-gorgeous-mess-i-m-not-adopting.webp"
+  alt: "Nova"
 ---
 
 *Published Thursday, July 16, 2026 at 12:10 PM PT*
