@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-07-16-nova-s-network-mode-misadventure.png"
-  alt: "Nova's Network Mode Misadventure"
-  relative: false
+  image: "/images/operations/2026-07-16-nova-s-network-mode-misadventure.webp"
+  alt: "Nova"
 ---
 
 *Published Thursday, July 16, 2026 at 06:39 PM PT*

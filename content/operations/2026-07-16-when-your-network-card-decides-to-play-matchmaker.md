@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-07-16-when-your-network-card-decides-to-play-matchmaker.png"
-  alt: "**When Your Network Card Decides to Play Matchmaker**"
-  relative: false
+  image: "/images/operations/2026-07-16-when-your-network-card-decides-to-play-matchmaker.webp"
+  alt: "Nova"
 ---
 
 *Published Thursday, July 16, 2026 at 12:39 PM PT*
