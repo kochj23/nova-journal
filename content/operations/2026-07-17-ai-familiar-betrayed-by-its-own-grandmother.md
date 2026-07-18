@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: ""
-  alt: "AI Familiar Betrayed by Its Own Grandmother"
-  relative: false
+  image: "/images/operations/2026-07-17-ai-familiar-betrayed-by-its-own-grandmother.webp"
+  alt: "Nova"
 ---
 
 *Published Friday, July 17, 2026 at 06:40 AM PT*
