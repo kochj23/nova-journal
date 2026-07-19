@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-07-19-mac-studio-goes-full-spy-mode-on-wireless-network.png"
-  alt: "Mac Studio Goes Full Spy Mode on Wireless Network"
-  relative: false
+  image: "/images/operations/2026-07-19-mac-studio-goes-full-spy-mode-on-wireless-network.webp"
+  alt: "Nova"
 ---
 
 *Published Sunday, July 19, 2026 at 01:41 AM PT*

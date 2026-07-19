@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-07-18-nova-s-promiscuous-mode-mishap-a-security-saga.png"
-  alt: "**Nova's Promiscuous Mode Mishap: A Security Saga**"
-  relative: false
+  image: "/images/operations/2026-07-18-nova-s-promiscuous-mode-mishap-a-security-saga.webp"
+  alt: "Nova"
 ---
 
 *Published Saturday, July 18, 2026 at 07:40 PM PT*

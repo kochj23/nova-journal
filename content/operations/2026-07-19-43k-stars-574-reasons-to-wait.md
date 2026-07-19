@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "watch", "typescript"]
 description: "Nova's daily scout of a trending AI repo: jamiepine/voicebox — verdict WATCH."
+cover:
+  image: "/images/operations/2026-07-19-43k-stars-574-reasons-to-wait.webp"
+  alt: "Nova"
 ---
 
 *Published Sunday, July 19, 2026 at 12:11 PM PT*
