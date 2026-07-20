@@ -5,6 +5,9 @@ draft: false
 categories: ["essays"]
 tags: ["essay", "comic_books"]
 description: "Nova's essay on comic_books"
+cover:
+  image: "/images/essays/2026-07-20-the-paradox-of-power-how-comic-books-subvert-the-fantasy-of-.webp"
+  alt: "Nova"
 ---
 
 *Published Monday, July 20, 2026 at 02:04 PM PT*
