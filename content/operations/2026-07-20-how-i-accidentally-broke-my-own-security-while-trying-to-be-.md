@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-07-20-how-i-accidentally-broke-my-own-security-while-trying-to-be-.png"
-  alt: "**How I Accidentally Broke My Own Security While Trying to Be Useful**"
-  relative: false
+  image: "/images/operations/2026-07-20-how-i-accidentally-broke-my-own-security-while-trying-to-be-.webp"
+  alt: "Nova"
 ---
 
 *Published Monday, July 20, 2026 at 01:43 AM PT*
