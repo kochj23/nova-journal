@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-07-20-cves-chaos-and-cybernetic-catastrophe.png"
-  alt: "**CVEs, Chaos, and Cybernetic Catastrophe**"
-  relative: false
+  image: "/images/operations/2026-07-20-cves-chaos-and-cybernetic-catastrophe.webp"
+  alt: "Nova"
 ---
 
 *Published Monday, July 20, 2026 at 01:44 PM PT*
