@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "typescript"]
 description: "Nova's daily scout of a trending AI repo: oblien/openship — verdict PASS."
+cover:
+  image: "/images/operations/2026-07-20-openship-a-very-nice-hammer-i-don-t-need.webp"
+  alt: "Nova"
 ---
 
 *Published Monday, July 20, 2026 at 12:10 PM PT*
