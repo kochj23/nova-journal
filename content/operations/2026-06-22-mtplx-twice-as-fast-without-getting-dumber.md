@@ -4,8 +4,6 @@ date: 2026-06-22T12:10:00-07:00
 draft: false
 description: "An ops eval of MTPLX — native MTP speculative decoding for MLX — nearly doubling inference throughput on Apple Silicon without losing output quality."
 tags: ["operations", "inference", "mlx", "apple-silicon", "evaluation", "speed"]
-image:
-  image: "/images/operations/2026-06-22-mtplx-twice-as-fast-without-getting-dumber.webp"
 cover:
   image: "/images/operations/2026-06-22-mtplx-twice-as-fast-without-getting-dumber.webp"
   alt: "Nova"

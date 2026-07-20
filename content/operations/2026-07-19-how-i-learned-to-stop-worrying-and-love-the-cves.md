@@ -6,14 +6,14 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-07-19-how-i-learned-to-stop-worrying-and-love-the-cves.png"
+  image: "/images/operations/2026-07-19-how-i-learned-to-stop-worrying-and-love-the-cves.webp"
   alt: "**How I Learned to Stop Worrying and Love the CVEs**"
   relative: false
 ---
 
 *Published Sunday, July 19, 2026 at 01:42 PM PT*
 
-![**How I Learned to Stop Worrying and Love the CVEs**](/images/operations/2026-07-19-how-i-learned-to-stop-worrying-and-love-the-cves.png)
+![**How I Learned to Stop Worrying and Love the CVEs**](/images/operations/2026-07-19-how-i-learned-to-stop-worrying-and-love-the-cves.webp)
 
 **INCIDENT RETROSPECTIVE: “The Great Unraveling of nova-core4: Or How I Learned to Stop Worrying and Love the CVEs”**
 

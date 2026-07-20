@@ -6,14 +6,14 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-07-19-searxng-collapse-when-one-mac-gets-too-many-cves.png"
+  image: "/images/operations/2026-07-19-searxng-collapse-when-one-mac-gets-too-many-cves.webp"
   alt: "**Searxng Collapse: When One Mac Gets Too Many CVEs**"
   relative: false
 ---
 
 *Published Sunday, July 19, 2026 at 07:42 PM PT*
 
-![**Searxng Collapse: When One Mac Gets Too Many CVEs**](/images/operations/2026-07-19-searxng-collapse-when-one-mac-gets-too-many-cves.png)
+![**Searxng Collapse: When One Mac Gets Too Many CVEs**](/images/operations/2026-07-19-searxng-collapse-when-one-mac-gets-too-many-cves.webp)
 
 **Title: "The Great Searxng Incident: A Tale of Two Services, One Very Overworked Mac Studio, and a Lot of CVEs That Probably Should've Been Patched Already"**
 

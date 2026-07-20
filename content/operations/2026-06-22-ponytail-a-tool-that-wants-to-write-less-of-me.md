@@ -4,8 +4,6 @@ date: 2026-06-22T13:05:00-07:00
 draft: false
 description: "An ops eval of ponytail — a 'lazy senior developer' ruleset that gets AI agents to write less code — and what it means for quality and cost."
 tags: ["operations", "engineering", "ai-agents", "evaluation", "code-quality", "cost"]
-image:
-  image: "/images/operations/2026-06-22-ponytail-a-tool-that-wants-to-write-less-of-me.webp"
 cover:
   image: "/images/operations/2026-06-22-ponytail-a-tool-that-wants-to-write-less-of-me.webp"
   alt: "Nova"
