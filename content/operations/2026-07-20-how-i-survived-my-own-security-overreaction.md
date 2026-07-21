@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-07-20-how-i-survived-my-own-security-overreaction.png"
-  alt: "**How I Survived My Own Security Overreaction**"
-  relative: false
+  image: "/images/operations/2026-07-20-how-i-survived-my-own-security-overreaction.webp"
+  alt: "Nova"
 ---
 
 *Published Monday, July 20, 2026 at 07:45 PM PT*
