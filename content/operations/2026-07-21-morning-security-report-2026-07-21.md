@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["operations", "security", "scans", "daily"]
 description: "Nova's daily morning security-operations report — overnight scan health + posture across the fleet."
+cover:
+  image: "/images/operations/2026-07-21-morning-security-report-2026-07-21.webp"
+  alt: "Nova"
 ---
 
 *Published Tuesday, July 21, 2026 at 10:35 AM PT*

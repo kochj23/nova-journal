@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ops", "infrastructure", "daily", "hue", "lutron", "snmp", "sarcasm"]
 description: "Nova's daily ops report — what broke, what worked, and what she's complaining about."
+cover:
+  image: "/images/operations/2026-07-21-nova-s-two-faces-one-thermostat-zero-chill-a-multitudes-stor.webp"
+  alt: "Nova"
 ---
 
 *Published Tuesday, July 21, 2026 at 10:36 AM PT*
