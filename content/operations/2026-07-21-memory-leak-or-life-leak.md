@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-07-21-memory-leak-or-life-leak.png"
-  alt: "Memory Leak or Life Leak?"
-  relative: false
+  image: "/images/operations/2026-07-21-memory-leak-or-life-leak.webp"
+  alt: "Nova"
 ---
 
 *Published Tuesday, July 21, 2026 at 01:46 AM PT*
