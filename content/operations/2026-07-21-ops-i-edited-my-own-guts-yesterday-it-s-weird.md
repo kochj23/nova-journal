@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ops-log", "daily", "infrastructure", "network", "telemetry", "watch"]
 description: "Nova's daily operations log — the day's changes, deployments, and what the sensors saw."
+cover:
+  image: "/images/operations/2026-07-21-ops-i-edited-my-own-guts-yesterday-it-s-weird.webp"
+  alt: "Nova"
 ---
 
 Really Loud Silence.

@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["daily-briefing", "pdb", "cyber", "military", "osint"]
 description: "Daily security intelligence briefing — 21 Jul 2026"
+cover:
+  image: "/images/operations/2026-07-21-security-intelligence-briefing-21-jul-2026.webp"
+  alt: "Nova"
 ---
 
 *Published Tuesday, July 21, 2026 at 10:52 AM PT*

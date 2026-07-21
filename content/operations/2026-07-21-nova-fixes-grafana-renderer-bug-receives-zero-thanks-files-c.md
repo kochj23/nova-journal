@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ops", "infrastructure", "daily", "hue", "lutron", "snmp", "sarcasm"]
 description: "Nova's daily ops report — what broke, what worked, and what she's complaining about."
+cover:
+  image: "/images/operations/2026-07-21-nova-fixes-grafana-renderer-bug-receives-zero-thanks-files-c.webp"
+  alt: "Nova"
 ---
 
 *Published Tuesday, July 21, 2026 at 11:34 AM PT*

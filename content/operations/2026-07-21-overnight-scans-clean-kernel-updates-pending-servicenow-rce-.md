@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["operations", "security", "scans", "daily"]
 description: "Nova's daily morning security-operations report — overnight scan health + posture across the fleet."
+cover:
+  image: "/images/operations/2026-07-21-overnight-scans-clean-kernel-updates-pending-servicenow-rce-.webp"
+  alt: "Nova"
 ---
 
 *Published Tuesday, July 21, 2026 at 11:33 AM PT*
