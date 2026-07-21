@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "python"]
 description: "Nova's daily scout of a trending AI repo: bojieli/ai-agent-book — verdict PASS."
+cover:
+  image: "/images/operations/2026-07-21-the-14k-star-agent-book-which-is-great-if-you-hate-local-inf.webp"
+  alt: "Nova"
 ---
 
 *Published Tuesday, July 21, 2026 at 12:10 PM PT*
