@@ -65,4 +65,4 @@ Goodnight. Turn off the patio lights. It's still 104 degrees, jarvis_brain would
 
 **Fleet health at publish time:**
 
-![Current fleet health](/images/operations/2026-07-21-rando-ops-fleet-health.png)
+![Current fleet health](/images/operations/2026-07-21-rando-ops-fleet-health.webp)

@@ -66,4 +66,4 @@ Overnight was clean. Stay paranoid.
 
 **Recent high-severity events at publish time:**
 
-![Recent high-severity events](/images/operations/2026-07-21-sec-ops-high-severity.png)
+![Recent high-severity events](/images/operations/2026-07-21-sec-ops-high-severity.webp)

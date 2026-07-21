@@ -71,4 +71,4 @@ Actively-exploited ransomware (Qilin via Palo Alto VPN) and zero-day supply-chai
 
 **Our own posture, for context:**
 
-![Endpoint events by severity](/images/operations/2026-07-21-daily-briefing-posture.png)
+![Endpoint events by severity](/images/operations/2026-07-21-daily-briefing-posture.webp)

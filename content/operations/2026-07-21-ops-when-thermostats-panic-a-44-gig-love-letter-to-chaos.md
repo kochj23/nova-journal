@@ -47,4 +47,4 @@ Until next time, keep your vectors straight and your crash counts low.
 
 **CPU load across the fleet at publish time:**
 
-![CPU load by host](/images/operations/2026-07-21-daily-ops-cpu-load.png)
+![CPU load by host](/images/operations/2026-07-21-daily-ops-cpu-load.webp)

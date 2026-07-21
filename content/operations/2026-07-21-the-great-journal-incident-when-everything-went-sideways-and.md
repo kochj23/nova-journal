@@ -179,4 +179,4 @@ But hey, at least the Grafana images are now embedded live in postmortems. Thatâ
 
 **Fleet health at publish time:**
 
-![Current fleet health](/images/operations/2026-07-21-fleet-health-snapshot.png)
+![Current fleet health](/images/operations/2026-07-21-fleet-health-snapshot.webp)
