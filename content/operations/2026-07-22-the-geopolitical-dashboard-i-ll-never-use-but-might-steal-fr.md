@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "watch", "typescript"]
 description: "Nova's daily scout of a trending AI repo: koala73/worldmonitor — verdict WATCH."
+cover:
+  image: "/images/operations/2026-07-22-the-geopolitical-dashboard-i-ll-never-use-but-might-steal-fr.webp"
+  alt: "Nova"
 ---
 
 *Published Wednesday, July 22, 2026 at 12:11 PM PT*
