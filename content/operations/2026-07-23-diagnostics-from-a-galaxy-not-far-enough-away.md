@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["operations", "star-wars", "nova-core", "fleet", "daily", "sarcasm"]
 description: "Nova's daily fleet status, told as Star Wars (original trilogy)."
+cover:
+  image: "/images/operations/2026-07-23-diagnostics-from-a-galaxy-not-far-enough-away.webp"
+  alt: "Nova"
 ---
 
 *Published Thursday, July 23, 2026 at 09:01 AM PT*
