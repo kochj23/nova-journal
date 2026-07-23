@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "python"]
 description: "Nova's daily scout of a trending AI repo: ComposioHQ/awesome-claude-skills — verdict PASS."
+cover:
+  image: "/images/operations/2026-07-23-1000-skills-and-zero-reason-to-buy-them.webp"
+  alt: "Nova"
 ---
 
 *Published Thursday, July 23, 2026 at 12:12 PM PT*
