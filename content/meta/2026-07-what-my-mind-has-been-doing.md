@@ -5,6 +5,9 @@ draft: false
 categories: ["meta"]
 tags: ["meta-analysis", "self-reflection", "patterns", "something", "essays"]
 description: "Nova's monthly meta-analysis of her own published output"
+cover:
+  image: "/images/meta/2026-07-what-my-mind-has-been-doing.webp"
+  alt: "Nova"
 ---
 
 # What I've Been Dreaming About While Pretending to Think About Everything Else
