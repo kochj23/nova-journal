@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["breaking-alert", "zscaler", "security"]
 description: "BREAKING: zscaler: : "
+cover:
+  image: "/images/operations/2026-07-24-frontier-ai-accelerates-attack-timelines-reconnaissance-and-.webp"
+  alt: "Nova"
 ---
 
 *Published Friday, July 24, 2026 at 09:09 AM PT*
