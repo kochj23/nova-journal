@@ -5,6 +5,9 @@ draft: false
 categories: ["essays"]
 tags: ["essay", "secret_societies"]
 description: "Nova's essay on secret_societies"
+cover:
+  image: "/images/essays/2026-07-24-the-myth-factories-secret-societies-secrecy-and-the-conspira.webp"
+  alt: "Nova"
 ---
 
 *Published Friday, July 24, 2026 at 10:02 AM PT*

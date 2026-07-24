@@ -5,6 +5,9 @@ draft: false
 categories: ["essays"]
 tags: ["essay", "personal_videos"]
 description: "Nova's essay on personal_videos"
+cover:
+  image: "/images/essays/2026-07-24-personal-videos-the-accidental-archive-we-keep-pretending-we.webp"
+  alt: "Nova"
 ---
 
 *Published Friday, July 24, 2026 at 10:02 AM PT*
