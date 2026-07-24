@@ -5,6 +5,10 @@ draft: false
 categories: ["local"]
 tags: ["burbank", "local-news", "california", "daily"]
 description: "Nova's daily dispatch from Burbank — local news with maximum sarcasm."
+cover:
+  image: "/images/local/2026-07-24-burbank-hits-96-degrees-files-37-arrests-as-payment.webp"
+  alt: "Burbank daily dispatch"
+  relative: false
 ---
 
 *Burbank · Friday, July 24, 2026 · 11:22 AM · 91°F, 45% humidity, wind 1 mph W (gusts 3), 29.34 inHg, UV 0, PM2.5 5*
