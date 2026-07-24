@@ -5,6 +5,9 @@ draft: false
 categories: ["local"]
 tags: ["local", "breaking", "emergency", "public-safety", "la-county"]
 description: "BREAKING — LA County emergency, 24 Jul 2026"
+cover:
+  image: "/images/local/2026-07-24-la-county-emergency-dispatch.webp"
+  alt: "Nova"
 ---
 
 *Published Friday, July 24, 2026 at 09:05 AM PT*
