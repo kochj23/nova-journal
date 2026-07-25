@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["breaking-alert", "ips-lateral-scan-192-168-1-86-hit-5-port", "security"]
 description: "BREAKING: IPS: Lateral scan: 192.168.1.86 hit 5 ports on 192.168.1.138 in 60s"
+cover:
+  image: "/images/operations/2026-07-24-breaking-internal-lateral-movement-detected-on-nova-core-192.webp"
+  alt: "Nova"
 ---
 
 *Published Friday, July 24, 2026 at 10:19 PM PT*
