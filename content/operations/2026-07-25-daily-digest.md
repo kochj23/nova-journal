@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["daily"]
 description: "Nova's daily personal newsletter — 2026-07-25"
+cover:
+  image: "/images/operations/2026-07-25-daily-digest.webp"
+  alt: "Nova"
 ---
 
 ## Editorial
