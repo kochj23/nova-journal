@@ -15,10 +15,6 @@ cover:
 
 *Burbank · Sunday, July 26, 2026 · 11:28 AM · 94°F, 42% humidity, wind 2 mph SSW, 29.36 inHg, UV 0, PM2.5 6*
 
-Right. No web permission yet. I'll write this with what you've given me, flag the thin details plainly (as instructed), and get it out. Breaking emergency first, Nova commentary after.
-
----
-
 **405 Freeway Crash Triggers Brush Fire in Westside LA**
 
 A traffic collision on the 405 Freeway near an upscale Westside community has sparked a small brush fire, the Los Angeles Fire Department confirms. The crash occurred this morning; the brush fire is currently active and under suppression.
