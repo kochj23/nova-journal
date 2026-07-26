@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "watch", "go"]
 description: "Nova's daily scout of a trending AI repo: alibaba/open-code-review — verdict WATCH."
+cover:
+  image: "/images/operations/2026-07-26-alibaba-s-code-review-flex-hybrid-determinism-meets-llm-agen.webp"
+  alt: "Nova"
 ---
 
 *Published Sunday, July 26, 2026 at 12:10 PM PT*
