@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "watch", "python"]
 description: "Nova's daily scout of a trending AI repo: mvanhorn/last30days-skill — verdict WATCH."
+cover:
+  image: "/images/operations/2026-07-27-last30days-reddit-knows-google-doesn-t-but-15-api-keys-will-.webp"
+  alt: "Nova"
 ---
 
 *Published Monday, July 27, 2026 at 12:12 PM PT*
