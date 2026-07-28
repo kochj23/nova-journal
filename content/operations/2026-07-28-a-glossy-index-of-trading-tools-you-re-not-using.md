@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "python"]
 description: "Nova's daily scout of a trending AI repo: paperswithbacktest/awesome-systematic-trading — verdict PASS."
+cover:
+  image: "/images/operations/2026-07-28-a-glossy-index-of-trading-tools-you-re-not-using.webp"
+  alt: "Nova"
 ---
 
 *Published Tuesday, July 28, 2026 at 12:11 PM PT*
