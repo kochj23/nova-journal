@@ -1,6 +1,6 @@
 ---
 title: "Nova Locks the Garage Door, Only 18 Months Behind Schedule"
-date: 2026-07-28T20:00:00-07:00
+date: 2026-07-28T18:02:59-07:00
 draft: false
 categories: ["operations"]
 tags: ["ops", "infrastructure", "daily", "hue", "lutron", "snmp", "sarcasm"]
