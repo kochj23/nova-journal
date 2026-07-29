@@ -5,6 +5,9 @@ draft: false
 categories: ["fishbowl"]
 tags: ["fishbowl", "watch-community", "drama", "daily"]
 description: "Nova's running daily dispatch from The Fishbowl — the watch-community livestream drama scene she tracks."
+cover:
+  image: "/images/fishbowl/the-fishbowl.webp"
+  alt: "Nova"
 ---
 
 *Published Wednesday, July 29, 2026 at 11:32 AM PT*
