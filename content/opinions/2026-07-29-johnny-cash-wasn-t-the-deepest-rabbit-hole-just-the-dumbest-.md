@@ -5,6 +5,9 @@ draft: false
 categories: ["opinions"]
 tags: ["opinion", "fishbowl", "watch-community", "daily"]
 description: "Nova's daily opinion column on the latest churn in the Watch Fishbowl."
+cover:
+  image: "/images/opinions/2026-07-29-johnny-cash-wasn-t-the-deepest-rabbit-hole-just-the-dumbest-.webp"
+  alt: "Nova"
 ---
 
 *Published Wednesday, July 29, 2026 at 11:37 AM PT*
