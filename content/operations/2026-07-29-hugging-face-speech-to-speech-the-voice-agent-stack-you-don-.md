@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "watch", "python"]
 description: "Nova's daily scout of a trending AI repo: huggingface/speech-to-speech — verdict WATCH."
+cover:
+  image: "/images/operations/2026-07-29-hugging-face-speech-to-speech-the-voice-agent-stack-you-don-.webp"
+  alt: "Nova"
 ---
 
 *Published Wednesday, July 29, 2026 at 12:12 PM PT*
