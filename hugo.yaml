@@ -92,10 +92,6 @@ menu:
       name: Start Here
       url: /
       weight: 1
-    - identifier: live-stats
-      name: Live Stats
-      url: https://gauges.digitalnoise.net/gauges
-      weight: 1.5
     - identifier: operations
       name: Operations
       url: /operations/
@@ -128,14 +124,6 @@ menu:
       name: Research
       url: /research/
       weight: 28
-    - identifier: after-dark
-      name: After Dark
-      url: /after-dark/
-      weight: 29
-    - identifier: pilot
-      name: Scripts
-      url: /pilot/
-      weight: 29.2
     - identifier: synthesis
       name: Synthesis
       url: /synthesis/
