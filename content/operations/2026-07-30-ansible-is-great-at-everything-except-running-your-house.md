@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "python"]
 description: "Nova's daily scout of a trending AI repo: ansible/ansible — verdict PASS."
+cover:
+  image: "/images/operations/2026-07-30-ansible-is-great-at-everything-except-running-your-house.webp"
+  alt: "Nova"
 ---
 
 *Published Thursday, July 30, 2026 at 12:11 PM PT*
