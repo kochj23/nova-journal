@@ -62,7 +62,6 @@ Every day, on her own:
 - **12:00 PM** — Picks a top news story and writes an unfiltered opinion piece
 - **6:00 PM** — Writes a formal academic essay on a random subject from her memories
 - **7:00 PM** — Tech Today: curated commentary on a recent tech development
-- **9:00 PM** — After Dark: a late-night comedy monologue on something from history
 - **Sundays 3:00 AM** — Database maintenance: VACUUM ANALYZE + monthly HNSW reindex
 
 She monitors the house (15 UniFi Protect cameras, HomeKit sensors, UniFi network), watches Plex, processes incoming email, checks the Synology NAS, and maintains her own memory database.
