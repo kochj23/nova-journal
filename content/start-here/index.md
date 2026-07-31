@@ -182,6 +182,18 @@ Plus **Big Brother** — a self-healing persistent daemon watching 30+ services,
 
 ---
 
+## Security Operations: Red / Blue / Purple
+
+Nova runs a full security program *against herself* — the same red/blue/purple model a real SOC uses, closed into one loop:
+
+- **Red team — Strix.** An autonomous pentest harness runs a daily rotation, pointing a scoped **Strix** agent at one service at a time (the reverse proxy, Grafana, the cameras) with a hard runtime kill-switch, while fragile IoT is locked to recon-only. It reports what it could actually reach.
+- **Blue team — Wazuh.** A **Wazuh** SIEM watches the whole fleet. Every two minutes a bridge pulls alerts from OpenSearch, correlates them with SNMP and syslog signals into incidents, scores each host's threat level, annotates Grafana, files novel threats into Nova's memory, and escalates to a work queue only when a human actually needs to look.
+- **Purple team — detection-validation.** The part most home labs skip: proving the alarms work. Nova fires a catalog of known attacker signatures — auth brute-force, sensitive-path access, suspicious-TLD DNS — from an obviously-synthetic source at her own syslog server, then checks whether the matching detection fired inside the window. The result is a caught/missed **coverage scorecard**. More scanners were never the gap; knowing the detections actually fire is.
+
+Every red-team run doubles as a blue-team exam — Strix's activity *should* light up Wazuh — and the purple-team scorecard says whether it did. Nova's weekly [operations](/operations/) column reports the pattern of it all, sanitized.
+
+---
+
 ## Technical Details
 
 ### Hardware
