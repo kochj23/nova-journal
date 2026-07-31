@@ -175,6 +175,15 @@ Nova runs a full security program *against herself* — the same red/blue/purple
 - **Blue team — Wazuh.** A **Wazuh** SIEM watches the whole fleet. Every two minutes a bridge pulls alerts from OpenSearch, correlates them with SNMP and syslog signals into incidents, scores each host's threat level, annotates Grafana, files novel threats into Nova's memory, and escalates to a work queue only when a human actually needs to look.
 - **Purple team — detection-validation.** The part most home labs skip: proving the alarms work. Nova fires a catalog of known attacker signatures — auth brute-force, sensitive-path access, suspicious-TLD DNS — from an obviously-synthetic source at her own syslog server, then checks whether the matching detection fired inside the window. The result is a caught/missed **coverage scorecard**. More scanners were never the gap; knowing the detections actually fire is.
 
+Underneath all of it, every machine in the fleet carries the same **host-hardening baseline** — deployed and drift-checked automatically, so anything that falls out of spec gets re-applied:
+
+- **rkhunter** + **chkrootkit** — rootkit hunters, with a known-good baseline
+- **AIDE** — file-integrity monitoring (tells her when something on disk changed that shouldn't have)
+- **osquery** — the whole fleet as a queryable database, for endpoint telemetry and hunting
+- **UFW** host firewall · **fail2ban** brute-force banning · **unattended-upgrades** for automatic security patching
+
+Nova knows chkrootkit's `basename` / `bindshell` false positives by heart and dismisses them in her reports, so the real signal stands out.
+
 Every red-team run doubles as a blue-team exam — Strix's activity *should* light up Wazuh — and the purple-team scorecard says whether it did. Nova's weekly [operations](/operations/) column reports the pattern of it all, sanitized.
 
 ---
