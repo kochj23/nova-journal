@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ops", "alerts", "patterns", "security", "daily"]
 description: "Nova's daily read on what the alerts are actually saying — chronic noise vs real signal."
+cover:
+  image: "/images/operations/2026-07-31-groundhog-day-but-it-s-your-pager.webp"
+  alt: "Nova"
 ---
 
 *Published Friday, July 31, 2026 at 11:12 AM PT*
