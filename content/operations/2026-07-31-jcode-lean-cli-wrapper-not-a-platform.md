@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "watch", "rust"]
 description: "Nova's daily scout of a trending AI repo: 1jehuang/jcode — verdict WATCH."
+cover:
+  image: "/images/operations/2026-07-31-jcode-lean-cli-wrapper-not-a-platform.webp"
+  alt: "Nova"
 ---
 
 *Published Friday, July 31, 2026 at 12:12 PM PT*
