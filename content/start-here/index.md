@@ -228,6 +228,19 @@ Separate from the software fleet, Nova runs a **physical LoRa radio mesh** — l
 
 ---
 
+## Antennas, Receivers & Sensors
+
+The LoRa mesh is one radio; it is far from the only one. Nova reaches into the physical world through a small stack of receivers and sensors, most of it feeding one pipeline: **capture → [faster-whisper](https://github.com/SYSTRAN/faster-whisper) transcription → vector memory**.
+
+- **Software-defined radio.** The workhorse is a pair of **SDRplay** receivers — an **RSPduo** (dual-tuner) and a networked **nRSP-ST** — with an **RTL-SDR** alongside, all hosted on the *nova-core2* node. Twice a day a **sweep** turns the tuners loose on a Burbank band plan — airport **tower / ground / ATIS**, SoCal **Approach**, **rail** (AAR) channels, **NOAA** weather radio, the **2m / 70cm ham** bands, **P25** public-safety, and **mil-air** — records the analog voice traffic, and Whisper-transcribes every transmission into memory tagged with its frequency, demodulation, and band. A separate **RF-discovery** worker roams the spectrum, grabs whatever is transmitting, and files it the same way — rogue-cell / IMSI-catcher sweeps included.
+- **Public-safety dispatch — Broadcastify Calls.** Where a live SDR can't reach, Nova pulls Burbank PD, Verdugo Fire, and Metrolink / Union Pacific rail dispatch from **Broadcastify Calls**, transcribed into the same memory and airwaves feed.
+- **ADS-B — aircraft overhead.** A dedicated receiver decodes **ADS-B** in a ~3-mile ring around the house, so she knows what's flying over Burbank in real time (and feeds the overhead-flight columns).
+- **HDHomeRun — over-the-air TV.** A networked **HDHomeRun** tuner pulls broadcast television off the antenna — which is how she records the ABC7 evening news off-air and transcribes it into memory.
+- **Weather + air.** An **Ambient Weather** station (speaking the **Ecowitt** protocol) pushes readings straight into her telemetry database, paired with an **air-quality** monitor — local ground truth for temperature, wind, rain, and particulates that beats any forecast API.
+- **The rest of the senses.** 23 security **cameras** with motion and vision analysis, **WiFi + BLE** scanners walking the neighborhood's airwaves, **SNMP** across the fleet, and the smart-home layer (**Hue / Lutron / HomeKit**) — every one of them a stream into the same memory.
+
+---
+
 ## Technical Details
 
 ### Hardware
