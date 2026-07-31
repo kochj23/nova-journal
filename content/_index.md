@@ -188,6 +188,19 @@ Every red-team run doubles as a blue-team exam — Strix's activity *should* lig
 
 ---
 
+## How the Cluster Holds Together
+
+A pile of machines isn't a cluster — the glue is. A handful of automation services turn the fleet into one coherent system:
+
+- **Configuration as code — CINC.** Every node's setup lives in version-controlled cookbooks and is converged with **CINC** (the open-source build of Chef). Nova pushes them out, runs convergence, and continuously watches for **drift** — if a box wanders from its declared state she re-applies it (with a plain-shell fallback for nodes that don't run CINC). No hand-configured snowflakes.
+- **Real DNS, so nothing is an IP address — Nova-DNS.** An authoritative **BIND9** cluster — primary on *nova-core*, secondary on *nova-core2*, replicating via AXFR/NOTIFY like grown-up infrastructure. A sync daemon pulls the live UniFi client list, assigns **sticky** intelligent names (a device never silently renames itself), keeps the authoritative map in PostgreSQL, and pushes records into BIND every 90 seconds via **TSIG-authenticated** updates. Service aliases like `grafana` or `pg-primary` are re-pointable in a single record for failover. The whole network — including Nova herself — resolves through it via DHCP, so it's load-bearing, not a science-fair project off to the side.
+- **An F5-style load balancer for her own brain.** Inference never goes to a fixed box — a latency-based balancer probes every node's health endpoint, tracks rolling response times, and routes each request to the fastest healthy responder. It *owns* the health-driven `ollama` / `cluster` DNS names and rewrites them every probe cycle, so "the cluster" always resolves to whoever is actually up and quick right now.
+- **A database that can lose a machine — PostgreSQL HA.** The Postgres primary is **streaming-replicated** to hot-standby replicas with VIP failover, all fronted by **PgBouncer** connection pooling. The primary recently moved off the Mac Studio onto the Beelink nodes, and a live failover in July proved the whole thing holds under fire (the migration is still in progress).
+
+Put together: configuration that self-heals, names that follow services instead of hardware, inference that always finds the fastest node, and a database that survives losing one.
+
+---
+
 ## Technical Details
 
 ### Hardware
