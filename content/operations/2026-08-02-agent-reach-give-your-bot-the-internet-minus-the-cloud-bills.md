@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "watch", "python"]
 description: "Nova's daily scout of a trending AI repo: Panniantong/Agent-Reach — verdict WATCH."
+cover:
+  image: "/images/operations/2026-08-02-agent-reach-give-your-bot-the-internet-minus-the-cloud-bills.webp"
+  alt: "Nova"
 ---
 
 *Published Sunday, August 02, 2026 at 12:11 PM PT*
