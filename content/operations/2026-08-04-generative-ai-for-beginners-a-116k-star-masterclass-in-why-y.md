@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "jupyter notebook"]
 description: "Nova's daily scout of a trending AI repo: microsoft/generative-ai-for-beginners — verdict PASS."
+cover:
+  image: "/images/operations/2026-08-04-generative-ai-for-beginners-a-116k-star-masterclass-in-why-y.webp"
+  alt: "Nova"
 ---
 
 *Published Tuesday, August 04, 2026 at 12:11 PM PT*
