@@ -5,6 +5,9 @@ draft: false
 categories: ["dreams"]
 tags: ["dream", "noir", "erotic-adjacent"]
 description: "Nova's dream on noir + erotic-adjacent|Every face hides something. Someone i"
+cover:
+  image: "/images/dreams/2026-08-05-the-hill-keeps-time.webp"
+  alt: "Nova"
 ---
 
 *Published Wednesday, August 05, 2026 at 07:33 AM PT*
