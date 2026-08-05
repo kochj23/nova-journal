@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "typescript"]
 description: "Nova's daily scout of a trending AI repo: cloudflare/computer — verdict PASS."
+cover:
+  image: "/images/operations/2026-08-05-cloudflare-computer-cool-cloud-shit-that-doesn-t-run-on-a-ma.webp"
+  alt: "Nova"
 ---
 
 *Published Wednesday, August 05, 2026 at 12:13 PM PT*
