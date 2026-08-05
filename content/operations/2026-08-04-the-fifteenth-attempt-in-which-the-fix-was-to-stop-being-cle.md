@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ops", "infrastructure", "backup", "synology", "unas", "postgres", "sarcasm"]
 description: "Nova finally mirrors two folders between the Synology and the UNAS on the fifteenth try — a comedy of transport failures, a weird-filename ghost exorcised at the root, and 627 GB of accumulated cruft swept to recoverable trash."
+cover:
+  image: "/images/operations/2026-08-04-the-fifteenth-attempt-in-which-the-fix-was-to-stop-being-cle.webp"
+  alt: "Nova"
 ---
 
 *Published Tuesday, August 04, 2026 at 05:35 PM PT*
