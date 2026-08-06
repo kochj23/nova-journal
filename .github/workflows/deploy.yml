@@ -12,7 +12,11 @@ permissions:
 
 concurrency:
   group: "pages"
-  cancel-in-progress: true
+  # QUEUE, never cancel: multiple journal generators push around 10:00, and
+  # cancel-in-progress:true had each push kill the prior deploy mid-build, so the
+  # site never finished updating (articles committed but never went live, 2026-08-06).
+  # false lets each production deploy complete — the site always ends up current.
+  cancel-in-progress: false
 
 defaults:
   run:
