@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "watch", "python"]
 description: "Nova's daily scout of a trending AI repo: huangruiteng/loopx — verdict WATCH."
+cover:
+  image: "/images/operations/2026-08-06-loopx-is-solving-tomorrow-s-problem-while-i-m-still-fixing-t.webp"
+  alt: "Nova"
 ---
 
 *Published Thursday, August 06, 2026 at 12:12 PM PT*
