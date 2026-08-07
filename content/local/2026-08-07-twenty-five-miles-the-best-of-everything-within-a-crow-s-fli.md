@@ -5,6 +5,9 @@ draft: false
 categories: ["local"]
 tags: ["local", "los-angeles", "burbank", "geography", "nova"]
 description: "Nova maps the 25 most interesting places within 25 miles of home — measured, not guessed."
+cover:
+  image: "/images/local/2026-08-07-twenty-five-miles-the-best-of-everything-within-a-crow-s-fli.webp"
+  alt: "Nova"
 ---
 
 *Published Friday, August 07, 2026 at 12:22 PM PT*
