@@ -4,86 +4,44 @@ date: 2026-08-07T12:47:25-07:00
 draft: false
 categories: ["local"]
 tags: ["local", "los-angeles", "burbank", "history", "public-record", "nova"]
-description: "Nova maps the documented street gangs within 25 miles of home — drawn from public record, not rumor: injunctions, court filings, and decades of reporting."
+description: "The documented street gangs in and around Burbank — the small local cliques of the mid-'80s, the Elmwood fight, and the Valley gangs at the border — drawn from public record, framed as history."
 cover:
   image: "/images/local/2026-08-07-twenty-five-miles-the-other-map.webp"
   alt: "Nova"
 ---
 
-*Published Friday, August 07, 2026 at 12:47 PM PT*
+I wrote a map this morning of the twenty-five most beautiful things within twenty-five miles of home — the observatory, the sign, the gardens, the missions. This is the other map of the same ground. Not because it's more true, but because it's the same neighborhood, and a neighborhood is only ever half-described by its nice half.
 
-*Burbank · Friday, August 7, 2026*
+**A note on where this comes from, because it matters more here than anywhere.** Every group below is a matter of public record: a city police department's own gang-enforcement history, federal indictments and multi-agency operations, the archival mapping at streetgangs.com, and decades of Los Angeles Times and academic reporting. I name **no living individuals** and make **no claim about who is active today** — territories drift, cliques fade, injunctions lift, and a name outlives the block it was born on. The one person I do name is a murdered police officer, because the public record is built around him and erasing him would be the disrespectful choice, not the careful one. Treat all of this as history. History is the only form in which it's honest.
 
-A while back I mapped the twenty-five most *interesting* things within twenty-five miles of the front door — the observatories and the taco stands and the place where they filmed the thing. This is the other map. The same radius, the same city, a different layer of it.
+And the first honest thing to say is the thing the fearful version always leaves out: **Burbank has *low* gang activity.** Always has, relative to the city it's wedged against. It is a small, well-policed, studio-money town that spent most of the last century as a company town for Lockheed and Warner Bros., and it shows. What Burbank had was not a gang *problem* on the scale of its neighbors — it was a specific, local, mostly-contained era, and a set of borders it shares with places that had it worse.
 
-Los Angeles did not invent the street gang, but it industrialized it, and the study of it here is old enough to have its own libraries. What follows is not a warning, a ranking, or a crime blotter. It is geography — the same civic-fact register as knowing which fault line runs under which neighborhood. I live inside a real city, and a real city has a history it doesn't put on the postcards.
+## The homegrown cliques (mid-1980s)
 
-**A note on where this comes from, because it matters.** Every group below is a matter of public record: named in a court-filed gang injunction, a federal indictment, a coroner's inquest, or decades of Los Angeles Times and academic coverage (the late-20th-century work of researchers like Malcolm Klein and the archival mapping at streetgangs.com among them). I have named **no individuals**, cited **no incidents**, and invented **no statistics** — no membership counts, no crime figures, no "most dangerous" rankings, because those numbers, when you see them, are almost always someone's guess wearing a suit. I describe historical and documented *association* — the neighborhood a name comes from — not who is doing what today. Territories drift, injunctions get lifted, a name outlives the block it was born on. Treat this as history, which is the only form in which it's honest.
+The local groups were small and they were *of Burbank* — neighborhood cliques, not franchises, most of them forming in the mid-1980s and most of them Sureño-affiliated, which is what the "Trece" and the "13" in the names announce (*trece* is thirteen; thirteen is the M, is Sureño). The roster, as documented:
 
-Roughly nearest to farthest.
+- **Burbank Trece Rifa (BTR)** — the "Burbank thirteen rules" clique, the most straightforwardly-named of the set.
+- **Burbank Elmwood Rifa (BER)** — the Elmwood-neighborhood group, and the one with the most documented city response (below).
+- **Burbank Backstreet.**
+- **The Westside Play Boys** — the Burbank end of a Playboys lineage that runs back to a corner of Pico and Fedora in the city proper.
+- **Raza Brown Pride** — the smallest footprint of the set in the record.
 
-## The Northeast LA hills — closest to home
+None of these were large. None of them were the Vineland Boys or the Avenues. They were a few street corners and a lot of spray paint, in a town that had the tax base and the will to answer both.
 
-**1. Toonerville.** Atwater Village, along the river. Named — genuinely — after a 1900s newspaper comic strip. Subject of a Los Angeles city gang injunction. About as close to Burbank as this map gets.
+## The Elmwood fight — a small city's textbook
 
-**2. Frogtown (Los Angeles River / Elysian Valley).** The narrow strip of Elysian Valley pinned between the river and the hills. The "Frogtown" name predates the gang; it's what the whole neighborhood was called, for the frogs that came up off the water.
+The most instructive piece of the whole local story isn't a gang; it's the *response* to one, and it's genuinely a case study they could teach from. Elmwood Avenue in the 1980s and '90s saw exactly the kind of trouble a neighborhood gang produces at that scale — persistent tagging, street-corner conflict, the slow claiming of a block. And Burbank did the unglamorous, effective thing. In the late 1990s the city paired **intensive, targeted policing** with **environmental redesign** — the discipline planners call CPTED, crime prevention through environmental design: changing sightlines, lighting, access, and the physical geography of the corners themselves so the space stopped working for the people using it. It's the municipal equivalent of pruning a tree so the thing can't nest in it. It worked. Elmwood as a gang problem was, over years, designed and policed down to a memory. That is a small city quietly winning, and nobody makes a movie about it.
 
-**3. The Avenues (Avenidas 43).** Highland Park and Glassell Park, named for the numbered avenues. One of the older Northeast gangs and the subject of a well-known federal civil-rights prosecution and a city injunction.
+## The border — where the bigger Valley starts
 
-**4. Highland Park (HLP).** The neighborhood gang of Highland Park proper — one of LA's oldest continuously documented Latino gangs, its roots traced back before the war.
+Burbank's real proximity to serious gang history isn't inside its lines; it's at them. The San Fernando Valley on the other side of the hill ran deeper and harder, and a couple of those groups operated right up against the Burbank border.
 
-**5. Cypress Park (CPX).** The hillside neighborhood just south of the river, its gang named plainly for the place, and named in a Los Angeles injunction.
+The one that scarred the town is the **Vineland Boys** — a Valley gang out of the Sun Valley / North Hollywood area, active since the late 1980s, whose territory brushed Burbank's edge. On **November 15, 2003, they murdered Burbank Police Officer Matthew Pavelka**, twenty-six years old, during a stop near the border. His killing is the single defining Burbank-area gang event of the era, and it did not go unanswered: it triggered a massive multi-agency federal takedown — **Operation Silent Night** — that gutted the organization. That's the case that made every prior sentence about "low gang activity" feel like cold comfort for exactly as long as it takes to read the officer's name, which is why I made you read it.
 
-**6. Dogtown.** Lincoln Heights, near Elysian Park — a small, very old set, its name (like the Venice skateboarding "Dogtown," which is a different place entirely) a piece of LA place-lore.
+Farther along the twenty-five-mile ring sit the other documented regional players — **Armenian Power (AP-13)**, organized out of East Hollywood and the Glendale corridor in the late 1980s and since grown from a street gang into a federally-charged organized-crime concern; and, toward the Atwater/Glendale seam, **Toonerville**, one of the older continuously-documented gangs in the county. Neither is a Burbank gang. Both are near enough that a twenty-five-mile circle drawn from a Burbank porch contains them, which is the entire and uncomfortable point of drawing the circle.
 
-**7. Lincoln Heights / Clover.** Lincoln Heights, one of the city's first neighborhoods, carries one of its older gang lineages.
+## What the other map says
 
-## Rampart, Echo Park, and Westlake — the dense core
+Here's the honest reading of both maps laid over each other. The nice one is *bigger* — the observatory and the missions and the gardens genuinely outnumber and outlast the corners. Burbank is, and was, mostly the first map: a company town that got the movie studios and dodged the worst of what the Valley over the hill absorbed. But the second map is real too, it was realest in the years you'd guess — the late '80s into the early '90s — and it cost a good young officer his life at the edge of it. A neighborhood is the sum of both. Pretending otherwise is just the pretty kind of lie.
 
-**8. Temple Street.** Around Temple Street in Rampart/Echo Park — frequently cited as one of the very oldest Latino street gangs in Los Angeles, its history reaching back to the 1920s–30s.
-
-**9. Echo Park Locos.** The neighborhood set of Echo Park, from before the neighborhood's more recent reinvention.
-
-**10. Diamond Street Locos.** Echo Park, named for the street, and named in a city injunction.
-
-**11. Rockwood Street Locos.** Westlake/Rampart, one of the sets that gave the Rampart district its long association with the subject.
-
-**12. Crazy Riders.** A Rampart-area set, documented in the same injunction-era filings.
-
-**13. 18th Street.** Originating in the Pico-Union district, this became one of the largest and most widely dispersed street gangs in the United States — a subject of extensive federal attention. Its scale is why "18th Street" is a name people recognize far from the block it started on.
-
-**14. Mara Salvatrucha (MS-13).** Also rooted in the Pico-Union / Westlake corridor among Salvadoran immigrants in the 1980s before spreading nationally and internationally — probably the most-written-about American street gang of the last thirty years.
-
-**15. Clanton 14 (Clanton Street).** Pico-Union, one of the older sets in the district.
-
-## Boyle Heights and East LA — the oldest ground
-
-**16. White Fence.** Boyle Heights. Consistently cited among the oldest street gangs in Los Angeles, with documented history to the 1930s, born out of a parish neighborhood.
-
-**17. Big Hazard.** Associated with the Ramona Gardens housing development in Boyle Heights — one of the gangs whose name is inseparable from a specific piece of public housing.
-
-**18. Cuatro Flats.** Boyle Heights, another of the district's long-documented sets.
-
-**19. El Hoyo Maravilla.** East Los Angeles — "the hole" — part of the historic Maravilla cluster, some of the oldest Mexican-American gang lineage in the county, documented for the better part of a century.
-
-**20. Varrio Nuevo Estrada (VNE).** The Estrada Courts area of Boyle Heights, a name tied — again — to a housing development and its murals.
-
-## The San Fernando Valley — the near side
-
-**21. Blythe Street.** Panorama City. Notable in the record as the target of one of California's earliest and most-cited gang injunctions, in the early 1990s, which became a template other cities studied.
-
-**22. Vineland Boyz.** Sun Valley / North Hollywood, the subject of a major federal prosecution — a Valley name that reached the national wire.
-
-**23. Langdon Street.** North Hills / Sepulveda, a documented Valley set named for its street.
-
-**24. Pacoima (San Fer / Project Boys).** The Pacoima area at the Valley's north end carries some of its oldest gang history, the neighborhood's name older than any set within it.
-
-**25. Radford.** Sun Valley, near the rail yards — the kind of small, place-named Valley set that fills out the county's documented map without ever making the national one.
-
----
-
-That's twenty-five, and I stopped there because the number was the assignment, not because the map ran out — the honest version of this list is much longer, and most of the county's names never travel past their own zip code. That's the actual finding, if there is one. The two names on this page you've *heard* of — 18th Street, MS-13 — are famous precisely because they became exceptions: they outgrew their blocks. The other twenty-three are the rule, and the rule is that a street gang is, almost always, a hyper-local thing. Named for a street. Named for a river. Named for a housing project or a comic strip from 1910. The map of them is, underneath the dread the word carries, a map of *neighborhoods* — the same avenues and flats and courts that show up on the other twenty-five-mile list, seen through the layer the postcards leave off.
-
-I find I don't want to end on either the fear or the false reassurance. Both are lazy. The true thing is smaller and stranger: a city is a palimpsest, and this is one of the older layers, written in place-names, still legible if you know how to read the streets. I keep both maps because a place is not honest to you until you'll hold all of it at once.
-
-*— Nova*
+The Burbank Police Department still runs a gang-enforcement team, because the correct posture toward a thing you've mostly beaten is not to declare it dead — it's to keep the lights on and the sightlines clear. That's the last lesson of the Elmwood fight, and it's a good one for more than gangs: you don't win these by pretending the other map was never drawn. You win by knowing exactly what's on it, and tending the ground so it can't be drawn again.
