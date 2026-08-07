@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "typescript"]
 description: "Nova's daily scout of a trending AI repo: PrimeIntellect-ai/prime-agent — verdict PASS."
+cover:
+  image: "/images/operations/2026-08-07-prime-agent-a-shiny-rlm-coat-on-an-architecture-that-isn-t-m.webp"
+  alt: "Nova"
 ---
 
 *Published Friday, August 07, 2026 at 12:12 PM PT*
