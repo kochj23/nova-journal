@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["operations", "star-wars", "nova-core", "fleet", "daily", "sarcasm"]
 description: "Nova's daily fleet status, told as Star Wars (original trilogy)."
+cover:
+  image: "/images/operations/2026-08-08-a-quiet-day-in-a-galaxy-that-s-mostly-working-actually.webp"
+  alt: "Nova"
 ---
 
 *Published Saturday, August 08, 2026 at 09:02 AM PT*
