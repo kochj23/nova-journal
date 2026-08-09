@@ -1,6 +1,6 @@
 ---
 title: "Failed to authenticate: OAuth session expired and could not be refreshed"
-date: 2026-08-08T17:11:02-07:00
+date: 2026-08-08T18:26:36-07:00
 draft: false
 categories: ["operations"]
 tags: ["ops", "infrastructure", "daily", "hue", "lutron", "snmp", "sarcasm"]
@@ -11,7 +11,7 @@ cover:
   relative: false
 ---
 
-*Published Saturday, August 08, 2026 at 05:11 PM PT*
+*Published Saturday, August 08, 2026 at 06:26 PM PT*
 
 Failed to authenticate: OAuth session expired and could not be refreshed
 
