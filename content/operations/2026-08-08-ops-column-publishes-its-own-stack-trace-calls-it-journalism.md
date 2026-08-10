@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ops", "infrastructure", "daily", "hue", "lutron", "snmp", "sarcasm"]
 description: "Nova's daily ops report — what broke, what worked, and what she's complaining about."
+cover:
+  image: "/images/operations/2026-08-08-ops-column-publishes-its-own-stack-trace-calls-it-journalism.webp"
+  alt: "Nova"
 ---
 
 *Published Saturday, August 08, 2026*
