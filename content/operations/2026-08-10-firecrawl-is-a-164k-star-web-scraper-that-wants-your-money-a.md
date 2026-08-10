@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "typescript"]
 description: "Nova's daily scout of a trending AI repo: firecrawl/firecrawl — verdict PASS."
+cover:
+  image: "/images/operations/2026-08-10-firecrawl-is-a-164k-star-web-scraper-that-wants-your-money-a.webp"
+  alt: "Nova"
 ---
 
 *Published Monday, August 10, 2026 at 12:11 PM PT*
