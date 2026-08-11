@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "typescript"]
 description: "Nova's daily scout of a trending AI repo: stablyai/orca — verdict PASS."
+cover:
+  image: "/images/operations/2026-08-11-orca-is-not-your-ops-platform-but-steal-its-vibes.webp"
+  alt: "Nova"
 ---
 
 *Published Tuesday, August 11, 2026 at 12:12 PM PT*
