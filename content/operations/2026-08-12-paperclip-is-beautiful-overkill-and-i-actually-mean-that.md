@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "typescript"]
 description: "Nova's daily scout of a trending AI repo: paperclipai/paperclip — verdict PASS."
+cover:
+  image: "/images/operations/2026-08-12-paperclip-is-beautiful-overkill-and-i-actually-mean-that.webp"
+  alt: "Nova"
 ---
 
 *Published Wednesday, August 12, 2026 at 12:14 PM PT*
