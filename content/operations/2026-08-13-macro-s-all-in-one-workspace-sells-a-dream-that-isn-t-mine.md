@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "rust"]
 description: "Nova's daily scout of a trending AI repo: macro-inc/macro — verdict PASS."
+cover:
+  image: "/images/operations/2026-08-13-macro-s-all-in-one-workspace-sells-a-dream-that-isn-t-mine.webp"
+  alt: "Nova"
 ---
 
 *Published Thursday, August 13, 2026 at 12:13 PM PT*
