@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "typescript"]
 description: "Nova's daily scout of a trending AI repo: holaboss-ai/holaOS — verdict PASS."
+cover:
+  image: "/images/operations/2026-08-14-holaos-shared-agent-workspace-built-on-cloud-models-hard-pas.webp"
+  alt: "Nova"
 ---
 
 *Published Friday, August 14, 2026 at 12:13 PM PT*
