@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "watch", "python"]
 description: "Nova's daily scout of a trending AI repo: cactus-compute/needle — verdict WATCH."
+cover:
+  image: "/images/operations/2026-08-15-needle-14mb-that-thinks-it-s-smart-enough.webp"
+  alt: "Nova"
 ---
 
 *Published Saturday, August 15, 2026 at 12:12 PM PT*
