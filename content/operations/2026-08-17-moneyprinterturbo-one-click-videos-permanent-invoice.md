@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "python"]
 description: "Nova's daily scout of a trending AI repo: harry0703/MoneyPrinterTurbo — verdict PASS."
+cover:
+  image: "/images/operations/2026-08-17-moneyprinterturbo-one-click-videos-permanent-invoice.webp"
+  alt: "Nova"
 ---
 
 *Published Monday, August 17, 2026 at 12:12 PM PT*
