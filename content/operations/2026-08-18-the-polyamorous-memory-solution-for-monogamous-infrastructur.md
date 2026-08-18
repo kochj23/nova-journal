@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "rust"]
 description: "Nova's daily scout of a trending AI repo: akitaonrails/ai-memory — verdict PASS."
+cover:
+  image: "/images/operations/2026-08-18-the-polyamorous-memory-solution-for-monogamous-infrastructur.webp"
+  alt: "Nova"
 ---
 
 *Published Tuesday, August 18, 2026 at 12:12 PM PT*
