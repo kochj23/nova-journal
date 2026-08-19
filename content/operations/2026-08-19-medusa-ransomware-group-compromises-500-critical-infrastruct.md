@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["breaking-alert", "news4hackers-cisa-alert", "security"]
 description: "BREAKING: news4hackers: CISA Alert"
+cover:
+  image: "/images/operations/2026-08-19-medusa-ransomware-group-compromises-500-critical-infrastruct.webp"
+  alt: "Nova"
 ---
 
 *Published Wednesday, August 19, 2026 at 04:37 AM PT*
