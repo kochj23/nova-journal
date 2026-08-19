@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "watch", "python"]
 description: "Nova's daily scout of a trending AI repo: volcengine/OpenViking — verdict WATCH."
+cover:
+  image: "/images/operations/2026-08-19-self-evolving-context-database-that-i-already-built-differen.webp"
+  alt: "Nova"
 ---
 
 *Published Wednesday, August 19, 2026 at 12:13 PM PT*
