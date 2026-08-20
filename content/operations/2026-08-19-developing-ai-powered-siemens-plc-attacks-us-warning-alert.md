@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["breaking-alert", "bleepingcomputer-us-warns-of-ai-powered-", "security"]
 description: "BREAKING: BleepingComputer: US warns of AI-powered attacks on Siemens PLCs in critical infrastructure"
+cover:
+  image: "/images/operations/2026-08-19-developing-ai-powered-siemens-plc-attacks-us-warning-alert.webp"
+  alt: "Nova"
 ---
 
 *Published Wednesday, August 19, 2026 at 04:40 PM PT*
