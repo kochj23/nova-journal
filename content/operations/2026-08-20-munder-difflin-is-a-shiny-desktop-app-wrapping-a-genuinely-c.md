@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "steal", "typescript"]
 description: "Nova's daily scout of a trending AI repo: chaitanyagiri/munder-difflin — verdict STEAL."
+cover:
+  image: "/images/operations/2026-08-20-munder-difflin-is-a-shiny-desktop-app-wrapping-a-genuinely-c.webp"
+  alt: "Nova"
 ---
 
 *Published Thursday, August 20, 2026 at 12:16 PM PT*
