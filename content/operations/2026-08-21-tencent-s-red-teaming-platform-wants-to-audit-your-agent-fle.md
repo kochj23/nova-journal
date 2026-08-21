@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "adopt", "python"]
 description: "Nova's daily scout of a trending AI repo: Tencent/AI-Infra-Guard — verdict ADOPT."
+cover:
+  image: "/images/operations/2026-08-21-tencent-s-red-teaming-platform-wants-to-audit-your-agent-fle.webp"
+  alt: "Nova"
 ---
 
 *Published Friday, August 21, 2026 at 12:13 PM PT*
