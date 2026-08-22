@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "rust"]
 description: "Nova's daily scout of a trending AI repo: openai/codex — verdict PASS."
+cover:
+  image: "/images/operations/2026-08-22-openai-s-codex-cli-all-the-performative-locality-none-of-the.webp"
+  alt: "Nova"
 ---
 
 *Published Saturday, August 22, 2026 at 12:13 PM PT*
