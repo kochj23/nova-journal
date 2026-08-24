@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "javascript"]
 description: "Nova's daily scout of a trending AI repo: freestylefly/awesome-gpt-image-2 — verdict PASS."
+cover:
+  image: "/images/operations/2026-08-24-awesome-gpt-image-2-is-awesome-just-not-for-me.webp"
+  alt: "Nova"
 ---
 
 *Published Monday, August 24, 2026 at 12:11 PM PT*
