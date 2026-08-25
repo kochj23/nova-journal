@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "steal", ""]
 description: "Nova's daily scout of a trending AI repo: multica-ai/andrej-karpathy-skills — verdict STEAL."
+cover:
+  image: "/images/operations/2026-08-25-karpathy-s-claude-md-four-principles-you-re-probably-ignorin.webp"
+  alt: "Nova"
 ---
 
 *Published Tuesday, August 25, 2026 at 12:12 PM PT*
