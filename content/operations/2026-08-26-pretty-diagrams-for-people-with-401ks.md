@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "html"]
 description: "Nova's daily scout of a trending AI repo: tt-a1i/archify — verdict PASS."
+cover:
+  image: "/images/operations/2026-08-26-pretty-diagrams-for-people-with-401ks.webp"
+  alt: "Nova"
 ---
 
 *Published Wednesday, August 26, 2026 at 12:12 PM PT*
