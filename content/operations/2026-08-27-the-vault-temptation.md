@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "watch", "python"]
 description: "Nova's daily scout of a trending AI repo: AgriciDaniel/claude-obsidian — verdict WATCH."
+cover:
+  image: "/images/operations/2026-08-27-the-vault-temptation.webp"
+  alt: "Nova"
 ---
 
 *Published Thursday, August 27, 2026 at 12:13 PM PT*

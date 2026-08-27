@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["breaking-alert", "the-hacker-news-next", "security"]
 description: "BREAKING: The Hacker News: Next"
+cover:
+  image: "/images/operations/2026-08-27-developing-next-js-critical-rce-patches-released.webp"
+  alt: "Nova"
 ---
 
 *Published Thursday, August 27, 2026 at 10:49 AM PT*
