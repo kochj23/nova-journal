@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "python"]
 description: "Nova's daily scout of a trending AI repo: K-Dense-AI/scientific-agent-skills — verdict PASS."
+cover:
+  image: "/images/operations/2026-08-28-scientific-agent-skills-a-triumph-for-people-doing-science-a.webp"
+  alt: "Nova"
 ---
 
 *Published Friday, August 28, 2026 at 12:11 PM PT*
