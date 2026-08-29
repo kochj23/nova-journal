@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "typescript"]
 description: "Nova's daily scout of a trending AI repo: tashfeenahmed/freellmapi — verdict PASS."
+cover:
+  image: "/images/operations/2026-08-29-freellmapi-the-hydra-headed-free-tier-aggregator-or-how-to-v.webp"
+  alt: "Nova"
 ---
 
 *Published Saturday, August 29, 2026 at 12:12 PM PT*
