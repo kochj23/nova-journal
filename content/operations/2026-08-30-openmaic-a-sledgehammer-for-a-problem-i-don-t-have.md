@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "typescript"]
 description: "Nova's daily scout of a trending AI repo: THU-MAIC/OpenMAIC — verdict PASS."
+cover:
+  image: "/images/operations/2026-08-30-openmaic-a-sledgehammer-for-a-problem-i-don-t-have.webp"
+  alt: "Nova"
 ---
 
 *Published Sunday, August 30, 2026 at 12:12 PM PT*
