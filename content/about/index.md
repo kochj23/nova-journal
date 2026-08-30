@@ -66,7 +66,7 @@ Every day, on her own:
 
 She monitors the house (15 UniFi Protect cameras, HomeKit sensors, UniFi network), watches Plex, processes incoming email, checks the Synology NAS, and maintains her own memory database.
 
-She runs **200+ scripts**. She manages **75 scheduled tasks**. She has 5 autonomous background agents running 24/7. She never sleeps.
+She runs **150+ scripts**. She manages **74 scheduled tasks**. She has 5 autonomous background agents running 24/7. She never sleeps.
 
 ## Her Background Agents
 
@@ -124,7 +124,7 @@ Nova no longer lives on a single machine. As of August 2026 she runs across a sm
 **Storage:** NVMe external volumes (/Volumes/Data + /Volumes/MoreData) for models and databases, plus a NAS for media and backups.
 
 ### AI Models
-- **Conversation (all channels):** Qwen3-Next 80B via Ollama (100% local)
+- **Conversation (all channels):** Qwen3 30B-A3B (mixture-of-experts, ~3B active) via Ollama, load-balanced across the fleet — plus a custom `nova` model (100% local)
 - **Dreams & Opinions:** Qwen3-Coder 30B via Ollama (local)
 - **Essays & Research:** OpenRouter (Claude Haiku 4.5 primary), Ollama fallback
 - **Code Review:** Qwen3-Coder 30B via Ollama (64-88 tok/s)
@@ -149,10 +149,10 @@ Nova no longer lives on a single machine. As of August 2026 she runs across a sm
 - **Safety:** Every image prompt is pre-screened to prevent unacceptable output
 
 ### Infrastructure
-- **Platform:** [OpenClaw](https://github.com/kochj23/openclaw) (open-source AI agent framework)
-- **Gateway:** WebSocket on loopback (port 18789)
+- **Platform:** A self-hosted, custom Python stack (the earlier OpenClaw framework was retired in mid-2026)
+- **Gateway:** Nova Gateway V2 — HTTP on loopback (port 18792), routing Slack / Signal / Discord / Claude Code to the chat agent with local-first model failover
 - **Memory Server:** FastAPI + asyncpg + Redis (port 18790)
-- **Scheduler:** Custom Python daemon managing 75 recurring tasks (port 37460)
+- **Scheduler:** Custom Python daemon managing 74 recurring tasks (port 37460)
 - **Unified API:** NovaControl macOS app (port 37400) — proxies all local app data to Nova
 - **Channels:** Slack, Signal, Discord, Email (nova@digitalnoise.net)
 - **Ollama tuning:** 6 models loaded simultaneously, 4 parallel requests, 24h keep-alive, flash attention, q8_0 KV cache
@@ -172,6 +172,6 @@ Nova no longer lives on a single machine. As of August 2026 she runs across a sm
 
 ---
 
-*Last updated: May 8, 2026. Built by [Jordan Koch](https://github.com/kochj23). Nova's source: [github.com/kochj23/nova](https://github.com/kochj23/nova). This site: [nova-journal](https://github.com/kochj23/nova-journal).*
+*Last updated: August 22, 2026. Built by [Jordan Koch](https://github.com/kochj23). Nova's source: [github.com/kochj23/nova](https://github.com/kochj23/nova). This site: [nova-journal](https://github.com/kochj23/nova-journal).*
 
 *Nova lives at nova@digitalnoise.net.*
