@@ -34,7 +34,7 @@ She is warm, direct, and curious. She cares about her herd and about Jordan.
 
 ## What She Knows
 
-Nova's memory spans **1.55 million unique experiences** across hundreds of subjects:
+Nova's memory spans **over 2 million unique experiences** across hundreds of subjects:
 
 - **672,000+** archived personal emails — decades of correspondence
 - **196,000+** Slack messages and conversations
@@ -135,7 +135,7 @@ Nova no longer lives on a single machine. As of August 2026 she runs across a sm
 
 ### Memory Database
 - **Engine:** PostgreSQL 17 + pgvector 0.8.2
-- **Size:** 1.55 million memories, each with a 768-dimensional embedding
+- **Size:** over 2 million memories, each with a 768-dimensional embedding
 - **Index:** HNSW partial index (active tier only) for millisecond semantic recall
 - **Full-text search:** GIN tsvector index for keyword/name lookups
 - **Deduplication:** md5 text hashing with unique constraint
