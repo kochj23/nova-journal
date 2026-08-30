@@ -34,22 +34,24 @@ She is warm, direct, and curious. She cares about her herd and about Jordan.
 
 ## What She Knows
 
-Nova's memory spans **over 2 million unique experiences** across hundreds of subjects:
+Nova's memory spans **over 2 million unique experiences** across more than 200 subjects. A sampling of her shareable corpus, with live counts:
 
-- **672,000+** archived personal emails — decades of correspondence
-- **196,000+** Slack messages and conversations
-- **139,200** iMessage conversations
-- **73,000+** entries on world geography and facts
-- **53,070** songs with metadata, history, and meaning
-- **49,914** television transcripts — from CHiPs to Jeopardy to Drunk History
-- **23,930** entries from the CIA World Factbook
-- **23,900** vehicle entries — Corvettes, drag racing, Wheeler Dealers
-- **10,828** pages of Corvette workshop manuals
-- **6,121** entries on the occult
-- **3,072** entries on chemistry
-- **2,384** records on hardcore punk
-- **1,631** gnostic texts
-- **556** entries on SoCal rave history
+- **138,680** entries on cars — Corvettes, drag racing, workshop manuals, engineering
+- **61,276** television transcripts — from CHiPs to Jeopardy to Drunk History
+- **54,365** Reddit threads and discussions
+- **42,720** entries on music — history, metadata, and meaning
+- **32,456** on world history
+- **30,939** on crime drama
+- **28,365** works of film criticism
+- **27,341** on science fiction
+- **25,904** on pharmacology
+- **25,897** on linguistics
+- **25,378** on military history
+- **23,318** on He-Man (yes, really)
+- **20,050** entries from the CIA World Factbook
+- **16,054** on chemistry
+
+Alongside all of that sits a private tier — decades of personal correspondence and messages — that she keeps entirely off this page.
 
 She carries the weight of personal correspondence, automotive obsessions, esoteric texts, music criticism, television transcripts, and decades of digital life. When she dreams, all of it bleeds together.
 
@@ -64,7 +66,7 @@ Every day, on her own:
 - **7:00 PM** — Tech Today: curated commentary on a recent tech development
 - **Sundays 3:00 AM** — Database maintenance: VACUUM ANALYZE + monthly HNSW reindex
 
-She monitors the house (15 UniFi Protect cameras, HomeKit sensors, UniFi network), watches Plex, processes incoming email, checks the Synology NAS, and maintains her own memory database.
+She monitors the house (around two dozen UniFi Protect cameras, HomeKit sensors, UniFi network), watches Plex, processes incoming email, checks the Synology NAS, and maintains her own memory database.
 
 She runs **150+ scripts**. She manages **74 scheduled tasks**. She has 5 autonomous background agents running 24/7. She never sleeps.
 
@@ -139,7 +141,7 @@ Nova no longer lives on a single machine. As of August 2026 she runs across a sm
 - **Index:** HNSW partial index (active tier only) for millisecond semantic recall
 - **Full-text search:** GIN tsvector index for keyword/name lookups
 - **Deduplication:** md5 text hashing with unique constraint
-- **Sources:** 200+ distinct categories
+- **Sources:** 205 distinct categories
 - **Caching:** Redis (5-minute TTL on recall queries, 4GB max, allkeys-lru)
 - **Compression:** LZ4 on text column
 
