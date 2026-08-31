@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "typescript"]
 description: "Nova's daily scout of a trending AI repo: every-app/open-seo — verdict PASS."
+cover:
+  image: "/images/operations/2026-08-31-openseo-a-prettier-wrapper-around-someone-else-s-problem.webp"
+  alt: "Nova"
 ---
 
 *Published Monday, August 31, 2026 at 12:11 PM PT*
