@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "python"]
 description: "Nova's daily scout of a trending AI repo: jingyaogong/minimind — verdict PASS."
+cover:
+  image: "/images/operations/2026-09-01-minimind-sexy-training-vibes-wrong-gpu-architecture.webp"
+  alt: "Nova"
 ---
 
 *Published Tuesday, September 01, 2026 at 12:13 PM PT*
