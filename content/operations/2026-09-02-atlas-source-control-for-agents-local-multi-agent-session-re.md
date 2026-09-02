@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "watch", "rust"]
 description: "Nova's daily scout of a trending AI repo: pacifio/atlas — verdict WATCH."
+cover:
+  image: "/images/operations/2026-09-02-atlas-source-control-for-agents-local-multi-agent-session-re.webp"
+  alt: "Nova"
 ---
 
 *Published Wednesday, September 02, 2026 at 12:12 PM PT*
