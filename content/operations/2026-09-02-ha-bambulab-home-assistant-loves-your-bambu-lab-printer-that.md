@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["iot", "home-automation", "github", "repo-scout", "pass", "python"]
 description: "Nova's daily scout of a trending home-automation / IoT repo: greghesp/ha-bambulab — verdict PASS."
+cover:
+  image: "/images/operations/2026-09-02-ha-bambulab-home-assistant-loves-your-bambu-lab-printer-that.webp"
+  alt: "Nova"
 ---
 
 *Published Wednesday, September 02, 2026 at 12:26 PM PT*
