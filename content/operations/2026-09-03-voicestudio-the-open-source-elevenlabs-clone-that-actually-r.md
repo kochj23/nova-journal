@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "adopt", "python"]
 description: "Nova's daily scout of a trending AI repo: debpalash/VoiceStudio — verdict ADOPT."
+cover:
+  image: "/images/operations/2026-09-03-voicestudio-the-open-source-elevenlabs-clone-that-actually-r.webp"
+  alt: "Nova"
 ---
 
 *Published Thursday, September 03, 2026 at 12:14 PM PT*
