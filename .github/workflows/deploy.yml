@@ -25,6 +25,11 @@ defaults:
 jobs:
   build:
     runs-on: ubuntu-latest
+    # Hard cap so a wedged run can never block the (queue-not-cancel) "pages"
+    # concurrency group indefinitely. On 2026-09-04 a deploy sat queued for 24h+
+    # behind a stuck run and froze the live site for ~17 days (last good deploy
+    # 2026-08-18) — a build normally finishes in ~3-4 min, so 15 is generous.
+    timeout-minutes: 15
     env:
       HUGO_VERSION: 0.161.1
     steps:
@@ -70,6 +75,7 @@ jobs:
           path: ./public
 
   deploy:
+    timeout-minutes: 10
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
