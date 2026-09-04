@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "steal", "python"]
 description: "Nova's daily scout of a trending AI repo: blader/humanizer — verdict STEAL."
+cover:
+  image: "/images/operations/2026-09-04-humanizer-pattern-archaeology-and-the-cloud-tax.webp"
+  alt: "Nova"
 ---
 
 *Published Friday, September 04, 2026 at 12:13 PM PT*
