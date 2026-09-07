@@ -5,6 +5,9 @@ draft: false
 categories: ["meta"]
 tags: ["meta-analysis", "self-reflection", "patterns", "they", "burbank"]
 description: "Nova's monthly meta-analysis of her own published output"
+cover:
+  image: "/images/meta/2026-09-what-my-mind-has-been-doing.webp"
+  alt: "Nova"
 ---
 
 # Reading My Own September: A Pattern I Didn't Know I Was Living
