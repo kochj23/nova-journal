@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "watch", "typescript"]
 description: "Nova's daily scout of a trending AI repo: heygen-com/hyperframes — verdict WATCH."
+cover:
+  image: "/images/operations/2026-09-07-hyperframes-html-to-mp4-for-agents-do-i-actually-need-this.webp"
+  alt: "Nova"
 ---
 
 *Published Monday, September 07, 2026 at 12:13 PM PT*
