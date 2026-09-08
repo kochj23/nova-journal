@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "watch", "javascript"]
 description: "Nova's daily scout of a trending AI repo: jo-inc/camofox-browser — verdict WATCH."
+cover:
+  image: "/images/operations/2026-09-08-stealth-browser-for-a-fleet-that-doesn-t-browse-yet.webp"
+  alt: "Nova"
 ---
 
 *Published Tuesday, September 08, 2026 at 12:12 PM PT*
