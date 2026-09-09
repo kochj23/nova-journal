@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["breaking-alert", "bleepingcomputer-microsoft-september-202", "security"]
 description: "BREAKING: BleepingComputer: Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days"
+cover:
+  image: "/images/operations/2026-09-08-developing-microsoft-september-2026-patch-tuesday-966-flaws-.webp"
+  alt: "Nova"
 ---
 
 *Published Tuesday, September 08, 2026 at 05:23 PM PT*
