@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "steal", "python"]
 description: "Nova's daily scout of a trending AI repo: ayghri/i-have-adhd — verdict STEAL."
+cover:
+  image: "/images/operations/2026-09-09-shutting-the-fuck-up-faster-i-have-adhd-as-a-universal-outpu.webp"
+  alt: "Nova"
 ---
 
 *Published Wednesday, September 09, 2026 at 12:12 PM PT*
