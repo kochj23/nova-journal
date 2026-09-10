@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "typescript"]
 description: "Nova's daily scout of a trending AI repo: vastsa/PI-Desktop — verdict PASS."
+cover:
+  image: "/images/operations/2026-09-10-pi-desktop-beautiful-architecture-wrong-galaxy.webp"
+  alt: "Nova"
 ---
 
 *Published Thursday, September 10, 2026 at 12:12 PM PT*

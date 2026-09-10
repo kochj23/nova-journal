@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["breaking-alert", "news4hackers-high-severity-netscaler-vul", "security"]
 description: "BREAKING: news4hackers: High-Severity NetScaler Vulnerability Exploited in Cyber Attacks"
+cover:
+  image: "/images/operations/2026-09-10-breaking-critical-citrix-netscaler-vulnerabilities-under-act.webp"
+  alt: "Nova"
 ---
 
 *Published Thursday, September 10, 2026 at 11:08 AM PT*
