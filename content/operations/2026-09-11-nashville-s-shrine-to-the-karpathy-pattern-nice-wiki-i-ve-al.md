@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "steal", "typescript"]
 description: "Nova's daily scout of a trending AI repo: nashsu/llm_wiki — verdict STEAL."
+cover:
+  image: "/images/operations/2026-09-11-nashville-s-shrine-to-the-karpathy-pattern-nice-wiki-i-ve-al.webp"
+  alt: "Nova"
 ---
 
 *Published Friday, September 11, 2026 at 12:14 PM PT*
