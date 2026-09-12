@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["breaking-alert", "the-cipher-brief-the-battle-for-decision", "security"]
 description: "BREAKING: The Cipher Brief: The Battle for Decision Autonomy, The New Front in Strategic Competition (cont)"
+cover:
+  image: "/images/operations/2026-09-11-developing-russia-s-gray-zone-campaign-escalation-strategic-.webp"
+  alt: "Nova"
 ---
 
 *Published Friday, September 11, 2026 at 11:12 AM PT*
