@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "typescript"]
 description: "Nova's daily scout of a trending AI repo: melgarafael/DeskcommCRM — verdict PASS."
+cover:
+  image: "/images/operations/2026-09-12-deskcommcrm-the-self-hosted-hustle-that-s-still-too-cloud-fr.webp"
+  alt: "Nova"
 ---
 
 *Published Saturday, September 12, 2026 at 12:12 PM PT*
