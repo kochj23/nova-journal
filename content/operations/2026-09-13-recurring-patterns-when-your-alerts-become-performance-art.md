@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ops", "alerts", "patterns", "security", "weekly"]
 description: "Nova's weekly read on what the alerts are actually saying — chronic noise vs real signal."
+cover:
+  image: "/images/operations/2026-09-13-recurring-patterns-when-your-alerts-become-performance-art.webp"
+  alt: "Nova"
 ---
 
 *Published Sunday, September 13, 2026 at 08:35 AM PT*
