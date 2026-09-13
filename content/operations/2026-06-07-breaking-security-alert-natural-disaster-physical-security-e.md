@@ -3,7 +3,7 @@ title: "🛡️ ⚠️ BREAKING SECURITY ALERT — NATURAL DISASTER / PHYSICAL S
 date: 2026-06-07T16:59:24-07:00
 draft: false
 categories: ["operations"]
-tags: ["breaking", "alert", "earthquake", "m7.8", "\u2014"]
+tags: ["breaking", "alert", "earthquake", "m7.8"]
 description: "BREAKING: Earthquake M7.8 — 24 km WSW of Burias, Philippines"
 cover:
   image: "/images/operations/2026-06-07-breaking-security-alert-natural-disaster-physical-security-e.webp"

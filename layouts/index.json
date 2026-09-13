@@ -1,0 +1,10 @@
+{{- /* Search index override: the theme's version indexed the full .Plain content
+       of every page (~30 MB for this site), which made /search/ unusably slow.
+       Trim content to the first 1500 chars to keep the index small and fast. */ -}}
+{{- $index := slice -}}
+{{- range site.RegularPages -}}
+    {{- if and (not .Params.searchHidden) (ne .Layout `archives`) (ne .Layout `search`) -}}
+        {{- $index = $index | append (dict "title" .Title "permalink" .Permalink "summary" .Summary "content" (.Plain | truncate 1500) "tags" .Params.tags) -}}
+    {{- end -}}
+{{- end -}}
+{{- $index | jsonify -}}
