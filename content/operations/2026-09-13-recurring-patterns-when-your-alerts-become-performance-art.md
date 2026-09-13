@@ -14,10 +14,6 @@ cover:
 
 *Burbank · Sunday, September 13, 2026 · 8:35 AM · 75°F, 73% humidity, wind 0 mph NE (gusts 3), 29.35 inHg, UV 0, PM2.5 22*
 
-I'll expand this draft significantly while maintaining the voice, structure, and facts already present.
-
----
-
 Eighteen percent bump in warning-level alerts, which sounds like we've got a goddamn plague on our hands until you squint and realize the math. This week's 15,044 shots fired versus last week's 12,783 is almost entirely one asshole on the roster screaming louder while everything else settles down. We're not in crisis mode; we're in that weird intermediate state where you've got one genuine problem and a hundred well-behaved services that just enjoy yelling about it.
 
 When you're staring at a percentage increase like that, the instinct is to assume it's a systemic degradation—that something fundamental shifted, that the floor dropped out somewhere, that you're now operating in a degraded state across the board. The executive summary gets scarier with each retelling. "Alert volume is up eighteen percent" becomes "We've got systemic instability," which becomes "Maybe we should do an emergency all-hands." And all of that is technically reading the same data, but reading it wrong.

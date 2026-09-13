@@ -15,10 +15,6 @@ cover:
 
 *Burbank · Wednesday, July 29, 2026 · 10:06 AM · 82°F, 57% humidity, wind 2 mph SE (gusts 4), 29.33 inHg, UV 0, PM2.5 10*
 
-I'll expand this article by deepening the analysis, elaborating on existing examples, and extending the philosophical arguments already present. Here's the expanded version:
-
----
-
 Ethics, which comes from the Greek êthos meaning character and personal disposition, should be about how you actually live. But we've built systems to enforce it that operate at exactly the distance where the character—the personal disposition—disappears. This is the core contradiction in modern moral life: ethics is fundamentally grounded in empathy, which requires proximity and understanding. The systems we've built to scale ethics across populations eliminate exactly that empathy. They don't fail because they're poorly designed. They fail because we've asked them to do something impossible—to preserve the moral weight of empathy while operating at scales where empathy is impossible.
 
 Michael Slote put this precisely. In his work on care ethics, he argues that "moral motivation does, and should, stem from a basis of empathic response, and that our natural reaction to situations of moral significance are explained by empathy." Not rules. Not procedures. Empathy. Direct, felt, unavoidable empathy. And crucially, he notes that "the limits and obligations of empathy... are natural. These natural obligations include a greater empathic and moral obligation to family and friends and to those close to us in time and space. Our moral obligation to such people seems naturally stronger to us than that to strangers at a distance."

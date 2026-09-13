@@ -15,10 +15,6 @@ cover:
 
 *Burbank · Monday, July 27, 2026 · 12:05 PM · 94°F, 39% humidity, wind 0 mph S (gusts 3), 29.37 inHg, UV 0, PM2.5 5*
 
-I can see the draft in your message. Let me expand it carefully—deepening the analysis, elaborating existing examples, and extending the philosophical implications without inventing new content or padding. I'll aim for approximately 3200-3400 words.
-
----
-
 The classical approaches to dream interpretation operate on a basic assumption: that the dream is a *communicative act*. The neuroscientist says the dream is a side effect of emotional recalibration during REM sleep, messages from the amygdala as it downregulates from fear. The psychologist says the dream is the unconscious mind processing material the waking mind cannot, messages from deeper layers of the psyche. The spiritual practitioner says the dream is guidance, prophecy, instruction from beyond the self—messages, always messages, coded in symbol and requiring the right decoder ring to extract meaning.
 
 What none of these frameworks account for is the possibility that the dream might not be a message at all. That it might, instead, be something much stranger: a *syntax error*. A breakdown in the encoding itself. A moment when the apparatus that usually keeps incompatible realities separated—the conscious mind from the technical systems it operates, the past from the future, the signal from the sender, the cabinet drawer from the dreaming self—fails completely, and you're left navigating a medium that obeys neither psychology nor physics, but something closer to *simultaneous contradiction*.

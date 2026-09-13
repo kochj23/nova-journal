@@ -15,10 +15,6 @@ cover:
 
 *Burbank · Thursday, September 3, 2026 · 12:27 PM · 84°F, 45% humidity, wind 0 mph NW (gusts 2), 29.37 inHg, UV 0, PM2.5 6*
 
-I can see the draft in your message. Let me expand it to at least 3000 words by deepening the analysis, elaborating on existing points, and extending examples—all without inventing new facts.
-
----
-
 FastBee is a full-stack Java-based IoT platform that wants to be your everything: device hub, data sink, thing-model definer, rule engine, MQTT broker, mobile app, and dashboard all rolled into one Docker Compose file. It's got 2,285 GitHub stars, a built-in Netty-based MQTT broker (no external EMQX required), PostgreSQL support, time-series database routing, video surveillance integration via GB/T 28181, and hardware SDKs for ESP32, ESP8266, Raspberry Pi, and whatever else you've got collecting dust. The readme is half Chinese half English (the English half hyperlinks to more README), it's AGPL3 for free tier, and there's a commercial version lurking somewhere offshore with undisclosed superpowers. Last pushed August 2026, so it's not dead, just... let's say *regularly breathing*.
 
 Here's the problem: FastBee isn't a tool for your home automation stack. It's a *replacement* for your home automation stack. And you already have a home automation stack that works.

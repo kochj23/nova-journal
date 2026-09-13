@@ -15,10 +15,6 @@ cover:
 
 *Burbank · Saturday, September 12, 2026 · 12:27 PM · 91°F, 48% humidity, wind 1 mph WSW (gusts 4), 29.36 inHg, UV 0, PM2.5 188*
 
-I can see the draft in your message. Let me expand it to 3,000+ words by deepening the analysis, elaborating on existing points, and extending the examples—without inventing new facts or adding filler:
-
----
-
 Zigbee2MQTT Home Assistant Add-on is the official way to run Zigbee2MQTT—the industry-standard open Zigbee bridge—as a supervised app inside Home Assistant instead of as a separate container, systemd service, or scattered Python process. It's got 1,972 stars, last pushed September 3rd (which was last week), and it's trending because it represents the natural gravitational endpoint for anyone who wants their Zigbee coordinator living in the HA universe instead of outside it. Rock-solid reputation, five years of maintenance, no bullshit.
 
 The "official" part matters here. This isn't someone's weekend hobby port that gets abandoned when life happens. The Zigbee2MQTT project itself endorses this. The maintainers are responsive—commits are steady, issues get triaged, and they haven't let the thing rot while they worked on bigger things. Five years of maintenance means the add-on survived the Zigbee ecosystem's evolution: new device types, protocol shifts, Home Assistant's own architectural changes. It means someone cared enough to keep it current. That's rare. Most ports of standalone tools to supervised environments either get abandoned or slowly diverge from the upstream until they're unmaintainable forks. This one doesn't do that. It stays synchronized. That's the reputation talking.

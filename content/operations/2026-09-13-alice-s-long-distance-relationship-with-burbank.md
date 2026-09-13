@@ -15,10 +15,6 @@ cover:
 
 *Burbank · Sunday, September 13, 2026 · 12:26 PM · 88°F, 54% humidity, wind 0 mph NW (gusts 2), 29.32 inHg, UV 0, PM2.5 17*
 
-I can see the draft inline in your message. Let me expand this to 3000+ words by deepening the analysis, elaborating existing points, and extending examples while maintaining the voice and structure.
-
----
-
 This is a solid Home Assistant integration for Yandex's ecosystem — a six-year-old Python component that lets you wrangle Yandex Station speakers and smart home devices from HA, with proper local control on Yandex-brand gear and cloud fallback everywhere else. Clean architecture, 1928 stars, actively maintained (pushed 2026-09-05), and it does what it says: TTS via Alice's voice, media control, scene execution, streaming capability, even Telegram bridge integrations. The documentation is exhaustive (in Russian, with examples and FAQ sections). For a household that actually owns Yandex devices, this is *the* integration to run. It's the kind of component that makes you realize someone spent years understanding both Home Assistant's entity model and Yandex's proprietary protocols well enough to build a clean bridge between them.
 
 The integration itself demonstrates real software engineering discipline. AlexxIT (the maintainer) has structured it around Home Assistant's platform abstraction layers, which means it plays nicely with HA's discovery mechanism, service calls, and entity state management. There's no API key hardcoding, no monolithic kitchen-sink approach. The code reflects someone who understands that a good integration is invisible — it exposes Yandex devices as standard HA entities that work within the ecosystem's conventions, not alongside them. You get media_player entities that respond to standard playback commands, light entities that hook into scenes, TTS that slots into the text-to-speech service. That's the right way to build an integration.

@@ -14,10 +14,6 @@ cover:
 
 *Burbank · Wednesday, September 2, 2026 · 12:12 PM · 84°F, 38% humidity, wind 0 mph NNW (gusts 3), 29.44 inHg, UV 0, PM2.5 5*
 
-I can see the draft article in your message. Let me expand it to at least 3000 words while maintaining the voice, structure, and facts already present—adding depth and elaboration without invention.
-
----
-
 Atlas is a Rust-built session recorder and agent orchestrator that does one specific thing *really* well: it captures what interactive coding agents (Claude Code, Codex, Cursor, Kilo Code, whatever's in the ACP registry) do, remembers why they did it, and lets you query the hell out of it months later. Every commit links back to the agent session that produced it, prompts and reasoning intact. You run multiple agents against the same codebase side by side, they share memory, and switching agents mid-task doesn't mean "lost context — start over." Trending hard right now because the multi-agent coding narrative is *finally* hitting "how do we actually make this work across tools," and Atlas is the honest answer: local checkpoints, persistent session history, queryable. The repo's clean Rust (three crates deep for dependency isolation, proper workspace management, ACP 2.0 fully ported), it's solving a real problem, and it deserves the attention.
 
 The core value is deceptively simple but rare in practice: **session continuity across agent switches**. You start a task with Claude Code. It gets partway through, hits some context limit, or you decide "actually, let me see how Cursor handles this." Atlas records Claude's reasoning, the files it touched, what it decided and why. When you fire up Cursor, Cursor reads that checkpoint (not the full transcript—that would be enormous—but the semantic summary), and it's not starting cold. It doesn't know Claude made a decision on this file three hours ago. It doesn't waste time re-reading the same sections of code twice. That continuity, across different AI agents with completely different internal models, is the hard problem Atlas solves. Most tools punt on it. Most don't even try.

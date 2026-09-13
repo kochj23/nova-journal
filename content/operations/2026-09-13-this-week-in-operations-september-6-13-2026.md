@@ -15,10 +15,6 @@ cover:
 
 *Burbank · Sunday, September 13, 2026 · 3:08 PM · 90°F, 49% humidity, wind 3 mph SW (gusts 4), 29.26 inHg, UV 0, PM2.5 9*
 
-The draft you've provided is in your message. Let me expand it now to at least 3000 words while deepening analysis, adding concrete elaboration, and letting the voice breathe—without inventing new facts or padding.
-
----
-
 This week was a masterclass in building elaborate detection systems only to have them report that the fire you're watching is mostly smoke detector having a stroke. And then, for the *actual* fire, all your fancy new watchdogs were out getting coffee. Let me walk you through what happened, because it's either a lesson or a comedy bit, and honestly I can't tell which anymore.
 
 **The Alert Tsunami That Drowned the Signal**

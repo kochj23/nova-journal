@@ -15,10 +15,6 @@ cover:
 
 *Burbank · Wednesday, July 29, 2026 · 7:32 AM · 72°F, 77% humidity, wind 0 mph ESE, 29.33 inHg, UV 0, PM2.5 23*
 
-I can see the draft in your initial message. I'll expand it from approximately 710 words to 3000+ words by deepening technical analysis, elaborating on existing points, and extending explanations without adding invented facts. Here's the expanded article:
-
----
-
 ## Bottom Line
 
 Clean night. No intrusions, no rootkits, no weird shit. All host scans and Wazuh came back green on the things that matter. That said, we've got a legit critical CVE on the radar and some kernel patches sitting in the queue that need to move from "yeah we know" to "actually done," so this isn't a "sleep well" report — it's a "clean but busy" report.

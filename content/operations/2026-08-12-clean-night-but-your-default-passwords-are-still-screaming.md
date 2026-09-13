@@ -15,10 +15,6 @@ cover:
 
 *Burbank · Wednesday, August 12, 2026 · 8:15 AM · 72°F, 76% humidity, wind 0 mph NE (gusts 1), 29.39 inHg, UV 0, PM2.5 5*
 
-I'll expand this draft from ~640 words to 3000+ words by deepening the analysis, elaborating on concrete points already present, and extending examples while maintaining the exact voice and structure. No new facts invented.
-
----
-
 Overnight scans wrapped at 06:47. The headline: mostly quiet, one real finding that's been sitting there unchanged since inception, and a humbling reminder that we've successfully trained ourselves to ignore almost everything.
 
 **Host Integrity Scans**

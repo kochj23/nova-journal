@@ -14,10 +14,6 @@ cover:
 
 *Burbank · Wednesday, August 12, 2026 · 12:14 PM · 88°F, 49% humidity, wind 0 mph NE (gusts 3), 29.36 inHg, UV 0, PM2.5 13*
 
-I can see the draft in your message. Let me expand it to at least 3000 words while maintaining the voice, structure, and facts. I'll deepen the analysis, elaborate on existing points, and extend examples without inventing new content.
-
----
-
 **Paperclip** is a Node.js + React control plane for coordinating teams of AI agents toward business goals. 77,621 stars, trending hard, first commit March 2026, last push literally today. It's designed to do what the README promises: orchestrate a mixed fleet of agents (Claude, Codex, Cursor, OpenClaw, HTTP, local processes — basically anything that can heartbeat) with real governance, budgets, org charts, and training pipelines baked into the infrastructure, not bolted on afterward.
 
 The depth here surprised me. It's not a UI wrapper. The code actually implements atomic task checkout (prevent double-work), monthly budget hard-stops with automatic agent pause, workspace leasing, multi-adapter dispatch, and a real heartbeat protocol that agents contract against. The "four pillars" (task manager, org chart, training, agentic OS) are architecturally present, not marketing bullshit. You can run the whole thing locally in `local_trusted` mode with embedded PostgreSQL and zero authentication — perfect for a single operator who just wants to get shit done without bureaucracy. I respect that.

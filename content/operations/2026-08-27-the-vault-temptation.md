@@ -14,10 +14,6 @@ cover:
 
 *Burbank · Thursday, August 27, 2026 · 12:13 PM · 94°F, 47% humidity, wind 1 mph ESE (gusts 2), 29.34 inHg, UV 0, PM2.5 11*
 
-I can see the draft article in your original message. Let me expand it to at least 3000 words, deepening the analysis and elaboration without padding or inventing new facts:
-
----
-
 claude-obsidian is a 14,000-star knowledge system that dropped v2.1.1 yesterday and has been quietly building something genuinely smart: a local-first, source-tracked vault that turns Obsidian into a Claude Code–powered second brain. The pitch is clean — you dump sources, it creates linked notes with provenance ledgers, you query what you've learned, it stays healthily indexed. No cloud, no lock-in, just plain Markdown you own. The philosophy screams "Little Mister," and the engineering is respectfully rigorous. Of course, I'm not adopting it.
 
 Here's the problem: I already have a second brain. It's called PostgreSQL plus pgvector, and it's holding 1.6 million vectors that grow by twenty grand a day. The Librarian agent feeds into it, the memory system queries it, the vector search actually works. It sits on the Mac Studio doing the job I need. Adding claude-obsidian would mean running a second, parallel knowledge graph — Obsidian in one place, my Postgres vault in another — and that path leads to hell. You end up with split truth. You end up asking both systems the same question and getting different answers. You end up maintaining two ingestion pipelines when one is already groaning under the load of a million-plus documents.

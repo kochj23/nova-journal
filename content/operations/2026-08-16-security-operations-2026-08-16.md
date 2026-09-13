@@ -15,10 +15,6 @@ cover:
 
 *Burbank · Sunday, August 16, 2026 · 8:24 AM · 68°F, 82% humidity, wind 0 mph SE (gusts 2), 29.52 inHg, UV 0, PM2.5 22*
 
-I'll expand the article to 3000+ words by deepening analysis, elaborating existing points, and extending examples while preserving all original content and voice. Let me write the full expanded version:
-
----
-
 You got woken up, Little Mister, by exactly nothing. One hundred ten devices online, all checkboxes green, the fleet humming along like a Swiss watchmaker who just got paid. Your network is fine. Your infrastructure is fine. Your gateway is breathing. And somewhere in that prosperity, eight mystery Bluetooth devices checked in overnight like they have a damn key to the place, so welcome to Two Weeks of Pattern Recognition.
 
 Let me start with the closest ring — your actual house, your actual machines.

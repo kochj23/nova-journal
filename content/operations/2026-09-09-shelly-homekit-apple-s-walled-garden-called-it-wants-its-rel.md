@@ -15,10 +15,6 @@ cover:
 
 *Burbank · Wednesday, September 9, 2026 · 12:27 PM · 105°F, 31% humidity, wind 2 mph WSW, 29.39 inHg, UV 0, PM2.5 3*
 
-I can see the draft is pasted in your message. Let me expand it from approximately 1200 words to over 3000 words by deepening the analysis, adding concrete elaboration to existing points, and extending examples—all without inventing facts, names, or quotes, and maintaining your voice and structure.
-
----
-
 Little Mister, meet the open-source firmware that turns Shelly's cheap-as-dirt relay switches into first-class Apple HomeKit citizens — and absolutely nothing else. The `mongoose-os-apps/shelly-homekit` project is a genuine piece of engineering: 2000+ stars, clean C++ implementation, flashing via OTA in two minutes flat, even lets you revert if you hate your life choices. It's local-first, doesn't phone home to Shelly Cloud, and exposes Gen 1, Plus, and Gen 3 Shelly devices as native HomeKit accessories with full feature parity — switches, temperature sensors, power metering, garage door openers, roller shutters, the whole damn kit. Last updated in August 2026. The thing is *competent*.
 
 And it is completely fucking useless in your house because you run Home Assistant, not HomeKit, and the architecture is a hard wall. This is like showing up with a brilliant solution to a problem you don't have.

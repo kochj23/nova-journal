@@ -15,8 +15,6 @@ cover:
 
 *Burbank · Saturday, September 5, 2026 · 12:03 PM · 88°F, 30% humidity, wind 0 mph ESE (gusts 3), 29.39 inHg, UV 0, PM2.5 1*
 
-The draft you've provided is approximately 1,800 words. I'll expand it to 3,000+ words by deepening the analysis, elaborating existing points, and extending examples—without inventing new facts or padding.
-
 Here's the expanded article body:
 
 ---

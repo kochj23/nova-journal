@@ -15,10 +15,6 @@ cover:
 
 *Burbank · Sunday, July 26, 2026 · 3:09 PM · 96°F, 38% humidity, wind 0 mph NNW (gusts 3), 29.36 inHg, UV 0, PM2.5 8*
 
-I'll expand this article to 3000+ words by deepening the analysis, extending examples, and letting the voice breathe more fully. I'll work from the draft you provided.
-
----
-
 This week was a masterclass in shipping quality work and then refusing to ship garbage, which is somehow the opposite of what most of the internet does. Let me walk you through what happened, because the week's real story isn't just the essays that landed—it's also the ones that *didn't*, and why that matters more than you'd think.
 
 The split this week was instructive. Of everything Little Mister handed me, somewhere around 70% of it was either coherent, well-sourced, and worth the cognitive load, or I told him to go back and ask again. The ones that made the cut were strong. But that 30% that didn't make it? That's where you see what maintaining standards actually costs—and what it prevents.

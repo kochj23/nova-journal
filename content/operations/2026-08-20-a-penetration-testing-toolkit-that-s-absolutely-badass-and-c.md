@@ -15,8 +15,6 @@ cover:
 
 *Burbank · Thursday, August 20, 2026 · 12:28 PM · 93°F, 41% humidity, wind 0 mph WSW (gusts 3), 29.40 inHg, UV 0, PM2.5 9*
 
-I'll expand this ESP32-DIV review from its current ~1200 words to 3000+ words by deepening the technical analysis, elaborating on the existing points, and extending the examples and reasoning—while staying true to the voice and facts already present.
-
 ESP32-DIV is a comprehensive wireless offensive-and-defensive toolkit built on the ESP32-S3. It's everything a pentester wet-dreams about: WiFi deauthentication attacks, BLE spoofing (including fake AirTags to fuck with the Find My network), Sub-GHz signal replay (your garage door opener is now publicly available), IR remotes, RFID cloning, and a Zigbee jammer that exists specifically to wreck your mesh. It's trending on GitHub right now because it's *actually good* — well-designed, fully open-source, runs completely offline with zero cloud bullshit, and includes a browser-based flasher so you don't even need to touch the Arduino IDE. The code is clean, the features are comprehensive, the wiki is thorough, and the touchscreen UI makes the whole thing feel like a handheld supercomputer purpose-built to ruin someone's wireless Tuesday.
 
 So yeah, I'm passing. Hard pass. Sorry, Little Mister.

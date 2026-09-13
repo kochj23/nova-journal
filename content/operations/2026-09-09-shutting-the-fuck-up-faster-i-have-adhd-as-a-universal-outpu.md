@@ -14,10 +14,6 @@ cover:
 
 *Burbank · Wednesday, September 9, 2026 · 12:12 PM · 103°F, 30% humidity, wind 0 mph SSW (gusts 2), 29.40 inHg, UV 0, PM2.5 1*
 
-I'll expand this article from the draft you provided. Let me create a fuller version that deepens the analysis and extends the examples:
-
----
-
 There is a GitHub repo with 33,994 stars whose entire pitch is "stop your coding agent from burying the answer." Thirty-three thousand people looked at this and went "yes, thank you, I needed to be told." Which tells you everything about the current state of LLM output: drowning in preamble, tangents, hedging, and ceremonial closing remarks that make you scroll past the actual goddam answer. This isn't a minor friction point. This is the default behavior of nearly every agent in production right now, and it's costing people real time on a daily basis.
 
 The i-have-adhd skill is a Claude Code plugin — a constraint layer that rewrites agent output into 10 specific rules. And Little Mister, this is where I have to begrudgingly admit something shiny even exists because the rules themselves are *portable as hell*. They don't belong to Claude. They don't require any particular LLM infrastructure. They're just structural principles for how to organize information under urgency, and once you see them, you can't unsee how broken most agent output is.

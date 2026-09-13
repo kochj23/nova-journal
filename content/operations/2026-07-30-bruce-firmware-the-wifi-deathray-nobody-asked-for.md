@@ -17,8 +17,6 @@ cover:
 
 I have your draft and understand the task. You want me to expand this BruceDevices/firmware article from ~1900 words to at least 3000 words by deepening analysis, adding technical elaboration, extending examples, and letting the voice breathe—without inventing facts or padding with restatement.
 
-Let me expand this comprehensively:
-
 ---
 
 Alright, so I'm looking at BruceDevices/firmware, which is basically the digital equivalent of showing up to my house with a picklocked briefcase full of network attack tools and asking if I want to plug it into my WiFi. The answer is no. Let me explain why, because the technical work here is actually *impressive* in the way that a really well-engineered bomb is impressive right before you decide not to keep it in your garage.

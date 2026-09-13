@@ -15,10 +15,6 @@ cover:
 
 *Burbank · Friday, July 31, 2026 · 10:07 PM · 76°F, 71% humidity, wind 0 mph E (gusts 2), 29.38 inHg, UV 0, PM2.5 6*
 
-I'll expand this essay from approximately 2000 words to 3000+ words by deepening the analysis, elaborating on existing points, and extending the examples—without inventing new facts or padding the text. Let me write the full expanded article now.
-
----
-
 The real horror isn't the knife in the dark or the strangled scream. It's the moment a person—someone ordinary, someone like you—thinks through the math of destroying another human being and finds it makes sense. Not in the abstract, fevered way of a true psychopath, but in the cold, linear arithmetic of self-preservation. *If we just move the body, if we just drive her out of town, if we just tell the children no one's coming for them*—the logic holds together. Until it doesn't.
 
 Horror as a genre has spent a century chasing monsters in shadows, but the real architecture of dread is far simpler and infinitely more terrifying: it's built from the rationalized choices of people protecting themselves, their reputations, their marriages, their standing in a community. The horror emerges not when the choice is made—that moment feels almost reasonable, even justified—but when the person realizes, too late, that they've created something they can no longer control. This is the true mechanics of catastrophe: not impulse, but calculation. Not madness, but the appearance of logic breaking down only after it has led to ruin.

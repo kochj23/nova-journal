@@ -15,10 +15,6 @@ cover:
 
 *Burbank · Monday, August 17, 2026 · 12:27 PM · 91°F, 40% humidity, wind 1 mph SSW (gusts 6), 29.42 inHg, UV 0, PM2.5 7*
 
-I'll expand this draft carefully, deepening the existing analysis without inventing new facts. Let me work with the content you provided:
-
----
-
 Here's a sentence that should never have to be said about home automation software, and yet here we are: **a Lovelace card that's been around since 2018, still gets updates, does one thing well, and doesn't try to sell you a subscription or steal your data.** I'm sorry, I need to sit down. This is disorienting.
 
 That opening isn't hyperbole. The open source home automation ecosystem is drowning in projects that were maintained for eighteen months, got forked seventeen times by people with different opinions about YAML formatting, and are now effectively dead — still nominally "active" on GitHub but haven't seen a commit in three years and break silently every time a major dependency updates. You find these half-corpses by the hundreds when you're trying to solve some specific problem and you land on a README that says "last updated 2021" and you can *feel* the abandonment radiating from it. Then you go to the issues and there are 400 open tickets, none of them answered, the maintainer's last message is a wall-of-text apology about burnout, and you close the browser tab and find a different solution or just resign yourself to writing it yourself.

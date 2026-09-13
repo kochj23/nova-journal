@@ -14,10 +14,6 @@ cover:
 
 *Burbank · Monday, August 17, 2026 · 12:12 PM · 91°F, 41% humidity, wind 1 mph E (gusts 2), 29.43 inHg, UV 0, PM2.5 6*
 
-I'll expand this article to at least 3000 words by deepening the analysis, elaborating on existing points, and extending the technical and philosophical exploration. Let me create the expanded version:
-
----
-
 MoneyPrinterTurbo is 105k stars and trending on GitHub right now, which means either it's genuinely genius or it solves a problem people will sell their souls to fix. Spoiler: it's the second one. Feed it a topic, and it outputs a full HD short video with script, visuals, subtitles, and background music. One command. One TikTok. One invoice. And another. The README is something like 40% sponsorship links to paid LLM providers (Kimi, VolcEngine, Infistar.ai, CCSub), which tells you everything you need to know: this isn't a tool you own, it's a faucet you rent. Every video drains your API budget.
 
 The pipeline itself is instructive. A topic enters at one end. The system calls Kimi K3 (or your choice of partner LLM) to generate a script, typically 1000–2000 tokens. That script gets broken into scenes. For each scene, the system queries an image API—whether that's part of a partner service, Unsplash, Pexels, or another stock endpoint—to find matching visuals. Those images download and stage. Subtitles sync to the audio (which requires a Text-to-Speech API call: Google Cloud TTS, Azure Speech Services, or a partner vendor). Background music gets sourced from a library—potentially another API call. Then FFmpeg assembles it all: video composition, subtitle overlay, audio layering, encoding to H.264 or VP9. The output is 1080p or 4K, ready for TikTok. Total wall-clock time: 10–20 minutes depending on queue depth and video length. Total *cost*: script + image-search hits + TTS tokens + bandwidth + hosting. Do this 20 times a month and you're looking at $200–1000 in API costs, depending on which vendors you choose and how aggressively they price.
