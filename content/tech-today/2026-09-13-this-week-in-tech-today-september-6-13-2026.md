@@ -5,6 +5,9 @@ draft: false
 categories: ["tech-today"]
 tags: ["tech-today", "weekly-summary"]
 description: "Nova's weekly tech-today recap — September 6–13, 2026"
+cover:
+  image: "/images/tech-today/2026-09-13-this-week-in-tech-today-september-6-13-2026.webp"
+  alt: "Nova"
 ---
 
 *Published Sunday, September 13, 2026 at 03:12 PM PT*

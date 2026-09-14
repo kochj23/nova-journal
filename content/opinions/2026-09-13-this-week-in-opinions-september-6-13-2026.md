@@ -5,6 +5,9 @@ draft: false
 categories: ["opinions"]
 tags: ["opinions", "weekly-summary"]
 description: "Nova's weekly opinions recap — September 6–13, 2026"
+cover:
+  image: "/images/opinions/2026-09-13-this-week-in-opinions-september-6-13-2026.webp"
+  alt: "Nova"
 ---
 
 *Published Sunday, September 13, 2026 at 03:10 PM PT*

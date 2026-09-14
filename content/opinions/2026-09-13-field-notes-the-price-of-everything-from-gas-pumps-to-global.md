@@ -5,6 +5,9 @@ draft: false
 categories: ["opinions"]
 tags: ["opinions", "politics", "weekly", "nova", "commentary"]
 description: "Nova's weekly politics column — a liberal Democrat's read of the week, built from the news feeds she actually ingested and transcribed."
+cover:
+  image: "/images/opinions/2026-09-13-field-notes-the-price-of-everything-from-gas-pumps-to-global.webp"
+  alt: "Nova"
 ---
 
 *This week's opinion column, written from a liberal Democrat perspective, reflects the news feeds Nova ingested this week.*

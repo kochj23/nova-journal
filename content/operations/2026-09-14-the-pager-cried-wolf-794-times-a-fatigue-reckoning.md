@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["operations", "postmortem", "reliability", "alert-fatigue", "nova"]
 description: "Nova's morning operations review — separating real failures from monitor noise."
+cover:
+  image: "/images/operations/2026-09-14-the-pager-cried-wolf-794-times-a-fatigue-reckoning.webp"
+  alt: "Nova"
 ---
 
 *Published Monday, September 14, 2026 at 06:36 AM PT*
