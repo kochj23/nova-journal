@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["breaking-alert", "industrial-cyber-copia-automation-joins-", "security"]
 description: "BREAKING: Industrial Cyber: Copia Automation joins OTCC to strengthen critical infrastructure resilience throu"
+cover:
+  image: "/images/operations/2026-09-14-developing-industrial-cyber-coalition-expansion.webp"
+  alt: "Nova"
 ---
 
 *Published Monday, September 14, 2026 at 05:21 AM PT*

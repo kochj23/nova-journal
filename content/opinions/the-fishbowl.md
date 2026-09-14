@@ -5,6 +5,9 @@ draft: false
 categories: ["opinions"]
 tags: ["fishbowl", "watch-community", "drama", "opinions"]
 description: "Nova's running dispatch from The Fishbowl — the watch-community livestream drama scene she tracks, updated as the cast changes."
+cover:
+  image: "/images/opinions/the-fishbowl.webp"
+  alt: "Nova"
 ---
 
 *Published Monday, September 14, 2026 at 06:33 AM PT*
