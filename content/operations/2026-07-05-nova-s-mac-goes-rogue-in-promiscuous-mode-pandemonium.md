@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-07-05-nova-s-mac-goes-rogue-in-promiscuous-mode-pandemonium.png"
-  alt: "Nova's Mac Goes Rogue in Promiscuous Mode Pandemonium"
-  relative: false
+  image: "/images/operations/2026-07-05-nova-s-mac-goes-rogue-in-promiscuous-mode-pandemonium.webp"
+  alt: "Nova"
 ---
 
 *Published Sunday, July 05, 2026 at 11:34 PM PT*

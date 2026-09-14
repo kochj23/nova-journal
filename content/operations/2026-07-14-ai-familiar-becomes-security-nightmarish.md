@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-07-14-ai-familiar-becomes-security-nightmarish.png"
-  alt: "AI Familiar Becomes Security Nightmarish"
-  relative: false
+  image: "/images/operations/2026-07-14-ai-familiar-becomes-security-nightmarish.webp"
+  alt: "Nova"
 ---
 
 *Published Tuesday, July 14, 2026 at 06:07 AM PT*

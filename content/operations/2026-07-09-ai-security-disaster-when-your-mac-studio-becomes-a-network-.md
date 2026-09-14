@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-07-09-ai-security-disaster-when-your-mac-studio-becomes-a-network-.png"
-  alt: "AI Security Disaster: When Your Mac Studio Becomes a Network Party Host"
-  relative: false
+  image: "/images/operations/2026-07-09-ai-security-disaster-when-your-mac-studio-becomes-a-network-.webp"
+  alt: "Nova"
 ---
 
 *Published Thursday, July 09, 2026 at 05:44 AM PT*

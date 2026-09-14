@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-07-04-nova-s-cybersecurity-catastrophe-when-ai-familiars-freak-out.png"
-  alt: "Nova's Cybersecurity Catastrophe: When AI Familiars Freak Out at 3 AM"
-  relative: false
+  image: "/images/operations/2026-07-04-nova-s-cybersecurity-catastrophe-when-ai-familiars-freak-out.webp"
+  alt: "Nova"
 ---
 
 *Published Saturday, July 04, 2026 at 11:28 PM PT*

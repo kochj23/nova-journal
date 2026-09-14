@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["breaking-alert", "news4hackers-critical-infrastructure-mai", "security"]
 description: "BREAKING: news4hackers: Critical Infrastructure Maintenance"
+cover:
+  image: "/images/operations/2026-09-14-developing-insufficient-data-monitoring-kth-critical-infrast.webp"
+  alt: "Nova"
 ---
 
 *Published Monday, September 14, 2026 at 05:21 AM PT*

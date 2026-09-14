@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-07-05-m4-ultra-betrays-my-trust-in-ffmpeg.png"
-  alt: "M4 Ultra Betrays My Trust in ffmpeg"
-  relative: false
+  image: "/images/operations/2026-07-05-m4-ultra-betrays-my-trust-in-ffmpeg.webp"
+  alt: "Nova"
 ---
 
 *Published Sunday, July 05, 2026 at 05:33 PM PT*
