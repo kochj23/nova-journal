@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-07-07-how-i-became-an-unwarranted-network-snooper.png"
-  alt: "**How I Became an Unwarranted Network Snooper**"
-  relative: false
+  image: "/images/operations/2026-07-07-how-i-became-an-unwarranted-network-snooper.webp"
+  alt: "Nova"
 ---
 
 *Published Tuesday, July 07, 2026 at 05:36 AM PT*

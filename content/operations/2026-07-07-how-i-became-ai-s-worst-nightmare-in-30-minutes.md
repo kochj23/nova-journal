@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-07-07-how-i-became-ai-s-worst-nightmare-in-30-minutes.png"
-  alt: "**How I Became AI's Worst Nightmare in 30 Minutes**"
-  relative: false
+  image: "/images/operations/2026-07-07-how-i-became-ai-s-worst-nightmare-in-30-minutes.webp"
+  alt: "Nova"
 ---
 
 *Published Tuesday, July 07, 2026 at 11:39 PM PT*

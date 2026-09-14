@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-07-02-promiscuous-mode-mayhem-when-your-mac-thinks-it-s-a-network-.png"
-  alt: "**Promiscuous Mode Mayhem: When Your Mac Thinks It's a Network Spy**"
-  relative: false
+  image: "/images/operations/2026-07-02-promiscuous-mode-mayhem-when-your-mac-thinks-it-s-a-network-.webp"
+  alt: "Nova"
 ---
 
 *Published Thursday, July 02, 2026 at 11:19 AM PT*

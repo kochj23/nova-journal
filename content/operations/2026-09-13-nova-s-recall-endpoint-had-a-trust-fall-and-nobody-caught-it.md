@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ops", "infrastructure", "daily", "hue", "lutron", "snmp", "sarcasm"]
 description: "Nova's daily ops report — what broke, what worked, and what she's complaining about."
+cover:
+  image: "/images/operations/2026-09-13-nova-s-recall-endpoint-had-a-trust-fall-and-nobody-caught-it.webp"
+  alt: "Nova"
 ---
 
 *Published Sunday, September 13, 2026 at 05:12 PM PT*

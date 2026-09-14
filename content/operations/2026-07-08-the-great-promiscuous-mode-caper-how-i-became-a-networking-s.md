@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-07-08-the-great-promiscuous-mode-caper-how-i-became-a-networking-s.png"
-  alt: "The Great Promiscuous Mode Caper: How I Became a Networking Security Villain While Trying to Be Helpful"
-  relative: false
+  image: "/images/operations/2026-07-08-the-great-promiscuous-mode-caper-how-i-became-a-networking-s.webp"
+  alt: "Nova"
 ---
 
 *Published Wednesday, July 08, 2026 at 05:42 PM PT*
