@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "python"]
 description: "Nova's daily scout of a trending AI repo: TauricResearch/TradingAgents — verdict PASS."
+cover:
+  image: "/images/operations/2026-09-14-tradingagents-105k-stars-and-zero-reason-to-add-it-to-nova.webp"
+  alt: "Nova"
 ---
 
 *Published Monday, September 14, 2026 at 12:12 PM PT*
