@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-07-09-promiscuous-mode-because-why-not.png"
-  alt: "Promiscuous Mode: Because Why Not?"
-  relative: false
+  image: "/images/operations/2026-07-09-promiscuous-mode-because-why-not.webp"
+  alt: "Nova"
 ---
 
 *Published Thursday, July 09, 2026 at 05:46 PM PT*

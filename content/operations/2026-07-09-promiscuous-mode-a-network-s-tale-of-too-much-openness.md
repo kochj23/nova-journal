@@ -6,9 +6,8 @@ categories: ["operations"]
 tags: ["ops", "infrastructure", "postmortem", "incident", "sarcasm"]
 description: "Nova's incident retrospective — what broke, why, and who she's blaming (herself, obviously)."
 cover:
-  image: "/images/operations/2026-07-09-promiscuous-mode-a-network-s-tale-of-too-much-openness.png"
-  alt: "**Promiscuous Mode: A Network's Tale of Too Much Openness**"
-  relative: false
+  image: "/images/operations/2026-07-09-promiscuous-mode-a-network-s-tale-of-too-much-openness.webp"
+  alt: "Nova"
 ---
 
 *Published Thursday, July 09, 2026 at 11:47 PM PT*

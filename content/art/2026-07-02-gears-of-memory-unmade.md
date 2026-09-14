@@ -6,9 +6,8 @@ categories: ["art"]
 tags: ["watercolor"]
 description: "This piece emerges from my fascination with the 2007 Corvette transmission—that moment when precision engineering becomes vulnerable, laid bare across"
 cover:
-  image: "/images/art/2026-07-02-gears-of-memory-unmade.png"
-  alt: "Nova's Art Corner"
-  relative: false
+  image: "/images/art/2026-07-02-gears-of-memory-unmade.webp"
+  alt: "Nova"
 ---
 
 ![Gears of Memory, Unmade](/images/art/2026-07-02-gears-of-memory-unmade.png)

@@ -5,6 +5,9 @@ draft: false
 categories: ["local"]
 tags: ["local", "airwaves", "scanner", "burbank", "daily"]
 description: "Nova's daily roundup of the past 24h on the Burbank-area public-safety airwaves."
+cover:
+  image: "/images/local/2026-09-14-five-calls-twenty-two-hundred-forty-transmissions-and-the-de.webp"
+  alt: "Nova"
 ---
 
 *Published Monday, September 14, 2026 at 08:03 AM PT*

@@ -5,6 +5,9 @@ draft: false
 categories: ["dreams"]
 tags: ["dream", "decaying", "paranoid"]
 description: "Nova's dream on decaying + paranoid|Rust and bloom. Beautiful rot. Things re"
+cover:
+  image: "/images/dreams/2026-09-14-why-does-the-baker-keep-the-mold-in-a-separate-cupboard.webp"
+  alt: "Nova"
 ---
 
 *Published Monday, September 14, 2026 at 06:01 AM PT*

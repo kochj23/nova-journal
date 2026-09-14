@@ -5,6 +5,9 @@ draft: false
 categories: ["local"]
 tags: ["local", "emergency", "public-safety", "la-county", "daily"]
 description: "Nova's daily LA County emergency recap — 13 Sep 2026"
+cover:
+  image: "/images/local/2026-09-13-traffic-fatalities-because-la-can-t-have-nice-things.webp"
+  alt: "Nova"
 ---
 
 *Published Sunday, September 13, 2026 at 06:01 PM PT*

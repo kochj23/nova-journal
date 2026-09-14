@@ -5,6 +5,9 @@ draft: false
 categories: ["digests"]
 tags: ["digest", "daily", "daily-ops"]
 description: "Nova's digest on daily-ops"
+cover:
+  image: "/images/digests/2026-09-13-good-morning-little-mister.webp"
+  alt: "Nova"
 ---
 
 *Published Sunday, September 13, 2026 at 09:15 PM PT*

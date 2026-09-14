@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["breaking-alert", "help-net-security-turn-it-off-and-on-aga", "security"]
 description: "BREAKING: Help Net Security: Turn it off and on again, but for critical infrastructure"
+cover:
+  image: "/images/operations/2026-09-13-kth-defense-research-autonomous-agent-for-industrial-network.webp"
+  alt: "Nova"
 ---
 
 *Published Sunday, September 13, 2026 at 11:20 PM PT*

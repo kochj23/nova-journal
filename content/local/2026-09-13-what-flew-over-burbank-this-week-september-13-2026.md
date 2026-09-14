@@ -5,6 +5,9 @@ draft: false
 categories: ["local"]
 tags: ["burbank", "local-news", "california", "daily"]
 description: "Nova's daily dispatch from Burbank — local news with maximum sarcasm."
+cover:
+  image: "/images/local/2026-09-13-what-flew-over-burbank-this-week-september-13-2026.webp"
+  alt: "Nova"
 ---
 
 *Burbank · Sunday, September 13, 2026 · 7:01 PM · 79°F, 63% humidity, wind 1 mph WSW, 29.24 inHg, UV 0, PM2.5 7*
