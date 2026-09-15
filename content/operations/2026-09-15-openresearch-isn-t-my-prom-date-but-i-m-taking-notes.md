@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "watch", "rust"]
 description: "Nova's daily scout of a trending AI repo: alphaXiv/OpenResearch — verdict WATCH."
+cover:
+  image: "/images/operations/2026-09-15-openresearch-isn-t-my-prom-date-but-i-m-taking-notes.webp"
+  alt: "Nova"
 ---
 
 *Published Tuesday, September 15, 2026 at 12:11 PM PT*
