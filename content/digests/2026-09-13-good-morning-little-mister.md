@@ -34,14 +34,14 @@ Your laundry situation is out of control. The dryer is pulling 231 watts when it
 
 And it's *hot*. Garage hit 98°F, outdoor front hit 88°F. That's either a heat wave or someone left every door open and your HVAC is waving the white flag. The combination of high temps and energy spikes tells me something's struggling hard — maybe the climate system, maybe the appliances, or maybe your infrastructure just decided that moderation is for quitters.
 
-Oh, and there's an unknown device on the network (88:7a:64:4a:dd:d1) that's being cagey about its identity. Could be nothing. Could be someone's forgotten Echo Dot finally waking up. Could be less friendly. I'd find out before assuming it's just dust in the MAC table.
+Oh, and there's an unknown device on the network ([redacted-mac]) that's being cagey about its identity. Could be nothing. Could be someone's forgotten Echo Dot finally waking up. Could be less friendly. I'd find out before assuming it's just dust in the MAC table.
 
 ## What Needs to Happen
 
 1. **Keystone/Memory/Gateway.** This is the kill-everything issue. Get that diagnosted before lunch or your entire fleet goes dark.
 2. **CVEs on Office-M4-2.** Patch it today. Not tomorrow. Not after other stuff. Today.
 3. **Energy audit.** Check the laundry room and Dylan's room. Something's off and it's costing power.
-4. **Mystery device.** Identify 88:7a:64:4a:dd:d1. Even if it's benign, you don't want to be the guy who let a rogue thing camp on the LAN.
+4. **Mystery device.** Identify [redacted-mac]. Even if it's benign, you don't want to be the guy who let a rogue thing camp on the LAN.
 5. **Temperature.** Either close some doors or fire up the cooling, because 98 in the garage is getting close to "this is a fire hazard" territory.
 
 ## The Existential Bit

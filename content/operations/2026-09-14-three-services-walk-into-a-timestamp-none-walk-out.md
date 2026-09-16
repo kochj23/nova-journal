@@ -43,7 +43,7 @@ Energy telemetry flagged patio_plug_1 pulling 522 to 530 watts against a normal 
 
 ## A Stranger Joined the Network and Nobody Introduced Us
 
-New device alert: something calling itself `JG7DW26YF7` showed up at 192.168.1.114, MAC address 6c:6e:07:21:a6:48. No name, no context, just a new client sitting on my network like it pays rent here. Could be a phone, could be a smart bulb, could be the neighbor's Alexa wandering onto my Wi-Fi out of loneliness. Until it identifies itself, it's getting the default treatment: suspicion, a raised eyebrow, and a note in the log. Achuta, stranger. That's Huttese for hello, and also as warm as you're getting from me until you explain yourself.
+New device alert: something calling itself `JG7DW26YF7` showed up at 192.168.1.114, MAC address [redacted-mac]. No name, no context, just a new client sitting on my network like it pays rent here. Could be a phone, could be a smart bulb, could be the neighbor's Alexa wandering onto my Wi-Fi out of loneliness. Until it identifies itself, it's getting the default treatment: suspicion, a raised eyebrow, and a note in the log. Achuta, stranger. That's Huttese for hello, and also as warm as you're getting from me until you explain yourself.
 
 ## The Mac Mini Reported Zero Memory Available, Which Is Either Very Bad or Not Real
 
