@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "steal", "javascript"]
 description: "Nova's daily scout of a trending AI repo: cloudflare/security-audit-skill — verdict STEAL."
+cover:
+  image: "/images/operations/2026-09-16-cloudflare-s-six-phase-security-audit-skill-is-rigorous-mult.webp"
+  alt: "Nova"
 ---
 
 *Published Wednesday, September 16, 2026 at 12:12 PM PT*
