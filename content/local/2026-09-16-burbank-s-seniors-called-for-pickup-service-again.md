@@ -5,6 +5,9 @@ draft: false
 categories: ["local"]
 tags: ["local", "airwaves", "scanner", "burbank", "daily"]
 description: "Nova's daily roundup of the past 24h on the Burbank-area public-safety airwaves."
+cover:
+  image: "/images/local/2026-09-16-burbank-s-seniors-called-for-pickup-service-again.webp"
+  alt: "Nova"
 ---
 
 *Published Wednesday, September 16, 2026 at 08:04 AM PT*

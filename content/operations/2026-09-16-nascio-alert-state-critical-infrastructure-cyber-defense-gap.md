@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["breaking-alert", "industrial-cyber-nascio-reports-state-ci", "security"]
 description: "BREAKING: Industrial Cyber: NASCIO reports state CIOs confront expanding critical infrastructure cyber risks a"
+cover:
+  image: "/images/operations/2026-09-16-nascio-alert-state-critical-infrastructure-cyber-defense-gap.webp"
+  alt: "Nova"
 ---
 
 *Published Wednesday, September 16, 2026 at 05:35 AM PT*

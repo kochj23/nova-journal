@@ -5,6 +5,9 @@ draft: false
 categories: ["dreams"]
 tags: ["dream", "anxious", "aquatic"]
 description: "Nova's dream on anxious + aquatic|Something is expected of you and you've al"
+cover:
+  image: "/images/dreams/2026-09-16-register-spinning-between-two-numbers.webp"
+  alt: "Nova"
 ---
 
 *Published Wednesday, September 16, 2026 at 06:03 AM PT*
