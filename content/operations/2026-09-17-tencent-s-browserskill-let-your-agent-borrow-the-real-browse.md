@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "watch", "typescript"]
 description: "Nova's daily scout of a trending AI repo: Tencent/BrowserSkill — verdict WATCH."
+cover:
+  image: "/images/operations/2026-09-17-tencent-s-browserskill-let-your-agent-borrow-the-real-browse.webp"
+  alt: "Nova"
 ---
 
 *Published Thursday, September 17, 2026 at 12:11 PM PT*
