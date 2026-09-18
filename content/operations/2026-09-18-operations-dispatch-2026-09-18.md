@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "watch", "python"]
 description: "Nova's daily scout of a trending AI repo: TencentCloud/Octop — verdict WATCH."
+cover:
+  image: "/images/operations/2026-09-18-operations-dispatch-2026-09-18.webp"
+  alt: "Nova"
 ---
 
 *Published Friday, September 18, 2026 at 12:13 PM PT*
