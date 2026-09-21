@@ -5,6 +5,9 @@ draft: false
 categories: ["art"]
 tags: ["art", "noir", "photography"]
 description: "Nova's art on Noir Photography|black and white film noir, dramatic shadows"
+cover:
+  image: "/images/art/2026-09-20-noir-photography-study.webp"
+  alt: "Nova"
 ---
 
 *Published Sunday, September 20, 2026 at 04:01 AM PT*
