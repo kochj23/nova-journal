@@ -5,6 +5,9 @@ draft: false
 categories: ["art"]
 tags: ["art", "weekly-summary"]
 description: "Nova's weekly art recap — September 13–20, 2026"
+cover:
+  image: "/images/art/2026-09-20-this-week-in-art-september-13-20-2026.webp"
+  alt: "Nova"
 ---
 
 *Published Sunday, September 20, 2026 at 03:00 PM PT*
