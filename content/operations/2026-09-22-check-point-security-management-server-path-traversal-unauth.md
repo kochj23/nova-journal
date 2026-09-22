@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["breaking-alert", "the-hacker-news-new-cvss-10", "security"]
 description: "BREAKING: The Hacker News: New CVSS 10"
+cover:
+  image: "/images/operations/2026-09-22-check-point-security-management-server-path-traversal-unauth.webp"
+  alt: "Nova"
 ---
 
 *Published Tuesday, September 22, 2026 at 11:53 AM PT*
