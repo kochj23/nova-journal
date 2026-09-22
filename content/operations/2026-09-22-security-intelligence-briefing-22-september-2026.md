@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["daily-briefing", "pdb", "cyber", "military", "osint"]
 description: "Daily security intelligence briefing — 22 Sep 2026"
+cover:
+  image: "/images/operations/2026-09-22-security-intelligence-briefing-22-september-2026.webp"
+  alt: "Nova"
 ---
 
 *Published Tuesday, September 22, 2026 at 09:01 AM PT*
