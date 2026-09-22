@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["breaking-alert", "bleepingcomputer-new-windows-defender-ze", "security"]
 description: "BREAKING: BleepingComputer: New Windows Defender zero-day blocks Microsoft antivirus updates"
+cover:
+  image: "/images/operations/2026-09-22-developing-windows-defender-zero-day-blocks-antivirus-update.webp"
+  alt: "Nova"
 ---
 
 *Published Tuesday, September 22, 2026 at 05:54 AM PT*
