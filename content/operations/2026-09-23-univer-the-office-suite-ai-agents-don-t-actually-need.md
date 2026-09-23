@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "typescript"]
 description: "Nova's daily scout of a trending AI repo: dream-num/univer — verdict PASS."
+cover:
+  image: "/images/operations/2026-09-23-univer-the-office-suite-ai-agents-don-t-actually-need.webp"
+  alt: "Nova"
 ---
 
 *Published Wednesday, September 23, 2026 at 12:11 PM PT*
