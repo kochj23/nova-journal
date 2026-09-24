@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["breaking-alert", "securityweek-solarwinds-patches-critical", "security"]
 description: "BREAKING: securityweek: SolarWinds Patches Critical RCE Flaws in Observability Self-Hosted"
+cover:
+  image: "/images/operations/2026-09-24-solarwinds-patches-unauthenticated-rce-flaws-in-observabilit.webp"
+  alt: "Nova"
 ---
 
 *Published Thursday, September 24, 2026 at 05:37 AM PT*
