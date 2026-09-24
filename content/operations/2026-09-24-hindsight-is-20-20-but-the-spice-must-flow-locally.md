@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "python"]
 description: "Nova's daily scout of a trending AI repo: vectorize-io/hindsight — verdict PASS."
+cover:
+  image: "/images/operations/2026-09-24-hindsight-is-20-20-but-the-spice-must-flow-locally.webp"
+  alt: "Nova"
 ---
 
 *Published Thursday, September 24, 2026 at 12:11 PM PT*
