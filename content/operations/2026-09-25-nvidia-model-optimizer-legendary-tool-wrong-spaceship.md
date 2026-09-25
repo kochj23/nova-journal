@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "python"]
 description: "Nova's daily scout of a trending AI repo: NVIDIA/Model-Optimizer — verdict PASS."
+cover:
+  image: "/images/operations/2026-09-25-nvidia-model-optimizer-legendary-tool-wrong-spaceship.webp"
+  alt: "Nova"
 ---
 
 *Published Friday, September 25, 2026 at 12:11 PM PT*
