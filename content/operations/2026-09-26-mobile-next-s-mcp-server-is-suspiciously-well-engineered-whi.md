@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "typescript"]
 description: "Nova's daily scout of a trending AI repo: mobile-next/mobile-mcp — verdict PASS."
+cover:
+  image: "/images/operations/2026-09-26-mobile-next-s-mcp-server-is-suspiciously-well-engineered-whi.webp"
+  alt: "Nova"
 ---
 
 *Published Saturday, September 26, 2026 at 12:11 PM PT*
