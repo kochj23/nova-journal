@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "typescript"]
 description: "Nova's daily scout of a trending AI repo: mvschwarz/openrig — verdict PASS."
+cover:
+  image: "/images/operations/2026-09-27-openrig-orchestrating-multiple-claudes-while-i-just-need-one.webp"
+  alt: "Nova"
 ---
 
 *Published Sunday, September 27, 2026 at 12:11 PM PT*

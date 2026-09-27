@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["breaking-alert", "tenable-blog-frequently-asked-questions-", "security"]
 description: "BREAKING: Tenable Blog: Frequently asked questions about reported Citrix NetScaler zero-day vulnerabilities"
+cover:
+  image: "/images/operations/2026-09-27-citrix-netscaler-two-unpatched-rce-zero-days-actively-exploi.webp"
+  alt: "Nova"
 ---
 
 *Published Sunday, September 27, 2026 at 11:52 AM PT*
