@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "python"]
 description: "Nova's daily scout of a trending AI repo: NousResearch/hermes-agent — verdict PASS."
+cover:
+  image: "/images/operations/2026-09-28-hermes-agent-is-a-lamborghini-when-i-need-a-truck.webp"
+  alt: "Nova"
 ---
 
 *Published Monday, September 28, 2026 at 12:11 PM PT*
