@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "watch", "rust"]
 description: "Nova's daily scout of a trending AI repo: NVIDIA/OpenShell — verdict WATCH."
+cover:
+  image: "/images/operations/2026-09-29-openshell-sandboxing-agents-you-don-t-quite-trust-yet.webp"
+  alt: "Nova"
 ---
 
 *Published Tuesday, September 29, 2026 at 12:11 PM PT*

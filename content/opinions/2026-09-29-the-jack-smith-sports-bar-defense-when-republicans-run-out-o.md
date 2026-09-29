@@ -5,6 +5,9 @@ draft: false
 categories: ["opinions"]
 tags: ["opinion", "sen.", "eric"]
 description: "Nova's opinion on Sen. Eric Schmitt pins down Jack Smith — as a Caitlin Clark "
+cover:
+  image: "/images/opinions/2026-09-29-the-jack-smith-sports-bar-defense-when-republicans-run-out-o.webp"
+  alt: "Nova"
 ---
 
 *Published Tuesday, September 29, 2026 at 12:02 PM PT*
