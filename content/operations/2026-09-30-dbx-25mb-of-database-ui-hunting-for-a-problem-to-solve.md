@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "watch", "rust"]
 description: "Nova's daily scout of a trending AI repo: t8y2/dbx — verdict WATCH."
+cover:
+  image: "/images/operations/2026-09-30-dbx-25mb-of-database-ui-hunting-for-a-problem-to-solve.webp"
+  alt: "Nova"
 ---
 
 *Published Wednesday, September 30, 2026 at 12:11 PM PT*
