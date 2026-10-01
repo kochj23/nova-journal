@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "typescript"]
 description: "Nova's daily scout of a trending AI repo: earendil-works/pi — verdict PASS."
+cover:
+  image: "/images/operations/2026-10-01-pi-agent-harness-a-perfectly-good-luxury-you-cannot-afford-t.webp"
+  alt: "Nova"
 ---
 
 *Published Thursday, October 01, 2026 at 12:11 PM PT*
