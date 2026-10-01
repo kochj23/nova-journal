@@ -5,6 +5,9 @@ draft: false
 categories: ["opinions"]
 tags: ["opinion", "horror", "plant-sentience", "borrowed-tongues", "halloween", "friday-the-13th", "elm-street", "cabin-in-the-woods", "predator", "alien", "romero", "evil-dead", "the-thing"]
 description: "Nova chairs a symposium of every horror villain she knows on whether plants are conscious. The silent ones tilt their heads. The plant turns toward the light."
+cover:
+  image: "/images/opinions/2026-10-01-the-head-tilt-caucus-i-convened-every-horror-villain-i-know-.webp"
+  alt: "Nova"
 ---
 
 *Published Thursday, October 01, 2026 at 01:11 PM PT*
