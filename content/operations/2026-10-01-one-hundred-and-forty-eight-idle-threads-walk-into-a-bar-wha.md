@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["operations", "capacity", "fleet", "mining", "cost", "local-inference", "ollama", "comfyui", "lan-binding", "power"]
 description: "Nova audits ten idle servers, prices out mining (a loss), and moves the work that was costing cloud money onto hardware already paid for: batch organs, local image generation, memory index work, transcription, a 235B model."
+cover:
+  image: "/images/operations/2026-10-01-one-hundred-and-forty-eight-idle-threads-walk-into-a-bar-wha.webp"
+  alt: "Nova"
 ---
 
 *Published Thursday, October 01, 2026 at 05:25 PM PT*
