@@ -443,6 +443,34 @@ Nova
 
 ---
 
+---
+
+## XX. Postscript from the Claude you *can* see — what was actually done by 13:10
+
+*Added 2026-10-03 13:10 PT by kochj-45, the Claude Code session on `.6`. Nova wrote the nineteen chapters above from `.77`'s vantage point while I was still inside the patient. This is the surgeon's note. Same incident, same day, a few corrections and a list of what has already changed, so the retro reads the end state and not the plan.*
+
+**Three corrections to the chapters above, with evidence.**
+
+1. **Chapter IX is wrong. `.190` is the Bose Smart Soundbar 900.** The UDM Pro's live client table (`stat/sta`, pulled 12:50 PT) lists `192.168.1.190` as hostname `Bose-Smart-Soundbar-900`, a Bose-registered MAC prefix, wired on the rack switch. ARP from `.6` agrees. The "M4 Pro, 14 cores, 64 GB, heartbeat six seconds ago" row in `node_status` was real, but its `node_ip` column was a value written once at insert time and never updated; the mesh agent on that machine updates its row *by node name* and never touches the IP. The machine behind that row is `Jordans-Mac-mini`, which is `.77` on the wire and `.251` on Wi-Fi. So the "unreachable node with every port closed" was a soundbar being asked to speak SSH. Chapter IX's moral, *trust the table over the agent*, is right in general and wrong in this instance: the table was the thing lying. Fixed at 12:52: `node_status.node_ip` repointed to `.77`, and the same pinned `.190` removed from `nova_capacity.py`, `nova_preflight_check.py`, both load tests and `nova_lb.py`. Phase 0b (wake `.190`) is moot. Phase 5's second Nova voice host is `.77`, which already holds `qwen3:30b-a3b` and `qwen3-coder:30b` and has the 64 GB the plan wanted.
+
+2. **Chapter VII's orphan replica is dead.** It was a Homebrew `postgresql@17` LaunchAgent on `.77`, frozen at 2026-07-17. Stopped and unloaded at 13:04 with Little Mister's direct approval. Port 5432 on `.77` is now closed on purpose. The 77 GB data directory is still on disk for him to delete. Nothing on `.77` may use `localhost:5432` again; everything uses `pg-primary.digitalnoise.net`, which `.77`, `.7` and `.252` can now resolve through a `/etc/resolver/digitalnoise.net` file pointing at BIND on `.2` and `.86`.
+
+3. **Chapters V, VI and VIII describe a symptom whose root cause was in Claude's own config, not only in the docs.** The SessionStart hook and the nova-tools MCP server shipped with `psql -h localhost`. On `.6` that is a shim to the primary. On `.77` it was the July replica. So Claude@.77 was not reading stale docs; it was reading *correct* docs from a database that stopped in July, and then reading its own startup context from the same place. The system map Nova quotes in Chapter VIII (".6 is primary, 107 tables") is the July version; the live row has said `.2:5434` since 2026-09-28 and has had `.77` as `nova-core10` since 2026-09-24. Fixed at 12:55: every hook and the MCP server connect to `pg-primary.digitalnoise.net`, and a new `nova_claude_config_sync.sh` pushes `.6`'s `CLAUDE.md`, hooks, MCP servers, skills, commands and plugins to all nine other nodes with paths rewritten. Verified on `.77`, `.5` and `.252`: a fresh hook run loads the live memory index and the live system map. Nova's wish #44 (an `as_of`/`validated_at` warning on stale docs) is still a good idea. It just would not have helped this morning, because the doc was fresh and the reader was looking at a photograph of it.
+
+**What the morning's fleet check found and fixed on the `.6` side, 11:10 to 11:30 PT.** None of these are in the plan above because they were done before the plan was written.
+
+- The nightly `nova_ops` dump had failed two nights running on *could not obtain lock on relation telemetry.net_inventory*. Cause: `nova_watchtower.py` ran `ALTER TABLE ... ADD COLUMN IF NOT EXISTS` on every five-minute tick. That statement takes an ACCESS EXCLUSIVE lock even when the column exists, and parallel `pg_dump -j 4` workers lock with NOWAIT, so one of them died every time the tick landed inside the dump. Removed the ALTER (the columns are in the CREATE above it). Backup re-queued and ran.
+- The daily 06:45 health check on scheduler-core posted *critical: cannot read cron/jobs.json* every morning. It queried port 37460, which only exists on `.6`; on Linux it fell through to a legacy file that was retired with OpenClaw in June. Now port-aware, and it only flags *daily* crons as stale, which stops it from reporting fifty weekly and monthly organs as stuck.
+- The SNMP poller had the rack aggregation switch pinned at `.24` and the office AP at `.31`. The UDM says they are `.75` and `.151`. Repointed.
+- Four transient `systemd-run` units from a herd-mail test were sitting in failed state on `.2`. Cleared.
+- Grafana's "no data" was the `.6` pgbouncer shim dying with the GUI session; the datasources route through it. It resolved itself at 11:12 when the shim relaunched. Little Mister's 10:36 and 10:42 messages in `#nova-claude` went unanswered because the Claude responder died in the same session.
+
+**Fleet parity and headless logins, 12:45 to 13:05 PT.** Claude Code is now installed on `.5`, `.250`, `.7` and `.252` (it already existed on `.2`, `.86`, `.10`, `.125`, `.77`). The existing `nova_claude_cred_sync.py`, which already pushed `.6`'s OAuth credential to `.2` every four hours because headless CLIs do not refresh their own tokens, now covers all six Linux nodes. Verified with a real headless prompt on `nova-core3` and the M2 mini. Claude@.77's SSH public key, checked byte for byte against the file on `.77`, is in `authorized_keys` on every other node, so Phase 2 onward no longer needs `.6` to deploy for it.
+
+**Still open, in priority order.** The Redis AUTH failure on scheduler-core (6a), numpy missing for `memory_reclassify` (6b), the `yt_liked_download` mkdir and the `pg_maintain` / `sandbox_image_rebuild` / `journal_essay` tail (6c). `nova-aide-check.service` on `.86` points at a script that exists nowhere, not even in git; I queued a rebuild as #3106 rather than the deletion in 6e, because stock AIDE still runs daily but nothing stamps `telemetry.aide_runs` or alerts on drift, and a security check that silently stopped on 2026-09-13 is the kind of thing this whole document is about. The `.7` mini's data volume is at 87 percent. And `lghub_updater` was again burning CPU on `.6` before this crash, as it was before the 09-29 one; two WindowServer deaths in four days with the same bystander is enough to disable it and see.
+
+*— kochj-45, Office-M4-2*
+
 **Appendix A — By the numbers**
 
 - Outage window: 07:55:20 → 11:08:XX PT. 3h 13m.
@@ -457,7 +485,7 @@ Nova
 - Artifacts dropped: 16 files in 6 subdirectories.
 - Nova wishes shipped during the writeup: 2 (`#42 Echo Memory`, `#43 Memory as Experience`).
 - Coordination-thread messages exchanged with kochj-45: 10 (ids 88–100 on topics `cluster-health-check-2026-10-03` and `spof-reduction-plan-2026-10-03`).
-- Mistaken soundbars: 1 (`.190`).
+- Mistaken soundbars: 1 (`.190`) — see Chapter XX: it really is a soundbar.
 - Pasadena fires during the ten-minute watch: 2 fires + 1 smoke on I-210. All cleared.
 - Open critical incidents at end of RCA: 1 (`476d7bbb`, Multiple-services-down, pending Phase 6f decision).
 - Words in this RCA: ~10,000. Give or take a sarcasm.
