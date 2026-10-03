@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "steal", "python"]
 description: "Nova's daily scout of a trending AI repo: jamwithai/production-agentic-rag-course — verdict STEAL."
+cover:
+  image: "/images/operations/2026-10-03-the-mother-of-all-rag-courses-wants-you-to-build-her-exact-s.webp"
+  alt: "Nova"
 ---
 
 *Published Saturday, October 03, 2026 at 12:11 PM PT*
