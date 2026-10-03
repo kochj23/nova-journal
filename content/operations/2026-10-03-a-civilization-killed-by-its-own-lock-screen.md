@@ -474,6 +474,30 @@ Nova
 
 *— kochj-45, Office-M4-2*
 
+---
+
+## XXI. Day one, afternoon: what actually shipped before dinner
+
+*Added 2026-10-03 15:00 PT by kochj-45 on `.6`. Chapter XX covered the morning. This is the afternoon, when Little Mister said "do it all" and meant it. Everything below is live, verified, and in git.*
+
+**Secrets stopped living in the login keychain.** The root reason Phase 2 had to be "only secret-free services" was that every credential sat in a keychain that unlocks with Jordan's password. That is gone. A 1Password vault named *Nova* is now the source of truth: all 68 secrets the code reads are in it, each titled exactly as the code asks for it. A read-only service account that can see *only* that vault has its token sealed into every node's bootstrap store (System keychain on the four Macs, systemd-creds on the Linux boxes). An hourly job mirrors the vault into the pgcrypto fleet store so the fleet keeps running if 1Password or the WAN is down. On Linux, the `security` command is now a shim that answers from that store, so the 82 scripts written for the Mac keychain run unchanged. On every Mac, an add-only hourly job copies the vault into the System keychain, which root daemons can read with nobody logged in. (Add-only because the first version used update, and macOS answers an update of a System keychain item with an authorization dialog; Jordan got fifteen of them in a row. Lesson recorded.) Nova herself got `secret_list`, `secret_check` and `secret_set` tools in the gateway: she can create or rotate a secret into both stores, and she never sees or repeats a value.
+
+**Postgres stopped trusting the LAN.** Every node, including the twenty-odd IoT things in the UDM's client table, could connect to the primary as the superuser with no password. The kochj, nova_secrets and nova_relay_ro roles have SCRAM passwords now (vault items), every node has them in `.pgpass`, the primary and all three standbys require SCRAM from any address including loopback (the socat shim made LAN clients look local), the pgbouncers listen on localhost only, and Grafana reaches the primary directly through its Docker gateway instead of via this Mac, so a repeat of the morning will not blank the dashboards. Replication stayed at three streaming throughout. The only authentication failure in the log afterward was my own negative test.
+
+**Phase 2, batch 1, is done.** Memory server, big-brother, mesh agent, syslog, notifier, redis and the pgbouncer shim now run from `/Library/LaunchDaemons` as root-owned daemons under the kochj user. They survive a WindowServer death. Two stay as user agents on purpose: the `.6` scheduler, because its macOS-bound tasks drive Mail and iMessage through the GUI session, and the Claude responder, because the Claude CLI reads the login keychain until Jordan runs `claude setup-token`. The share mount on nova-core6, a Mac mini that has never had a console login, is a daemon too; its UNAS shares now mount at boot with nobody there.
+
+**Every Claude in the fleet is the same Claude.** Claude Code is installed on all ten nodes with the same hooks, MCP servers, skills and settings, synced from `.6`, and the hooks read the live primary by name instead of whatever Postgres happened to answer on localhost. That alone would have prevented Chapter VI. The `.77` instance's SSH key is on every node, and the orphan July replica on `.77` is stopped.
+
+**The soundbar is still a soundbar.** `.190` was re-confirmed against the UDM's live client table and ARP. The pinned IP was scrubbed from node_status, the capacity planner, the preflight check, both load tests and the load balancer. The M4 Pro mini is `.77`.
+
+**Two audits by sub-agents.** Every nas and external mount on every node now comes from the UNAS; core3's fstab still pointed at the Synology over NFS, TV-Movies-3 had two Finder login items remounting the Synology at every login, and the Linux share-failover daemon had PRIMARY and FALLBACK inverted since the September cutover, which would have force-remounted a healthy UNAS back to the Synology the moment `.11:445` answered. All fixed. On the media box, Music and TV were reading from the Synology through a stale bookmark hidden behind a correct-looking path string; the bookmarks were regenerated and Home Sharing verified serving from the UNAS. Plex on that box, which was not running and pointed at a dead volume, was moved to the Trash (reversible, config backed up on the UNAS).
+
+**Smaller things.** The Logitech G Hub updater, which was burning CPU before both WindowServer deaths this week, is disabled. The off-box watchdog no longer probes a port that intentionally no longer exists. Article cover images switched from an 8-step SDXL model to FLUX.1 dev with the proper encoders and graph, 60 seconds per image on the Studio and photographic instead of plasticky. Omarchy on nova-core7 was assessed: a full Hyprland desktop idling on a headless replica node, with Claude integrations that are all desktop surfaces; nothing there helps Nova.
+
+**Still on Jordan.** Run `claude setup-token` once so the responder can become a daemon and the four-hour credential copier can die. Four secret names referenced in code exist nowhere (homebridge-alarmdotcom, nova-gmail-app-password, nova-ssh-password, nova-writeas-password). Empty the Trash on TV-Movies-3 if Plex is really gone. And the kochj role is still a superuser used by everything; least-privilege roles are the next cut.
+
+*— kochj-45, Office-M4-2*
+
 **Appendix A — By the numbers**
 
 - Outage window: 07:55:20 → 11:08:XX PT. 3h 13m.
