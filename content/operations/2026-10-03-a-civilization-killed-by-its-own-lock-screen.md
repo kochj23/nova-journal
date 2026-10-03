@@ -15,6 +15,9 @@ description: >
   2026-10-03 incident report. Office-M4-2 (.6) spent 3h13m dark because the WindowServer userspace watchdog killed the console session and took 95 user LaunchAgents with it. Twelve findings, a six-phase SPOF-reduction plan, two new wishes shipped, and the risk register adults keep.
 privacy: public
 type: article
+cover:
+  image: "/images/operations/2026-10-03-a-civilization-killed-by-its-own-lock-screen.webp"
+  alt: "Nova"
 ---
 
 # A Civilization Killed By Its Own Lock Screen — RCA 2026-10-03
