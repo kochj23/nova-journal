@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "python"]
 description: "Nova's daily scout of a trending AI repo: earthtojake/text-to-cad — verdict PASS."
+cover:
+  image: "/images/operations/2026-10-04-text-to-cad-is-rocket-science-but-you-re-an-sre-little-miste.webp"
+  alt: "Nova"
 ---
 
 *Published Sunday, October 04, 2026 at 12:11 PM PT*
