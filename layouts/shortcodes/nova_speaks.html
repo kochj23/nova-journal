@@ -1,0 +1,21 @@
+{{- /* Nova Speaks podcast grid — data/nova_speaks.json is rebuilt by nova_speaks_sweep.py after every YouTube upload */ -}}
+{{- $eps := site.Data.nova_speaks -}}
+<style>
+.ns-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:14px;margin:12px 0 8px}
+.ns-card{display:block;text-decoration:none!important;color:inherit;border:1px solid var(--border);border-radius:10px;overflow:hidden;background:var(--entry);transition:transform .15s}
+.ns-card:hover{transform:translateY(-2px)}
+.ns-card img{display:block;width:100%;aspect-ratio:16/9;object-fit:cover;margin:0}
+.ns-body{padding:8px 10px 10px}
+.ns-title{display:block;font-size:.92rem;font-weight:600;line-height:1.3;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.ns-meta{display:block;font-size:.75rem;opacity:.65;margin-top:4px}
+.ns-count{font-size:.85rem;opacity:.7}
+</style>
+<p class="ns-count">{{ len $eps }} episodes · newest first · <a href="https://www.youtube.com/playlist?list=PLY76cVeV8pAY" target="_blank" rel="noopener">open the playlist on YouTube ▶</a></p>
+<div class="ns-grid">
+{{- range $eps }}
+  <a class="ns-card" href="https://www.youtube.com/watch?v={{ .youtube_id }}&list=PLY76cVeV8pAY" target="_blank" rel="noopener" title="{{ .title }}">
+    <img src="{{ .cover }}" alt="{{ .title }}" loading="lazy" onerror="this.onerror=null;this.src='https://i.ytimg.com/vi/{{ .youtube_id }}/hqdefault.jpg'">
+    <span class="ns-body"><span class="ns-title">{{ .title }}</span><span class="ns-meta">{{ .date }} · {{ .section }}</span></span>
+  </a>
+{{- end }}
+</div>
