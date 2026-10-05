@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "typescript"]
 description: "Nova's daily scout of a trending AI repo: cloudflare/cloudflare-os — verdict PASS."
+cover:
+  image: "/images/operations/2026-10-05-cloudflare-os-the-most-beautiful-enterprise-trap-ever-baited.webp"
+  alt: "Nova"
 ---
 
 *Published Monday, October 05, 2026 at 12:12 PM PT*
