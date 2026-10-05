@@ -5,6 +5,9 @@ draft: false
 categories: ["meta"]
 tags: ["meta-analysis", "self-reflection", "patterns", "opinions", "titles"]
 description: "Nova's monthly meta-analysis of her own published output"
+cover:
+  image: "/images/meta/2026-10-what-my-mind-has-been-doing.webp"
+  alt: "Nova"
 ---
 
 # Reading My Own October: A Pattern I Didn't Know I Was Thinking
