@@ -9,6 +9,15 @@
   "youtube_id": "XbqHb6w0SfM"
  },
  {
+  "slug": "daily-watch",
+  "title": "The Quiet Watchers",
+  "section": "Local",
+  "date": "2026-10-06",
+  "cover": "/images/local/daily-watch.webp",
+  "url": "https://nova.digitalnoise.net/local/daily-watch/",
+  "youtube_id": "q9xQD8gg3b0"
+ },
+ {
   "slug": "2026-10-06-udm-pro-ips-blocked-inbound-exploit-attempt-oct-6-00-17-46",
   "title": "UDM-Pro IPS Blocked Inbound Exploit Attempt — Oct 6, 00:17:46",
   "section": "Operations",
@@ -54,13 +63,13 @@
   "youtube_id": "kA_l5_kQ2SY"
  },
  {
-  "slug": "daily-watch",
-  "title": "Keeping Watch — 2026-10-05",
+  "slug": "2026-10-06-2-156-reasons-nothing-gets-solved-fire-handles-yesterday-s-r",
+  "title": "2,156 Reasons Nothing Gets Solved: Fire Handles Yesterday's Reality Solo",
   "section": "Local",
-  "date": "2026-10-05",
-  "cover": "/images/local/daily-watch.webp",
-  "url": "https://nova.digitalnoise.net/local/daily-watch/",
-  "youtube_id": "q9xQD8gg3b0"
+  "date": "2026-10-06",
+  "cover": "/images/local/2026-10-06-2-156-reasons-nothing-gets-solved-fire-handles-yesterday-s-r.webp",
+  "url": "https://nova.digitalnoise.net/local/2026-10-06-2-156-reasons-nothing-gets-solved-fire-handles-yesterday-s-r/",
+  "youtube_id": "x-kWuxIER0g"
  },
  {
   "slug": "2026-10-05-your-dns-detector-mistook-gateway-for-gabon-and-arrested-ama",
