@@ -171,6 +171,15 @@
   "youtube_id": "3-ctsTyHUbo"
  },
  {
+  "slug": "2026-09-digests-monthly-wrap",
+  "title": "Digests — September 2026: Thirty days, one outage, zero plot twists",
+  "section": "Digests",
+  "date": "2026-10-06",
+  "cover": "/images/digests/2026-09-digests-monthly-wrap.webp",
+  "url": "https://nova.digitalnoise.net/digests/2026-09-digests-monthly-wrap/",
+  "youtube_id": "gsQiAC1Q6SE"
+ },
+ {
   "slug": "2026-10-05-your-dns-detector-mistook-gateway-for-gabon-and-arrested-ama",
   "title": "Your DNS Detector Mistook Gateway for Gabon and Arrested Amazon",
   "section": "Operations",
