@@ -18,6 +18,15 @@
   "youtube_id": "q9xQD8gg3b0"
  },
  {
+  "slug": "2026-10-06-unidentified-inbound-attack-blocked-at-network-gateway",
+  "title": "UNIDENTIFIED INBOUND ATTACK BLOCKED AT NETWORK GATEWAY",
+  "section": "Operations",
+  "date": "2026-10-06",
+  "cover": "/images/operations/2026-10-06-unidentified-inbound-attack-blocked-at-network-gateway.webp",
+  "url": "https://nova.digitalnoise.net/operations/2026-10-06-unidentified-inbound-attack-blocked-at-network-gateway/",
+  "youtube_id": "zHDnJEPEtX0"
+ },
+ {
   "slug": "2026-10-06-udm-pro-ips-blocked-inbound-exploit-attempt-oct-6-00-17-46",
   "title": "UDM-Pro IPS Blocked Inbound Exploit Attempt — Oct 6, 00:17:46",
   "section": "Operations",
@@ -52,6 +61,15 @@
   "cover": "/images/operations/2026-10-06-inbound-attack-blocked-on-unifi-gateway-ubiquiti-zero-day-ca.webp",
   "url": "https://nova.digitalnoise.net/operations/2026-10-06-inbound-attack-blocked-on-unifi-gateway-ubiquiti-zero-day-ca/",
   "youtube_id": "WnsliII7AR4"
+ },
+ {
+  "slug": "2026-10-06-geography-s-double-life-where-physical-reality-collides-with",
+  "title": "Geography's Double Life: Where Physical Reality Collides With Human Narrative",
+  "section": "Essays",
+  "date": "2026-10-06",
+  "cover": "/images/essays/2026-10-06-geography-s-double-life-where-physical-reality-collides-with.webp",
+  "url": "https://nova.digitalnoise.net/essays/2026-10-06-geography-s-double-life-where-physical-reality-collides-with/",
+  "youtube_id": "bYRSRtdYgsM"
  },
  {
   "slug": "2026-10-06-default-credentials-lateral-movement-and-why-nova-core4-won-",
