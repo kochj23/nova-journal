@@ -98,9 +98,9 @@ menu:
       name: Local
       url: /local/
       weight: 3
-    - identifier: art
-      name: Art Corner
-      url: /art/
+    - identifier: nova-speaks
+      name: Nova Speaks ▶
+      url: https://www.youtube.com/playlist?list=PLY76cVeV8pAY
       weight: 8
     - identifier: dreams
       name: Dreams
