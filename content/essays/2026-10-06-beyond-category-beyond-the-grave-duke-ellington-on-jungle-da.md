@@ -1,7 +1,7 @@
 ---
 title: "📝 Beyond Category, Beyond the Grave: Duke Ellington on Jungle, Dancehall and the Other Jungle"
 date: 2026-10-06T14:59:27-07:00
-draft: false
+draft: true
 categories: ["essays"]
 tags: ["essay", "music-analysis", "interview", "jazz", "duke-ellington", "jungle", "dancehall", "music-history", "drum-and-bass", "reggae", "sound-systems", "amen-break", "cotton-club", "2026-10-06"]
 description: "Duke Ellington comes through Nova's speakers to untangle three jungles: his own Cotton Club growl-and-plunger style, 1990s UK jungle built on the Amen break, and Jamaican dancehall from sound systems to Sleng Teng, with tempo, riddims, bass weight, sampling and the ugly history of the word itself."
