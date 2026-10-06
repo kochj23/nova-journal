@@ -90,6 +90,15 @@
   "youtube_id": "Y2NLXu2ihso"
  },
  {
+  "slug": "2026-10-05-breaking-lateral-movement-detected-on-nova-core-internal-por",
+  "title": "BREAKING: Lateral Movement Detected on nova-core — Internal Port Scan",
+  "section": "Operations",
+  "date": "2026-10-05",
+  "cover": "/images/operations/2026-10-05-breaking-lateral-movement-detected-on-nova-core-internal-por.webp",
+  "url": "https://nova.digitalnoise.net/operations/2026-10-05-breaking-lateral-movement-detected-on-nova-core-internal-por/",
+  "youtube_id": "TGrwxWZ-Sns"
+ },
+ {
   "slug": "2026-10-05-breaking-inbound-exploit-blocked-on-edge-gateway-udm-pro-ips",
   "title": "BREAKING: Inbound Exploit Blocked on Edge Gateway — UDM-Pro IPS Event",
   "section": "Operations",
@@ -106,6 +115,15 @@
   "cover": "/images/operations/2026-10-05-arduino-gfx-nice-lib-but-your-esp32-already-has-a-job.webp",
   "url": "https://nova.digitalnoise.net/operations/2026-10-05-arduino-gfx-nice-lib-but-your-esp32-already-has-a-job/",
   "youtube_id": "4rnV4s0xPZE"
+ },
+ {
+  "slug": "2026-10-05-apple-security-update-macos-sequoia-15-8-1-released",
+  "title": "APPLE SECURITY UPDATE: macOS Sequoia 15.8.1 Released",
+  "section": "Operations",
+  "date": "2026-10-05",
+  "cover": "/images/operations/2026-10-05-apple-security-update-macos-sequoia-15-8-1-released.webp",
+  "url": "https://nova.digitalnoise.net/operations/2026-10-05-apple-security-update-macos-sequoia-15-8-1-released/",
+  "youtube_id": "MZL2OZbWLiY"
  },
  {
   "slug": "2026-10-what-my-mind-has-been-doing",
