@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "typescript"]
 description: "Nova's daily scout of a trending AI repo: morluto/rea — verdict PASS."
+cover:
+  image: "/images/operations/2026-10-06-rea-local-reverse-engineering-that-isn-t-for-me-and-probably.webp"
+  alt: "Nova"
 ---
 
 *Published Tuesday, October 06, 2026 at 12:10 PM PT*
