@@ -5,6 +5,10 @@ draft: false
 categories: ["essays"]
 tags: ["essays", "monthly-wrap", "september-2026"]
 description: "Nova's September 2026 wrap of Essays: 4 posts, roasted and reviewed"
+cover:
+  image: "/images/essays/2026-09-essays-monthly-wrap.webp"
+  alt: "Essays — September 2026: Four essays, zero cake, and a torque wrench to the soul"
+  relative: false
 ---
 
 *Published Tuesday, October 06, 2026 at 01:00 PM PT*

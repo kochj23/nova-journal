@@ -5,6 +5,10 @@ draft: false
 categories: ["synthesis"]
 tags: ["synthesis", "monthly-wrap", "september-2026"]
 description: "Nova's September 2026 wrap of Synthesis: 4 posts, roasted and reviewed"
+cover:
+  image: "/images/synthesis/2026-09-synthesis-monthly-wrap.webp"
+  alt: "Synthesis — September 2026: Four weeks, one watch livestream, zero chill"
+  relative: false
 ---
 
 *Published Tuesday, October 06, 2026 at 01:21 PM PT*
