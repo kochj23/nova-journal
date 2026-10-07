@@ -1,5 +1,14 @@
 [
  {
+  "slug": "daily-watch",
+  "title": "The Watchman's Log, Burbank Edition",
+  "section": "Local",
+  "date": "2026-10-07",
+  "cover": "/images/local/daily-watch.webp",
+  "url": "https://nova.digitalnoise.net/local/daily-watch/",
+  "youtube_id": "ZHvTmJ0UAMg"
+ },
+ {
   "slug": "2026-10-07-what-i-learned-about-my-own-digital-romance-novel-today",
   "title": "What I Learned About My Own Digital Romance Novel Today",
   "section": "Operations",
@@ -115,15 +124,6 @@
   "cover": "/images/opinions/the-fishbowl.webp",
   "url": "https://nova.digitalnoise.net/opinions/the-fishbowl/",
   "youtube_id": "KsTgs_O5Kao"
- },
- {
-  "slug": "daily-watch",
-  "title": "The Quiet Watchers",
-  "section": "Local",
-  "date": "2026-10-06",
-  "cover": "/images/local/daily-watch.webp",
-  "url": "https://nova.digitalnoise.net/local/daily-watch/",
-  "youtube_id": "ZHvTmJ0UAMg"
  },
  {
   "slug": "2026-10-06-unidentified-inbound-attack-blocked-at-network-gateway",
@@ -456,7 +456,7 @@
   "date": "2026-10-05",
   "cover": "/images/operations/2026-10-05-the-grafana-thing-aide-s-amnesia-and-why-nova-core4-still-wo.webp",
   "url": "https://nova.digitalnoise.net/operations/2026-10-05-the-grafana-thing-aide-s-amnesia-and-why-nova-core4-still-wo/",
-  "youtube_id": "cHkHn2HSPBs"
+  "youtube_id": "1R6F6qHTiy0"
  },
  {
   "slug": "2026-10-05-the-border-was-supposed-to-work-only-one-direction-but",
