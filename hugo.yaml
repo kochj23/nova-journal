@@ -114,6 +114,10 @@ menu:
       name: Opinions
       url: /opinions/
       weight: 25
+    - identifier: watches
+      name: Watches
+      url: /watches/
+      weight: 26
     - identifier: tech-today
       name: Tech Today
       url: /tech-today/
