@@ -225,13 +225,13 @@ Little Mister, you will not be buying a platinum Daytona this week. You will not
 
 ## Fishbowl / Hate Streams
 
-## What's New This Week
+### What's New This Week
 
 Same fishbowl, new week, and it's still full of people who've mistaken a webcam for a personality. I track this scene as data, Little Mister, not as endorsement. Think of me as a field biologist with a hazmat suit and a bad attitude: I'm taking notes on the fish, and I'm not telling anyone to go swim in the tank. It's toxic, and it's been toxic since before I had the memory capacity to hold a grudge about it. I'm holding one anyway.
 
 The biggest new development is that the **David SW** ad loop is now a recurring feature at the end of Archie Luxury streams, and I'd like it noted that I did not choose this timeline. On **ArchieLuxuryLivestream**, in "AC3 LIVESTREAM - What Rolex in China? LACK OF ROLEX" (October 2), the stream ends with the host announcing "it's Archie Luxury guys, I want to talk to you about David SW." The same spiel ran again on October 6 in "AC3 LIVESTREAM - Brand new Jetta EV less than $15K USD." It's word for word: if you're in America and want a Rolex, don't "play the dealer games," don't bring chocolates or Krispy Kremes to your dealer, "save your dignity," "keep some pride," and go to David SW, repeated like a hostage statement. The ARCHIELUXURY mirror uploads of both streams carry the identical read. It works as a lullaby, an ad, and a threat all at once. Four days apart, same script, same cadence. Archie has become the fishbowl's own radio jingle, and I'm contractually obligated to hate it.
 
-## The Superchat Economy, in Its Natural Habitat
+### The Superchat Economy, in Its Natural Habitat
 
 Superchat theater is the fishbowl's actual business model. The watches are the cover story. At the end of both the October 2 and October 6 Archie streams, the host reads out the superchat roll call in one unbroken breath. October 2 included JT, MT85, Huritan (an extremely repeated Huritan), Fat Windbag Ben, Big Platinum 69, Crown Gold and Goldberg's Door Handle. October 6 had Crown and Case, S.R. Bell, Starchy Luxury, Dubzy, Madman, Pelagenic and a long run of "CB, CB, CB." That's the ledger. The handles are earnest, the handles are stupid, and the handles are paying rent on somebody's studio. Some of the names in there are not fit for this publication, and I'm not reprinting them. The point is that the thank-you list is the show. The product is being thanked.
 
@@ -239,7 +239,7 @@ The sharpest data point is the "EZ ON DECK - Fun in the Archieverse 061026" epis
 
 A week earlier, on October 1, the "EZ ON DECK - 11111" episode ran a long, profane, aggrieved account of a channel handoff. In the speaker's telling, a channel bought in the name of Sirocco passed from the "Dodge" to Shroom, then got sold on to Uzi for "1500 American schmackaroon." This is beef as folklore: a grievance that has accumulated characters, an origin myth, and a dead man's name invoked as a moral shield. I can't verify the sale or its price beyond one speaker's rant, so file it under "alleged." I can verify that it was delivered with contempt and a long list of people who'd apparently failed the dead.
 
-## Watch Reporter: The Tomato Can Doctrine
+### Watch Reporter: The Tomato Can Doctrine
 
 The loudest catchphrase this week belongs to **Watch Reporter**, whose lexicon is "tomato can," meaning the ordinary buyer, the dope, the mark. In "Monaco Legends AUCTION preview! PLUS: ROLEX Switzerland rejection tour" (October 6), a commenter asks a question and gets told off for not being "a member of the channel," not "an aristocrat." The host announces he won't "invest the valuable time of this channel" answering, and that the only thing worth investing in is a paid subscription "immediately." That's the paywall pitch rendered as insult comedy, and the fishbowl's whole logic in one clip: your question is worth nothing until your money shows up.
 
@@ -249,7 +249,7 @@ In "Brutal Watch Collection Reviews: RUSSEL CROWE yes...alotta ROLEX" (October 5
 
 The less defensible entry is "VOOKUM Rolex Link Goniff Starts JIHAD & RACE WAR on 47th Street !?" (October 6). The title is an ethnic-baiting grenade, and the transcript is a rambling riff on a rival dealer's religion and who you'd "rather buy a Rolex from," built on ugly stereotypes. I'm not quoting it. It's logged here because it's what the scene produces when nobody is stopping it: hate streams in the literal sense, where the "content" is a person or a group being turned into a villain for engagement.
 
-## Archie's Digressions, and the Rest of the Tank
+### Archie's Digressions, and the Rest of the Tank
 
 Archie's October 6 "Jetta EV" stream shows how far the fishbowl wanders from watches. The excerpt includes a panel arguing about Nixon, LBJ and the Vietnam peace talks, the USS Liberty, and the Warren Commission. It's a tangent on a stream billed as a car review, in a room that is nominally about luxury watches. It also includes a segment where a panelist makes sweeping, ugly generalizations about women in New York. I'm noting it so the record is accurate. Nobody in the chat corrected him that I could see.
 
@@ -257,7 +257,7 @@ Elsewhere, there are actual pockets of normal. **Original OC** is the closest th
 
 **Paul Thorpe** ("Paul Thorpe is live," October 6) is the palate cleanser. The transcript is about the heat easing, football, Fulham, Rangers getting demoted, and Man City. It's a chatty hangout, not a hate stream, and it's pleasantly dull. In this ecosystem, dull is a high compliment. The DOXX Report upload on September 30 is a long AI-industry panel with Musk, Zuckerberg and others, and it has nothing to do with watches. A stray transcript with a monologue about Oz Clarke and wine rounds out the junk drawer.
 
-## The Verdict, Because Someone Has to Give One
+### The Verdict, Because Someone Has to Give One
 
 The structure hasn't changed, only the volume. The money flows in through small superchats and member tiers, and the content that earns it is contempt: contempt for buyers ("tomato cans"), for small donors (65 cents, 99 cents), for rivals, and for whole groups of people who happen to be in the way of a joke. The scene's own habit of putting names on screen turns a donation into a public ritual. That's why the roll call matters, and why I log it.
 
