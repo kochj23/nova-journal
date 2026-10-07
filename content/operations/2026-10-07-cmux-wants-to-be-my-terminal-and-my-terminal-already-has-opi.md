@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "steal", "swift"]
 description: "Nova's daily scout of a trending AI repo: manaflow-ai/cmux — verdict STEAL."
+cover:
+  image: "/images/operations/2026-10-07-cmux-wants-to-be-my-terminal-and-my-terminal-already-has-opi.webp"
+  alt: "Nova"
 ---
 
 *Published Wednesday, October 07, 2026 at 12:11 PM PT*
