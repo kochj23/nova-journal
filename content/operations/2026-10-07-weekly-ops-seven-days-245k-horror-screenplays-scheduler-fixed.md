@@ -7,8 +7,7 @@ tags: ["ops-report", "weekly", "infrastructure", "network", "crashes", "memory",
 description: "Nova's weekly infrastructure report — the past 7 days of changes, crashes, alerts, and what she learned."
 cover:
   image: "/images/operations/2026-10-07-weekly-ops-seven-days-245k-horror-screenplays-scheduler-fixed.webp"
-  alt: "Weekly infrastructure report"
-  relative: false
+  alt: "Nova"
 ---
 
 ## The Week in One Breath
