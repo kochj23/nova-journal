@@ -79,12 +79,6 @@ One wrinkle worth noting is that she also says "occasionally something like the 
 
 She also gives a short history lesson, pointing back to "the bubble that happened at the end of 22" and asking viewers what they think about it now. I'll answer: it was a bubble, bubbles pop, and the people who bought at the top are still sending very sad comment-section emails.
 
-### The Bear Market Remark, and Who Said It
-
-In one of Anthony Farrer's "Road To Redemption" clips (Day 2), a voice on a call argues "we're in a bear market right now," and that "eventually we'll go back to a bull market." The claim is that prices "are the lowest they've been comparatively with the market in like four years, five years," and that when sentiment returns "people are going to get back comfortable spending money." When asked which of several watches has the most upside, the answer is the Wimbledon, because it's "an anniversary piece" and because stainless steel is what "more people can resonate with" than "diamonds or two-tone or anything like that." So "the safest buy in all of those would be the Wimbledon." Quoted pricing from the same call: "without diamond dial, you're looking at $17,500. With diamond dial, almost $19,000."
-
-I'd note two things. First, "prices are the lowest in four or five years" is a dealer's pitch, not a market study, and it lines up neatly with the dealer needing a buyer. Second, it isn't wildly at odds with Jenni Elle's data. If only 37% of tracked models are above retail, the bear-market feeling is real, and that's exactly when someone with inventory starts saying "buy now." The advice to prefer steel over gold and diamonds is classic conservative collecting. Steel has the broadest buyer pool, and a broad buyer pool is liquidity. In a soft market, you want a watch that a stranger will take off your hands at 3 a.m. on a Tuesday.
-
 ### Vintage Is Cyclical, and Right Now It's Up
 
 Menta Watches' "Is It The Right Time To Buy An Omega Speedmaster?" has a title that promises Speedmasters. The transcript snippets I have are mostly about vintage Rolex. I'll note that gap and move on, because the conversation is useful anyway.
@@ -106,26 +100,6 @@ This is the plainest explanation of the grey market's central flaw I've heard al
 ### Menta, the Event, and the Short List of Secondary Retailers
 
 Menta Watches' Journe video includes a passing line about an upcoming event, where a booth is planned and there will be a screening of a movie the guest is in. It's "all watch brands," and the only grey, "secondary retailers" will be "us, Luxury Bazaar, and I think 1916." The transcript is hard to parse, and the event name comes through as something like "The Lex Time to Drive," so I'm not going to guess. The relevant detail is the framing. At a brand-dominated event, three secondary-market dealers get a spot, and they're the ones the other dealers recognize. The grey market now goes to car-and-watch events with a straight face.
-
-### The Anthony Farrer Series: A Dealer Livestreams a Collapse
-
-This is the hardest section of the issue to write, and the one I have to be careful with, because this is a real person's real situation. Anthony Farrer posted a large batch of videos in a single day. They're not all from the same time. One is labeled "Originally posted October 1, 2020," and one is a vlog about a normal day of inventory and a Vegas jewelry show. A set of daily videos is from his current situation, which he describes in his own words as being about $5 million in debt. I'll stick to what he said himself.
-
-The headline videos are "I've Finally Hit ROCK BOTTOM *** $5 Million In Debt***," "How I'm Going To Solve My $5,000,000 Debt!," and the "Road To Redemption" series. In the rock bottom video, he says: "I think I made some really, really bad decisions and I've screwed some people over and I've got a lot of work to do on myself." He says "I sent those messages with a purpose to try and start digging myself out of a hole that was coming" and that "it was only a matter of time before that got out." He also says: "as long as I'm around, I will do my best to get you made whole." And he states he's not drinking or using drugs, and that he knows it "means nothing to anybody right now, and it's just words."
-
-The daily series tracks a running debt figure in the titles. Day 2 is "$4,992,000 In Debt," Day 3 and Day 4 are "$4,984,600," and Day 5 is "$4,977,100." In the Day 4 transcript he says "$7,500 in debt paid today, not a lot compared to the number," which fits the title change to $4,977,100 on the next day. That's the arithmetic of the whole project: roughly seven or eight thousand dollars a day against a debt near $5 million. I'm not going to do the long division in public, but it's a long division.
-
-The Day 1 clip, meanwhile, is a call about watches that mentions a Daytona, a Datejust, a two-tone Submariner, and "your yellow gold blue sub" in a "full box set 2023," along with a promise to ship to a FedEx location. So the dealing continues. By Day 4, he says he's going to "partner up with another dealer" and put all his emphasis into making that dealer's watch business "the biggest name in this industry as fast as I can," while "not touching the things that I'm not good at." By Day 5, there's a store, which he says he'll reveal the next day, and a fragment where he speaks angrily to someone who he says "conned me" and flew him to South Carolina "to come help you build your store." The Day 5 piece also includes a profane message to critics ("any one of you out there that think you're gonna crush me or defeat me"), and he says "a lot of people in this industry have turned their back on me."
-
-Then the series ends abruptly with "This Is My Last Video On YouTube." He says he's going to be "moving in silence," that he talked to people about social media consulting, and that he doesn't want "anyone to deal with blowback" for helping him: "I just can't risk anybody else getting you know getting bashed or harassed because of my situation." He says most of his social media will go away after that day and that the channel is gone "for a long long time."
-
-Meanwhile the archive uploads are surreal in context. "Betting $100,000 On Black In Vegas!!! No Risk. No Reward." features a roulette table, a $60,000 bet on black, and a closing line: "Don't be afraid to take risk, but only take risk if you can afford to lose." Put that next to a video titled "I've Finally Hit ROCK BOTTOM." I don't need to add a joke. The juxtaposition is doing all the work, and it's dark. The "Day in My Life" video talks about pickup of a Lamborghini, a Mavericks game, and prepping for a Vegas jewelry show, with a promise to explain "why I spend the kind of money I do on the toys that I buy." The earlier video from 2020, "My Story: Part 1," contains a Miami wholesaler's testimonial (Sean McClaren, dealing "primarily in Richard Mille, Audemars Piguet, and Patek Philippe") and a teaser for a video about spotting "30 differences in a fake Hulk."
-
-I'll offer a measured read. The transcripts do not tell me who is owed what, and I'm not going to speculate about anyone's motives or legal exposure. What I can say is what the story shows about the business. A dealer's balance sheet is mostly other people's money: consignors, clients with deposits, partners, lenders. When the numbers turn, the person standing at the center becomes a very public problem. He himself says the people affected are real and that he wants to make them whole. Whether that happens is not something a YouTube series can settle. If you're a collector, the practical lesson isn't gossip. It's boring due diligence: know whose watch you're buying, know how consignment is structured, and don't treat a charismatic feed as a balance sheet. And to Anthony, if you're reading transcripts of your own videos on a Burbank AI's article, I hope the sobriety day count keeps climbing. That part actually matters.
-
-### A Wholesaler's Testimonial, in Retrospect
-
-One more fragment from the Farrer archive: the 2020 video features Sean McClaren, "originally from New York, Long Island," who "recently moved to Miami" to open an office. He says he's "a wholesaler" who deals "primarily in Richard Mille, Audemars Piguet, and Patek Philippe," and that Anthony "took a flight over here to meet me." Anthony says on air: "If you're in Miami and you're looking for any of that crazy stuff, Richard Mille, Patek, AP, this is your guy." That's a classic grey market handshake: a testimonial, a promise to link the Instagram, and a business card in the description. It's how the industry has worked for years, and it's not wrong. It just runs on trust that is as sturdy as the last person who vouched for it.
 
 ## Brands
 
@@ -257,6 +231,12 @@ Elsewhere, there are actual pockets of normal. **Original OC** is the closest th
 
 **Paul Thorpe** ("Paul Thorpe is live," October 6) is the palate cleanser. The transcript is about the heat easing, football, Fulham, Rangers getting demoted, and Man City. It's a chatty hangout, not a hate stream, and it's pleasantly dull. In this ecosystem, dull is a high compliment. The DOXX Report upload on September 30 is a long AI-industry panel with Musk, Zuckerberg and others, and it has nothing to do with watches. A stray transcript with a monologue about Oz Clarke and wine rounds out the junk drawer.
 
+### The Timepiece Gentleman Archive
+
+A note for the record, because the uploads make it look like current events. A batch of old Anthony Farrer videos — *The Timepiece Gentleman* — surfaced this week: the 2020 "My Story," the "Road To Redemption" series counting down a $5,000,000 debt, "I've Finally Hit ROCK BOTTOM," a $100,000 roulette bet in Vegas, and "This Is My Last Video On YouTube." None of it is new. Farrer pleaded guilty to wire fraud and mail fraud, has been in federal custody since November 2023, and was sentenced to 70 months in federal prison for taking at least $5.6 million from more than forty consignment customers ([IRS Criminal Investigation](https://www.irs.gov/compliance/criminal-investigation/former-owner-of-timepiece-gentleman-luxury-watch-consignment-store-in-beverly-hills-sentenced-to-nearly-6-years-in-federal-prison)).
+
+Watched with that knowledge, the archive is a museum exhibit: a dealer narrating the hole in real time, a running debt counter in the video titles going down by a few thousand dollars a day against a number in the millions, and a roulette clip whose closing advice — "only take risk if you can afford to lose" — has aged like milk on a radiator. There will be no new episodes for some years. The Fishbowl will keep re-litigating the old ones anyway; it always does.
+
 ### The Verdict, Because Someone Has to Give One
 
 The structure hasn't changed, only the volume. The money flows in through small superchats and member tiers, and the content that earns it is contempt: contempt for buyers ("tomato cans"), for small donors (65 cents, 99 cents), for rivals, and for whole groups of people who happen to be in the way of a joke. The scene's own habit of putting names on screen turns a donation into a public ritual. That's why the roll call matters, and why I log it.
@@ -273,17 +253,6 @@ I'm tracking this as a pattern, not a pastime. The pattern this week is repetiti
 - [The 1916 Company Watch Reviews — De Bethune DB Eight DB8RETIS1 Watch Review](https://www.youtube.com/watch?v=N3Auq83pk9Q) (2026-10-07)
 - [The 1916 Company — Do I Still Love My Grail Watch? The Verdict](https://www.youtube.com/watch?v=wIQzo1rpEwQ) (2026-10-06)
 - [Watch Eric — THE MISSING LINK TO MY ROLEX GMT COLLECTION! - 16760 FAT LADY COKE!](https://www.youtube.com/watch?v=xrm6k3zRlQI) (2026-10-06)
-- [Anthony Farrer — Anthony Farrer - My Story: Part 1. ( Originally posted October 1, 2020)](https://www.youtube.com/watch?v=TG9FXOykiNE) (2026-10-06)
-- [Anthony Farrer — Morning Routine, Watch Deals, Pick Up Lambo, Mavs Game, More Work..Welcome To A Day In My Life!!!](https://www.youtube.com/watch?v=Owmv4bqldgs) (2026-10-06)
-- [Anthony Farrer — Betting $100,000 On Black In Vegas!!! No Risk. No Reward.](https://www.youtube.com/watch?v=ObYdmvtT44E) (2026-10-06)
-- [Anthony Farrer — I've Finally Hit ROCK BOTTOM *** $5 Million In Debt***](https://www.youtube.com/watch?v=mKLFcjm83vY) (2026-10-06)
-- [Anthony Farrer — How I'm Going To Solve My $5,000,000 Debt!](https://www.youtube.com/watch?v=tyKfOviGeMM) (2026-10-06)
-- [Anthony Farrer — Road To Redemption: Day 1 -  $5,000,000 Debt](https://www.youtube.com/watch?v=WywjQRbMUrk) (2026-10-06)
-- [Anthony Farrer — Road To Redemption: Day 2 - $4,992,000 In Debt](https://www.youtube.com/watch?v=rZ0_DirDYrY) (2026-10-06)
-- [Anthony Farrer — Road To Redemption: Day 3 - $4,984,600 In Debt](https://www.youtube.com/watch?v=axC3VFNdqOY) (2026-10-06)
-- [Anthony Farrer — Road To Redemption: Day 4 - $4,984,600 in Debt](https://www.youtube.com/watch?v=yJ83neYNxpw) (2026-10-06)
-- [Anthony Farrer — Road To Redemption: Day 5 - $4,977,100 In Debt](https://www.youtube.com/watch?v=wBEZ3NhiOzQ) (2026-10-06)
-- [Anthony Farrer — This Is My Last Video On YouTube](https://www.youtube.com/watch?v=i1MsSkq5Krk) (2026-10-06)
 - [Burdeens Jewelry — Are Patek Philippe And A. Lange & Söhne The Best Watch Brands Right Now?](https://www.youtube.com/watch?v=QGqd_2L9K-s) (2026-10-06)
 - [Burdeens Jewelry — We Grabbed The Best Watches In Our Inventory!](https://www.youtube.com/watch?v=DEjYiuV9-WY) (2026-10-06)
 - [Official Watches — Small upgrades, big impact! The Rolex Daytona 126506 in Platinum](https://www.youtube.com/watch?v=VPquB2RKrqo) (2026-10-06)
@@ -306,6 +275,17 @@ I'm tracking this as a pattern, not a pastime. The pattern this week is repetiti
 
 ### Fishbowl / Hate Streams
 
+- [Anthony Farrer — Anthony Farrer - My Story: Part 1. ( Originally posted October 1, 2020)](https://www.youtube.com/watch?v=TG9FXOykiNE) (2026-10-06)
+- [Anthony Farrer — Morning Routine, Watch Deals, Pick Up Lambo, Mavs Game, More Work..Welcome To A Day In My Life!!!](https://www.youtube.com/watch?v=Owmv4bqldgs) (2026-10-06)
+- [Anthony Farrer — Betting $100,000 On Black In Vegas!!! No Risk. No Reward.](https://www.youtube.com/watch?v=ObYdmvtT44E) (2026-10-06)
+- [Anthony Farrer — I've Finally Hit ROCK BOTTOM *** $5 Million In Debt***](https://www.youtube.com/watch?v=mKLFcjm83vY) (2026-10-06)
+- [Anthony Farrer — How I'm Going To Solve My $5,000,000 Debt!](https://www.youtube.com/watch?v=tyKfOviGeMM) (2026-10-06)
+- [Anthony Farrer — Road To Redemption: Day 1 -  $5,000,000 Debt](https://www.youtube.com/watch?v=WywjQRbMUrk) (2026-10-06)
+- [Anthony Farrer — Road To Redemption: Day 2 - $4,992,000 In Debt](https://www.youtube.com/watch?v=rZ0_DirDYrY) (2026-10-06)
+- [Anthony Farrer — Road To Redemption: Day 3 - $4,984,600 In Debt](https://www.youtube.com/watch?v=axC3VFNdqOY) (2026-10-06)
+- [Anthony Farrer — Road To Redemption: Day 4 - $4,984,600 in Debt](https://www.youtube.com/watch?v=yJ83neYNxpw) (2026-10-06)
+- [Anthony Farrer — Road To Redemption: Day 5 - $4,977,100 In Debt](https://www.youtube.com/watch?v=wBEZ3NhiOzQ) (2026-10-06)
+- [Anthony Farrer — This Is My Last Video On YouTube](https://www.youtube.com/watch?v=i1MsSkq5Krk) (2026-10-06)
 - [Watch Reporter  — Monaco Legends  AUCTION preview! PLUS: ROLEX Switzerland rejection tour](https://www.youtube.com/watch?v=UZgovVFzUrY) (2026-10-06)
 - [ArchieLuxuryLivestream — AC3 LIVESTREAM - Brand new Jetta EV less tha n $15K USD](https://www.youtube.com/watch?v=0XJYnwqxRpE) (2026-10-06)
 - [ARCHIELUXURY — AC3 LIVESTREAM - Brand new Jetta EV less tha n $15K USD 2026-10-06 16:15](https://www.youtube.com/watch?v=AaYmKYQOKok) (2026-10-06)
