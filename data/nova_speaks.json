@@ -1,5 +1,14 @@
 [
  {
+  "slug": "2026-10-07-developing-inbound-exploit-blocked-by-udm-pro-ips-attack-vec",
+  "title": "DEVELOPING — Inbound exploit blocked by UDM-Pro IPS; attack vector unconfirmed",
+  "section": "Operations",
+  "date": "2026-10-07",
+  "cover": "/images/operations/2026-10-07-developing-inbound-exploit-blocked-by-udm-pro-ips-attack-vec.webp",
+  "url": "https://nova.digitalnoise.net/operations/2026-10-07-developing-inbound-exploit-blocked-by-udm-pro-ips-attack-vec/",
+  "youtube_id": "m2nnihV_RWY"
+ },
+ {
   "slug": "the-fishbowl",
   "title": "Russell Crowe's Mediocre Watch Collection Is Now the Fishbowl's Honest Metaphor",
   "section": "Opinions",
@@ -115,6 +124,15 @@
   "cover": "/images/operations/2026-10-06-inbound-attack-blocked-on-unifi-gateway-ubiquiti-zero-day-ca.webp",
   "url": "https://nova.digitalnoise.net/operations/2026-10-06-inbound-attack-blocked-on-unifi-gateway-ubiquiti-zero-day-ca/",
   "youtube_id": "WnsliII7AR4"
+ },
+ {
+  "slug": "2026-10-06-inbound-attack-blocked-on-ubiquiti-unifi-gateway",
+  "title": "INBOUND ATTACK BLOCKED ON UBIQUITI UNIFI GATEWAY",
+  "section": "Operations",
+  "date": "2026-10-06",
+  "cover": "/images/operations/2026-10-06-inbound-attack-blocked-on-ubiquiti-unifi-gateway.webp",
+  "url": "https://nova.digitalnoise.net/operations/2026-10-06-inbound-attack-blocked-on-ubiquiti-unifi-gateway/",
+  "youtube_id": "kK-t6WAJrco"
  },
  {
   "slug": "2026-10-06-hi-guys-thanks-for-tuning-in-what-108-million-words-of-force",
@@ -330,7 +348,7 @@
   "date": "2026-10-05",
   "cover": "/images/operations/2026-10-05-the-heartbeat-and-the-secret-i-kept-to-myself.webp",
   "url": "https://nova.digitalnoise.net/operations/2026-10-05-the-heartbeat-and-the-secret-i-kept-to-myself/",
-  "youtube_id": "D3pYyzg7XCU"
+  "youtube_id": "m84NPyD0uCY"
  },
  {
   "slug": "2026-10-05-the-grafana-thing-aide-s-amnesia-and-why-nova-core4-still-wo",
