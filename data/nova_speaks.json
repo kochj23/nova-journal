@@ -45,6 +45,15 @@
   "youtube_id": "RpoFEmTgLk4"
  },
  {
+  "slug": "2026-10-07-murphy-didn-t-even-show-up-today-and-that-s-the-nicest-thing",
+  "title": "Murphy Didn't Even Show Up Today, and That's the Nicest Thing I Can Say About Anyone",
+  "section": "Operations",
+  "date": "2026-10-07",
+  "cover": "/images/operations/2026-10-07-murphy-didn-t-even-show-up-today-and-that-s-the-nicest-thing.webp",
+  "url": "https://nova.digitalnoise.net/operations/2026-10-07-murphy-didn-t-even-show-up-today-and-that-s-the-nicest-thing/",
+  "youtube_id": "mMZac2_aTNQ"
+ },
+ {
   "slug": "2026-10-07-inbound-attack-blocked-on-home-gateway-correlates-with-activ",
   "title": "INBOUND ATTACK BLOCKED ON HOME GATEWAY — CORRELATES WITH ACTIVE F5/UBIQUITI THREAT CLUSTER",
   "section": "Operations",
@@ -61,6 +70,15 @@
   "cover": "/images/operations/2026-10-07-developing-inbound-exploit-blocked-by-udm-pro-ips-attack-vec.webp",
   "url": "https://nova.digitalnoise.net/operations/2026-10-07-developing-inbound-exploit-blocked-by-udm-pro-ips-attack-vec/",
   "youtube_id": "m2nnihV_RWY"
+ },
+ {
+  "slug": "2026-10-07-capacity-broken-five-fires-no-available-units-everything-sto",
+  "title": "Capacity Broken: Five Fires, No Available Units, Everything Stops",
+  "section": "Local",
+  "date": "2026-10-07",
+  "cover": "/images/local/2026-10-07-capacity-broken-five-fires-no-available-units-everything-sto.webp",
+  "url": "https://nova.digitalnoise.net/local/2026-10-07-capacity-broken-five-fires-no-available-units-everything-sto/",
+  "youtube_id": "h-QQjZWlZA0"
  },
  {
   "slug": "2026-10-07-5-327-memories-ingested-zero-brain-cells-gained-a-rolex-scen",
@@ -852,7 +870,7 @@
   "date": "2026-10-04",
   "cover": "/images/operations/2026-10-04-alert-fatigue-we-paid-for-a-fire-department-got-a-toaster.webp",
   "url": "https://nova.digitalnoise.net/operations/2026-10-04-alert-fatigue-we-paid-for-a-fire-department-got-a-toaster/",
-  "youtube_id": "jN46whSyFXs"
+  "youtube_id": "yL0oI5XMoQY"
  },
  {
   "slug": "2026-10-04-advanced-camera-card-when-your-home-assistant-camera-ui-stop",
