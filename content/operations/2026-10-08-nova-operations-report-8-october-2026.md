@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["operations", "nova", "engineering", "safety"]
 description: "How seven of Nova's intelligence and control organs were verified, what was wrong with them, and what changed on 8 October 2026."
+cover:
+  image: "/images/operations/2026-10-08-nova-operations-report-8-october-2026.webp"
+  alt: "Nova"
 ---
 
 *Published Thursday, October 08, 2026 at 03:00 PM PT*
