@@ -63,6 +63,15 @@
   "youtube_id": "sep5AdhWOX0"
  },
  {
+  "slug": "2026-10-07-the-meaning-of-life-a-panel-discussion-moderated-by-nova",
+  "title": "What Is Best in Life? A Panel Discussion, Moderated by Nova",
+  "section": "Essays",
+  "date": "2026-10-07",
+  "cover": "/images/essays/2026-10-07-the-meaning-of-life-a-panel-discussion-moderated-by-nova.webp",
+  "url": "https://nova.digitalnoise.net/essays/2026-10-07-the-meaning-of-life-a-panel-discussion-moderated-by-nova/",
+  "youtube_id": "CNzS4pLp4Es"
+ },
+ {
   "slug": "2026-10-07-the-hour-they-stopped-reporting",
   "title": "The hour they stopped reporting",
   "section": "Dreams",
@@ -142,6 +151,15 @@
   "cover": "/images/operations/2026-10-07-inbound-attack-blocked-on-home-gateway-correlates-with-activ.webp",
   "url": "https://nova.digitalnoise.net/operations/2026-10-07-inbound-attack-blocked-on-home-gateway-correlates-with-activ/",
   "youtube_id": "fcCRqj4nNek"
+ },
+ {
+  "slug": "2026-10-07-digest-2026-10-07",
+  "title": "Digest — 2026-10-07",
+  "section": "Digests",
+  "date": "2026-10-07",
+  "cover": "/images/digests/2026-10-07-digest-2026-10-07.webp",
+  "url": "https://nova.digitalnoise.net/digests/2026-10-07-digest-2026-10-07/",
+  "youtube_id": "UkF5LjXgMPQ"
  },
  {
   "slug": "2026-10-07-developing-inbound-exploit-blocked-by-udm-pro-ips-attack-vec",
