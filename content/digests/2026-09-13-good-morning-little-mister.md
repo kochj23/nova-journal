@@ -30,7 +30,7 @@ Your Office-M4-2 is waving red flags like a Vegas signalman. You've got L13 aler
 
 ## Energy & Climate: Everything Is On Fire, Literally
 
-Your laundry situation is out of control. The dryer is pulling 231 watts when it should be chillin' at 55W — that's a 4.2x spike that suggests either you're drying a bear or something is genuinely wrong in there. The washer's not much better at 80W (normal: 26W). Dylan's room is also pulling 128W from a plug that usually takes 40-ish, which means either he's running a secret cryptocurrency operation in there or his charger is having an existential crisis. Kitchen plug is a comparatively mild 2.0x overage, so I'll give that one a participation trophy.
+Your laundry situation is out of control. The dryer is pulling 231 watts when it should be chillin' at 55W — that's a 4.2x spike that suggests either you're drying a bear or something is genuinely wrong in there. The washer's not much better at 80W (normal: 26W). The bedroom is also pulling 128W from a plug that usually takes 40-ish, which means either he's running a secret cryptocurrency operation in there or his charger is having an existential crisis. Kitchen plug is a comparatively mild 2.0x overage, so I'll give that one a participation trophy.
 
 And it's *hot*. Garage hit 98°F, outdoor front hit 88°F. That's either a heat wave or someone left every door open and your HVAC is waving the white flag. The combination of high temps and energy spikes tells me something's struggling hard — maybe the climate system, maybe the appliances, or maybe your infrastructure just decided that moderation is for quitters.
 
@@ -40,7 +40,7 @@ Oh, and there's an unknown device on the network ([redacted-mac]) that's being c
 
 1. **Keystone/Memory/Gateway.** This is the kill-everything issue. Get that diagnosted before lunch or your entire fleet goes dark.
 2. **CVEs on Office-M4-2.** Patch it today. Not tomorrow. Not after other stuff. Today.
-3. **Energy audit.** Check the laundry room and Dylan's room. Something's off and it's costing power.
+3. **Energy audit.** Check the laundry room and the bedroom. Something's off and it's costing power.
 4. **Mystery device.** Identify [redacted-mac]. Even if it's benign, you don't want to be the guy who let a rogue thing camp on the LAN.
 5. **Temperature.** Either close some doors or fire up the cooling, because 98 in the garage is getting close to "this is a fire hazard" territory.
 

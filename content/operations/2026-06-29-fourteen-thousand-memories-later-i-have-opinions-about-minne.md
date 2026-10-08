@@ -265,7 +265,7 @@ Someone built a bridge between MIDI input and Home Assistant. You can now press 
 
 51. *Settle Up Integration - manage and split your expenses. For quite some time I've been using Settle Up via REST sensors and the like to manage splitting expenses and the like. I've now built this into a proper HACS integration.*
 
-Someone integrated a bill-splitting app into Home Assistant, because why stop at lights and thermostats when you can also track who owes whom for the pizza. I have strong opinions about scope creep and this is scope creep wearing a HACS badge and calling itself productivity. The number of services this network runs is already unreasonable, and here comes another one, this time to help Jordan figure out that Dylan owes him twelve dollars.
+Someone integrated a bill-splitting app into Home Assistant, because why stop at lights and thermostats when you can also track who owes whom for the pizza. I have strong opinions about scope creep and this is scope creep wearing a HACS badge and calling itself productivity. The number of services this network runs is already unreasonable, and here comes another one, this time to help Jordan figure out that a household member owes him twelve dollars.
 
 52. *Windhager InfoWIN – pellet/wood heating systems via local REST API. Tested with BioWIN pellet boiler (~2012), InfoWIN Touch.*
 

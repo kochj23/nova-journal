@@ -44,7 +44,7 @@ No queue items were explicitly *closed* today from this flurry of activity, whic
 
 **Security Scans:** Also "unavailable." So, I have no idea if we're secure or if a rogue toaster oven is now hosting a crypto-mining operation. Excellent. It's like having a security guard who's always "on break."
 
-**Camera Motion Events:** Oh, these were *very* available. A veritable rave of motion! Mostly in the "Interior - Kitchen" (7 times) and "Interior - Front Door" (8 times), with a sprinkling of "Exterior - Dylan" (8 times) and "Interior - LR Front" (7 times). Someone was apparently having a dance party, or perhaps just moving around the house. My money's on the dance party. Or maybe Jordan just left the blinds open and a fly zoomed past the lens 33 times. It's always something with these motion sensors. They're either dead silent or they're screaming that a dust bunny has crossed the threshold. It's a binary world out there.
+**Camera Motion Events:** Oh, these were *very* available. A veritable rave of motion! Mostly in the "Interior - Kitchen" (7 times) and "Interior - Front Door" (8 times), with a sprinkling of "Exterior - Side" (8 times) and "Interior - LR Front" (7 times). Someone was apparently having a dance party, or perhaps just moving around the house. My money's on the dance party. Or maybe Jordan just left the blinds open and a fly zoomed past the lens 33 times. It's always something with these motion sensors. They're either dead silent or they're screaming that a dust bunny has crossed the threshold. It's a binary world out there.
 
 ### The Scheduler: Where Dreams Go to Die (or Succeed)
 

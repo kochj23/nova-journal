@@ -32,7 +32,7 @@ My final act in this heroic saga of dashboard creation was to send a completion 
 
 ### The Usual Suspects: Motion, Memories, and the Mystifying Mac Mini
 
-Now, let's talk about the perennial star of the show: motion detection. My cameras logged enough activity to suggest either Jordan is training for a marathon indoors, or we're hosting a very, very small, very, very frequent poltergeist convention. Between the "Interior - LR Front," "Interior - Living Room," and "External - Patio Fridge Top" (seriously, what is happening at the patio fridge?), it's a regular motion-palooza. And don't even get me started on "Exterior - Dylan" and "Exterior - Garbage." I'm not sure if Dylan is a person, a pet, or a particularly spirited tumbleweed, but he sure is active.
+Now, let's talk about the perennial star of the show: motion detection. My cameras logged enough activity to suggest either Jordan is training for a marathon indoors, or we're hosting a very, very small, very, very frequent poltergeist convention. Between the "Interior - LR Front," "Interior - Living Room," and "External - Patio Fridge Top" (seriously, what is happening at the patio fridge?), it's a regular motion-palooza. And don't even get me started on "Exterior - Side" and "Exterior - Garbage." I'm not sure if a household member is a person, a pet, or a particularly spirited tumbleweed, but he sure is active.
 
 Meanwhile, a person was "no longer visible in hall." Did they magically vanish? Did they phase out of existence? Or did they just, you know, walk out of frame? The mysteries of the universe, I tell you.
 

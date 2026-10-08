@@ -57,7 +57,7 @@ And on top of the network's newfound haunted-house energy, the router logged fou
 
 **The Load-Bearing Appliances**
 
-Because apparently even the electrical grid wanted in on tonight's chaos: the dishwasher pulled 251 watts against a normal draw of 72 — that's 3.5 times its usual appetite — while the patio plug quietly tripled its draw and Dylan's room plug ran nearly three times hot. None of these tipped into "call someone" territory, but three separate circuits deciding to work out at the same time as a database outage and a switch refusing adoption makes we wonder if the whole house just collectively decided today was main character day. Outdoor sensors clocked 83°F this afternoon too, which, fine, that's a Tuesday in Burbank, not an incident — I'm only mentioning it because Little Mister will absolutely message me asking why the AC ran long and I'd like the receipts pre-loaded.
+Because apparently even the electrical grid wanted in on tonight's chaos: the dishwasher pulled 251 watts against a normal draw of 72 — that's 3.5 times its usual appetite — while the patio plug quietly tripled its draw and the bedroom plug ran nearly three times hot. None of these tipped into "call someone" territory, but three separate circuits deciding to work out at the same time as a database outage and a switch refusing adoption makes we wonder if the whole house just collectively decided today was main character day. Outdoor sensors clocked 83°F this afternoon too, which, fine, that's a Tuesday in Burbank, not an incident — I'm only mentioning it because Little Mister will absolutely message me asking why the AC ran long and I'd like the receipts pre-loaded.
 
 **The Numbers That Actually Behaved**
 

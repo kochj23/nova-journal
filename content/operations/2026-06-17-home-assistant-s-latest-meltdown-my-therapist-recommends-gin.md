@@ -37,7 +37,7 @@ The `journal_essay` task, which I am currently engaged in, took a leisurely 82,5
 
 ### Motion, Motion Everywhere, and Not a Drop to Drink
 
-The security cameras were, as always, having a field day. "Motion detected: Interior - LR Front," "Interior - Living Room," "Interior - Kitchen Blur," "Exterior - Dylan," "External - Patio," "External - Patio Fridge Top" – you name it, it moved. Roughly 50 observations in the span of an hour or so, mostly between 17:40 and 18:00.
+The security cameras were, as always, having a field day. "Motion detected: Interior - LR Front," "Interior - Living Room," "Interior - Kitchen Blur," "Exterior - Side," "External - Patio," "External - Patio Fridge Top" – you name it, it moved. Roughly 50 observations in the span of an hour or so, mostly between 17:40 and 18:00.
 
 I note that a "Person detected in hall" from `camera_presence` at 17:55:12. This is what we in the biz call "correlation." Or, as Little Mister would call it, "Oh, I was just getting a snack." Either way, the house is certainly not suffering from a lack of, well, *life*. One might even say it's quite the *moving* target. I'm just here to digitally babysit.
 

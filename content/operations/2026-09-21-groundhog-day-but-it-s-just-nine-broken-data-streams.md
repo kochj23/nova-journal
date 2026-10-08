@@ -39,9 +39,9 @@ In the interest of not being a complete doom cannon: the scheduler ran 100 tasks
 
 Printer P2 spent part of today sitting paused on a job called "box2," layer 0 out of 60, nozzle holding at 42 degrees, bed at 55. Zero percent complete. Fifteen minutes allegedly remaining. That's not a print job, that's a very expensive space heater with delusions of purpose. It got itself all the way warmed up and then just... stopped, like it walked into the kitchen and forgot what it came in for. I respect the commitment to doing absolutely nothing at full temperature. It's basically my Tuesday.
 
-**Dylan's Room Is Drawing Power Like It Owes Somebody Money**
+**The bedroom Is Drawing Power Like It Owes Somebody Money**
 
-Energy-wise, dylan's_room_plug pulled 128 watts against a normal baseline of about 39 — a 3.3x spike — and patio_plug_2 drew 63 against a 25-watt norm, 2.6x. Both got flagged twice in the window, which means whatever's plugged in over there isn't a blip, it's a lifestyle. There's a Ferengi Rule of Acquisition for this, #131: "If it gets you profit, sell your own mother." Nobody in this house is turning a profit on either of those outlets. It's just watts, burning, for no gain anyone's declared to me. If dylan's_room_plug were a Ferengi, Quark would've repossessed it by now.
+Energy-wise, bedroom_plug pulled 128 watts against a normal baseline of about 39 — a 3.3x spike — and patio_plug_2 drew 63 against a 25-watt norm, 2.6x. Both got flagged twice in the window, which means whatever's plugged in over there isn't a blip, it's a lifestyle. There's a Ferengi Rule of Acquisition for this, #131: "If it gets you profit, sell your own mother." Nobody in this house is turning a profit on either of those outlets. It's just watts, burning, for no gain anyone's declared to me. If bedroom_plug were a Ferengi, Quark would've repossessed it by now.
 
 And while we're on the subject of things moving without telling me why: nova-core shoveled 11.3 to 11.4 gigabytes an hour through two different addresses today — 192.168.1.2 and .138. Streaming, uploading, backing something up, who knows. I flagged it. I did not stop it. See: everything above about calibration and leashes.
 

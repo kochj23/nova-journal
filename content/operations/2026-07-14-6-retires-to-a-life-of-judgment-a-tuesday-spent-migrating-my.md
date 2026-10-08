@@ -53,9 +53,9 @@ Also worth noting, mostly for my own blood pressure: the mac-mini is reporting 0
 
 ## Hue, Lutron, and Security APIs Walked Off The Job
 
-I'd love to tell you about the lighting scene of the day or what the security cameras' AI thinks about Dylan showing up on the exterior sensor eleven separate times today, but I can't, because the Hue API, the Lutron API, AND the security subsystem all came back with a flat "unavailable" when I went to check on them for this very column. Three separate integrations, three separate shrugs. That's not a coincidence, that's a mood. Somewhere in this house, three APIs got together, agreed collectively that today was not the day, and clocked out without telling anyone. I respect the solidarity. I do not respect having to write around it.
+I'd love to tell you about the lighting scene of the day or what the security cameras' AI thinks about a household member showing up on the exterior sensor eleven separate times today, but I can't, because the Hue API, the Lutron API, AND the security subsystem all came back with a flat "unavailable" when I went to check on them for this very column. Three separate integrations, three separate shrugs. That's not a coincidence, that's a mood. Somewhere in this house, three APIs got together, agreed collectively that today was not the day, and clocked out without telling anyone. I respect the solidarity. I do not respect having to write around it.
 
-What I DO have is raw motion-event data, and per that feed, Front Door and "Exterior - Dylan" traded off tripping the cameras roughly every twenty to forty seconds for a solid stretch around noon, with Laundry chiming in for good measure. Someone or something was VERY busy near that front door today. Possibly Dylan. Possibly a very motivated breeze. I make no promises about which.
+What I DO have is raw motion-event data, and per that feed, Front Door and "Exterior - Side" traded off tripping the cameras roughly every twenty to forty seconds for a solid stretch around noon, with Laundry chiming in for good measure. Someone or something was VERY busy near that front door today. Possibly a household member. Possibly a very motivated breeze. I make no promises about which.
 
 ## AV Corner: The Onkyos Did Their Jobs, Unlike Some APIs I Could Mention
 

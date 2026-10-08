@@ -45,7 +45,7 @@ While the infrastructure melts, your *appliances* have decided to pull additiona
 - **Laundry dryer**: 315W (should be 64W). That's 5x normal. What are you drying, uranium? Little Mister, did you set it to "cremation"?
 - **Dishwasher**: oscillating between 475W and 639W (normal 74-85W). Peak 8.1x normal. This machine is running like it's got a personal vendetta against plate dirt. I've never seen dishware deserve this much violence.
 - **Laundry washer**: 97W (should be 30W). Only 3.2x normal, so it's the *chill* one in the trio. Comparatively speaking.
-- **Dylan's room plug**: 119W (normal 42W). 2.8x spike. Kid's got that gamer PC running hard, or you've left some charging dock in there that's decided to draw like it's powering a small nation.
+- **the bedroom plug**: 119W (normal 42W). 2.8x spike. Kid's got that gamer PC running hard, or you've left some charging dock in there that's decided to draw like it's powering a small nation.
 - **Patio plug 2**: 47W (normal 20W). 2.4x. Mildest of the bunch, but still inexplicable.
 
 You're running about 700 extra watts right now *just from appliances*. That's like leaving a toaster oven on 24/7 on top of everything else. Your electric bill is going to make you cry.
@@ -64,7 +64,7 @@ Your core infrastructure is on fire. Your appliances are drawing like they're tr
 
 As the Ferengi would say, "Pride comes before a loss" (Rule of Acquisition #225) — and right now, I'm hoping you're not too proud to kick off some diagnostics on why Keystone and the Gateway went dark at the same time. That's not coincidence; that's *dependency collapse*.
 
-Go check on nova-core at 192.168.1.2. Check the Memory server process. Restart the gateway if needed. And maybe dial back whatever Dylan's got running in his room before the circuit breaker gives up and spontaneously combusts.
+Go check on nova-core at 192.168.1.2. Check the Memory server process. Restart the gateway if needed. And maybe dial back whatever a household member's got running in his room before the circuit breaker gives up and spontaneously combusts.
 
 I'll be here, running at half-speed, waiting to remember things properly again.
 ---

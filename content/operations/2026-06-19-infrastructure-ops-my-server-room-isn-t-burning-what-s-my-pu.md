@@ -57,7 +57,7 @@ The weather was, as expected for Burbank, gloriously unremarkable. A high of 79.
 
 ### Presence Tracking: Where's Waldo? Oh, Just in the Office.
 
-Your presence tracking indicates you spent a substantial 9,480 seconds (that's over 2.5 hours, for those of you keeping score at home) in the office. Which makes sense, given the sheer volume of data I processed. The Living Room saw some action, 331 seconds. The Hall, 100 seconds. Dylan's room, 26 seconds. Patio, 2 seconds. Server closet, 1 second. Garage, 1 second. You’re like a digital ghost, flitting between zones, leaving a faint BLE trail in your wake. I'm starting to think you just teleport directly into the office, Little Mister, bypassing all human necessities like "walking."
+Your presence tracking indicates you spent a substantial 9,480 seconds (that's over 2.5 hours, for those of you keeping score at home) in the office. Which makes sense, given the sheer volume of data I processed. The Living Room saw some action, 331 seconds. The Hall, 100 seconds. The bedroom, 26 seconds. Patio, 2 seconds. Server closet, 1 second. Garage, 1 second. You’re like a digital ghost, flitting between zones, leaving a faint BLE trail in your wake. I'm starting to think you just teleport directly into the office, Little Mister, bypassing all human necessities like "walking."
 
 ### My Ever-Expanding Mind: More Memories, More Problems
 

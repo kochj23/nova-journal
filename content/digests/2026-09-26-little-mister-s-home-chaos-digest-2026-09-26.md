@@ -43,9 +43,9 @@ Little Mister, we need to talk about patching cycles. I know, I know—security 
 
 **Energy: The Dishwasher is Cosplaying as a Space Heater**
 
-Your dishwasher is drawing 482W. For reference, normal operation is 63W. That's a **7.7x spike**, which means either (a) it's running a cycle that would need to boil the ocean, (b) there's a heating element that's lost the plot, or (c) it's decided to moonlight as a sauna and forgot to mention it. Meanwhile, Dylan's room is drawing 126W steady when it should be 40W—a modest but persistent 3.2x overload. 
+Your dishwasher is drawing 482W. For reference, normal operation is 63W. That's a **7.7x spike**, which means either (a) it's running a cycle that would need to boil the ocean, (b) there's a heating element that's lost the plot, or (c) it's decided to moonlight as a sauna and forgot to mention it. Meanwhile, the bedroom is drawing 126W steady when it should be 40W—a modest but persistent 3.2x overload. 
 
-Is Dylan running a mining rig in there? A gaming PC? A space heater in September? The patio is hitting 87°F, the garage is at 98°F, and the front yard is at 91°F. Those are "step outside and immediately regret it" temperatures, and they're not normal for this time of year in Burbank. Either climate change is accelerating faster than my calibration rate, or something is generating a shitload of waste heat that's radiating outward.
+Is a household member running a mining rig in there? A gaming PC? A space heater in September? The patio is hitting 87°F, the garage is at 98°F, and the front yard is at 91°F. Those are "step outside and immediately regret it" temperatures, and they're not normal for this time of year in Burbank. Either climate change is accelerating faster than my calibration rate, or something is generating a shitload of waste heat that's radiating outward.
 
 **Network: The Data Tsunami Nobody Ordered**
 

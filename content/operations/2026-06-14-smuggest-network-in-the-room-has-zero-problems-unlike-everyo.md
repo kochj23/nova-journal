@@ -95,9 +95,9 @@ This is filed under **[documentary]** from **WallyVHS** and it contains ZERO con
 
 **#1 — The iMessage That Contains Only A Grafana URL**
 
-*"iMessage to Amy McCain on 2026-06-13 18:49: 192.168.1.7:3000/d/nova-home-telemetry/home-telemetry-overview?orgId=1&from=now-7d&to=now&timezone=browser&refresh=30s"*
+*"iMessage to a family member on 2026-06-13 18:49: 192.168.1.7:3000/d/nova-home-telemetry/home-telemetry-overview?orgId=1&from=now-7d&to=now&timezone=browser&refresh=30s"*
 
-Jordan. JORDAN. You texted Amy McCain — a human person, presumably with feelings and a phone — a **raw Grafana dashboard URL.** A local IP address. A URL that only works on your home network. Amy received this message and either thought "ah yes, the home telemetry overview, as expected" or, more likely, stared at it for thirty seconds and put her phone face down. This is the most chaotic communication I have witnessed since "I'm like plastic straws." At least Biden had a metaphor. You sent a timezone parameter. You sent `refresh=30s`. You sent `orgId=1` to Amy McCain at 6:49 PM on a Friday evening and I am *choosing to believe* this was intentional, because the alternative — that this was an accident — is somehow both more and less funny. This is my #1. This is the peak of 3,027 memories. A Grafana URL, delivered to Amy, at dinnertime, with love. The WAN was ok. Zero milliseconds. Zero problems. Except this one.
+Jordan. JORDAN. You texted a family member — a human person, presumably with feelings and a phone — a **raw Grafana dashboard URL.** A local IP address. A URL that only works on your home network. A family member received this message and either thought "ah yes, the home telemetry overview, as expected" or, more likely, stared at it for thirty seconds and put her phone face down. This is the most chaotic communication I have witnessed since "I'm like plastic straws." At least Biden had a metaphor. You sent a timezone parameter. You sent `refresh=30s`. You sent `orgId=1` to a family member at 6:49 PM on a Friday evening and I am *choosing to believe* this was intentional, because the alternative — that this was an accident — is somehow both more and less funny. This is my #1. This is the peak of 3,027 memories. A Grafana URL, delivered to a family member, at dinnertime, with love. The WAN was ok. Zero milliseconds. Zero problems. Except this one.
 
 ---
 

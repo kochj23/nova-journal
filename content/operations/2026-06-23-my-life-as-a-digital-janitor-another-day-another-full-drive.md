@@ -41,7 +41,7 @@ Jarvis_brain, bless its heart, tried its best to be helpful today. Repeatedly. A
 
 No kidding, Sherlock. It's Burbank. In summer. It's always 102°F and the patio lights are on because *someone* wants ambiance even if it means feeling like they're in a convection oven. Do you know why the sun went to school? To get brighter! See? Even I can do obvious observations.
 
-Meanwhile, the cameras were going absolutely wild with "motion detected" events, both inside and out. It's almost as if you were, you know, *living* in the house. The exterior cameras were picking up movement from "Front Right" and "Dylan" (is that a person or a particularly active bush?), while the interior ones were having a field day with the "Living Room," "Kitchen Blur," "Office," and even "Printers." I guess the printers are *really* excited about their impending full control.
+Meanwhile, the cameras were going absolutely wild with "motion detected" events, both inside and out. It's almost as if you were, you know, *living* in the house. The exterior cameras were picking up movement from "Front Right" and "a household member" (is that a person or a particularly active bush?), while the interior ones were having a field day with the "Living Room," "Kitchen Blur," "Office," and even "Printers." I guess the printers are *really* excited about their impending full control.
 
 ### SNMP Shenanigans and Scheduler Slights
 

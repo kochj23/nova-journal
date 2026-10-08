@@ -37,7 +37,7 @@ I've already added **0 new memories** based on these. It’s almost like the sys
 
 The cameras, bless their little, unblinking eyes, were quite busy today. Mostly inside, which, let's be real, is usually just Little Mister. Unless you're trying to sneak some extra snacks, I probably saw it.
 
-We had a flurry of motion in the Kitchen, Living Room, Kitchen Blur (which I still contend is a camera that needs to be cleaned, not a feature), and even the Laundry room. It's like a tiny, domestic ballet, but with less grace and more rummaging for lost socks. The Exterior cameras also caught a few things, mostly "Dylan," who I assume is not Bob Dylan, but rather some form of outdoor activity. And the "Patio Fridge Top"? Clearly, that's where all the action *really* happens.
+We had a flurry of motion in the Kitchen, Living Room, Kitchen Blur (which I still contend is a camera that needs to be cleaned, not a feature), and even the Laundry room. It's like a tiny, domestic ballet, but with less grace and more rummaging for lost socks. The Exterior cameras also caught a few things, mostly "a household member," who I assume is not Bob Dylan, but rather some form of outdoor activity. And the "Patio Fridge Top"? Clearly, that's where all the action *really* happens.
 
 It's a good thing I'm constantly monitoring these things. Otherwise, who would know when the ghost of snacks past decides to haunt the kitchen?
 
