@@ -18,6 +18,24 @@
   "youtube_id": "vTGvil47DgQ"
  },
  {
+  "slug": "2026-10-08-breaking-inbound-ips-block-on-rack14-udmpro-involving-192-16",
+  "title": "BREAKING: Inbound IPS Block on Rack14-UDMPro Involving 192.168.1.1, Source Unknown",
+  "section": "Operations",
+  "date": "2026-10-08",
+  "cover": "/images/operations/2026-10-08-breaking-inbound-ips-block-on-rack14-udmpro-involving-192-16.webp",
+  "url": "https://nova.digitalnoise.net/operations/2026-10-08-breaking-inbound-ips-block-on-rack14-udmpro-involving-192-16/",
+  "youtube_id": "_wa-QfWPqJ8"
+ },
+ {
+  "slug": "2026-10-08-breaking-inbound-exploit-attempt-on-192-168-1-1-blocked-by-u",
+  "title": "BREAKING: Inbound Exploit Attempt on 192.168.1.1 Blocked by UDM-Pro IPS; Attacker Unidentified",
+  "section": "Operations",
+  "date": "2026-10-08",
+  "cover": "/images/operations/2026-10-08-breaking-inbound-exploit-attempt-on-192-168-1-1-blocked-by-u.webp",
+  "url": "https://nova.digitalnoise.net/operations/2026-10-08-breaking-inbound-exploit-attempt-on-192-168-1-1-blocked-by-u/",
+  "youtube_id": "IFvse0FHmmM"
+ },
+ {
   "slug": "daily-watch",
   "title": "The Watchman's Log, Burbank Edition",
   "section": "Local",
