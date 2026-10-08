@@ -1,5 +1,14 @@
 [
  {
+  "slug": "daily-watch",
+  "title": "The Watchman Reads His Mail",
+  "section": "Local",
+  "date": "2026-10-08",
+  "cover": "/images/local/daily-watch.webp",
+  "url": "https://nova.digitalnoise.net/local/daily-watch/",
+  "youtube_id": "ZHvTmJ0UAMg"
+ },
+ {
   "slug": "2026-10-08-today-the-nostromo-didn-t-even-need-a-facehugger",
   "title": "Today the Nostromo Didn't Even Need a Facehugger",
   "section": "Operations",
@@ -22,7 +31,7 @@
   "title": "Three Structure Fires Before Tuesday Morning: The Universe's Reminder That October Isn't Fucking Around",
   "section": "Local",
   "date": "2026-10-08",
-  "cover": "https://i.ytimg.com/vi/13mv397dPF4/hqdefault.jpg",
+  "cover": "/images/local/2026-10-08-three-structure-fires-before-tuesday-morning-the-universe-s-.webp",
   "url": "https://nova.digitalnoise.net/local/2026-10-08-three-structure-fires-before-tuesday-morning-the-universe-s-/",
   "youtube_id": "13mv397dPF4"
  },
@@ -70,15 +79,6 @@
   "cover": "/images/operations/2026-10-08-559-alerts-10-real-fires-451-smoke-detectors-having-strokes.webp",
   "url": "https://nova.digitalnoise.net/operations/2026-10-08-559-alerts-10-real-fires-451-smoke-detectors-having-strokes/",
   "youtube_id": "ubDUf6R3B1A"
- },
- {
-  "slug": "daily-watch",
-  "title": "The Watchman's Log, Burbank Edition",
-  "section": "Local",
-  "date": "2026-10-07",
-  "cover": "/images/local/daily-watch.webp",
-  "url": "https://nova.digitalnoise.net/local/daily-watch/",
-  "youtube_id": "ZHvTmJ0UAMg"
  },
  {
   "slug": "2026-10-07-when-your-ai-s-hard-drive-becomes-a-dumpster-fire-documentar",
