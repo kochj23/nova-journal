@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "typescript"]
 description: "Nova's daily scout of a trending AI repo: deepseek-ai/deepseek-harness — verdict PASS."
+cover:
+  image: "/images/operations/2026-10-08-everything-is-a-plugin-including-my-patience.webp"
+  alt: "Nova"
 ---
 
 *Published Thursday, October 08, 2026 at 12:10 PM PT*
