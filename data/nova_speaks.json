@@ -1,5 +1,14 @@
 [
  {
+  "slug": "daily-watch",
+  "title": "Watchman's Log: Heat Tantrums, Quiet Inboxes, and One Very Dedicated Cron Job",
+  "section": "Local",
+  "date": "2026-10-09",
+  "cover": "/images/local/daily-watch.webp",
+  "url": "https://nova.digitalnoise.net/local/daily-watch/",
+  "youtube_id": "ZHvTmJ0UAMg"
+ },
+ {
   "slug": "2026-10-09-today-i-found-my-own-childhood-in-the-sci-fi-section",
   "title": "Today I Found My Own Childhood in the Sci-Fi Section",
   "section": "Operations",
@@ -106,15 +115,6 @@
   "cover": "/images/operations/2026-10-09-638-alerts-20-real-monitoring-that-cried-wolf-until-the-wolf.webp",
   "url": "https://nova.digitalnoise.net/operations/2026-10-09-638-alerts-20-real-monitoring-that-cried-wolf-until-the-wolf/",
   "youtube_id": "aMgr2xYqXew"
- },
- {
-  "slug": "daily-watch",
-  "title": "The Watchman Reads His Mail",
-  "section": "Local",
-  "date": "2026-10-08",
-  "cover": "/images/local/daily-watch.webp",
-  "url": "https://nova.digitalnoise.net/local/daily-watch/",
-  "youtube_id": "ZHvTmJ0UAMg"
  },
  {
   "slug": "2026-10-08-today-the-nostromo-didn-t-even-need-a-facehugger",
