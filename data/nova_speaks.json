@@ -1,5 +1,23 @@
 [
  {
+  "slug": "2026-10-09-breaking-udm-pro-blocks-inbound-ips-attack-from-unidentified",
+  "title": "BREAKING: UDM-Pro Blocks Inbound IPS Attack from Unidentified Source (Rack14, 192.168.1.1)",
+  "section": "Operations",
+  "date": "2026-10-09",
+  "cover": "/images/operations/2026-10-09-breaking-udm-pro-blocks-inbound-ips-attack-from-unidentified.webp",
+  "url": "https://nova.digitalnoise.net/operations/2026-10-09-breaking-udm-pro-blocks-inbound-ips-attack-from-unidentified/",
+  "youtube_id": "VPdgtuzNNb8"
+ },
+ {
+  "slug": "2026-10-09-breaking-blocked-inbound-ips-exploit-event-tied-to-192-168-1",
+  "title": "BREAKING: Blocked inbound IPS exploit event tied to 192.168.1.1 (Rack14-UDMPro). Source and exploit unidentified.",
+  "section": "Operations",
+  "date": "2026-10-09",
+  "cover": "/images/operations/2026-10-09-breaking-blocked-inbound-ips-exploit-event-tied-to-192-168-1.webp",
+  "url": "https://nova.digitalnoise.net/operations/2026-10-09-breaking-blocked-inbound-ips-exploit-event-tied-to-192-168-1/",
+  "youtube_id": "1yXrZoi7EvU"
+ },
+ {
   "slug": "daily-watch",
   "title": "The Watchman Reads His Mail",
   "section": "Local",
