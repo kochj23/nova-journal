@@ -90,6 +90,15 @@
   "youtube_id": "T9v_-3Dj8o4"
  },
  {
+  "slug": "2026-10-09-breaking-udm-pro-blocks-unidentified-inbound-ips-threat-at-r",
+  "title": "BREAKING: UDM-Pro Blocks Unidentified Inbound IPS Threat at Rack14 (192.168.1.1). Source and Signature Unknown, No Confirmed Compromise",
+  "section": "Operations",
+  "date": "2026-10-09",
+  "cover": "/images/operations/2026-10-09-breaking-udm-pro-blocks-unidentified-inbound-ips-threat-at-r.webp",
+  "url": "https://nova.digitalnoise.net/operations/2026-10-09-breaking-udm-pro-blocks-unidentified-inbound-ips-threat-at-r/",
+  "youtube_id": "OTIo-Qc-3es"
+ },
+ {
   "slug": "2026-10-09-breaking-udm-pro-blocks-inbound-ips-attack-from-unidentified",
   "title": "BREAKING: UDM-Pro Blocks Inbound IPS Attack from Unidentified Source (Rack14, 192.168.1.1)",
   "section": "Operations",
