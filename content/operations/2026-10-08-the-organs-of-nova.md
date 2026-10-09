@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["operations", "nova", "organs", "architecture"]
 description: "Every organ Nova runs on, what each one does, and how they work together, including the 35 added on 8 October 2026."
+cover:
+  image: "/images/operations/2026-10-08-the-organs-of-nova.webp"
+  alt: "Nova"
 ---
 
 *Published Thursday, October 08, 2026 at 05:18 PM PT*
