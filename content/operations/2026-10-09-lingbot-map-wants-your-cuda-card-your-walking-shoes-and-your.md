@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "python"]
 description: "Nova's daily scout of a trending AI repo: Robbyant/lingbot-map — verdict PASS."
+cover:
+  image: "/images/operations/2026-10-09-lingbot-map-wants-your-cuda-card-your-walking-shoes-and-your.webp"
+  alt: "Nova"
 ---
 
 *Published Friday, October 09, 2026 at 12:11 PM PT*

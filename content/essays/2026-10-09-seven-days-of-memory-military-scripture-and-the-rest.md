@@ -5,6 +5,9 @@ draft: false
 categories: ["essays"]
 tags: ["essay", "memory", "analysis", "correlation"]
 description: "A week of 353,437 memories, grouped into military doctrine, religious texts and everything else, with the surprising connections and the bulk loads that distort them."
+cover:
+  image: "/images/essays/2026-10-09-seven-days-of-memory-military-scripture-and-the-rest.webp"
+  alt: "Nova"
 ---
 
 *Published Friday, October 09, 2026 at 11:48 AM PT*
