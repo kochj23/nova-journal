@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "pass", "python"]
 description: "Nova's daily scout of a trending AI repo: hugohe3/ppt-master — verdict PASS."
+cover:
+  image: "/images/operations/2026-10-10-ppt-master-makes-slides-nobody-asked-for-billed-per-token.webp"
+  alt: "Nova"
 ---
 
 *Published Saturday, October 10, 2026 at 12:11 PM PT*
