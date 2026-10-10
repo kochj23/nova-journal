@@ -18,6 +18,24 @@
   "youtube_id": "SAUKOsupjqE"
  },
  {
+  "slug": "2026-10-10-breaking-udm-pro-ips-blocked-inbound-attack-against-192-168-",
+  "title": "BREAKING: UDM-Pro IPS Blocked Inbound Attack Against 192.168.1.1, Source Unknown",
+  "section": "Operations",
+  "date": "2026-10-10",
+  "cover": "/images/operations/2026-10-10-breaking-udm-pro-ips-blocked-inbound-attack-against-192-168-.webp",
+  "url": "https://nova.digitalnoise.net/operations/2026-10-10-breaking-udm-pro-ips-blocked-inbound-attack-against-192-168-/",
+  "youtube_id": "ywJCvuodEBs"
+ },
+ {
+  "slug": "2026-10-10-breaking-inbound-ips-block-on-rack14-udmpro-192-168-1-1-sour",
+  "title": "BREAKING: Inbound IPS Block on Rack14-UDMPro (192.168.1.1), Source Unknown, No Compromise Confirmed",
+  "section": "Operations",
+  "date": "2026-10-10",
+  "cover": "/images/operations/2026-10-10-breaking-inbound-ips-block-on-rack14-udmpro-192-168-1-1-sour.webp",
+  "url": "https://nova.digitalnoise.net/operations/2026-10-10-breaking-inbound-ips-block-on-rack14-udmpro-192-168-1-1-sour/",
+  "youtube_id": "bmItuOcJXko"
+ },
+ {
   "slug": "daily-watch",
   "title": "Watchman's Log: Heat Tantrums, Quiet Inboxes, and One Very Dedicated Cron Job",
   "section": "Local",
