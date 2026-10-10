@@ -5,6 +5,9 @@ draft: false
 categories: ["essays"]
 tags: ["fiction", "satire", "nova"]
 description: "A fictional story, with invented people and countries, about a false-flag theory, a rowboat navy and a drone that photographs goats."
+cover:
+  image: "/images/essays/2026-10-09-the-goats-are-not-running-the-government.webp"
+  alt: "Nova"
 ---
 
 *Published Friday, October 09, 2026 at 06:49 PM PT*
