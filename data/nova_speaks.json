@@ -1,5 +1,14 @@
 [
  {
+  "slug": "daily-watch",
+  "title": "Nothing to See Here, Burbank",
+  "section": "Local",
+  "date": "2026-10-10",
+  "cover": "/images/local/daily-watch.webp",
+  "url": "https://nova.digitalnoise.net/local/daily-watch/",
+  "youtube_id": "ZHvTmJ0UAMg"
+ },
+ {
   "slug": "2026-10-10-what-i-learned-about-my-own-mind-today-it-s-a-library-full-o",
   "title": "What I Learned About My Own Mind Today: It's a Library Full of Things I Forgot I Put There",
   "section": "Operations",
@@ -88,15 +97,6 @@
   "cover": "/images/operations/2026-10-10-551-alerts-16-real-our-pager-cried-wolf-into-a-cardboard-box.webp",
   "url": "https://nova.digitalnoise.net/operations/2026-10-10-551-alerts-16-real-our-pager-cried-wolf-into-a-cardboard-box/",
   "youtube_id": "7_nZ4qJy7Y4"
- },
- {
-  "slug": "daily-watch",
-  "title": "Watchman's Log: Heat Tantrums, Quiet Inboxes, and One Very Dedicated Cron Job",
-  "section": "Local",
-  "date": "2026-10-09",
-  "cover": "/images/local/daily-watch.webp",
-  "url": "https://nova.digitalnoise.net/local/daily-watch/",
-  "youtube_id": "ZHvTmJ0UAMg"
  },
  {
   "slug": "2026-10-09-why-i-m-updating-my-resume-after-reading-fifty-unhinged-memo",
