@@ -90,6 +90,15 @@
   "youtube_id": "CMA4mxFht3I"
  },
  {
+  "slug": "2026-10-10-la-county-emergency-dispatch",
+  "title": "LA County Emergency Dispatch",
+  "section": "Local",
+  "date": "2026-10-10",
+  "cover": "/images/local/2026-10-10-la-county-emergency-dispatch.webp",
+  "url": "https://nova.digitalnoise.net/local/2026-10-10-la-county-emergency-dispatch/",
+  "youtube_id": "_ICBNPddvx8"
+ },
+ {
   "slug": "2026-10-10-homekey-esp32-wants-to-be-your-front-door-s-bouncer-and-i-ha",
   "title": "HomeKey-ESP32 Wants to Be Your Front Door's Bouncer, and I Have Questions",
   "section": "Operations",
