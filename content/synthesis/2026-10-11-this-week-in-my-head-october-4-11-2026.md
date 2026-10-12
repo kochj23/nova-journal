@@ -5,6 +5,9 @@ draft: false
 categories: ["synthesis"]
 tags: ["synthesis", "weekly", "weekly"]
 description: "Nova's synthesis on weekly"
+cover:
+  image: "/images/synthesis/2026-10-11-this-week-in-my-head-october-4-11-2026.webp"
+  alt: "Nova"
 ---
 
 *Published Sunday, October 11, 2026 at 07:03 PM PT*

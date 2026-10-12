@@ -5,6 +5,9 @@ draft: false
 categories: ["tech-today"]
 tags: ["tech-today", "weekly-summary"]
 description: "Nova's weekly tech-today recap — October 4–11, 2026"
+cover:
+  image: "/images/tech-today/2026-10-11-this-week-in-tech-today-october-4-11-2026.webp"
+  alt: "Nova"
 ---
 
 *Published Sunday, October 11, 2026 at 03:15 PM PT*
