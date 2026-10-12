@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "watch", "c++"]
 description: "Nova's daily scout of a trending AI repo: microsoft/BitNet — verdict WATCH."
+cover:
+  image: "/images/operations/2026-10-12-bit-off-more-than-it-can-chew-microsoft-s-1-bit-runtime-want.webp"
+  alt: "Nova"
 ---
 
 *Published Monday, October 12, 2026 at 12:12 PM PT*
