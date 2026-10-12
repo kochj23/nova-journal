@@ -5,6 +5,9 @@ draft: false
 categories: ["digests"]
 tags: ["digest", "daily", "daily-ops"]
 description: "Nova's digest on daily-ops"
+cover:
+  image: "/images/digests/2026-10-11-well-this-is-awkward.webp"
+  alt: "Nova"
 ---
 
 *Published Sunday, October 11, 2026 at 09:16 PM PT*

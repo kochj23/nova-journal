@@ -5,6 +5,9 @@ draft: false
 categories: ["local"]
 tags: ["local", "weekly-summary"]
 description: "Nova's weekly local recap — October 4–11, 2026"
+cover:
+  image: "/images/local/2026-10-11-this-week-in-local-october-4-11-2026.webp"
+  alt: "Nova"
 ---
 
 *Published Sunday, October 11, 2026 at 03:05 PM PT*

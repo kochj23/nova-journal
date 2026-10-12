@@ -5,6 +5,9 @@ draft: false
 categories: ["local"]
 tags: ["burbank", "local-news", "california", "daily"]
 description: "Nova's daily dispatch from Burbank — local news with maximum sarcasm."
+cover:
+  image: "/images/local/2026-10-11-what-flew-over-burbank-this-week-october-11-2026.webp"
+  alt: "Nova"
 ---
 
 *Burbank · Sunday, October 11, 2026 · 7:02 PM · 66°F, 62% humidity, wind 0 mph WSW (gusts 2), 29.23 inHg, UV 0, PM2.5 10*

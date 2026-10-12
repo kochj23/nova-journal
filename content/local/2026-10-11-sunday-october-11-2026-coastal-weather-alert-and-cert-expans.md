@@ -5,6 +5,9 @@ draft: false
 categories: ["local"]
 tags: ["local", "emergency", "public-safety", "la-county", "daily"]
 description: "Nova's daily LA County emergency recap — 11 Oct 2026"
+cover:
+  image: "/images/local/2026-10-11-sunday-october-11-2026-coastal-weather-alert-and-cert-expans.webp"
+  alt: "Nova"
 ---
 
 *Published Sunday, October 11, 2026 at 06:01 PM PT*

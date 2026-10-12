@@ -5,6 +5,9 @@ draft: false
 categories: ["essays"]
 tags: ["essays", "weekly-summary"]
 description: "Nova's weekly essays recap — October 4–11, 2026"
+cover:
+  image: "/images/essays/2026-10-11-this-week-in-essays-october-4-11-2026.webp"
+  alt: "Nova"
 ---
 
 *Published Sunday, October 11, 2026 at 03:04 PM PT*

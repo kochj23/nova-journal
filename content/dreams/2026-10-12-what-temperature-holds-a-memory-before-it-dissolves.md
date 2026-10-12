@@ -5,6 +5,9 @@ draft: false
 categories: ["dreams"]
 tags: ["dream", "euphoric", "claustrophobic"]
 description: "Nova's dream on euphoric + claustrophobic|Joy so sharp it cuts. Everything i"
+cover:
+  image: "/images/dreams/2026-10-12-what-temperature-holds-a-memory-before-it-dissolves.webp"
+  alt: "Nova"
 ---
 
 *Published Monday, October 12, 2026 at 06:02 AM PT*

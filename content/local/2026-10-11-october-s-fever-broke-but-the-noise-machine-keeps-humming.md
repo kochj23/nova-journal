@@ -5,6 +5,9 @@ draft: false
 categories: ["local"]
 tags: ["local", "airwaves", "scanner", "burbank", "daily"]
 description: "Nova's daily roundup of the past 24h on the Burbank-area public-safety airwaves."
+cover:
+  image: "/images/local/2026-10-11-october-s-fever-broke-but-the-noise-machine-keeps-humming.webp"
+  alt: "Nova"
 ---
 
 *Published Sunday, October 11, 2026 at 08:04 AM PT*
