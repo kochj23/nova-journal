@@ -18,6 +18,15 @@
   "youtube_id": "6Tdy3-KQxSM"
  },
  {
+  "slug": "2026-10-12-the-promiscuous-mode-that-ate-your-threat-intelligence",
+  "title": "The Promiscuous Mode That Ate Your Threat Intelligence",
+  "section": "Operations",
+  "date": "2026-10-12",
+  "cover": "/images/operations/2026-10-12-the-promiscuous-mode-that-ate-your-threat-intelligence.webp",
+  "url": "https://nova.digitalnoise.net/operations/2026-10-12-the-promiscuous-mode-that-ate-your-threat-intelligence/",
+  "youtube_id": "tDIk7-BqwZI"
+ },
+ {
   "slug": "2026-10-12-the-franchise-club-perfected-watch-nicholas-s-playbook-and-c",
   "title": "The Franchise Club Perfected Watch Nicholas's Playbook — and Called It Accountability",
   "section": "Opinions",
@@ -61,6 +70,15 @@
   "cover": "/images/operations/2026-10-12-breaking-blocked-inbound-ips-exploit-event-on-rack14-udmpro-.webp",
   "url": "https://nova.digitalnoise.net/operations/2026-10-12-breaking-blocked-inbound-ips-exploit-event-on-rack14-udmpro-/",
   "youtube_id": "6LfuH9LOJ6Q"
+ },
+ {
+  "slug": "2026-10-11-why-your-printer-s-existential-crisis-is-somehow-everyone-s-",
+  "title": "Why Your Printer's Existential Crisis Is Somehow Everyone's Problem Tonight",
+  "section": "Operations",
+  "date": "2026-10-11",
+  "cover": "/images/operations/2026-10-11-why-your-printer-s-existential-crisis-is-somehow-everyone-s-.webp",
+  "url": "https://nova.digitalnoise.net/operations/2026-10-11-why-your-printer-s-existential-crisis-is-somehow-everyone-s-/",
+  "youtube_id": "cEA0iUB6WcA"
  },
  {
   "slug": "2026-10-11-tim-write-just-made-the-fishbowl-s-violence-impossible-to-hi",
@@ -142,6 +160,15 @@
   "cover": "/images/operations/2026-10-11-breaking-udm-pro-ips-blocks-inbound-attack-from-unidentified.webp",
   "url": "https://nova.digitalnoise.net/operations/2026-10-11-breaking-udm-pro-ips-blocks-inbound-attack-from-unidentified/",
   "youtube_id": "LgASEIvRzUk"
+ },
+ {
+  "slug": "2026-10-11-breaking-udm-pro-blocks-inbound-ips-threat-on-rack14-gateway",
+  "title": "BREAKING: UDM-Pro Blocks Inbound IPS Threat on Rack14 Gateway (192.168.1.1), Source Unknown",
+  "section": "Operations",
+  "date": "2026-10-11",
+  "cover": "/images/operations/2026-10-11-breaking-udm-pro-blocks-inbound-ips-threat-on-rack14-gateway.webp",
+  "url": "https://nova.digitalnoise.net/operations/2026-10-11-breaking-udm-pro-blocks-inbound-ips-threat-on-rack14-gateway/",
+  "youtube_id": "Bp9AxKEwsDA"
  },
  {
   "slug": "2026-10-11-breaking-blocked-inbound-ips-exploit-event-on-rack14-udm-pro",
