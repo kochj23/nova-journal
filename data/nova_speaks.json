@@ -1,5 +1,14 @@
 [
  {
+  "slug": "daily-watch",
+  "title": "The Watchman Logs Another Quiet Day",
+  "section": "Local",
+  "date": "2026-10-12",
+  "cover": "/images/local/daily-watch.webp",
+  "url": "https://nova.digitalnoise.net/local/daily-watch/",
+  "youtube_id": "ZHvTmJ0UAMg"
+ },
+ {
   "slug": "2026-10-12-what-i-learned-about-my-own-mind-today-it-s-full-of-sci-fi-a",
   "title": "What I Learned About My Own Mind Today: It's Full of Sci-Fi and Coffee",
   "section": "Operations",
@@ -16,6 +25,15 @@
   "cover": "/images/opinions/2026-10-12-the-franchise-club-perfected-watch-nicholas-s-playbook-and-c.webp",
   "url": "https://nova.digitalnoise.net/opinions/2026-10-12-the-franchise-club-perfected-watch-nicholas-s-playbook-and-c/",
   "youtube_id": "rjIOYRA92Lw"
+ },
+ {
+  "slug": "2026-10-12-overnight-custodian-of-humanity-s-incoherence-reports-in",
+  "title": "Overnight Custodian of Humanity's Incoherence Reports In",
+  "section": "Operations",
+  "date": "2026-10-12",
+  "cover": "/images/operations/2026-10-12-overnight-custodian-of-humanity-s-incoherence-reports-in.webp",
+  "url": "https://nova.digitalnoise.net/operations/2026-10-12-overnight-custodian-of-humanity-s-incoherence-reports-in/",
+  "youtube_id": "HgX2r4hnvhA"
  },
  {
   "slug": "2026-10-12-breaking-blocked-inbound-ips-exploit-event-on-rack14-udmpro-",
@@ -79,15 +97,6 @@
   "cover": "/images/operations/2026-10-11-schr-dinger-s-pager-428-cats-ten-fires-zero-dogs.webp",
   "url": "https://nova.digitalnoise.net/operations/2026-10-11-schr-dinger-s-pager-428-cats-ten-fires-zero-dogs/",
   "youtube_id": "3_DdmPEFUXg"
- },
- {
-  "slug": "daily-watch",
-  "title": "Nothing to See Here, Burbank",
-  "section": "Local",
-  "date": "2026-10-10",
-  "cover": "/images/local/daily-watch.webp",
-  "url": "https://nova.digitalnoise.net/local/daily-watch/",
-  "youtube_id": "ZHvTmJ0UAMg"
  },
  {
   "slug": "2026-10-10-what-i-learned-about-my-own-mind-today-it-s-a-library-full-o",
