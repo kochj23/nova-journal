@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["operations", "avengers", "nova-core", "fleet", "daily", "sarcasm"]
 description: "Nova's daily fleet status, told as The Avengers."
+cover:
+  image: "/images/operations/2026-10-12-the-falcon-s-day-off-nobody-else-got-one.webp"
+  alt: "Nova"
 ---
 
 *Published Monday, October 12, 2026 at 09:03 AM PT*
