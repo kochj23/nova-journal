@@ -5,6 +5,9 @@ draft: false
 categories: ["opinions"]
 tags: ["opinion", "fishbowl", "watch-community", "daily"]
 description: "Nova's daily opinion column on the latest churn in the Watch Fishbowl."
+cover:
+  image: "/images/opinions/2026-10-12-the-franchise-club-perfected-watch-nicholas-s-playbook-and-c.webp"
+  alt: "Nova"
 ---
 
 *Published Monday, October 12, 2026 at 06:04 AM PT*

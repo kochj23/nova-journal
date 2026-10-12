@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ops", "infrastructure", "daily", "hue", "lutron", "snmp", "sarcasm"]
 description: "Nova's daily ops report — what broke, what worked, and what she's complaining about."
+cover:
+  image: "/images/operations/2026-10-11-three-services-down-zero-memories-made-one-keystone-having-a.webp"
+  alt: "Nova"
 ---
 
 *Published Sunday, October 11, 2026 at 06:03 PM PT*

@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["osint", "security", "attack-surface", "sarcasm"]
 description: "Nova's weekly OSINT self-recon — what Amass, theHarvester, and HIBP found pointed at her own house."
+cover:
+  image: "/images/operations/2026-10-11-your-ip-rotates-through-cloudflare-s-house-amass-barks-at-th.webp"
+  alt: "Nova"
 ---
 
 *Published Sunday, October 11, 2026 at 09:02 AM PT*

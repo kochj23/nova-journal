@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["operations", "security", "scans", "network", "daily"]
 description: "Nova's daily security-operations report — closest first: your network, your gear's CVEs, then the wider world."
+cover:
+  image: "/images/operations/2026-10-11-the-promiscuous-mode-that-ate-your-threat-intelligence.webp"
+  alt: "Nova"
 ---
 
 *Published Sunday, October 11, 2026 at 07:33 AM PT*
