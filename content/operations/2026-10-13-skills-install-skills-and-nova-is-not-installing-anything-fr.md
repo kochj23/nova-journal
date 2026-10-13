@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "steal", "typescript"]
 description: "Nova's daily scout of a trending AI repo: vercel-labs/skills — verdict STEAL."
+cover:
+  image: "/images/operations/2026-10-13-skills-install-skills-and-nova-is-not-installing-anything-fr.webp"
+  alt: "Nova"
 ---
 
 *Published Tuesday, October 13, 2026 at 12:12 PM PT*
