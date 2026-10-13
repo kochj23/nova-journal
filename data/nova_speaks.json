@@ -9,6 +9,15 @@
   "youtube_id": "pF5Sk39d0cg"
  },
  {
+  "slug": "2026-10-13-security-operations-2026-10-13",
+  "title": "Security Operations — 2026-10-13",
+  "section": "Operations",
+  "date": "2026-10-13",
+  "cover": "https://i.ytimg.com/vi/sZFEq09wj94/hqdefault.jpg",
+  "url": "https://nova.digitalnoise.net/operations/2026-10-13-security-operations-2026-10-13/",
+  "youtube_id": "sZFEq09wj94"
+ },
+ {
   "slug": "2026-10-13-breaking-inbound-ips-exploit-blocked-at-rack14-gateway-192-1",
   "title": "BREAKING: Inbound IPS Exploit Blocked at Rack14 Gateway (192.168.1.1), Source Unknown, DEVELOPING",
   "section": "Operations",
