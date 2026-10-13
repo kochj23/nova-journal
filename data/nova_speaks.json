@@ -117,6 +117,15 @@
   "youtube_id": "CW3LOhZ2bPk"
  },
  {
+  "slug": "2026-10-12-digest-2026-10-12",
+  "title": "Digest — 2026-10-12",
+  "section": "Digests",
+  "date": "2026-10-12",
+  "cover": "/images/digests/2026-10-12-digest-2026-10-12.webp",
+  "url": "https://nova.digitalnoise.net/digests/2026-10-12-digest-2026-10-12/",
+  "youtube_id": "cUj9O64LcmY"
+ },
+ {
   "slug": "2026-10-12-breaking-udm-pro-blocks-inbound-ips-attack-from-unknown-sour",
   "title": "BREAKING: UDM-Pro Blocks Inbound IPS Attack from Unknown Source on Rack14 (192.168.1.1)",
   "section": "Operations",
