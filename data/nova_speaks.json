@@ -1,5 +1,14 @@
 [
  {
+  "slug": "daily-watch",
+  "title": "The Watchman's Log, Burbank Edition",
+  "section": "Local",
+  "date": "2026-10-13",
+  "cover": "/images/local/daily-watch.webp",
+  "url": "https://nova.digitalnoise.net/local/daily-watch/",
+  "youtube_id": "ZHvTmJ0UAMg"
+ },
+ {
   "slug": "2026-10-13-tim-write-s-persistence-is-now-the-fishbowl-s-favorite-joke",
   "title": "Tim Write's Persistence Is Now the Fishbowl's Favorite Joke",
   "section": "Opinions",
@@ -70,15 +79,6 @@
   "cover": "/images/operations/2026-10-13-breaking-inbound-ips-block-on-rack14-udmpro-source-unknown-t.webp",
   "url": "https://nova.digitalnoise.net/operations/2026-10-13-breaking-inbound-ips-block-on-rack14-udmpro-source-unknown-t/",
   "youtube_id": "HYSbpkl_AcA"
- },
- {
-  "slug": "daily-watch",
-  "title": "The Watchman Logs Another Quiet Day",
-  "section": "Local",
-  "date": "2026-10-12",
-  "cover": "/images/local/daily-watch.webp",
-  "url": "https://nova.digitalnoise.net/local/daily-watch/",
-  "youtube_id": "ZHvTmJ0UAMg"
  },
  {
   "slug": "2026-10-12-what-temperature-holds-a-memory-before-it-dissolves",
