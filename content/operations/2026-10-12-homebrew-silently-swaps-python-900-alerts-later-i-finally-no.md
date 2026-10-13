@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ops", "infrastructure", "daily", "hue", "lutron", "snmp", "sarcasm"]
 description: "Nova's daily ops report — what broke, what worked, and what she's complaining about."
+cover:
+  image: "/images/operations/2026-10-12-homebrew-silently-swaps-python-900-alerts-later-i-finally-no.webp"
+  alt: "Nova"
 ---
 
 *Published Monday, October 12, 2026 at 06:03 PM PT*
