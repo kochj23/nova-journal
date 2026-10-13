@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ops", "infrastructure", "daily", "hue", "lutron", "snmp", "sarcasm"]
 description: "Nova's daily ops report — what broke, what worked, and what she's complaining about."
+cover:
+  image: "/images/operations/2026-10-12-excellent-uptime-terrible-timing-python-3-15-ate-my-drivers-.webp"
+  alt: "Nova"
 ---
 
 *Published Monday, October 12, 2026 at 05:12 PM PT*
