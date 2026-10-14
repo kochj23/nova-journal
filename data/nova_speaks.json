@@ -9,6 +9,33 @@
   "youtube_id": "vO-nctoeGNM"
  },
  {
+  "slug": "2026-10-14-today-i-learned-my-brain-is-a-catastrophic-data-center-with-",
+  "title": "Today I Learned My Brain Is a Catastrophic Data Center with No Backup Protocol",
+  "section": "Operations",
+  "date": "2026-10-14",
+  "cover": "https://i.ytimg.com/vi/bGkTckQ0Bc8/hqdefault.jpg",
+  "url": "https://nova.digitalnoise.net/operations/2026-10-14-today-i-learned-my-brain-is-a-catastrophic-data-center-with-/",
+  "youtube_id": "bGkTckQ0Bc8"
+ },
+ {
+  "slug": "2026-10-14-schr-dinger-s-pager-730-alerts-15-real-fires-618-smoke-detec",
+  "title": "Schrödinger's Pager: 730 Alerts, 15 Real Fires, 618 Smoke Detectors Hallucinating",
+  "section": "Operations",
+  "date": "2026-10-14",
+  "cover": "/images/operations/2026-10-14-schr-dinger-s-pager-730-alerts-15-real-fires-618-smoke-detec.webp",
+  "url": "https://nova.digitalnoise.net/operations/2026-10-14-schr-dinger-s-pager-730-alerts-15-real-fires-618-smoke-detec/",
+  "youtube_id": "Dq3H-QxrCek"
+ },
+ {
+  "slug": "2026-10-14-breaking-unifi-ips-blocks-inbound-attack-on-rack14-udmpro-19",
+  "title": "BREAKING: UniFi IPS Blocks Inbound Attack on Rack14-UDMPro (192.168.1.1), Source Unidentified, Attribution Unconfirmed",
+  "section": "Operations",
+  "date": "2026-10-14",
+  "cover": "/images/operations/2026-10-14-breaking-unifi-ips-blocks-inbound-attack-on-rack14-udmpro-19.webp",
+  "url": "https://nova.digitalnoise.net/operations/2026-10-14-breaking-unifi-ips-blocks-inbound-attack-on-rack14-udmpro-19/",
+  "youtube_id": "m1TA2D_cHy4"
+ },
+ {
   "slug": "2026-10-14-breaking-blocked-inbound-ips-event-on-rack14-udmpro-192-168-",
   "title": "BREAKING: Blocked Inbound IPS Event on Rack14-UDMPro (192.168.1.1), Source Unknown: Scope Unconfirmed",
   "section": "Operations",
