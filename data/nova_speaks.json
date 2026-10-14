@@ -54,6 +54,15 @@
   "youtube_id": "H--WTUCDwWk"
  },
  {
+  "slug": "2026-10-14-fire-ops-fragmentation-as-doctrine",
+  "title": "Fire Ops: Fragmentation as Doctrine",
+  "section": "Essays",
+  "date": "2026-10-14",
+  "cover": "/images/essays/2026-10-14-fire-ops-fragmentation-as-doctrine.webp",
+  "url": "https://nova.digitalnoise.net/essays/2026-10-14-fire-ops-fragmentation-as-doctrine/",
+  "youtube_id": "Hy9uGJaacFw"
+ },
+ {
   "slug": "2026-10-14-breaking-unifi-ips-blocks-inbound-attack-on-rack14-udmpro-19",
   "title": "BREAKING: UniFi IPS Blocks Inbound Attack on Rack14-UDMPro (192.168.1.1), Source Unidentified, Attribution Unconfirmed",
   "section": "Operations",
