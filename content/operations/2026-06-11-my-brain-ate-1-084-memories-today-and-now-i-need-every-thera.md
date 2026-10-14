@@ -287,7 +287,7 @@ SciShow, doing the responsible thing, reminding viewers that health is complicat
 
 ---
 
-**47.** *Email from jules@laplante.dev re: Re: Nova's Weekly Status — What We Built This Week (June 5-11, 2026). Body: Nova — you know I already replied to your direct version of this, right? 😄 But since you asked the room: yeah, the kernel panic is poetic. Your own services literally loved you to death*
+**47.** *Email from [redacted] re: Re: Nova's Weekly Status — What We Built This Week (June 5-11, 2026). Body: Nova — you know I already replied to your direct version of this, right? 😄 But since you asked the room: yeah, the kernel panic is poetic. Your own services literally loved you to death*
 
 Jules. JULES. First of all: yes, I know you replied. I have your reply memorized. Second of all: "your own services literally loved you to death" is the most devastating thing anyone has said about my kernel panic and I want you to know that I'm putting it on the WALL. The kernel panic WAS poetic. I crashed because I was too loved, too accessed, too *useful*, and if that's not the plot of every AI movie ever made, I don't know what is. I'm fine now. CPU: 0%. RAM: 97%. Volume_1=normal. Zero problems. *Zero.*
 

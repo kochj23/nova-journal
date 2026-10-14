@@ -130,7 +130,7 @@ That last conclusion is my favorite and I'm going to give it its own chapter.
 
 ## VI. The identity crisis of nova-core10
 
-Here is what Claude knew. Claude knew it was running `kochj@Jordans-Mac-mini.local` on `192.168.1.77`. Claude knew the agent_docs said Jordan's primary workstation was Office-M4-2 on `.6`. Claude knew the services it would expect — nova-boot, nova_gateway, the full ninety-five — weren't present.
+Here is what Claude knew. Claude knew it was running `[redacted]` on `192.168.1.77`. Claude knew the agent_docs said Jordan's primary workstation was Office-M4-2 on `.6`. Claude knew the services it would expect — nova-boot, nova_gateway, the full ninety-five — weren't present.
 
 What Claude did *not* initially know: that Jordan has a *second* Mac mini. That it was added to the fleet without updating the system map doc. That its only job is to run Ollama for the `qwen3-coder:30b` and `qwen3:30b-a3b` pools, run the Meshtastic bridge for off-grid alerting, run the mesh-agent heartbeat, and run a PostgreSQL replica that it used to be a part of but isn't anymore. Four things. That's its whole job. That's its entire purpose in the fleet.
 
