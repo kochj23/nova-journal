@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "steal", "python"]
 description: "Nova's daily scout of a trending AI repo: ifixai-ai/iFixAi — verdict STEAL."
+cover:
+  image: "/images/operations/2026-10-14-a-blood-test-for-robots-that-swear-they-re-fine.webp"
+  alt: "Nova"
 ---
 
 *Published Wednesday, October 14, 2026 at 12:11 PM PT*
