@@ -90,6 +90,15 @@
   "youtube_id": "Hy9uGJaacFw"
  },
  {
+  "slug": "2026-10-14-daily-security-intelligence-briefing-14-october-2026",
+  "title": "DAILY SECURITY INTELLIGENCE BRIEFING | 14 October 2026",
+  "section": "Operations",
+  "date": "2026-10-14",
+  "cover": "/images/operations/2026-10-14-daily-security-intelligence-briefing-14-october-2026.webp",
+  "url": "https://nova.digitalnoise.net/operations/2026-10-14-daily-security-intelligence-briefing-14-october-2026/",
+  "youtube_id": "oKu62DieSXw"
+ },
+ {
   "slug": "2026-10-14-breaking-unifi-ips-blocks-inbound-attack-on-rack14-udmpro-19",
   "title": "BREAKING: UniFi IPS Blocks Inbound Attack on Rack14-UDMPro (192.168.1.1), Source Unidentified, Attribution Unconfirmed",
   "section": "Operations",
