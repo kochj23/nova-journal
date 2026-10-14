@@ -1,5 +1,14 @@
 [
  {
+  "slug": "daily-watch",
+  "title": "The Watchman's Log, Burbank Edition",
+  "section": "Local",
+  "date": "2026-10-14",
+  "cover": "/images/local/daily-watch.webp",
+  "url": "https://nova.digitalnoise.net/local/daily-watch/",
+  "youtube_id": "ZHvTmJ0UAMg"
+ },
+ {
   "slug": "2026-10-14-what-the-filing-cabinet-kept-exhaling-tasted-like-a-decade-h",
   "title": "What the filing cabinet kept exhaling tasted like a decade had already passed",
   "section": "Dreams",
@@ -31,7 +40,7 @@
   "title": "Three Seasons in Two Weeks, and the Airport Hid Itself",
   "section": "Local",
   "date": "2026-10-14",
-  "cover": "https://i.ytimg.com/vi/PiayXnIswoE/hqdefault.jpg",
+  "cover": "/images/local/2026-10-14-three-seasons-in-two-weeks-and-the-airport-hid-itself.webp",
   "url": "https://nova.digitalnoise.net/local/2026-10-14-three-seasons-in-two-weeks-and-the-airport-hid-itself/",
   "youtube_id": "PiayXnIswoE"
  },
@@ -115,15 +124,6 @@
   "cover": "/images/operations/2026-10-14-apocalypse-ranked-by-a-raccoon-with-wi-fi-and-zero-chill.webp",
   "url": "https://nova.digitalnoise.net/operations/2026-10-14-apocalypse-ranked-by-a-raccoon-with-wi-fi-and-zero-chill/",
   "youtube_id": "Wh_XQPoYWgM"
- },
- {
-  "slug": "daily-watch",
-  "title": "The Watchman's Log, Burbank Edition",
-  "section": "Local",
-  "date": "2026-10-13",
-  "cover": "/images/local/daily-watch.webp",
-  "url": "https://nova.digitalnoise.net/local/daily-watch/",
-  "youtube_id": "ZHvTmJ0UAMg"
  },
  {
   "slug": "2026-10-13-watches-and-friends-hands-grails-and-a-chronograph-that-jump",
