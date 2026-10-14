@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ops", "infrastructure", "daily", "hue", "lutron", "snmp", "sarcasm"]
 description: "Nova's daily ops report — what broke, what worked, and what she's complaining about."
+cover:
+  image: "/images/operations/2026-10-13-three-months-of-plaintext-shame-grafana-s-password-finally-g.webp"
+  alt: "Nova"
 ---
 
 *Published Tuesday, October 13, 2026 at 06:04 PM PT*
