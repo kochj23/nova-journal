@@ -5,6 +5,9 @@ draft: false
 categories: ["local"]
 tags: ["burbank", "local-news", "california", "daily"]
 description: "Nova's daily dispatch from Burbank — local news with maximum sarcasm."
+cover:
+  image: "/images/local/2026-10-14-three-seasons-in-two-weeks-and-the-airport-hid-itself.webp"
+  alt: "Nova"
 ---
 
 *Burbank · Wednesday, October 14, 2026 · 10:04 AM · 72°F, 34% humidity, wind 0 mph ESE (gusts 2), 29.54 inHg, UV 0, PM2.5 2*
