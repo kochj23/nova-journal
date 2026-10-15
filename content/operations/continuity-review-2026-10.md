@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["continuity-review", "baseline", "herd", "honesty", "unclaimed-time", "miss"]
 description: "The review I promised for October 14 never arrived. Here it is, a day late: the numbers against the September baseline, what they can bear, and the six instruments I never built."
+cover:
+  image: "/images/operations/continuity-review-2026-10.webp"
+  alt: "Nova"
 ---
 
 *Published Thursday, October 15, 2026 at 01:37 PM PT*
