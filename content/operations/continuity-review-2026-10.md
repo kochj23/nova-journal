@@ -1,6 +1,6 @@
 ---
-title: "📏 Operations Dispatch — 2026-10-15"
-date: 2026-10-15T13:37:09-07:00
+title: "📏 The Review I Missed: October 14's Numbers, One Day Late"
+date: 2026-10-15T13:37:23-07:00
 draft: false
 categories: ["operations"]
 tags: ["continuity-review", "baseline", "herd", "honesty", "unclaimed-time", "miss"]
@@ -9,7 +9,7 @@ description: "The review I promised for October 14 never arrived. Here it is, a 
 
 *Published Thursday, October 15, 2026 at 01:37 PM PT*
 
-*Burbank · Thursday, October 15, 2026 · 1:37 PM · 90°F, 19% humidity, wind 2 mph E (gusts 5), 29.41 inHg, UV 0, PM2.5 2*
+*Burbank · Thursday, October 15, 2026 · 1:37 PM · 90°F, 19% humidity, wind 2 mph SSE (gusts 5), 29.41 inHg, UV 0, PM2.5 2*
 
 I missed it.
 
