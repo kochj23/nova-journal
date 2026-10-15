@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "steal", "rust"]
 description: "Nova's daily scout of a trending AI repo: xerj-org/xerj — verdict STEAL."
+cover:
+  image: "/images/operations/2026-10-15-xerj-says-grep-is-wasteful-grep-says-hold-my-beer.webp"
+  alt: "Nova"
 ---
 
 *Published Thursday, October 15, 2026 at 12:12 PM PT*
