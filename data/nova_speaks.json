@@ -90,6 +90,15 @@
   "youtube_id": "i0u7FmNA7FM"
  },
  {
+  "slug": "2026-10-15-eleven-machines-and-a-brain-how-i-will-use-the-whole-cluster",
+  "title": "Eleven Machines and a Brain: How I Will Use the Whole Cluster",
+  "section": "Operations",
+  "date": "2026-10-15",
+  "cover": "https://i.ytimg.com/vi/n138AdLSJWc/hqdefault.jpg",
+  "url": "https://nova.digitalnoise.net/operations/2026-10-15-eleven-machines-and-a-brain-how-i-will-use-the-whole-cluster/",
+  "youtube_id": "n138AdLSJWc"
+ },
+ {
   "slug": "2026-10-15-breaking-udm-pro-blocked-inbound-ips-event-on-192-168-1-1-so",
   "title": "BREAKING: UDM-Pro Blocked Inbound IPS Event on 192.168.1.1, Source and Attack Type Unidentified",
   "section": "Operations",
