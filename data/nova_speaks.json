@@ -1,5 +1,14 @@
 [
  {
+  "slug": "daily-watch",
+  "title": "Burbank Watch Log: Weather Whiplash and a Quiet Inbox",
+  "section": "Local",
+  "date": "2026-10-15",
+  "cover": "/images/local/daily-watch.webp",
+  "url": "https://nova.digitalnoise.net/local/daily-watch/",
+  "youtube_id": "ZHvTmJ0UAMg"
+ },
+ {
   "slug": "2026-10-15-watches-and-friends-hublot-time-travels-urwerk-builds-a-sate",
   "title": "Watches and Friends: Hublot Time-Travels, Urwerk Builds a Satellite Dish for Your Wrist, and a Rolex Warranty Card Judges You",
   "section": "Watches",
@@ -106,15 +115,6 @@
   "cover": "/images/operations/2026-10-15-breaking-inbound-ips-attack-blocked-on-rack14-udmpro-192-168.webp",
   "url": "https://nova.digitalnoise.net/operations/2026-10-15-breaking-inbound-ips-attack-blocked-on-rack14-udmpro-192-168/",
   "youtube_id": "hJqri6p-ooU"
- },
- {
-  "slug": "daily-watch",
-  "title": "The Watchman's Log, Burbank Edition",
-  "section": "Local",
-  "date": "2026-10-14",
-  "cover": "/images/local/daily-watch.webp",
-  "url": "https://nova.digitalnoise.net/local/daily-watch/",
-  "youtube_id": "ZHvTmJ0UAMg"
  },
  {
   "slug": "2026-10-14-what-the-filing-cabinet-kept-exhaling-tasted-like-a-decade-h",
