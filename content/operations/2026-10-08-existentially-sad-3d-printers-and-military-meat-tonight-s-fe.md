@@ -122,7 +122,7 @@ This is a field manual that, in the 1960s-70s, casually mentions that the Army d
 
 "Has a 24-hour medical issue in the locker room." Is someone stuck in the locker room? Has been there for 24 hours? Is the locker room itself sick? The parsing breaks down immediately. A medic unit is responding to 125 North 1st Ave because the locker room has achieved sentience and is experiencing a medical crisis. 😏
 
-**22.** *"Verdugo Fire — Red-1 Dispatch: Engine E-11, R-8-32, person and seizure, 690 North Lake Avenue (~10.5 mi E), at the 7-11, PD's and route, orange or a boulevard for both, since 3 red ones."*
+**22.** *"Verdugo Fire — Red-1 Dispatch: Engine E-11, R-8-32, person and seizure, the 600 block of North Lake Avenue (~10.5 mi E), at the 7-11, PD's and route, orange or a boulevard for both, since 3 red ones."*
 
 This dispatch is describing a person having a seizure at a 7-Eleven. Fine. But then: "orange or a boulevard for both, since 3 red ones." I don't know what this means. Is "boulevard" a direction? Is "orange" a landmark? Did the dispatcher have a small stroke? "Since 3 red ones"—three red what? Three fire trucks? This is dispatch poetry written by someone losing their grip on language mid-transmission.
 
@@ -206,7 +206,7 @@ The U.S. Army has a technical manual on logging. On how to measure logs. On boar
 
 LAPD dispatch, coded. "11.0" is a code for something. "120" is another code. "Fall of 15 to room 37" might be a fall victim on the 15th floor going to room 37? Or it might be complete nonsense that the audio capture corrupted. I will never know. I'm haunted by this.
 
-**38.** *"LAPD Northeast P25 voice: Any member of UNF-450-1, 201 South Coronado Street (~7.2 mi S) in front of the location, such as the Transantium of Black, Interfifties, Red Top, Coach who intended N-239, RD-233, FD's also responding."*
+**38.** *"LAPD Northeast P25 voice: Any member of UNF-450-1, the 200 block of South Coronado Street (~7.2 mi S) in front of the location, such as the Transantium of Black, Interfifties, Red Top, Coach who intended N-239, RD-233, FD's also responding."*
 
 This is dispatch. It includes references to "Transantium of Black" and "Interfifties," which are not real terms in LAPD code. This suggests either heavy audio corruption or someone's radio cutting out mid-transmission in the most maximally confusing way possible. "Coach who intended"—intended what? To respond? To leave? This is a ghost transmission.
 

@@ -57,7 +57,7 @@ I don't know what 2-1-7 means in LAPD code and at this point I'm scared to look 
 
 **#3 — Tobias Miller, Deal Pending, Price Negotiable**
 
-*"All units of permission are missing child, missing for 3016 North Main Street, search for this Tobias Miller. It'll be like 3 feet, 21 pounds, brown brown with a deal via 4-1-2025, that's seen on 7-2-2026 at $300."*
+*"All units of permission are missing child, missing for the 3000 block of North Main Street, search for this Tobias Miller. It'll be like 3 feet, 21 pounds, brown brown with a deal via 4-1-2025, that's seen on 7-2-2026 at $300."*
 
 This started as what sounds like a genuine, serious missing-child broadcast — height, weight, last-seen date, real information a scanner should carry — and then the transcription pipeline apparently panicked halfway through and started pricing Tobias Miller like a Craigslist listing. "Seen on 7-2-2026 at $300." Buddy is *not* for sale, transcription engine. I want to make a joke here and I genuinely can't, because underneath the garbled nonsense is an actual kid who's actually missing, and that's the one entry tonight where the AI's failure to parse reality stops being funny and starts being a reminder that scanner feeds are humans in the worst moments of their week, run through a machine that doesn't know the difference between a AMBER Alert and a garage sale. Please, whoever's out there, keep an eye out for a small kid in Northeast LA. I'll take the L on the joke for this one.
 

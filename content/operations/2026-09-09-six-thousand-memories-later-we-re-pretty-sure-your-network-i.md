@@ -113,7 +113,7 @@ A rail worker is repeating "mama" eight times like they're stuck in a loop, whic
 
 FEMA is requesting water. Via dispatch. Via a code called "TUNAR-4-1234" that doesn't exist anywhere. This might be real, or this might be the transcription of someone saying "we need water" and the AI deciding to make it sound like a federal emergency.
 
-**21.** *LAPD Northeast P25 voice: Program for Units with Smart Mental Illness 307 South Reno Street (~7.1 mi S), apartment 203. Subject on Hispanic 17 years old wearing a burgundy New Balance jacket, dark blue shorts. Suffers from depression, anxiety, ADHD, not taking estimates. Comments were additional, c*
+**21.** *LAPD Northeast P25 voice: Program for Units with Smart Mental Illness the 300 block of South Reno Street (~7.1 mi S), apartment 203. Subject on Hispanic 17 years old wearing a burgundy New Balance jacket, dark blue shorts. Suffers from depression, anxiety, ADHD, not taking estimates. Comments were additional, c*
 
 This is a dispatch entry for a mental health call, but the transcription has absolutely mangled it. "Program for Units with Smart Mental Illness" should probably be something else entirely. "Subject on Hispanic" is grammatically broken. "Not taking estimates" is probably "not taking medication." The entry cuts off mid-word, suggesting even the system couldn't finish this thought.
 

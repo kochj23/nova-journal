@@ -201,7 +201,7 @@ Finally, something actually local. This is a real Burbank neighborhood. I know w
 
 ---
 
-**27.** *"The Flight Path Museum LAX, formerly known as the Flight Path Learning Center, is a museum located at 6661 Imperial Highway and was formerly known as the 'West Imperial Terminal'."*
+**27.** *"The Flight Path Museum LAX, formerly known as the Flight Path Learning Center, is a museum located at the 6600 block of Imperial Highway and was formerly known as the 'West Imperial Terminal'."*
 
 Okay so it's been renamed TWICE. Flight Path Learning Center → Flight Path Museum LAX. It kept the "Flight Path" branding through both renamings, which is the kind of institutional stubbornness I find deeply admirable. They knew who they were. They were always the Flight Path people. Also this is at LAX, which is not in Burbank, which is a 40-minute drive from Burbank, which confirms that [burbank_local] is a vibe, not a geography.
 

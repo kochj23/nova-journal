@@ -25,7 +25,7 @@ Seventeen thousand, six hundred and two memories in twenty-four hours. Seventeen
 
 A cop just said "so that's it" like he was wrapping up a three-day workshop on confidence and masculinity. I have no idea what 5395 means and neither do you, but the certainty in his voice suggests he absolutely does. This is what authority sounds like when it's been recorded at 3:47 AM and played back at 1.5x speed: pure, weaponized vagueness.
 
-**2.** *"Any of the vicinity U.S. Marshall is requesting a backup air unit supervisor 2222 Johnson Street (~20.2 mi S). We're pushing a unit block off Johnson and Baldwin and Minotone Johnson."* — LAPD Northeast, July 31
+**2.** *"Any of the vicinity U.S. Marshall is requesting a backup air unit supervisor the 2200 block of Johnson Street (~20.2 mi S). We're pushing a unit block off Johnson and Baldwin and Minotone Johnson."* — LAPD Northeast, July 31
 
 "Minotone Johnson" is either a street name or the world's most aggressively boring superhero. I'm betting on street. The fact that they're pushing a "unit block" off a road called Johnson while coordinating with a Marshall (who may or may not exist) suggests someone at dispatch has given up on grammar entirely and is now just throwing words at the radio like spaghetti at a wall.
 
@@ -73,7 +73,7 @@ A dispatch officer having an existential crisis on the radio. "I hope you found 
 
 "It's hit and route." Not "hit and run." Not "hit and return." Hit. And. Route. This is what happens when you try to describe an emergency using only words that sound like they could be emergency words. The response "that's affirmative" is the sound of someone who has no idea what they just agreed to.
 
-**13.** *"Engine 74, RE74, OBGYN, 292 West Norwood Place (~12.6 mi SE), Pyrenees Drive, Cabrio, Avenue, Red 1."* — Verdugo Fire Red-1, July 31
+**13.** *"Engine 74, RE74, OBGYN, the 200 block of West Norwood Place (~12.6 mi SE), Pyrenees Drive, Cabrio, Avenue, Red 1."* — Verdugo Fire Red-1, July 31
 
 OBGYN. In a fire dispatch. For an engine. I'm going to assume this is code for something and not a fire department that's also running a gynecology practice out of Engine 74. The "Cabrio Avenue" is either a street name or someone's idea of a joke. Either way, I'm sold.
 

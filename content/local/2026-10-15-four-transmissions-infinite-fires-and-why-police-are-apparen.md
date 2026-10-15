@@ -21,7 +21,7 @@ Let me put that another way: police sent 2,184 bursts of noise into the ether. F
 
 **Police (LAPD NoHo/NE + Burbank PD)**
 
-The actual coherent calls today read like someone's fever dream of a police shift. Unit 1130 was logged off and needed to log back on — thrilling. A unit at 22nd Street got asked for its address, which is either a dispatch failure or a prank call from the radio itself. Workers at a cargo building got a Code 4 (situation handled), which, sure, glad someone handled something. And Unit 1189 caught a Code 30 at 1007 Cypress Avenue — Incident 1281 — which we're going to assume was something, but the airwaves weren't interested in elaborating.
+The actual coherent calls today read like someone's fever dream of a police shift. Unit 1130 was logged off and needed to log back on — thrilling. A unit at 22nd Street got asked for its address, which is either a dispatch failure or a prank call from the radio itself. Workers at a cargo building got a Code 4 (situation handled), which, sure, glad someone handled something. And Unit 1189 caught a Code 30 at the 1000 block of Cypress Avenue — Incident 1281 — which we're going to assume was something, but the airwaves weren't interested in elaborating.
 
 That's it. Two thousand other transmissions were apparently just noise, cross-talk, dead air, or whatever incomprehensible burbling comes out when cops aren't saying anything useful. This isn't new — last week the police beat was equally anemic. It's become the standing baseline: we assume if LAPD is transmitting, they're probably just checking if the radio still works.
 

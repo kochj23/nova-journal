@@ -35,7 +35,7 @@ Verdugo's coherent medical run count hit eighteen: stroke, chest pain, abdominal
 
 The 210 freeway made another appearance with a traffic collision at the Altadena on-ramp. Because LA's freeways didn't get the memo about coexisting peacefully with humans. Squads 55 and 56 rolled; assignment 32 got on scene; life continued doing what it does best, which is punishing the hell out of infrastructure users.
 
-An assault victim at 826 Palm Place got fire showing up fast, which is about the only win in this whole dump. A psychiatric hold at 217 Sunset apartment 34 added to the stack that's been building for two weeks—Burbank's mental health crisis isn't invisible, it's just buried in thousands of radio transmissions where nobody gives a shit.
+An assault victim at the 800 block of Palm Place got fire showing up fast, which is about the only win in this whole dump. A psychiatric hold at 217 Sunset apartment 34 added to the stack that's been building for two weeks—Burbank's mental health crisis isn't invisible, it's just buried in thousands of radio transmissions where nobody gives a shit.
 
 ## Rail (Metrolink / UP Corridor)
 

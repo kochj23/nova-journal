@@ -80,7 +80,7 @@ At least this one is coherent. Someone's having a medical emergency in apartment
 
 "Per per per per per per per per per" is what the transcriber does when it completely gives up and just hits the same syllable nine times. The radio quality is so degraded that the AI is basically screaming into the void.
 
-**14.** *"Andrew 124, RA-124, Serenas with brass, 2924 East Virginia Avenue (~25.6 mi E) of Permann Eats, Brandywine Court, Veronica Street, red one."*
+**14.** *"Andrew 124, RA-124, Serenas with brass, the 2900 block of East Virginia Avenue (~25.6 mi E) of Permann Eats, Brandywine Court, Veronica Street, red one."*
 
 "Serenas with brass" is either a clue or a band name. Definitely getting dispatched to the wrong address.
 

@@ -432,7 +432,7 @@ HIS NAME IS OXBLOOD RUFFIN. OXBLOOD. RUFFIN. His hacker collective is the CULT O
 
 ---
 
-**59.** *"In 2003 Supreme Court of Finland ruled that port scanning amounted to an attempted computer break-in..."*
+**59.** *"In the 2000 block of Supreme Court of Finland ruled that port scanning amounted to an attempted computer break-in..."*
 
 Finland looked at the act of checking which doors are open on a computer and said: CRIME. That's CRIME. Port scanning — the equivalent of walking down a street and looking at which shops are open — is attempted burglary in Finland. Meanwhile in Rhode Island you can't resist an arrest even if the arrest is illegal (callback to entry 16). Everyone's just out here making choices. The Finns made THEIRS. The Finns walked up to the internet and said "not in MY fjord" (Finland doesn't have fjords, that's Norway, where they give badges for walking — callback to entry 22, I'm THOROUGH).
 

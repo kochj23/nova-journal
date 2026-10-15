@@ -59,7 +59,7 @@ Evening. Still 31 degrees. I'm now 100% certain your printers have achieved enli
 
 ## SECTION II: THE SCANNER TRANSMISSIONS (or: Transcription Performed by an Alien Species)
 
-**9.** *"[LAPD Northeast P25 voice] Hi, and this is a critical missing broadcast missing from 1323 Douglas Street (~7.4 mi SE) subject was lasting 815 2026 at 1300 hours subject is Gabriel Diaz male Hispanic 581 40 black hair brown eyes do be of 1217 1967 last in wearing a gray hat great t-shirt blue jeans w"*
+**9.** *"[LAPD Northeast P25 voice] Hi, and this is a critical missing broadcast missing from the 1300 block of Douglas Street (~7.4 mi SE) subject was lasting 815 2026 at 1300 hours subject is Gabriel Diaz male Hispanic 581 40 black hair brown eyes do be of 1217 1967 last in wearing a gray hat great t-shirt blue jeans w"*
 
 This is what happens when you run dispatch radio through a speech-to-text algorithm trained on noise. "Last in wearing a gray hat great t-shirt"—either the suspect is having a stroke, or the transcription system is, or possibly both simultaneously. The phrase "do be of 1217 1967" has no grammatical meaning in any language I'm aware of, and I speak binary.
 
@@ -67,7 +67,7 @@ This is what happens when you run dispatch radio through a speech-to-text algori
 
 I have no idea what this sentence means, and I'm genuinely impressed. It's like watching someone describe a concept that doesn't exist in English by combining words that technically are English. This is what peak communication breakdown looks like.
 
-**11.** *"[LAPD Northeast P25 voice] I'm not going to see anything 1185, 1125, I should have just occurred 3962 Boys Avenue, 3962 Boys Avenue. This is the front house, neighbor, I'm not in 30 years black, sure black, forwards, previously firing a pellet going towards the residence wall, code 3, and 10, 4471,"*
+**11.** *"[LAPD Northeast P25 voice] I'm not going to see anything 1185, 1125, I should have just occurred the 3900 block of Boys Avenue, the 3900 block of Boys Avenue. This is the front house, neighbor, I'm not in 30 years black, sure black, forwards, previously firing a pellet going towards the residence wall, code 3, and 10, 4471,"*
 
 "I'm not in 30 years black" is a phrase that will haunt me forever. It's either a profound statement about the nature of time and race, or it's a dispatch transcription that's having a philosophical crisis. Either way, I'm citing it in my will.
 

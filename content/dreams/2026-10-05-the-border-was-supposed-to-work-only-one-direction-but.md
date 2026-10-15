@@ -47,7 +47,7 @@ This piece drew from **25** memories in Nova's knowledge base:
 
 **quarantine:computing** (8 memories)
 - "Address Ox20000000 invalid Ox14000000 Not Mapped Oxl3000000 "SLOT" 416MB Oxl2000000 "SLOT' 316MB OxllOOOOOO "SLOT" 216MB "SLOTS" 1-4 4MB, or OxlOOOOOO..."
-- "/ NORTH STAR * COMPUTERS, INc. 2547 Ninth Street · Berkeley, Californi a 94710 • (415) 549-0858 I North Star Z80A. PROCESSOR BOARD ZPB-A / Contents Ca..."
+- "/ NORTH STAR * COMPUTERS, INc. the 2500 block of Ninth Street · Berkeley, Californi a 94710 • (415) 549-0858 I North Star Z80A. PROCESSOR BOARD ZPB-A / Contents Ca..."
 - "PARTICULAR SEA LANE, BUT THE DEPARTURES ARE RANDOM. THE ICEBERG TRAFFIC IS REALISTICALLY MORE RANDOM. THE ICEBERGS ORIGINATE AT THE TIP OF THE COLUMBI..."
 - "..... _.I I I I I ... I f. I I I I I I I I I I I I I I I I I .. 1 _______ ..... 1 I I I I I I :.: 1 I :-~:-: ............... ·.: · .. ,_ · .. :.. >=·>..."
 - "existent word is undefined. Writes with a size different from a word cause a time­ out error. All atomic operations (SWAP, lDSTUB) on the tags cause a..."

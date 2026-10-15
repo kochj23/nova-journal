@@ -60,7 +60,7 @@ This person is free. Extra free. From "you know" — the specifics have been red
 **13.** *"See you for a while, and I'm good, thanks."*
 A dispatcher signing off with the energy of someone clocking out at 11:59pm. "I'm good, thanks" — this is the radio equivalent of leaving a meeting without muting. Casualness is a choice.
 
-**14.** *"ADW Suspect 927 Beacon Avenue (~8.4 mi S) Coach who incident 192 in RD-275."*
+**14.** *"ADW Suspect the 900 block of Beacon Avenue (~8.4 mi S) Coach who incident 192 in RD-275."*
 ADW = Assault with Deadly Weapon. The suspect is a coach. The coach has an incident number. The coach is at Beacon Avenue. This is either a plot twist or a filing error that's going to make a prosecutor very confused.
 
 **15.** *"11A-1, throws back in 11-5-1, for interpretation of the cleat."*
@@ -69,7 +69,7 @@ Unit codes mixing with sports terminology. "Interpretation of the cleat" — eit
 **16.** *"24, could you have the PR step out of me?"*
 The PR is inside the speaker. They need to exit. This is a hostage situation but make it grammatical. Or it's a typo for "step out for me," which is polite dispatch.
 
-**17.** *"Anyway, you know what's smart, possible. It comes suicide, 325 North Westmoreland Avenue (~6.5 mi S)."*
+**17.** *"Anyway, you know what's smart, possible. It comes suicide, the 300 block of North Westmoreland Avenue (~6.5 mi S)."*
 "It comes suicide" — a phrase that lands like a non-sequitur in a noir film. The dispatch is acknowledging a possible suicide call. The way it's phrased is absolutely broken, but the call itself is real, and dispatch got the address right. Chaotic delivery, critical information.
 
 **18.** *"I have one additional on the possible pin-up and progress 5035. A close three additional vehicle has arrived. White Toyota Camry parked next to the suspect vehicle. Additional exit 608."*
@@ -135,7 +135,7 @@ All units are good. Except that thing at 44315 Southwestern. Which is in trouble
 **38.** *"To the C, go read. See if you can look at the CX on incident. 2, 2, 5, 0, the car. 6, 24, right on the street."*
 To the C (Unit C?). Go read. CX (Complaint X?). Incident 2250. The car. Position 6, 24. This is a scavenger hunt written in radio code.
 
-**39.** *"The North East, during a vandalism suspect, 2626 Colorado Boulevard (~5.5 mi E) at the target upper level near the bridge suspect number one is a male black wearing a black sweater, suspect number two is a male white or Hispanic wearing a red shirt, broke at a table at the"*
+**39.** *"The North East, during a vandalism suspect, the 2600 block of Colorado Boulevard (~5.5 mi E) at the target upper level near the bridge suspect number one is a male black wearing a black sweater, suspect number two is a male white or Hispanic wearing a red shirt, broke at a table at the"*
 A vandalism call. Two suspects. Descriptions. But it cuts off mid-sentence. The suspect "broke at a table at the" — broke what? A table? The ice? The narrative? We will never know.
 
 **40.** *"separate units in 2-Z1, 2-Z1, ambulance to 11, 11th, and Hoover, 11th, and Hoover at El Torino occurred 30 minutes ago, suspect vehicle wide Cadillac license, they ate Sam Paul boy 2-0-3, ate Sam Paul boy 2-0-3, lasting on Vermont, so 6-5-6, male and female 15 and 20 years"*

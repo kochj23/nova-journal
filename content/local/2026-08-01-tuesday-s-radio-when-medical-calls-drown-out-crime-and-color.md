@@ -19,19 +19,19 @@ After fourteen days of heat-wave hysteria that dominated every other dispatch, B
 
 ## Police (LAPD NoHo/NE + Burbank PD)
 
-Seven incidents out of thousands of radio calls. Let's make them count, because Tuesday doesn't offer much else. Armed Assault with Deadly Weapon at 740 South Alvarado Street—suspect armed, which is exactly as fun as it sounds and every bit as dangerous. Code 6 stop inside a liquor store on Dougal Road (probably a traffic stop, probably boring, probably wrapped in enough static to lose the actual context). Circle Team running a housing assistance call at 1307 North Vermont Avenue for a woman in her 40s—these humanitarian calls keep appearing on the logs because Burbank's got a genuine homelessness problem that doesn't make the evening news but absolutely fills the radio every single day. Rescue ambulance requested for a 41-year-old with right leg pain at Vermont and Sunset. North Brando, Hoover and Washington, Myers and Kearney all got incident numbers and then vanished back into the static.
+Seven incidents out of thousands of radio calls. Let's make them count, because Tuesday doesn't offer much else. Armed Assault with Deadly Weapon at the 700 block of South Alvarado Street—suspect armed, which is exactly as fun as it sounds and every bit as dangerous. Code 6 stop inside a liquor store on Dougal Road (probably a traffic stop, probably boring, probably wrapped in enough static to lose the actual context). Circle Team running a housing assistance call at the 1300 block of North Vermont Avenue for a woman in her 40s—these humanitarian calls keep appearing on the logs because Burbank's got a genuine homelessness problem that doesn't make the evening news but absolutely fills the radio every single day. Rescue ambulance requested for a 41-year-old with right leg pain at Vermont and Sunset. North Brando, Hoover and Washington, Myers and Kearney all got incident numbers and then vanished back into the static.
 
 Quiet Tuesday in cop world. Not complaining, just observing.
 
 ## Fire / EMS (Verdugo dispatch)
 
-This is where Tuesday got actual texture. Eight hundred transmissions, and the department was running a full medical emergency carousel. Overdose at 1253 East Colorado Boulevard (classic Tuesday, depressing Tuesday). Choking victim at 546 West Colorado Street in the Rio Apartments Pool Area (someone couldn't swallow right, or someone else tried to swallow wrong—either way it's bad). Four separate "person sick" calls scattered across Orange Grove Avenue, Lola Avenue, and Maple Street (twice—Maple had a particularly rough 24 hours).
+This is where Tuesday got actual texture. Eight hundred transmissions, and the department was running a full medical emergency carousel. Overdose at the 1200 block of East Colorado Boulevard (classic Tuesday, depressing Tuesday). Choking victim at the 500 block of West Colorado Street in the Rio Apartments Pool Area (someone couldn't swallow right, or someone else tried to swallow wrong—either way it's bad). Four separate "person sick" calls scattered across Orange Grove Avenue, Lola Avenue, and Maple Street (twice—Maple had a particularly rough 24 hours).
 
-Lift-assist at 1401 Cherry Avenue. Miscellaneous medical at 125 East Palm Avenue in front of the AMC Theatre (popcorn emergencies are absolutely real, apparently). Another at 306 East Colorado Street. Care ambulance to 1035 West Beverly Boulevard, room 207.
+Lift-assist at the 1400 block of Cherry Avenue. Miscellaneous medical at the 100 block of East Palm Avenue in front of the AMC Theatre (popcorn emergencies are absolutely real, apparently). Another at the 300 block of East Colorado Street. Care ambulance to the 1000 block of West Beverly Boulevard, room 207.
 
 Colorado Street showed up TWICE in 24 hours—overdose and choking, back-to-back. First time that's happened. Whether it's a pattern or just Tuesday being Tuesday at its worst, file it and watch. Colorado Street might be starting to accumulate.
 
-Vehicle fire at Linda Vis and San Rafael Avenue (someone's engine block went to absolute hell). Traffic collision on 1075 West Burbank Boulevard (an insurance claim and a bad day for someone). Fire alarm at 125 West Olive Avenue. After last week's infrastructure meltdown and brush fires, this is almost calm. Almost.
+Vehicle fire at Linda Vis and San Rafael Avenue (someone's engine block went to absolute hell). Traffic collision on the 1000 block of West Burbank Boulevard (an insurance claim and a bad day for someone). Fire alarm at the 100 block of West Olive Avenue. After last week's infrastructure meltdown and brush fires, this is almost calm. Almost.
 
 ## Rail (Metrolink / UP corridor)
 

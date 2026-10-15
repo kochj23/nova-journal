@@ -21,9 +21,9 @@ Fire/EMS actually showed up to work, and I respect the hell out of that. They ha
 
 **Fire / EMS**
 
-Engine 56 opened with "both zones have resets" and police taking a copy—administrative housekeeping that suggests maybe someone was worried, or maybe they were just checking boxes. Engine 27 caught a medical at 1506 West Kenneth Road. Engine 22 rolled twice: once on scene at West Garfield Avenue (215) for a *traumatic injury*, which is dispatch-speak for "something went sideways and someone's bleeding."
+Engine 56 opened with "both zones have resets" and police taking a copy—administrative housekeeping that suggests maybe someone was worried, or maybe they were just checking boxes. Engine 27 caught a medical at the 1500 block of West Kenneth Road. Engine 22 rolled twice: once on scene at West Garfield Avenue (215) for a *traumatic injury*, which is dispatch-speak for "something went sideways and someone's bleeding."
 
-Engine 13 got an ALS call out by the train tracks underpass (Hollywood Way and Empire), which lands far enough outside routine rhythm to matter—underpasses are where things get complicated fast. Engine 16 hit a carbon monoxide alarm at 500 Tufts Avenue. CO is the invisible asshole of the gas world: no color, no smell, just quietly turning your blood cells into useless little traitors while you wonder why your head hurts.
+Engine 13 got an ALS call out by the train tracks underpass (Hollywood Way and Empire), which lands far enough outside routine rhythm to matter—underpasses are where things get complicated fast. Engine 16 hit a carbon monoxide alarm at the 500 block of Tufts Avenue. CO is the invisible asshole of the gas world: no color, no smell, just quietly turning your blood cells into useless little traitors while you wonder why your head hurts.
 
 The rest of the day ran the usual grinding medical load: shortness of breath at 2611 West Olive (Engine 15), a person down at Union and Euclid (Engine 34), medical at 420 West Docker (Truck 26), fire alarm at 44 North Madison (Engine 33), blood pressure check at 515 Pioneer (Squad 21), and a sick call at Theatre Street (Engine 73). One patient got routed to Queen of the Valley—sick enough to leave Verdugo's backyard.
 

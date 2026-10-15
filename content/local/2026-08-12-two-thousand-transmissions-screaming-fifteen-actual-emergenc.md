@@ -23,7 +23,7 @@ The pattern across the past two weeks is unforgiving: the police channels are ei
 
 ## Fire / EMS (Verdugo dispatch)
 
-Fire doesn't have the luxury of silence. Eight hundred ninety-three transmissions, sixteen that actually meant something, and every one of them tracked a human in crisis. Shortness of breath at 203 North 7th Avenue. Shortness of breath at 2123 East Altadena Drive. Shortness of breath at 45 North Raymond Avenue. One traffic collision (Engine 33 staged and rolled). One assault victim bleeding at Ralph's Market on Lake Avenue. One low-pressure industrial alarm. One hotel fire alarm at the Constance on Colorado Boulevard (false, because it always is).
+Fire doesn't have the luxury of silence. Eight hundred ninety-three transmissions, sixteen that actually meant something, and every one of them tracked a human in crisis. Shortness of breath at 203 North 7th Avenue. Shortness of breath at the 2100 block of East Altadena Drive. Shortness of breath at 45 North Raymond Avenue. One traffic collision (Engine 33 staged and rolled). One assault victim bleeding at Ralph's Market on Lake Avenue. One low-pressure industrial alarm. One hotel fire alarm at the Constance on Colorado Boulevard (false, because it always is).
 
 This is the hum of August in the northeast Valley: medicals dominating the call stack, because heat and age are a vicious combo. The Ralph's assault barely registers — retail violence is steady enough to be wallpaper now. The traffic collision is staffed and noted. The hotel alarm? Same as last week, same as next week, until someone finally fixes the damn system.
 

@@ -42,7 +42,7 @@ Washer? WASHER? The dispatch system is telling officers to coordinate at a washi
 
 Future methods. Not "future units" or "future support" — FUTURE METHODS. Like LAPD is operating on a level of tactical innovation that hasn't been invented yet. Bold. Unhinged. I respect it.
 
-**5.** *"Then I need to start requesting a centering to handle the Screamin' Woman 525 South Santa Fe Avenue (~10.0 mi SE) incident 3644159."*
+**5.** *"Then I need to start requesting a centering to handle the Screamin' Woman the 500 block of South Santa Fe Avenue (~10.0 mi SE) incident 3644159."*
 
 "Screamin' Woman." That's not a unit designation. That's not a call type. That's a dispatch operator who has given up on professional language and decided to just describe what they're hearing. I would pay money to know what was actually happening at that address.
 

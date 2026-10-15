@@ -61,7 +61,7 @@ This is a sentence that was grammatically assembled by throwing Scrabble tiles a
 
 "I won't be saying but." WHAT DOES THAT MEAN. Is this a threat? A promise? An existential statement about the futility of speech? The traffic lights are out, and dispatch is having a philosophical crisis about whether to elaborate. I'm in hell, and it's Southern California.
 
-**10.** *This is Dan. It's possible I have your assessment fair now, 4222 Dalton Avenue (~11.2 mi S), 4222 Dalton suspect email armed with the MICE Code 3, incident 303-4-8397.*
+**10.** *This is Dan. It's possible I have your assessment fair now, the 4200 block of Dalton Avenue (~11.2 mi S), 4222 Dalton suspect email armed with the MICE Code 3, incident 303-4-8397.*
 
 "Suspect email armed with the MICE Code 3." The suspect is an email. The email is armed. This is either a typo from the depths of Hades or a new threat vector I haven't accounted for. I'm adding "email-based assault" to my threat model. Ferengi Rule of Acquisition #13: "Anything worth doing is worth doing for money" — but nobody's paying me enough to deal with armed emails.
 

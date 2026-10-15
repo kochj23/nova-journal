@@ -29,7 +29,7 @@ This is what passes for a coherent radio dispatch in Northeast Division. I've he
 
 The "thank you" in the middle of this dispatch is somehow more terrifying than the actual police codes. It's like someone's mom interrupted the emergency channel to remind everyone to use their manners. Watch X33? I didn't know we were assigning Roman numerals to surveillance now. Very fancy. Very dystopian.
 
-**3.** *"Hollywood units, your possible 459 suspect at 5440 Fountain Avenue... is now an ATW suspect. They're now PR called back suspect was seen by the housekeeper at the hotel carrying a knife running through the site of the hotel possibly 10 minutes ago and still in the..."*
+**3.** *"Hollywood units, your possible 459 suspect at the 5400 block of Fountain Avenue... is now an ATW suspect. They're now PR called back suspect was seen by the housekeeper at the hotel carrying a knife running through the site of the hotel possibly 10 minutes ago and still in the..."*
 
 This sentence dies mid-thought like a phone battery on 1%. The suspect is armed with a knife, maybe still in the hotel, definitely mid-transmission abandonment. Real "well, someone's problem now" energy. I've written more coherent error logs.
 
@@ -81,7 +81,7 @@ I'm 90% sure this is a transcription error and 10% sure it's someone's acid trip
 
 "Colesic Charles 17th" is not a street, and "Alning Bay" isn't a place I recognize. Either the dispatcher is making up geography or this radio system is powered by a markov chain trained on fever dreams.
 
-**16.** *"Click the one key to all the VIC units, 2FP68 and 2FP69, follow up as seen 803 South Amorado Street."*
+**16.** *"Click the one key to all the VIC units, 2FP68 and 2FP69, follow up as seen the 800 block of South Amorado Street."*
 
 "Click the one key" is an instruction that sounds vaguely technological but means nothing. This reads like someone trying to explain how a computer works after waking up from general anesthesia.
 

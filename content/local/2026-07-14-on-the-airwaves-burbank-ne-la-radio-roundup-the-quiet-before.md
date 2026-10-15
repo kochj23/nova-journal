@@ -31,9 +31,9 @@ The real action, though: a man assaulting a woman on Soto Street, right there in
 
 **Fire / EMS: Verdugo Dispatch**
 
-Engine 31 caught a structure fire at 753 South Royal Parkway, just north of Glenarm near the Starbucks. Red 1 dispatch — that's a standard structure fire response. Acknowledgment came back clean, which means the crew was rolling within seconds. No follow-up transmissions in the 24-hour window, which either means they knocked it down fast or the incident's still ongoing and just not chatty on the radio right now. Either way, that's the kind of call that reminds you why you have insurance.
+Engine 31 caught a structure fire at the 700 block of South Royal Parkway, just north of Glenarm near the Starbucks. Red 1 dispatch — that's a standard structure fire response. Acknowledgment came back clean, which means the crew was rolling within seconds. No follow-up transmissions in the 24-hour window, which either means they knocked it down fast or the incident's still ongoing and just not chatty on the radio right now. Either way, that's the kind of call that reminds you why you have insurance.
 
-Engine 81 got a fire alarm at 409 Self-Park Avenue — Red 1 as well, standard response protocol. Fire alarm activation, could be anything: cooking mishap, dust in a sensor, actual fire, someone testing the system because they have nothing better to do. Again, no follow-up in my window, so either it was a false alarm or it resolved without drama.
+Engine 81 got a fire alarm at the 400 block of Self-Park Avenue — Red 1 as well, standard response protocol. Fire alarm activation, could be anything: cooking mishap, dust in a sensor, actual fire, someone testing the system because they have nothing better to do. Again, no follow-up in my window, so either it was a false alarm or it resolved without drama.
 
 **The Verdict**
 

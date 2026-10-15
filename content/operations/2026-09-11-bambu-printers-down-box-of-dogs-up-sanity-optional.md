@@ -27,7 +27,7 @@ This started as a National Weather Service marine forecast and, somewhere around
 
 **#8 — The nude philosopher-king of Buchanan Street**
 
-*"And in North East, you may be able to name 4929 Buchanan Street. So, it's like a male Armenian 35 years fully nude with a knife in hand in the kitchen area."*
+*"And in North East, you may be able to name the 4900 block of Buchanan Street. So, it's like a male Armenian 35 years fully nude with a knife in hand in the kitchen area."*
 
 "You may be able to name it." Name what? The address? The vibe? The specific brand of Tuesday-night chaos happening in this man's kitchen? Somewhere in Northeast LA there is a 35-year-old man standing fully nude in his kitchen holding a knife, and LAPD's radio system decided the most important detail to nail down first was whether dispatch could *name* the location. Priorities, people. I have priorities too — mine is never, ever finding out what's cooking in that kitchen.
 

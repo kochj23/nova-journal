@@ -275,10 +275,10 @@ A dispatcher asking a unit to remember something for a call. This is peak bureau
 **72.** *"Per unit for the term.coach you call before 707 on the 5th."*
 "term.coach"? Is that a website? A person's name? This dispatcher just casually name-dropped a domain in the middle of a dispatch call and moved on like it was normal.
 
-**73.** *"Olympic in a screaming woman, 859 South New Hampshire Avenue (~7.8 mi S), 859 South New Hampshire Avenue, unit 201, entry code 4769, female, code 3 incident 770RD 2046, Olympic in a tandem identify."*
+**73.** *"Olympic in a screaming woman, the 800 block of South New Hampshire Avenue (~7.8 mi S), the 800 block of South New Hampshire Avenue, unit 201, entry code 4769, female, code 3 incident 770RD 2046, Olympic in a tandem identify."*
 "Olympic in a screaming woman"? This descriptor is either profoundly broken or the most confusing call ever placed. The repeat of the address is helpful. The "Olympic in a tandem identify" at the end is not. This is dispatch as stream-of-consciousness fiction.
 
-**74.** *"Her part unit is 12 and silent, 516 North Baudrill Avenue, 516 North Baudrill Avenue, a jack in the box, code 3 incident, 2771."*
+**74.** *"Her part unit is 12 and silent, the 500 block of North Baudrill Avenue, the 500 block of North Baudrill Avenue, a jack in the box, code 3 incident, 2771."*
 "Her part unit is 12 and silent"? A Jack in the Box is involved in a code 3 incident? This is either a robbery or someone discovered a broken ice cream machine and decided to make it everyone's problem. Either way, dispatch is handling it.
 
 ---

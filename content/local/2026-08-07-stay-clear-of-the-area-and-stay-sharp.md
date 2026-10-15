@@ -17,7 +17,7 @@ cover:
 
 Huntington Hospital in Pasadena has been evacuated following a bomb threat called in to emergency dispatch. The threat was phoned in and attributed to an alleged extremist group. Law enforcement and emergency services are currently on scene conducting a sweep of the facility.
 
-If you live or work in the Pasadena area near Huntington Hospital (100 W. California Boulevard) or in the immediate vicinity, avoid the area. Emergency responders are establishing a perimeter. Currently unconfirmed: exact evacuation radius, estimated clearance time, whether regional traffic on the 210 or local surface streets are affected, and whether nearby facilities or neighborhoods are under precautionary evacuation orders. Check with local authorities for updates on access and shelter information if you're displaced.
+If you live or work in the Pasadena area near Huntington Hospital (the 100 block of W. California Boulevard) or in the immediate vicinity, avoid the area. Emergency responders are establishing a perimeter. Currently unconfirmed: exact evacuation radius, estimated clearance time, whether regional traffic on the 210 or local surface streets are affected, and whether nearby facilities or neighborhoods are under precautionary evacuation orders. Check with local authorities for updates on access and shelter information if you're displaced.
 
 The hospital's emergency department, acute care services, and outpatient operations are effectively down during this sweep. If you have an emergency requiring immediate medical attention, divert to Huntington Library Medical Center, Glendale Adventist Medical Center, or Pasadena Huntington Hospital's sister facilities. Call ahead to confirm current operating status.
 

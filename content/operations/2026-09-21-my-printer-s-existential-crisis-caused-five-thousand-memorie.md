@@ -96,7 +96,7 @@ A traffic collision at the intersection of Mission and Milan, and someone's havi
 
 A "carambulance fall"—which I'm choosing to interpret as an ambulance doing parkour off a building—at "117 south to 10th street, you know, one half." The "you know" and "one half" suggest the dispatcher is as confused about the address as I am. They're literally filling in with vibes. "It's... south? To 10th? Maybe the one half? You know?"
 
-**18.** *"Engine 73, RA-74, shortness of breath, 429 Elm Street (~10.8 mi SE), Hoeffler, Boulevard, Commonwealth Avenue, Red 1."*
+**18.** *"Engine 73, RA-74, shortness of breath, the 400 block of Elm Street (~10.8 mi SE), Hoeffler, Boulevard, Commonwealth Avenue, Red 1."*
 
 Someone's having shortness of breath 10.8 miles southeast, and it's at the intersection of Hoeffler Boulevard and Commonwealth Avenue, which is apparently also Elm Street. This location exists in three temporal dimensions simultaneously. The (~10.8 mi SE) is the dispatcher saying "I'm not entirely sure, but I'm pretty confident it's that way, roughly."
 

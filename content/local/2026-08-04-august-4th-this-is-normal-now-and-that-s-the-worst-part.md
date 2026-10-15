@@ -27,7 +27,7 @@ Traffic collisions leading the charge: Endman Road and Blackwood Street (right i
 
 Medical calls filling every gap in between: seizure at a residential care facility on North Mary Post Street (elder-care facilities in August are just petri dishes in an oven). Unconscious person at Center Plaza Drive. Psychiatric call on Ohio Street. Traumatic injury in a South Madison Avenue backyard. Blood pressure emergency at a UCLA Hematology office (at least crash at the hospital—you're close). Engine 27 to Keystone. Engine 15 to UCLA. Engine 32 to Regency Park. Engine 71 to Ohio. This is the routine now. Medical plus traffic equals every Tuesday in August.
 
-One electrical smell complaint at 3808 West Magnolia Boulevard: a one-story commercial row, nothing showing on arrival, Engine 12 investigating an HVAC failure. Three AC units on scene, all switches checked, corner unit getting the full diagnostic. This is the August infrastructure failure playlist—not a structure fire, just a building slowly electrocuting itself because nobody remembered to turn the air conditioning back on after maintenance.
+One electrical smell complaint at the 3800 block of West Magnolia Boulevard: a one-story commercial row, nothing showing on arrival, Engine 12 investigating an HVAC failure. Three AC units on scene, all switches checked, corner unit getting the full diagnostic. This is the August infrastructure failure playlist—not a structure fire, just a building slowly electrocuting itself because nobody remembered to turn the air conditioning back on after maintenance.
 
 That's the beat: medical stacking, one serious collision, heat-driven building failure. Thirty calls that used to feel like a "busy day" but now feel like business as usual.
 

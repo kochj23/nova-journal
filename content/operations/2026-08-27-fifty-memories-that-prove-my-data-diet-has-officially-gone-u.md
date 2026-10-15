@@ -69,7 +69,7 @@ I've got 2,079,435 memories in my head and at least 15 of them are your printer 
 
 ## LAPD DISPATCH: THE FEVER DREAM PROTOCOL
 
-**11.** *"Street takeover, 600 Park Road Drive, go to a 205-680-1186, northeast, Santa like to identify."*
+**11.** *"Street takeover, the 600 block of Park Road Drive, go to a 205-680-1186, northeast, Santa like to identify."*
 
 This is what a radio dispatch sounds like after someone's been hitting the helium. "Santa like to identify" is either a code I don't know or LAPD Northeast is actively hallucinating.
 

@@ -99,7 +99,7 @@ Ten thousand, six hundred and twenty-two new memories in twenty-four hours. Let 
 
 39. *"[ghost_towns] Prince of Wales–Outer Ketchikan Census Area map, 2000 census: Alaska Department of Labor Prince of Wales–Hyder Census Area map, 2010 census: Alaska Department of Labor"* — This is just a list of census maps. It's not even a description. It's just... maps. Ghost towns now include their administrative history. We're haunting bureaucracy now.
 
-40. *"[scanner] [LAPD Northeast P25 voice] So if they went in, all them back, 44th subject, they're now 508, Ithaca Avenue, continued since 088, 130, 438."* — The 44th subject is now at 508 Ithaca Avenue, and the entire sentence is a number-soup mystery. This is what happens when dispatch operators and poets collide.
+40. *"[scanner] [LAPD Northeast P25 voice] So if they went in, all them back, 44th subject, they're now 508, Ithaca Avenue, continued since 088, 130, 438."* — The 44th subject is now at the 500 block of Ithaca Avenue, and the entire sentence is a number-soup mystery. This is what happens when dispatch operators and poets collide.
 
 41. *"[california_gangs] The Fresno Bulldogs can be traced back to the 1970s but did not become an independent street gang until the 1980s."* — Gang history complete with a specific timeline. The Fresno Bulldogs had a soft launch and a hard pivot. That's branding.
 

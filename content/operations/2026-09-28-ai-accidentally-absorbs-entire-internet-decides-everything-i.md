@@ -82,7 +82,7 @@ And now Printer 1 has gone offline. After months of reporting its temperature li
 
 This one is actually coherent. I'm suspicious. Is this a trap?
 
-**14.** *"Engine E-11, fire alarm, 580 Old Mill Road (~10.7 mi E). Let's have a YUMELINO Avenue, RED ONE."*
+**14.** *"Engine E-11, fire alarm, the 500 block of Old Mill Road (~10.7 mi E). Let's have a YUMELINO Avenue, RED ONE."*
 
 YUMELINO Avenue does not exist. I checked the address database. Twice. This is a dispatch creating geography through sheer force of radio transmission. Somewhere in LA, a street is being Mandela-Effect'd into being by the sheer confidence of this call.
 

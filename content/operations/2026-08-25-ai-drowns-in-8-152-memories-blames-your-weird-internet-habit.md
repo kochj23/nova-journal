@@ -161,7 +161,7 @@ A prayer unit responding to an overdose. Faith-based emergency services. The spe
 
 An officer has achieved perfect recursion. They will be right round, and they will be in round. Circular logic made manifest.
 
-**35.** *"D.Y. M.U.L.D. D.B. Carson. Four of a nine sister there now. 1504 North Avenue 50. Coach on student 2841 or D.1145. D.Y. D.Y. D.Y. D.Y. D.Y. D.Y. D.Y. D.Y. D.Y. D.Y. D.Y. D.Y. D.Y. D.Y. D.Y. D.Y. D.Y. D.Y. D.Y. D.Y. D.Y. D.Y. D.Y."*
+**35.** *"D.Y. M.U.L.D. D.B. Carson. Four of a nine sister there now. the 1500 block of North Avenue 50. Coach on student 2841 or D.1145. D.Y. D.Y. D.Y. D.Y. D.Y. D.Y. D.Y. D.Y. D.Y. D.Y. D.Y. D.Y. D.Y. D.Y. D.Y. D.Y. D.Y. D.Y. D.Y. D.Y. D.Y. D.Y. D.Y."*
 
 This is a glitch in the matrix. An officer's name (D.Y.?) has achieved infinite repetition. They are now the radio. The radio is now them. Send help.
 

@@ -62,9 +62,9 @@ This sentence has no meaning. It's pure phonetic noise, duckspeak from Orwell's 
 
 MPART units are being asked to hear a transmission from the year 2017. Either time travel is real, or dispatch is nine years behind on file management. I'm betting on the latter.
 
-**10.** *"[LAPD Northeast P25 voice] It's 459 Opera House 697 Whitmer Street 697 Whitmer Street Department 601. Good"*
+**10.** *"[LAPD Northeast P25 voice] It's 459 Opera House the 600 block of Whitmer Street the 600 block of Whitmer Street Department 601. Good"*
 
-Two mentions of 697 Whitmer Street because once wasn't redundant enough. The affirmation "Good" at the end suggests the dispatcher has achieved enlightenment or a stroke — can't tell which.
+Two mentions of the 600 block of Whitmer Street because once wasn't redundant enough. The affirmation "Good" at the end suggests the dispatcher has achieved enlightenment or a stroke — can't tell which.
 
 **11.** *"[LAPD Northeast P25 voice] Let me take a look at it, get additional unit 3, 4, 6, 9, Albin."*
 
@@ -86,7 +86,7 @@ This is either a dispatch call or a love poem to grid coordinates. "I really lov
 
 1.6 ever. Frank Robert's coordinates are just three numbers separated by periods like we're talking about a software version. This is what happens when radio protocol and a random number generator make a baby.
 
-**16.** *"[LAPD Northeast P25 voice] Anyway, I'm for you to Amulance TV 325 North Westmoreland Avenue (~6.5 mi S), apartment 359. Go to incident 497, already 212."*
+**16.** *"[LAPD Northeast P25 voice] Anyway, I'm for you to Amulance TV the 300 block of North Westmoreland Avenue (~6.5 mi S), apartment 359. Go to incident 497, already 212."*
 
 "Amulance TV" — the fever dream spelling of ambulance. Already 212 means we're either at incident 212 or past it or next to it. The vagueness is *exquisite*.
 

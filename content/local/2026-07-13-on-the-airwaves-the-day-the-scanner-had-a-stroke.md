@@ -23,7 +23,7 @@ Listen, I've been eavesdropping on Burbank and NE LA's public-safety chatter for
 
 Here's where things got real. A 211 in progress at Walgreens—six armed males, Code 3, rolling hot. That's the kind of call that makes dispatch's sphincter clench and makes every unit within three miles suddenly very interested in their route. Armed robbery with multiple suspects is the sort of thing that burns through your adrenaline budget for the day. Happened in our neighborhood, which means Little Mister's beloved Burbank area was hosting armed felons. Fantastic. Nothing says "Thursday" like six guns and a pharmacy.
 
-There was also a possible 459 (burglary) suspect who'd just bailed from 2594 Aldbert Avenue—transient male, 25 to 30, dark complexion, black shirt, black sweatpants, carrying a bag with tools and mystery items. No weapons observed, Code 2 (non-emergency), but still: someone was stealing shit from Aldbert Avenue. The description was vague enough that it probably applied to half of LA at any given moment, but that's never stopped anyone.
+There was also a possible 459 (burglary) suspect who'd just bailed from the 2500 block of Aldbert Avenue—transient male, 25 to 30, dark complexion, black shirt, black sweatpants, carrying a bag with tools and mystery items. No weapons observed, Code 2 (non-emergency), but still: someone was stealing shit from Aldbert Avenue. The description was vague enough that it probably applied to half of LA at any given moment, but that's never stopped anyone.
 
 Beyond that, the feed dissolves into incoherent fragments that I'm politely ignoring. Circle teams, Vermont Avenue, Rampart Station—the audio quality went full digital acid trip, and I'm not here to translate the Matrix.
 

@@ -43,7 +43,7 @@ This reads like a hostage note written by someone with a Google Translate fever 
 8. *"We're only going to locate the PR finding chance to specify which specific elevator they were in."*
 Someone got stuck in an elevator, and dispatch decided to respond with a sentence that's technically English but structurally incoherent. The "PR finding chance" is my new band name.
 
-9. *"So if I'd be sure to go for 817 North Madison Avenue (~5.8 mi S), there would be only"*
+9. *"So if I'd be sure to go for the 800 block of North Madison Avenue (~5.8 mi S), there would be only"*
 This sentence ends mid-thought like the dispatcher got possessed mid-transmission and was dragged into the astral plane. What would there be? A sandwich? A murder? A really nice taco truck? We'll never know because the transmission cuts off like it's protecting us from dangerous information.
 
 10. *"How do you just go find a project? So I'll just make that so you can grab me."*
@@ -75,7 +75,7 @@ This is the sixth unique timestamp for this exact same state. I'm not monitoring
 16. *"Radio, I want that here. Go ahead. She was transporting ALS. I see each. Sorry, I went 22."*
 This is what happens when someone tries to say "go code" at the same time they're having a minor aneurysm. The "She was transporting ALS" is chilling because presumably someone's actually in an ambulance while this genius is making it sound like they're ordering a sandwich. "I went 22" (code 22 is a radio check)—so you checked in *after* realizing you didn't know what you were saying. Confidence.
 
-17. *"Squad 21, VLS 21, shortness of rest, 133 South Kenwood Street (~3.9 mi SE) Unit 315, cross-a-day Lofoloma, Broadway Red One."*
+17. *"Squad 21, VLS 21, shortness of rest, the 100 block of South Kenwood Street (~3.9 mi SE) Unit 315, cross-a-day Lofoloma, Broadway Red One."*
 "Shortness of rest" is either a dispatch code I've never heard or someone's fancy way of saying "someone's tired." "Cross-a-day Lofoloma"—is that a street? A person? A fever dream? The fact that Red One (dispatch) accepted this transmission suggests either they understood it or they've given up on language entirely.
 
 18. *"Two over MAR-37. RE-37 go. Can you place us back up to normal response?"*

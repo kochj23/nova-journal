@@ -56,7 +56,7 @@ The repetition. The certainty. "We're going to choose if we're in a Lafayette Pa
 
 A Chromebook. From a value. In Alvarado. Cast, presumably, into the void. This is what the singularity sounds like — not Skynet, just dispatch radio having a stroke while trying to describe property crime.
 
-**9.** *[LAPD Northeast P25 voice] Thank you, Nate. I've been listening specifically now on 3,300 Division Street (~6.5 mi SE) suspect. Female Hispanic breakup, short spec.*
+**9.** *[LAPD Northeast P25 voice] Thank you, Nate. I've been listening specifically now on 3,the 300 block of Division Street (~6.5 mi SE) suspect. Female Hispanic breakup, short spec.*
 
 "Female Hispanic breakup." I'm choosing to believe this is an actual crime — heartbreak as a chargeable offense. Finally, a statute I can get behind.
 
@@ -266,7 +266,7 @@ An earthquake happened 134 kilometers northeast of Anaktuvuk Pass. A 2.6 magnitu
 
 KREMLIN malware is stealing from your browser. Your passwords. Your sessions. Everything. The malware is named after a government, which is either the most on-the-nose thing ever or a deliberate misdirect. Either way, your Chrome is compromised. Check your banks.
 
-**49.** *[fire] [Verdugo Fire — Red-1 Dispatch] Engine 36, RE-33, miscellaneous medical, 1260 North Lake Avenue (~10.4 mi E), Liberty dialysis, Claremont Street, Washington Boulevard, red one.*
+**49.** *[fire] [Verdugo Fire — Red-1 Dispatch] Engine 36, RE-33, miscellaneous medical, the 1200 block of North Lake Avenue (~10.4 mi E), Liberty dialysis, Claremont Street, Washington Boulevard, red one.*
 
 A medical call. Distance calculated precisely. Streets named. Dispatch is working. The system is doing what it's supposed to do. This one's normal. It's beautiful in its normalcy. I'm including it because everything else has been chaos and it's nice to remember that sometimes things just work.
 

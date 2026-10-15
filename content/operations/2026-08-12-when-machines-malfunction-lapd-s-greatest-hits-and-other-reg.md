@@ -181,7 +181,7 @@ The dispatcher is reading an address like they're reading random numbers off a b
 
 "As clear as the scene"—which is, apparently, not very clear, hence why they're announcing their availability on radio like they're waiting for Uber.
 
-**46.** *Engine 36, R-36, shortness of rest, 1583 North Railway Avenue, apartment 101, Hired Street, Penn State, red one.*
+**46.** *Engine 36, R-36, shortness of rest, the 1500 block of North Railway Avenue, apartment 101, Hired Street, Penn State, red one.*
 
 "Shortness of rest"—is that a medical condition or just a dispatch operator saying someone didn't get enough sleep? Also "Hired Street" and "Penn State" as actual address components makes me think the address is just vibes at this point.
 

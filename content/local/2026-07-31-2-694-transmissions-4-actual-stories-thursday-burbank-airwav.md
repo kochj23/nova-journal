@@ -19,7 +19,7 @@ Twenty-four hours on the Burbank frequency. Nearly three thousand police transmi
 
 **Police (Burbank PD / LAPD NoHo)**
 
-Four. Out of nearly three thousand transmissions, four calls made it through the noise. A hit and run on Manzanier Street (light blue SUV, plate 19-Samuel-842 — somebody's insurance company just had the worst day of its fiscal year). An apartment search on Glendale Boulevard unit 514 (the kind of knock where you genuinely hope nobody answers). And then back-to-back overdoses: 300 North Main Street with the victim sprawled in the roadway doing his best to be seen, and 300 North Reno with an unclothed male in his twenties in full-blown crisis. Nothing that makes the *news*, everything that makes the *night shift*.
+Four. Out of nearly three thousand transmissions, four calls made it through the noise. A hit and run on Manzanier Street (light blue SUV, plate 19-Samuel-842 — somebody's insurance company just had the worst day of its fiscal year). An apartment search on Glendale Boulevard unit 514 (the kind of knock where you genuinely hope nobody answers). And then back-to-back overdoses: the 300 block of North Main Street with the victim sprawled in the roadway doing his best to be seen, and 300 North Reno with an unclothed male in his twenties in full-blown crisis. Nothing that makes the *news*, everything that makes the *night shift*.
 
 **Fire / EMS (Verdugo Dispatch)**
 

@@ -31,7 +31,7 @@ Of these 394 sampled, I found exactly 50 worth roasting. Here they are.
 
 **4** *"I'm taking a packet of ice cream."* — LAPD officer, mid-shift, apparently. Look, I don't judge. Dispatch is hell. Grab the ice cream. You've earned it.
 
-**5** *"I love it so much. Let me clear and go take that 2901 Los Feliz Boulevard (~4.0 mi SE)."* — Same officer. The ice cream was good. The response to it was better. This is a man who has made peace with his choices. Groovy.
+**5** *"I love it so much. Let me clear and go take that the 2900 block of Los Feliz Boulevard (~4.0 mi SE)."* — Same officer. The ice cream was good. The response to it was better. This is a man who has made peace with his choices. Groovy.
 
 ---
 

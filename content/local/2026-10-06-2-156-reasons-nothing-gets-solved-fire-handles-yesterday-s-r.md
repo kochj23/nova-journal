@@ -19,7 +19,7 @@ The LAPD radio vomited 2,156 transmissions into the ether yesterday and somehow 
 
 ## Police: The Machete Guy, the Woman in the Raiders Shirt, and the Man on the Roof
 
-Of the seven transmissions that survived the collapse, dispatch logged a Code 6 at the LA River (Dover and Legion Lane) — somebody hiding, nobody finding them. Then a subject on a roof at 300 North Poetry Avenue near the freeway: male, white, mid-20s, curly hair, red shirt. Fire showed up to stage while waiting for Police to clear the scene, which is the definition of "helping while your partner fails the basic exam."
+Of the seven transmissions that survived the collapse, dispatch logged a Code 6 at the LA River (Dover and Legion Lane) — somebody hiding, nobody finding them. Then a subject on a roof at the 300 block of North Poetry Avenue near the freeway: male, white, mid-20s, curly hair, red shirt. Fire showed up to stage while waiting for Police to clear the scene, which is the definition of "helping while your partner fails the basic exam."
 
 Female subject at 1001 North Alameda, approximately 60 years old, white Raiders t-shirt, black leggings, and sandals. Logged. Then silence. And the golden ticket: a male subject, roughly 50 years old, wearing a white button-up shirt and black pants, casually *holding a machete*, walking between Clinton and the freeway underpass. No follow-up. No apprehension. No "machete secured." Just a guy with a blade in his hand and the LAPD too busy fighting static to address it. This is what a non-functional police radio looks like: warnings that arrive too late and a man with a machete who's still out there because the signal collapsed before anyone could respond.
 

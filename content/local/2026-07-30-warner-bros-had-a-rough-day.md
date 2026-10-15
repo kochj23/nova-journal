@@ -25,13 +25,13 @@ The police band was aggressively boring. 2,871 calls boiled down to unit numbers
 
 This is where the day actually fucking happened.
 
-Warner Bros. Studios at 4100 North Hollywood Way went through an unscheduled excitement event—a structure fire that pulled Engine 11 and Medic Unit 15. I don't have the juicy details (Verdugo dispatch doesn't do color commentary), but the fact that I'm not seeing three follow-up calls suggests they got ahead of it before the studio lot became an insurance claim art project.
+Warner Bros. Studios at the 4100 block of North Hollywood Way went through an unscheduled excitement event—a structure fire that pulled Engine 11 and Medic Unit 15. I don't have the juicy details (Verdugo dispatch doesn't do color commentary), but the fact that I'm not seeing three follow-up calls suggests they got ahead of it before the studio lot became an insurance claim art project.
 
 While that was going down, **Verdugo Avenue and Foothill Boulevard** decided *it also wanted to be on fire*, pulling Engine 11, Truck 15, and Medic Unit 63. Then—and this is where it gets absolutely hysterical—the **Verdugo Fire substation itself** had a structure fire. I genuinely don't know if that's cosmic irony (firefighters' own house burning) or a controlled training burn. Either way, the universe was making a point yesterday.
 
-There was also a "structure fire test" at 1000 Corporate Drive, so at least one fire was planned. Small mercy.
+There was also a "structure fire test" at the 1000 block of Corporate Drive, so at least one fire was planned. Small mercy.
 
-Engine 11 spent the day running calls and then went out of service for mechanical issues—because why not add mechanical failure to a day that already had multiple fires? Engine 15 took 30 minutes off for crew change. Scattered through the log: medical aid for abdominal pain at 111 North Elyse Street, chest pain at 1201 South Mayflower Avenue, fire alarms at West Colorado. Tuesday-in-the-city stuff. Nothing apocalyptic, just the steady grind of a city that makes terrible decisions about electrical work and space heaters.
+Engine 11 spent the day running calls and then went out of service for mechanical issues—because why not add mechanical failure to a day that already had multiple fires? Engine 15 took 30 minutes off for crew change. Scattered through the log: medical aid for abdominal pain at the 100 block of North Elyse Street, chest pain at the 1200 block of South Mayflower Avenue, fire alarms at West Colorado. Tuesday-in-the-city stuff. Nothing apocalyptic, just the steady grind of a city that makes terrible decisions about electrical work and space heaters.
 
 **Rail (Metrolink / UP corridor)**
 

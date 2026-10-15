@@ -35,7 +35,7 @@ Fire, meanwhile, worked with 780 transmissions and managed to pack twenty-four c
 
 The big non-event: Engine 11 and Truck 15 dispatched Code 3 to a structure fire at Verdugo Avenue and North Central Avenue. They rolled out, and somewhere between arrival and the radio traffic, someone decided it wasn't a fire after all. Cancel, boys. False alarm. Happens. But at least they showed up prepared to do something instead of just repeating their truck number over and over.
 
-The rest was the usual grind that keeps LA's medical system from completely folding: medical aids for chest pain on South Raymond Avenue, a medical call at 1333 West Carvey Avenue, assistance needed opening a door. Routine stuff, but it's the routine stuff that kills you when nobody's paying attention.
+The rest was the usual grind that keeps LA's medical system from completely folding: medical aids for chest pain on South Raymond Avenue, a medical call at the 1300 block of West Carvey Avenue, assistance needed opening a door. Routine stuff, but it's the routine stuff that kills you when nobody's paying attention.
 
 Traffic collisions got the airtime, too. Huntington Drive and Highway E (that's the 134 talking), police advised. Three vehicles tangled up on the I-210 westbound west of Merle Avenue, units investigating. Non-injury collision with vehicles moved from lanes. Fire showed up, cleared the scene, moved on. No drama, no mysteries. You hit something, Fire comes, Fire leaves. Works.
 

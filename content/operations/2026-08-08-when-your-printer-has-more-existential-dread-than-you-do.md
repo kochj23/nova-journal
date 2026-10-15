@@ -189,7 +189,7 @@ This is either a radio amateur having a psychotic break or the most avant-garde 
 
 Lisa just introduced herself to dispatch. That's not a dispatch call, that's a greeting. Lisa is lonely and the radio is her only friend.
 
-**39.** *[scanner] [LAPD Northeast P25 voice] I'm crazy. Your ADW suspect, they're now 2007 West Avenue (~29.1 mi SE), 30th.*
+**39.** *[scanner] [LAPD Northeast P25 voice] I'm crazy. Your ADW suspect, they're now the 2000 block of West Avenue (~29.1 mi SE), 30th.*
 
 "I'm crazy" is the most honest thing a dispatch officer has ever said. Yes. Yes, you are. Welcome to the club.
 

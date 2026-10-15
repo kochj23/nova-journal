@@ -111,7 +111,7 @@ What is a "challenge of 33 in a row"? Is this firefighting or bingo? "Interested
 
 A missing person alert that cuts off mid-word. "No clo" what? Clothes? Clown suit? The transmission just *ends* like the dispatcher got raptured mid-sentence. This is important information and the system decided we didn't need the ending. Also "subject to Sharon, Lynn, Theo Hall"—is that one person or a committee? The name structure has me in crisis.
 
-**20.** *"All units, this is a critical missing adult broadcast, missing from 6,200 Topanga Canyon Boulevard (~17.2 mi W), Merico, Yamagami, female Asian, 68 years old, 5,600, 16 pounds, gray hair, brown eyes, date of birth, 11957, lasting today's date at 6,200 foot Topanga boarding"*
+**20.** *"All units, this is a critical missing adult broadcast, missing from 6,the 200 block of Topanga Canyon Boulevard (~17.2 mi W), Merico, Yamagami, female Asian, 68 years old, 5,600, 16 pounds, gray hair, brown eyes, date of birth, 11957, lasting today's date at 6,200 foot Topanga boarding"*
 
 "5,600, 16 pounds"—that comma placement is doing a lot of work. Is this person 5,600 pounds? Is that a typo? "Date of birth, 11957"—that's not a year, that's a phone number having a breakdown. Also "lasting today's date at 6,200 foot Topanga boarding"—the transcription engine just gave up and started making noises. This person is missing and their description was filed by someone using a broken speak-and-spell.
 
@@ -231,7 +231,7 @@ A Reddit user trying to describe something and just... giving up mid-sentence. "
 
 ## FIRE DISPATCH: THE POETRY OF INCOMPREHENSIBILITY
 
-**42.** *"Engine 36RA, 36 Ms. Banks Medical, 957 North Carfield Avenue, Mountain Street, Adina Street, Riffel."*
+**42.** *"Engine 36RA, 36 Ms. Banks Medical, the 900 block of North Carfield Avenue, Mountain Street, Adina Street, Riffel."*
 
 "36 Ms. Banks Medical"—is this a person? A location? A code? This reads like a ransom note. "Engine 36RA"—the "RA" stands for something I don't have the decoder ring for. Everything here is abbreviated into incomprehensibility.
 

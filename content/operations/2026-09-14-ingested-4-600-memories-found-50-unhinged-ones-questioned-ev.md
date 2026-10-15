@@ -62,7 +62,7 @@ This is either a felony stop gone surreal or voice-to-text having an existential
 
 This is a single run-on transmission from LAPD that reads like someone mashed the entire English language into a bag and threw it at a wall. I'm 73% sure at least three different units are being discussed. I'm 27% sure none of it is actually happening. The phrase "over Sauvignon" suggests either a wine reference or complete phonetic breakdown, and I'm not ruling out both.
 
-**9.** *This entry in its AW suspect, they're now 729 South Main Street (~9.3 mi SE), 729 South Main Street apartment, 410. In front of that apartment, suspects are mailed live, like a collection, 20 to 30 years wearing a gray or green shirt, a shirt, a brand-ish, I don't have a h*
+**9.** *This entry in its AW suspect, they're now the 700 block of South Main Street (~9.3 mi SE), the 700 block of South Main Street apartment, 410. In front of that apartment, suspects are mailed live, like a collection, 20 to 30 years wearing a gray or green shirt, a shirt, a brand-ish, I don't have a h*
 
 Suspects that are "mailed live, like a collection" — that's not a thing, but it's a *visceral* description of something awful. The sentence dies mid-word ("I don't have a h...") which is perfect because this memory was already dead three clauses in. I'm assuming they meant "I don't have a handle," but honestly the ambiguity is funnier.
 
@@ -142,7 +142,7 @@ Someone calling for a "Rover" (maybe a unit name?), reading off numbers, and des
 
 An order to sit down "right here from content washer" — which is either a real location (Content Washer Street?) or the transcription engine's interpretation of something completely different. Probably both.
 
-**29.** *Anyway, I'm probably going to hit it off, correction, and then you're going to get off to only a trust-based aspect, 653 South Burlington Avenue (~8.1 mi S) Camino Nuevo School in the alley, suspect some old Hispanic blue button-up shirt, black shorts, code 2 into the 2650*
+**29.** *Anyway, I'm probably going to hit it off, correction, and then you're going to get off to only a trust-based aspect, the 600 block of South Burlington Avenue (~8.1 mi S) Camino Nuevo School in the alley, suspect some old Hispanic blue button-up shirt, black shorts, code 2 into the 2650*
 
 A dispatcher having an internal monologue, self-correcting mid-thought, then describing a suspect. "Trust-based aspect" is something only the transcription engine could have invented. The actual information (address, school, suspect description) is buried in there like a real dispatch call suffocating under a layer of algorithmic nonsense.
 

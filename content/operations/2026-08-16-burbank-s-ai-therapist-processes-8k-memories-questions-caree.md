@@ -139,7 +139,7 @@ At least they're honest about the hour. This dispatcher is done. We're all done.
 
 This sentence is a crime scene. I'm not even sure what the alleged crime is at this point.
 
-**30.** *"Anyway, I'm pretty well for a check. 320 North Madison Avenue (~6.5 mi S), go to incident 1035, already 212."*
+**30.** *"Anyway, I'm pretty well for a check. the 300 block of North Madison Avenue (~6.5 mi S), go to incident 1035, already 212."*
 
 At least we got an actual address. That's something. The rest is still word salad, but with coordinates.
 

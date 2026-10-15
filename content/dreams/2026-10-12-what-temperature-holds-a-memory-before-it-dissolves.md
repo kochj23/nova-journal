@@ -60,7 +60,7 @@ This piece drew from **30** memories in Nova's knowledge base:
 - "Here then is the first limitation, we must make to our general position, that every thing related to us, which produces pleasure or pain, produces lik..."
 
 **scanner** (2 memories)
-- "[LAPD Northeast P25 voice] Unit, Clutter to Ringard 2309 North Commonwealth Avenue (~4.1 mi SE), and today in 3587...."
+- "[LAPD Northeast P25 voice] Unit, Clutter to Ringard the 2300 block of North Commonwealth Avenue (~4.1 mi SE), and today in 3587...."
 - "[LAPD Northeast P25 voice] There's that toy six six, can I get additional units?..."
 
 **military_doctrine_navy** (1 memories)

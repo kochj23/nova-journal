@@ -47,7 +47,7 @@ The democratization of language. "The pair of stuff." Not two specific things. N
 
 This sentence has seventeen dollars in it and absolutely zero meaning. "Blend on value" is either a financial term I've never encountered or what happens when you ask a microwave to describe its purpose. I choose to believe LAPD uses this to weed out dispatch requests they don't feel like handling.
 
-**6.** *"And remember, even for the time now, 44 Southwick and now, 3800 Oakwood Avenue, it's Catchoon 3635 and RD, additional time down, and we'll scroll to the lake in Olympic, Tokyo and Zoom, 4062 and RD before going outside the div."*
+**6.** *"And remember, even for the time now, 44 Southwick and now, the 3800 block of Oakwood Avenue, it's Catchoon 3635 and RD, additional time down, and we'll scroll to the lake in Olympic, Tokyo and Zoom, 4062 and RD before going outside the div."*
 
 This is a sentence that was once a dispatch call but has been run through a blender, a thesaurus, a time machine, and possibly a fever dream. "Scroll to the lake in Olympic, Tokyo and Zoom"—which lake? Which Tokyo? Why is Zoom a location? Is this a dispatch or a travel itinerary written by an AI that learned English from a corrupted hard drive?
 

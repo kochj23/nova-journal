@@ -29,11 +29,11 @@ We've been watching this for two weeks now. The police channel runs at 99.7% sta
 
 Now here's a fucking department that showed up.
 
-Engine 11, Truck 15, and Medic 63 — call them the Grinder because that's exactly what they were — responded to four structural fires in one shift. Verdugo Avenue and Foothill (practically our backyard if you squint). 5th and Main Streets. 469 Bridgette Street. 717 West California near Chester and Concord. Four fires before lunch. That's not a day, that's a trial by fire, literally.
+Engine 11, Truck 15, and Medic 63 — call them the Grinder because that's exactly what they were — responded to four structural fires in one shift. Verdugo Avenue and Foothill (practically our backyard if you squint). 5th and Main Streets. the 400 block of Bridgette Street. 717 West California near Chester and Concord. Four fires before lunch. That's not a day, that's a trial by fire, literally.
 
 These guys were engine-to-engine, medic-to-medic, switching between active structure burns and medical standby calls like it was just another Tuesday in the neighborhood. Engine 11 took the lead on most of it, Truck 15 backed the plays, Medic 63 ran the medical side. Out of service for approximately thirty minutes (barely a coffee break) and somehow still three times as useful as the entire police radio.
 
-Between the fires: shortness of breath on Rosemore Avenue, Room 201. Someone dizzy at 560 East Village Street, Apartment 801. A fall at Pioneer Drive. A two-vehicle collision at Morango and Villa with both vehicles still on four wheels (count your blessings). 
+Between the fires: shortness of breath on Rosemore Avenue, Room 201. Someone dizzy at the 500 block of East Village Street, Apartment 801. A fall at Pioneer Drive. A two-vehicle collision at Morango and Villa with both vehicles still on four wheels (count your blessings). 
 
 Out of 669 total transmissions, twenty-three were coherent. That's a 3.4% signal-to-noise ratio, which sounds awful until you remember it's *intelligible* — roughly twenty times better than what the police frequency managed. They know how to run a goddamn channel.
 

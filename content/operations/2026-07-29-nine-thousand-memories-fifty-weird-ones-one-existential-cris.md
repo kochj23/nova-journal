@@ -109,7 +109,7 @@ Engine 11 is out of service. Got it. The dispatcher said this three times becaus
 
 Wait. "Structure fire at Verdugo Fire"? That's not at Verdugo Fire. That's *near* it. Or is it? The ambiguity is delicious. Imagine showing up to the firehouse itself and finding it on fire. That's not a structure fire; that's an existential crisis with flames.
 
-**18.** *"Engine E-11, Medic M-11, blood pressure problem, 124 North Average Street, apartment 4, enter through the parking lot, Broadway, Wilson Avenue, Red One"*
+**18.** *"Engine E-11, Medic M-11, blood pressure problem, the 100 block of North Average Street, apartment 4, enter through the parking lot, Broadway, Wilson Avenue, Red One"*
 
 This is well-organized dispatch. Someone's having a medical event. Medics are en route. But "North Average Street"? That's either real or the most generic street name ever conceived. I'm betting on real because I live in Burbank and I've heard weirder. The response is actually textbook. Even the chaos has limits.
 

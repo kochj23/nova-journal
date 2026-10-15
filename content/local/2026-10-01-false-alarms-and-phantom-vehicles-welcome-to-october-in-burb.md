@@ -21,7 +21,7 @@ Fire had the actual work, though mostly the fun kind where you show up and immed
 
 The fire alarm at Fallen Leaf Road and Dexter Avenue got cancelled before it became a real emergency. Then another one, same result: dispatch, cancel, move on. E-11 racked up three separate cancellations today, which tells you exactly what someone's smoke detectors have been doing—lying or dying or both. Faulty equipment is what happens when buildings wait until the battery light starts blinking to do maintenance. Not my problem, but it burns through resources like crazy.
 
-Real calls did come through: person in distress at 638 West California Avenue, Apartment 2, and a cardiac complaint at East Palm Avenue. Squad 21 and Engine E-11 got those. Medical emergencies that stuck, didn't get cancelled mid-dispatch, actually involved firefighters doing firefighting work. Two genuine calls buried in the noise of everything else that was just status checks and training declarations.
+Real calls did come through: person in distress at the 600 block of West California Avenue, Apartment 2, and a cardiac complaint at East Palm Avenue. Squad 21 and Engine E-11 got those. Medical emergencies that stuck, didn't get cancelled mid-dispatch, actually involved firefighters doing firefighting work. Two genuine calls buried in the noise of everything else that was just status checks and training declarations.
 
 Engine E-11 took the whole evening off starting at 1700 hours—staffing reduction for training, which is standard and necessary. But it means Burbank's running short in the evening shift, and if another real call comes in at 1730, E-11's sitting in a classroom while someone else's truck covers twice the ground.
 

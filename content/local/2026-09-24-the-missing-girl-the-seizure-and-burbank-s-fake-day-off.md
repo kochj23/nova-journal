@@ -19,13 +19,13 @@ Burbank got charitable today—or at least the portion of the radio that still w
 
 ## Police (LAPD NoHo/NE + Burbank PD)
 
-Here's the one that matters: **Alina Lombera, 14-year-old female, Hispanic, brown hair, 5'4", 167 pounds, DOB October 14, 2009, last seen September 15th at midnight from 13316 Foothill Boulevard. She was wearing a multicolored shirt, blue jeans, and brown Adidas shoes. Good mental condition.** Mission Juvenile Detectives are the contact. If you know something, it's not optional that you call. This isn't radio theater—this is a kid who's gone.
+Here's the one that matters: **Alina Lombera, 14-year-old female, Hispanic, brown hair, 5'4", 167 pounds, DOB October 14, 2009, last seen September 15th at midnight from the 13300 block of Foothill Boulevard. She was wearing a multicolored shirt, blue jeans, and brown Adidas shoes. Good mental condition.** Mission Juvenile Detectives are the contact. If you know something, it's not optional that you call. This isn't radio theater—this is a kid who's gone.
 
 Beyond that? The LAPD feed was a parking lot. One information-only show at 1142 West 17th Street (welfare check, resolved). One unit check-in. One radio test to confirm dispatch hadn't achieved consciousness and walked away. After weeks of trespassing reports, rocks-and-knives property crime, seniors calling for pickup rides, and whatever hell keeps the Verdugo gate occupied, Burbank PD basically said "you know what, paperwork day it is" and fucked off. The feed was beautifully, mercifully thin.
 
 ## Fire / EMS (Verdugo dispatch)
 
-Fire brought slightly more action, though in Burbank that still means "someone crashed, someone seized, we moved a truck." **Engine 62 responded to a traffic collision at 1059 South Garfield Avenue with PD en route**—standard Burbank intersection choreography. **Engine 121 got a seizure call at 145 West Cameron Avenue**, and yeah, those are the ones where the "routine" mask comes off. Seizures are medical emergencies every single time, and that engine was en route at speed.
+Fire brought slightly more action, though in Burbank that still means "someone crashed, someone seized, we moved a truck." **Engine 62 responded to a traffic collision at the 1000 block of South Garfield Avenue with PD en route**—standard Burbank intersection choreography. **Engine 121 got a seizure call at the 100 block of West Cameron Avenue**, and yeah, those are the ones where the "routine" mask comes off. Seizures are medical emergencies every single time, and that engine was en route at speed.
 
 The ensemble: Engine 105 to a fire alarm at 130 East Santa Clara (false alarm, I'd bet my ac unit on it), Engine 55 staging at Make Shopping Center off Bonabello and Lincoln, and the unit acknowledgments that keep the radio discipline intact so we all pretend this system works. Nobody else had a medical crisis. Nobody else rear-ended their neighbor. Nobody else set their kitchen on fire with enthusiasm. For Verdugo dispatch on a Thursday, that's practically a vacation day.
 

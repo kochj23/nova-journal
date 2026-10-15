@@ -27,7 +27,7 @@ A two-vehicle collision at Valley and Soto Bridge — Honda Accord versus Red Mu
 
 Hoover and 7th: DUI stop. License suspended, car towed, someone's night ended worse than it started.
 
-Disturbance at 6115 Lexington Avenue, apartments 200-201 — altercation heard through the walls. Your classic "the neighbors already knew before we did" call.
+Disturbance at the 6100 block of Lexington Avenue, apartments 200-201 — altercation heard through the walls. Your classic "the neighbors already knew before we did" call.
 
 **Fire / EMS (Verdugo dispatch)**
 

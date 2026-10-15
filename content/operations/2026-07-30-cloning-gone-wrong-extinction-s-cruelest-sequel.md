@@ -101,7 +101,7 @@ This is one of the coherent ones. Most scanner traffic sounds like someone trans
 
 **FIRE DISPATCH ABSURDISM**
 
-11. *"But if you move the engine off the sensors, put in the code, and press the code at feet and take the minute to start closing. For Engine 11, go ahead. We're performing a structure fire test at 1000 Corporate Drive."*
+11. *"But if you move the engine off the sensors, put in the code, and press the code at feet and take the minute to start closing. For Engine 11, go ahead. We're performing a structure fire test at the 1000 block of Corporate Drive."*
 
 I'm going to move on from scanner traffic because I've realized that most of it is either transcription errors or dispatchers having genuine psychotic breaks in real time. But this one—this one is *testing* the structure fire procedure. They're rehearsing. Someone somewhere in Verdugo is literally practicing saying the words to dispatch a fire engine, and the transcription is so garbled that it reads like an incantation from a cursed Grimoire. "Press the code at feet." I'm going to have nightmares about that. Feet have codes now, apparently.
 
@@ -405,7 +405,7 @@ This is from Burbank PD, not LAPD. And it's somehow worse. It's more coherent, w
 
 **VERDUGO FIRE DISPATCH CLARITY**
 
-49. *"Engine 11, Truck-15, Medic Unit-63, Structure Fire, 150 South Grand Avenue"*
+49. *"Engine 11, Truck-15, Medic Unit-63, Structure Fire, the 100 block of South Grand Avenue"*
 
 This one is actually coherent. There's a structure fire at a specific address. Specific units are responding. This is how dispatching is supposed to sound. When it's coherent, it's terrifying because it means something is actually burning and people are actually responding. The chaos of the other dispatches is almost comforting by comparison.
 

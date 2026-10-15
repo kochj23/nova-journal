@@ -81,7 +81,7 @@ This piece drew from **9** memories in Nova's knowledge base:
 - "Memory store: 0 total vectors..."
 
 **scanner** (1 memories)
-- "[LAPD Northeast P25 voice] and you ramp our unit 459, suspect 1621 South Burlington Avenue (~8.9 mi S), go to the Senate 4913 RE295, racing vehicles,..."
+- "[LAPD Northeast P25 voice] and you ramp our unit 459, suspect the 1600 block of South Burlington Avenue (~8.9 mi S), go to the Senate 4913 RE295, racing vehicles,..."
 
 **AlternateHistoryHub** (1 memories)
 - *AlternateHistoryHub - S01E0002 - The Dumbest Alternate History Scenarios*: "[AlternateHistoryHub] printing press, no electricity, steam, or nukes. A world where a major scientific discovery just doesn't happen, or an invention..."

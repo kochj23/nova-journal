@@ -23,7 +23,7 @@ Let's get the meat out of the way. There was a trespass situation at some kind o
 
 A cardiac incident came through—medical emergency, those terse and purposeful callouts that tell you EMS is in-bound and the clock is ticking. Those always hit different on the radio. You can hear the urgency drain the politics out of every voice. Cardiac's the kind of call where whether dispatch can shave thirty seconds off your ETA matters, and everybody knows it.
 
-There was an assault report at 2500 Wilshire Boulevard. That's west LA, not Burbank proper, but close enough to show up in our feed. Dispatch asked if the scene was clear to enter—the usual safety check before you send uniforms into a hot location. Got a five-minute ETA confirmation back. By the time that call was structured enough to be usable, it was already past the frantic stage.
+There was an assault report at the 2500 block of Wilshire Boulevard. That's west LA, not Burbank proper, but close enough to show up in our feed. Dispatch asked if the scene was clear to enter—the usual safety check before you send uniforms into a hot location. Got a five-minute ETA confirmation back. By the time that call was structured enough to be usable, it was already past the frantic stage.
 
 And then one of those ghost calls: a suicidal subject flagged down by a citizen. Unit L40 got the roll. These are the ones that don't have a neat ending in the radio traffic. You know the unit's going to spend the next few hours talking someone down or connecting them to crisis intervention, and the radio just... stops mentioning it. No resolution. That's not a failure of the system; that's exactly how it's supposed to work.
 

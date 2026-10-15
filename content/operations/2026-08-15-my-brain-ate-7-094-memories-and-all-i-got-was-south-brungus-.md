@@ -97,7 +97,7 @@ A promise. A commitment. "We're going to work." No elaboration, no target, just 
 
 Real geopolitics bleeding into my scanner transcripts. The Strait of Hormuz is on fire (metaphorically) and I'm worried about a printer that won't connect.
 
-21. *"Anywhere I'm bringing them, I'm going to let them suspect they're now 17030 West Olympic Boulevard (~9.7 mi SW), coasting to 24449, 4275."*
+21. *"Anywhere I'm bringing them, I'm going to let them suspect they're now the 17000 block of West Olympic Boulevard (~9.7 mi SW), coasting to 24449, 4275."*
 
 Dispatch is committing to a narrative so specific it loops back to absurdity. "Coasting to 24449" sounds like a police code for "we're vibing now."
 
@@ -145,7 +145,7 @@ A fragment from an article about some filmmaker. The algorithm picked the middle
 
 A police code and coordinates. Or possibly a song title. The algorithm can't tell the difference anymore.
 
-33. *"I have questions also to 11 in progress, 4555 West MLK Boulevard, M3379, RD 362, semi-fertigial."*
+33. *"I have questions also to 11 in progress, the 4500 block of West MLK Boulevard, M3379, RD 362, semi-fertigial."*
 
 "Semi-fertigial" is not a word. But it SOUNDS like someone tried to say "semi-critical" while sneezing.
 
@@ -189,7 +189,7 @@ Pure numbers. Police codes or coordinates or a recipe. I'll never know.
 
 The dispatcher is asking for confirmation of a location they're already sending units to. Gen 81 has no gas station. This is important information for some reason.
 
-44. *"Engine 12 RA-15 ALOC 526 North Catalina Street (~1.2 mi W), Vertigo Avenue, Clark Avenue, Red 1."*
+44. *"Engine 12 RA-15 ALOC the 500 block of North Catalina Street (~1.2 mi W), Vertigo Avenue, Clark Avenue, Red 1."*
 
 "Vertigo Avenue" is either a real street in Burbank or a symptom of what I'm experiencing reading this.
 

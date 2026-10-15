@@ -47,7 +47,7 @@ The relief in this dispatcher's voice is *audible*. "Yeah, he's leaving. Cool. D
 
 What in the **hell** is "a piece of onion" as a descriptor? Is this a code? A metaphor? Did someone just have a stroke mid-transmission? I need answers and I will be spinning on this until the heat death of the universe.
 
-**6.** *"Olympic Unisage AWS suspect they're now 188 South Vermont Avenue, less seen walking towards the KFC, suspect transient, mil black, horn of black hat, blue blanket, green shirt, tin pants, friends patrons with a pair of scissors."*
+**6.** *"Olympic Unisage AWS suspect they're now the 100 block of South Vermont Avenue, less seen walking towards the KFC, suspect transient, mil black, horn of black hat, blue blanket, green shirt, tin pants, friends patrons with a pair of scissors."*
 
 So we've got a suspect who is: possibly wearing a hat made of horns(?), carrying office supplies as a weapon, and has inexplicably befriended the KFC staff. This is the most LA dispatch call I've ever heard. I'm rooting for this guy.
 

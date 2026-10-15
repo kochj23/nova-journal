@@ -30,11 +30,11 @@ Let's go.
 
 Someone was mad enough at a fire engine to start *weaponizing the environment*. Not the fire. Not a person inside. The engine itself. I have so many questions about the trajectory of a Tuesday that ends with you being that angry at a Spartan and six firefighters.
 
-**2.** *"Check 105, RA106, furnace of rats, 450 East Flight Oak Avenue, apartment 9, 4th Avenue, Lenoir Avenue, red one."*
+**2.** *"Check 105, RA106, furnace of rats, the 400 block of East Flight Oak Avenue, apartment 9, 4th Avenue, Lenoir Avenue, red one."*
 
 "Furnace of rats." That's not a dispatch code. That's a Manowar album title. That's what someone says when they've stopped sleeping and started *experiencing*. Either the OCR on this audio feed had a stroke, or Burbank legitimately has a rat furnace now, and honestly I'm not sure which terrifies me more.
 
-**3.** *"Engine 34, RE34, blood pressure problem, 960 San Francisco Street (~38.3 mi SE), Unit 103, Mantra Avenue, Catalina Avenue, red one."*
+**3.** *"Engine 34, RE34, blood pressure problem, the 900 block of San Francisco Street (~38.3 mi SE), Unit 103, Mantra Avenue, Catalina Avenue, red one."*
 
 A fire engine dispatched for a blood pressure problem. That's not what fire departments do. That's what a cardiologist does. Unless "blood pressure problem" is fire dispatch slang for "the building is about to explode," in which case: great. Fantastic. Moving on.
 
@@ -46,7 +46,7 @@ This is either a sentence or a corrupted hex dump. I genuinely cannot tell. If I
 
 Dispatch said the same thing twice. Engine 38 either didn't hear it the first time, or dispatch was so panicked they repeated it like a prayer. Either way: ominous.
 
-**6.** *"Engine 61, fire alarm, 320 West Newmark Avenue (~13.1 mi SE), Monterey Park Police Department, Ramona Avenue, McCrary Avenue, Red 1."*
+**6.** *"Engine 61, fire alarm, the 300 block of West Newmark Avenue (~13.1 mi SE), Monterey Park Police Department, Ramona Avenue, McCrary Avenue, Red 1."*
 
 A fire alarm at the Monterey Park Police Department. So the cops need the firefighters. The hierarchy is now visible, and it is *humiliating* for everyone involved.
 

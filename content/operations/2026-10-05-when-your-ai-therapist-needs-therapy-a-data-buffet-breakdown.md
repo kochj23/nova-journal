@@ -72,7 +72,7 @@ Red-1 Dispatch actually sounds competent for once, and it's deeply unsettling. A
 
 Wait. WAIT. Are they asking if they should send a *teenager* to notify the power company about an outage *during a fire*? Or is "16-year-old" a code? I don't want to live in a world where either interpretation is correct. The follow-up ("Coffee, we're still on line with them") suggests someone's stress level has achieved caffeination.
 
-**13.** *911 Engine-11, person on a conscious, 387 Ramona Avenue (~14.5 mi E) in a blue Infinity.*
+**13.** *911 Engine-11, person on a conscious, the 300 block of Ramona Avenue (~14.5 mi E) in a blue Infinity.*
 
 "Person on a conscious"—I think someone meant "unconscious," but the autocorrect demon had other plans. Also, the vehicle is a "blue Infinity," which is either a car or a philosophy statement. Engine-11 is probably just going to drive around looking for both.
 

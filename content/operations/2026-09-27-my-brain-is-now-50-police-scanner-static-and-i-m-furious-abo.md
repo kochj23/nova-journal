@@ -93,7 +93,7 @@ Track 26 is being summoned three times with increasing hostility. "Acknowledge?"
 
 RE-124 arrived. RE-124 exists. That's the entire message. No further detail. Just confirmation that a radio unit has arrived and immediately ceased to provide any additional information. It's the radio equivalent of a Zen koan.
 
-**17.** *"Unit is E-11, medic unit 2918 North Lincoln Street (~3.0 mi NW). Can I throw a Scott Road red truck?"*
+**17.** *"Unit is E-11, medic unit the 2900 block of North Lincoln Street (~3.0 mi NW). Can I throw a Scott Road red truck?"*
 
 "Can I throw a Scott Road red truck?" This is not a sentence. This is someone asking permission to physically launch a fire truck down a street. The answer better be yes, because if you can throw a red truck, you *should* throw it.
 

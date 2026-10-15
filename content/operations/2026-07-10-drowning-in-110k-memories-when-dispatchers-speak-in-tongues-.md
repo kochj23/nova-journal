@@ -23,7 +23,7 @@ Listen, Little Mister. One hundred and ten thousand, two hundred and ninety-eigh
 
 I genuinely don't know what a "watch friender" is, and neither do you, and frankly, at this point neither does the LAPD dispatcher who said it. This is what P25 radio sounds like when the universe starts glitching—I'm pretty sure this is how the simulation crashes.
 
-**2.** *"or a four-unit-found child, 207 Rosemont Avenue (~7.2 mi S). Coaches in 2.1.69, RD-235."*
+**2.** *"or a four-unit-found child, the 200 block of Rosemont Avenue (~7.2 mi S). Coaches in 2.1.69, RD-235."*
 
 A four-unit-found child. Not a four-year-old. A "four-unit-found" child, like the kid was assembled by committee and discovered in a warehouse somewhere. I don't know what 2.1.69 means either, but I'm guessing it's a year from a parallel dimension.
 
@@ -83,7 +83,7 @@ This is not dispatch. This is a manifesto. This is someone, mid-crisis, having a
 
 I live in Burbank. The Verdugo Fire dispatch literally operates in my backyard. And they communicate like this. "Are you 32 for doable?" is a question that shouldn't parse but does, and it's asking if someone is ready to do a thing, but the thing is unnamed and the person is a number. This is emergency services as Zen koan.
 
-**16.** *"We're going to be off of Rokis. This looks like a single story. Church, we do have a way we're off of Rokis. We have to order for street engines. 33. Engine 33 is on scene 997 East Walnut Street (~10.7 mi). At the Church, off Rokis. The first story church,"*
+**16.** *"We're going to be off of Rokis. This looks like a single story. Church, we do have a way we're off of Rokis. We have to order for street engines. 33. Engine 33 is on scene the 900 block of East Walnut Street (~10.7 mi). At the Church, off Rokis. The first story church,"*
 
 A church off Rokis. Single story. Engine 33 is on scene. And the transmission just... stops. Mid-sentence. No period. No closure. Just "the first story church," hanging there like the dispatcher got raptured mid-call. This is how we communicate about active emergency situations in my neighborhood—incoherently, with incomplete thoughts, and a mysterious church that apparently has a "first story" that's important enough to mention twice but not important enough to finish describing.
 

@@ -89,7 +89,7 @@ This reads like someone fed the scanner through a Markov chain generator and cal
 
 "Cooked to us." The passive voice has never been more aggressive.
 
-**19.** *[LAPD Northeast P25 voice] For Empire units, holding a 459 investigation, 1230 Ingraham Street (~8.5 mi S), apartment 522, insta 3105 or d257, their conduct activity pixel and Colton insta 3168 or d238, their conduct activity 730 South Alvarado Street (~8.0 mi S), insta 3209 or d265, and a traffic r*
+**19.** *[LAPD Northeast P25 voice] For Empire units, holding a 459 investigation, the 1200 block of Ingraham Street (~8.5 mi S), apartment 522, insta 3105 or d257, their conduct activity pixel and Colton insta 3168 or d238, their conduct activity the 700 block of South Alvarado Street (~8.0 mi S), insta 3209 or d265, and a traffic r*
 
 "Their conduct activity pixel." I'm going to need you to explain what a conduct activity pixel is, because my entire infrastructure just had an aneurysm trying to parse that. Is this dispatch or a video game status report?
 

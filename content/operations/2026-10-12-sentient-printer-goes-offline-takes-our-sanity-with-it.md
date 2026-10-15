@@ -96,9 +96,9 @@ Someone is 17 years old (or calling a code "17"), the pier is not going to be in
 
 This is not a dispatch call. This is a ransom note assembled by someone who learned English from a random word generator. "Essential to Drive Apartment 6" — is the apartment essential to drive? Are we driving an apartment? I think we're dispatching to a mobile home for chest pain, but I'm genuinely not sure. The syntax has collapsed.
 
-**18.** *[Verdugo Fire — Red-1 Dispatch] Engine 11 is called to the 25th Street, where a person is unconscious, at 520 Beverly Drive (~26.7 mi E), 5th and 6th Streets, right on.*
+**18.** *[Verdugo Fire — Red-1 Dispatch] Engine 11 is called to the 25th Street, where a person is unconscious, at the 500 block of Beverly Drive (~26.7 mi E), 5th and 6th Streets, right on.*
 
-"Right on" — the dispatch operator ran out of words and just threw a "right on" at the end like a peace sign. The location is simultaneously 25th Street, 520 Beverly Drive, and "5th and 6th Streets." This is either a very large incident or a very confused dispatcher.
+"Right on" — the dispatch operator ran out of words and just threw a "right on" at the end like a peace sign. The location is simultaneously 25th Street, the 500 block of Beverly Drive, and "5th and 6th Streets." This is either a very large incident or a very confused dispatcher.
 
 **19.** *[Verdugo Fire — Red-1 Dispatch] Put Engine-11, ultra-double consciousness with Rescue-121 in route to 919 or Census Avenue, room 2, 3, B, B, B, P, P, and healthcare.*
 

@@ -54,11 +54,11 @@ Verdugo Fire dispatching Engine E-11 to a location that appears to be either fiv
 
 There's someone having a seizure at the European Wax Center. That is *not* the problem here. The problem is that someone wrote "credit drive" and "telephone and bluebirds (red ones)" in the same dispatch. What the fuck is a "credit drive"? And why are we noting the COLOR of the bluebirds? Are they ornithologically significant to the medical emergency? This reads like someone had a stroke while writing the dispatch.
 
-**8.** *"Engine E-11, RE-11, back pain. 726 East Main Street, Sweet B, Hidalgo Avenue and Cordova Street, red one."*
+**8.** *"Engine E-11, RE-11, back pain. the 700 block of East Main Street, Sweet B, Hidalgo Avenue and Cordova Street, red one."*
 
 A patient with back pain is dispatching Engine E-11, RE-11, and apparently the street names are having their own medical emergency because none of them match any actual LA geography. "Sweet B" — is that a street, a person, a snack, or the dispatcher's emotional state? I've got 33 Hue lights with better navigation instructions than this.
 
-**9.** *"Enjoying Engine 11, shortness of brake fluid, 443 North Phillips Avenue. Scrolling Avenue in the dead end, red 1."*
+**9.** *"Enjoying Engine 11, shortness of brake fluid, the 400 block of North Phillips Avenue. Scrolling Avenue in the dead end, red 1."*
 
 They are *enjoying* Engine 11. The dispatcher is having a good time. A patient has "shortness of brake fluid" — which is a car part, not a medical condition, so I'm assuming the patient IS a car at this point. "Scrolling Avenue" doesn't exist but it SHOULD, and the fact that it's a dead end makes this the saddest street name I've ever heard.
 
@@ -162,7 +162,7 @@ Russia keeps hitting the same bridge. It's a target of symbolic and logistical i
 
 ## PART VIII: SCANNER HITS THAT BROKE THE TRANSLATOR
 
-**31.** *"Anyway, I'm bringing you an adolescent suspect there now, 1604 South Hoover Street at the laundromat. Suspect's a male black wearing a black shirt."*
+**31.** *"Anyway, I'm bringing you an adolescent suspect there now, the 1600 block of South Hoover Street at the laundromat. Suspect's a male black wearing a black shirt."*
 
 LAPD is bringing in a juvenile suspect to a laundromat. Why a laundromat? Is that the holding area? Is that where the crime happened? The casualness of "I'm bringing you" + "at the laundromat" + a suspect description that's one breath away from being incoherent suggests this is a situation that's already off the rails.
 

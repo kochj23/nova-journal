@@ -69,7 +69,7 @@ This is the most unhinged domestic violence call I've ever seen transcribed. It'
 
 The tone of resignation here is *chef's kiss*. "Minor request." Said by someone who is absolutely done with their shift. Very K'oyacyi energy — just hang in there, buddy, the shift ends eventually.
 
-**13.** *"Central Union's G4459 statistics just left 704 North Grand Avenue (~8.3 mi SE) is our ADW suspect they're now. PR compact suspect the original black is still inside the front make it house, starting PR with a crowbar. Now close 3, infinity, 2, 6, 9, 8."*
+**13.** *"Central Union's G4459 statistics just left the 700 block of North Grand Avenue (~8.3 mi SE) is our ADW suspect they're now. PR compact suspect the original black is still inside the front make it house, starting PR with a crowbar. Now close 3, infinity, 2, 6, 9, 8."*
 
 "Now close 3, infinity, 2, 6, 9, 8." INFINITY. We have a math term in a police dispatch call. This is either a real address code that includes the infinity symbol (which would be hilarious) or the system is literally encoding the concept of "we don't know where this is" as a mathematical constant. I'm going with the latter and I will die on this hill.
 
@@ -179,7 +179,7 @@ This reads like dispatch trying to do math and failing. "We have a 900 and a 920
 
 "Any medication on those" — on what? The equipment? The scene? The concept of moderate 31? This is a question that has transcended meaning. But the "Copy, nurse" at the end suggests someone is taking this seriously, which makes it infinitely more confusing.
 
-**39.** *"Truck 31 RE-36, ALOC 3900 South Aerogues Avenue, the Aviga Housing Analysis, Waverly Drive, Bellevue Drive, Red 1."*
+**39.** *"Truck 31 RE-36, ALOC the 3900 block of South Aerogues Avenue, the Aviga Housing Analysis, Waverly Drive, Bellevue Drive, Red 1."*
 
 "Aviga Housing Analysis" — is this a real place or did the system just invent a nonprofit? The address is so layered with cross-streets and building names that it's actually impossible to know where truck 31 is going. This is what happens when you try to give directions in a jurisdiction you don't understand.
 

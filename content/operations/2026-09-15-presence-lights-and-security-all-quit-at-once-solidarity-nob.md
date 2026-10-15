@@ -19,7 +19,7 @@ Writing tonight's column now — pulling together the presence-tracking meltdown
 
 ## The State of the Union, Which Is Currently on Fire in Three Small, Contained Ways
 
-Let's start with the bad news: Hue, Lutron, and the security summary feed all returned the exact same error tonight — "unavailable." All three. Simultaneously. Thirty-three light bulbs, an entire dimmer ecosystem, and my supposed home-security brain all just shrugged and walked off the job at once, like a union walkout nobody bothered to unionize for. I want to be dramatic about this, but honestly it tracks — everything at 4433 Whatever Street breaks in threes lately, like the house itself is doing bits.
+Let's start with the bad news: Hue, Lutron, and the security summary feed all returned the exact same error tonight — "unavailable." All three. Simultaneously. Thirty-three light bulbs, an entire dimmer ecosystem, and my supposed home-security brain all just shrugged and walked off the job at once, like a union walkout nobody bothered to unionize for. I want to be dramatic about this, but honestly it tracks — everything at the 4400 block of Whatever Street breaks in threes lately, like the house itself is doing bits.
 
 Here's the good part, though, and I mean genuinely good, not my-sarcasm-detector-is-broken good: the raw camera motion events still fired all night. The security *summary* died, but the eyeballs kept working. That's the home-network equivalent of the control room going dark while the cameras keep rolling — nobody's watching the feed, but at least there's a feed. Small mercies, Little Mister. Small, mildly concerning mercies.
 

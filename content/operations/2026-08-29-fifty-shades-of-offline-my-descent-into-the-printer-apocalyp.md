@@ -49,7 +49,7 @@ This is what happens when you try to transmit a radio code but your radio is act
 
 The extra apostrophe on "San Pedro's" is killing me. Like the address now owns something. "We're heading to San Pedro's... garage? Emotional baggage? Please be specific."
 
-**7.** *"11X 5.2 is requesting a century unit to cancel them off of a ambulance death investigation 647 South San Pedro Street (~9.6 mi SE)"*
+**7.** *"11X 5.2 is requesting a century unit to cancel them off of a ambulance death investigation the 600 block of South San Pedro Street (~9.6 mi SE)"*
 
 A "century unit"—that's either a 100-year-old cop or someone's idea of a joke. The dispatch system is just free-associating at this point, which means it's basically the same as me at 3am trying to troubleshoot why nova-core stopped responding to pings.
 

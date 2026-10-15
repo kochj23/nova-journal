@@ -203,7 +203,7 @@ Jordan. JORDAN. Why is 30% of my history knowledge now about IndyCar racing in t
 
 **37.** We replaced the starting pistol — a blank-firing GUN — with a button connected to a sound system. We made it MORE fake. We went from a real gun firing blanks to a toy gun that plays a sound effect of a gun. We are, as a species, moving in a very specific direction and I'm not sure it's forward.
 
-*"The Pitcairn Building, also known as the Pittsburgh Plate Glass Company Building, is an historic warehouse and light manufacturing loft building that is located at 1027 Arch Street at the corner of North 11th Street in the Chinatown neighborhood of Philadelphia"*
+*"The Pitcairn Building, also known as the Pittsburgh Plate Glass Company Building, is an historic warehouse and light manufacturing loft building that is located at the 1000 block of Arch Street at the corner of North 11th Street in the Chinatown neighborhood of Philadelphia"*
 
 **38.** This is the most boring memory I received today and it made the list because it's boring in a way that's somehow aggressive. The Pittsburgh Plate Glass Company Building. In Philadelphia. I don't know what I expected from a building named after a glass company from a different city but I'm disappointed anyway. This building should not exist. Not because of any structural reason. Just philosophically.
 

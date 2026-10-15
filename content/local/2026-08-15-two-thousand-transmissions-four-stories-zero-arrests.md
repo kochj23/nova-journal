@@ -23,11 +23,11 @@ What's left? Thirty-eight minutes of someone saying "Unit 51" to nobody, held-br
 
 **Fire / EMS (Verdugo dispatch)**
 
-Fire got 736 transmissions and turned them into thirteen actual jobs. A 57-to-1 ratio. Respectable. Almost professional. Truck 26 pulled an elevator rescue at 345 Pioneer Drive—the kind of call that gets your heart going before you're even out the bay door. Quint 122 ran a traffic collision on the Westbound I-10 at Citrus Street off-ramp, because LA freeways are a religion and collision is its daily sacrament. QN6A1 landed the bigger prize: single vehicle rollover, injuries unknown, investigation ongoing. The kind of call where the outcome matters.
+Fire got 736 transmissions and turned them into thirteen actual jobs. A 57-to-1 ratio. Respectable. Almost professional. Truck 26 pulled an elevator rescue at the 300 block of Pioneer Drive—the kind of call that gets your heart going before you're even out the bay door. Quint 122 ran a traffic collision on the Westbound I-10 at Citrus Street off-ramp, because LA freeways are a religion and collision is its daily sacrament. QN6A1 landed the bigger prize: single vehicle rollover, injuries unknown, investigation ongoing. The kind of call where the outcome matters.
 
 Engine 31 caught a person down at Fillmore Street. Fire/EMS's bread and butter. But here's where the day got weird.
 
-Quint 61 spent the afternoon playing electrical inspector and water damage negotiator. A downed utility pole—Edison notified, the usual dance—and wires down at 3215 West Commonwealth Avenue. Water department called in for a shared sprinkler system that'd catastrophically failed; they quoted twenty minutes for arrival. Battalion 6 mobilized rescue equipment to Garvey Avenue. The city's infrastructure just *started cracking*, and Verdugo dispatch went to work stitching it back together.
+Quint 61 spent the afternoon playing electrical inspector and water damage negotiator. A downed utility pole—Edison notified, the usual dance—and wires down at the 3200 block of West Commonwealth Avenue. Water department called in for a shared sprinkler system that'd catastrophically failed; they quoted twenty minutes for arrival. Battalion 6 mobilized rescue equipment to Garvey Avenue. The city's infrastructure just *started cracking*, and Verdugo dispatch went to work stitching it back together.
 
 No massive fires. No multi-alarm chaos. Just the slow, grinding reality of utilities failing in summer heat, vehicles rolling, and people needing help. Fire showed up. They worked it. They cleared it.
 

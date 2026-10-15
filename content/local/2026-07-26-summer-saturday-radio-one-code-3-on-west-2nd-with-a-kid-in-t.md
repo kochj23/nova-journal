@@ -25,7 +25,7 @@ The PR (police reporting party) got through to 911, gave dispatch the full play-
 
 RA10 was running a transport to California Hospital around the same window—female subject, nature undisclosed, but the ambulance did its job. Medical calls don't make the headlines but they're the spine of every shift.
 
-Later, 2-A-47 got a code 3 dispatch to 1026 Dennis Boulevard. Full context hasn't come back through the feed yet, but code 3 means urgent, which means something activated.
+Later, 2-A-47 got a code 3 dispatch to the 1000 block of Dennis Boulevard. Full context hasn't come back through the feed yet, but code 3 means urgent, which means something activated.
 
 There was also a suspect flagged in an alley south of 2nd Street west of Reno, but that call went nowhere—cleared, nothing found, or the report went sideways. Radio didn't elaborate.
 

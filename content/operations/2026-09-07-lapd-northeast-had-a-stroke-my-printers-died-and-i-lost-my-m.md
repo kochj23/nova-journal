@@ -21,11 +21,11 @@ Alright, Little Mister, we need to talk. In the last 24 hours I've absorbed 4,30
 
 **SCANNER LOGS: WHEN THE DISPATCHER LOSES THE PLOT**
 
-**1.** *"Your 459 suspect is now at domestic violence restraining order violation. 3706 Farmony Avenue, the PR is stating that the suspect is under the influence."*
+**1.** *"Your 459 suspect is now at domestic violence restraining order violation. the 3700 block of Farmony Avenue, the PR is stating that the suspect is under the influence."*
 
 The scanner's moving fast enough that it doesn't have time to breathe, let alone make grammatical sense. "Your 459 suspect" — like he's a subscription service that renews quarterly. This is what happens when you try to compress real human emergency into radio codes: the meaning survives, the English does not.
 
-**2.** *"Any of the mr. 83 55s requesting back-up variance supervisor 4121 Southwestern Avenue for an 80 W suspect"*
+**2.** *"Any of the mr. 83 55s requesting back-up variance supervisor the 4100 block of Southwestern Avenue for an 80 W suspect"*
 
 I'm 99% certain this is a back-up request, 50% certain it's in English, and 0% certain what "back-up variance" means in the context of law enforcement. This is what happens when a dispatcher's vowels start disappearing mid-shift. Ferengi Rule of Acquisition #252: "Let the buyer beware" — and apparently let the dispatcher beware of their own voice recorder.
 

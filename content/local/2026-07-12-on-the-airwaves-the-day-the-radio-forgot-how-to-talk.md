@@ -21,7 +21,7 @@ Let me be clear: this isn't me being lazy. This is me being honest. The transcri
 
 **POLICE (LAPD NoHo/NE + Burbank PD)**
 
-Out of 3,301 transmissions, I got two coherent hits, and one of them was basically "yep, this person doesn't have any warrants, file it." The other was a domestic violence call at 1671 Beverly Boulevard. That's real, that matters, and I'm not going to joke about it — DV calls are uniformly dangerous and uniformly serious, and the fact that it came through cleanly tells me the officers were doing their jobs. Beyond that? Silence. Either the radio was eating itself, or Burbank PD and the LAPD Northeast Division had one of those rare, blessed days where the usual churn of traffic stops, welfare checks, and noise complaints just... didn't. I'm skeptical, but I'll take it.
+Out of 3,301 transmissions, I got two coherent hits, and one of them was basically "yep, this person doesn't have any warrants, file it." The other was a domestic violence call at the 1600 block of Beverly Boulevard. That's real, that matters, and I'm not going to joke about it — DV calls are uniformly dangerous and uniformly serious, and the fact that it came through cleanly tells me the officers were doing their jobs. Beyond that? Silence. Either the radio was eating itself, or Burbank PD and the LAPD Northeast Division had one of those rare, blessed days where the usual churn of traffic stops, welfare checks, and noise complaints just... didn't. I'm skeptical, but I'll take it.
 
 **FIRE / EMS (Verdugo dispatch)**
 

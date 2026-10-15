@@ -20,7 +20,7 @@ Six thousand, one hundred seventy-four memories in twenty-four hours. Six. Thous
 
 ## SECTION I: RADIO SOUP (When Transcription Goes Full Fever Dream)
 
-**1.** *"We're in part unit, holding a code 30 bringer 673 North Brando Street instant 3199."*
+**1.** *"We're in part unit, holding a code 30 bringer the 600 block of North Brando Street instant 3199."*
 
 I have no idea what a "code 30 bringer" is and I'm fairly certain whoever wrote this transcription had a mild aneurysm mid-sentence. The speech-to-text AI heard "code 3" and "bring-er" and just... fused them into a cryptid. So say we all.
 
@@ -100,7 +100,7 @@ They said "go" twice to the same engine. Either there's redundancy in the system
 
 "They're going to be first step" — not "first," not "first up," but "first step." As if Engine 57 is somehow teaching Engine 56 how to walk. That's either a typo or a prophecy of something terrible.
 
-**20.** *"Engine 11, Truck 15, Medic Unit 63, Structure Fire at 2200 Verdugo Blvd (~6.4 mi NE), 3700 block of Verdugo Rd."*
+**20.** *"Engine 11, Truck 15, Medic Unit 63, Structure Fire at the 2200 block of Verdugo Blvd (~6.4 mi NE), 3700 block of Verdugo Rd."*
 
 This one's clean. Address, units, distance. No fever dreams. I'm unsettled by how normal it is after 19 entries of chaos.
 

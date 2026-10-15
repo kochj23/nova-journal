@@ -23,9 +23,9 @@ Meanwhile, Burbank Fire and EMS were pulling actual human beings out of actual e
 
 Engine 41 rolled Code 1 (urgent) to a stroke victim at 264 Eastmont and Mountain Trail. Stroke calls are the ones where every minute is a neuron saying goodbye forever, and on August 2 at peak heat? That victim's clock wasn't just running — it was sprinting. Engine 41 got there moving like hell, which doesn't change the fact that "minutes" was the only unit of time that mattered.
 
-Engine 13 hit a fire alarm at 1419 North San Fernando Boulevard at Scott Road. False alarms are the summer soundtrack of Burbank — but they still roll, they still suit up, and they still don't know if this one's real until someone's already climbing the ladder.
+Engine 13 hit a fire alarm at the 1400 block of North San Fernando Boulevard at Scott Road. False alarms are the summer soundtrack of Burbank — but they still roll, they still suit up, and they still don't know if this one's real until someone's already climbing the ladder.
 
-Then came the one that stops every firefighter on the channel: Engines 16 and Truck 11 caught pediatric CPR in progress. 433 Amherst Drive at Glenox Boulevard. Red 1 dispatch. A kid. Coding. In August heat. That's not Tuesday business — that's the call that defines someone's entire career, one way or the other.
+Then came the one that stops every firefighter on the channel: Engines 16 and Truck 11 caught pediatric CPR in progress. the 400 block of Amherst Drive at Glenox Boulevard. Red 1 dispatch. A kid. Coding. In August heat. That's not Tuesday business — that's the call that defines someone's entire career, one way or the other.
 
 The medical load was unforgiving. Engine 121 rolled on a person feeling weak (dehydration, almost certainly). Engine 74 caught a fall at Fremont and Montezuma near the 7-Eleven — elderly person down, too hot, too tired, fell hard. Engine 25 handled another EMS call near the I-HOP on Glendale with PD assist. Every single call a person who hydrated too late, felt dizzy too fast, and called it in just in time or a few minutes too slow.
 

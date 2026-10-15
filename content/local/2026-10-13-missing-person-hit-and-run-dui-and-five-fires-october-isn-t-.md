@@ -27,7 +27,7 @@ The rest was the usual police chaos: traffic stops, unit routing, and then—lat
 
 Five structure fires in one day. Verdugo Avenue and Circle Drive. 226th and Spencer. 415 South Carfield. 407 Joaquin near Kingsley and Victoria. 1808 West Glenmere. That's not an anomaly; that's October being October. Fire crews didn't get a fucking breath between them.
 
-Add a traffic collision on Verdugo Road with vehicles in the creek and median (rescue crew's got a median to clear), an elevator rescue at Glendale College's Buena Vista building, and the medical calls that never quit: shortness of breath, seizures, loss of consciousness, psychiatric crisis. There was a carbon monoxide alarm at 1155 East Delmar that got everybody moving fast (CO is a house-clearing event), and a single vehicle into a wall at 304 Main Street that went surgical (Engine 11 and Rescue 63 handle it, everyone else stands down).
+Add a traffic collision on Verdugo Road with vehicles in the creek and median (rescue crew's got a median to clear), an elevator rescue at Glendale College's Buena Vista building, and the medical calls that never quit: shortness of breath, seizures, loss of consciousness, psychiatric crisis. There was a carbon monoxide alarm at 1155 East Delmar that got everybody moving fast (CO is a house-clearing event), and a single vehicle into a wall at the 300 block of Main Street that went surgical (Engine 11 and Rescue 63 handle it, everyone else stands down).
 
 One false alarm: someone called about smoke from a chimney. Fire told them to clean it and move on. 😏 One win in a day when five fires were burning.
 

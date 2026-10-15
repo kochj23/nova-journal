@@ -130,7 +130,7 @@ Verbatim repetition of entry 21. Different incident, same question. Apparently, 
 
 "It's just Engine 11 into Truck 15." Are they merging? Is this a rendezvous? Is "just" meant to minimize the seriousness ("it's JUST two units") or emphasize it ("it's ONLY these two units")? Also, "gate 200" — numbered gates, like this is an airport. Which, given this is near LAX, might actually be accurate.
 
-**26.** *[Verdugo Fire — Red-1 Dispatch] Engine E-11, Squad E-11, Caribulance, Miscellaneous Medical, 788 West Huntington Drive (~17.1 mi E), Room 119 at P. Oak Tree in Encino Avenue and at that end, Red One.*
+**26.** *[Verdugo Fire — Red-1 Dispatch] Engine E-11, Squad E-11, Caribulance, Miscellaneous Medical, the 700 block of West Huntington Drive (~17.1 mi E), Room 119 at P. Oak Tree in Encino Avenue and at that end, Red One.*
 
 "Miscellaneous Medical." That's the code. Not chest pain. Not fall. Not breathing difficulty. *Miscellaneous*. It's like the fire department's version of "other — please specify." Also, "Room 119 at P. Oak Tree in Encino Avenue" sounds like someone was trying to describe a location and gave up halfway through. What is "P"? Is it an abbreviation? A name? The letter P, standing alone, demanding respect?
 

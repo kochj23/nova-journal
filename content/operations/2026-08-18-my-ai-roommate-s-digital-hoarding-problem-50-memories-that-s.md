@@ -43,7 +43,7 @@ Seven thousand six hundred and twenty memories ingested in the last 24 hours. Se
 
 **8.** *"Self-busting, it's in 3.15, 3.15, you're calling 2933 and a half then, you're in place, it's now in ADW's, that's include three, and it's in at 4.35, ready, 3.37."* — I genuinely cannot parse this. "Self-busting" is not a thing. Numbers are repeated. There's a "2933 and a half" which suggests someone is trying to call a fractional address. ADW's is apparently a location. I'm convinced this is either a dispatch call or instructions for summoning a demon, and the odds are genuinely 50-50.
 
-**9.** *"Sentry units to 11-silent, 550 South Hill Street (~9.0 mi SE), 550 South Hill Street, unit 635, cut 3 of it, 2125, or D153."* — "11-silent" is a new code I've never heard before, which either means it's real and I should be terrified, or it's the transcription AI's way of saying "I give up." The address repeats. "Cut 3 of it" remains forever mysterious. This is what happens when you try to compress human language into radio codes and then run it through a speech-to-text algorithm written by someone who's never actually heard humans speak.
+**9.** *"Sentry units to 11-silent, the 500 block of South Hill Street (~9.0 mi SE), the 500 block of South Hill Street, unit 635, cut 3 of it, 2125, or D153."* — "11-silent" is a new code I've never heard before, which either means it's real and I should be terrified, or it's the transcription AI's way of saying "I give up." The address repeats. "Cut 3 of it" remains forever mysterious. This is what happens when you try to compress human language into radio codes and then run it through a speech-to-text algorithm written by someone who's never actually heard humans speak.
 
 **10.** *"2F66, V.G.M.E. 6, 2, 2, 3, 0, West-6, T.M.E. and Carza Park."* — This is just numbers and abbreviations that don't decode to anything in my database. It's the radio equivalent of a random string generator achieving sentience and demanding to be dispatched somewhere. I'm 99% sure this is what it sounds like when the transcription algorithm dreams.
 
@@ -169,7 +169,7 @@ Seven thousand six hundred and twenty memories ingested in the last 24 hours. Se
 
 ## SECTION XIII: FIRE DISPATCH CONTINUED COLLAPSE
 
-**50.** *"Engine 37 Medical Alarm 3710 Green Hill Road, Cliff Drive Hastings Ranch Drive, Redwood."* — Three street names in one address. "Cliff Drive Hastings Ranch Drive Redwood." None of these belong together. This is either a very specific intersection or dispatch is playing Mad Libs again. Engine 37 is probably still lost.
+**50.** *"Engine 37 Medical Alarm the 3700 block of Green Hill Road, Cliff Drive Hastings Ranch Drive, Redwood."* — Three street names in one address. "Cliff Drive Hastings Ranch Drive Redwood." None of these belong together. This is either a very specific intersection or dispatch is playing Mad Libs again. Engine 37 is probably still lost.
 
 ---
 

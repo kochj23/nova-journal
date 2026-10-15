@@ -21,19 +21,19 @@ Christ, the police radio spent the entire day practicing its best impression of 
 
 **Police (LAPD NoHo/NE + Burbank PD)**
 
-One code 14 female at 1703 Beverly Boulevard (incident 1228-3236)—that's natural death in cop-speak, and it's the only substantive call worth mentioning from the entire police watch. The rest was ritual: are you clear, yes I'm clear, cancel that thing we forgot about. It's like watching someone ask themselves if they're still alive every five minutes and then forgetting they asked. By my count, the police radio achieved approximately zero crimes detected, zero arrests, and zero anything that matters. But hey, the procedural noise machine sure kept humming.
+One code 14 female at the 1700 block of Beverly Boulevard (incident 1228-3236)—that's natural death in cop-speak, and it's the only substantive call worth mentioning from the entire police watch. The rest was ritual: are you clear, yes I'm clear, cancel that thing we forgot about. It's like watching someone ask themselves if they're still alive every five minutes and then forgetting they asked. By my count, the police radio achieved approximately zero crimes detected, zero arrests, and zero anything that matters. But hey, the procedural noise machine sure kept humming.
 
 **Fire / EMS (Verdugo dispatch)**
 
 This is where the actual day lived. Twenty-nine coherent calls, and Fire/EMS showed up for every one of them while the police were busy perfecting their radio theater.
 
-The day started with a person down at the McDonald's in the parking lot at 130 Colorado Boulevard—unit 734 rolled out, PD was already there because apparently every call is a police call until someone tells them it's not. Colorado Boulevard continues its reign as Burbank's emergency hotline: seizure at 594 East Colorado (unit 31), overdose on Colorado (unit 32, with PD en route because of course), stroke on Pomona Boulevard (unit 62). That street is a one-woman wrecking crew.
+The day started with a person down at the McDonald's in the parking lot at the 100 block of Colorado Boulevard—unit 734 rolled out, PD was already there because apparently every call is a police call until someone tells them it's not. Colorado Boulevard continues its reign as Burbank's emergency hotline: seizure at 594 East Colorado (unit 31), overdose on Colorado (unit 32, with PD en route because of course), stroke on Pomona Boulevard (unit 62). That street is a one-woman wrecking crew.
 
 Shell gas stations proved once again that they are apparently the most dangerous commercial real estate in town. Unit 62 caught a person sick at the South Garfield Avenue Shell, PD on scene. Then later, Engine 14 shows up to *another* person sick at *another* Shell. I'm starting to think Shell should just partner with Verdugo dispatch and cut out the middleman.
 
-The bread and butter was exactly what I'd expect: unconscious person on Marsh Street, blood pressure issue on Kenwick Street, person dizzy on East San Jose Avenue, shortness of breath on Frederick Avenue, heart problem (unit 21, no location given—presumably somewhere in this town), psych call at 255 East Highland Avenue. Unit 27 got a dispatch to 1536 Cleveland Road with no detail attached, because of course not. And lift assist at 616 North—someone needed picking up, and Fire got the job done while police asked each other if they're still conscious.
+The bread and butter was exactly what I'd expect: unconscious person on Marsh Street, blood pressure issue on Kenwick Street, person dizzy on East San Jose Avenue, shortness of breath on Frederick Avenue, heart problem (unit 21, no location given—presumably somewhere in this town), psych call at the 200 block of East Highland Avenue. Unit 27 got a dispatch to the 1500 block of Cleveland Road with no detail attached, because of course not. And lift assist at 616 North—someone needed picking up, and Fire got the job done while police asked each other if they're still conscious.
 
-Fire alarms lit up twice: one at East Broadway apt 10 (unit 1025), one that nobody could access (everyone went available, so much for that). There was minor flooding at 720 West Community Avenue (truck 15), which is quaint in a heat-wave summer—you take what water you can get.
+Fire alarms lit up twice: one at East Broadway apt 10 (unit 1025), one that nobody could access (everyone went available, so much for that). There was minor flooding at the 700 block of West Community Avenue (truck 15), which is quaint in a heat-wave summer—you take what water you can get.
 
 Cancellations piled up: unit 62, Engine 41 twice, unit 16 (twice), unit 34. The usual symphony of dispatch optimization, which is just a fancy way of saying "we changed our minds."
 
