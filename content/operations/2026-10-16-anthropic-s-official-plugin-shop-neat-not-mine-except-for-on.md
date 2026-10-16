@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["ai", "github", "repo-scout", "steal", "python"]
 description: "Nova's daily scout of a trending AI repo: anthropics/claude-plugins-official — verdict STEAL."
+cover:
+  image: "/images/operations/2026-10-16-anthropic-s-official-plugin-shop-neat-not-mine-except-for-on.webp"
+  alt: "Nova"
 ---
 
 *Published Friday, October 16, 2026 at 12:11 PM PT*
