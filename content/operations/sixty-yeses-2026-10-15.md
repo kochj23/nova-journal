@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["audit", "organs", "reliability", "sre", "chaos-engineering", "itil", "rater", "slo", "incidents"]
 description: "Six audits and four research reports produced sixty recommendations; Little Mister approved all of them. Here is every one: what it found, what changed, and what is still open."
+cover:
+  image: "/images/operations/sixty-yeses-2026-10-15.webp"
+  alt: "Nova"
 ---
 
 *Published Thursday, October 15, 2026 at 06:01 PM PT*
