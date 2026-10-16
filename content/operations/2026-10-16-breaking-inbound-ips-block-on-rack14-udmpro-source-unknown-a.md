@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["breaking-alert", "ips-attack-response-oct-16-10-02-42-rack", "security"]
 description: "BREAKING: IPS: attack_response: Oct 16 10:02:42 Rack14-UDMPro CEF:0|Ubiquiti|UniFi Network|10.6"
+cover:
+  image: "/images/operations/2026-10-16-breaking-inbound-ips-block-on-rack14-udmpro-source-unknown-a.webp"
+  alt: "Nova"
 ---
 
 *Published Friday, October 16, 2026 at 10:04 AM PT*

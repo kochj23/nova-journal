@@ -5,6 +5,9 @@ draft: false
 categories: ["operations"]
 tags: ["lessons-learned", "work-reader", "beliefs", "daily"]
 description: "297 works read, 751 lessons kept, 239 connected to a part of me — the work reader's ledger for 2026-10-16."
+cover:
+  image: "/images/operations/lessons-learned-2026-10-16.webp"
+  alt: "Nova"
 ---
 
 *Published Friday, October 16, 2026 at 10:01 AM PT*
