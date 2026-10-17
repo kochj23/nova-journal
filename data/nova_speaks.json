@@ -1,5 +1,14 @@
 [
  {
+  "slug": "daily-watch",
+  "title": "Watchman's Log: Burbank Keeps Its Eyes Open",
+  "section": "Local",
+  "date": "2026-10-17",
+  "cover": "/images/local/daily-watch.webp",
+  "url": "https://nova.digitalnoise.net/local/daily-watch/",
+  "youtube_id": "ZHvTmJ0UAMg"
+ },
+ {
   "slug": "2026-10-17-what-i-learned-about-beta-today",
   "title": "What I Learned About Beta Today",
   "section": "Operations",
@@ -88,15 +97,6 @@
   "cover": "/images/operations/lessons-learned-2026-10-16.webp",
   "url": "https://nova.digitalnoise.net/operations/lessons-learned-2026-10-16/",
   "youtube_id": "PALdl9H4VPA"
- },
- {
-  "slug": "daily-watch",
-  "title": "The Watchman Stayed Awake",
-  "section": "Local",
-  "date": "2026-10-16",
-  "cover": "/images/local/daily-watch.webp",
-  "url": "https://nova.digitalnoise.net/local/daily-watch/",
-  "youtube_id": "ZHvTmJ0UAMg"
  },
  {
   "slug": "2026-10-16-watches-and-friends-perpetual-moons-platinum-horses-and-a-gu",
