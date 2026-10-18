@@ -115,7 +115,7 @@ menu:
       url: /opinions/
       weight: 25
     - identifier: watches
-      name: Watches
+      name: Watches and Friends
       url: /watches/
       weight: 26
     - identifier: tech-today
