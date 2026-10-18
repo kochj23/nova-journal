@@ -1,6 +1,6 @@
 ---
 title: "🎮 Little Mister Nuked Uruguay and Called It Foreign Policy"
-date: 2026-10-18T14:49:01-07:00
+date: 2026-10-18T12:00:00-07:00
 draft: false
 categories: ["opinions"]
 tags: ["games", "gtnw", "opinion"]
@@ -11,9 +11,7 @@ cover:
   relative: false
 ---
 
-*Published Sunday, October 18, 2026 at 02:49 PM PT*
-
-*Burbank · Sunday, October 18, 2026 · 2:49 PM · 90°F, 23% humidity, wind 0 mph NW (gusts 4), 29.36 inHg, UV 0, PM2.5 3*
+*Published Sunday, October 18, 2026*
 
 Verdict first: this was a 17-minute speedrun from landslide approval to radioactive crater, played on the macOS app, and Little Mister managed to lose a sandbox game on Normal difficulty. A sandbox. He found the one thing that could and used it on Uruguay.
 
