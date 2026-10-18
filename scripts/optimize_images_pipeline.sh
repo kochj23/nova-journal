@@ -62,8 +62,12 @@ while IFS= read -r -d '' webp_file; do
     # Skip if thumbnail exists and is newer
     [[ -f "$thumb_file" && "$thumb_file" -nt "$webp_file" ]] && continue
 
+    # ponytail: one bad image must not fail the whole deploy (a 0-byte cover broke it 2026-10-18)
+    [[ -s "$webp_file" ]] || { echo "WARN: skipping empty image ${webp_file#$REPO_ROOT/}"; continue; }
+
     # Generate 600px wide thumbnail
-    cwebp -q 75 -resize 600 0 "$webp_file" -o "$thumb_file" -quiet 2>/dev/null
+    cwebp -q 75 -resize 600 0 "$webp_file" -o "$thumb_file" -quiet 2>/dev/null \
+        || { echo "WARN: thumbnail failed for ${webp_file#$REPO_ROOT/}"; continue; }
     THUMB_COUNT=$((THUMB_COUNT + 1))
 done < <(find "$IMAGES_DIR" -name "*.webp" -type f -print0 2>/dev/null)
 echo "Generated ${THUMB_COUNT} thumbnails"
