@@ -88,8 +88,8 @@ const el = (tag, cls, text) => {
 const renderResults = (items, total) => {
     resList.innerHTML = '';
     firstResult = lastResult = null;
-    if (status) status.textContent = total === null ? '' : `${total} match${total === 1 ? '' : 'es'}` +
-        (total > items.length ? ` — showing ${items.length}` : '');
+    if (status) status.textContent = total === null ? '' : total === 0 ? 'No matches.' :
+        `${total} match${total === 1 ? '' : 'es'}` + (total > items.length ? ` — showing ${items.length}` : '');
     if (!items.length) return;
     const fragment = document.createDocumentFragment();
     for (const item of items) {
@@ -126,7 +126,7 @@ const performSearch = () => {
         renderResults([], null);
         return;
     }
-    renderResults(items.slice(0, LIMIT), filtered || !query ? items.length : null);
+    renderResults(items.slice(0, LIMIT), filtered || !query || !items.length ? items.length : null);
 };
 
 const initSearch = async () => {
