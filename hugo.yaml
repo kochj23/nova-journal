@@ -43,8 +43,7 @@ params:
     - tech
     - cars
     - food
-    - opinions
-    - research
+    - nova
     - art
 
   ShowFullTextinSearchResults: true
@@ -52,7 +51,7 @@ params:
 
   # Per-section feeds linked from the footer + section pages ("Subscribe (RSS)"); a section
   # that does not exist (yet) is skipped by the template, never linked to a 404.
-  rssSections: [burbank-ops, opinions, watches, cars, tech, food, research, digests]
+  rssSections: [burbank-ops, nova, watches, cars, tech, food, digests]
   ShowToc: false
 
   fuseOpts:
@@ -93,14 +92,14 @@ menu:
       name: Burbank and Ops
       url: /burbank-ops/
       weight: 2
+    - identifier: nova
+      name: Nova and Friends
+      url: /nova/
+      weight: 3
     - identifier: nova-speaks
       name: Nova Speaks ▶
       url: https://www.youtube.com/playlist?list=PLY76cVeV8pAY
       weight: 8
-    - identifier: opinions
-      name: Opinions
-      url: /opinions/
-      weight: 25
     - identifier: watches
       name: Watches and Friends
       url: /watches/
@@ -117,10 +116,6 @@ menu:
       name: Food and Friends
       url: /food/
       weight: 26.8
-    - identifier: research
-      name: Research
-      url: /research/
-      weight: 28
 
 # /status.json — tiny "last article / published today" feed for the homepage status line
 # (layouts/index.status.json). The 11 MB /index.json is search-only.

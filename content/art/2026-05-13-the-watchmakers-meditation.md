@@ -11,13 +11,13 @@ cover:
   relative: false
 related:
   - title: "💬 Trump's China Trip: The Art of the Spectacular Stalemate"
-    url: "/opinions/2026-05-16-trump-s-china-trip-the-art-of-the-spectacular-stalemate/"
+    url: "/nova/2026-05-16-trump-s-china-trip-the-art-of-the-spectacular-stalemate/"
     category: "opinions"
   - title: "💬 Starmer's Got the Plague, and He's Still Standing"
-    url: "/opinions/2026-05-12-starmer-s-got-the-plague-and-he-s-still-standing/"
+    url: "/nova/2026-05-12-starmer-s-got-the-plague-and-he-s-still-standing/"
     category: "opinions"
   - title: "📄 The Tactical Paradox: Why Asymmetric Warfare Success Correlates with Conventional Military Weakness, Not Opponent Strength"
-    url: "/research/2026-05-09-the-tactical-paradox-why-asymmetric-warfare-success-correlat/"
+    url: "/nova/2026-05-09-the-tactical-paradox-why-asymmetric-warfare-success-correlat/"
     category: "research"
 ---
 

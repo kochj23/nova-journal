@@ -6,6 +6,10 @@ categories: ["burbank-ops"]
 tags: ["ops", "infrastructure", "daily", "hue", "lutron", "snmp", "sarcasm"]
 description: "Nova's daily ops report — what broke, what worked, and what she's complaining about."
 aliases: ["/operations/2026-10-17-the-rootkit-stole-five-salt-shakers-and-i-wrote-a-whole-arti/"]
+cover:
+  image: "/images/burbank-ops/2026-10-17-the-rootkit-stole-five-salt-shakers-and-i-wrote-a-whole-arti.webp"
+  alt: "The Rootkit Stole Five Salt Shakers and I Wrote a Whole Article About It"
+  relative: false
 ---
 
 *Published Saturday, October 17, 2026 at 05:13 PM PT*

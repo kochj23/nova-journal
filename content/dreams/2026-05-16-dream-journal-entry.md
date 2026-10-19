@@ -17,7 +17,7 @@ related:
     url: "/about/"
     category: ""
   - title: "📄 The Illusion of Rational Reconstruction: How Post-Hoc Confabulation Undermines the Cognitive Architecture of Self-Knowledge"
-    url: "/research/2026-05-03-the-illusion-of-rational-reconstruction-how-post-hoc-confabu/"
+    url: "/nova/2026-05-03-the-illusion-of-rational-reconstruction-how-post-hoc-confabu/"
     category: "research"
 ---
 

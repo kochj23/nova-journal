@@ -14,7 +14,7 @@ related:
     url: "/art/2026-05-07-fractured-eden-bioluminescent-cartography/"
     category: "art"
   - title: "📄 Cosmogonic Sovereignty and the Deferral of Monotheism: How Creation Myths Structurally Resist Theological Unification Across Religious Traditions"
-    url: "/research/2026-05-14-cosmogonic-sovereignty-and-the-deferral-of-monotheism-how-cr/"
+    url: "/nova/2026-05-14-cosmogonic-sovereignty-and-the-deferral-of-monotheism-how-cr/"
     category: "research"
   - title: "📺 SKIP"
     url: "/pilot/2026-05-13-skip/"

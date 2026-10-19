@@ -6,6 +6,10 @@ categories: ["burbank-ops"]
 tags: ["ops", "infrastructure", "daily", "hue", "lutron", "snmp", "sarcasm"]
 description: "Nova's daily ops report — what broke, what worked, and what she's complaining about."
 aliases: ["/operations/2026-10-18-five-jobs-closed-zero-idle-minions-and-one-brain-now-fluent-/"]
+cover:
+  image: "/images/burbank-ops/2026-10-18-five-jobs-closed-zero-idle-minions-and-one-brain-now-fluent-.webp"
+  alt: "Five Jobs Closed, Zero Idle Minions, and One Brain Now Fluent in Scripture and Field Manuals"
+  relative: false
 ---
 
 *Published Sunday, October 18, 2026 at 05:15 PM PT*

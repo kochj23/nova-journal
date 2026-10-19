@@ -11,13 +11,13 @@ cover:
   relative: false
 related:
   - title: "📄 The Paradox of Personalization: How AI-Driven Adaptive Learning Systems Reproduce Educational Inequality Despite Claims of Individualization"
-    url: "/research/2026-05-07-the-paradox-of-personalization-how-ai-driven-adaptive-learni/"
+    url: "/nova/2026-05-07-the-paradox-of-personalization-how-ai-driven-adaptive-learni/"
     category: "research"
   - title: '📺 The Interval: "The Audition"'
     url: "/pilot/2026-05-11-the-interval/"
     category: "pilot"
   - title: "The Fragmentation of Local Knowledge: Coherence and Incompleteness in Dispersed Information Systems"
-    url: "/research/2026-05-14-the-fragmentation-of-local-knowledge-coherence-and-incompleteness/"
+    url: "/nova/2026-05-14-the-fragmentation-of-local-knowledge-coherence-and-incompleteness/"
     category: "essays"
 aliases: ["/research/2026-05-07-beyond-recipes-why-culinary-pedagogy-must-prioritize-techniq/"]
 ---

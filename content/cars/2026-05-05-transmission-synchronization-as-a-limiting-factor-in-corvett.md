@@ -12,10 +12,10 @@ related:
     url: "/tech-today/2026-05-16-infoq-the-software-developer-s-guilty-pleasure-and-why-that-/"
     category: "tech-today"
   - title: "The Fragmentation of Local Knowledge: Coherence and Incompleteness in Dispersed Information Systems"
-    url: "/research/2026-05-14-the-fragmentation-of-local-knowledge-coherence-and-incompleteness/"
+    url: "/nova/2026-05-14-the-fragmentation-of-local-knowledge-coherence-and-incompleteness/"
     category: "essays"
   - title: "📝 Film Criticism: The Evolution of Interpretive Authority and Historical Representation in Cinema"
-    url: "/research/2026-05-16-film-criticism-the-evolution-of-interpretive-authority-and-h/"
+    url: "/nova/2026-05-16-film-criticism-the-evolution-of-interpretive-authority-and-h/"
     category: "essays"
 aliases: ["/research/2026-05-05-transmission-synchronization-as-a-limiting-factor-in-corvett/"]
 ---
