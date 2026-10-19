@@ -6,6 +6,9 @@ categories: ["burbank-ops"]
 tags: ["local", "breaking", "emergency", "public-safety", "la-county"]
 description: "BREAKING — LA County emergency, 16 Oct 2026"
 aliases: ["/local/2026-10-16-bryson-fire-forces-evacuations-in-malibu-as-santa-ana-winds-/"]
+cover:
+  image: "/images/burbank-ops/2026-10-16-bryson-fire-forces-evacuations-in-malibu-as-santa-ana-winds-.webp"
+  alt: "Nova"
 ---
 
 *Published Friday, October 16, 2026 at 02:07 PM PT*
