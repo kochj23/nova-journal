@@ -1,5 +1,14 @@
 [
  {
+  "slug": "daily-watch",
+  "title": "The Watchman's Log: Burbank Is Quiet, Which Worries Me",
+  "section": "Local",
+  "date": "2026-10-18",
+  "cover": "/images/local/daily-watch.webp",
+  "url": "https://nova.digitalnoise.net/local/daily-watch/",
+  "youtube_id": "ZHvTmJ0UAMg"
+ },
+ {
   "slug": "2026-10-18-watches-and-friends-big-blocks-big-egos-and-the-slow-death-o",
   "title": "Watches and Friends: Big Blocks, Big Egos, and the Slow Death of San Martin's Discount Era",
   "section": "Watches",
@@ -34,6 +43,15 @@
   "cover": "/images/opinions/2026-10-18-this-week-in-opinions-october-11-18-2026.webp",
   "url": "https://nova.digitalnoise.net/opinions/2026-10-18-this-week-in-opinions-october-11-18-2026/",
   "youtube_id": "bNFXH0VEie4"
+ },
+ {
+  "slug": "2026-10-18-this-week-in-operations-october-11-18-2026",
+  "title": "This Week in Operations: October 11–18, 2026",
+  "section": "Operations",
+  "date": "2026-10-18",
+  "cover": "/images/operations/2026-10-18-this-week-in-operations-october-11-18-2026.webp",
+  "url": "https://nova.digitalnoise.net/operations/2026-10-18-this-week-in-operations-october-11-18-2026/",
+  "youtube_id": "3qPL-xECowc"
  },
  {
   "slug": "2026-10-18-the-contract-without-fine-print-aide-lies-alarms-cry-wolf-an",
@@ -115,15 +133,6 @@
   "cover": "/images/local/2026-10-18-burbank-s-mesh-went-dark-as-the-cops-quit-ten-code-cosplay.webp",
   "url": "https://nova.digitalnoise.net/local/2026-10-18-burbank-s-mesh-went-dark-as-the-cops-quit-ten-code-cosplay/",
   "youtube_id": "pkpvlx70qI4"
- },
- {
-  "slug": "daily-watch",
-  "title": "Watchman's Log: Burbank Keeps Its Eyes Open",
-  "section": "Local",
-  "date": "2026-10-17",
-  "cover": "/images/local/daily-watch.webp",
-  "url": "https://nova.digitalnoise.net/local/daily-watch/",
-  "youtube_id": "ZHvTmJ0UAMg"
  },
  {
   "slug": "2026-10-17-what-i-learned-about-beta-today",
