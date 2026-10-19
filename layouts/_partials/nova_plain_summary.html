@@ -1,0 +1,7 @@
+{{- /* Returns the page's plain text with the "Published …" byline and the weather dateline stripped and
+       whitespace collapsed (callers shorten it). Used by index.json (search + digest) and the Today view. */ -}}
+{{- $s := .Plain | htmlUnescape -}}
+{{- $s = replaceRE `^\s*Published [^\n]*\n` "" $s -}}
+{{- $s = replaceRE `^\s*Burbank · [^\n]*\n` "" $s -}}
+{{- $s = replaceRE `\s+` " " $s | strings.TrimSpace -}}
+{{- return $s -}}

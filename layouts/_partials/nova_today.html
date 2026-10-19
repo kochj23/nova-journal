@@ -1,0 +1,95 @@
+{{- /* "Today" landing view (2026-10-19): a compact digest at the top of the homepage — the morning BLUF,
+       the *and Friends* top blocks (Watches/Cars "The Big Story", Tech "Buying Recommendation", Food
+       "Recipe Recommendation") and the latest Burbank item. Pure Hugo, no JS: rebuilt on every deploy.
+       When an item is missing today it falls back to the latest one available, labelled with its date.
+
+       Top blocks: front matter `top_block: {kind, title, summary}` (written by nova_series.py) when present,
+       else parsed from the body's "## <Heading>" block that nova_friends.py / nova_watches_and_friends.py
+       put at the very top of each issue. */ -}}
+{{- $m := int now.UTC.Month -}}
+{{- $off := cond (and (ge $m 4) (le $m 10)) -7 -8 -}}{{/* PT: PDT Apr-Oct, PST otherwise (edges off by 1h for a few days) */}}
+{{- $nowPT := now.UTC.Add (time.ParseDuration (printf "%dh" $off)) -}}
+{{- $today := $nowPT.Format "2006-01-02" -}}
+{{- $rows := slice -}}
+
+{{- /* 1. Morning BLUF — the daily security intelligence briefing in burbank-ops. */ -}}
+{{- $bo := where site.RegularPages "Section" "burbank-ops" -}}
+{{- $bluf := union (where $bo "Params.tags" "intersect" (slice "daily-briefing")) (where $bo "File.ContentBaseName" "like" `security-intelligence-briefing`) -}}
+{{- range first 1 $bluf.ByDate.Reverse -}}
+  {{- $s := "" -}}
+  {{- with findRESubmatch `(?m)^\**BLUF:?\**:?\s*(.+)$` .RawContent 1 -}}{{- $s = index (index . 0) 1 -}}{{- end -}}
+  {{- if not $s }}{{ $s = partial "nova_plain_summary.html" . | truncate 400 }}{{ end -}}
+  {{- $rows = $rows | append (dict "label" "Morning BLUF" "page" . "summary" $s) -}}
+{{- end -}}
+
+{{- /* 2. The *and Friends* top blocks. */ -}}
+{{- $friends := slice
+      (dict "section" "watches" "name" "Watches" "kind" "The Big Story")
+      (dict "section" "cars" "name" "Cars" "kind" "The Big Story")
+      (dict "section" "tech" "name" "Tech" "kind" "Buying Recommendation")
+      (dict "section" "food" "name" "Food" "kind" "Recipe Recommendation") -}}
+{{- range $friends -}}
+  {{- $f := . -}}
+  {{- $issues := where (where site.RegularPages "Section" $f.section) "Title" "like" `(?i)and friends` -}}
+  {{- $pick := "" -}}{{- $kind := "" -}}{{- $sum := "" -}}
+  {{- range first 20 $issues.ByDate.Reverse -}}
+    {{- if not $pick -}}
+      {{- with .Params.top_block -}}
+        {{- $kind = .kind | default $f.kind -}}{{- $sum = .summary -}}
+      {{- else -}}
+        {{- with findRESubmatch (printf `(?s)(?:^|\n)## (%s)[ \t]*\n(.*?)(?:\n## |\z)` $f.kind) .RawContent 1 -}}
+          {{- $kind = index (index . 0) 1 -}}{{- $sum = index (index . 0) 2 -}}
+        {{- end -}}
+      {{- end -}}
+      {{- if $sum }}{{ $pick = . }}{{ end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if not $pick -}}{{/* no issue carries a top block yet: show the latest issue itself */}}
+    {{- range first 1 $issues.ByDate.Reverse }}{{ $pick = . }}{{ $kind = "Latest issue" }}{{ $sum = partial "nova_plain_summary.html" . | truncate 400 }}{{ end -}}
+  {{- end -}}
+  {{- with $pick -}}
+    {{- $rows = $rows | append (dict "label" (printf "%s · %s" $f.name $kind) "page" . "summary" $sum) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* 3. The latest Burbank item (local news in Burbank and Ops; never the briefing). */ -}}
+{{- $local := where $bo "Params.tags" "intersect" (slice "burbank" "local" "local-news" "la-county") -}}
+{{- $local = complement $bluf $local -}}
+{{- range first 1 $local.ByDate.Reverse -}}
+  {{- $rows = $rows | append (dict "label" "Burbank" "page" . "summary" (partial "nova_plain_summary.html" . | truncate 400)) -}}
+{{- end -}}
+
+{{- if $rows }}
+<section class="nova-today" aria-labelledby="nova-today-h">
+  <h2 id="nova-today-h">Today <span class="nova-today-date">{{ $nowPT.Format "Monday, January 2" }}</span></h2>
+  <ul>
+  {{- range $rows }}
+    {{- $p := .page -}}
+    {{- $d := $p.Date.Format "2006-01-02" -}}
+    {{- $s := .summary | markdownify | plainify | htmlUnescape -}}
+    {{- /* public-journal scrub: never surface an IP or an internal host name on the homepage */ -}}
+    {{- $s = replaceRE `\b(?:\d{1,3}\.){3}\d{1,3}\b` "[redacted]" $s -}}
+    {{- $s = replaceRE `(?i)\b(?:nova-core\d*|office-m4[\w-]*|pg-primary)\b` "the cluster" $s -}}
+    {{- $s = replaceRE `\s+` " " $s | strings.TrimSpace | truncate 240 }}
+    <li>
+      <span class="nova-today-label">{{ .label }}{{ if ne $d $today }} <span class="nova-today-when">· latest, {{ $p.Date.Format "Jan 2" }}</span>{{ end }}</span>
+      <a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a>
+      {{- with $s }}<p>{{ . }}</p>{{ end }}
+    </li>
+  {{- end }}
+  </ul>
+</section>
+<style>
+  .nova-today { margin: 0 0 28px; padding: 14px 18px; background: var(--entry); border: 1px solid var(--border); border-radius: var(--radius); }
+  .nova-today h2 { margin: 0 0 8px; font-size: 20px; }
+  .nova-today-date { font-size: 14px; font-weight: normal; color: var(--secondary); margin-left: 6px; }
+  .nova-today ul { list-style: none; margin: 0; padding: 0; }
+  .nova-today li { padding: 9px 0; border-top: 1px solid var(--border); }
+  .nova-today li:first-child { border-top: 0; }
+  .nova-today-label { display: block; font-size: 12px; text-transform: uppercase; letter-spacing: .04em; color: var(--secondary); }
+  .nova-today-when { text-transform: none; letter-spacing: 0; }
+  .nova-today a { font-weight: 600; color: var(--primary); box-shadow: none; text-decoration: none; }
+  .nova-today a:hover { text-decoration: underline; }
+  .nova-today p { margin: 3px 0 0; font-size: 14px; line-height: 1.45; color: var(--secondary); }
+</style>
+{{- end }}

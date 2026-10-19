@@ -1,0 +1,61 @@
+{{- define "main" }}
+{{- /* Project override of PaperMod's search.html (2026-10-19): adds Section + Date filters.
+       The index is the slim /index.json (title, url, section, date, ~300-char summary);
+       assets/js/fastsearch.js reads ?q= / ?section= / ?days= / ?from= / ?to= so the homepage
+       search box (GET /search/?q=…) and shared links land on a filled-in search. */}}
+
+<header class="page-header">
+    <h1>{{- (printf "%s&nbsp;" .Title ) | htmlUnescape -}}
+        <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none"
+            stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="11" cy="11" r="8"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+    </h1>
+    {{- if .Description }}
+    <div class="post-description">
+        {{ .Description }}
+    </div>
+    {{- end }}
+</header>
+
+<div id="searchbox" class="searchbox">
+    <input id="searchInput" disabled placeholder="{{ .Params.placeholder | default (printf "%s ↵" .Title) }}"
+        aria-label="search" type="search" autocomplete="off" maxlength="64">
+    <div class="nova-search-filters" role="group" aria-label="Search filters">
+        <label>Section
+            <select id="searchSection">
+                <option value="">All sections</option>
+                {{- range site.Sections.ByTitle }}
+                {{- if and .RegularPages (not (in (slice "about" "start-here" "local" "tech-today") .Section)) }}
+                <option value="{{ .Section }}">{{ .Title | plainify }}</option>
+                {{- end }}
+                {{- end }}
+            </select>
+        </label>
+        <label>Date
+            <select id="searchDays">
+                <option value="">Any time</option>
+                <option value="1">Today</option>
+                <option value="7">Past 7 days</option>
+                <option value="30">Past 30 days</option>
+                <option value="365">Past year</option>
+            </select>
+        </label>
+        <label>From <input id="searchFrom" type="date"></label>
+        <label>To <input id="searchTo" type="date"></label>
+    </div>
+    <p id="searchStatus" class="nova-search-status" aria-live="polite"></p>
+    <ul id="searchResults" class="searchResults" aria-label="search results"></ul>
+</div>
+<style>
+  .nova-search-filters { display: flex; flex-wrap: wrap; gap: 8px 14px; margin: 12px 0 4px; font-size: 14px; color: var(--secondary); }
+  .nova-search-filters label { display: flex; align-items: center; gap: 6px; }
+  .nova-search-filters select, .nova-search-filters input { padding: 4px 6px; font-size: 14px; color: var(--primary);
+    background: var(--entry); border: 1px solid var(--border); border-radius: var(--radius); }
+  .nova-search-status { margin: 6px 0 0; font-size: 13px; color: var(--secondary); min-height: 1em; }
+  .searchResults .nova-sr-meta { display: block; margin-top: 2px; font-size: 12px; font-weight: normal; color: var(--secondary); }
+  .searchResults .nova-sr-sum { display: block; margin-top: 4px; font-size: 13px; font-weight: normal; color: var(--secondary); line-height: 1.4; }
+</style>
+
+{{- end }}{{/* end main */}}

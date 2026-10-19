@@ -48,6 +48,11 @@ params:
     - art
 
   ShowFullTextinSearchResults: true
+  ShowRssButtonInSectionTermList: true
+
+  # Per-section feeds linked from the footer + section pages ("Subscribe (RSS)"); a section
+  # that does not exist (yet) is skipped by the template, never linked to a 404.
+  rssSections: [burbank-ops, opinions, watches, cars, tech, food, research, digests]
   ShowToc: false
 
   fuseOpts:
@@ -58,7 +63,7 @@ params:
     threshold: 0.4
     minMatchCharLength: 3
     limit: 20
-    keys: ["title", "permalink", "summary", "content", "tags"]
+    keys: ["title", "summary"]   # slim index (layouts/index.json): title + ~300-char summary
 
   comments: true
 
@@ -139,6 +144,7 @@ outputs:
 taxonomies:
   tag: tags
   category: categories
+  series: series   # running stories; assigned by nova_series.py, rendered as "Previously in this series"
 
 markup:
   goldmark:

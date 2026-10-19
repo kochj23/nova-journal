@@ -1,0 +1,38 @@
+{{- /* "Previously in this series" (2026-10-19): on any article whose front matter has `series: ["<name>"]`
+       (taxonomy `series` in hugo.yaml; assigned by nova_series.py), list the five earlier instalments,
+       link the next one if there is one, and link the whole series page. */ -}}
+{{- range first 1 (.GetTerms "series") -}}
+  {{- $term := . -}}
+  {{- $all := $term.Pages.ByDate -}}
+  {{- $prev := where $all "Date" "lt" $.Date -}}
+  {{- $next := where $all "Date" "gt" $.Date -}}
+  {{- if or $prev $next }}
+<aside class="nova-series" aria-label="Series: {{ $term.LinkTitle }}">
+  <div class="nova-series-head">Previously in <a href="{{ $term.RelPermalink }}">{{ $term.LinkTitle }}</a>
+    <span>({{ len $all }} in the series)</span></div>
+  {{- with $prev }}
+  <ul>
+    {{- range first 5 .Reverse }}
+    <li><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2" }}</time> <a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    {{- end }}
+  </ul>
+  {{- else }}
+  <p>This is the first instalment.</p>
+  {{- end }}
+  {{- range first 1 $next }}
+  <p class="nova-series-next">Next: <a href="{{ .RelPermalink }}">{{ .Title }}</a></p>
+  {{- end }}
+</aside>
+<style>
+  .nova-series { margin: 28px 0 8px; padding: 12px 16px; background: var(--entry); border: 1px solid var(--border);
+    border-left: 3px solid var(--tertiary); border-radius: var(--radius); font-size: 15px; }
+  .nova-series-head { font-weight: 600; margin-bottom: 6px; }
+  .nova-series-head span { font-weight: normal; color: var(--secondary); font-size: 13px; }
+  .nova-series ul { margin: 0; padding-left: 0; list-style: none; }
+  .nova-series li { margin: 3px 0; }
+  .nova-series time { display: inline-block; min-width: 3.6em; color: var(--secondary); font-size: 13px; }
+  .nova-series a { box-shadow: none; }
+  .nova-series p { margin: 6px 0 0; }
+</style>
+  {{- end }}
+{{- end -}}
