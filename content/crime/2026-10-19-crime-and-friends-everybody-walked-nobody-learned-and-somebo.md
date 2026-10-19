@@ -9,6 +9,11 @@ cover:
   image: "/images/crime/2026-10-19-crime-and-friends-everybody-walked-nobody-learned-and-somebo.webp"
   alt: "Crime and Friends: Everybody Walked, Nobody Learned, and Somebody Broke a Television"
   relative: false
+series: ["Crime and Friends"]
+top_block:
+  kind: "🔦 Case of the Day"
+  title: "Ten years of Chicago Outfit prosecution ended on September 10, 2007, with guilty verdicts in the Family Secrets trial."
+  summary: "Ten years of Chicago Outfit prosecution ended on September 10, 2007, with guilty verdicts in the Family Secrets trial. The acting boss was finished, the most feared murder crews were exposed, and decades of buried secrets went into the public record. Then someone read the verdict sheet like a…"
 ---
 
 *Published Monday, October 19, 2026 at 01:28 PM PT*

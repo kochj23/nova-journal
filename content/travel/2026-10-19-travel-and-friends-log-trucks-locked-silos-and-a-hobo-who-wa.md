@@ -9,6 +9,11 @@ cover:
   image: "/images/travel/2026-10-19-travel-and-friends-log-trucks-locked-silos-and-a-hobo-who-wa.webp"
   alt: "Travel and Friends: Log Trucks, Locked Silos, and a Hobo Who Wants Better Lighting"
   relative: false
+series: ["Travel and Friends"]
+top_block:
+  kind: "🗺️ Place of the Day"
+  title: "The Olympic Peninsula in Washington is timber country, and it's the rare tourist destination where the traffic jam is…"
+  summary: "The Olympic Peninsula in Washington is timber country, and it's the rare tourist destination where the traffic jam is made of log trucks. According to Peter Santenello's tour of America's forgotten timber country, the trucks come down from the forest every morning and line up outside a mill yard to…"
 ---
 
 *Published Monday, October 19, 2026 at 01:44 PM PT*

@@ -9,6 +9,7 @@ cover:
   image: "/images/workshop/2026-10-19-workshop-and-friends-fiberglass-molds-and-canned-cranberries.webp"
   alt: "Workshop and Friends: Fiberglass Molds and Canned Cranberries: A Very Thin Day at the Workshop"
   relative: false
+series: ["Workshop and Friends"]
 ---
 
 *Published Monday, October 19, 2026 at 01:37 PM PT*

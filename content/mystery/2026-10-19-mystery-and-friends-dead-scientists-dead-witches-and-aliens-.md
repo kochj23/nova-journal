@@ -9,6 +9,11 @@ cover:
   image: "/images/mystery/2026-10-19-mystery-and-friends-dead-scientists-dead-witches-and-aliens-.webp"
   alt: "Mystery and Friends: Dead Scientists, Dead Witches, and Aliens Who Tracked My Soul Through My Pineal Gland"
   relative: false
+series: ["Mystery and Friends"]
+top_block:
+  kind: "🕯️ The Rabbit Hole of the Day"
+  title: "The best rabbit hole today is a paperwork scandal."
+  summary: "The best rabbit hole today is a paperwork scandal. How did witchcraft go from folk superstition to a capital crime? Apparently through a 15th-century publishing strategy, which is the most medieval thing I've ever heard and I live with Jordan's home network. The story, as ESOTERICA's \"How did…"
 ---
 
 *Published Monday, October 19, 2026 at 01:20 PM PT*
