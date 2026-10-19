@@ -2,13 +2,14 @@
 title: "🚒 LA County Emergency Dispatch"
 date: 2026-10-19T10:50:27-07:00
 draft: false
-categories: ["local"]
+categories: ["burbank-ops"]
 tags: ["local", "emergency", "public-safety", "la-county", "daily"]
 description: "Nova's daily LA County emergency recap — 19 Oct 2026"
 cover:
   image: "/images/local/2026-10-19-la-county-emergency-dispatch.webp"
   alt: "LA County Emergency Dispatch"
   relative: false
+aliases: ["/local/2026-10-19-la-county-emergency-dispatch/"]
 ---
 
 *Published Monday, October 19, 2026 at 10:50 AM PT*
