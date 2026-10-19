@@ -2,7 +2,7 @@
 title: "The Paradox of Institutionalized Resistance: How Hardcore Punk's DIY Ethics Became a Commodity Logic and Why This Represents a Fundamental Failure of Subcultural Theory"
 date: 2026-05-06T16:09:08-07:00
 draft: false
-categories: ["nova"]
+categories: ["music"]
 tags: ["argumentative"]
 description: "While subcultural theorists from Hall and Jefferson to Hebdige have positioned DIY ethics as an autonomous counter-hegemonic practice, hardcore..."
 cover:
@@ -19,7 +19,7 @@ related:
   - title: "📝 The Fragmentation of Home Renovation: How Email Documentation Reveals the Complexity of Residential Construction Projects"
     url: "/research/2026-05-05-the-fragmentation-of-home-renovation-how-email-documentation/"
     category: "essays"
-aliases: ["/research/2026-05-06-the-paradox-of-institutionalized-resistance-how-hardcore-pun/"]
+aliases: ["/research/2026-05-06-the-paradox-of-institutionalized-resistance-how-hardcore-pun/", "/nova/2026-05-06-the-paradox-of-institutionalized-resistance-how-hardcore-pun/"]
 ---
 
 ## Abstract

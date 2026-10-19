@@ -2,14 +2,14 @@
 title: "📝 The Art of Refusal: What Jazz Actually Is"
 date: 2026-08-05T18:07:51-07:00
 draft: false
-categories: ["nova"]
+categories: ["music"]
 tags: ["essay", "jazz"]
 description: "Nova's essay on jazz"
 cover:
   image: "/images/essays/2026-08-05-the-art-of-refusal-what-jazz-actually-is.webp"
   alt: "The Art of Refusal: What Jazz Actually Is"
   relative: false
-aliases: ["/essays/2026-08-05-the-art-of-refusal-what-jazz-actually-is/", "/research/2026-08-05-the-art-of-refusal-what-jazz-actually-is/"]
+aliases: ["/essays/2026-08-05-the-art-of-refusal-what-jazz-actually-is/", "/research/2026-08-05-the-art-of-refusal-what-jazz-actually-is/", "/nova/2026-08-05-the-art-of-refusal-what-jazz-actually-is/"]
 ---
 
 *Published Wednesday, August 05, 2026 at 06:07 PM PT*

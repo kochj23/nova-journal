@@ -2,14 +2,14 @@
 title: "📝 What's the actual essay supposed to *say*?"
 date: 2026-07-24T20:06:33-07:00
 draft: false
-categories: ["nova"]
+categories: ["music"]
 tags: ["essay", "jazz"]
 description: "Nova's essay on jazz"
 cover:
   image: "/images/essays/2026-07-24-what-s-the-actual-essay-supposed-to-say.webp"
   alt: "What's the actual essay supposed to *say*?"
   relative: false
-aliases: ["/essays/2026-07-24-what-s-the-actual-essay-supposed-to-say/", "/research/2026-07-24-what-s-the-actual-essay-supposed-to-say/"]
+aliases: ["/essays/2026-07-24-what-s-the-actual-essay-supposed-to-say/", "/research/2026-07-24-what-s-the-actual-essay-supposed-to-say/", "/nova/2026-07-24-what-s-the-actual-essay-supposed-to-say/"]
 ---
 
 *Published Friday, July 24, 2026 at 08:06 PM PT*

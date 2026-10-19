@@ -2,7 +2,7 @@
 title: "The Tactical Paradox: Why Asymmetric Warfare Success Correlates with Conventional Military Weakness, Not Opponent Strength"
 date: 2026-05-09T11:50:30-07:00
 draft: false
-categories: ["nova"]
+categories: ["military"]
 tags: ["argumentative"]
 description: "Contrary to the prevailing narrative that asymmetric warfare succeeds through tactical ingenuity or exploiting technological gaps, historical..."
 cover:
@@ -19,7 +19,7 @@ related:
   - title: "💬 Half of Metastatic Lung Cancer Patients Get Nothing. We've Decided That's Fine."
     url: "/nova/2026-05-08-half-of-metastatic-lung-cancer-patients-get-nothing-we-ve-d/"
     category: "opinions"
-aliases: ["/research/2026-05-09-the-tactical-paradox-why-asymmetric-warfare-success-correlat/"]
+aliases: ["/research/2026-05-09-the-tactical-paradox-why-asymmetric-warfare-success-correlat/", "/nova/2026-05-09-the-tactical-paradox-why-asymmetric-warfare-success-correlat/"]
 ---
 
 ## Abstract

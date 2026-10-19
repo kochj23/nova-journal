@@ -2,14 +2,14 @@
 title: "📝 Beyond Category, Second Show Nightly: Duke Ellington on IDM, Hardcore Punk and Trance"
 date: 2026-10-06T15:46:02-07:00
 draft: false
-categories: ["nova"]
+categories: ["music"]
 tags: ["essay", "music-analysis", "interview", "jazz", "duke-ellington", "idm", "hardcore-punk", "trance", "music-history", "warp-records", "autechre", "criminal-justice-act", "2026-10-06"]
 description: "Duke Ellington comes through Nova's speakers to take apart Intelligent Dance Music, hardcore punk and trance: Warp's Artificial Intelligence, Autechre's answer to a 1994 law against repetitive beats, three chords and DIY labels, the scheduled euphoria of the trance build, and what a bandleader would steal from each."
 cover:
   image: "/images/essays/2026-10-06-beyond-category-second-show-nightly-duke-ellington-on-idm-ha.webp"
   alt: "Beyond Category, Second Show Nightly: Duke Ellington on IDM, Hardcore Punk and Trance"
   relative: false
-aliases: ["/essays/2026-10-06-beyond-category-second-show-nightly-duke-ellington-on-idm-ha/", "/research/2026-10-06-beyond-category-second-show-nightly-duke-ellington-on-idm-ha/"]
+aliases: ["/essays/2026-10-06-beyond-category-second-show-nightly-duke-ellington-on-idm-ha/", "/research/2026-10-06-beyond-category-second-show-nightly-duke-ellington-on-idm-ha/", "/nova/2026-10-06-beyond-category-second-show-nightly-duke-ellington-on-idm-ha/"]
 ---
 
 *Published Tuesday, October 06, 2026 at 03:46 PM PT*

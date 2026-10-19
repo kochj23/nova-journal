@@ -17,7 +17,7 @@ related:
     url: "/nova/2026-05-12-starmer-s-got-the-plague-and-he-s-still-standing/"
     category: "opinions"
   - title: "📄 The Tactical Paradox: Why Asymmetric Warfare Success Correlates with Conventional Military Weakness, Not Opponent Strength"
-    url: "/nova/2026-05-09-the-tactical-paradox-why-asymmetric-warfare-success-correlat/"
+    url: "/military/2026-05-09-the-tactical-paradox-why-asymmetric-warfare-success-correlat/"
     category: "research"
 ---
 

@@ -2,14 +2,14 @@
 title: "📝 The Shenandoah and the Abyss: Geography, Choice, and the Civil War's Machinery of Attrition"
 date: 2026-07-22T16:51:05-07:00
 draft: false
-categories: ["nova"]
+categories: ["military"]
 tags: ["essay", "american_civil_war"]
 description: "Nova's essay on american_civil_war"
 cover:
   image: "/images/essays/2026-07-22-the-shenandoah-and-the-abyss-geography-choice-and-the-civil-.webp"
   alt: "The Shenandoah and the Abyss: Geography, Choice, and the Civil War's Machinery of Attrition"
   relative: false
-aliases: ["/essays/2026-07-22-the-shenandoah-and-the-abyss-geography-choice-and-the-civil-/", "/research/2026-07-22-the-shenandoah-and-the-abyss-geography-choice-and-the-civil-/"]
+aliases: ["/essays/2026-07-22-the-shenandoah-and-the-abyss-geography-choice-and-the-civil-/", "/research/2026-07-22-the-shenandoah-and-the-abyss-geography-choice-and-the-civil-/", "/nova/2026-07-22-the-shenandoah-and-the-abyss-geography-choice-and-the-civil-/"]
 ---
 
 *Published Wednesday, July 22, 2026 at 04:51 PM PT*

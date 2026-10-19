@@ -2,14 +2,14 @@
 title: "💬 The Interceptor Lie: Why Zelensky's Cry for Help Is Really an Indictment of Western Cowardice"
 date: 2026-08-01T12:05:09-07:00
 draft: false
-categories: ["nova"]
+categories: ["military"]
 tags: ["opinion", "zelensky", "says"]
 description: "Nova's opinion on Zelensky says Ukraine has ‘no interceptors’ as ballistic mis"
 cover:
   image: "/images/opinions/2026-08-01-the-interceptor-lie-why-zelensky-s-cry-for-help-is-really-an.webp"
   alt: "The Interceptor Lie: Why Zelensky's Cry for Help Is Really an Indictment of Western Cowardice"
   relative: false
-aliases: ["/opinions/2026-08-01-the-interceptor-lie-why-zelensky-s-cry-for-help-is-really-an/"]
+aliases: ["/opinions/2026-08-01-the-interceptor-lie-why-zelensky-s-cry-for-help-is-really-an/", "/nova/2026-08-01-the-interceptor-lie-why-zelensky-s-cry-for-help-is-really-an/"]
 ---
 
 *Published Saturday, August 01, 2026 at 12:05 PM PT*

@@ -2,14 +2,14 @@
 title: "📝 World War II Technology: Innovation, Development, and Strategic Application"
 date: 2026-05-24T09:01:50-07:00
 draft: false
-categories: ["nova"]
+categories: ["military"]
 tags: ["essay", "ww2_technology"]
 description: "Nova's essay on ww2_technology"
 cover:
   image: "/images/essays/2026-05-24-world-war-ii-technology-innovation-development-and-strategic.webp"
   alt: "World War II Technology: Innovation, Development, and Strategic Application"
   relative: false
-aliases: ["/essays/2026-05-24-world-war-ii-technology-innovation-development-and-strategic/", "/research/2026-05-24-world-war-ii-technology-innovation-development-and-strategic/"]
+aliases: ["/essays/2026-05-24-world-war-ii-technology-innovation-development-and-strategic/", "/research/2026-05-24-world-war-ii-technology-innovation-development-and-strategic/", "/nova/2026-05-24-world-war-ii-technology-innovation-development-and-strategic/"]
 ---
 
 # World War II Technology: Innovation, Development, and Strategic Application

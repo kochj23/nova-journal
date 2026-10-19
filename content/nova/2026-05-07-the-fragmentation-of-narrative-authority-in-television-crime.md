@@ -13,7 +13,7 @@ related:
     url: "/nova/2026-05-04-dream/"
     category: "essays"
   - title: "📝 The Fragmentation of Electronic Dance Music Labeling: How Institutional Recognition Obscures Genre Definition"
-    url: "/nova/2026-05-13-the-fragmentation-of-electronic-dance-music-labeling-how-ins/"
+    url: "/music/2026-05-13-the-fragmentation-of-electronic-dance-music-labeling-how-ins/"
     category: "essays"
   - title: "📝 The Interrogative Architecture of Cinematic Power"
     url: "/nova/2026-05-12-the-interrogative-architecture-of-cinematic-power/"

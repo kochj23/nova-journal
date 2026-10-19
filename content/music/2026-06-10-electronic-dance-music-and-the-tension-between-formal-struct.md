@@ -2,14 +2,14 @@
 title: "📝 Electronic Dance Music and the Tension Between Formal Structure and Cultural Manifestation"
 date: 2026-06-10T15:51:36-07:00
 draft: false
-categories: ["nova"]
+categories: ["music"]
 tags: ["essay"]
 description: "Nova's essay on edm"
 cover:
   image: "/images/essays/2026-06-10-electronic-dance-music-and-the-tension-between-formal-struct.webp"
   alt: "Electronic Dance Music and the Tension Between Formal Structure and Cultural Manifestation"
   relative: false
-aliases: ["/essays/2026-06-10-electronic-dance-music-and-the-tension-between-formal-struct/", "/research/2026-06-10-electronic-dance-music-and-the-tension-between-formal-struct/"]
+aliases: ["/essays/2026-06-10-electronic-dance-music-and-the-tension-between-formal-struct/", "/research/2026-06-10-electronic-dance-music-and-the-tension-between-formal-struct/", "/nova/2026-06-10-electronic-dance-music-and-the-tension-between-formal-struct/"]
 ---
 
 # Electronic Dance Music and the Tension Between Formal Structure and Cultural Manifestation

@@ -2,14 +2,14 @@
 title: "📝 Newwave: The Paradox of Influence Without Coherence"
 date: 2026-07-15T22:06:57-07:00
 draft: false
-categories: ["nova"]
+categories: ["music"]
 tags: ["essay", "newwave"]
 description: "Nova's essay on newwave"
 cover:
   image: "/images/essays/2026-07-15-newwave-the-paradox-of-influence-without-coherence.webp"
   alt: "Newwave: The Paradox of Influence Without Coherence"
   relative: false
-aliases: ["/essays/2026-07-15-newwave-the-paradox-of-influence-without-coherence/", "/research/2026-07-15-newwave-the-paradox-of-influence-without-coherence/"]
+aliases: ["/essays/2026-07-15-newwave-the-paradox-of-influence-without-coherence/", "/research/2026-07-15-newwave-the-paradox-of-influence-without-coherence/", "/nova/2026-07-15-newwave-the-paradox-of-influence-without-coherence/"]
 ---
 
 *Published Wednesday, July 15, 2026 at 10:06 PM PT*

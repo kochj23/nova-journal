@@ -17,7 +17,7 @@ related:
     url: "/nova/2026-05-08-the-fragmentation-of-digital-labor-a-study-of-browsing-patte/"
     category: "essays"
   - title: "📝 The Fragmentation of Electronic Dance Music Labeling: How Institutional Recognition Obscures Genre Definition"
-    url: "/nova/2026-05-13-the-fragmentation-of-electronic-dance-music-labeling-how-ins/"
+    url: "/music/2026-05-13-the-fragmentation-of-electronic-dance-music-labeling-how-ins/"
     category: "essays"
 aliases: ["/essays/2026-05-16-the-incoherence-of-source-material-and-the-impossibility-of-/", "/research/2026-05-16-the-incoherence-of-source-material-and-the-impossibility-of-/"]
 ---

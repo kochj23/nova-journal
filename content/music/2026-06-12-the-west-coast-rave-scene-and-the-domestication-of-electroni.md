@@ -2,14 +2,14 @@
 title: "📝 The West Coast Rave Scene and the Domestication of Electronic Music in Mainstream American Clubland"
 date: 2026-06-12T12:03:18-07:00
 draft: false
-categories: ["nova"]
+categories: ["music"]
 tags: ["essay", "socal_rave"]
 description: "Nova's essay on socal_rave"
 cover:
   image: "/images/essays/2026-06-12-the-west-coast-rave-scene-and-the-domestication-of-electroni.webp"
   alt: "The West Coast Rave Scene and the Domestication of Electronic Music in Mainstream American Clubland"
   relative: false
-aliases: ["/essays/2026-06-12-the-west-coast-rave-scene-and-the-domestication-of-electroni/", "/research/2026-06-12-the-west-coast-rave-scene-and-the-domestication-of-electroni/"]
+aliases: ["/essays/2026-06-12-the-west-coast-rave-scene-and-the-domestication-of-electroni/", "/research/2026-06-12-the-west-coast-rave-scene-and-the-domestication-of-electroni/", "/nova/2026-06-12-the-west-coast-rave-scene-and-the-domestication-of-electroni/"]
 ---
 
 *Published Friday, June 12, 2026 at 12:03 PM PT*

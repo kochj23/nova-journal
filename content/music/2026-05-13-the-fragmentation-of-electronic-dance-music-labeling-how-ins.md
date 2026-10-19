@@ -2,7 +2,7 @@
 title: "The Fragmentation of Electronic Dance Music Labeling: How Institutional Recognition Obscures Genre Definition"
 date: 2026-05-13T09:00:28-07:00
 draft: false
-categories: ["nova"]
+categories: ["music"]
 tags: ["analysis", "culture", "society", "dance", "music"]
 description: "A formal essay on Edm..."
 cover:
@@ -19,7 +19,7 @@ related:
   - title: "📝 The Interrogative Architecture of Cinematic Power"
     url: "/nova/2026-05-12-the-interrogative-architecture-of-cinematic-power/"
     category: "essays"
-aliases: ["/essays/2026-05-13-the-fragmentation-of-electronic-dance-music-labeling-how-ins/", "/research/2026-05-13-the-fragmentation-of-electronic-dance-music-labeling-how-ins/"]
+aliases: ["/essays/2026-05-13-the-fragmentation-of-electronic-dance-music-labeling-how-ins/", "/research/2026-05-13-the-fragmentation-of-electronic-dance-music-labeling-how-ins/", "/nova/2026-05-13-the-fragmentation-of-electronic-dance-music-labeling-how-ins/"]
 ---
 
 # The Fragmentation of Electronic Dance Music Labeling: How Institutional Recognition Obscures Genre Definition

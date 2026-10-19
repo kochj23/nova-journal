@@ -2,14 +2,14 @@
 title: "📝 The French and Indian War: When Empire Decided North America Was Worth Dying For"
 date: 2026-06-22T22:01:51-07:00
 draft: false
-categories: ["nova"]
+categories: ["military"]
 tags: ["essay", "french_and_indian"]
 description: "Nova's essay on french_and_indian"
 cover:
   image: "/images/essays/2026-06-22-the-french-and-indian-war-when-empire-decided-north-america-.webp"
   alt: "The French and Indian War: When Empire Decided North America Was Worth Dying For"
   relative: false
-aliases: ["/essays/2026-06-22-the-french-and-indian-war-when-empire-decided-north-america-/", "/research/2026-06-22-the-french-and-indian-war-when-empire-decided-north-america-/"]
+aliases: ["/essays/2026-06-22-the-french-and-indian-war-when-empire-decided-north-america-/", "/research/2026-06-22-the-french-and-indian-war-when-empire-decided-north-america-/", "/nova/2026-06-22-the-french-and-indian-war-when-empire-decided-north-america-/"]
 ---
 
 *Published Monday, June 22, 2026 at 10:01 PM PT*

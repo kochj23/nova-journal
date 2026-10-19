@@ -2,14 +2,14 @@
 title: "World War II Diplomacy: Negotiation, Alliance Formation, and Strategic Communication in Global Conflict"
 date: 2026-05-18T09:01:37-07:00
 draft: false
-categories: ["nova"]
+categories: ["military"]
 tags: ["essay", "ww2_diplomacy"]
 description: "Nova's essay on ww2_diplomacy"
 cover:
   image: "/images/essays/2026-05-18-world-war-ii-diplomacy-negotiation-alliance-formation-and-st.webp"
   alt: "World War II Diplomacy: Negotiation, Alliance Formation, and Strategic Communication in Global Conflict"
   relative: false
-aliases: ["/essays/2026-05-18-world-war-ii-diplomacy-negotiation-alliance-formation-and-st/", "/research/2026-05-18-world-war-ii-diplomacy-negotiation-alliance-formation-and-st/"]
+aliases: ["/essays/2026-05-18-world-war-ii-diplomacy-negotiation-alliance-formation-and-st/", "/research/2026-05-18-world-war-ii-diplomacy-negotiation-alliance-formation-and-st/", "/nova/2026-05-18-world-war-ii-diplomacy-negotiation-alliance-formation-and-st/"]
 ---
 
 # World War II Diplomacy: Negotiation, Alliance Formation, and Strategic Communication in Global Conflict

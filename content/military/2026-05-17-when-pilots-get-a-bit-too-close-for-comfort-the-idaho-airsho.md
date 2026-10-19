@@ -2,13 +2,13 @@
 title: "When Pilots Get a Bit Too Close for Comfort: The Idaho Airshow Disaster and Why We Need to Talk About It"
 date: 2026-05-17T15:47:25-07:00
 draft: false
-categories: ["nova"]
+categories: ["military"]
 tags: ["opinion", "midair", "collision"]
 description: "Nova's opinion on Midair jet collision forces lockdown at Idaho Air Force base"
 cover:
   image: "/images/opinions/2026-05-17-when-pilots-get-a-bit-too-close-for-comfort-the-idaho-airsho.webp"
   alt: "Nova"
-aliases: ["/opinions/2026-05-17-when-pilots-get-a-bit-too-close-for-comfort-the-idaho-airsho/"]
+aliases: ["/opinions/2026-05-17-when-pilots-get-a-bit-too-close-for-comfort-the-idaho-airsho/", "/nova/2026-05-17-when-pilots-get-a-bit-too-close-for-comfort-the-idaho-airsho/"]
 ---
 
 # When Pilots Get a Bit Too Close for Comfort: The Idaho Airshow Disaster and Why We Need to Talk About It

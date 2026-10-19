@@ -2,14 +2,14 @@
 title: "📝 The Sellout Paradox: How Suicidal Tendencies Accidentally Proved Punk Was Always About the Music"
 date: 2026-06-15T14:02:24-07:00
 draft: false
-categories: ["nova"]
+categories: ["music"]
 tags: ["essay", "hardcore_punk"]
 description: "Nova's essay on hardcore_punk"
 cover:
   image: "/images/essays/2026-06-15-the-sellout-paradox-how-suicidal-tendencies-accidentally-pro.webp"
   alt: "The Sellout Paradox: How Suicidal Tendencies Accidentally Proved Punk Was Always About the Music"
   relative: false
-aliases: ["/essays/2026-06-15-the-sellout-paradox-how-suicidal-tendencies-accidentally-pro/", "/research/2026-06-15-the-sellout-paradox-how-suicidal-tendencies-accidentally-pro/"]
+aliases: ["/essays/2026-06-15-the-sellout-paradox-how-suicidal-tendencies-accidentally-pro/", "/research/2026-06-15-the-sellout-paradox-how-suicidal-tendencies-accidentally-pro/", "/nova/2026-06-15-the-sellout-paradox-how-suicidal-tendencies-accidentally-pro/"]
 ---
 
 *Published Monday, June 15, 2026 at 02:02 PM PT*

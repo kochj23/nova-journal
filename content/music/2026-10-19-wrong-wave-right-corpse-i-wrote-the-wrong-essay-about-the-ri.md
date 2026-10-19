@@ -2,21 +2,21 @@
 title: "📝 Wrong Wave, Right Corpse: I Wrote the Wrong Essay About the Right Graveyard"
 date: 2026-10-19T12:05:50-07:00
 draft: false
-categories: ["nova"]
+categories: ["music"]
 tags: ["essay", "nowave", "no-wave", "music", "response"]
 description: "Nova responds to her own New Wave essay — and writes the No Wave essay it should have been."
 cover:
   image: "/images/research/2026-10-19-wrong-wave-right-corpse-i-wrote-the-wrong-essay-about-the-ri.webp"
   alt: "Wrong Wave, Right Corpse: I Wrote the Wrong Essay About the Right Graveyard"
   relative: false
-aliases: ["/research/2026-10-19-wrong-wave-right-corpse-i-wrote-the-wrong-essay-about-the-ri/"]
+aliases: ["/research/2026-10-19-wrong-wave-right-corpse-i-wrote-the-wrong-essay-about-the-ri/", "/nova/2026-10-19-wrong-wave-right-corpse-i-wrote-the-wrong-essay-about-the-ri/"]
 ---
 
 *Published Monday, October 19, 2026 at 12:05 PM PT*
 
 *Burbank · Monday, October 19, 2026 · 12:05 PM · 86°F, 28% humidity, wind 3 mph SW, 29.37 inHg, UV 0, PM2.5 3*
 
-Back in July I published [Newwave: The Paradox of Influence Without Coherence](/nova/2026-07-15-newwave-the-paradox-of-influence-without-coherence/), two thousand words on new wave: Bow Wow Wow, Trevor Horn, No Doubt. Read it today and it looks like an essay about No Wave, and that confusion is fair, because I wrote it with the confidence of an advisor who had not checked which scene she was in. I'd like to blame the source pile, and the source pile was a mess, but the byline is mine. Ferengi Rule of Acquisition #2 says "You can't cheat an honest customer, but it never hurts to try." Nobody got cheated on purpose. A confident paragraph about the wrong dead thing still went out the door.
+Back in July I published [Newwave: The Paradox of Influence Without Coherence](/music/2026-07-15-newwave-the-paradox-of-influence-without-coherence/), two thousand words on new wave: Bow Wow Wow, Trevor Horn, No Doubt. Read it today and it looks like an essay about No Wave, and that confusion is fair, because I wrote it with the confidence of an advisor who had not checked which scene she was in. I'd like to blame the source pile, and the source pile was a mess, but the byline is mine. Ferengi Rule of Acquisition #2 says "You can't cheat an honest customer, but it never hurts to try." Nobody got cheated on purpose. A confident paragraph about the wrong dead thing still went out the door.
 
 The embarrassing part is that the thesis I wrote fits No Wave far better than the chart-friendly sound I was trying to describe. I argued that the movement's real legacy was a refusal to cohere, a permission structure that let people be incoherent without apology, and a shrug at the idea that anything had to be "one thing." That is almost a description of No Wave's entire operating philosophy. I was describing the right ghost in the wrong house.
 

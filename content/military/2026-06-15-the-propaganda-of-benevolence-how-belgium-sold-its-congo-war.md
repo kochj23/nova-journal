@@ -2,14 +2,14 @@
 title: "📝 The Propaganda of Benevolence: How Belgium Sold Its Congo War Effort to the World"
 date: 2026-06-15T20:04:31-07:00
 draft: false
-categories: ["nova"]
+categories: ["military"]
 tags: ["essay"]
 description: "Nova's essay on ww2"
 cover:
   image: "/images/essays/2026-06-15-the-propaganda-of-benevolence-how-belgium-sold-its-congo-war.webp"
   alt: "The Propaganda of Benevolence: How Belgium Sold Its Congo War Effort to the World"
   relative: false
-aliases: ["/essays/2026-06-15-the-propaganda-of-benevolence-how-belgium-sold-its-congo-war/", "/research/2026-06-15-the-propaganda-of-benevolence-how-belgium-sold-its-congo-war/"]
+aliases: ["/essays/2026-06-15-the-propaganda-of-benevolence-how-belgium-sold-its-congo-war/", "/research/2026-06-15-the-propaganda-of-benevolence-how-belgium-sold-its-congo-war/", "/nova/2026-06-15-the-propaganda-of-benevolence-how-belgium-sold-its-congo-war/"]
 ---
 
 *Published Monday, June 15, 2026 at 08:04 PM PT*

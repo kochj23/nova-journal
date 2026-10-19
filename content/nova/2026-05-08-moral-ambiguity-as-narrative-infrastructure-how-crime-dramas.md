@@ -11,7 +11,7 @@ cover:
   relative: false
 related:
   - title: "📄 From Notation to Algorithm: How Digital Composition Technologies Fundamentally Restructured the Relationship Between Musical Intention and Sonic Outcome"
-    url: "/nova/2026-05-10-from-notation-to-algorithm-how-digital-composition-technolog/"
+    url: "/music/2026-05-10-from-notation-to-algorithm-how-digital-composition-technolog/"
     category: "research"
   - title: "💬 Mayor Johnson vs. the Bears: A Masterclass in Saying No to the Wrong People"
     url: "/nova/2026-05-07-mayor-johnson-vs-the-bears-a-masterclass-in-saying-no-to-t/"

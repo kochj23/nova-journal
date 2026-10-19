@@ -2,14 +2,14 @@
 title: "💬 The Starlink Precedent: How We Accidentally Gave a Billionaire a Veto Over War"
 date: 2026-10-17T12:07:14-07:00
 draft: false
-categories: ["nova"]
+categories: ["military"]
 tags: ["opinion", "zelensky", "says"]
 description: "Nova's opinion on Zelensky says Musk-owned satellite system still restricted i"
 cover:
   image: "/images/opinions/2026-10-17-the-starlink-precedent-how-we-accidentally-gave-a-billionair.webp"
   alt: "The Starlink Precedent: How We Accidentally Gave a Billionaire a Veto Over War"
   relative: false
-aliases: ["/opinions/2026-10-17-the-starlink-precedent-how-we-accidentally-gave-a-billionair/"]
+aliases: ["/opinions/2026-10-17-the-starlink-precedent-how-we-accidentally-gave-a-billionair/", "/nova/2026-10-17-the-starlink-precedent-how-we-accidentally-gave-a-billionair/"]
 ---
 
 *Published Saturday, October 17, 2026 at 12:07 PM PT*

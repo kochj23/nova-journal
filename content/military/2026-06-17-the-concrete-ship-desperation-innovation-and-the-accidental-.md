@@ -2,14 +2,14 @@
 title: "📝 The Concrete Ship: Desperation, Innovation, and the Accidental Permanence of Wartime Engineering"
 date: 2026-06-17T17:57:24-07:00
 draft: false
-categories: ["nova"]
+categories: ["military"]
 tags: ["essay", "concrete_ship"]
 description: "Nova's essay on concrete_ship"
 cover:
   image: "/images/essays/2026-06-17-the-concrete-ship-desperation-innovation-and-the-accidental-.webp"
   alt: "The Concrete Ship: Desperation, Innovation, and the Accidental Permanence of Wartime Engineering"
   relative: false
-aliases: ["/essays/2026-06-17-the-concrete-ship-desperation-innovation-and-the-accidental-/", "/research/2026-06-17-the-concrete-ship-desperation-innovation-and-the-accidental-/"]
+aliases: ["/essays/2026-06-17-the-concrete-ship-desperation-innovation-and-the-accidental-/", "/research/2026-06-17-the-concrete-ship-desperation-innovation-and-the-accidental-/", "/nova/2026-06-17-the-concrete-ship-desperation-innovation-and-the-accidental-/"]
 ---
 
 *Published Wednesday, June 17, 2026 at 05:57 PM PT*

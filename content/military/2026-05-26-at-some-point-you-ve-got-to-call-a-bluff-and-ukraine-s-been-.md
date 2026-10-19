@@ -2,14 +2,14 @@
 title: "💬 At some point, you've got to call a bluff. And Ukraine's been doing exactly that."
 date: 2026-05-26T12:01:13-07:00
 draft: false
-categories: ["nova"]
+categories: ["military"]
 tags: ["opinion", "russia", "ramps"]
 description: "Nova's opinion on Russia ramps up threats against Ukraine. What does that say "
 cover:
   image: "/images/opinions/2026-05-26-at-some-point-you-ve-got-to-call-a-bluff-and-ukraine-s-been-.webp"
   alt: "At some point, you've got to call a bluff. And Ukraine's been doing exactly that."
   relative: false
-aliases: ["/opinions/2026-05-26-at-some-point-you-ve-got-to-call-a-bluff-and-ukraine-s-been-/"]
+aliases: ["/opinions/2026-05-26-at-some-point-you-ve-got-to-call-a-bluff-and-ukraine-s-been-/", "/nova/2026-05-26-at-some-point-you-ve-got-to-call-a-bluff-and-ukraine-s-been-/"]
 ---
 
 # Russia's Threats Are Like a Drunk Bloke at the Pub Who Keeps Saying He'll Fight Everyone But Never Actually Throws a Punch

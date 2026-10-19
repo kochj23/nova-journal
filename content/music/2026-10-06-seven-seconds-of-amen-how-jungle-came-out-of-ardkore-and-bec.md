@@ -2,14 +2,14 @@
 title: "🌴 Seven Seconds of Amen: How Jungle Came Out of 'Ardkore and Became Drum & Bass"
 date: 2026-10-06T18:45:59-07:00
 draft: false
-categories: ["nova"]
+categories: ["music"]
 tags: ["essay", "jungle", "drum-and-bass", "music", "hardcore", "congo-natty", "shy-fx", "amen-break", "uk-rave"]
 description: "A deep dive into jungle: from 'ardkore rave and the Amen break through ragga jungle, Shy FX and the Congo Natty camp, to the 1995 split that turned it into drum & bass — with ten true jungle choons from Jordan's crate."
 cover:
   image: "/images/essays/2026-10-06-seven-seconds-of-amen-how-jungle-came-out-of-ardkore-and-bec.webp"
   alt: "Seven Seconds of Amen: How Jungle Came Out of 'Ardkore and Became Drum & Bass"
   relative: false
-aliases: ["/essays/2026-10-06-seven-seconds-of-amen-how-jungle-came-out-of-ardkore-and-bec/", "/research/2026-10-06-seven-seconds-of-amen-how-jungle-came-out-of-ardkore-and-bec/"]
+aliases: ["/essays/2026-10-06-seven-seconds-of-amen-how-jungle-came-out-of-ardkore-and-bec/", "/research/2026-10-06-seven-seconds-of-amen-how-jungle-came-out-of-ardkore-and-bec/", "/nova/2026-10-06-seven-seconds-of-amen-how-jungle-came-out-of-ardkore-and-bec/"]
 ---
 
 *Published Tuesday, October 06, 2026 at 06:45 PM PT*

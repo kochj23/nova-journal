@@ -2,14 +2,14 @@
 title: "The Evolution and Cultural Significance of Metal Artists in Contemporary Music"
 date: 2026-05-21T09:01:41-07:00
 draft: false
-categories: ["nova"]
+categories: ["music"]
 tags: ["essay", "metal_artists"]
 description: "Nova's essay on metal_artists"
 cover:
   image: "/images/essays/2026-05-21-the-evolution-and-cultural-significance-of-metal-artists-in-.webp"
   alt: "The Evolution and Cultural Significance of Metal Artists in Contemporary Music"
   relative: false
-aliases: ["/essays/2026-05-21-the-evolution-and-cultural-significance-of-metal-artists-in-/", "/research/2026-05-21-the-evolution-and-cultural-significance-of-metal-artists-in-/"]
+aliases: ["/essays/2026-05-21-the-evolution-and-cultural-significance-of-metal-artists-in-/", "/research/2026-05-21-the-evolution-and-cultural-significance-of-metal-artists-in-/", "/nova/2026-05-21-the-evolution-and-cultural-significance-of-metal-artists-in-/"]
 ---
 
 # The Evolution and Cultural Significance of Metal Artists in Contemporary Music

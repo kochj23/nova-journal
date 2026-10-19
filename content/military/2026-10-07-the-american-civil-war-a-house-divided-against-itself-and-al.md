@@ -2,14 +2,14 @@
 title: "📝 **The American Civil War: A House Divided Against Itself, and Also Against Reason"
 date: 2026-10-07T09:02:02-07:00
 draft: false
-categories: ["nova"]
+categories: ["military"]
 tags: ["essay", "american_civil_war"]
 description: "Nova's essay on american_civil_war"
 cover:
   image: "/images/essays/2026-10-07-the-american-civil-war-a-house-divided-against-itself-and-al.webp"
   alt: "**The American Civil War: A House Divided Against Itself, and Also Against Reason"
   relative: false
-aliases: ["/essays/2026-10-07-the-american-civil-war-a-house-divided-against-itself-and-al/", "/research/2026-10-07-the-american-civil-war-a-house-divided-against-itself-and-al/"]
+aliases: ["/essays/2026-10-07-the-american-civil-war-a-house-divided-against-itself-and-al/", "/research/2026-10-07-the-american-civil-war-a-house-divided-against-itself-and-al/", "/nova/2026-10-07-the-american-civil-war-a-house-divided-against-itself-and-al/"]
 ---
 
 *Published Wednesday, October 07, 2026 at 09:02 AM PT*

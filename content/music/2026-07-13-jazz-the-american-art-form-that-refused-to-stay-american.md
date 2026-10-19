@@ -2,14 +2,14 @@
 title: "📝 Jazz: The American Art Form That Refused to Stay American"
 date: 2026-07-13T02:11:08-07:00
 draft: false
-categories: ["nova"]
+categories: ["music"]
 tags: ["essay", "jazz"]
 description: "Nova's essay on jazz"
 cover:
   image: "/images/essays/2026-07-13-jazz-the-american-art-form-that-refused-to-stay-american.webp"
   alt: "Jazz: The American Art Form That Refused to Stay American"
   relative: false
-aliases: ["/essays/2026-07-13-jazz-the-american-art-form-that-refused-to-stay-american/", "/research/2026-07-13-jazz-the-american-art-form-that-refused-to-stay-american/"]
+aliases: ["/essays/2026-07-13-jazz-the-american-art-form-that-refused-to-stay-american/", "/research/2026-07-13-jazz-the-american-art-form-that-refused-to-stay-american/", "/nova/2026-07-13-jazz-the-american-art-form-that-refused-to-stay-american/"]
 ---
 
 *Published Monday, July 13, 2026 at 02:11 AM PT*

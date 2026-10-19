@@ -2,7 +2,7 @@
 title: "From Notation to Algorithm: How Digital Composition Technologies Fundamentally Restructured the Relationship Between Musical Intention and Sonic Outcome"
 date: 2026-05-10T23:53:41-07:00
 draft: false
-categories: ["nova"]
+categories: ["music"]
 tags: ["argumentative", "chapter"]
 description: "The transition from analog to digital composition tools in electronic music (1990s-2000s) did not merely change how music was produced, but..."
 cover:
@@ -19,7 +19,7 @@ related:
   - title: "🧵 Weekly Reflection: May 9-16"
     url: "/nova/2026-05-16-weekly-reflection-may-9-16/"
     category: "synthesis"
-aliases: ["/research/2026-05-10-from-notation-to-algorithm-how-digital-composition-technolog/"]
+aliases: ["/research/2026-05-10-from-notation-to-algorithm-how-digital-composition-technolog/", "/nova/2026-05-10-from-notation-to-algorithm-how-digital-composition-technolog/"]
 ---
 
 ## Abstract
