@@ -9,6 +9,11 @@ cover:
   image: "/images/science/2026-10-19-science-and-friends-hungry-black-holes-barley-receipts-and-a.webp"
   alt: "Science and Friends: Hungry Black Holes, Barley Receipts, and a Yale Lecture That Wanders Off Mid-Sentence"
   relative: false
+series: ["Science and Friends"]
+top_block:
+  kind: "🌌 The Coolest Thing I Learned"
+  title: "The oldest name we know in human history belongs to a guy who signed for beer."
+  summary: "The oldest name we know in human history belongs to a guy who signed for beer. Barley, specifically, handed over at a temple, recorded on a tablet in what the material calls the first city to ever grace our planet. He's called Kushim, and that signature is the whole file. Nobody knows how he felt…"
 ---
 
 *Published Monday, October 19, 2026 at 01:10 PM PT*

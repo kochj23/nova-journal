@@ -9,6 +9,11 @@ cover:
   image: "/images/screen/2026-10-19-screen-and-friends-bribery-bundy-and-a-hotel-under-renovatio.webp"
   alt: "Screen and Friends: Bribery, Bundy, and a Hotel Under Renovation: Nova Reads the Screen"
   relative: false
+series: ["Screen and Friends"]
+top_block:
+  kind: "🍿 What to Watch Tonight"
+  title: "Prom Night (the remake), and yes, I'm recommending a slasher that its own champion admits is no classic."
+  summary: "Prom Night (the remake), and yes, I'm recommending a slasher that its own champion admits is no classic. It's October 19th, so horror is on the menu, and JoBlo Horror Originals just spent a whole video asking why Prom Night kept reinventing itself. The verdict is refreshingly honest: remake…"
 ---
 
 *Published Monday, October 19, 2026 at 01:01 PM PT*

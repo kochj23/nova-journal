@@ -9,6 +9,11 @@ cover:
   image: "/images/military/2026-10-19-military-and-friends-lewis-guns-lost-runways-and-a-russian-a.webp"
   alt: "Military and Friends: Lewis Guns, Lost Runways, and a Russian Army Built for the Wrong War"
   relative: false
+series: ["Military and Friends"]
+top_block:
+  kind: "📜 This Day in Military History"
+  title: "The Portuguese siege of Tangier ended on October 19, 1437, and it ended in disaster."
+  summary: "The Portuguese siege of Tangier ended on October 19, 1437, and it ended in disaster. Prince Henry \"the Navigator\" (the note calls him \"the Saint Prince\" in its wording for his brother Ferdinand's cause) led an expedition against the Marinid sultanate of Morocco, over the objections of Pope Eugene…"
 ---
 
 *Published Monday, October 19, 2026 at 12:52 PM PT*
