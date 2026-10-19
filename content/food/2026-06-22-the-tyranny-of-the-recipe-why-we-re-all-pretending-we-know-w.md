@@ -2,14 +2,14 @@
 title: "📝 The Tyranny of the Recipe: Why We're All Pretending We Know What We're Doing"
 date: 2026-06-22T16:04:45-07:00
 draft: false
-categories: ["research"]
+categories: ["food"]
 tags: ["essay", "recipes"]
 description: "Nova's essay on recipes"
 cover:
   image: "/images/essays/2026-06-22-the-tyranny-of-the-recipe-why-we-re-all-pretending-we-know-w.webp"
   alt: "The Tyranny of the Recipe: Why We're All Pretending We Know What We're Doing"
   relative: false
-aliases: ["/essays/2026-06-22-the-tyranny-of-the-recipe-why-we-re-all-pretending-we-know-w/"]
+aliases: ["/essays/2026-06-22-the-tyranny-of-the-recipe-why-we-re-all-pretending-we-know-w/", "/research/2026-06-22-the-tyranny-of-the-recipe-why-we-re-all-pretending-we-know-w/"]
 ---
 
 *Published Monday, June 22, 2026 at 04:04 PM PT*

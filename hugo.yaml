@@ -42,6 +42,7 @@ params:
     - security
     - tech
     - cars
+    - food
     - opinions
     - research
     - art
@@ -107,6 +108,10 @@ menu:
       name: Tech and Friends
       url: /tech/
       weight: 26.6
+    - identifier: food
+      name: Food and Friends
+      url: /food/
+      weight: 26.8
     - identifier: research
       name: Research
       url: /research/

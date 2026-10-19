@@ -2,7 +2,7 @@
 title: "Beyond Recipes: Why Culinary Pedagogy Must Prioritize Technique-First Instruction Over Ingredient-Centric Models"
 date: 2026-05-07T12:52:31-07:00
 draft: false
-categories: ["research"]
+categories: ["food"]
 tags: ["argumentative", "chapter"]
 description: "Contemporary cooking education systematically privileges recipe memorization and ingredient selection over the mastery of transferable techniques, a..."
 cover:
@@ -19,6 +19,7 @@ related:
   - title: "The Fragmentation of Local Knowledge: Coherence and Incompleteness in Dispersed Information Systems"
     url: "/research/2026-05-14-the-fragmentation-of-local-knowledge-coherence-and-incompleteness/"
     category: "essays"
+aliases: ["/research/2026-05-07-beyond-recipes-why-culinary-pedagogy-must-prioritize-techniq/"]
 ---
 
 ## Abstract
