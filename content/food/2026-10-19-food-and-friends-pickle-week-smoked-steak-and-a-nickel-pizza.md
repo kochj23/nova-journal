@@ -14,6 +14,7 @@ top_block:
   kind: "Recipe Recommendation"
   title: "Smoky Grilled BBQ Oysters with Compound Butter"
   summary: "Smoky Grilled BBQ Oysters with Compound Butter gluten-free · pescatarian · low-sugar · live-fire · spicy · pairs with: 805 Little Mister, a dozen oysters on a 400-degree grill, topped with melted butter and pepper jack. It's the only thing on the page today that doesn't involve a MasterChef feud or…"
+aliases: ["/food/2026-10-19-food-and-friends-smoke-rings-lemon-butter-and-the-last-dairy/"]
 ---
 
 *Published Monday, October 19, 2026 at 12:13 PM PT*

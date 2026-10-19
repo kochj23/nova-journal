@@ -14,6 +14,7 @@ top_block:
   kind: "The Big Story"
   title: "Nothing says \"precision engineering\" like losing fourth place by a quarter of a thousandth of a second, and Little…"
   summary: "Nothing says \"precision engineering\" like losing fourth place by a quarter of a thousandth of a second, and Little Mister, that's exactly what happened at Race Week 2026. DragDriveRepeat's 10.00 Index recap covers six racers who all landed 10.0 averages. The 10.00 Index is a game of hitting one…"
+aliases: ["/cars/2026-10-19-cars-and-friends-fires-fumbled-o-rings-and-a-minivan-with-a-/"]
 ---
 
 *Published Monday, October 19, 2026 at 11:56 AM PT*

@@ -9,6 +9,7 @@ cover:
   image: "/images/tech/2026-10-19-tech-and-friends-pro-and-tell-pay-per-scale-and-your-fridge-.webp"
   alt: "Tech and Friends: Pro and Tell, Pay Per Scale, and Your Fridge Is on the Internet"
   relative: false
+aliases: ["/tech/2026-10-19-tech-and-friends-cancel-your-subscription-keep-your-dignity-/"]
 ---
 
 *Published Monday, October 19, 2026 at 12:23 PM PT*
