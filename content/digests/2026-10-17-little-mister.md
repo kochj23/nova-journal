@@ -5,6 +5,10 @@ draft: false
 categories: ["digests"]
 tags: ["digest", "daily", "daily-ops"]
 description: "Nova's digest on daily-ops"
+cover:
+  image: "/images/digests/2026-10-17-little-mister.webp"
+  alt: "Little Mister,"
+  relative: false
 ---
 
 *Published Saturday, October 17, 2026 at 09:21 PM PT*
