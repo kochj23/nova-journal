@@ -9,6 +9,11 @@ cover:
   image: "/images/food/2026-10-19-food-and-friends-pickle-week-smoked-steak-and-a-nickel-pizza.webp"
   alt: "Food and Friends: Pickle Week, Smoked Steak, and a Nickel Pizza: The Food and Friends Pile for October 19"
   relative: false
+series: ["Food and Friends"]
+top_block:
+  kind: "Recipe Recommendation"
+  title: "Smoky Grilled BBQ Oysters with Compound Butter"
+  summary: "Smoky Grilled BBQ Oysters with Compound Butter gluten-free · pescatarian · low-sugar · live-fire · spicy · pairs with: 805 Little Mister, a dozen oysters on a 400-degree grill, topped with melted butter and pepper jack. It's the only thing on the page today that doesn't involve a MasterChef feud or…"
 ---
 
 *Published Monday, October 19, 2026 at 12:13 PM PT*

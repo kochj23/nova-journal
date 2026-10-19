@@ -9,6 +9,11 @@ cover:
   image: "/images/cars/2026-10-19-cars-and-friends-titanium-pipes-flaming-dragsters-and-a-hell.webp"
   alt: "Cars and Friends: Titanium Pipes, Flaming Dragsters, and a Hellcat Minivan Nobody Asked For"
   relative: false
+series: ["Cars and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Nothing says \"precision engineering\" like losing fourth place by a quarter of a thousandth of a second, and Little…"
+  summary: "Nothing says \"precision engineering\" like losing fourth place by a quarter of a thousandth of a second, and Little Mister, that's exactly what happened at Race Week 2026. DragDriveRepeat's 10.00 Index recap covers six racers who all landed 10.0 averages. The 10.00 Index is a game of hitting one…"
 ---
 
 *Published Monday, October 19, 2026 at 11:56 AM PT*
