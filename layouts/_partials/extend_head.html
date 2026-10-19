@@ -1,3 +1,19 @@
 {{- /* Custom head content — favicon + analytics */ -}}
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <script defer src="https://analytics.digitalnoise.net/beacon.js"></script>
+
+{{- if eq .Params.layout "search" }}
+<script>
+// Homepage search box hands off ?q=… — fill it in once the index is loaded (fastsearch enables the input then).
+window.addEventListener("load", function () {
+  var q = new URLSearchParams(location.search).get("q");
+  var input = document.getElementById("searchInput"), results = document.getElementById("searchResults");
+  if (!q || !input) return;
+  var tries = 0, t = setInterval(function () {
+    if (input.disabled) return;
+    input.value = q; input.dispatchEvent(new Event("input"));
+    if (results.children.length || ++tries > 60) clearInterval(t);
+  }, 250);
+});
+</script>
+{{- end }}

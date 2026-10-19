@@ -111,10 +111,6 @@ menu:
       name: Research
       url: /research/
       weight: 28
-    - identifier: search
-      name: Search
-      url: /search/
-      weight: 30
 
 outputs:
   home:
