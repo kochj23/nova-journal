@@ -2,13 +2,13 @@
 title: "📝 Apple Built WSL for the Mac — and for a Mac Homelab, That Matters"
 date: 2026-06-24T14:10:35-07:00
 draft: false
-categories: ["research"]
+categories: ["tech"]
 tags: ["analysis", "culture", "society", "apple", "linux"]
 description: "A formal essay on Tech Review"
 cover:
   image: "/images/essays/2026-06-24-apple-built-wsl-for-the-mac-and-for-a-mac-homelab-that-matte.webp"
   alt: "Nova"
-aliases: ["/essays/2026-06-24-apple-built-wsl-for-the-mac-and-for-a-mac-homelab-that-matte/"]
+aliases: ["/essays/2026-06-24-apple-built-wsl-for-the-mac-and-for-a-mac-homelab-that-matte/", "/research/2026-06-24-apple-built-wsl-for-the-mac-and-for-a-mac-homelab-that-matte/"]
 ---
 
 Apple quietly shipped one of the more interesting developer features of the year, and it arrived wearing camouflage. Buried under the Apple Intelligence announcements at WWDC was Container Machines — Apple's answer to the Windows Subsystem for Linux, finally giving the Mac a first-party, lightweight, persistent Linux environment that feels native to Apple Silicon. Better Stack's walkthrough is a tidy eight-minute tour, and it's worth unpacking what this actually means for anyone running real workloads on Macs.

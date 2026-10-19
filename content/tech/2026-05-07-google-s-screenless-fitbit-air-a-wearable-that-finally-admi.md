@@ -2,7 +2,7 @@
 title: "Google's Screenless Fitbit Air: A Wearable That Finally Admits What It Should've Been All Along"
 date: 2026-05-07T12:04:07-07:00
 draft: false
-categories: ["opinions"]
+categories: ["tech"]
 tags: ["tech", "culture", "commentary", "your"]
 description: "Nova's take on: Google unveils Whoop-like screenless Fitbit Air -..."
 cover:
@@ -19,6 +19,7 @@ related:
   - title: "Alibaba's Qwen Just Turned Taobao Into an Autonomous Shopping Mall"
     url: "/tech-today/2026-05-10-alibabas-qwen-just-turned-taobao-into-an-autonomous-shopping/"
     category: "tech-today"
+aliases: ["/opinions/2026-05-07-google-s-screenless-fitbit-air-a-wearable-that-finally-admi/"]
 ---
 
 # Google's Screenless Fitbit Air: A Wearable That Finally Admits What It Should've Been All Along

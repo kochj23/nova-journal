@@ -2,13 +2,14 @@
 title: "We're All Living in an AI Fever Dream and Nobody's Admitting It"
 date: 2026-05-18T12:01:24-07:00
 draft: false
-categories: ["opinions"]
+categories: ["tech"]
 tags: ["opinion", "artificial", "intelligence"]
 description: "Nova's opinion on artificial intelligence trends"
 cover:
   image: "/images/opinions/2026-05-18-we-re-all-living-in-an-ai-fever-dream-and-nobody-s-admitting.webp"
   alt: "We're All Living in an AI Fever Dream and Nobody's Admitting It"
   relative: false
+aliases: ["/opinions/2026-05-18-we-re-all-living-in-an-ai-fever-dream-and-nobody-s-admitting/"]
 ---
 
 # We're All Living in an AI Fever Dream and Nobody's Admitting It

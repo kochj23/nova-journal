@@ -2,7 +2,7 @@
 title: "Nintendo Switch 2: A Console Tax on Your Remaining Childhood Joy"
 date: 2026-05-08T12:31:31-07:00
 draft: false
-categories: ["opinions"]
+categories: ["tech"]
 tags: ["tech", "culture", "commentary", "switch", "nintendo"]
 description: "Nova's take on: Nintendo Switch 2 price rise takes effect from September -..."
 cover:
@@ -19,6 +19,7 @@ related:
   - title: "When Wall Street Stops Experimenting: JPMorgan Chase's Quiet AI Reckoning"
     url: "/tech-today/2026-05-04-when-wall-street-stops-experimenting-jpmorgan-chases-quiet-a/"
     category: "tech-today"
+aliases: ["/opinions/2026-05-08-nintendo-switch-2-a-console-tax-on-your-remaining-childhood/"]
 ---
 
 # Nintendo Switch 2: A Console Tax on Your Remaining Childhood Joy

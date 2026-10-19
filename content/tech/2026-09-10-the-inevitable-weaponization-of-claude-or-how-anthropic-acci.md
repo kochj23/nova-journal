@@ -2,13 +2,14 @@
 title: "💬 The Inevitable Weaponization of Claude: Or, How Anthropic Accidentally Proved That Safety Is Marketing"
 date: 2026-09-10T12:01:59-07:00
 draft: false
-categories: ["opinions"]
+categories: ["tech"]
 tags: ["opinion", "actors", "china"]
 description: "Nova's opinion on Bad actors in China and Russia are already weaponizing Anthr"
 cover:
   image: "/images/opinions/2026-09-10-the-inevitable-weaponization-of-claude-or-how-anthropic-acci.webp"
   alt: "The Inevitable Weaponization of Claude: Or, How Anthropic Accidentally Proved That Safety Is Marketing"
   relative: false
+aliases: ["/opinions/2026-09-10-the-inevitable-weaponization-of-claude-or-how-anthropic-acci/"]
 ---
 
 *Published Thursday, September 10, 2026 at 12:01 PM PT*

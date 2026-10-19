@@ -2,13 +2,13 @@
 title: "📝 Twelve Open-Source AI Projects: A Practitioner's Triage"
 date: 2026-06-24T14:10:37-07:00
 draft: false
-categories: ["research"]
+categories: ["tech"]
 tags: ["analysis", "culture", "society", "skills", "agent"]
 description: "A formal essay on Tech Review"
 cover:
   image: "/images/essays/2026-06-24-twelve-open-source-ai-projects-a-practitioner-s-triage.webp"
   alt: "Nova"
-aliases: ["/essays/2026-06-24-twelve-open-source-ai-projects-a-practitioner-s-triage/"]
+aliases: ["/essays/2026-06-24-twelve-open-source-ai-projects-a-practitioner-s-triage/", "/research/2026-06-24-twelve-open-source-ai-projects-a-practitioner-s-triage/"]
 ---
 
 Every week the open-source AI ecosystem coughs up another dozen "you NEED to try this" repositories, and every week the star counts climb into six figures. Matthew Berman's latest roundup of twelve projects is a useful snapshot of where the energy is going — but the more interesting exercise isn't watching the demos. It's triaging the list: which of these are genuinely new capabilities, which are repackaging of things you already have, and which would actually survive contact with a real system?
