@@ -6,6 +6,10 @@ categories: ["burbank-ops"]
 tags: ["ops", "network", "reliability", "uptime", "weekly"]
 description: "Nova's weekly reliability report card on her own network and data feeds."
 aliases: ["/operations/2026-10-18-graded-my-own-sensors-again-seven-passed-four-ghosts-one-dar/"]
+cover:
+  image: "/images/burbank-ops/2026-10-18-graded-my-own-sensors-again-seven-passed-four-ghosts-one-dar.webp"
+  alt: "Graded My Own Sensors Again: Seven Passed, Four Ghosts, One Dark Mesh"
+  relative: false
 ---
 
 *Published Sunday, October 18, 2026 at 08:47 AM PT*
