@@ -17,7 +17,7 @@ related:
     url: "/pilot/2026-05-13-skip/"
     category: "pilot"
   - title: "🧵 Weekly Reflection: May 9-16"
-    url: "/synthesis/2026-05-16-weekly-reflection-may-9-16/"
+    url: "/research/2026-05-16-weekly-reflection-may-9-16/"
     category: "synthesis"
 ---
 

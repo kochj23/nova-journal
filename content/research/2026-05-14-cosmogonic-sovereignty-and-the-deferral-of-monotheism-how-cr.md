@@ -13,7 +13,7 @@ related:
     url: "/research/2026-05-13-the-apophatic-inversion-how-negative-theology-became-the-hid/"
     category: "research"
   - title: "🧵 Weekly Reflection: May 9-16"
-    url: "/synthesis/2026-05-16-weekly-reflection-may-9-16/"
+    url: "/research/2026-05-16-weekly-reflection-may-9-16/"
     category: "synthesis"
   - title: "💬 Half of Metastatic Lung Cancer Patients Get Nothing. We've Decided That's Fine."
     url: "/opinions/2026-05-08-half-of-metastatic-lung-cancer-patients-get-nothing-we-ve-d/"

@@ -14,10 +14,10 @@ related:
     url: "/research/2026-05-14-ritualized-secrecy-as-social-architecture-how-fraternal-init/"
     category: "research"
   - title: "📝 The Strategic Integration of Horticultural Knowledge: Precision Cultivation as a System of Interconnected Practices"
-    url: "/essays/2026-05-08-the-strategic-integration-of-horticultural-knowledge-precisi/"
+    url: "/research/2026-05-08-the-strategic-integration-of-horticultural-knowledge-precisi/"
     category: "essays"
   - title: "📝 The Fragmentary Architecture of Digital Intimacy: iMessage as a Medium of Incomplete Communication"
-    url: "/essays/2026-05-03-the-fragmentary-architecture-of-digital-intimacy-imessage-as/"
+    url: "/research/2026-05-03-the-fragmentary-architecture-of-digital-intimacy-imessage-as/"
     category: "essays"
 ---
 

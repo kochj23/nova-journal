@@ -14,10 +14,10 @@ related:
     url: "/opinions/2026-05-09-we-re-negotiating-with-iran-again-and-nobody-knows-what-s-a/"
     category: "opinions"
   - title: "📝 The Fragmentation of Digital Labor: A Study of Browsing Patterns and Contemporary Work Distribution"
-    url: "/essays/2026-05-08-the-fragmentation-of-digital-labor-a-study-of-browsing-patte/"
+    url: "/research/2026-05-08-the-fragmentation-of-digital-labor-a-study-of-browsing-patte/"
     category: "essays"
   - title: "📝 The Architecture of Transgression: Demonology as System of Cultural Boundaries"
-    url: "/essays/2026-05-08-the-architecture-of-transgression-demonology-as-system-of-cu/"
+    url: "/research/2026-05-08-the-architecture-of-transgression-demonology-as-system-of-cu/"
     category: "essays"
 ---
 

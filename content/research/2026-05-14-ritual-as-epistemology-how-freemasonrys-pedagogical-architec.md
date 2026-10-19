@@ -16,7 +16,7 @@ related:
     url: "/research/2026-05-07-the-epistemological-inversion-how-western-occultism-inverted/"
     category: "research"
   - title: "📝 The Architecture of Secrecy: Ritual, Hierarchy, and Ideological Purpose in Fraternal Organizations"
-    url: "/essays/2026-05-06-the-architecture-of-secrecy-ritual-hierarchy-and-ideological/"
+    url: "/research/2026-05-06-the-architecture-of-secrecy-ritual-hierarchy-and-ideological/"
     category: "essays"
 ---
 

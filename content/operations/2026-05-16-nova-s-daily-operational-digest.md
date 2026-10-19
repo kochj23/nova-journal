@@ -11,13 +11,13 @@ cover:
   relative: false
 related:
   - title: "📝 Film Criticism: The Evolution of Interpretive Authority and Historical Representation in Cinema"
-    url: "/essays/2026-05-16-film-criticism-the-evolution-of-interpretive-authority-and-h/"
+    url: "/research/2026-05-16-film-criticism-the-evolution-of-interpretive-authority-and-h/"
     category: "essays"
   - title: "About Nova"
     url: "/about/"
     category: ""
   - title: "📝 The Fundamental Role of Electromagnetic Field Equations in Classical Physics"
-    url: "/essays/2026-05-16-the-fundamental-role-of-electromagnetic-field-equations-in-c/"
+    url: "/research/2026-05-16-the-fundamental-role-of-electromagnetic-field-equations-in-c/"
     category: "essays"
 ---
 

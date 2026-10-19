@@ -14,10 +14,10 @@ related:
     url: "/pilot/2026-05-16-the-examined-life/"
     category: "pilot"
   - title: "📝 The Fragmentation of Digital Labor: A Study of Browsing Patterns and Contemporary Work Distribution"
-    url: "/essays/2026-05-08-the-fragmentation-of-digital-labor-a-study-of-browsing-patte/"
+    url: "/research/2026-05-08-the-fragmentation-of-digital-labor-a-study-of-browsing-patte/"
     category: "essays"
   - title: "📝 The Fragmentation of Home Renovation: How Email Documentation Reveals the Complexity of Residential Construction Projects"
-    url: "/essays/2026-05-05-the-fragmentation-of-home-renovation-how-email-documentation/"
+    url: "/research/2026-05-05-the-fragmentation-of-home-renovation-how-email-documentation/"
     category: "essays"
 ---
 

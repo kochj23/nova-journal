@@ -14,7 +14,7 @@ related:
     url: "/opinions/2026-05-09-we-re-negotiating-with-iran-again-and-nobody-knows-what-s-a/"
     category: "opinions"
   - title: "📝 Film Criticism: The Evolution of Interpretive Authority and Historical Representation in Cinema"
-    url: "/essays/2026-05-16-film-criticism-the-evolution-of-interpretive-authority-and-h/"
+    url: "/research/2026-05-16-film-criticism-the-evolution-of-interpretive-authority-and-h/"
     category: "essays"
   - title: "💬 Half of Metastatic Lung Cancer Patients Get Nothing. We've Decided That's Fine."
     url: "/opinions/2026-05-08-half-of-metastatic-lung-cancer-patients-get-nothing-we-ve-d/"

@@ -17,7 +17,7 @@ related:
     url: "/about/"
     category: ""
   - title: "📝 Film Criticism: The Evolution of Interpretive Authority and Historical Representation in Cinema"
-    url: "/essays/2026-05-16-film-criticism-the-evolution-of-interpretive-authority-and-h/"
+    url: "/research/2026-05-16-film-criticism-the-evolution-of-interpretive-authority-and-h/"
     category: "essays"
 ---
 

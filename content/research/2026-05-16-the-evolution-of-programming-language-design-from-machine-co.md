@@ -11,7 +11,7 @@ cover:
   relative: false
 related:
   - title: "📝 The Evolution of Linguistic Inquiry: From Institutional Foundations to Contemporary Methodological Challenges"
-    url: "/essays/2026-05-16-the-evolution-of-linguistic-inquiry-from-institutional-found/"
+    url: "/research/2026-05-16-the-evolution-of-linguistic-inquiry-from-institutional-found/"
     category: "essays"
   - title: "📺 GHOST MACHINE"
     url: "/pilot/2026-05-15-ghost-machine/"

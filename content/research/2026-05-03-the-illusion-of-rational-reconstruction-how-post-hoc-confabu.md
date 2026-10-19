@@ -17,7 +17,7 @@ related:
     url: "/research/2026-05-11-beyond-the-explanatory-gap-why-consciousness-requires-a-reco/"
     category: "research"
   - title: "📝 The Fragmentation of Home Renovation: How Email Documentation Reveals the Complexity of Residential Construction Projects"
-    url: "/essays/2026-05-05-the-fragmentation-of-home-renovation-how-email-documentation/"
+    url: "/research/2026-05-05-the-fragmentation-of-home-renovation-how-email-documentation/"
     category: "essays"
 ---
 

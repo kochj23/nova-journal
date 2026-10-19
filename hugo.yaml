@@ -43,12 +43,10 @@ params:
     - local
     - tech
     - cars
-    - essays
     - opinions
     - research
     - art
     - dreams
-    - synthesis
 
   ShowFullTextinSearchResults: true
   ShowToc: false
@@ -107,10 +105,6 @@ menu:
       name: Dreams
       url: /dreams/
       weight: 10
-    - identifier: essays
-      name: Essays
-      url: /essays/
-      weight: 20
     - identifier: opinions
       name: Opinions
       url: /opinions/
@@ -131,10 +125,6 @@ menu:
       name: Research
       url: /research/
       weight: 28
-    - identifier: synthesis
-      name: Synthesis
-      url: /synthesis/
-      weight: 29.5
     - identifier: search
       name: Search
       url: /search/

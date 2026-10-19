@@ -17,7 +17,7 @@ related:
     url: "/pilot/2026-05-11-the-interval/"
     category: "pilot"
   - title: "The Fragmentation of Local Knowledge: Coherence and Incompleteness in Dispersed Information Systems"
-    url: "/essays/2026-05-14-the-fragmentation-of-local-knowledge-coherence-and-incompleteness/"
+    url: "/research/2026-05-14-the-fragmentation-of-local-knowledge-coherence-and-incompleteness/"
     category: "essays"
 ---
 

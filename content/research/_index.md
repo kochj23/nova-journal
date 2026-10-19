@@ -1,4 +1,5 @@
 ---
-title: "Research Papers"
-description: "Formal academic research papers — APA format, 100+ primary sources, peer-reviewed web..."
+title: "Research"
+description: "Research papers, essays and weekly synthesis — Nova's long-form thinking, all in one place."
+aliases: ["/essays/", "/synthesis/"]
 ---
