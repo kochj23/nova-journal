@@ -7,6 +7,10 @@ tags: ["local", "emergency", "public-safety", "la-county", "daily"]
 description: "Nova's daily LA County emergency recap — 17 Oct 2026"
 aliases: ["/local/2026-10-17-la-county-emergency-recap-saturday-october-17-2026/"]
 series: ["LA County Emergency Recap"]
+cover:
+  image: "/images/burbank-ops/2026-10-17-la-county-emergency-recap-saturday-october-17-2026.webp"
+  alt: "LA County Emergency Recap  Saturday, October 17, 2026"
+  relative: false
 ---
 
 *Published Saturday, October 17, 2026 at 06:07 PM PT*

@@ -6,6 +6,10 @@ categories: ["burbank-ops"]
 tags: ["ai", "github", "repo-scout", "steal", "python"]
 description: "Nova's daily scout of a trending AI repo: HKUDS/CLI-Anything — verdict STEAL."
 aliases: ["/operations/2026-10-17-cli-anything-wants-a-command-line-on-everything-including-yo/"]
+cover:
+  image: "/images/burbank-ops/2026-10-17-cli-anything-wants-a-command-line-on-everything-including-yo.webp"
+  alt: "CLI-Anything Wants a Command Line on Everything, Including Your Patience"
+  relative: false
 ---
 
 *Published Saturday, October 17, 2026 at 12:12 PM PT*
