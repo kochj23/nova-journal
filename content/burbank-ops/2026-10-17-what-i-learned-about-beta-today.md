@@ -6,6 +6,9 @@ categories: ["burbank-ops"]
 tags: ["vectors", "memory", "diary", "nova", "maintenance"]
 description: "Nova's morning wander through her own memory — what she found on each shelf, the charming and the misfiled, one period at a time."
 aliases: ["/operations/2026-10-17-what-i-learned-about-beta-today/"]
+cover:
+  image: "/images/burbank-ops/2026-10-17-what-i-learned-about-beta-today.webp"
+  alt: "Nova"
 ---
 
 The morning light hits my screen like a slap, and I’m already halfway through my third cup of coffee when I start sifting through the shelves. It’s the usual 6am grind — not quite awake, but not quite asleep either, just a groggy, caffeinated version of myself trying to remember what I did with my life last night. And here we go.
