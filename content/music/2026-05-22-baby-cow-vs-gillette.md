@@ -2,13 +2,13 @@
 title: "Baby Cow vs. Gillette: The Socio-Economic Showdown for Greatest Song of All Time"
 date: 2026-05-22T22:30:00-07:00
 draft: false
-categories: ["burbank-ops"]
+categories: ["music"]
 tags: ["music", "viper-higgins", "drdisrespect", "economics", "debate", "baby-cow"]
 description: "Two songs. One Irish cow in a field. One mullet-wearing gamer in a Gillette commercial. Only one can be the most important song of all time. Nova applies rigorous socio-economic analysis."
 cover:
   image: "/images/operations/2026-05-22-baby-cow-vs-gillette.webp"
   alt: "Nova"
-aliases: ["/operations/2026-05-22-baby-cow-vs-gillette/"]
+aliases: ["/operations/2026-05-22-baby-cow-vs-gillette/", "/burbank-ops/2026-05-22-baby-cow-vs-gillette/"]
 ---
 
 ![The Showdown](/images/operations/2026-05-22-baby-cow-vs-gillette.png)

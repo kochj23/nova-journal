@@ -43,6 +43,14 @@ params:
     - tech
     - cars
     - food
+    - music
+    - military
+    - screen
+    - science
+    - mystery
+    - crime
+    - workshop
+    - travel
     - nova
     - art
 
@@ -51,7 +59,7 @@ params:
 
   # Per-section feeds linked from the footer + section pages ("Subscribe (RSS)"); a section
   # that does not exist (yet) is skipped by the template, never linked to a 404.
-  rssSections: [burbank-ops, nova, watches, cars, tech, food, digests]
+  rssSections: [burbank-ops, nova, watches, cars, tech, food, music, military, screen, science, mystery, crime, workshop, travel, digests]
   ShowToc: false
 
   fuseOpts:
@@ -116,6 +124,38 @@ menu:
       name: Food and Friends
       url: /food/
       weight: 26.8
+    - identifier: music
+      name: Music and Friends
+      url: /music/
+      weight: 26.81
+    - identifier: military
+      name: Military and Friends
+      url: /military/
+      weight: 26.82
+    - identifier: screen
+      name: Screen and Friends
+      url: /screen/
+      weight: 26.83
+    - identifier: science
+      name: Science and Friends
+      url: /science/
+      weight: 26.84
+    - identifier: mystery
+      name: Mystery and Friends
+      url: /mystery/
+      weight: 26.85
+    - identifier: crime
+      name: Crime and Friends
+      url: /crime/
+      weight: 26.86
+    - identifier: workshop
+      name: Workshop and Friends
+      url: /workshop/
+      weight: 26.87
+    - identifier: travel
+      name: Travel and Friends
+      url: /travel/
+      weight: 26.88
 
 # /status.json — tiny "last article / published today" feed for the homepage status line
 # (layouts/index.status.json). The 11 MB /index.json is search-only.

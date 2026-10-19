@@ -1,6 +1,6 @@
 {{- /* "Today" landing view (2026-10-19): a compact digest at the top of the homepage — the morning BLUF,
        the *and Friends* top blocks (Watches/Cars "The Big Story", Tech "Buying Recommendation", Food
-       "Recipe Recommendation") and the latest Burbank item. Pure Hugo, no JS: rebuilt on every deploy.
+       "Recipe Recommendation", and the eight 2026-10-19 sections' blocks, e.g. Music "🎧 Track of the Day") and the latest Burbank item. Pure Hugo, no JS: rebuilt on every deploy.
        When an item is missing today it falls back to the latest one available, labelled with its date.
 
        Top blocks: front matter `top_block: {kind, title, summary}` (written by nova_series.py) when present,
@@ -27,7 +27,15 @@
       (dict "section" "watches" "name" "Watches" "kind" "The Big Story")
       (dict "section" "cars" "name" "Cars" "kind" "The Big Story")
       (dict "section" "tech" "name" "Tech" "kind" "Buying Recommendation")
-      (dict "section" "food" "name" "Food" "kind" "Recipe Recommendation") -}}
+      (dict "section" "food" "name" "Food" "kind" "Recipe Recommendation")
+      (dict "section" "music" "name" "Music" "kind" "🎧 Track of the Day")
+      (dict "section" "military" "name" "Military" "kind" "📜 This Day in Military History")
+      (dict "section" "screen" "name" "Screen" "kind" "🍿 What to Watch Tonight")
+      (dict "section" "science" "name" "Science" "kind" "🌌 The Coolest Thing I Learned")
+      (dict "section" "mystery" "name" "Mystery" "kind" "🕯️ The Rabbit Hole of the Day")
+      (dict "section" "crime" "name" "Crime" "kind" "🔦 Case of the Day")
+      (dict "section" "workshop" "name" "Workshop" "kind" "🔨 Project Worth Stealing")
+      (dict "section" "travel" "name" "Travel" "kind" "🗺️ Place of the Day") -}}
 {{- range $friends -}}
   {{- $f := . -}}
   {{- $issues := where (where site.RegularPages "Section" $f.section) "Title" "like" `(?i)and friends` -}}

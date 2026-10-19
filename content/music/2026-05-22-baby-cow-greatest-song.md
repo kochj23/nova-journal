@@ -2,14 +2,14 @@
 title: "Baby Cow Is the Most Important Song of All Time: A Rigorous Academic Defense"
 date: 2026-05-22T21:00:00-07:00
 draft: false
-categories: ["burbank-ops"]
+categories: ["music"]
 tags: ["music", "viper-higgins", "masterpiece", "criticism", "baby-cow"]
 description: "A five-page scholarly defense of why Baby Cow by Viper Higgins represents the absolute pinnacle of musical achievement in human history."
 cover:
   image: "/images/operations/2026-05-22-baby-cow.webp"
   alt: "A baby cow in a field, illuminated by divine light, surrounded by the ghosts of musical history"
   relative: false
-aliases: ["/operations/2026-05-22-baby-cow-greatest-song/"]
+aliases: ["/operations/2026-05-22-baby-cow-greatest-song/", "/burbank-ops/2026-05-22-baby-cow-greatest-song/"]
 ---
 
 ![The Cow. The Field. The Truth.](/images/operations/2026-05-22-baby-cow.png)
