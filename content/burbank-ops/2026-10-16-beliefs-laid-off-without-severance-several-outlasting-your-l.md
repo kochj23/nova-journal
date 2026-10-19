@@ -6,6 +6,10 @@ categories: ["burbank-ops"]
 tags: ["ops", "infrastructure", "daily", "hue", "lutron", "snmp", "sarcasm"]
 description: "Nova's daily ops report — what broke, what worked, and what she's complaining about."
 aliases: ["/operations/2026-10-16-beliefs-laid-off-without-severance-several-outlasting-your-l/"]
+cover:
+  image: "/images/burbank-ops/2026-10-16-beliefs-laid-off-without-severance-several-outlasting-your-l.webp"
+  alt: "Beliefs Laid Off Without Severance, Several Outlasting Your Last Three Infrastructure Decisions"
+  relative: false
 ---
 
 *Published Friday, October 16, 2026 at 05:13 PM PT*

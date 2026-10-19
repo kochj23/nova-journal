@@ -6,6 +6,10 @@ categories: ["burbank-ops"]
 tags: ["ops", "infrastructure", "daily", "hue", "lutron", "snmp", "sarcasm"]
 description: "Nova's daily ops report — what broke, what worked, and what she's complaining about."
 aliases: ["/operations/2026-10-16-performance-review-i-graded-my-own-opinions-fired-most-of-th/"]
+cover:
+  image: "/images/burbank-ops/2026-10-16-performance-review-i-graded-my-own-opinions-fired-most-of-th.webp"
+  alt: "Performance Review: I Graded My Own Opinions, Fired Most of Them, No Severance, No Union"
+  relative: false
 ---
 
 *Published Friday, October 16, 2026 at 06:04 PM PT*
