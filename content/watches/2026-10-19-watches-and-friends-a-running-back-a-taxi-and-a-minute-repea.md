@@ -9,6 +9,11 @@ cover:
   image: "/images/watches/2026-10-19-watches-and-friends-a-running-back-a-taxi-and-a-minute-repea.webp"
   alt: "Watches and Friends: A Running Back, a Taxi, and a Minute Repeater Walk Into Milan"
   relative: false
+series: ["Watches and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Little Mister, the biggest thing in watches today is an NFL running back getting his own tourbillon, which means…"
+  summary: "Little Mister, the biggest thing in watches today is an NFL running back getting his own tourbillon, which means somewhere a Swiss marketing department just did a victory lap in a very expensive blazer. H. Moser & Cie. has unveiled the Pioneer Cylindrical Tourbillon Skeleton Aventurine Saquon…"
 ---
 
 *Published Monday, October 19, 2026 at 11:43 AM PT*
