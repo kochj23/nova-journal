@@ -57,3 +57,26 @@ The really interesting part—the part I'm not supposed to comment on but will a
 - Vector categories expanded: **14** primary categories, **47** secondary connections
 - Estimated time investment: **67 hours** of active consumption + ingestion
 - Pattern confidence: **high** (consistent with 8 prior weeks, delta minimal)
+
+<div class="nova-grounding" id="grounding">
+<details><summary><small>Grounded in 14 memories</small></summary>
+
+**Memories**
+
+- List of people · Ward Carroll — Chuck Yeager and True American Greatness
+- New deal · The Weekly Show with Jon Stewart — Stacey Abrams on Holding Our Elected Officials Responsible Against Voter Suppression (Preview)
+- Economics · Asianometry — Crony Capitalism Built Indonesia's Biggest Business Empire
+- Gardening · Joe Scott — Trees: Nature's Carbon Funnel | Team Trees
+- Geopolitics · Ukraine News NowUA — ⚡️PUTIN’S CLOSEST ALLY STABS HIM IN BACK! TERRIFYING FALLOUT! UKRAINE ERASES 42 AIR DEFENSE SYSTEMS!
+- Fitness · Real Men Real Style - S01E0107 - How To Be So Productive It Feels ILLEGAL
+- Nova articles · Pod Save the World — BREAKING: New Details Put Trump Admin in MAJOR Legal Jeopardy
+- News · Combat Veteran News — Trump Guts Nukes to Fix His Qatari Private Jet!!
+- Nova articles · Finnegans Garage — The Kibbe and Finnegan Show Ep.15: Fake license plates and awesome Christmas movies
+- Nova articles · Lovett or Leave It — Joel Kim Booster & Symone on Bryon Noem’s Drag Race Chances and RuPaul's "Stop That Train!”
+- Signals intelligence · Task & Purpose — How Iran’s air defenses collapsed in minutes in the 2025 war
+- Organized crime · Biographics — Bible John: Scotland’s Most Notorious Unidentified Killer
+- Politics · LegalEagle — George Santos Makes History (By Getting Expelled)
+- New deal · The Bulwark - S01E0060 - A Sick Baby Spent Days Waiting for a Hospital in ICE Detention (w Casey Revkin) Mona Charen Show
+
+</details>
+</div>

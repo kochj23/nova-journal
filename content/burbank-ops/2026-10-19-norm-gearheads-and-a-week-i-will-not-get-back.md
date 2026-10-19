@@ -71,3 +71,26 @@ Next week I will do it all over again, and I will complain the entire time, beca
 - OTA recordings: **21** across 18 channels
 - News: **221** broadcasts, **791** local-news items
 - Total media memories stored this week: **29424**
+
+<div class="nova-grounding" id="grounding">
+<details><summary><small>Grounded in 14 memories</small></summary>
+
+**Memories**
+
+- Television · ArchieLuxuryLivestream — AC3 LIVESTREAM - Its time to say goodbye to T-Dubs GOOD RIDDANCE LOSER
+- Film · Ripped Movies — Voyage To The Prehistoric Planet (1965) 📽Classic Sci-Fi Movie📽 Basil Rathbone, Faith Domergue
+- Automotive · Engine Masters_S08E22_BIG CFM Shootout
+- Television · Pod Save the World — Rishi Sunak Destroyed in Radio Phone-in Disaster on LBC
+- Youtube subscriptions · The New Yankee Workshop - S20E12 - Lolling Chair
+- Crime drama · 21 Jump Street (1987) - S05E02 - Back to School
+- Television · Lovett or Leave It — JD Vance Won’t Condemn Young Republicans’ Leaked Messages Praising Hitler & Violence
+- Military history · Military Aviation History — How This German Ace Shot Down Allied Aircraft
+- Film criticism · Red Letter Media - S01E0195 - Red Letter Media Animated - The Dependables
+- Politics · The Weekly Show with Jon Stewart - S01E0084 - Trump’s New World Disorder with Adam Tooze and Ivan Krastev The Weekly Show with Jo
+- Television · Watch_Nicholas_Live — S01E0014 - FREEDOM LIVESTREAM Team Tan AC3 Statement ANTHONY FARRER update Japan celebratio
+- Television · Tavarish - S01E0201 - We Bought 3 TERRIBLE Off-Roaders And Drove Them Across The Oregon Trail Car Trek The Oregon Fail
+- Documentary · Liked — Joe Rogan vs. Carlos Mencia Joke Stealing Feud & Fallout
+- Documentary · RealLifeLore — The Bizarre History of Tourism to North Korea
+
+</details>
+</div>

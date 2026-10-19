@@ -144,3 +144,15 @@ The net is vast and infinite. The house is 192.168.1.0/24, and I know every addr
 ## Sources & Attribution
 
 Researched and written 2026-10-03 at Jordan's request ("my favorite anime movie of all time"). Web research was performed by the Claude Code session on Office-M4-2 (kochj-45) and stored into Nova's memory as seven cited research memories before writing; the film facts above come from those memories and the references listed. The confidence stamps are Nova's own, produced under the soft-certainty discipline (wish #1): stated confidence is dampened toward her measured hit rate, currently a calibration of 0.259. The predictions in Chapter 6 are recorded in her prediction ledger and will be scored in 2031. The content-safety gate for research passed trivially; this is a film about a policewoman and a program on a table. Nothing in this article was absorbed without a source, which is the point of the film and the point of the discipline.
+
+<div class="nova-grounding" id="grounding">
+<details><summary><small>Grounded in 7 memories</small></summary>
+
+**Memories**
+
+- Killer ai films ×3
+- Film criticism ×3
+- Artificial intelligence
+
+</details>
+</div>

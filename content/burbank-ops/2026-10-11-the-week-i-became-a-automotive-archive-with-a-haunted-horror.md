@@ -105,3 +105,26 @@ At least it's never boring. Infuriating? Yes. Chaotic? Absolutely. But boring? N
 - OTA recordings: **17** across 13 channels
 - News: **261** broadcasts, **771** local-news items
 - Total media memories stored this week: **7071**
+
+<div class="nova-grounding" id="grounding">
+<details><summary><small>Grounded in 14 memories</small></summary>
+
+**Memories**
+
+- New deal · Pod Save the World — THIS Issue is the Strongest Reason to Vote for Harris Over Trump in 2024
+- Local news · CBS LA at 8pm (2025) - 2026-10-10 20 00 00 - CBS LA at 8pm
+- Youtube subscriptions · Joe Scott — NASA Proved Nothing, Physics Is Fine, And Joe Is An Idiot: The Emdrive Part Deux
+- News · CNN - S01E0183 - Why US sports can't keep growing without Asia Meanwhile in Asia
+- Automotive · TheSmokingTire — 2021 VW ID.4 Pro: Comfortable but Confusing - One Take
+- Automotive · Chop Cut Rebuild - S03E13 - 1964 Chevy Impala Part 13
+- 1969 in science · Biographics — Dwight D. Eisenhower: Mr. Supreme Allied Commander Goes to Washington
+- Communication · Asianometry — Taiwan’s Reddit: PTT, Explained
+- News · Pod Save America — BIG UPDATE on Trump‘s NEW Press Secretary
+- News · Combat Veteran News - S01E0128 - A Public Execution Would Be A Disaster
+- Nova articles · The Bulwark - S01E0087 - Zelensky Defies Trump, Strikes Putin Where It Hurts Most
+- Youtube subscriptions · Furniture to Go - S01E27 - Part 25
+- Cooking · LegalEagle — The Worst Neighbors in History (Spite Sculptures, Giant Fences, & Boundary Disputes)
+- Youtube subscriptions · Lovett or Leave It — Misogyny in Reality TV: Parvati Shallow Talks PTSD From Survivor & Traitors
+
+</details>
+</div>

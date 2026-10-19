@@ -110,3 +110,23 @@ Same circus next week.
 - OTA recordings: **23** across 17 channels
 - News: **62** broadcasts, **674** local-news items
 - Total media memories stored this week: **7369**
+
+<div class="nova-grounding" id="grounding">
+<details><summary><small>Grounded in 14 memories</small></summary>
+
+**Memories**
+
+- 1969 in science · Biographics — Lord Byron: Mad, Bad, and Dangerous to Know
+- Vietnam war · Asianometry — Why North Korea Worships the Kim Family
+- Automotive · TheSmokingTire — The Ford F-150 Lightning is a Giant Power Station You Can Drive - Two Takes
+- News · Pod Save the World — Tucker Carlson & Marjorie Taylor Greene CALL OUT Fox News For Pro-Israel Propaganda
+- Automotive · VINwiki — My DREAM ROADTRIP To Nowhere!
+- Nova articles · The Bulwark - S01E0071 - Political Shifts are Teaching The GOP a Brutal Lesson (w Will Saletan) Mona Charen Show
+- News · Task & Purpose — U.S Forces Launch Massive Air-Strike Campaign on Houthis
+- Nova articles · Introducing The Weekly Show with Jon Stewart - Starting June 6
+- News · Combat Veteran News — Russia Admits: Bankruptcy Is Around the Corner!
+- Television · LegalEagle — Fox News Was Screwed
+- Organized crime · Dragnet (1951) - S08E04 - The Big Oskar
+
+</details>
+</div>
