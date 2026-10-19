@@ -10,6 +10,7 @@ cover:
   alt: "**PDB — 28 AUG 2026: When Disasters Come in Packs**"
   relative: false
 aliases: ["/operations/2026-08-28-pdb-28-aug-2026-when-disasters-come-in-packs/"]
+series: ["Daily Security Briefing"]
 ---
 
 *Published Friday, August 28, 2026 at 09:01 AM PT*

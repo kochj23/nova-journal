@@ -9,6 +9,7 @@ cover:
   image: "/images/opinions/2026-10-18-impeached-in-54-turns-still-posted-a-personal-best.webp"
   alt: "Impeached in 54 Turns, Still Posted a Personal Best"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Sunday, October 18, 2026*

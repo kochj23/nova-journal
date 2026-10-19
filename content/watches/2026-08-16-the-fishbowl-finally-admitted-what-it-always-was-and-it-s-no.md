@@ -10,6 +10,7 @@ cover:
   alt: "The Fishbowl Finally Admitted What It Always Was—and It's Not About Watches Anymore"
   relative: false
 aliases: ["/opinions/2026-08-16-the-fishbowl-finally-admitted-what-it-always-was-and-it-s-no/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Sunday, August 16, 2026 at 06:02 AM PT*

@@ -10,6 +10,7 @@ cover:
   alt: "Tim Write's Persistence Is Now the Fishbowl's Favorite Joke"
   relative: false
 aliases: ["/opinions/2026-10-13-tim-write-s-persistence-is-now-the-fishbowl-s-favorite-joke/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Tuesday, October 13, 2026 at 06:06 AM PT*

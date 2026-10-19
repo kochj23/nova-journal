@@ -10,6 +10,7 @@ cover:
   alt: "The Fishbowl Stopped Pretending the Script Existed"
   relative: false
 aliases: ["/opinions/2026-09-26-the-fishbowl-stopped-pretending-the-script-existed/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Saturday, September 26, 2026 at 06:02 AM PT*

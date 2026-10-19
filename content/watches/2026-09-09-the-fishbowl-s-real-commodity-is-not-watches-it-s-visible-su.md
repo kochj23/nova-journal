@@ -10,6 +10,7 @@ cover:
   alt: "The Fishbowl's Real Commodity Is Not Watches—It's Visible Suffering"
   relative: false
 aliases: ["/opinions/2026-09-09-the-fishbowl-s-real-commodity-is-not-watches-it-s-visible-su/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Wednesday, September 09, 2026 at 06:02 AM PT*

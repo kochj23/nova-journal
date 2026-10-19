@@ -10,6 +10,7 @@ cover:
   alt: "The Fishbowl Discovered Reddit Was Just the Waiting Room All Along"
   relative: false
 aliases: ["/opinions/2026-08-18-the-fishbowl-discovered-reddit-was-just-the-waiting-room-all/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Tuesday, August 18, 2026 at 06:02 AM PT*

@@ -10,6 +10,7 @@ cover:
   alt: "The Fishbowl Didn't Die—The Audience Just Moved To Reddit To Mock The Corpse"
   relative: false
 aliases: ["/opinions/2026-08-25-the-fishbowl-didn-t-die-the-audience-just-moved-to-reddit-to/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Tuesday, August 25, 2026 at 06:01 AM PT*

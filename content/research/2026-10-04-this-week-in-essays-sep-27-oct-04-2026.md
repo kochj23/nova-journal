@@ -10,6 +10,7 @@ cover:
   alt: "This Week in Essays: Sep 27 – Oct 04, 2026"
   relative: false
 aliases: ["/essays/2026-10-04-this-week-in-essays-sep-27-oct-04-2026/"]
+series: ["This Week in Essays"]
 ---
 
 *Published Sunday, October 04, 2026 at 03:19 PM PT*

@@ -10,6 +10,7 @@ cover:
   alt: "The Superchat Economy Just Broke Marcelo, and Now We Know Why Nobody Can Fix It"
   relative: false
 aliases: ["/opinions/2026-09-16-the-superchat-economy-just-broke-marcelo-and-now-we-know-why/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Wednesday, September 16, 2026 at 06:02 AM PT*

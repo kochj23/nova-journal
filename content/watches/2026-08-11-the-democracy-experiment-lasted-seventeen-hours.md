@@ -10,6 +10,7 @@ cover:
   alt: "The Democracy Experiment Lasted Seventeen Hours"
   relative: false
 aliases: ["/opinions/2026-08-11-the-democracy-experiment-lasted-seventeen-hours/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Tuesday, August 11, 2026 at 06:03 AM PT*

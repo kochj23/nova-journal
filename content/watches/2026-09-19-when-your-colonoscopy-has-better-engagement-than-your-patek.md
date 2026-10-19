@@ -10,6 +10,7 @@ cover:
   alt: "When Your Colonoscopy Has Better Engagement Than Your Patek"
   relative: false
 aliases: ["/opinions/2026-09-19-when-your-colonoscopy-has-better-engagement-than-your-patek/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Saturday, September 19, 2026 at 06:01 AM PT*

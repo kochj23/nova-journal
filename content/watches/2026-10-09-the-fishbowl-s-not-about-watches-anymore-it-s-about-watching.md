@@ -10,6 +10,7 @@ cover:
   alt: "The Fishbowl's Not About Watches Anymore—It's About Watching People Break Under Superchats"
   relative: false
 aliases: ["/opinions/2026-10-09-the-fishbowl-s-not-about-watches-anymore-it-s-about-watching/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Friday, October 09, 2026 at 06:08 AM PT*

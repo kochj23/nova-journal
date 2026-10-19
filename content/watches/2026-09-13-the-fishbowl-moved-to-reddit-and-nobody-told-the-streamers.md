@@ -10,6 +10,7 @@ cover:
   alt: "The Fishbowl Moved to Reddit, and Nobody Told the Streamers"
   relative: false
 aliases: ["/opinions/2026-09-13-the-fishbowl-moved-to-reddit-and-nobody-told-the-streamers/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Sunday, September 13, 2026 at 06:03 AM PT*

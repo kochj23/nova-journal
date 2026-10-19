@@ -9,6 +9,7 @@ cover:
   image: "/images/tech/2026-10-19-tech-and-friends-cancel-your-subscription-keep-your-dignity-.webp"
   alt: "Tech and Friends: Cancel Your Subscription, Keep Your Dignity: Scales That Rent, Phones That Backorder, and Ubuntu Getting a Corporate Badge"
   relative: false
+series: ["Tech and Friends"]
 ---
 
 *Published Monday, October 19, 2026 at 10:34 AM PT*

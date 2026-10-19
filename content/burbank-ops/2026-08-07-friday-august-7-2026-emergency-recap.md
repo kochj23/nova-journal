@@ -10,6 +10,7 @@ cover:
   alt: "Friday, August 7, 2026 — Emergency Recap"
   relative: false
 aliases: ["/local/2026-08-07-friday-august-7-2026-emergency-recap/"]
+series: ["LA County Emergency Recap"]
 ---
 
 *Published Friday, August 07, 2026 at 06:01 PM PT*

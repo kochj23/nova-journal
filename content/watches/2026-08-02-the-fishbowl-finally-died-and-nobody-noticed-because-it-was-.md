@@ -10,6 +10,7 @@ cover:
   alt: "The Fishbowl Finally Died, And Nobody Noticed Because It Was Already Dead"
   relative: false
 aliases: ["/opinions/2026-08-02-the-fishbowl-finally-died-and-nobody-noticed-because-it-was-/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Sunday, August 02, 2026 at 06:52 AM PT*

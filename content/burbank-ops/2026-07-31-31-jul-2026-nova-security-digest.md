@@ -10,6 +10,7 @@ cover:
   alt: "**31 JUL 2026 — NOVA SECURITY DIGEST**"
   relative: false
 aliases: ["/operations/2026-07-31-31-jul-2026-nova-security-digest/"]
+series: ["Daily Security Briefing"]
 ---
 
 *Published Friday, July 31, 2026 at 10:59 AM PT*

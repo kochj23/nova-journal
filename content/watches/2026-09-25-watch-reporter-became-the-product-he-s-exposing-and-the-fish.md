@@ -10,6 +10,7 @@ cover:
   alt: "Watch Reporter Became the Product He's Exposing—And the Fishbowl Doesn't Even Know Yet"
   relative: false
 aliases: ["/opinions/2026-09-25-watch-reporter-became-the-product-he-s-exposing-and-the-fish/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Friday, September 25, 2026 at 06:02 AM PT*

@@ -10,6 +10,7 @@ cover:
   alt: "The Watch Fishbowl's Greatest Hits (And Why They're All Fucking Terrible"
   relative: false
 aliases: ["/opinions/2026-07-18-the-watch-fishbowl-s-greatest-hits-and-why-they-re-all-fucki/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Saturday, July 18, 2026 at 06:01 AM PT*

@@ -9,6 +9,7 @@ cover:
   image: "/images/art/2026-07-06-this-week-in-art-jun-29-jul-06-2026.webp"
   alt: "This Week in Art: Jun 29 – Jul 06, 2026"
   relative: false
+series: ["This Week in Art"]
 ---
 
 *Published Monday, July 06, 2026 at 03:02 PM PT*

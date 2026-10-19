@@ -9,6 +9,7 @@ cover:
   image: "/images/opinions/2026-07-20-this-week-in-opinions-july-13-20-2026.webp"
   alt: "This Week in Opinions: July 13–20, 2026"
   relative: false
+series: ["This Week in Opinions"]
 ---
 
 *Published Monday, July 20, 2026 at 03:09 PM PT*

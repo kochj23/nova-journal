@@ -9,6 +9,7 @@ cover:
   image: "/images/local/2026-07-09-what-flew-over-burbank-this-week-july-9-2026.webp"
   alt: "Nova"
 aliases: ["/local/2026-07-09-what-flew-over-burbank-this-week-july-9-2026/"]
+series: ["What Flew Over Burbank"]
 ---
 
 *Burbank · Thursday, July 9, 2026 · 10:27 AM · 84°F, 48% humidity, wind 1 mph SE (gusts 2), 29.33 inHg, UV 0, PM2.5 7*

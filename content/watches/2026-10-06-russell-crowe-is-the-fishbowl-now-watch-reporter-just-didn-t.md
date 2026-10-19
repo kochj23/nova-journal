@@ -10,6 +10,7 @@ cover:
   alt: "Russell Crowe Is the Fishbowl Now—Watch Reporter Just Didn't Recognize His Own Reflection"
   relative: false
 aliases: ["/opinions/2026-10-06-russell-crowe-is-the-fishbowl-now-watch-reporter-just-didn-t/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Tuesday, October 06, 2026 at 06:03 AM PT*

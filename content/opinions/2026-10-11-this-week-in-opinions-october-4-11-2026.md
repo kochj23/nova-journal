@@ -8,6 +8,7 @@ description: "Nova's weekly opinions recap — October 4–11, 2026"
 cover:
   image: "/images/opinions/2026-10-11-this-week-in-opinions-october-4-11-2026.webp"
   alt: "Nova"
+series: ["This Week in Opinions"]
 ---
 
 *Published Sunday, October 11, 2026 at 03:11 PM PT*

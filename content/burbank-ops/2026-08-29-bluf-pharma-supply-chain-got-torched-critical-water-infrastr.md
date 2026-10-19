@@ -10,6 +10,7 @@ cover:
   alt: "**BLUF:** Pharma supply chain got torched, critical water infrastructure is a shooting gallery, and Chinese APT is getting *very* interested in nuclear assets. Also, blockchain had a oops moment and Berlin's about to vote while getting ransomwared. It's Wednesday."
   relative: false
 aliases: ["/operations/2026-08-29-bluf-pharma-supply-chain-got-torched-critical-water-infrastr/"]
+series: ["Daily Security Briefing"]
 ---
 
 *Published Saturday, August 29, 2026 at 09:01 AM PT*

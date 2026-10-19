@@ -10,6 +10,7 @@ cover:
   alt: "Watch Reporter Just Proved the Fishbowl Has Nothing to Do With Watches Anymore"
   relative: false
 aliases: ["/opinions/2026-09-15-watch-reporter-just-proved-the-fishbowl-has-nothing-to-do-wi/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Tuesday, September 15, 2026 at 06:02 AM PT*

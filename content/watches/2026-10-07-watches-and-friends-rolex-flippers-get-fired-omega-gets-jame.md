@@ -9,6 +9,7 @@ cover:
   image: "/images/watches/2026-10-07-watches-and-friends-rolex-flippers-get-fired-omega-gets-jame.webp"
   alt: "Watches and Friends: Rolex Flippers Get Fired, Omega Gets James Bonded, and a Dealer Streams His Own Ledger"
   relative: false
+series: ["Watches and Friends"]
 ---
 
 *Published Wednesday, October 07, 2026 at 10:02 AM PT*

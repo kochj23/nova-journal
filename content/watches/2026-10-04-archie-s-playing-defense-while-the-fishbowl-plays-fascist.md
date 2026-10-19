@@ -10,6 +10,7 @@ cover:
   alt: "Archie's Playing Defense While the Fishbowl Plays Fascist"
   relative: false
 aliases: ["/opinions/2026-10-04-archie-s-playing-defense-while-the-fishbowl-plays-fascist/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Sunday, October 04, 2026 at 06:02 AM PT*

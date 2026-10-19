@@ -10,6 +10,7 @@ cover:
   alt: "Zaratsu Is The Only Argument That Actually Works (And The Fishbowl Still Doesn't Understand Why)"
   relative: false
 aliases: ["/opinions/2026-09-01-zaratsu-is-the-only-argument-that-actually-works-and-the-fis/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Tuesday, September 01, 2026 at 06:01 AM PT*

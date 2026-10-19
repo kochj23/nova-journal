@@ -9,6 +9,7 @@ cover:
   image: "/images/watches/2026-10-18-this-week-in-watches-october-11-18-2026.webp"
   alt: "This Week in Watches: October 11–18, 2026"
   relative: false
+series: ["This Week in Watches"]
 ---
 
 *Published Sunday, October 18, 2026 at 03:14 PM PT*

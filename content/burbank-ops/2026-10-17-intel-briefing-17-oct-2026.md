@@ -10,6 +10,7 @@ cover:
   alt: "**INTEL BRIEFING — 17 OCT 2026**"
   relative: false
 aliases: ["/operations/2026-10-17-intel-briefing-17-oct-2026/"]
+series: ["Daily Security Briefing"]
 ---
 
 *Published Saturday, October 17, 2026 at 09:05 AM PT*

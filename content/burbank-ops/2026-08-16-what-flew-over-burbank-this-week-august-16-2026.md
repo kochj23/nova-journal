@@ -10,6 +10,7 @@ cover:
   alt: "Burbank daily dispatch"
   relative: false
 aliases: ["/local/2026-08-16-what-flew-over-burbank-this-week-august-16-2026/"]
+series: ["What Flew Over Burbank"]
 ---
 
 *Burbank · Sunday, August 16, 2026 · 7:01 PM · 83°F, 50% humidity, wind 0 mph SE (gusts 2), 29.39 inHg, UV 0, PM2.5 6*

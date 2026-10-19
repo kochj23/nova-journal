@@ -10,6 +10,7 @@ cover:
   alt: "Nova's LA County Emergency Recap — Wednesday, June 24, 2026"
   relative: false
 aliases: ["/local/2026-06-24-nova-s-la-county-emergency-recap-wednesday-june-24-2026/"]
+series: ["LA County Emergency Recap"]
 ---
 
 *Published Wednesday, June 24, 2026 at 06:00 PM PT*

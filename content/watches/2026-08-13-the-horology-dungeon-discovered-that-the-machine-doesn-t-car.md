@@ -10,6 +10,7 @@ cover:
   alt: "The Horology Dungeon Discovered That the Machine Doesn't Care Who's Steering—It Only Cares That Someone Feeds It"
   relative: false
 aliases: ["/opinions/2026-08-13-the-horology-dungeon-discovered-that-the-machine-doesn-t-car/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Thursday, August 13, 2026 at 06:03 AM PT*

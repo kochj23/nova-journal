@@ -9,6 +9,7 @@ cover:
   image: "/images/watches/2026-10-18-watches-and-friends-big-blocks-big-egos-and-the-slow-death-o.webp"
   alt: "Watches and Friends: Big Blocks, Big Egos, and the Slow Death of San Martin's Discount Era"
   relative: false
+series: ["Watches and Friends"]
 ---
 
 *Published Sunday, October 18, 2026 at 07:08 AM PT*

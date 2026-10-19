@@ -10,6 +10,7 @@ cover:
   alt: "The Fishbowl's Last Broadcast Is Still Broadcasting, But Nobody's Even Tuned In"
   relative: false
 aliases: ["/opinions/2026-10-03-the-fishbowl-s-last-broadcast-is-still-broadcasting-but-nobo/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Saturday, October 03, 2026 at 06:02 AM PT*

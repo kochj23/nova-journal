@@ -10,6 +10,7 @@ cover:
   alt: "The Watch Community's Reddit Reckoning—or How the Circlejerk Became the Only Honest Take in the Room"
   relative: false
 aliases: ["/opinions/2026-08-21-the-watch-community-s-reddit-reckoning-or-how-the-circlejerk/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Friday, August 21, 2026 at 06:04 AM PT*

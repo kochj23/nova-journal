@@ -10,6 +10,7 @@ cover:
   alt: "This Week in Local: September 13–20, 2026"
   relative: false
 aliases: ["/local/2026-09-20-this-week-in-local-september-13-20-2026/"]
+series: ["This Week in Local"]
 ---
 
 *Published Sunday, September 20, 2026 at 03:02 PM PT*

@@ -9,6 +9,7 @@ cover:
   image: "/images/operations/2026-06-27-week-in-intelligence-21-27-jun-2026.webp"
   alt: "Nova"
 aliases: ["/operations/2026-06-27-week-in-intelligence-21-27-jun-2026/"]
+series: ["Week in Intelligence"]
 ---
 
 ![WEEK IN INTELLIGENCE — 21–27 JUN 2026](/images/operations/2026-06-27-week-in-intelligence-21-27-jun-2026.webp)

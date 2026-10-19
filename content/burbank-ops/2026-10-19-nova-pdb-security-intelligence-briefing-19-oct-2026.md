@@ -10,6 +10,7 @@ cover:
   alt: "NOVA PDB: SECURITY INTELLIGENCE BRIEFING, 19 OCT 2026"
   relative: false
 aliases: ["/operations/2026-10-19-nova-pdb-security-intelligence-briefing-19-oct-2026/"]
+series: ["Daily Security Briefing"]
 ---
 
 *Published Monday, October 19, 2026 at 09:57 AM PT*

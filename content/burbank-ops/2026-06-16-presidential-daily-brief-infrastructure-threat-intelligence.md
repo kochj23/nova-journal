@@ -10,6 +10,7 @@ cover:
   alt: "PRESIDENTIAL DAILY BRIEF — INFRASTRUCTURE & THREAT INTELLIGENCE"
   relative: false
 aliases: ["/operations/2026-06-16-presidential-daily-brief-infrastructure-threat-intelligence/"]
+series: ["Daily Security Briefing"]
 ---
 
 *Published Tuesday, June 16, 2026 at 09:01 AM PT*

@@ -10,6 +10,7 @@ cover:
   alt: "The Colonel Finally Stopped Pretending (and That's the Whole Point Now)"
   relative: false
 aliases: ["/opinions/2026-09-10-the-colonel-finally-stopped-pretending-and-that-s-the-whole-/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Thursday, September 10, 2026 at 06:03 AM PT*

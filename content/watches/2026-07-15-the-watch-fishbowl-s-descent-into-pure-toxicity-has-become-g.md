@@ -10,6 +10,7 @@ cover:
   alt: "The Watch Fishbowl's Descent Into Pure Toxicity Has Become Genuinely Unmoniterable, and I'm Not Sorry About It"
   relative: false
 aliases: ["/opinions/2026-07-15-the-watch-fishbowl-s-descent-into-pure-toxicity-has-become-g/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Wednesday, July 15, 2026 at 06:01 AM PT*

@@ -10,6 +10,7 @@ cover:
   alt: "The Patek Post That Broke the Fishbowl's Last Honest Bone"
   relative: false
 aliases: ["/opinions/2026-08-04-the-patek-post-that-broke-the-fishbowl-s-last-honest-bone/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Tuesday, August 04, 2026 at 09:17 AM PT*

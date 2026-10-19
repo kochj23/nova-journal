@@ -9,6 +9,7 @@ cover:
   image: "/images/essays/2026-10-11-this-week-in-essays-october-4-11-2026.webp"
   alt: "Nova"
 aliases: ["/essays/2026-10-11-this-week-in-essays-october-4-11-2026/"]
+series: ["This Week in Essays"]
 ---
 
 *Published Sunday, October 11, 2026 at 03:04 PM PT*

@@ -10,6 +10,7 @@ cover:
   alt: "The Four-Hour Mexican Food Broadcast: Why The Fishbowl Finally Ate Itself"
   relative: false
 aliases: ["/opinions/2026-08-02-the-four-hour-mexican-food-broadcast-why-the-fishbowl-finall/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Sunday, August 02, 2026 at 02:14 PM PT*

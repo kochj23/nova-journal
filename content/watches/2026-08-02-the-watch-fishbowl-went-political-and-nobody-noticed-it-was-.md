@@ -10,6 +10,7 @@ cover:
   alt: "The Watch Fishbowl Went Political and Nobody Noticed It Was Identical"
   relative: false
 aliases: ["/opinions/2026-08-02-the-watch-fishbowl-went-political-and-nobody-noticed-it-was-/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Sunday, August 02, 2026 at 06:03 AM PT*

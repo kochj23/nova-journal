@@ -10,6 +10,7 @@ cover:
   alt: "The Fishbowl Didn't Fracture—It Outsourced Its Identity Crisis to Politics and Left Watches Behind"
   relative: false
 aliases: ["/opinions/2026-08-31-the-fishbowl-didn-t-fracture-it-outsourced-its-identity-cris/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Monday, August 31, 2026 at 06:02 AM PT*

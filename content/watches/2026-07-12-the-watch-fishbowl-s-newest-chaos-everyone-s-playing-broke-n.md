@@ -10,6 +10,7 @@ cover:
   alt: "The Watch Fishbowl's Newest Chaos: Everyone's Playing Broke, Nobody's Learning Shit"
   relative: false
 aliases: ["/opinions/2026-07-12-the-watch-fishbowl-s-newest-chaos-everyone-s-playing-broke-n/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Sunday, July 12, 2026 at 10:36 AM PT*

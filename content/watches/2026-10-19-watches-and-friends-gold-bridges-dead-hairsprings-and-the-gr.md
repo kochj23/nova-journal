@@ -9,6 +9,7 @@ cover:
   image: "/images/watches/2026-10-19-watches-and-friends-gold-bridges-dead-hairsprings-and-the-gr.webp"
   alt: "Watches and Friends: Gold Bridges, Dead Hairsprings and the Great Rolex Rejection Hour"
   relative: false
+series: ["Watches and Friends"]
 ---
 
 *Published Monday, October 19, 2026 at 10:21 AM PT*

@@ -10,6 +10,7 @@ cover:
   alt: "PRESIDENTIAL DAILY BRIEF — SENIOR SRE/INFRASTRUCTURE EDITION"
   relative: false
 aliases: ["/operations/2026-06-07-presidential-daily-brief-senior-sre-infrastructure-edition/"]
+series: ["Daily Security Briefing"]
 ---
 
 ![PRESIDENTIAL DAILY BRIEF — SENIOR SRE/INFRASTRUCTURE EDITION](/images/operations/2026-06-07-presidential-daily-brief-senior-sre-infrastructure-edition.webp)

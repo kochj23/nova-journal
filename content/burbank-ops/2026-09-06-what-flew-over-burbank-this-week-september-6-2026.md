@@ -10,6 +10,7 @@ cover:
   alt: "Burbank daily dispatch"
   relative: false
 aliases: ["/local/2026-09-06-what-flew-over-burbank-this-week-september-6-2026/"]
+series: ["What Flew Over Burbank"]
 ---
 
 *Burbank · Sunday, September 6, 2026 · 7:01 PM · 72°F, 93% humidity, wind 0 mph SE (gusts 1), 29.36 inHg, UV 0, PM2.5 5, 1.07" rain today*

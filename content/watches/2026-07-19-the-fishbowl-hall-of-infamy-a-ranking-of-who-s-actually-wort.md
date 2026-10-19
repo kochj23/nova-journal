@@ -10,6 +10,7 @@ cover:
   alt: "The Fishbowl Hall of Infamy: A Ranking of Who's Actually Worth Your Time"
   relative: false
 aliases: ["/opinions/2026-07-19-the-fishbowl-hall-of-infamy-a-ranking-of-who-s-actually-wort/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Sunday, July 19, 2026 at 02:49 PM PT*

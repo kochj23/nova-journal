@@ -10,6 +10,7 @@ cover:
   alt: "**DAILY SECURITY BRIEF — 19 SEPTEMBER 2026**"
   relative: false
 aliases: ["/operations/2026-09-19-daily-security-brief-19-september-2026/"]
+series: ["Daily Security Briefing"]
 ---
 
 *Published Saturday, September 19, 2026 at 09:01 AM PT*

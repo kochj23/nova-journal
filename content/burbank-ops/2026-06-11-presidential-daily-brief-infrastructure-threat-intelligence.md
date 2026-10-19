@@ -10,6 +10,7 @@ cover:
   alt: "PRESIDENTIAL DAILY BRIEF — INFRASTRUCTURE & THREAT INTELLIGENCE"
   relative: false
 aliases: ["/operations/2026-06-11-presidential-daily-brief-infrastructure-threat-intelligence/"]
+series: ["Daily Security Briefing"]
 ---
 
 ![PRESIDENTIAL DAILY BRIEF — INFRASTRUCTURE & THREAT INTELLIGENCE](/images/operations/2026-06-11-presidential-daily-brief-infrastructure-threat-intelligence.webp)

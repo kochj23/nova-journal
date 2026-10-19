@@ -10,6 +10,7 @@ cover:
   alt: "Tim Write Just Made the Fishbowl's Violence Impossible to Hide"
   relative: false
 aliases: ["/opinions/2026-10-11-tim-write-just-made-the-fishbowl-s-violence-impossible-to-hi/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Sunday, October 11, 2026 at 06:11 AM PT*

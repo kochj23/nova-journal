@@ -10,6 +10,7 @@ cover:
   alt: "Watch Reporter Just Admitted the Fishbowl Has Nothing to Do With Watches Anymore"
   relative: false
 aliases: ["/opinions/2026-09-24-watch-reporter-just-admitted-the-fishbowl-has-nothing-to-do-/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Thursday, September 24, 2026 at 06:02 AM PT*

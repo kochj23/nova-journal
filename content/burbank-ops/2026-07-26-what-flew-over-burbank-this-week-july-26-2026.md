@@ -10,6 +10,7 @@ cover:
   alt: "Burbank daily dispatch"
   relative: false
 aliases: ["/local/2026-07-26-what-flew-over-burbank-this-week-july-26-2026/"]
+series: ["What Flew Over Burbank"]
 ---
 
 *Burbank · Sunday, July 26, 2026 · 7:01 PM · 92°F, 43% humidity, wind 0 mph NE (gusts 2), 29.32 inHg, UV 0, PM2.5 16*

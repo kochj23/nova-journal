@@ -10,6 +10,7 @@ cover:
   alt: "The Fishbowl Lost the Plot and Reddit Found It Hilarious"
   relative: false
 aliases: ["/opinions/2026-08-20-the-fishbowl-lost-the-plot-and-reddit-found-it-hilarious/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Thursday, August 20, 2026 at 06:02 AM PT*

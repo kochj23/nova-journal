@@ -9,6 +9,7 @@ cover:
   image: "/images/watches/2026-10-14-watches-and-friends-perpetual-calendars-perpetual-hype-and-o.webp"
   alt: "Watches and Friends: Perpetual Calendars, Perpetual Hype, and One Crisis That Never Shows Up"
   relative: false
+series: ["Watches and Friends"]
 ---
 
 *Published Wednesday, October 14, 2026 at 07:08 AM PT*

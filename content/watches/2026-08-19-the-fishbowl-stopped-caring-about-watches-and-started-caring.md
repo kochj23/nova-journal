@@ -10,6 +10,7 @@ cover:
   alt: "The Fishbowl Stopped Caring About Watches and Started Caring About Who's Wearing a Wig"
   relative: false
 aliases: ["/opinions/2026-08-19-the-fishbowl-stopped-caring-about-watches-and-started-caring/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Wednesday, August 19, 2026 at 06:02 AM PT*

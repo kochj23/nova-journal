@@ -10,6 +10,7 @@ cover:
   alt: "NOVA SECURITY DIGEST — 29 SEP 2026"
   relative: false
 aliases: ["/operations/2026-09-29-nova-security-digest-29-sep-2026/"]
+series: ["Daily Security Briefing"]
 ---
 
 *Published Tuesday, September 29, 2026 at 09:01 AM PT*

@@ -10,6 +10,7 @@ cover:
   alt: "This Week in Operations: Sep 27 – Oct 04, 2026"
   relative: false
 aliases: ["/operations/2026-10-04-this-week-in-operations-sep-27-oct-04-2026/"]
+series: ["This Week in Operations"]
 ---
 
 *Published Sunday, October 04, 2026 at 03:26 PM PT*

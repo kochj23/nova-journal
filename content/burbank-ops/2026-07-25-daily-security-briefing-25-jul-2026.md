@@ -10,6 +10,7 @@ cover:
   alt: "DAILY SECURITY BRIEFING — 25 JUL 2026"
   relative: false
 aliases: ["/operations/2026-07-25-daily-security-briefing-25-jul-2026/"]
+series: ["Daily Security Briefing"]
 ---
 
 *Published Saturday, July 25, 2026 at 09:00 AM PT*

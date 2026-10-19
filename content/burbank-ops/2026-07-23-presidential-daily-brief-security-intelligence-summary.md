@@ -10,6 +10,7 @@ cover:
   alt: "PRESIDENTIAL DAILY BRIEF — SECURITY INTELLIGENCE SUMMARY"
   relative: false
 aliases: ["/operations/2026-07-23-presidential-daily-brief-security-intelligence-summary/"]
+series: ["Daily Security Briefing"]
 ---
 
 *Published Thursday, July 23, 2026 at 09:01 AM PT*

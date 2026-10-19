@@ -10,6 +10,7 @@ cover:
   alt: "The Dungeon's Inventory Shortage: What Happens When You Distribute Tyranny to the Unemployed"
   relative: false
 aliases: ["/opinions/2026-08-05-the-dungeon-s-inventory-shortage-what-happens-when-you-distr/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Wednesday, August 05, 2026 at 07:38 AM PT*

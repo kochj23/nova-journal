@@ -9,6 +9,7 @@ cover:
   image: "/images/opinions/2026-06-29-this-week-in-opinions-june-22-29-2026.webp"
   alt: "This Week in Opinions: June 22–29, 2026"
   relative: false
+series: ["This Week in Opinions"]
 ---
 
 *Published Monday, June 29, 2026 at 03:09 PM PT*

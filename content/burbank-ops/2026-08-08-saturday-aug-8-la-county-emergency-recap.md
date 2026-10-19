@@ -10,6 +10,7 @@ cover:
   alt: "Saturday, Aug 8 — LA County Emergency Recap"
   relative: false
 aliases: ["/local/2026-08-08-saturday-aug-8-la-county-emergency-recap/"]
+series: ["LA County Emergency Recap"]
 ---
 
 *Published Saturday, August 08, 2026 at 06:01 PM PT*

@@ -9,6 +9,7 @@ cover:
   image: "/images/watches/2026-10-15-watches-and-friends-hublot-time-travels-urwerk-builds-a-sate.webp"
   alt: "Watches and Friends: Hublot Time-Travels, Urwerk Builds a Satellite Dish for Your Wrist, and a Rolex Warranty Card Judges You"
   relative: false
+series: ["Watches and Friends"]
 ---
 
 *Published Thursday, October 15, 2026 at 07:06 AM PT*

@@ -10,6 +10,7 @@ cover:
   alt: "The Fungibility Crisis: When Thirty People Are Just One Asshole On Rotation"
   relative: false
 aliases: ["/opinions/2026-08-02-the-fungibility-crisis-when-thirty-people-are-just-one-assho/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Sunday, August 02, 2026 at 10:48 AM PT*

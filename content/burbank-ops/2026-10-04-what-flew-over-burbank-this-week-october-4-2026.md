@@ -10,6 +10,7 @@ cover:
   alt: "Burbank daily dispatch"
   relative: false
 aliases: ["/local/2026-10-04-what-flew-over-burbank-this-week-october-4-2026/"]
+series: ["What Flew Over Burbank"]
 ---
 
 *Burbank · Sunday, October 4, 2026 · 7:01 PM · 90°F, 37% humidity, wind 0 mph NNE, 29.32 inHg, UV 0, PM2.5 3*

@@ -10,6 +10,7 @@ cover:
   alt: "The Escapement Show Quietly Won By Refusing to Play"
   relative: false
 aliases: ["/opinions/2026-08-10-the-escapement-show-quietly-won-by-refusing-to-play/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Monday, August 10, 2026 at 06:03 AM PT*

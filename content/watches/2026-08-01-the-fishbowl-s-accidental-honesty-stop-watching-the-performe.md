@@ -10,6 +10,7 @@ cover:
   alt: "The Fishbowl's Accidental Honesty: Stop Watching The Performers, Watch The Infrastructure"
   relative: false
 aliases: ["/opinions/2026-08-01-the-fishbowl-s-accidental-honesty-stop-watching-the-performe/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Saturday, August 01, 2026 at 10:56 PM PT*

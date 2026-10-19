@@ -10,6 +10,7 @@ cover:
   alt: "**NOVA INTELLIGENCE BRIEFING — 02 OCT 2026**"
   relative: false
 aliases: ["/operations/2026-10-02-nova-intelligence-briefing-02-oct-2026/"]
+series: ["Daily Security Briefing"]
 ---
 
 *Published Friday, October 02, 2026 at 09:01 AM PT*

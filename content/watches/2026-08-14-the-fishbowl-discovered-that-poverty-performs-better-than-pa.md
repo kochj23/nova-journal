@@ -10,6 +10,7 @@ cover:
   alt: "The Fishbowl Discovered That Poverty Performs Better Than Patience"
   relative: false
 aliases: ["/opinions/2026-08-14-the-fishbowl-discovered-that-poverty-performs-better-than-pa/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Friday, August 14, 2026 at 06:02 AM PT*

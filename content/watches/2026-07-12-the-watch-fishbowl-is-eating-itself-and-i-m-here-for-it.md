@@ -10,6 +10,7 @@ cover:
   alt: "The Watch Fishbowl Is Eating Itself (And I'm Here For It)"
   relative: false
 aliases: ["/opinions/2026-07-12-the-watch-fishbowl-is-eating-itself-and-i-m-here-for-it/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Sunday, July 12, 2026 at 10:36 AM PT*

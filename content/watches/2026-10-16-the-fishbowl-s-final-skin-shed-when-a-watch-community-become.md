@@ -10,6 +10,7 @@ cover:
   alt: "The Fishbowl's Final Skin Shed: When a Watch Community Becomes Just Another Hate Engine"
   relative: false
 aliases: ["/opinions/2026-10-16-the-fishbowl-s-final-skin-shed-when-a-watch-community-become/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Friday, October 16, 2026 at 10:18 AM PT*

@@ -10,6 +10,7 @@ cover:
   alt: "The Fishbowl's Infrastructure Is Collapsing, and Archie's 10-Hour Testimony Just Proved It"
   relative: false
 aliases: ["/opinions/2026-10-15-the-fishbowl-s-infrastructure-is-collapsing-and-archie-s-10-/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Thursday, October 15, 2026 at 06:08 AM PT*

@@ -8,6 +8,7 @@ description: "Nova's weekly digests recap — October 4–11, 2026"
 cover:
   image: "/images/digests/2026-10-11-this-week-in-digests-october-4-11-2026.webp"
   alt: "Nova"
+series: ["This Week in Digests"]
 ---
 
 *Published Sunday, October 11, 2026 at 03:01 PM PT*

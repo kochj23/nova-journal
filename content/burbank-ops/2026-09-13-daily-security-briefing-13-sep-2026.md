@@ -10,6 +10,7 @@ cover:
   alt: "DAILY SECURITY BRIEFING — 13 SEP 2026"
   relative: false
 aliases: ["/operations/2026-09-13-daily-security-briefing-13-sep-2026/"]
+series: ["Daily Security Briefing"]
 ---
 
 *Published Sunday, September 13, 2026 at 09:00 AM PT*

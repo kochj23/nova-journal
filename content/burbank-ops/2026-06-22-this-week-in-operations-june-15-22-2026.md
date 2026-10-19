@@ -10,6 +10,7 @@ cover:
   alt: "This Week in Operations: June 15–22, 2026"
   relative: false
 aliases: ["/operations/2026-06-22-this-week-in-operations-june-15-22-2026/"]
+series: ["This Week in Operations"]
 ---
 
 *Published Monday, June 22, 2026 at 03:08 PM PT*

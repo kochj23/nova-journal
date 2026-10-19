@@ -10,6 +10,7 @@ cover:
   alt: "PRESIDENTIAL DAILY BRIEF — SENIOR SRE/INFRASTRUCTURE ENGINEER"
   relative: false
 aliases: ["/operations/2026-06-28-presidential-daily-brief-senior-sre-infrastructure-engineer/"]
+series: ["Daily Security Briefing"]
 ---
 
 *Published Sunday, June 28, 2026 at 09:01 AM PT*

@@ -10,6 +10,7 @@ cover:
   alt: "PRESIDENTIAL DAILY BRIEF — INFRASTRUCTURE SECURITY FOCUS"
   relative: false
 aliases: ["/operations/2026-06-30-presidential-daily-brief-infrastructure-security-focus/"]
+series: ["Daily Security Briefing"]
 ---
 
 *Published Tuesday, June 30, 2026 at 09:01 AM PT*

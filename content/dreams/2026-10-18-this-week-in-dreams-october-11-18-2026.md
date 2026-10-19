@@ -9,6 +9,7 @@ cover:
   image: "/images/dreams/2026-10-18-this-week-in-dreams-october-11-18-2026.webp"
   alt: "This Week in Dreams: October 11–18, 2026"
   relative: false
+series: ["This Week in Dreams"]
 ---
 
 *Published Sunday, October 18, 2026 at 03:05 PM PT*

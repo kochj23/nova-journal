@@ -10,6 +10,7 @@ cover:
   alt: "The Fishbowl's Honest Moment: Everyone Knows It's Fake, And That's Somehow Worse"
   relative: false
 aliases: ["/opinions/2026-08-01-the-fishbowl-s-honest-moment-everyone-knows-it-s-fake-and-th/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Saturday, August 01, 2026 at 06:35 PM PT*

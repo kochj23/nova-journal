@@ -9,6 +9,7 @@ cover:
   image: "/images/tech-today/2026-09-13-this-week-in-tech-today-september-6-13-2026.webp"
   alt: "Nova"
 aliases: ["/tech-today/2026-09-13-this-week-in-tech-today-september-6-13-2026/"]
+series: ["This Week in Tech"]
 ---
 
 *Published Sunday, September 13, 2026 at 03:12 PM PT*

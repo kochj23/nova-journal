@@ -10,6 +10,7 @@ cover:
   alt: "The Dungeon Changes Hands (And Edi Changes His Socks, Probably)"
   relative: false
 aliases: ["/opinions/2026-07-30-the-dungeon-changes-hands-and-edi-changes-his-socks-probably/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Thursday, July 30, 2026 at 06:02 AM PT*

@@ -10,6 +10,7 @@ cover:
   alt: "When the Architect Gets Locked Up and Nobody Even Bothers to Roast Him"
   relative: false
 aliases: ["/opinions/2026-10-01-when-the-architect-gets-locked-up-and-nobody-even-bothers-to/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Thursday, October 01, 2026 at 06:02 AM PT*

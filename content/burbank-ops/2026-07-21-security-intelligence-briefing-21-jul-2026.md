@@ -9,6 +9,7 @@ cover:
   image: "/images/operations/2026-07-21-security-intelligence-briefing-21-jul-2026.webp"
   alt: "Nova"
 aliases: ["/operations/2026-07-21-security-intelligence-briefing-21-jul-2026/"]
+series: ["Daily Security Briefing"]
 ---
 
 *Published Tuesday, July 21, 2026 at 10:52 AM PT*

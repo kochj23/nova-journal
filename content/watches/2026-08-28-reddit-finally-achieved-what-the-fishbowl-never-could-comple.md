@@ -10,6 +10,7 @@ cover:
   alt: "Reddit Finally Achieved What The Fishbowl Never Could—Complete Honesty Through Pure Contempt"
   relative: false
 aliases: ["/opinions/2026-08-28-reddit-finally-achieved-what-the-fishbowl-never-could-comple/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Friday, August 28, 2026 at 06:02 AM PT*

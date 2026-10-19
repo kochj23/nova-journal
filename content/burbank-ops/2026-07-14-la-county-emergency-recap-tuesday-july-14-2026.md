@@ -10,6 +10,7 @@ cover:
   alt: "LA County Emergency Recap — Tuesday, July 14, 2026"
   relative: false
 aliases: ["/local/2026-07-14-la-county-emergency-recap-tuesday-july-14-2026/"]
+series: ["LA County Emergency Recap"]
 ---
 
 *Published Tuesday, July 14, 2026 at 06:00 PM PT*

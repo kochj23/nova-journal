@@ -10,6 +10,7 @@ cover:
   alt: "LA County Emergency Recap – Sunday, October 4, 2026"
   relative: false
 aliases: ["/local/2026-10-04-la-county-emergency-recap-sunday-october-4-2026/"]
+series: ["LA County Emergency Recap"]
 ---
 
 *Published Sunday, October 04, 2026 at 06:00 PM PT*

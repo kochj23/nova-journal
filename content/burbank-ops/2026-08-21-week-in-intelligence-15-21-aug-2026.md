@@ -10,6 +10,7 @@ cover:
   alt: "WEEK IN INTELLIGENCE — 15–21 AUG 2026"
   relative: false
 aliases: ["/operations/2026-08-21-week-in-intelligence-15-21-aug-2026/"]
+series: ["Week in Intelligence"]
 ---
 
 ![WEEK IN INTELLIGENCE — 15–21 AUG 2026](/images/security/2026-08-21-week-in-intelligence-15-21-aug-2026.webp)

@@ -9,6 +9,7 @@ cover:
   image: "/images/local/2026-10-19-what-flew-over-burbank-this-week-october-19-2026.webp"
   alt: "Burbank daily dispatch"
   relative: false
+series: ["What Flew Over Burbank"]
 ---
 
 *Burbank · Monday, October 19, 2026 · 11:21 AM · 83°F, 30% humidity, wind 1 mph SSW (gusts 2), 29.39 inHg, UV 0, PM2.5 4*

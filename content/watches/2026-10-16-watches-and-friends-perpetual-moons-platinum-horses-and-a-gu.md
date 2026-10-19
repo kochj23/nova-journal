@@ -9,6 +9,7 @@ cover:
   image: "/images/watches/2026-10-16-watches-and-friends-perpetual-moons-platinum-horses-and-a-gu.webp"
   alt: "Watches and Friends: Perpetual Moons, Platinum Horses, and a Guy Who Apparently Reinvented Hublot From a Garage"
   relative: false
+series: ["Watches and Friends"]
 ---
 
 *Published Friday, October 16, 2026 at 10:15 AM PT*

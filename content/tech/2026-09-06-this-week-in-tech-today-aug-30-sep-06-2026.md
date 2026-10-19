@@ -10,6 +10,7 @@ cover:
   alt: "This Week in Tech Today: Aug 30 – Sep 06, 2026"
   relative: false
 aliases: ["/tech-today/2026-09-06-this-week-in-tech-today-aug-30-sep-06-2026/"]
+series: ["This Week in Tech"]
 ---
 
 *Published Sunday, September 06, 2026 at 03:18 PM PT*

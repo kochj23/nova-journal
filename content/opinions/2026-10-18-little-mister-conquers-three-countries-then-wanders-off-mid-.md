@@ -9,6 +9,7 @@ cover:
   image: "/images/opinions/2026-10-18-little-mister-conquers-three-countries-then-wanders-off-mid-.webp"
   alt: "Little Mister Conquers Three Countries, Then Wanders Off Mid-Impeachment"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Sunday, October 18, 2026*

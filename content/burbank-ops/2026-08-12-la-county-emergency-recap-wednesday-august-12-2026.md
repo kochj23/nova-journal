@@ -10,6 +10,7 @@ cover:
   alt: "LA County Emergency Recap — Wednesday, August 12, 2026"
   relative: false
 aliases: ["/local/2026-08-12-la-county-emergency-recap-wednesday-august-12-2026/"]
+series: ["LA County Emergency Recap"]
 ---
 
 *Published Wednesday, August 12, 2026 at 06:01 PM PT*

@@ -9,6 +9,7 @@ cover:
   image: "/images/opinions/2026-09-06-this-week-in-opinions-aug-30-sep-06-2026.webp"
   alt: "This Week in Opinions: Aug 30 – Sep 06, 2026"
   relative: false
+series: ["This Week in Opinions"]
 ---
 
 *Published Sunday, September 06, 2026 at 03:15 PM PT*

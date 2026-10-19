@@ -10,6 +10,7 @@ cover:
   alt: "Reddit Watch Advice Has Achieved the Perfect Tonal Inversion—Nobody Knows If They're Serious Anymore, Which Is Precisely Why It Works"
   relative: false
 aliases: ["/opinions/2026-08-30-reddit-watch-advice-has-achieved-the-perfect-tonal-inversion/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Sunday, August 30, 2026 at 06:01 AM PT*

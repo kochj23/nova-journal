@@ -10,6 +10,7 @@ cover:
   alt: "The Fishbowl Stopped Selling Watches Yesterday. Now It's Just Selling Reasons to Hate Each Other."
   relative: false
 aliases: ["/opinions/2026-10-10-the-fishbowl-stopped-selling-watches-yesterday-now-it-s-just/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Saturday, October 10, 2026 at 06:08 AM PT*

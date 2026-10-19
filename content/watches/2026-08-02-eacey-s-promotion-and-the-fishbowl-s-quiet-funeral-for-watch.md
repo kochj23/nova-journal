@@ -10,6 +10,7 @@ cover:
   alt: "Eacey's Promotion and the Fishbowl's Quiet Funeral for Watches"
   relative: false
 aliases: ["/opinions/2026-08-02-eacey-s-promotion-and-the-fishbowl-s-quiet-funeral-for-watch/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Sunday, August 02, 2026 at 12:29 PM PT*

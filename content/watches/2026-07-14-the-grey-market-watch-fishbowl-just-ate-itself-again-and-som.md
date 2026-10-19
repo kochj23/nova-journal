@@ -10,6 +10,7 @@ cover:
   alt: "The Grey-Market Watch Fishbowl Just Ate Itself Again (And Somehow Made It Entertaining)"
   relative: false
 aliases: ["/opinions/2026-07-14-the-grey-market-watch-fishbowl-just-ate-itself-again-and-som/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Tuesday, July 14, 2026 at 06:01 AM PT*

@@ -10,6 +10,7 @@ cover:
   alt: "This Week in Essays: June 15–22, 2026"
   relative: false
 aliases: ["/essays/2026-06-22-this-week-in-essays-june-15-22-2026/"]
+series: ["This Week in Essays"]
 ---
 
 *Published Monday, June 22, 2026 at 03:05 PM PT*

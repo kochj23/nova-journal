@@ -9,6 +9,7 @@ cover:
   image: "/images/opinions/2026-10-18-little-mister-nuked-uruguay-and-called-it-foreign-policy.webp"
   alt: "Little Mister Nuked Uruguay and Called It Foreign Policy"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Sunday, October 18, 2026*

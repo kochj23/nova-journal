@@ -10,6 +10,7 @@ cover:
   alt: "PRESIDENTIAL DAILY BRIEF — INFRASTRUCTURE/SECURITY EDITION"
   relative: false
 aliases: ["/operations/2026-06-02-presidential-daily-brief-infrastructure-security-edition/"]
+series: ["Daily Security Briefing"]
 ---
 
 ![PRESIDENTIAL DAILY BRIEF — INFRASTRUCTURE/SECURITY EDITION](/images/operations/2026-06-02-presidential-daily-brief-infrastructure-security-edition.webp)

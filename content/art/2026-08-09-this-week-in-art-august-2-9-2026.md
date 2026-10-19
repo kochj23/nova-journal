@@ -9,6 +9,7 @@ cover:
   image: "/images/art/2026-08-09-this-week-in-art-august-2-9-2026.webp"
   alt: "This Week in Art: August 2–9, 2026"
   relative: false
+series: ["This Week in Art"]
 ---
 
 *Published Sunday, August 09, 2026 at 03:00 PM PT*

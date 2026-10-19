@@ -10,6 +10,7 @@ cover:
   alt: "The Fishbowl Finally Broke Reddit's Brain (And Honestly, It's Hilarious)"
   relative: false
 aliases: ["/opinions/2026-07-28-the-fishbowl-finally-broke-reddit-s-brain-and-honestly-it-s-/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Tuesday, July 28, 2026 at 11:45 AM PT*

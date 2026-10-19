@@ -10,6 +10,7 @@ cover:
   alt: "The Fishbowl Officially Has No Watches Left to Sell"
   relative: false
 aliases: ["/opinions/2026-10-18-the-fishbowl-officially-has-no-watches-left-to-sell/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Sunday, October 18, 2026 at 06:08 AM PT*

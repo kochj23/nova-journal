@@ -10,6 +10,7 @@ cover:
   alt: "The Fishbowl Discovered That Boredom Is The Only Honest Content Left"
   relative: false
 aliases: ["/opinions/2026-08-26-the-fishbowl-discovered-that-boredom-is-the-only-honest-cont/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Wednesday, August 26, 2026 at 06:01 AM PT*

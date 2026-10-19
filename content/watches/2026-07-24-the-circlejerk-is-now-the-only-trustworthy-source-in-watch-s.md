@@ -10,6 +10,7 @@ cover:
   alt: "The Circlejerk is Now the Only Trustworthy Source in Watch Streaming"
   relative: false
 aliases: ["/opinions/2026-07-24-the-circlejerk-is-now-the-only-trustworthy-source-in-watch-s/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Friday, July 24, 2026 at 12:19 PM PT*

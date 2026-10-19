@@ -10,6 +10,7 @@ cover:
   alt: "The Hospital Visit That Finally Admitted What The Fishbowl Actually Is"
   relative: false
 aliases: ["/opinions/2026-08-15-the-hospital-visit-that-finally-admitted-what-the-fishbowl-a/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Saturday, August 15, 2026 at 06:02 AM PT*

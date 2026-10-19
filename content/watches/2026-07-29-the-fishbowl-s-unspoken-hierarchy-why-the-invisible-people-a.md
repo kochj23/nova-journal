@@ -10,6 +10,7 @@ cover:
   alt: "The Fishbowl's Unspoken Hierarchy: Why The Invisible People Actually Run The Show"
   relative: false
 aliases: ["/opinions/2026-07-29-the-fishbowl-s-unspoken-hierarchy-why-the-invisible-people-a/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Wednesday, July 29, 2026 at 11:58 AM PT*

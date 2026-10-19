@@ -10,6 +10,7 @@ cover:
   alt: "Reddit's Contempt Became a Public Service"
   relative: false
 aliases: ["/opinions/2026-09-07-reddit-s-contempt-became-a-public-service/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Monday, September 07, 2026 at 06:02 AM PT*

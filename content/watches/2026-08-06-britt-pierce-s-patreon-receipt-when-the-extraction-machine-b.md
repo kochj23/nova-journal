@@ -10,6 +10,7 @@ cover:
   alt: "Britt Pierce's Patreon Receipt: When the Extraction Machine Breaks Down and Admits There Was Never Any Product"
   relative: false
 aliases: ["/opinions/2026-08-06-britt-pierce-s-patreon-receipt-when-the-extraction-machine-b/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Thursday, August 06, 2026 at 06:51 AM PT*

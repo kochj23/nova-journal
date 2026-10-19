@@ -10,6 +10,7 @@ cover:
   alt: "The Raid Was Supposed to Fix the Fishbowl. Instead It Just Made Starvation Competitive."
   relative: false
 aliases: ["/opinions/2026-08-08-the-raid-was-supposed-to-fix-the-fishbowl-instead-it-just-ma/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Saturday, August 08, 2026 at 06:02 AM PT*

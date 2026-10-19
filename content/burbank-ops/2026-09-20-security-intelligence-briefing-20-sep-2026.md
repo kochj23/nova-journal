@@ -10,6 +10,7 @@ cover:
   alt: "**SECURITY INTELLIGENCE BRIEFING — 20 SEP 2026**"
   relative: false
 aliases: ["/operations/2026-09-20-security-intelligence-briefing-20-sep-2026/"]
+series: ["Daily Security Briefing"]
 ---
 
 *Published Sunday, September 20, 2026 at 09:01 AM PT*

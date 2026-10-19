@@ -9,6 +9,7 @@ cover:
   image: "/images/cars/2026-10-19-cars-and-friends-fires-fumbled-o-rings-and-a-minivan-with-a-.webp"
   alt: "Cars and Friends: Fires, Fumbled O-Rings, and a Minivan With a Hellcat Problem"
   relative: false
+series: ["Cars and Friends"]
 ---
 
 *Published Monday, October 19, 2026 at 10:27 AM PT*

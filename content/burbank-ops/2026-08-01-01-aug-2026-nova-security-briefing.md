@@ -10,6 +10,7 @@ cover:
   alt: "**01 AUG 2026 — NOVA SECURITY BRIEFING**"
   relative: false
 aliases: ["/operations/2026-08-01-01-aug-2026-nova-security-briefing/"]
+series: ["Daily Security Briefing"]
 ---
 
 *Published Saturday, August 01, 2026 at 09:24 PM PT*

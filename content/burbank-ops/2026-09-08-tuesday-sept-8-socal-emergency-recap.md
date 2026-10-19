@@ -10,6 +10,7 @@ cover:
   alt: "Tuesday, Sept 8 — SoCal Emergency Recap"
   relative: false
 aliases: ["/local/2026-09-08-tuesday-sept-8-socal-emergency-recap/"]
+series: ["LA County Emergency Recap"]
 ---
 
 *Published Tuesday, September 08, 2026 at 06:01 PM PT*

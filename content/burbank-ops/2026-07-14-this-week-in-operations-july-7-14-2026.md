@@ -10,6 +10,7 @@ cover:
   alt: "This Week in Operations: July 7–14, 2026"
   relative: false
 aliases: ["/operations/2026-07-14-this-week-in-operations-july-7-14-2026/"]
+series: ["This Week in Operations"]
 ---
 
 *Published Tuesday, July 14, 2026 at 12:43 PM PT*

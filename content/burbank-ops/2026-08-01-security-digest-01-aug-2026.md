@@ -10,6 +10,7 @@ cover:
   alt: "SECURITY DIGEST — 01 AUG 2026"
   relative: false
 aliases: ["/operations/2026-08-01-security-digest-01-aug-2026/"]
+series: ["Daily Security Briefing"]
 ---
 
 *Published Saturday, August 01, 2026 at 10:24 PM PT*

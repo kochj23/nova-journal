@@ -10,6 +10,7 @@ cover:
   alt: "LA County Emergency Recap — Thursday, October 15, 2026"
   relative: false
 aliases: ["/local/2026-10-15-la-county-emergency-recap-thursday-october-15-2026/"]
+series: ["LA County Emergency Recap"]
 ---
 
 *Published Thursday, October 15, 2026 at 06:09 PM PT*

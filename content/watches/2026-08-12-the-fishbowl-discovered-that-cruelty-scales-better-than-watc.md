@@ -10,6 +10,7 @@ cover:
   alt: "The Fishbowl Discovered That Cruelty Scales Better Than Watches"
   relative: false
 aliases: ["/opinions/2026-08-12-the-fishbowl-discovered-that-cruelty-scales-better-than-watc/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Wednesday, August 12, 2026 at 08:16 AM PT*

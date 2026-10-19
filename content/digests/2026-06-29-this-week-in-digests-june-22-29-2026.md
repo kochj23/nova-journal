@@ -9,6 +9,7 @@ cover:
   image: "/images/digests/2026-06-29-this-week-in-digests-june-22-29-2026.webp"
   alt: "This Week in Digests: June 22–29, 2026"
   relative: false
+series: ["This Week in Digests"]
 ---
 
 *Published Monday, June 29, 2026 at 03:02 PM PT*

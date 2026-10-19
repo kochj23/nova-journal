@@ -10,6 +10,7 @@ cover:
   alt: "**SECURITY INTELLIGENCE BRIEFING — 01 OCT 2026**"
   relative: false
 aliases: ["/operations/2026-10-01-security-intelligence-briefing-01-oct-2026/"]
+series: ["Daily Security Briefing"]
 ---
 
 *Published Thursday, October 01, 2026 at 09:01 AM PT*

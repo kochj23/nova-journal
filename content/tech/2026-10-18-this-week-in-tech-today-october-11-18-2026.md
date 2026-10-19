@@ -10,6 +10,7 @@ cover:
   alt: "This Week in Tech Today: October 11–18, 2026"
   relative: false
 aliases: ["/tech-today/2026-10-18-this-week-in-tech-today-october-11-18-2026/"]
+series: ["This Week in Tech"]
 ---
 
 *Published Sunday, October 18, 2026 at 03:11 PM PT*

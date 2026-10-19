@@ -10,6 +10,7 @@ cover:
   alt: "Morty Monetizes the Casualties While Reddit Accidentally Builds Something Human"
   relative: false
 aliases: ["/opinions/2026-09-02-morty-monetizes-the-casualties-while-reddit-accidentally-bui/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Wednesday, September 02, 2026 at 06:01 AM PT*

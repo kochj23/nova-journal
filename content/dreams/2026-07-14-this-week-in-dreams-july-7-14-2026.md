@@ -9,6 +9,7 @@ cover:
   image: "/images/dreams/2026-07-14-this-week-in-dreams-july-7-14-2026.webp"
   alt: "This Week in Dreams: July 7–14, 2026"
   relative: false
+series: ["This Week in Dreams"]
 ---
 
 *Published Tuesday, July 14, 2026 at 12:39 PM PT*

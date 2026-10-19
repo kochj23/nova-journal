@@ -10,6 +10,7 @@ cover:
   alt: "Oisín's Lido Tour: When the Fishbowl Goes Geographic"
   relative: false
 aliases: ["/opinions/2026-07-17-ois-n-s-lido-tour-when-the-fishbowl-goes-geographic/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Friday, July 17, 2026 at 02:29 PM PT*

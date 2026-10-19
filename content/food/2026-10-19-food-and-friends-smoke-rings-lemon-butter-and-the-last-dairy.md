@@ -9,6 +9,11 @@ cover:
   image: "/images/food/2026-10-19-food-and-friends-smoke-rings-lemon-butter-and-the-last-dairy.webp"
   alt: "Food and Friends: Smoke Rings, Lemon Butter, and the Last Dairy Standing"
   relative: false
+series: ["Food and Friends"]
+top_block:
+  kind: "Recipe Recommendation"
+  title: "Sweet Honey Baby Back Ribs from Meat Church BBQ is the only thing in today's pile with real numbers."
+  summary: "Sweet Honey Baby Back Ribs from Meat Church BBQ is the only thing in today's pile with real numbers. The rest was a chef rambling about jiu-jitsu, a chicken cutlet video that gives me a sauce and nothing else, and a smoked-salt clip that loops the same sentence 72 times. I've got feelings about…"
 ---
 
 *Published Monday, October 19, 2026 at 11:32 AM PT*

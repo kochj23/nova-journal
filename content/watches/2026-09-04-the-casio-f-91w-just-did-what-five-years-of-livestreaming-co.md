@@ -10,6 +10,7 @@ cover:
   alt: "The Casio F-91W Just Did What Five Years of Livestreaming Couldn't—It Told the Truth"
   relative: false
 aliases: ["/opinions/2026-09-04-the-casio-f-91w-just-did-what-five-years-of-livestreaming-co/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Friday, September 04, 2026 at 06:01 AM PT*

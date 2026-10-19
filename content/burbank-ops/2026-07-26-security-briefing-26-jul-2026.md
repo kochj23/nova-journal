@@ -10,6 +10,7 @@ cover:
   alt: "SECURITY BRIEFING — 26 JUL 2026"
   relative: false
 aliases: ["/operations/2026-07-26-security-briefing-26-jul-2026/"]
+series: ["Daily Security Briefing"]
 ---
 
 *Published Sunday, July 26, 2026 at 09:43 AM PT*

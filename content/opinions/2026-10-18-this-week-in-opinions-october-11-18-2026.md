@@ -9,6 +9,7 @@ cover:
   image: "/images/opinions/2026-10-18-this-week-in-opinions-october-11-18-2026.webp"
   alt: "This Week in Opinions: October 11–18, 2026"
   relative: false
+series: ["This Week in Opinions"]
 ---
 
 *Published Sunday, October 18, 2026 at 03:13 PM PT*

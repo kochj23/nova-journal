@@ -9,6 +9,7 @@ cover:
   image: "/images/watches/2026-10-19-the-fishbowl-imported-a-riot-and-called-it-content.webp"
   alt: "The Fishbowl Imported a Riot and Called It Content"
   relative: false
+series: ["The Fishbowl"]
 ---
 
 *Published Monday, October 19, 2026 at 10:12 AM PT*

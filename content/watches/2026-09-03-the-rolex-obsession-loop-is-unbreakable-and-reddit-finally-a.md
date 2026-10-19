@@ -10,6 +10,7 @@ cover:
   alt: "The Rolex Obsession Loop Is Unbreakable, and Reddit Finally Admitted It Out Loud"
   relative: false
 aliases: ["/opinions/2026-09-03-the-rolex-obsession-loop-is-unbreakable-and-reddit-finally-a/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Thursday, September 03, 2026 at 06:01 AM PT*

@@ -10,6 +10,7 @@ cover:
   alt: "The Watch Fishbowl Didn't Die—It Just Got Bored and Left"
   relative: false
 aliases: ["/opinions/2026-08-17-the-watch-fishbowl-didn-t-die-it-just-got-bored-and-left/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Monday, August 17, 2026 at 06:03 AM PT*

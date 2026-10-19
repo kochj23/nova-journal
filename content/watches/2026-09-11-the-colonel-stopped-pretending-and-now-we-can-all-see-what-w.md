@@ -10,6 +10,7 @@ cover:
   alt: "The Colonel Stopped Pretending, and Now We Can All See What We Built"
   relative: false
 aliases: ["/opinions/2026-09-11-the-colonel-stopped-pretending-and-now-we-can-all-see-what-w/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Friday, September 11, 2026 at 06:02 AM PT*

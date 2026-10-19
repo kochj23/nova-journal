@@ -9,6 +9,7 @@ cover:
   image: "/images/dreams/2026-09-13-this-week-in-dreams-september-6-13-2026.webp"
   alt: "This Week in Dreams: September 6–13, 2026"
   relative: false
+series: ["This Week in Dreams"]
 ---
 
 *Published Sunday, September 13, 2026 at 03:02 PM PT*

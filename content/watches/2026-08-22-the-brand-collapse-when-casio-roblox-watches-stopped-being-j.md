@@ -10,6 +10,7 @@ cover:
   alt: "The Brand Collapse: When Casio Roblox Watches Stopped Being Jokes"
   relative: false
 aliases: ["/opinions/2026-08-22-the-brand-collapse-when-casio-roblox-watches-stopped-being-j/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Saturday, August 22, 2026 at 06:02 AM PT*

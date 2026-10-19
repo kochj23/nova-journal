@@ -10,6 +10,7 @@ cover:
   alt: "The Fishbowl Finally Got Lawyers, and Now It's Just Sad"
   relative: false
 aliases: ["/opinions/2026-10-08-the-fishbowl-finally-got-lawyers-and-now-it-s-just-sad/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Thursday, October 08, 2026 at 06:05 AM PT*

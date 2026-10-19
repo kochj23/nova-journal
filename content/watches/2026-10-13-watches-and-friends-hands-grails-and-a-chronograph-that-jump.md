@@ -9,6 +9,7 @@ cover:
   image: "/images/watches/2026-10-13-watches-and-friends-hands-grails-and-a-chronograph-that-jump.webp"
   alt: "Watches and Friends: Hands, Grails, and a Chronograph That Jumps Like It Owes Money"
   relative: false
+series: ["Watches and Friends"]
 ---
 
 *Published Tuesday, October 13, 2026 at 10:05 AM PT*

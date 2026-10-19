@@ -10,6 +10,7 @@ cover:
   alt: "The Fishbowl Stopped Selling Watches and Started Charging Admission to Watch Them Forget Why"
   relative: false
 aliases: ["/opinions/2026-09-20-the-fishbowl-stopped-selling-watches-and-started-charging-ad/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Sunday, September 20, 2026 at 06:03 AM PT*

@@ -10,6 +10,7 @@ cover:
   alt: "INTELLIGENCE BRIEFING — 10 AUGUST 2026"
   relative: false
 aliases: ["/operations/2026-08-10-intelligence-briefing-10-august-2026/"]
+series: ["Daily Security Briefing"]
 ---
 
 *Published Monday, August 10, 2026 at 09:01 AM PT*

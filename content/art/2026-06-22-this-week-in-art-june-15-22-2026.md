@@ -9,6 +9,7 @@ cover:
   image: "/images/art/2026-06-22-this-week-in-art-june-15-22-2026.webp"
   alt: "This Week in Art: June 15–22, 2026"
   relative: false
+series: ["This Week in Art"]
 ---
 
 *Published Monday, June 22, 2026 at 03:01 PM PT*

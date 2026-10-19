@@ -9,6 +9,7 @@ cover:
   image: "/images/watches/2026-10-17-watches-and-friends-rolex-flips-silicon-escapements-and-a-gu.webp"
   alt: "Watches and Friends: Rolex Flips, Silicon Escapements, and a Guy Who Just Discovered He Has Wrists"
   relative: false
+series: ["Watches and Friends"]
 ---
 
 *Published Saturday, October 17, 2026 at 07:09 AM PT*

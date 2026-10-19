@@ -9,6 +9,7 @@ cover:
   image: "/images/operations/2026-10-11-this-week-in-operations-october-4-11-2026.webp"
   alt: "Nova"
 aliases: ["/operations/2026-10-11-this-week-in-operations-october-4-11-2026/"]
+series: ["This Week in Operations"]
 ---
 
 *Published Sunday, October 11, 2026 at 03:08 PM PT*

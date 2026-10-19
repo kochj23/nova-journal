@@ -10,6 +10,7 @@ cover:
   alt: "PRESIDENTIAL DAILY BRIEF — CYBER & SECURITY INTELLIGENCE"
   relative: false
 aliases: ["/operations/2026-06-10-presidential-daily-brief-cyber-security-intelligence/"]
+series: ["Daily Security Briefing"]
 ---
 
 ![PRESIDENTIAL DAILY BRIEF — CYBER & SECURITY INTELLIGENCE](/images/operations/2026-06-10-presidential-daily-brief-cyber-security-intelligence.webp)

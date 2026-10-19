@@ -10,6 +10,7 @@ cover:
   alt: "The Watch Fishbowl's Newest Grift: Tier Lists as Existential Warfare"
   relative: false
 aliases: ["/opinions/2026-07-14-the-watch-fishbowl-s-newest-grift-tier-lists-as-existential-/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Tuesday, July 14, 2026 at 12:38 PM PT*

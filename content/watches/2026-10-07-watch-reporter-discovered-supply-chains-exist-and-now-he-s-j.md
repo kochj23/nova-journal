@@ -10,6 +10,7 @@ cover:
   alt: "Watch Reporter Discovered Supply Chains Exist, and Now He's Just Narrating His Own Obsolescence"
   relative: false
 aliases: ["/opinions/2026-10-07-watch-reporter-discovered-supply-chains-exist-and-now-he-s-j/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Wednesday, October 07, 2026 at 06:06 AM PT*

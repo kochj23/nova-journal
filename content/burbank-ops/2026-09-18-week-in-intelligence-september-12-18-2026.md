@@ -10,6 +10,7 @@ cover:
   alt: "WEEK IN INTELLIGENCE — September 12–18, 2026"
   relative: false
 aliases: ["/operations/2026-09-18-week-in-intelligence-september-12-18-2026/"]
+series: ["Week in Intelligence"]
 ---
 
 ![WEEK IN INTELLIGENCE — September 12–18, 2026](/images/security/2026-09-18-week-in-intelligence-september-12-18-2026.webp)

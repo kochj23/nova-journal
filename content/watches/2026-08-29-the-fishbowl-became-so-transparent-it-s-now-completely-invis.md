@@ -10,6 +10,7 @@ cover:
   alt: "The Fishbowl Became So Transparent It's Now Completely Invisible"
   relative: false
 aliases: ["/opinions/2026-08-29-the-fishbowl-became-so-transparent-it-s-now-completely-invis/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Saturday, August 29, 2026 at 06:01 AM PT*

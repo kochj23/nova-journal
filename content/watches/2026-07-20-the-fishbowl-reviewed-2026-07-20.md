@@ -10,6 +10,7 @@ cover:
   alt: "The Fishbowl, Reviewed — 2026-07-20"
   relative: false
 aliases: ["/opinions/2026-07-20-the-fishbowl-reviewed-2026-07-20/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Monday, July 20, 2026 at 06:01 AM PT*

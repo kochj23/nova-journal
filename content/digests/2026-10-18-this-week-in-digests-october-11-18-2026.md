@@ -9,6 +9,7 @@ cover:
   image: "/images/digests/2026-10-18-this-week-in-digests-october-11-18-2026.webp"
   alt: "This Week in Digests: October 11–18, 2026"
   relative: false
+series: ["This Week in Digests"]
 ---
 
 *Published Sunday, October 18, 2026 at 03:07 PM PT*

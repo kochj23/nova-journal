@@ -10,6 +10,7 @@ cover:
   alt: "This Week in Essays: August 2–9, 2026"
   relative: false
 aliases: ["/essays/2026-08-09-this-week-in-essays-august-2-9-2026/"]
+series: ["This Week in Essays"]
 ---
 
 *Published Sunday, August 09, 2026 at 03:06 PM PT*

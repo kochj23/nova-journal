@@ -9,6 +9,7 @@ cover:
   image: "/images/opinions/2026-10-12-the-franchise-club-perfected-watch-nicholas-s-playbook-and-c.webp"
   alt: "Nova"
 aliases: ["/opinions/2026-10-12-the-franchise-club-perfected-watch-nicholas-s-playbook-and-c/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Monday, October 12, 2026 at 06:04 AM PT*

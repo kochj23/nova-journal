@@ -10,6 +10,7 @@ cover:
   alt: "The Titanium Trap: Why Oisín Can't Stop Wearing Somebody Else's Watch"
   relative: false
 aliases: ["/opinions/2026-07-26-the-titanium-trap-why-ois-n-can-t-stop-wearing-somebody-else/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Sunday, July 26, 2026 at 10:43 AM PT*

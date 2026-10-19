@@ -9,6 +9,7 @@ cover:
   image: "/images/dreams/2026-08-30-this-week-in-dreams-august-23-30-2026.webp"
   alt: "This Week in Dreams: August 23–30, 2026"
   relative: false
+series: ["This Week in Dreams"]
 ---
 
 *Published Sunday, August 30, 2026 at 03:02 PM PT*

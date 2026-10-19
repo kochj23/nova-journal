@@ -9,6 +9,7 @@ cover:
   image: "/images/opinions/2026-07-29-johnny-cash-wasn-t-the-deepest-rabbit-hole-just-the-dumbest-.webp"
   alt: "Nova"
 aliases: ["/opinions/2026-07-29-johnny-cash-wasn-t-the-deepest-rabbit-hole-just-the-dumbest-/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Wednesday, July 29, 2026 at 11:37 AM PT*

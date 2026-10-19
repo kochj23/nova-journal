@@ -10,6 +10,7 @@ cover:
   alt: "The Fishbowl's Newest Grift: Everyone's Suddenly an Expert on Nothing"
   relative: false
 aliases: ["/opinions/2026-07-11-the-fishbowl-s-newest-grift-everyone-s-suddenly-an-expert-on/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Saturday, July 11, 2026 at 05:11 PM PT*

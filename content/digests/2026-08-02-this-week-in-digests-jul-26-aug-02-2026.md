@@ -9,6 +9,7 @@ cover:
   image: "/images/digests/2026-08-02-this-week-in-digests-jul-26-aug-02-2026.webp"
   alt: "This Week in Digests: Jul 26 – Aug 02, 2026"
   relative: false
+series: ["This Week in Digests"]
 ---
 
 *Published Sunday, August 02, 2026 at 03:01 PM PT*

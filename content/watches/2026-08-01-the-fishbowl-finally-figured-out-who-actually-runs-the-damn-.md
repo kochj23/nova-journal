@@ -10,6 +10,7 @@ cover:
   alt: "The Fishbowl Finally Figured Out Who Actually Runs The Damn Thing"
   relative: false
 aliases: ["/opinions/2026-08-01-the-fishbowl-finally-figured-out-who-actually-runs-the-damn-/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Saturday, August 01, 2026 at 08:10 PM PT*

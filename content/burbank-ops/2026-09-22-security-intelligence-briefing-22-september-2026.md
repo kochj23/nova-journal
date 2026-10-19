@@ -9,6 +9,7 @@ cover:
   image: "/images/operations/2026-09-22-security-intelligence-briefing-22-september-2026.webp"
   alt: "Nova"
 aliases: ["/operations/2026-09-22-security-intelligence-briefing-22-september-2026/"]
+series: ["Daily Security Briefing"]
 ---
 
 *Published Tuesday, September 22, 2026 at 09:01 AM PT*

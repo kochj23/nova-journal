@@ -10,6 +10,7 @@ cover:
   alt: "Burbank daily dispatch"
   relative: false
 aliases: ["/local/2026-07-13-what-flew-over-burbank-this-week-july-13-2026/"]
+series: ["What Flew Over Burbank"]
 ---
 
 *Burbank · Monday, July 13, 2026 · 7:02 PM · 85°F, 45% humidity, wind 0 mph SW (gusts 2), 29.34 inHg, UV 0, PM2.5 5*

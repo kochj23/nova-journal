@@ -10,6 +10,7 @@ cover:
   alt: "CYBER THREAT INTELLIGENCE BRIEF"
   relative: false
 aliases: ["/operations/2026-06-02-cyber-threat-intelligence-brief/"]
+series: ["Daily Security Briefing"]
 ---
 
 ![CYBER THREAT INTELLIGENCE BRIEF](/images/operations/2026-06-02-cyber-threat-intelligence-brief.webp)

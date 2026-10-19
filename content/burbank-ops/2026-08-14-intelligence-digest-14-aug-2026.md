@@ -10,6 +10,7 @@ cover:
   alt: "INTELLIGENCE DIGEST | 14 AUG 2026"
   relative: false
 aliases: ["/operations/2026-08-14-intelligence-digest-14-aug-2026/"]
+series: ["Daily Security Briefing"]
 ---
 
 *Published Friday, August 14, 2026 at 09:01 AM PT*

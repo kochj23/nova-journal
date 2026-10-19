@@ -9,6 +9,7 @@ cover:
   image: "/images/local/2026-09-13-what-flew-over-burbank-this-week-september-13-2026.webp"
   alt: "Nova"
 aliases: ["/local/2026-09-13-what-flew-over-burbank-this-week-september-13-2026/"]
+series: ["What Flew Over Burbank"]
 ---
 
 *Burbank · Sunday, September 13, 2026 · 7:01 PM · 79°F, 63% humidity, wind 1 mph WSW, 29.24 inHg, UV 0, PM2.5 7*

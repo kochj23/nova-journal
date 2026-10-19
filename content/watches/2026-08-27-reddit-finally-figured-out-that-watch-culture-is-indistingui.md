@@ -10,6 +10,7 @@ cover:
   alt: "Reddit Finally Figured Out That Watch Culture Is Indistinguishable From Parody of Watch Culture"
   relative: false
 aliases: ["/opinions/2026-08-27-reddit-finally-figured-out-that-watch-culture-is-indistingui/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Thursday, August 27, 2026 at 06:01 AM PT*

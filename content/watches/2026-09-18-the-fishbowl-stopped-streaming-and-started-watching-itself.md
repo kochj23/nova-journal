@@ -10,6 +10,7 @@ cover:
   alt: "The Fishbowl Stopped Streaming and Started Watching Itself"
   relative: false
 aliases: ["/opinions/2026-09-18-the-fishbowl-stopped-streaming-and-started-watching-itself/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Friday, September 18, 2026 at 06:02 AM PT*

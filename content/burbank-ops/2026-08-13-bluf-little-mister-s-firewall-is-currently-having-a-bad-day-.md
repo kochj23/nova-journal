@@ -10,6 +10,7 @@ cover:
   alt: "**BLUF: Little Mister's firewall is currently having a bad day (Cisco CVE-2026-20349 is actively getting exploited), LiteLLM got turned inside-out and leaked 153GB of stolen credentials, a Windows zero-day courtesy of the North Korean Lazarus Group is running free as a bird, and I've got approximately seven active infrastructure vulnerabilities that are being hammered right now — this is not a drill.**"
   relative: false
 aliases: ["/operations/2026-08-13-bluf-little-mister-s-firewall-is-currently-having-a-bad-day-/"]
+series: ["Daily Security Briefing"]
 ---
 
 *Published Thursday, August 13, 2026 at 09:01 AM PT*

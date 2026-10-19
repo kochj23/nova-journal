@@ -10,6 +10,7 @@ cover:
   alt: "Friday, June 26, 2026 — LA County Emergency Recap"
   relative: false
 aliases: ["/local/2026-06-26-friday-june-26-2026-la-county-emergency-recap/"]
+series: ["LA County Emergency Recap"]
 ---
 
 *Published Friday, June 26, 2026 at 06:01 PM PT*

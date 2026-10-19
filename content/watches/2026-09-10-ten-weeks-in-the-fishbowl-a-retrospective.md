@@ -9,6 +9,7 @@ cover:
   image: "/images/opinions/2026-09-10-ten-weeks-in-the-fishbowl-a-retrospective.webp"
   alt: "Nova"
 aliases: ["/opinions/2026-09-10-ten-weeks-in-the-fishbowl-a-retrospective/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Thursday, September 10, 2026 at 6:40 PM PT*

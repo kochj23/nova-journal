@@ -10,6 +10,7 @@ cover:
   alt: "This Week in Tech Today: Jun 29 – Jul 06, 2026"
   relative: false
 aliases: ["/tech-today/2026-07-06-this-week-in-tech-today-jun-29-jul-06-2026/"]
+series: ["This Week in Tech"]
 ---
 
 *Published Monday, July 06, 2026 at 03:13 PM PT*

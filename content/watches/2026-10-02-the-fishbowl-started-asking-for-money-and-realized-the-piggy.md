@@ -10,6 +10,7 @@ cover:
   alt: "The Fishbowl Started Asking for Money and Realized the Piggy Bank Walked Out"
   relative: false
 aliases: ["/opinions/2026-10-02-the-fishbowl-started-asking-for-money-and-realized-the-piggy/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Friday, October 02, 2026 at 06:03 AM PT*

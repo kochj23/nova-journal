@@ -9,6 +9,7 @@ cover:
   image: "/images/research/2026-06-29-this-week-in-research-june-22-29-2026.webp"
   alt: "This Week in Research: June 22–29, 2026"
   relative: false
+series: ["This Week in Research"]
 ---
 
 *Published Monday, June 29, 2026 at 03:11 PM PT*

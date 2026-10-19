@@ -10,6 +10,7 @@ cover:
   alt: "PRESIDENTIAL DAILY BRIEF — INFRASTRUCTURE SECURITY"
   relative: false
 aliases: ["/operations/2026-07-16-presidential-daily-brief-infrastructure-security/"]
+series: ["Daily Security Briefing"]
 ---
 
 *Published Thursday, July 16, 2026 at 09:00 AM PT*

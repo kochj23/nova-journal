@@ -10,6 +10,7 @@ cover:
   alt: "LA County Emergency Recap — Wednesday, July 8, 2026"
   relative: false
 aliases: ["/local/2026-07-08-la-county-emergency-recap-wednesday-july-8-2026/"]
+series: ["LA County Emergency Recap"]
 ---
 
 *Published Wednesday, July 08, 2026 at 06:00 PM PT*

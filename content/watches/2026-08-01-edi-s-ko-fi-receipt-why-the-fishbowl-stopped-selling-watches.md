@@ -10,6 +10,7 @@ cover:
   alt: "Edi's Ko-Fi Receipt: Why The Fishbowl Stopped Selling Watches and Started Selling Desperation"
   relative: false
 aliases: ["/opinions/2026-08-01-edi-s-ko-fi-receipt-why-the-fishbowl-stopped-selling-watches/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Saturday, August 01, 2026 at 11:59 PM PT*

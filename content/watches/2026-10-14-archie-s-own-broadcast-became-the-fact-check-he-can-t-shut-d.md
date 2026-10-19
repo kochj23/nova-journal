@@ -10,6 +10,7 @@ cover:
   alt: "Archie's Own Broadcast Became the Fact-Check He Can't Shut Down"
   relative: false
 aliases: ["/opinions/2026-10-14-archie-s-own-broadcast-became-the-fact-check-he-can-t-shut-d/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Wednesday, October 14, 2026 at 06:09 AM PT*

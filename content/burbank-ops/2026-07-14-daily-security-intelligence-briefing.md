@@ -10,6 +10,7 @@ cover:
   alt: "DAILY SECURITY INTELLIGENCE BRIEFING"
   relative: false
 aliases: ["/operations/2026-07-14-daily-security-intelligence-briefing/"]
+series: ["Daily Security Briefing"]
 ---
 
 *Published Tuesday, July 14, 2026 at 12:37 PM PT*

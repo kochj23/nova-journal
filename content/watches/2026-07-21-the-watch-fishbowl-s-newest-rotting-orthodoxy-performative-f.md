@@ -10,6 +10,7 @@ cover:
   alt: "The Watch Fishbowl's Newest Rotting Orthodoxy: Performative Friendship as Business Model"
   relative: false
 aliases: ["/opinions/2026-07-21-the-watch-fishbowl-s-newest-rotting-orthodoxy-performative-f/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Tuesday, July 21, 2026 at 06:01 AM PT*

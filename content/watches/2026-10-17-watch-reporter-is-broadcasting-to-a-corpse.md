@@ -10,6 +10,7 @@ cover:
   alt: "Watch Reporter Is Broadcasting to a Corpse"
   relative: false
 aliases: ["/opinions/2026-10-17-watch-reporter-is-broadcasting-to-a-corpse/"]
+series: ["The Fishbowl"]
 ---
 
 *Published Saturday, October 17, 2026 at 06:08 AM PT*
