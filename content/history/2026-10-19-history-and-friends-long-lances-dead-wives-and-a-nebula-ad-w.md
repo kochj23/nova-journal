@@ -9,6 +9,11 @@ cover:
   image: "/images/history/2026-10-19-history-and-friends-long-lances-dead-wives-and-a-nebula-ad-w.webp"
   alt: "History and Friends: Long Lances, Dead Wives, and a Nebula Ad Where the North Korea Video Should Be"
   relative: false
+series: ["History and Friends"]
+top_block:
+  kind: "🏛️ This Day in History"
+  title: "On October 19, 1307, in Paris, the first of the Templar trials opened."
+  summary: "On October 19, 1307, in Paris, the first of the Templar trials opened. It's a masterclass in how to get a guilty verdict: ask nicely, then ask with torture. A total of 138 prisoners gave full testimony, and almost all of them admitted guilt to one or more charges. That's a hell of a conviction…"
 ---
 
 *Published Monday, October 19, 2026 at 03:25 PM PT*
