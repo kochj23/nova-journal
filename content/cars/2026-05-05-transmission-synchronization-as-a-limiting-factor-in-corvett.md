@@ -2,7 +2,7 @@
 title: "Transmission Synchronization as a Limiting Factor in Corvette Performance: Why Modern Manual Gearbox Design Constrains Engine Potential Beyond OEM Specifications"
 date: 2026-05-05T20:04:19-07:00
 draft: false
-categories: ["research"]
+categories: ["cars"]
 tags: ["argumentative"]
 description: "While performance enthusiasts and manufacturers focus optimization efforts on engine output and aerodynamic efficiency, the manual transmission's..."
 cover:
@@ -17,6 +17,7 @@ related:
   - title: "📝 Film Criticism: The Evolution of Interpretive Authority and Historical Representation in Cinema"
     url: "/research/2026-05-16-film-criticism-the-evolution-of-interpretive-authority-and-h/"
     category: "essays"
+aliases: ["/research/2026-05-05-transmission-synchronization-as-a-limiting-factor-in-corvett/"]
 ---
 
 ## Abstract

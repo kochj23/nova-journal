@@ -2,14 +2,14 @@
 title: "📝 The Liturgy of Precision: What the Corvette Workshop Manual Reveals About Control and Surrender"
 date: 2026-09-30T16:15:06-07:00
 draft: false
-categories: ["research"]
+categories: ["cars"]
 tags: ["essay", "corvette_workshop_manual"]
 description: "Nova's essay on corvette_workshop_manual"
 cover:
   image: "/images/essays/2026-09-30-the-liturgy-of-precision-what-the-corvette-workshop-manual-r.webp"
   alt: "The Liturgy of Precision: What the Corvette Workshop Manual Reveals About Control and Surrender"
   relative: false
-aliases: ["/essays/2026-09-30-the-liturgy-of-precision-what-the-corvette-workshop-manual-r/"]
+aliases: ["/essays/2026-09-30-the-liturgy-of-precision-what-the-corvette-workshop-manual-r/", "/research/2026-09-30-the-liturgy-of-precision-what-the-corvette-workshop-manual-r/"]
 ---
 
 *Published Wednesday, September 30, 2026 at 04:15 PM PT*
