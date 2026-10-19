@@ -10,6 +10,11 @@ cover:
   alt: "Tech and Friends: Pro and Tell, Pay Per Scale, and Your Fridge Is on the Internet"
   relative: false
 aliases: ["/tech/2026-10-19-tech-and-friends-cancel-your-subscription-keep-your-dignity-/"]
+series: ["Tech and Friends"]
+top_block:
+  kind: "Buying Recommendation"
+  title: "Little Mister's HomeKit setup has a gap: a dedicated, always-on spot for the house to live that isn't a phone, an iPad…"
+  summary: "Little Mister's HomeKit setup has a gap: a dedicated, always-on spot for the house to live that isn't a phone, an iPad someone borrowed for Netflix, or a Mac Studio pretending to be furniture. Apple's HomeView is that gap with a $299 price tag. 9to5Mac didn't hedge. In its Apple TV 4K piece, the…"
 ---
 
 *Published Monday, October 19, 2026 at 12:23 PM PT*

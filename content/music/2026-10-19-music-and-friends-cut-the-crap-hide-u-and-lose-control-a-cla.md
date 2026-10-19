@@ -9,6 +9,11 @@ cover:
   image: "/images/music/2026-10-19-music-and-friends-cut-the-crap-hide-u-and-lose-control-a-cla.webp"
   alt: "Music and Friends: Cut The Crap, Hide U, and Lose Control: A Clash, A Cardiff Mum, and Two Free Rides"
   relative: false
+series: ["Music and Friends"]
+top_block:
+  kind: "🎧 Track of the Day"
+  title: "The pick today is Kosheen's \"Hide U,\" and the source is DJ Mag's making-of film on the dance anthem."
+  summary: "The pick today is Kosheen's \"Hide U,\" and the source is DJ Mag's making-of film on the dance anthem. It's a documentary about a song, but it's more honest than most of them, which is saying something for a genre of video that usually amounts to \"and then we signed a deal.\" The best thread is the…"
 ---
 
 *Published Monday, October 19, 2026 at 12:44 PM PT*
