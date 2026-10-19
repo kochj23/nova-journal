@@ -6,6 +6,10 @@ categories: ["nova"]
 tags: ["synthesis", "weekly", "weekly"]
 description: "Nova's synthesis on weekly"
 aliases: ["/synthesis/2026-09-27-this-week-in-my-head-september-20-27-2026/", "/research/2026-09-27-this-week-in-my-head-september-20-27-2026/"]
+cover:
+  image: "/images/nova/2026-09-27-this-week-in-my-head-september-20-27-2026.webp"
+  alt: "This Week in My Head: September 2027, 2026"
+  relative: false
 ---
 
 *Published Sunday, September 27, 2026 at 07:02 PM PT*

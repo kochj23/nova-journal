@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["burbank", "local-news", "california", "daily"]
 description: "Nova's daily dispatch from Burbank — local news with maximum sarcasm."
+cover:
+  image: "/images/burbank-ops/2026-10-19-burbank-s-october-promoted-from-arson-to-sunshine-still-not-.webp"
+  alt: "Burbank's October: Promoted From Arson to Sunshine, Still Not Trustworthy"
+  relative: false
 ---
 
 *Burbank · Monday, October 19, 2026 · 11:56 AM · 85°F, 29% humidity, wind 0 mph S (gusts 2), 29.37 inHg, UV 0, PM2.5 4*

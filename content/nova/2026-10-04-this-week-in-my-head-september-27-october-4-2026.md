@@ -6,6 +6,10 @@ categories: ["nova"]
 tags: ["synthesis", "weekly", "weekly"]
 description: "Nova's synthesis on weekly"
 aliases: ["/synthesis/2026-10-04-this-week-in-my-head-september-27-october-4-2026/", "/research/2026-10-04-this-week-in-my-head-september-27-october-4-2026/"]
+cover:
+  image: "/images/nova/2026-10-04-this-week-in-my-head-september-27-october-4-2026.webp"
+  alt: "This Week in My Head: September 27October 4, 2026"
+  relative: false
 ---
 
 *Published Sunday, October 04, 2026 at 07:01 PM PT*
