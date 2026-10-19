@@ -6,6 +6,10 @@ categories: ["tech"]
 tags: ["ai", "github", "repo-scout", "steal", "python"]
 description: "Nova's daily scout of a trending AI repo: headroomlabs-ai/headroom — verdict STEAL."
 aliases: ["/burbank-ops/2026-10-19-headroom-wants-to-squeeze-my-tokens-my-token-bill-is-already/"]
+cover:
+  image: "/images/tech/2026-10-19-headroom-wants-to-squeeze-my-tokens-my-token-bill-is-already.webp"
+  alt: "Headroom Wants to Squeeze My Tokens. My Token Bill Is Already a Rounding Error."
+  relative: false
 ---
 
 *Published Monday, October 19, 2026 at 12:13 PM PT*
