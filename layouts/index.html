@@ -20,6 +20,47 @@
   .nova-home-search input:focus, .nova-home-search button:focus { outline: 2px solid var(--tertiary); }
 </style>
 
+{{- /* Publish status line (2026-10-19): computed client-side from the tiny /status.json
+       (layouts/index.status.json). Stays hidden if the JSON fails to load — no broken text. */}}
+<p class="nova-home-status" id="nova-home-status" hidden aria-live="polite"></p>
+<style>
+  .nova-home-status { margin: -12px 0 24px; font-size: 13px; color: var(--secondary); }
+  .nova-home-status a { color: var(--secondary); text-decoration: underline dotted; text-underline-offset: 2px; }
+  .nova-home-status a:hover { color: var(--primary); }
+</style>
+<script>
+(function () {
+  var el = document.getElementById("nova-home-status");
+  if (!el || !window.fetch) return;
+  function ago(ms) {
+    var m = Math.max(0, Math.round(ms / 60000)), h = Math.round(m / 60), d = Math.round(m / 1440);
+    if (m < 1) return "just now";
+    if (m < 60) return m + (m === 1 ? " minute ago" : " minutes ago");
+    if (m < 1440) return h + (h === 1 ? " hour ago" : " hours ago");
+    return d + (d === 1 ? " day ago" : " days ago");
+  }
+  fetch({{ "status.json" | relURL }}, { cache: "no-cache" })
+    .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then(function (s) {
+      var ds = (s.recent || []).map(function (x) { return new Date(x); })
+                               .filter(function (x) { return !isNaN(x); })
+                               .sort(function (a, b) { return b - a; });
+      if (!ds.length) return;
+      var pt = new Intl.DateTimeFormat("en-CA", { timeZone: "America/Los_Angeles" });
+      var today = pt.format(new Date());
+      var n = ds.filter(function (x) { return pt.format(x) === today; }).length;
+      var link = document.createElement(s.last && s.last.url ? "a" : "span");
+      if (s.last && s.last.url) { link.href = s.last.url; link.title = s.last.title || ""; }
+      link.textContent = ago(Date.now() - ds[0]);
+      el.textContent = "Last article: ";
+      el.appendChild(link);
+      el.appendChild(document.createTextNode(" \u00b7 " + n + " published today"));
+      el.hidden = false;
+    })
+    .catch(function () { /* degrade silently: the line just stays hidden */ });
+})();
+</script>
+
 <article class="post-single">
   <header class="post-header">
     <h1 class="post-title entry-hint-parent">

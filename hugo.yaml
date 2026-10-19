@@ -117,11 +117,21 @@ menu:
       url: /research/
       weight: 28
 
+# /status.json — tiny "last article / published today" feed for the homepage status line
+# (layouts/index.status.json). The 11 MB /index.json is search-only.
+outputFormats:
+  STATUS:
+    mediaType: application/json
+    baseName: status
+    isPlainText: true
+    notAlternative: true
+
 outputs:
   home:
     - HTML
     - RSS
     - JSON
+    - STATUS
   page:
     - HTML
     - RSS

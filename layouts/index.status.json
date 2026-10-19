@@ -1,0 +1,11 @@
+{{- /* /status.json for the homepage status line ("Last article: 12 minutes ago · 14 published today").
+       Built with the site, so it reflects exactly what is deployed. ~8 KB: the newest 300 article
+       dates; the browser counts "today" in Pacific time. Non-article pages are excluded. */ -}}
+{{- $skip := slice "" "about" "start-here" "meta" "search" -}}
+{{- $pages := where site.RegularPages "Section" "not in" $skip -}}
+{{- $recent := first 300 $pages.ByDate.Reverse -}}
+{{- $dates := slice -}}
+{{- range $recent }}{{ $dates = $dates | append (.Date.Format "2006-01-02T15:04:05Z07:00") }}{{ end -}}
+{{- $last := dict -}}
+{{- with index $recent 0 }}{{ $last = dict "title" .Title "url" .RelPermalink "date" (.Date.Format "2006-01-02T15:04:05Z07:00") }}{{ end -}}
+{{- dict "generated" (now.Format "2006-01-02T15:04:05Z07:00") "total" (len $pages) "last" $last "recent" $dates | jsonify -}}
