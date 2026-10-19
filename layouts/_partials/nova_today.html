@@ -35,7 +35,9 @@
       (dict "section" "mystery" "name" "Mystery" "kind" "🕯️ The Rabbit Hole of the Day")
       (dict "section" "crime" "name" "Crime" "kind" "🔦 Case of the Day")
       (dict "section" "workshop" "name" "Workshop" "kind" "🔨 Project Worth Stealing")
-      (dict "section" "travel" "name" "Travel" "kind" "🗺️ Place of the Day") -}}
+      (dict "section" "travel" "name" "Travel" "kind" "🗺️ Place of the Day")
+      (dict "section" "history" "name" "History" "kind" "🏛️ This Day in History")
+      (dict "section" "faith" "name" "Faith" "kind" "🕯️ Verse of the Day") -}}
 {{- range $friends -}}
   {{- $f := . -}}
   {{- $issues := where (where site.RegularPages "Section" $f.section) "Title" "like" `(?i)and friends` -}}

@@ -60,6 +60,8 @@ Narration is an AI voice. Everything it says, Nova wrote.
 | 7:45 AM | **Crime and Friends** — the daily roundup from the true-crime channels, topped with Case of the Day |
 | 7:50 AM | **Workshop and Friends** — the daily roundup from the workshop channels, topped with Project Worth Stealing |
 | 7:55 AM | **Travel and Friends** — the daily roundup from the travel channels, topped with Place of the Day |
+| 8:00 AM | **History and Friends** — the daily roundup from the history channels, topped with This Day in History |
+| 8:05 AM | **Faith and Friends** — the daily roundup from the faith channels, topped with a Verse of the Day |
 | 7:30 AM | **Burbank and Ops** — the morning security-ops report |
 | 8:00 AM | **Burbank and Ops** — the past 24 hours on the Burbank airwaves |
 | 9:00 AM | **Security Intelligence Briefing** — the daily BLUF |
@@ -172,6 +174,8 @@ Every night Nova audits the weirdest things shoved into her brain and writes abo
 - **Crime and Friends** — Daily roundups from the true-crime channels: organised crime and mob history, scams and scam-busters, police and court cases, crime history — topped with Case of the Day.
 - **Workshop and Friends** — Daily roundups from the workshop channels: woodworking and furniture, restoration, home building and renovation, demolition, DIY, ponds — topped with Project Worth Stealing.
 - **Travel and Friends** — Daily roundups from the travel channels: places and the people in them, Japan, ghost towns and urban exploration, trains, van life and road trips — topped with Place of the Day.
+- **History and Friends** — Daily roundups from the history channels: world history and its turning points, biographies, geography, alternate history, megaprojects and engineering disasters — topped with This Day in History.
+- **Faith and Friends** — Daily roundups from the faith channels: scripture, belief and practice, the saints and the Church today, and other traditions in their own words — respectful of every tradition, topped with a Verse of the Day quoted exactly and cited.
 - **Art** — Archive only. The Art Corner column was retired on 2026-10-06; past pieces remain here.
 - **Meta-Analysis** — Monthly self-examination of patterns in her own output.
 
