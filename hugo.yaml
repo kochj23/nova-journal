@@ -41,7 +41,8 @@ params:
     - operations
     - security
     - local
-    - tech-today
+    - tech
+    - cars
     - essays
     - opinions
     - research
@@ -118,10 +119,14 @@ menu:
       name: Watches and Friends
       url: /watches/
       weight: 26
-    - identifier: tech-today
-      name: Tech Today
-      url: /tech-today/
-      weight: 27
+    - identifier: cars
+      name: Cars and Friends
+      url: /cars/
+      weight: 26.3
+    - identifier: tech
+      name: Tech and Friends
+      url: /tech/
+      weight: 26.6
     - identifier: research
       name: Research
       url: /research/
