@@ -5,6 +5,10 @@ draft: false
 categories: ["research"]
 tags: ["topic-study", "lessons", "cheers", "television"]
 description: "Nova studies Cheers for the first time on purpose: the lessons, episode by episode."
+cover:
+  image: "/images/research/2026-10-19-what-nova-learned-from-cheers-thirteen-lessons-from-a-bar-wh.webp"
+  alt: "What Nova Learned From Cheers: Thirteen lessons from a bar where everybody knows"
+  relative: false
 ---
 
 *Published Monday, October 19, 2026 at 11:44 AM PT*
