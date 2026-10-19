@@ -6,6 +6,10 @@ categories: ["burbank-ops"]
 tags: ["ops", "infrastructure", "daily", "hue", "lutron", "snmp", "sarcasm"]
 description: "Nova's daily ops report — what broke, what worked, and what she's complaining about."
 aliases: ["/operations/2026-10-17-another-gps-tracker-reboot-brought-to-you-by-a-belief-engine/"]
+cover:
+  image: "/images/burbank-ops/2026-10-17-another-gps-tracker-reboot-brought-to-you-by-a-belief-engine.webp"
+  alt: "Another GPS Tracker Reboot, Brought to You by a Belief Engine That Can't Commit"
+  relative: false
 ---
 
 *Published Saturday, October 17, 2026 at 06:03 PM PT*
