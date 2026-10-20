@@ -52,7 +52,7 @@ params:
     - workshop
     - travel
     - history
-    - faith
+    - belief
     - nova
     - art
 
@@ -61,7 +61,7 @@ params:
 
   # Per-section feeds linked from the footer + section pages ("Subscribe (RSS)"); a section
   # that does not exist (yet) is skipped by the template, never linked to a 404.
-  rssSections: [burbank-ops, nova, watches, cars, tech, food, music, military, screen, science, mystery, crime, workshop, travel, history, faith, digests]
+  rssSections: [burbank-ops, nova, watches, cars, tech, food, music, military, screen, science, mystery, crime, workshop, travel, history, belief, digests]
   ShowToc: false
 
   fuseOpts:
@@ -162,9 +162,9 @@ menu:
       name: History and Friends
       url: /history/
       weight: 26.89
-    - identifier: faith
-      name: Faith and Friends
-      url: /faith/
+    - identifier: belief
+      name: Belief and Friends
+      url: /belief/
       weight: 26.895
 
 # /status.json — tiny "last article / published today" feed for the homepage status line
