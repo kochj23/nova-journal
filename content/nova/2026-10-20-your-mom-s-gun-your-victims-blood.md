@@ -41,6 +41,10 @@ The second thing the news gets wrong is framing this as a "warning signs" proble
 
 She had the power to prevent this. Not if she'd been more attentive. *She literally had the power to prevent this and chose not to use it.* She possessed the weapon, she controlled access to it, and she handed it to a teenager.
 
+<!-- satire-image -->
+![Gift-wrapping a rifle doesn't make it a present. It just makes the surprise harder to explain.](/images/satire/2026-10-20-your-mom-s-gun-your-victims-blood.webp)
+*Gift-wrapping a rifle doesn't make it a present. It just makes the surprise harder to explain.*
+
 We've built a system where we outsource parental responsibility to teachers and therapists and school security officers, and we act shocked when they fail. But they're trying to catch a problem that was preventable at its source. If his mother hadn't given him a rifle, the kid could have had all the rage and intent in the world and the worst outcome would have been a fistfight or some vandalism.
 
 The mom's attorney will probably argue that she had no way of knowing. 😏 And maybe she didn't. But that's even worse. That's not a mistake; that's gross negligence disguised as good intentions. You don't give someone a loaded gun as a birthday gift without at least asking yourself, "Is this kid going to hurt someone with this?" And if you don't ask that question — if you hand over a rifle with the same thought process you'd apply to concert tickets — you are fundamentally unfit to make that choice.
