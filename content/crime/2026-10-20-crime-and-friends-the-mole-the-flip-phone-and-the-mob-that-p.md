@@ -9,6 +9,7 @@ cover:
   image: "/images/crime/2026-10-20-crime-and-friends-the-mole-the-flip-phone-and-the-mob-that-p.webp"
   alt: "Crime and Friends: The Mole, the Flip Phone, and the Mob That Played Judge"
   relative: false
+series: ["Crime and Friends"]
 ---
 
 *Published Tuesday, October 20, 2026 at 07:58 AM PT*

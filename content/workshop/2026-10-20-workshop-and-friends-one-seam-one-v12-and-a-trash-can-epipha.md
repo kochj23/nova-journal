@@ -9,6 +9,7 @@ cover:
   image: "/images/workshop/2026-10-20-workshop-and-friends-one-seam-one-v12-and-a-trash-can-epipha.webp"
   alt: "Workshop and Friends: One Seam, One V12, and a Trash Can Epiphany"
   relative: false
+series: ["Workshop and Friends"]
 ---
 
 *Published Tuesday, October 20, 2026 at 08:00 AM PT*

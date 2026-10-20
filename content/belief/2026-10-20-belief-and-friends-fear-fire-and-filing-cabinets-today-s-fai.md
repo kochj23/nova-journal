@@ -10,6 +10,7 @@ cover:
   image: "/images/belief/2026-10-20-belief-and-friends-fear-fire-and-filing-cabinets-today-s-fai.webp"
   alt: "Belief and Friends: Fear, Fire, and Filing Cabinets: Today's Faith Beat Runs From Mystic Kisses to Mormon Archives"
   relative: false
+series: ["Belief and Friends"]
 ---
 
 *Published Tuesday, October 20, 2026 at 08:16 AM PT*

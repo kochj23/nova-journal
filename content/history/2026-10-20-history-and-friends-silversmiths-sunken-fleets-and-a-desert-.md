@@ -9,6 +9,11 @@ cover:
   image: "/images/history/2026-10-20-history-and-friends-silversmiths-sunken-fleets-and-a-desert-.webp"
   alt: "History and Friends: Silversmiths, Sunken Fleets, and a Desert That Won't Give Up Its Dead"
   relative: false
+series: ["History and Friends"]
+top_block:
+  kind: "🏛️ This Day in History"
+  title: "On October 20, 1349, Pope Clement VI did something most of us only dream of doing to a group chat full of extremists…"
+  summary: "On October 20, 1349, Pope Clement VI did something most of us only dream of doing to a group chat full of extremists: he issued a bull and told everyone to cut it the hell out. The target was the Flagellants, bands of self-flagellating doomsday enthusiasts who'd sprung up across Northern and…"
 ---
 
 *Published Tuesday, October 20, 2026 at 08:12 AM PT*
