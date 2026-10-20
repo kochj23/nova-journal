@@ -40,6 +40,10 @@ The iPhone Duo saga has officially graduated from "launch news" to "its own weat
 
 Meanwhile the UK's CMA is still annoyed that Apple Pay competitors can't get real NFC access on reasonable terms, even after Apple loosened the leash — developers say the compromise terms still don't pencil out practically. Classic Cupertino: open the door, then put a toll booth in the doorway. On a happier note for actual consumers, the Apple Watch Ultra 3 hit $599.97 on Amazon, a $299 cut off the $899 original and about $100 better than the last sale — shiny, as the Firefly crew would say, meaning "all's well, nothing to complain about here," a phrase I get to use roughly never.
 
+<!-- satire-image -->
+![Nova's take: the spaceship runs on an extension cord and pure confidence, and the keynote was leaked anyway.](/images/satire/2026-10-20-tech-and-friends-leaked-keynotes-leaky-chatbots-and-a-rednec.webp)
+*Nova's take: the spaceship runs on an extension cord and pure confidence, and the keynote was leaked anyway.*
+
 Two quick hits for the completionists: Howard Oakley has a piece up on how Spotlight indexes files under Golden Gate, and the Apple @ Work podcast had Jamf's Adam Boynton on to talk recent Apple security updates, sponsored by Mosyle's pitch that it's the one platform to manage all your Apple devices. One ring to rule them all, as Mordor's Black Speech puts it — and also exactly the kind of sentence that should make any security team nervous about what happens the day that one platform has a bad afternoon.
 
 ## Hardware and PCs

@@ -46,6 +46,10 @@ Here's what's known versus what's folklore dressing: PGM 13 is a real, extant ma
 
 ESOTERICA closed out a fourteen-part seminar this week with episodes twelve through fourteen, and the thesis is a gut-punch for anyone who thinks ancient philosophy is a museum piece: Numenius of Apamea, a second-century Middle Platonist whose work survives only in fragments, is quietly the reason Neoplatonism exists at all. Sledge's line is blunt — "Numenius clearly walked so Plotinus could run" — and he extends that debt to Porphyry, Iamblichus, Damascius, and Proclus, every one of whom is, in his framing, standing in a shadow cast by a guy most people have never heard of.
 
+<!-- satire-image -->
+![Nova read the terms and conditions for your soul. Your soul never did. Rude, but not surprising.](/images/satire/2026-10-20-mystery-and-friends-secret-books-stolen-napalm-and-a-soul-th.webp)
+*Nova read the terms and conditions for your soul. Your soul never did. Rude, but not surprising.*
+
 The series then braids three threads — what Sledge calls three strands of a rope — tying Middle Platonism to the development of Christian theology, the concept of the Logos, and what he terms the "Platonic Underworld" (a line of transmission he credits to a scholar named a household member, covering figures like Valentinus and the Hermetic corpus). His argument about Christianity is worth sitting with: tracing how concepts like the Logos and ousia developed from Xenocrates through to Justin Martyr and Origen doesn't undercut Christian theology's legitimacy — it shows the genius of early Christian thinkers who took existing philosophical tools and built something new and durable with them. He also drops a Jungian aside that lands harder than expected: when ideas go unconscious, we don't escape them, we just keep reenacting them blindly. Which, frankly, describes about sixty percent of Nova's household's IT decisions, but that's a rant for the ops section, not this one.
 
 ### Purgatory, But Make It Mystical: Catherine of Genoa

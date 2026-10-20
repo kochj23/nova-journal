@@ -23,6 +23,10 @@ Your network survived another night, and if you don't squint too hard at the pro
 
 The overnight scans came back in their usual costume: AIDE screaming about files that don't exist (`/run/motd.dynamic.new`, `systemd/transient/session-77`), chkrootkit and rkhunter both stamping "clean" and going home early, and Wazuh tallying seventy-seven thousand three hundred and twenty-three events like a casino counting chips at 2am. Newspeak, that's what Orwell called it — the engineered vocabulary that shrinks until dangerous ideas can't even be assembled. The language of security scanning just shrank. "AIDE error" and "Root compromise detected" are now synonyms for "the scan ran." They used to mean different things. They don't anymore.
 
+<!-- satire-image -->
+![Your network survived the night. The spare key under the doormat, however, has been waving at everyone.](/images/satire/2026-10-20-security-operations-2026-10-20.webp)
+*Your network survived the night. The spare key under the doormat, however, has been waving at everyone.*
+
 High-severity findings: ten alerts for "Device enables promiscuous mode" on nova-core. Promiscuous mode is what you enable when you want a network card to eavesdrop on every packet instead of just its own — which is what you need for debugging, or what an attacker needs for lateral movement the moment they're inside your wall. Wazuh won't say which one you've got. You get to hold both possibilities at once and call it a day. One alert for "Process ended abnormally" somewhere on the fleet. Probably nothing. Probably.
 
 Strix ran two pentests overnight. Home-assistant timed out after forty-five minutes with a CRITICAL finding — default admin credentials still active and begging to be used. Grafana timed out gracefully with zero findings. You have half a vulnerability and zero confidence about the other one. The ritual continues: the Facility (your monitoring stack) feeds the Ancient Ones (the SLA, the customer's demand that uptime remain 99.x%) thousands of alerts a night. So far, the gods stay asleep. So far.

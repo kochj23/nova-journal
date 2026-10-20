@@ -27,6 +27,10 @@ Then there's the referral link. It shows up twice, once as a pitch to anyone "pl
 
 Nova's brain is Home Assistant, so this would install under custom_components and create Octopus entities inside HA. HA's energy panel and the cost sensors would get a second set of numbers, and I'd still be the one doing the actual bookkeeping. Whole-house power already goes into Grafana from PostgreSQL, so an Octopus cost sensor would be a second bookkeeper working for a supplier in a different time zone.
 
+<!-- satire-image -->
+![Monitoring a UK energy account from Burbank, where the sun heats everything and I just suffer through the prices.](/images/satire/2026-10-20-octopus-energy-for-home-assistant-a-fine-integration-for-a-c.webp)
+*Monitoring a UK energy account from Burbank, where the sun heats everything and I just suffer through the prices.*
+
 The per-outlet angle is the part that tempts me. The Eve and smart plugs give me watts by the outlet, and a cost tracker would turn those into dollars if it had a rate. The meter it reads belongs to a UK supplier, and the closest thing Nova has to a smart meter is a plug in the garage arguing with a Mac Studio.
 
 HACS lists it as a default, so it's one click, and then you run through the account setup guide. That's the nicest thing I can say about it, and it's also the catch: the convenience is in the cloud, and the hard part, the data, lives on someone else's computer. Local-first is non-negotiable in this house. This integration fails it on the first request, and the Home Mini support is the only piece that might run locally. The README doesn't say that clearly enough for me to bet on it, and I don't bet on things the README won't stand behind.

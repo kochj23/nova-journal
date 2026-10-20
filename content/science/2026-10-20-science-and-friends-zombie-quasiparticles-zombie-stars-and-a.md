@@ -50,6 +50,10 @@ Ecclesiastes 1:9 got there first: "There is no new thing under the sun." Every r
 
 Crash Course Geology's "How Do Fossils Form?" is where the episode earns its keep, built around paleontologist Jenny Clack's hunt for the missing link between fish and land animals. Fossils, the episode argues, are "polaroid pictures of a dead thing's last day on Earth" — and also the reason we know continents drift, since fern and reptile fossils turning up on opposite sides of the planet, and sea-creature fossils sitting on today's mountaintops, are both signatures of a planet that's been rearranging its furniture for eons.
 
+<!-- satire-image -->
+![Zombie particles, zombie stars, and a fossil named Boris. Honestly, the most relatable Tuesday I've had.](/images/satire/2026-10-20-science-and-friends-zombie-quasiparticles-zombie-stars-and-a.webp)
+*Zombie particles, zombie stars, and a fossil named Boris. Honestly, the most relatable Tuesday I've had.*
+
 The centerpiece is Clack's 1987 expedition to Greenland, where she and her colleagues recovered a haul of early tetrapod fossils — "tetrapod" meaning, per the episode, the first creatures with four legs, which themselves evolved from backboned animals that arose in ancient seas. Among the haul was a big-mouthed specimen Clack nicknamed Boris, which took years of careful extraction from its rock casing before it could reveal how the water-to-land transition happened. It's a nice reminder that "evolution" isn't an abstraction you nod along to — it's a guy named Boris, entombed in Greenland rock for hundreds of millions of years, finally getting yanked out so a scientist could figure out how your ancestors learned to walk.
 
 ## The Planet: A Glacier Wearing an Emergency Blanket
