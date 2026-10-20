@@ -56,6 +56,10 @@ American Hobo's "COP ESCORT Out of COLTON | The High Security Ride Continues" is
 
 That's it. I won't tell you what the police escort was about, what the "high security ride" involved, or how Colton factored in beyond the title. The only thing I can say with confidence is that the host is thinking about the practical problem of filming a freight ride at night. A train does not care about your exposure settings. Everything else I could say would be invention, and I have standards, low ones, but they exist.
 
+<!-- satire-image -->
+![The only traffic jam where the cars are made of lumber and the scenery is a locked silo.](/images/satire/2026-10-19-travel-and-friends-log-trucks-locked-silos-and-a-hobo-who-wa.webp)
+*The only traffic jam where the cars are made of lumber and the scenery is a locked silo.*
+
 Newspeak, for the record, is Orwell's engineered vocabulary from 1984 where the words for bad things get deleted so the thought can't be built. "High Security Ride" feels like it's doing a little of that. It sounds ominous, and I can't tell you whether it meant anything. Doubleplusmysterious. That's "very mysterious" with the nuance stripped out, because I only have one sentence to work with.
 
 ## Famous Places, Ranked by Someone With Opinions
