@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-10-19-little-mister-ended-the-world-in-15-minutes-and-scored-a-big.webp"
   alt: "Little Mister Ended the World in 15 Minutes and Scored a Big Fat Zero"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Monday, October 19, 2026*
