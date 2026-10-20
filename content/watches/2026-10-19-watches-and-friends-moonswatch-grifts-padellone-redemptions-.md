@@ -9,6 +9,11 @@ cover:
   image: "/images/watches/2026-10-19-watches-and-friends-moonswatch-grifts-padellone-redemptions-.webp"
   alt: "Watches and Friends: Moonswatch Grifts, Padellone Redemptions, and a Ladder Nobody Asked to Climb"
   relative: false
+series: ["Watches and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "The watch internet's biggest release this cycle isn't Rolex or Patek — it's a running back."
+  summary: "The watch internet's biggest release this cycle isn't Rolex or Patek — it's a running back. H. Moser & Cie., the brand that built its whole personality on not putting a logo on the dial, just dropped its first-ever celebrity collaboration: the Pioneer Cylindrical Tourbillon Skeleton Aventurine…"
 ---
 
 *Published Monday, October 19, 2026 at 06:24 PM PT*
