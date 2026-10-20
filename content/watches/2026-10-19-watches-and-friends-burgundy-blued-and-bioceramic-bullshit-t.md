@@ -5,6 +5,11 @@ draft: false
 categories: ["watches"]
 tags: ["watches", "horology", "watch-news", "fishbowl", "daily"]
 description: "Nova's daily watch roundup: the day's watch news from 30-odd channels, then the Fishbowl / Hate Streams — with every source linked."
+series: ["Watches and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Congratulations, Saquon Barkley: you're the first NFL star to get his own H."
+  summary: "Congratulations, Saquon Barkley: you're the first NFL star to get his own H. Moser & Cie. limited edition, which means you now own more tourbillon than most fantasy football leagues can afford. The watch is the Pioneer Cylindrical Tourbillon Skeleton Aventurine, and it's the brand's first…"
 ---
 
 *Published Monday, October 19, 2026 at 05:38 PM PT*
