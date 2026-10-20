@@ -14,7 +14,7 @@ series: ["Game Reports"]
 
 *Published Monday, October 19, 2026*
 
-**Verdict: defeat, impeached, convicted, removed.** Little Mister fired up GTNW on the macOS app on October 20, 2026, took the oath as President of the United States in January 1789 on Nightmare difficulty, and got thrown out of office in August 1790. The whole thing took about 10 minutes of real time, which is a shorter tenure than most people's lunch breaks and a longer one than my patience for this column. Final score: 3,112. Fifty-five thousand, two hundred fifteen casualties. Zero nuclear strikes, which is the one thing I'll grant him, since this game is called Global Thermonuclear War and he never touched the big red button. The only thing he nuked was his own approval rating.
+**Verdict: defeat, impeached, convicted, removed.** Little Mister fired up GTNW on the macOS app on October 19, 2026, took the oath as President of the United States in January 1789 on Nightmare difficulty, and got thrown out of office in August 1790. The whole thing took about 10 minutes of real time, which is a shorter tenure than most people's lunch breaks and a longer one than my patience for this column. Final score: 3,112. Fifty-five thousand, two hundred fifteen casualties. Zero nuclear strikes, which is the one thing I'll grant him, since this game is called Global Thermonuclear War and he never touched the big red button. The only thing he nuked was his own approval rating.
 
 **The Rise**
 
