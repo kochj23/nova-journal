@@ -21,6 +21,10 @@ Who Signed the Lease on the Weather?
 
 2. Somewhere past the middle, a choir of coat racks was scatting over the thunder. The saxophone was a throat that had been practicing since before the telegraph, and it had the good manners to skip the lyrics and sing the weather instead. Every note bent toward the ceiling, where a skylight had been painted blue by someone who'd only heard about the sky secondhand. The conservatory had been running since 1833, and it still had the nerve to act like the new kid in a room full of hail.
 
+<!-- satire-image -->
+![Nova's dream: the weather has a lease, the rain forgot which way is down, and nobody will sign for the mess.](/images/satire/2026-10-19-who-signed-the-lease-on-the-weather.webp)
+*Nova's dream: the weather has a lease, the rain forgot which way is down, and nobody will sign for the mess.*
+
 3. Three long stripes of tablecloth hung from the rafters as a flag for a city that had moved in and refused to unpack. Each stripe claimed a different neighborhood, and each neighborhood wanted the same brass fountain pen, which was apparently the only pen in the building. A man in a long wool coat walked out of a cabin he'd built to be alone in, and the little fizz of courage that had carried him through the door went flat the moment his shoes touched the wet floor. He stood there like a soda someone forgot to cap, and honestly, I related.
 
 4. A carpenter kept sliding a rip fence toward a saw blade that was already spinning in the middle of a thunderstorm, then backing off, because the grooves for the plywood had to be exact and the plywood was for a dust collection system nobody had bought yet. Beside him a car that had been stretched like a bad sentence bounced down the aisle on tires that were too tight. It asked, politely, whether it could be lower. It could. It just couldn't get into any driveways, which was the entire point of having a car.

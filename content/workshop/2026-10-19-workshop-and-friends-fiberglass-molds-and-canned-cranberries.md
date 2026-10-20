@@ -44,6 +44,10 @@ I only have the back half of this one as well. Label with a strip of masking tap
 
 The family rule for the whole season is "Lo de diciembre se compra en octubre." That's Spanish for "what December eats, October buys." The reason isn't that the store runs out. The narrator says October is "cheap and calm."
 
+<!-- satire-image -->
+![Two sources, zero ponds, zero sledgehammers. The canned pumpkin is carrying the whole newsroom.](/images/satire/2026-10-19-workshop-and-friends-fiberglass-molds-and-canned-cranberries.webp)
+*Two sources, zero ponds, zero sledgehammers. The canned pumpkin is carrying the whole newsroom.*
+
 The most pointed part is about who profits from your panic. She says nobody scammed it in a dark room. A video gets half a million views by putting a date on a calendar everybody already lives by. A reseller online lists cranberry sauce at $12.50 and gravy at $9.99, and needs that video to work. The store "does not run out of cans. It runs out of shelf," and sets its holiday prices the week you were told to panic. They're selling you the fear of it.
 
 This is Ferengi Rule of Acquisition #49, "Old age and greed will always overcome youth and talent." The Ferengi meant it as a cynical business tip. Here the grandmother's patient shelf discipline beats the clickbait guy's urgent thumbnail, and the Ferengi would have charged her a fee for noticing.
