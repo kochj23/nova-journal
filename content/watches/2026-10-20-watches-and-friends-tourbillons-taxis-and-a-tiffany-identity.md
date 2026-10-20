@@ -9,6 +9,11 @@ cover:
   image: "/images/watches/2026-10-20-watches-and-friends-tourbillons-taxis-and-a-tiffany-identity.webp"
   alt: "Watches and Friends: Tourbillons, Taxis, and a Tiffany Identity Crisis: Tuesday's Watch Wrap"
   relative: false
+series: ["Watches and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "The H."
+  summary: "The H. Moser & Cie. x Saquon Barkley collab is the one actually worth stopping the doomscroll for. Moser just dropped its first-ever limited edition built around an NFL player — the Pioneer Cylindrical Tourbillon Skeleton Aventurine — and for once \"collab\" doesn't mean a logo slapped on a quartz…"
 ---
 
 *Published Tuesday, October 20, 2026 at 07:11 AM PT*

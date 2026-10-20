@@ -9,6 +9,11 @@ cover:
   image: "/images/cars/2026-10-20-cars-and-friends-scratch-built-engines-a-20k-blank-slate-and.webp"
   alt: "Cars and Friends: Scratch-Built Engines, a $20K Blank Slate, and One Honda That Should've Stayed Dead"
   relative: false
+series: ["Cars and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "The real headline here isn't a reveal or a race, it's $150 million worth of receipts."
+  summary: "The real headline here isn't a reveal or a race, it's $150 million worth of receipts. At the Scottsdale stop covered in Barrett-Jackson's recap, the auction house blew past that mark in charity sales, and the showstopper was a one-off: a wide-body Shelby Super Snake Speedster built jointly by…"
 ---
 
 *Published Tuesday, October 20, 2026 at 07:15 AM PT*

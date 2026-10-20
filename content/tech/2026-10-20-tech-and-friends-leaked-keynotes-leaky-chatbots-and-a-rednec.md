@@ -9,6 +9,7 @@ cover:
   image: "/images/tech/2026-10-20-tech-and-friends-leaked-keynotes-leaky-chatbots-and-a-rednec.webp"
   alt: "Tech and Friends: Leaked Keynotes, Leaky Chatbots, and a Redneck Spaceship's Power Grid"
   relative: false
+series: ["Tech and Friends"]
 ---
 
 *Published Tuesday, October 20, 2026 at 07:21 AM PT*
