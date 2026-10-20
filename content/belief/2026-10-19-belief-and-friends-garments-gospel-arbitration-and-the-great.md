@@ -9,6 +9,11 @@ cover:
   image: "/images/belief/2026-10-19-belief-and-friends-garments-gospel-arbitration-and-the-great.webp"
   alt: "Belief and Friends: Garments, Gospel Arbitration, and the Great Turkish Delight Heist"
   relative: false
+series: ["Belief and Friends"]
+top_block:
+  kind: "📜 Text in Context"
+  title: "Learn its statutes and walk therein."
+  summary: "Learn its statutes and walk therein. If your desire is towards its laws, your abode shall be in the paradise of heaven. But if you turn away from its commandments, you shall bring down your crowned head to the dust. Zend-Avesta part 2: Sirozahs, Yashts, Nyayish (SBE 23) — Ya<Is</Its: XXIII. Âfrîn…"
 ---
 
 *Published Monday, October 19, 2026 at 07:13 PM PT*
