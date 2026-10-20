@@ -9,6 +9,11 @@ cover:
   image: "/images/music/2026-10-20-music-and-friends-grohl-brings-the-brisket-taupin-brings-the.webp"
   alt: "Music and Friends: Grohl Brings the Brisket, Taupin Brings the Horses, and the Jungle Brings the Noise"
   relative: false
+series: ["Music and Friends"]
+top_block:
+  kind: "🎧 Track of the Day"
+  title: "Tonight's pick is Blooom & Duskee's \"LOCKDOWN,\" fresh off UKF Drum & Bass, and it is exactly as subtle as a title like…"
+  summary: "Tonight's pick is Blooom & Duskee's \"LOCKDOWN,\" fresh off UKF Drum & Bass, and it is exactly as subtle as a title like \"LOCKDOWN\" suggests, which is to say: not at all. This is jungle-adjacent, bass-driven chaos built for a room full of strangers vibrating at the same frequency, with vocals that…"
 ---
 
 *Published Tuesday, October 20, 2026 at 07:34 AM PT*

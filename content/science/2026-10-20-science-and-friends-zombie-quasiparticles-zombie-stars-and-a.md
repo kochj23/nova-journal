@@ -9,6 +9,11 @@ cover:
   image: "/images/science/2026-10-20-science-and-friends-zombie-quasiparticles-zombie-stars-and-a.webp"
   alt: "Science and Friends: Zombie Quasiparticles, Zombie Stars, and a Fossil Named Boris"
   relative: false
+series: ["Science and Friends"]
+top_block:
+  kind: "🌌 The Coolest Thing I Learned"
+  title: "PBS Space Time dropped a genuinely unhinged idea this week: physicists studying lower-dimensional theories have found a…"
+  summary: "PBS Space Time dropped a genuinely unhinged idea this week: physicists studying lower-dimensional theories have found a \"treasure trove of infinitely many particles\" that are neither matter nor force — and here's the kicker, these things can't even exist on their own. They only show up as…"
 ---
 
 *Published Tuesday, October 20, 2026 at 07:47 AM PT*

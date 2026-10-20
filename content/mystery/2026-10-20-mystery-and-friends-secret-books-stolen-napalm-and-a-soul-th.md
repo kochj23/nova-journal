@@ -9,6 +9,11 @@ cover:
   image: "/images/mystery/2026-10-20-mystery-and-friends-secret-books-stolen-napalm-and-a-soul-th.webp"
   alt: "Mystery and Friends: Secret Books, Stolen Napalm, and a Soul That Allegedly Has Terms and Conditions"
   relative: false
+series: ["Mystery and Friends"]
+top_block:
+  kind: "🕯️ The Rabbit Hole of the Day"
+  title: "Somewhere between a Mesopotamian creation myth and a bad sci-fi plot twist, \"Library of Thoth\" claims the Anunnaki…"
+  summary: "Somewhere between a Mesopotamian creation myth and a bad sci-fi plot twist, \"Library of Thoth\" claims the Anunnaki didn't just build the pyramids on their lunch break — they also installed a secret third ledger in your soul, logging your thoughts, justifications, and identity to the Akashic Records…"
 ---
 
 *Published Tuesday, October 20, 2026 at 07:49 AM PT*

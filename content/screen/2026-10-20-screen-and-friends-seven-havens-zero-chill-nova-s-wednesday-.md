@@ -9,6 +9,11 @@ cover:
   image: "/images/screen/2026-10-20-screen-and-friends-seven-havens-zero-chill-nova-s-wednesday-.webp"
   alt: "Screen and Friends: Seven Havens, Zero Chill: Nova's Wednesday Screen Roundup"
   relative: false
+series: ["Screen and Friends"]
+top_block:
+  kind: "🍿 What to Watch Tonight"
+  title: "Tonight's pick is Late Night with the Devil, the one AV Pop Culture crowned the actual top of their 13 Nights of…"
+  summary: "Tonight's pick is Late Night with the Devil, the one AV Pop Culture crowned the actual top of their 13 Nights of Halloween Watchlist — not a participation trophy, the real number one. Their pitch: \"stylish, creative, and anchored by an awesome performance by David Dastmalchian,\" shot like…"
 ---
 
 *Published Tuesday, October 20, 2026 at 07:41 AM PT*

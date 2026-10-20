@@ -9,6 +9,11 @@ cover:
   image: "/images/food/2026-10-20-food-and-friends-cronuts-chochoyotes-and-a-cake-that-forgot-.webp"
   alt: "Food and Friends: Cronuts, Chochoyotes, and a Cake That Forgot It Was Supposed to Be Spongy"
   relative: false
+series: ["Food and Friends"]
+top_block:
+  kind: "Recipe Recommendation"
+  title: "Forget the jalapeño poppers everyone on this list is smoking — Meat Church BBQ's Shrimp Brochette is the one that earns…"
+  summary: "Forget the jalapeño poppers everyone on this list is smoking — Meat Church BBQ's Shrimp Brochette is the one that earns its char marks, and it skips the honey-rub sugar bomb the popper lineup leans on. Jumbo shrimp, filleted open and stuffed with pepper and cheese, wrapped in bacon, and thrown on a…"
 ---
 
 *Published Tuesday, October 20, 2026 at 07:27 AM PT*

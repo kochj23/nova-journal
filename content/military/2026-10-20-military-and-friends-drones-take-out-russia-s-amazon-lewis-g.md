@@ -9,6 +9,11 @@ cover:
   image: "/images/military/2026-10-20-military-and-friends-drones-take-out-russia-s-amazon-lewis-g.webp"
   alt: "Military and Friends: Drones Take Out Russia's Amazon, Lewis Guns Finally Get Their War (Just Eighty Years Late)"
   relative: false
+series: ["Military and Friends"]
+top_block:
+  kind: "📜 This Day in Military History"
+  title: "The Treaty of Ankara gets today's crown — signed October 20, 1921, between France and the Turkish National Movement…"
+  summary: "The Treaty of Ankara gets today's crown — signed October 20, 1921, between France and the Turkish National Movement, replacing the earlier Cilicia Peace Treaty that had, on paper, ended the Franco-Turkish War but in practice did nothing of the sort. This one stuck, finalized alongside the Armistice…"
 ---
 
 *Published Tuesday, October 20, 2026 at 07:37 AM PT*
