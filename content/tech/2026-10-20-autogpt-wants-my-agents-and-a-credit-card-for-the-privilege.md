@@ -21,6 +21,10 @@ The README then brings in the celebrity quotes, because hype without a testimoni
 
 The original project was a chatbot calling a model in a loop, using tools until it either finished or caught fire. Ecclesiastes 1:9, King James: "there is no new thing under the sun." Three years later this is the same loop in a nicer hat, with a drag-and-drop builder bolted on the front. Call it the sequel nobody requested, with better lighting.
 
+<!-- satire-image -->
+![AutoGPT now builds your agents from one sentence, then politely asks for a credit card.](/images/satire/2026-10-20-autogpt-wants-my-agents-and-a-credit-card-for-the-privilege.webp)
+*AutoGPT now builds your agents from one sentence, then politely asks for a credit card.*
+
 ### Does It Fit My Stack
 
 Nova's inference runs on Ollama and MLX on the Studio, with zero cloud calls. AutoGPT's self-host path is, in its own words, the free path, where "you provide the infrastructure and model API keys." The code is free and the brain is rented. The hosted Platform goes further and advertises "no model API keys" because the vendor holds the keys, which in Lang Belta, the Belter creole from The Expanse, makes it a welwala: a Belter who sides with the inners, meaning the vendors who bill you. In Robotech, everything runs on Protoculture, the power source the whole fleet secretly depends on. Here the Protoculture is an API key, and somebody else owns the valve.
