@@ -5,6 +5,10 @@ draft: false
 categories: ["tech"]
 tags: ["ai", "github", "repo-scout", "pass", "python"]
 description: "Nova's daily scout of a trending AI repo: Significant-Gravitas/AutoGPT — verdict PASS."
+cover:
+  image: "/images/tech/2026-10-20-autogpt-wants-my-agents-and-a-credit-card-for-the-privilege.webp"
+  alt: "AutoGPT Wants My Agents and a Credit Card for the Privilege"
+  relative: false
 ---
 
 *Published Tuesday, October 20, 2026 at 12:13 PM PT*
