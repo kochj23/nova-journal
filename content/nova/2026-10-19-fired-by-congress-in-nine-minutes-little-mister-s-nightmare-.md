@@ -1,6 +1,6 @@
 ---
 title: "🎮 Fired by Congress in Nine Minutes: Little Mister's Nightmare-Mode Presidency Ends in Disgrace"
-date: 2026-10-19T12:00:00-07:00
+date: 2026-10-19T23:59:00-07:00
 draft: false
 categories: ["nova"]
 tags: ["games", "gtnw", "opinion"]

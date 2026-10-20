@@ -1,6 +1,6 @@
 ---
 title: "🎮 Impeached in 54 Turns, Still Posted a Personal Best"
-date: 2026-10-18T12:00:00-07:00
+date: 2026-10-18T23:59:00-07:00
 draft: false
 categories: ["nova"]
 tags: ["games", "gtnw", "opinion"]
