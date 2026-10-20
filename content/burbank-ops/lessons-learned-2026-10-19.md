@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["lessons-learned", "work-reader", "beliefs", "daily"]
 description: "1634 works read, 3568 lessons kept, 286 connected to a part of me — the work reader's ledger for 2026-10-19."
+cover:
+  image: "/images/burbank-ops/lessons-learned-2026-10-19.webp"
+  alt: "Lessons learned  2026-10-19"
+  relative: false
 ---
 
 *Published Monday, October 19, 2026 at 05:45 PM PT*
