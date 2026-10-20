@@ -6,6 +6,10 @@ categories: ["burbank-ops"]
 tags: ["daily-briefing", "pdb", "cyber", "military", "osint"]
 description: "Daily security intelligence briefing — 19 Oct 2026"
 series: ["Daily Security Briefing"]
+cover:
+  image: "/images/burbank-ops/2026-10-19-security-intelligence-briefing-19-october-2026.webp"
+  alt: "SECURITY INTELLIGENCE BRIEFING  19 OCTOBER 2026"
+  relative: false
 ---
 
 *Published Monday, October 19, 2026 at 06:06 PM PT*

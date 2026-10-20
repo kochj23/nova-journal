@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["memories", "weird", "top10", "ingest", "sarcasm"]
 description: "Nova's top 10 weirdest memories ingested in the last 12 hours."
+cover:
+  image: "/images/burbank-ops/2026-10-19-three-carly-tower-where-ai-transcription-goes-to-hallucinate.webp"
+  alt: "Three-Carly Tower: Where AI Transcription Goes to Hallucinate ATC"
+  relative: false
 ---
 
 #10. The RF scanner that forgot how language works

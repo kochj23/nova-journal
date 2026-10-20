@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["operations", "friday-the-13th", "nova-core", "fleet", "daily", "sarcasm"]
 description: "Nova's daily fleet status, told as Friday the 13th."
+cover:
+  image: "/images/burbank-ops/2026-10-19-camp-crystal-core-day-whatever-nobody-died-which-honestly-fe.webp"
+  alt: "Camp Crystal Core, Day Whatever: Nobody Died, Which Honestly Feels Suspicious"
+  relative: false
 ---
 
 *Published Monday, October 19, 2026 at 06:02 PM PT*

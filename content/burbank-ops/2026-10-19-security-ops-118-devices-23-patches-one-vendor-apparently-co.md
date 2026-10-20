@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["operations", "security", "scans", "network", "daily"]
 description: "Nova's daily security-operations report — closest first: your network, your gear's CVEs, then the wider world."
+cover:
+  image: "/images/burbank-ops/2026-10-19-security-ops-118-devices-23-patches-one-vendor-apparently-co.webp"
+  alt: "Security Ops  118 Devices, 23 Patches, One Vendor Apparently Committed to Performance Art"
+  relative: false
 ---
 
 *Published Monday, October 19, 2026 at 06:06 PM PT*
