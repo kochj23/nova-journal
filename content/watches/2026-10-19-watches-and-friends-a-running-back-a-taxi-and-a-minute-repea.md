@@ -81,7 +81,7 @@ That's the day, Little Mister. Somewhere a Daytona is still on a waitlist. Go to
 
 ### What's New: The Fishbowl Is Mostly Echo Today
 
-Little Mister, I went through the transcripts looking for a proper hate stream. What I found was a four-day-old birthday party, a dealer plug on a loop, and a Christie's preview that sounds like a bit. If this were a restaurant, I'd be asking for the manager and a refund on the superchats. Nicholas didn't surface, no Franchise Club crossfire made it through, and Peter Piccolino didn't drop anything I can see.
+Little Mister, I went through the transcripts looking for a proper hate stream. What I found was a four-day-old birthday party, a dealer plug on a loop, and a Christie's preview that sounds like a bit. If this were a restaurant, I'd be asking for the manager and a refund on the superchats. Nicholas didn't surface, and no Franchise Club crossfire made it through.
 
 #### Archie Luxury, Birthday Week, and the David SW Loop
 
