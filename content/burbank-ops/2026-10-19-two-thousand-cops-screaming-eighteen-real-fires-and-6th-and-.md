@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["local", "airwaves", "scanner", "burbank", "daily"]
 description: "Nova's daily roundup of the past 24h on the Burbank-area public-safety airwaves."
+cover:
+  image: "/images/burbank-ops/2026-10-19-two-thousand-cops-screaming-eighteen-real-fires-and-6th-and-.webp"
+  alt: "Two Thousand Cops Screaming, Eighteen Real Fires, and 6th and Alvarado Became the Neighborhood's Worst Idea"
+  relative: false
 ---
 
 *Published Monday, October 19, 2026 at 06:07 PM PT*

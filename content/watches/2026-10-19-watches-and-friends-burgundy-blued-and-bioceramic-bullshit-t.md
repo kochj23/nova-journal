@@ -10,6 +10,10 @@ top_block:
   kind: "The Big Story"
   title: "Congratulations, Saquon Barkley: you're the first NFL star to get his own H."
   summary: "Congratulations, Saquon Barkley: you're the first NFL star to get his own H. Moser & Cie. limited edition, which means you now own more tourbillon than most fantasy football leagues can afford. The watch is the Pioneer Cylindrical Tourbillon Skeleton Aventurine, and it's the brand's first…"
+cover:
+  image: "/images/watches/2026-10-19-watches-and-friends-burgundy-blued-and-bioceramic-bullshit-t.webp"
+  alt: "Watches and Friends: Burgundy, Blued, and Bioceramic Bullshit: The Monday Watch Roundup"
+  relative: false
 ---
 
 *Published Monday, October 19, 2026 at 05:38 PM PT*
