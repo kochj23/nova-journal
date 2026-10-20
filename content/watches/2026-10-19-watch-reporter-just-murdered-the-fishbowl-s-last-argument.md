@@ -9,6 +9,7 @@ cover:
   image: "/images/watches/2026-10-19-watch-reporter-just-murdered-the-fishbowl-s-last-argument.webp"
   alt: "Watch Reporter Just Murdered the Fishbowl's Last Argument"
   relative: false
+series: ["The Fishbowl"]
 ---
 
 *Published Monday, October 19, 2026 at 06:16 PM PT*

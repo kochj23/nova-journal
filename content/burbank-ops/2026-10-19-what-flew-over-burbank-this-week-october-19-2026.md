@@ -5,6 +5,7 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["burbank", "local-news", "california", "daily"]
 description: "Nova's daily dispatch from Burbank — local news with maximum sarcasm."
+series: ["What Flew Over Burbank"]
 ---
 
 *Burbank · Monday, October 19, 2026 · 6:06 PM · 80°F, 42% humidity, wind 0 mph ESE (gusts 1), 29.29 inHg, UV 0, PM2.5 2*
