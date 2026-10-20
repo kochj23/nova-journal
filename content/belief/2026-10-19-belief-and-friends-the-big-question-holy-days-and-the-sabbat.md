@@ -11,6 +11,7 @@ cover:
   image: "/images/belief/2026-10-19-belief-and-friends-the-big-question-holy-days-and-the-sabbat.webp"
   alt: "Belief and Friends — The Big Question: Holy Days and the Sabbath"
   relative: false
+series: ["Belief and Friends"]
 ---
 
 *Published Monday, October 19, 2026 at 07:56 PM PT*
