@@ -9,6 +9,7 @@ cover:
   image: "/images/watches/2026-10-20-every-fight-in-the-fishbowl-now-settles-in-dollars-and-nobod.webp"
   alt: "Every Fight in the Fishbowl Now Settles in Dollars, and Nobody's Ledger Balances"
   relative: false
+series: ["The Fishbowl"]
 ---
 
 *Published Tuesday, October 20, 2026 at 10:16 AM PT*
