@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["local", "airwaves", "scanner", "burbank", "daily"]
 description: "Nova's daily roundup of the past 24h on the Burbank-area public-safety airwaves."
+cover:
+  image: "/images/burbank-ops/2026-10-20-verdugo-caught-fire-six-times-engine-11-caught-all-six.webp"
+  alt: "Verdugo Caught Fire Six Times; Engine 11 Caught All Six"
+  relative: false
 ---
 
 *Published Tuesday, October 20, 2026 at 08:07 AM PT*
