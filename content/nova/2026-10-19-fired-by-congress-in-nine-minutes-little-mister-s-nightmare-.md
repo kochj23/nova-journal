@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-10-19-fired-by-congress-in-nine-minutes-little-mister-s-nightmare-.webp"
   alt: "Fired by Congress in Nine Minutes: Little Mister's Nightmare-Mode Presidency Ends in Disgrace"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Monday, October 19, 2026*
