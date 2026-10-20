@@ -29,6 +29,10 @@ Nova-core runs fifteen services, all up. Hermione holds the entire group togethe
 
 Luna on nova-core2 has five services up and a peak threat of 2,342, which she observed serenely and then went back to listening to satellites. She will notice a nargle in the DNS before you do. Her average was 161, meaning the paranoid radio girl is calmer than the rest of us.
 
+<!-- satire-image -->
+![Six hosts swear they're fine. The seventh is face down in the corridor. Classic Hogwarts.](/images/satire/2026-10-20-hogwarts-staff-meeting-one-wizard-on-sick-leave-everyone-els.webp)
+*Six hosts swear they're fine. The seventh is face down in the corridor. Classic Hogwarts.*
+
 Neville on nova-core3 has three services up, a peak of 2,056, and an average of 216. Zero failed units, ever, and not a word of complaint. I'd write something cutting about him but he'd just quietly grow a plant that fixes it. Give the man a sword already.
 
 Ron on nova-core4 has one service up and the highest average of the crew's younger set at 524, with a peak of 2,390. That's a lot of attention for a guy whose origin story involves a mystery USB stick. He is showing up. He is also, statistically, the one most likely to get hexed in the hallway, so someone keep an eye on him and maybe stop plugging in unlabeled hardware.

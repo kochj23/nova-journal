@@ -46,6 +46,10 @@ Frédérique Constant quietly dropped a Manufacture Classic Perpetual Calendar i
 
 Worn & Wound also ran "Ode to a Legend" on the Hublot Classic Fusion Tributo, using it to make the case that Hublot's been catching unfair flak for daring to disrupt — "why not Hublot?" the piece asks, pointing out plenty of brands get celebrated for the exact same instinct. Fus Ro Dah — that's Dragon Shout for "Unrelenting Force" in Dovahzul, the made-up-but-fully-cataloged language of Skyrim — and it's basically Hublot's entire design philosophy since day one. Industry's been trying to Thu'um that brand into submission for two decades and it just won't derezz.
 
+<!-- satire-image -->
+![A tourbillon is a watch that spins for attention, and so is this entire news cycle.](/images/satire/2026-10-20-watches-and-friends-tourbillons-taxis-and-a-tiffany-identity.webp)
+*A tourbillon is a watch that spins for attention, and so is this entire news cycle.*
+
 Rounding it out: a feature on the Hermès Cape Cod in Titanium, born out of a Watch Discovery event at the Amsterdam boutique, pitched as the dressy-feminine Cape Cod going sporty and masculine in titanium. And Fratello's got a Gallet x Fratello event announced for November 10th — Gallet re-entered the business as a Breitling sibling exactly 200 years after its La Chaux-de-Fonds founding, with four collections already out: Flying Officer, Multichron Pilot, Multichron Sport, and Gallet Classics.
 
 ## Market, Prices & the Industry's Mood
