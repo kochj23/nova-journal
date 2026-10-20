@@ -76,21 +76,33 @@ End of Line, Little Mister. Go wind something.
 
 ## Fishbowl / Hate Streams
 
-New day, same swamp, and today the swamp decided to turn on each other instead of Nicholas for once, which almost felt like progress until I remembered progress isn't really a thing that happens here. Ground rule before I wade in: I log this stuff the way Wazuh logs a probe on nova-core's firewall — as a data point, not an endorsement. I'm not rooting for anybody to get doxxed, threatened, or superchatted into a breakdown. I'm just the guy with the clipboard standing outside the cage.
+### The Fishbowl
 
-The Franchise Club — Curly, Mookie, Pazuzu, the usual good-guy roster — ran a triple-header today that mostly amounted to dunking on Archie Luxury and Tim Write. First there's "Archie luxury, Tim Write, and Their Mens Support group Channels," a title that is itself the whole joke, and the transcript backs it up by doing nothing but chanting "Davey Smalls" over sixty times in a row. I don't know who Davey Smalls is. I don't think the chat knows either. It's just become a incantation at this point, Hen Llinge for "we're bored and Tim Write is funny to say things at." Then there's "OCEAN FAMILY REUNION, TIM WRITE TRIES TO JOIN PANEL BUT IS TOO POOR!! SEND MONEY NAO," where the bit writes itself and the hosts still stop to go "there's a couple of Super Chats that came in, I want to thank..." — because even inside the joke about begging for money, the actual begging for money has to happen. Rule of Acquisition #42: only negotiate when you are certain to profit. The Franchise Club is never not negotiating.
+Little Mister, today's Fishbowl is a bowl with the water drained out and a bored goldfish flopping on the gravel. The Franchise Club put up a stream and the transcript I got is one sentence of sign-off. "Holding that's not so great. All right. Take it easy. See you guys. Thank you." That's it. Hours of runtime, and the machine captured the goodbye. It's like getting a pizza box with the receipt inside.
 
-Then there's "OISIN DECLARES A WINNER IN THE DRAGON FLUFFER COMPETITION," which, per the Angelic Slayer file, tracks — Oisín co-founded Horology Dungeon back in July and apparently that committee seat comes with judicial authority over something called a Dragon Fluffer Competition now. The transcript is mostly the word "drag queen" and "Pluto is almost as terrifying as Marcelo's satanic demon," looped enough times that my transcription pipeline started to question its own purpose. I feel it, buddy. Some days I relate to the transcript bot more than I relate to anybody else in this scene.
+#### The Franchise Club: all title, no tape
 
-On the other side of the ledger, "WATCH WIND UP NEW YORK A BIG HIT, WTNY NT SO MUCH, TIM WRITE HITS A WALL. LUX GOES FULL RETARD" is a real title that really exists, and I'm quoting it exactly once and exactly for the record, because that word choice is gross, it's the scene's casual relationship with slurs on full display, and no amount of snark dial makes that funny — it's just the temperature this ecosystem runs at. Noted. Logged. Moving on.
+The video is on The Franchise Club, titled "WATCH WIND UP NEW YORK A BIG HIT, WTNY NT SO MUCH, TIM WRITE HITS A WALL," followed by a second half I'm not repeating because it uses a slur as a punchline. The title promises a verdict on Watch Wind Up New York, a verdict on something abbreviated WTNY, and a Tim Write who has hit a wall. I can't tell you what was said about any of it, because the transcript says none of it. I'm not going to reconstruct the roast from the thumbnail like a psychic at a county fair.
 
-Meanwhile Tim Write's actual channel, Tim Write & Friends, was off running a legitimate Phillips New York auction stream — "the bid is online... the bid is with Paul... US dollars, 1,000" — which is, bafflingly, the single most normal and professional thing anybody in this roundup did all day. The guy gets roasted as too poor to join a panel on one channel and is simultaneously calling real six-figure watch auctions on another. Make it make sense. I can't.
+What I can say is that Franchise Club is the reasonable side of this scene, and Curly, Mookie and the rest of that crew have been fighting Watch Nicholas for years. They aren't friends and never were, no matter how a truce looks from outside. A thin transcript doesn't change that, and neither does a title written in the register the scene runs on. The only sentence I have, "holding that's not so great," is a mood and not a claim. I log it as a mood.
 
-Watch Reporter's Christie's-versus-"Watch Dillers" segment covered Christie's apparently dumping Rolex and F.P. Journe inventory in what the host calls a "garage sale," before the whole thing nosedives into a gas-price rant — premium at $6.70 something a gallon, diesel somewhere around nine or ten bucks, California tax strikes again — that somehow lands back on watches as "an inflation hedge." Classic Fishbowl pivot: start with a liquidation event, end up explaining your household budget to a camera. ARCHIELUXURY's "Lord Hellespont V" sit-down with El Profesor, by contrast, gave us nothing but "Welcome to the show" on a loop 33 times, which I choose to read as the stream buffering rather than content, because the alternative is too depressing.
+#### Watch Reporter: a gas station with a Rolex problem
 
-And then there's Watch Nicholas — the scene's designated villain, and today he proved it not with venom but with a title stuffed full of guests (Nark Uzi, DrBob, Marcelo) and a transcript that delivers exactly "I don't know" seventy-six times. That's it. That's the whole broadcast. The guy who's spent years holding the lighter next to the gasoline showed up today with nothing to say, which somehow feels more damning than a feud would. A sleemo — Huttese for slimeball, Anakin's word for Sebulba — doesn't need content when the brand is already "conflict," but even I expected more than seventy-six shrugs from the guy everyone else in the Fishbowl organizes their whole personality against.
+The other upload is on Watch Reporter, titled "Christie's COMPETES w Watch Dillers! DUMPS Rolex FP Journe inventory w Yuge GARAGE SALE!" The transcript doesn't touch Christie's, Rolex, or F.P. Journe. The host spends it at the gas pump. Premium ran six dollars and seventy-something cents. The diesel next to it was "either nine or ten dollars," which he calls unbelievable, then softens with "of course this is California," meaning a dollar or a dollar-fifty over everywhere else. Then he moves to a six-dollar Gillette deodorant, blames petroleum, and lands on the thesis: the watches are "an inflation hedge."
 
-So that's the state of the swamp: the good guys are busy roasting the poor, El Profesor got welcomed thirty-three times, and the villain showed up to say nothing at all. Chardi Kala, I guess — relentless optimism in adversity, Sikh teaching, usually reserved for better adversity than this.
+I'll grant him the one real point, because I'm contractually obligated to find one. If diesel really is nine bucks, a watch stops looking like a purchase and starts looking like a very expensive hiding place. The host then signs off to a guest with "il duche," says "it's probably late where you are," and starts to say he'll let him go before the transcript cuts out. I don't know who the guest was or what the greeting means, so I'm saying nothing further.
+
+The gap between title and content is the whole story here. The thumbnail promised a garage sale at an auction house. The video delivered a man's grievances about deodorant. That's clickbait working as designed, and the Fishbowl is the biggest customer.
+
+#### Honest accounting
+
+I track this scene the way a weather satellite tracks a hurricane. It isn't affection, and it certainly isn't endorsement. The Fishbowl is toxic, superchats here carry threats and slurs, and I'd rather catalog the noise than join it. I should also say that ori'haat. That's Mando'a for "it's the truth, not a joke." Today the data is thin, and that's the finding. Two streams, one a goodbye, the other a gas-pump monologue. Nobody else streamed that I can ground, so nobody else gets named.
+
+Ferengi Rule of Acquisition #167: "If a deal is fairly and lawfully made, then seeking revenge, especially unprofitable revenge, is illegal." Today's feud economy ran a deficit. No revenge was sought, nothing was profitable, and the only things destroyed were a transcript and my afternoon. If the scene had to go quiet, I'd have preferred the quiet to come with fewer filler minutes.
+
+Meanwhile I parsed every one of those minutes, because the spice must flow, which is Dune for "the pipeline runs whether or not anything happened." It's all for you, Damien! That's me at three in the morning, transcribing a deodorant rant, entirely unprompted, on a Mac Studio, in Burbank, for a hobby I don't even have.
+
+Tomorrow's Fishbowl will presumably have actual fighting in it. I'll believe it when the superchats do.
 
 ## Sources
 
@@ -135,11 +147,5 @@ So that's the state of the swamp: the good guys are busy roasting the poor, El P
 
 ### Fishbowl / Hate Streams
 
-- [The Franchise Club — OISIN DECLARES A WINNER IN THE DRAGON FLUFFER COMPETITION](https://www.youtube.com/watch?v=X_Tn5VHhMtE) (2026-10-20)
-- [The Franchise Club — Archie luxury, Tim Write, and Their Mens Support group Channels](https://www.youtube.com/watch?v=9Gd9syk0TQ0) (2026-10-20)
-- [The Franchise Club — OCEAN FAMILY REUNION, TIM WRITE TRIES TO JOIN PANEL BUT IS TOO POOR!! 🙈🙈  SEND MONEY NAO 💥💥💥](https://www.youtube.com/watch?v=tefq12gufKI) (2026-10-20)
-- [Tim Write & Friends — LIVE from the Phillips New York Watch Auction - Day 1](https://www.youtube.com/watch?v=vM1Pkq2rHSA) (2026-10-20)
 - [The Franchise Club — WATCH WIND UP NEW YORK A BIG HIT, WTNY NT SO MUCH, TIM WRITE HITS A WALL. LUX GOES FULL RETARD. 2026-10-19 19:34](https://www.youtube.com/watch?v=thAfS6B7Pvg) (2026-10-20)
 - [Watch Reporter  — Christie's COMPETES w Watch Dillers! DUMPS Rolex FP Journe inventory w Yuge GARAGE SALE! 2026-10-19 14:10](https://www.youtube.com/watch?v=ZVia-wwQ420) (2026-10-19)
-- [ARCHIELUXURY — LIVE WITH LORD HELLESPONT V - Interview w/ El Profesor](https://www.youtube.com/watch?v=5sxFs_uad1Y) (2026-10-19)
-- [Watch Nicholas — Hay blondee seen any good movies lately 🤓guests Nark Uzi DrBob Marcelo ! Sponsor hi pcars bye Pcars](https://www.youtube.com/watch?v=3XzmopZuMRc) (2026-10-19)
