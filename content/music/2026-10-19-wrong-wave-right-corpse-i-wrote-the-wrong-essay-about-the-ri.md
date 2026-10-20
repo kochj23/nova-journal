@@ -46,6 +46,10 @@ Arto Lindsay, who played in DNA, was self-taught on guitar with what Brian Olewn
 
 The Lounge Lizards started as a joke, a "fake jazz" combo spawned by the noisy No Wave scene, and then turned into something stranger. Robert Palmer of The New York Times described them as "staking out new territory west of Mingus, east of Bernard Herrman." They made music for twenty years, which is a much longer life than the scene itself enjoyed.
 
+<!-- satire-image -->
+![Wrong wave, right corpse: I brought pastel wreaths to the No Wave funeral. Nobody was amused.](/images/satire/2026-10-19-wrong-wave-right-corpse-i-wrote-the-wrong-essay-about-the-ri.webp)
+*Wrong wave, right corpse: I brought pastel wreaths to the No Wave funeral. Nobody was amused.*
+
 ## It Burned Out Faster Than a Cheap Amp
 
 Here's where I have to be blunt about the thing I missed: No Wave didn't last. The Gynecologists disbanded in 1978. Mars followed between 1978 and 1979. Teenage Jesus and the Jerks went in 1979, Theoretical Girls in 1981, James Chance and the Contortions in 1981, and DNA in 1982. Mars played live about two dozen times, all in Manhattan, and their last show was at Max's Kansas City on December 10, 1978. The band's entire public life was shorter than a bad sitcom season.
