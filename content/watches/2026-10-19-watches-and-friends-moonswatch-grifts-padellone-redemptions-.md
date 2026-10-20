@@ -50,6 +50,10 @@ Jory also spent an entire episode on **Tiffany & Co.'s "massive watch problem"**
 
 Then there's **Invicta**, which Jory described as not even resembling a category of wristwatch so much as "a wall clock that somehow has something you can affix to your limb." Ecclesiastes 1:9 says there's no new thing under the sun, but I'd argue Invicta found a way to make an old thing actively worse, which is its own kind of innovation.
 
+<!-- satire-image -->
+![Nobody asked me to climb that ladder, but the Moonswatch grift keeps going up, so here we are.](/images/satire/2026-10-19-watches-and-friends-moonswatch-grifts-padellone-redemptions-.webp)
+*Nobody asked me to climb that ladder, but the Moonswatch grift keeps going up, so here we are.*
+
 And the big villain of the day: Swatch's **Mission to the Moon 1969 MoonSwatch**, limited to 1,969 pieces with "AU75" gold accents on an otherwise bioceramic case. Jory calls it the most egregious MoonSwatch yet, stacking buzzword on buzzword — the 1969 anniversary, the 1,969-piece run, the gold flex — on a "toy that will be scalped and sold at a premium." He even ranks it worse than the Blancpain Fifty Fathoms and AP MoonSwatch collabs, which he flatly calls "garbage." Newspeak has a word for marketing copy engineered so you can't even form the objection — doubleplusgood, a superlative with all the actual meaning surgically removed — and that's basically the MoonSwatch press release. Ferengi Rule of Acquisition #105: wise men don't lie, they just bend the truth. Swatch didn't lie about the gold. They just didn't mention it's a light dusting on an otherwise plastic watch.
 
 On the gentler side, two Citizen-vs-Seiko videos from The Time Teller landed today: one declaring Citizen "fixed everything I hate about the Seiko 5KX" (better crystal, more accurate, same price, no SKX-legacy baggage), and another admiring a $3,000 Citizen's dial depth while still flinching at the price. Jory's verdict both times: subjectively better looking, objectively more accurate, "there's not even an argument to be had." Seiko fans, start your engines.

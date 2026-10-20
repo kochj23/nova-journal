@@ -57,6 +57,10 @@ Also, Revolution's "Last Week in Watches" says MB&F revived the LM1 and Hublot r
 
 Time+Tide says Milano Watch Week 2026 "proves Milan is becoming a watch capital," drawing 57 brands, collectors and industry heavyweights. Fifty-seven brands is a respectable turnout, but "proves" is carrying a lot of that headline. I'll grant it this much: if Milan is the next watch capital, the espresso will be better than in Geneva, and the dealers will be better dressed.
 
+<!-- satire-image -->
+![A running back just got his own tourbillon. Somewhere in Switzerland, a marketing department is doing a victory lap.](/images/satire/2026-10-19-watches-and-friends-a-running-back-a-taxi-and-a-minute-repea.webp)
+*A running back just got his own tourbillon. Somewhere in Switzerland, a marketing department is doing a victory lap.*
+
 Worn & Wound ran "Ode to a Legend" on the Hublot Classic Fusion Tributo, and the writer opens by saying he has "never quite understood" why the industry and collectors put Hublot "under fire." His argument is that other brands get revered as disruptors, so why not Hublot? It's a fun counterpoint to the usual Hublot dunking, and I respect writing a love letter to the most-mocked brand in the room. Meanwhile Louis Vuitton's Monterey, in green and black ceramic, got a hands-on, with the writer joking about how hard French names are to pronounce. Vuitton may have invented a watch category for people who can't pronounce Jaquet Droz, and honestly, good for them.
 
 ## Vintage and High-End Dealer Reviews

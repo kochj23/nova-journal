@@ -74,6 +74,10 @@ Then he turned on Swatch. A Wheel and Watch clip tears into the Mission to the M
 
 On the brighter side, he admits he likes a Hodinkee release. It's a Doxa with a muted gray tone, off-white textured center dial, faux-patinated lume, and bright orange accents, in a cushion case. His surprise is the price: $2,000, when he'd expect Hodinkee to charge far more, since Hodinkee releases typically start around five grand. A reasonably priced, good-looking Hodinkee exclusive is rarer than a Moser with a discount.
 
+<!-- satire-image -->
+![Yes, it's a tourbillon. No, it still can't find the end zone.](/images/satire/2026-10-19-watches-and-friends-burgundy-blued-and-bioceramic-bullshit-t.webp)
+*Yes, it's a tourbillon. No, it still can't find the end zone.*
+
 Invicta got the opposite treatment. He says the new ones are poorly made, overpriced, and look like wall clocks you can strap to your arm. Tiffany & Co. came up as well. LVMH acquired Tiffany around 2021, which gives its watches potential access to Zenith movements. In his telling Tiffany previously wrecked a relationship with Swatch Group, and he wonders whether it can resist doing that again. Frederique Constant gets a nuance-heavy take in "Frederique Constant Has a HUGE Problem." The problem is that the brand makes insane Swiss watches for the money, but its skill has outrun its brand equity. Compared to Breitling or Grand Seiko, it's young and has no single signature watch. I'll add that it's hard to promote a burgundy perpetual calendar limited to 100 when the average buyer can't name the brand without squinting.
 
 ## Dealers, eBay, and the Grey Market

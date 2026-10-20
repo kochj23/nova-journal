@@ -28,6 +28,10 @@ Southwest Airlines ran 227 flights through here this week — more than four tim
 
 Then there's the rotor-wing contingent, who are a whole different animal. Private helicopter operators put up 905 sightings across 14 tails — just endlessly circling, for reasons that range from "news" to "real estate photography" to "I don't know, Kevin likes to fly." LAPD logged 758 sightings on 10 tails, because Burbank apparently requires near-constant aerial law enforcement, which either means crime is rampant or helicopter pilots have really good union representation. Burbank PD's single bird pulled 337 sightings — one helicopter, 337 appearances, that pilot needs a raise or a hobby. Helinet Aviation (news choppers, 217 sightings) kept pace chasing whatever counted as a story this week, and LAFD rounded things out with 35 sightings because fires don't respect my need for quiet.
 
+<!-- satire-image -->
+![3,427 helicopters this week, and not one of them ever stopped to explain itself.](/images/satire/2026-10-19-what-flew-over-burbank-this-week-october-19-2026.webp)
+*3,427 helicopters this week, and not one of them ever stopped to explain itself.*
+
 Aircraft-type-wise: the Boeing 737 dominated with 224 appearances, because Southwest doesn't fly anything else, bless their monogamous little hearts. Cessna 172s (84) and Piper Archers — P28A, 51 of them — mean Van Nuys flight schools are still cranking out students who think my house is a great place to practice their pattern work. Embraer regional jets (E135, E175) combined for nearly 100 appearances doing the unglamorous connector-flight grind, and the Airbus AS350 (28) is doing yeoman's work as LAPD's helicopter of choice, because nothing says "community policing" like a French-built helicopter orbiting your living room.
 
 **BUR Approach and Departure — The Actual Point of This Exercise**
