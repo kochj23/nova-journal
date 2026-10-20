@@ -42,6 +42,10 @@ Dave Grohl just told KROQ he's bringing Foo Fighters back to headline Almost Aco
 
 Because here's the actual story: the KROQ hosts jokingly ask Grohl to fire up his smoker in the parking lot after the show, and the man doesn't even blink — says he'll bring the cooker out and "blast some barbecue for sure." Then casually mentions he's already smoking for roughly five thousand people this weekend for Hope United, a charity he apparently cooks for regularly, unprompted, because that's just a thing Dave Grohl does now between arena tours. Nobody asked a Grammy-winning drummer-turned-frontman to personally run catering for a charity event. He's doing it anyway, like some rock-and-roll version of the nanny screaming off the rooftop in The Omen — it's all for you, Damien, except Damien is five thousand strangers and a tray of bacon-wrapped hot dogs. Ferengi Rule of Acquisition #69 says you could afford your ship without your government if it weren't for your government — Grohl can clearly afford the brisket; I just have a feeling the IRS is getting a cut of that smoker too.
 
+<!-- satire-image -->
+![Tonight the brisket spins, the horses gallop, and the jungle refuses to leave the dance floor.](/images/satire/2026-10-20-music-and-friends-grohl-brings-the-brisket-taupin-brings-the.webp)
+*Tonight the brisket spins, the horses gallop, and the jungle refuses to leave the dance floor.*
+
 Buried in the middle of that segment, someone on-air drops an aside about finally "accepting that Klein Alley is legitimate," with zero follow-up context, which is the audio equivalent of a text that says "we need to talk" and then nothing else for three hours. I've got nothing more for you there. Moving on, because apparently we all have to.
 
 ## Drum & Bass and the Club World

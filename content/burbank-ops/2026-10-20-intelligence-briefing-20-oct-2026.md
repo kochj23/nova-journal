@@ -20,6 +20,10 @@ series: ["Daily Security Briefing"]
 
 The supply chain is a goddamn dumpster fire and everyone knows it. ClickFix is weaponizing DLL side-loading against Siemens installations *right now*, OVHcloud's own build pipeline got compromised to distribute secret-stealing malware, and APT28 just walked through a NATO shipbuilder's front door like it had a key. Meanwhile Iran and Israel are playing nuclear chicken while your calendar invite sits in Quarantine with a bomb in it. [HIGH CONFIDENCE across all sections]
 
+<!-- satire-image -->
+![Supply chain: a dumpster fire with a build pipeline. The calendar invite is in quarantine, and the cat is fine.](/images/satire/2026-10-20-intelligence-briefing-20-oct-2026.webp)
+*Supply chain: a dumpster fire with a build pipeline. The calendar invite is in quarantine, and the cat is fine.*
+
 ---
 
 ## CYBER

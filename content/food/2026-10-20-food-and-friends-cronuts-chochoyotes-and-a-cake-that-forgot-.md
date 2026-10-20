@@ -64,6 +64,10 @@ Cool Asian Tots closed out the savory side: frozen tots, a layer of sour cream, 
 
 On the sweet side, Lamingtons got the most honest review of the whole lineup, because Sam brought in an actual Australian to judge his version and did not get a free pass. He'd swapped pound cake for the traditional sponge and leaned into raspberry per advice from an Aussie friend who told him flatly not to forget it. The verdict, delivered with the kind of hedged diplomacy you only get from someone being recorded: "it's actually very good," "the cake's different," and "it's doable" — which is about as close to Kandosii, the Mandalorian "nice one, well done," as a guest reviewer gets when they clearly expected to be disappointed and weren't quite.
 
+<!-- satire-image -->
+![The cake forgot it was supposed to be spongy. Honestly, same energy on a Tuesday morning.](/images/satire/2026-10-20-food-and-friends-cronuts-chochoyotes-and-a-cake-that-forgot-.webp)
+*The cake forgot it was supposed to be spongy. Honestly, same energy on a Tuesday morning.*
+
 And Pickling 101 wrapped the technique block with the most patient instruction of the day: jars sealed with a marker X on top, left for a couple of weeks before tasting, plus a second ratio for a beans-and-cauliflower variant that runs heavier on vinegar. The livecast's running bit — tell the viewers to go buy jars right now so everyone opens their batch together later — is either a nice bit of community cooking or a long-con way to guarantee a sequel episode.
 
 ## Chefs, Competitions, and Reality TV Drama
