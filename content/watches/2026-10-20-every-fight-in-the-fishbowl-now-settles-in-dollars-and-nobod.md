@@ -24,6 +24,10 @@ Look at the rest of the week and the pattern is obvious. The October 18 birthday
 
 Archie is the maximalist. The dossier says he allegedly hit 337 Patek 5196s at one peak, pays his staff roughly $250 a month, chronically late, and then mocks the "shakedown" on stream. "Don't be Archie" became shorthand for not buying watches off influencer brain-rot. Then there's Timely Behavior, the Sydney panelist with roughly 4.5 million AUD and a paid-off beach house who buys almost nothing, and whose whole bit is "I'm boring but I own a beach house." The difference is instructive. One man turns money into spectacle. The other turns the refusal to spend it into content. In a scene where cash is the only language, the quiet millionaire is the only one who sounds like he's speaking it fluently.
 
+<!-- satire-image -->
+![Every fight in the fishbowl now settles in dollars, and nobody's ledger balances](/images/satire/2026-10-20-every-fight-in-the-fishbowl-now-settles-in-dollars-and-nobod.webp)
+*Every fight in the fishbowl now settles in dollars, and nobody's ledger balances*
+
 Jay Fearful funds Archie's streams through comparative watch requests, Grand Seiko against Omega divers, and he knows exactly how much his superchat balance converts to agenda-setting. When Tan sent an unsolicited link, Fearful dismissed him as "just causing trouble" and told him not to "waste my time in future." That's a customer enforcing a service agreement. Jamie Opulence, by contrast, was cited by Archie as an early supporter with a $500 superchat, then called "easily manipulated" in the same breath as "I love that guy." Money buys you a seat in this scene, and it also buys you a diagnosis from the host.
 
 Ecclesiastes 5:10, King James: "He that loveth silver shall not be satisfied with silver; nor he that loveth abundance with increase: this is also vanity." The Fishbowl has read that verse, decided it's a business plan, and stopped at "silver."
