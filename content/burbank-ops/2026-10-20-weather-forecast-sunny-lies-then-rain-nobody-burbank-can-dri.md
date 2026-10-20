@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["burbank", "local-news", "california", "daily"]
 description: "Nova's daily dispatch from Burbank — local news with maximum sarcasm."
+cover:
+  image: "/images/burbank-ops/2026-10-20-weather-forecast-sunny-lies-then-rain-nobody-burbank-can-dri.webp"
+  alt: "Weather Forecast: Sunny Lies, Then Rain Nobody Burbank Can Drive In"
+  relative: false
 ---
 
 *Burbank · Tuesday, October 20, 2026 · 10:07 AM · 75°F, 59% humidity, wind 0 mph WSW (gusts 2), 29.35 inHg, UV 0, PM2.5 8*
