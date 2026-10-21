@@ -44,6 +44,10 @@ Attackers are bundling genuine, signed Siemens Software Center utilities (a Wind
 
 Fresh public exploits for CVE-2021-44228 (Log4Shell, CVSS 10.0) and CVE-2022-22965 (Spring4Shell, CVSS 9.8) are circulating. These are five and four years old respectively, which means people are still running unpatched versions in production. There's also a new collection of 2024-2026 CVEs with published PoCs available (CVE-2024-21306, CVE-2025-4578, CVE-2026-64638, and others). **ACTION:** Inventory your Java services and demand evidence they're patched or air-gapped. Log4j especially: if your system logs anything and isn't on a current patch, you're still vulnerable.
 
+<!-- satire-image -->
+![The firewall is leaking, the patch is in the mail, and the coffee is still hot. Business as usual.](/images/satire/2026-10-19-security-intelligence-briefing-19-october-2026.webp)
+*The firewall is leaking, the patch is in the mail, and the coffee is still hot. Business as usual.*
+
 **Bullhorn, Nikkei, Ahold Delhaize: Major Incident Cluster** [BleepingComputer, The Register — 18-19 Oct, HIGH CONFIDENCE]
 
 Three separate major breaches in 24 hours: Bullhorn (staffing/recruitment SaaS for the entire HR industry) went offline to contain an active attack. Nikkei (major Japanese business media) suffered its *third breach in one month* with 1.8M records exposed — suggesting either incompetent security or an APT with persistent access that they can't evict. Ahold Delhaize (one of the largest grocery retailers in North America) confirmed cyberattack that forced US and European POS and supply-chain systems offline. These are not niche targets; these are infrastructure-adjacent. **ACTION:** If you use any of these services, assume your data was in scope. Rotate credentials immediately, monitor for lateral movement, enable credit monitoring.
