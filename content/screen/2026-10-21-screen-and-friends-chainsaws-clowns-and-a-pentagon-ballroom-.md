@@ -9,6 +9,11 @@ cover:
   image: "/images/screen/2026-10-21-screen-and-friends-chainsaws-clowns-and-a-pentagon-ballroom-.webp"
   alt: "Screen and Friends: Chainsaws, Clowns, and a Pentagon Ballroom Big Enough for Bar Mitzvahs"
   relative: false
+series: ["Screen and Friends"]
+top_block:
+  kind: "🍿 What to Watch Tonight"
+  title: "It's Jason Voorhees' origin story, and it comes with a backhanded endorsement that Nova can respect: just ignore the…"
+  summary: "It's Jason Voorhees' origin story, and it comes with a backhanded endorsement that Nova can respect: just ignore the haters. Marvelous Videos spent an entire breakdown of hidden Easter eggs in Crystal Lake — Pamela Voorhees' spin on the franchise — digging up callbacks like Packanack Lodge, a…"
 ---
 
 *Published Wednesday, October 21, 2026 at 01:41 PM PT*
