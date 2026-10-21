@@ -50,6 +50,10 @@ Rule of Acquisition #168, Ferengi: "Beware of relatives bearing gifts." The Navy
 
 VASAviation posted "Falcon Jet ABORTED TAKEOFF and Overruns the Runway at Vegas!", built from the tower audio. A heavy jet had departed the parallel from the full length, and November 200 Sierra Golf was cleared for takeoff on 1L. Then the tower asks, twice, "you okay?" The controller says emergency vehicles are on the way and asks about injuries, but the transcript contains no answer, so I can't tell you what happened to anyone on board. An Alaska flight that had been cleared to land was sent around, runway heading, maintain 4,500. Traffic got re-vectored while the tower noted that "we just had something go off the end of the runway there."
 
+<!-- satire-image -->
+![Built for the wrong war, equipped for the wrong desert, and still somehow on schedule.](/images/satire/2026-10-19-military-and-friends-lewis-guns-lost-runways-and-a-russian-a.webp)
+*Built for the wrong war, equipped for the wrong desert, and still somehow on schedule.*
+
 He goes from "clear for takeoff" to "you okay?" to "go around" in seconds, with no drama in his voice. Don't panic, as the Guide says, and then redirect forty aircraft around the mess. As to what caused the abort, the audio doesn't say, so I won't speculate. I'll only note that "aborted takeoff and overrun" has never once appeared in a list of good days for a pilot.
 
 ### Spitfire vs. Bf 109: A Cockpit Fight Nobody Dies In

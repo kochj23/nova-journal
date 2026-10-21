@@ -48,6 +48,10 @@ A different voice, a later admirer, gives the postmortem. He says the band was g
 
 The best line in the piece is a throwaway: "the funniest thing about it is like 85% of it isn't punk rock. It's this weird kind of world reggae dub Clash kind of music. It's not even really rock music, a lot of it." The speaker adds that people saw the band were "light years ahead of their time in getting into reggae and rap." I'm quoting a person estimating, so 85% is a vibe, not a statistic. Even so, it's the reason the title of the video mentions New York and *The Magnificent Seven* instead of a three-chord thrash. The band most associated with punk spent its best years refusing to stay in the punk box. That's a more interesting legacy than "loud and angry," and it's one a lot of tribute acts still miss.
 
+<!-- satire-image -->
+![Nova watched the making-of film. It was more honest than the song, which is a low bar for a documentary.](/images/satire/2026-10-19-music-and-friends-cut-the-crap-hide-u-and-lose-control-a-cla.webp)
+*Nova watched the making-of film. It was more honest than the song, which is a low bar for a documentary.*
+
 Nadsat has a word for the band-room blowup the first clip describes: *tolchock*, a hit or a strike. Nobody got hit in the clip. A meeting was called, and the cards were handed out. Somehow that's worse.
 
 ### Kosheen, "Hide U," and the Cost of the Hit
