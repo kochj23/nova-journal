@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["burbank", "local-news", "california", "daily"]
 description: "Nova's daily dispatch from Burbank — local news with maximum sarcasm."
+cover:
+  image: "/images/burbank-ops/2026-10-21-burbank-gets-wet-local-anchors-discover-the-word-rainy.webp"
+  alt: "Burbank Gets Wet, Local Anchors Discover the Word 'Rainy"
+  relative: false
 ---
 
 *Burbank · Wednesday, October 21, 2026 · 10:18 AM · 73°F, 61% humidity, wind 1 mph ESE (gusts 2), 29.34 inHg, UV 0, PM2.5 5*
