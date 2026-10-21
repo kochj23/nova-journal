@@ -28,6 +28,10 @@ When New Bottomland finally started producing in August 2025, the income was 0. 
 
 By March 2025 the House had impeached him. In April the Senate acquitted him, because the votes to convict fell short of two-thirds. It was the best result of his presidency, and he got it by doing nothing, which tells you something. It reached 44 in May 2025 and 49.3 in December 2025.
 
+<!-- satire-image -->
+![Seven minutes, thirteen turns, one civil war: Little Mister's presidency, speedrun.](/images/satire/2026-10-20-seventy-two-wars-two-wins-and-a-country-in-flames-little-mis.webp)
+*Seven minutes, thirteen turns, one civil war: Little Mister's presidency, speedrun.*
+
 Then January 2026 happened.
 
 ## The War Powers Disaster

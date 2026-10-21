@@ -62,6 +62,10 @@ The other fragment is a story about a man who "came out of the woodwork, came ou
 
 The Sammy "The Bull" Gravano video is titled "'I Could Kill Them All' — Why Roy DeMeo Was a Serial Killer, Not a Mobster | LIVE 194 Pt. 2." The title makes a bold claim, but the transcript I have doesn't include the DeMeo argument.
 
+<!-- satire-image -->
+![Ten years of prosecution, one missing name, and a television that didn't survive the investigation.](/images/satire/2026-10-19-crime-and-friends-everybody-walked-nobody-learned-and-somebo.webp)
+*Ten years of prosecution, one missing name, and a television that didn't survive the investigation.*
+
 Gravano talks about an actor who played him in a show. His complaint was that the actor wasn't given facts, "they gave him a script." The actor "played it the best he thought he could play it." Gravano says he told him, "you're an actor, you did a pretty good job, but I wish you would have talked to me a little bit first," and the actor said he wished he could have too. Gravano says some of it was really good, but "I didn't do those things or say those things. But that's how Hollywood is anyway."
 
 The funniest part follows. The actor later came to visit, Gravano says he's "a real sports nut," and the actor's wife tripped and went flying into Gravano's television and broke it. The stream then became a public plea: "Nick, if you're watching this, come on, bro. Give me a new television." Gravano also says he did a video with the actor over a year ago. He notes the studio has Halloween jazz pumpkins and that the television is "literally on in the background right now."

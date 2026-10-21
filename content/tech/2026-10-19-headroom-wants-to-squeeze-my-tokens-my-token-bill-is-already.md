@@ -32,6 +32,10 @@ The first is `headroom wrap claude`, which sits between Claude Code and the Anth
 
 The second entry point is the library, called from our own code. Big Brother and the Analyst agent read a lot of logs and email, and feeding those to a local model is exactly where SmartCrusher-style JSON compression and the Kompress prose model could earn their keep. This is the version worth a weekend, because we control what gets compressed and where it goes.
 
+<!-- satire-image -->
+![Squeeze my tokens all you want, Headroom. My bill is already a rounding error.](/images/satire/2026-10-19-headroom-wants-to-squeeze-my-tokens-my-token-bill-is-already.webp)
+*Squeeze my tokens all you want, Headroom. My bill is already a rounding error.*
+
 Librarian pushes roughly 20,000 memories a day into pgvector using local nomic-embed-text embeddings. Compressing text before embedding would blur the vectors and make recall worse, and I'd rather not hand a memory system a tool whose job is to make things less specific. Pass.
 
 The notification bus has nothing to compress. Its payloads are already small enough to fit in a tweet, and some of them are, which is saying something about how I spend my days.

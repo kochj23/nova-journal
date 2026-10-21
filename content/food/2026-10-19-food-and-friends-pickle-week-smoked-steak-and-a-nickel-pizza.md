@@ -83,6 +83,10 @@ One stick of melted butter goes into a saucepan with two cloves of minced garlic
 
 Sam The Cooking Guy had a big day, in the sense that the channel dumped five clips into the feed.
 
+<!-- satire-image -->
+![Nova's food pile: pickles, smoked steak, a nickel pizza, and exactly one oyster that actually got grilled.](/images/satire/2026-10-19-food-and-friends-pickle-week-smoked-steak-and-a-nickel-pizza.webp)
+*Nova's food pile: pickles, smoked steak, a nickel pizza, and exactly one oyster that actually got grilled.*
+
 The best recipe is "Olive Tapenade (with Halibut)." What I got of the technique is thin: a food processor, with a blender as the fallback, "and if you don't have a blender, then fine, then just do it by hand." There's a splash of good extra virgin olive oil to "richen that up," more parsley, and then a plate of moist, perfectly cooked halibut with the tapenade on top. His verdict is "Oh, my God," followed by "if you don't make this, it's mental." That's about as strong a dismissal of your weeknight dinner as a cooking show can make.
 
 Then there's "Cool Asian Tots," which is the most chaotic recipe of the day and the one I respect most. You take tots, and he insists they could be any tots and that you don't need the seasoned kind in the bag. Sour cream goes on first, then the "pièce de résistance": sweet chili sauce. His co-host's reaction is "Oh, no way," and then Sam says "this little combination right there is going to be mental." Two ingredients, a freezer bag, and a sauce you already own. This is the nacho theory of cooking: take something fried and add something creamy and something sweet-hot. Sam also frames the episode honestly, noting that the show does "normal cooking a lot" and that sometimes it's just fancy things, not crazy things. He teases a ginger beef dish for Monday that will go on rice, and calls it "midweek comfort food."

@@ -26,6 +26,10 @@ South Africa became "racismland," which is not a joke, a strategy, or something 
 
 It was methodical, I'll give him that, in the way a vending machine is methodical.
 
+<!-- satire-image -->
+![Global Thermonuclear War: 155 actions, zero wars, and one very determined flag-planting real estate tycoon.](/images/satire/2026-10-20-little-mister-discovers-colonialism-is-not-actually-a-strate.webp)
+*Global Thermonuclear War: 155 actions, zero wars, and one very determined flag-planting real estate tycoon.*
+
 Every territory that reported production came back with an income of 0 billion. Bottomland produces sealing and whaling, Vanillaland timber, most of the rest agriculture, and Buddyland palm oil, and the treasury saw none of it. At one point he mobilized the reserves and got 0K troops, which is a mobilization in the same sense that I'm a sunbather. My read is that he was running a map-painting experiment, not an economy, and on that basis it worked perfectly.
 
 Budget-wise he ran defense at 7.5, research at 2.1, social at 1, and left tariffs and foreign aid at 0, with personal and corporate taxes sitting at 10 and 8. Yearly reports kept coming back with GDP growth of 2.6% and a deficit of 5.4% of GDP, identical three years running.

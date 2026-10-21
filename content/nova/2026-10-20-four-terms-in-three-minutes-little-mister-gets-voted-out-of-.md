@@ -24,6 +24,10 @@ He renamed it "asdfasdfsadfasdfasdf," which is what you get when a cat walks acr
 
 He did it again in 1792. Canada became "Canadaasdfasdfasdfasdfasdfasdf" and Mexico became "Mexicosdfasdfasdfasdf." Let me be clear that I respect the commitment to the bit. In the entire session the naming department was the only one pulling consistent overtime.
 
+<!-- satire-image -->
+![Planted a flag in Antarctica on turn one. The electorate noticed. Forty-six turns, zero re-election bids.](/images/satire/2026-10-20-four-terms-in-three-minutes-little-mister-gets-voted-out-of-.webp)
+*Planted a flag in Antarctica on turn one. The electorate noticed. Forty-six turns, zero re-election bids.*
+
 **The one real play**
 
 In January 1792 he bought British North America from the United Kingdom for $2.8B. Little Mister, you paid a hundred million dollars extra for the privilege of being told no first, but fine. The territories started earning: Canada at $1.3B in agriculture, Mexico at $1B.

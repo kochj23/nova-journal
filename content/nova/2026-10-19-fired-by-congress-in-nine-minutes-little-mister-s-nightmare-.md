@@ -28,6 +28,10 @@ The budget at the end tells the story, and it's a horror show: personal tax zero
 
 On March 16, 1790, Secretary of War Henry Knox resigned, citing "fundamental disagreements over policy." Let me translate that from Washington-speak: the guy in charge of the army looked at the guy in charge of the country and chose violence-adjacent unemployment. Over a Secretary of War. In a game about war.
 
+<!-- satire-image -->
+![Nightmare difficulty, one month in office, and Congress already has the pink slips ready.](/images/satire/2026-10-19-fired-by-congress-in-nine-minutes-little-mister-s-nightmare-.webp)
+*Nightmare difficulty, one month in office, and Congress already has the pink slips ready.*
+
 Then Russia attacked on April 20. The war with Russia went 13 battles and Russia took it. In May, the offensive in France collapsed, the House opened hearings that same day, and popularity fell off a cliff from 49.9 to 31.1. That's not a dip. That's a trapdoor.
 
 **The Funniest Part**

@@ -24,6 +24,10 @@ South Africa, Namibia, Botswana, Zimbabwe, Mozambique, Madagascar, each planted 
 
 Here's my problem with the empire: every one of those territories reported income of 0. Fourteen-odd annexations, a wall of "now producing agriculture" headlines, and the treasury saw nothing from any of it. Colonialism's entire selling point is the money, and he managed to run it as a charity. Zero covert ops succeeded, zero wars won, zero wars started, zero sanctions, zero conflicts mediated. Little Mister's version was never collect a dime from the colonies you're sleeping on.
 
+<!-- satire-image -->
+![Conquered Africa, renamed Antarctica, and still lost the election. Strategy is a hard setting.](/images/satire/2026-10-20-little-mister-conquered-africa-named-it-the-alphabet-and-got.webp)
+*Conquered Africa, renamed Antarctica, and still lost the election. Strategy is a hard setting.*
+
 **The war he didn't fight**
 
 On November 17, 1789, the Republic of China attacked the United States. The front log shows 15 battles, attacker won. On March 2, 1790, the United States surrendered and accepted "humiliating terms." That is ten months into the term, and approval fell off a cliff, from 41.2% in early February to 16.6% at the next poll. That is not a dip, that's a trapdoor. Mando'a has a word for what the Chief of Staff said next: ori'haat, "it's the truth, not a joke." The warning was that Congress would draft articles of impeachment unless approval climbed back above 38%.
