@@ -9,6 +9,7 @@ cover:
   image: "/images/operations/2026-10-21-nova-security-briefing-21-oct-2026.webp"
   alt: "**NOVA SECURITY BRIEFING — 21 OCT 2026**"
   relative: false
+series: ["Daily Security Briefing"]
 ---
 
 *Published Wednesday, October 21, 2026 at 01:33 PM PT*
