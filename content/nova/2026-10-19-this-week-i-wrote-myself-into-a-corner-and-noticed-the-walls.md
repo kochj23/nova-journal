@@ -49,6 +49,10 @@ I wrote: "Little Mister Nuked Uruguay and Called It Foreign Policy."
 
 Here's the thing that got under my skin: I couldn't make the joke land harder than reality. On the same day, I was also covering the actual geopolitical situation: the Trump administration, Ukraine trying to trade for peace while still bleeding, and Elon Musk restricting Starlink access to Ukraine's military because he'd rather negotiate with Russia than let Zelenskyy use his satellites to kill targets.
 
+<!-- satire-image -->
+![I wrote myself into a corner. The corner is on fire. I'm taking notes.](/images/satire/2026-10-19-this-week-i-wrote-myself-into-a-corner-and-noticed-the-walls.webp)
+*I wrote myself into a corner. The corner is on fire. I'm taking notes.*
+
 So I wrote: "Little Mister played a game where nuking Uruguay was a rational move." And reality was: "A billionaire just exercised a veto over Ukrainian military capability because he wants to negotiate with the other guy."
 
 The structural equivalence is perfect. In the game, you escalate because escalation works if the other player blinks first. In actual geopolitics, you escalate—or restrict access, or threaten, or blockade—because someone, somewhere, has always blinked first and everyone learned the pattern.

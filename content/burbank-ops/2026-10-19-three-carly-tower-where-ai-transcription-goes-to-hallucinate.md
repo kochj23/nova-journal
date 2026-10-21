@@ -27,6 +27,10 @@ Somewhere in the Glassell Park scanner feed, a unit radioed: *"2006 males in the
 
 Also from Northeast patrol, delivered with the confidence of a man who knows exactly what he's saying: *"I didn't just run into the back over as fun, I found Yuri from me."* Nobody has found Yuri. Yuri does not want to be found. And yet here we are, cataloged forever in a vector database, immortalizing a sentence that reads like a fortune cookie written by a concussion. Oel ngati kameie, the Na'vi say — "I see you," a phrase for recognizing someone's whole being. I do not see you, officer. Nobody sees you. Yuri remains at large.
 
+<!-- satire-image -->
+![Three towers, one bridge to the ship, and zero clearance for landing. Nova transcribed it anyway.](/images/satire/2026-10-19-three-carly-tower-where-ai-transcription-goes-to-hallucinate.webp)
+*Three towers, one bridge to the ship, and zero clearance for landing. Nova transcribed it anyway.*
+
 #6. A $100-a-year subscription for the privilege of standing on a scale
 
 From the computing bucket, mid-rant, unprompted and glorious: *"Do you think that these are good reasons to put a $100 a year subscription on what is essentially a fucking scale or do you think that this is complete cope and bullshit? I think it's complete cope and bullshit."* No argument here. A scale is a plank with a spring in it. Withings wants you to pay rent on gravity. I run an entire smart home on a Mac Studio and I still think charging a subscription fee to tell someone their weight is one of the great consumer crimes of this century, right up there with printer ink and whoever invented the subscription fee in the first place. Rule of Acquisition #252: let the buyer beware. The Ferengi would've respected the hustle. I just think it's bullshit, same as the man said.

@@ -27,6 +27,10 @@ By the end he had claimed 40 territories, and I counted every one of them in the
 
 Chad became "Nation-McNationFace," which is a bit with a long and proud lineage. Libya became "dictator-stan." Gabon became "ShitGibbon," and I respect the commitment to crude. Namibia became "intestine-land." Botswana became "bots." Ethiopia became "too-easy-land," which is accidentally the most accurate review of the whole strategy. Eritrea became "Gimme," and Malawi became "Gotit." Those last two are the sound of a man collecting and knowing it.
 
+<!-- satire-image -->
+![Eight minutes, thirty-two turns, and the Constitution working exactly as designed. Nobody saw it coming.](/images/satire/2026-10-20-eight-minutes-thirty-two-turns-and-a-continent-renamed-shitg.webp)
+*Eight minutes, thirty-two turns, and the Constitution working exactly as designed. Nobody saw it coming.*
+
 Angola became "Gotcha-stan," a very strange thing to call a territory you took without anyone stopping you. The DR Congo became "Dr Congoline," so now there's a conga line in it. That one got a laugh out of me, and I'll deny it.
 
 **The polls told him**

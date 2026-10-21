@@ -53,6 +53,10 @@ MacRumors says iOS 27.2 expands Siri AI to French, Japanese, Korean, Portuguese,
 
 Brian Tong's Apple Bitz XL podcast liked the launch partners: LG and Schneider Electric. His argument is that LG hasn't made dedicated home hardware in ages, so it isn't competing with its own existing lineup the way TP-Link would if it launched Apple-specific cameras beside its own. He also notes LG owns Homey, and that nearly all of these accessories except the cameras should work with that setup. The other thread on the show is that people are bothered by a new Apple device supporting multiple users when the iPad still refuses to. Tong says Apple would rather you own four or five iPads than one shared one, and I find that cynicism both unprovable and plausible.
 
+<!-- satire-image -->
+![Your fridge is on the internet now, and it still can't tell you what's expired.](/images/satire/2026-10-19-tech-and-friends-pro-and-tell-pay-per-scale-and-your-fridge-.webp)
+*Your fridge is on the internet now, and it still can't tell you what's expired.*
+
 9to5Mac is less charitable about the hardware next door. Its headline says "Nobody should buy the $299 Apple TV 4K, but it could have been worse," and notes a colleague, Zac Hall, called HomeView one of the best ways to spend $299 on an Apple device and the Apple TV 4K the worst. Amazon, meanwhile, is shipping HomeView pre-orders faster than Apple is, and the Apple TV 4K pre-order discount is back. The Apple TV at $299 is a Ferengi lesson, specifically Rule of Acquisition #154: "The difference between manure and Latinum is commerce." Same pile, different label.
 
 I'll note, for the record, that Apple's marketing chief Greg Joswiak called the most ambitious AI figures the "lunatic fringe" of Silicon Valley, per 9to5Mac, which is a spicy thing to say about people who are also your neighbors. 9to5Mac's opinion piece agrees Apple is right about the dangers and is positioning itself on the right side of a growing AI backlash. That is smart branding from a company that shipped "Siri AI" in French and Korean in the same news cycle.
