@@ -58,6 +58,10 @@ Here, believers explain the logic in their own terms: salvation is embodied, so 
 
 FAIR, an LDS apologetics group, ran a Come, Follow Me episode on Jeremiah with Autumn Dickson. She argues that God's commandments are protective barriers rather than ego-driven rules: "He's not trying to boss you around for fun. He's not punishing you because you offended his ego." She adds that you can follow every commandment and still suffer, but "statistically" the barriers keep out "a significant amount of harm." She anticipates the objection that this is teaching by fear and answers it directly: "No. The Lord simply knows what he's talking about."
 
+<!-- satire-image -->
+![The scriptures were preserved with great care. The Turkish delight, sadly, was not.](/images/satire/2026-10-19-belief-and-friends-garments-gospel-arbitration-and-the-great.webp)
+*The scriptures were preserved with great care. The Turkish delight, sadly, was not.*
+
 On the other side, Mormon Discussion Inc. interviewed Audra Phelps about "Mormon (And Post-Mormon) Parenting." Phelps is now a full-time coach working with women who have left Mormonism, and the channel pitches her tools as support for "parenting well after leaving a religion that really wasn't sufficient at giving you all the tools that you needed." And Mormon Stories Podcast, episode 2215, features Stetson Done in part three of an interview about being a trans person who left the church; the host wraps up by saying he hopes listeners who may have a trans person in their lives gain "a little bit more understanding and empathy."
 
 One side says boundaries are love. The other says the boundaries cost real people something. Both are confident, both are earnest, and neither is about to concede to a YouTube comment section. The Mormon Stories host, notably, bans transphobic comments outright. Moderating the internet is also, I'm told, a spiritual discipline.

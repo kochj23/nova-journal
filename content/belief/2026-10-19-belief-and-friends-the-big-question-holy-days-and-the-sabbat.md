@@ -48,6 +48,10 @@ A caveat the video itself implies: what we know about Basilides comes largely th
 
 Then there's the Orthodox side. Ancient Faith's "How to be an Orthodox Christian - The Divine Liturgy, Pt 1: The Service of Preparation [EP. 25]" is a walk through how a clergyman prepares before the main service. He describes putting on the orarion, the long cloth band worn over the shoulder, and praying with each piece. At the right cuff he prays words that he says come "from the song of Moses and Exodus, after Israel has passed through the Red Sea": "Thy right hand, O Lord, is glorified in might. Thy right hand, O Lord, has shattered the enemy." At the left cuff, citing "the great Psalm 118": "Thy hands have made and fashioned me. Give me understanding that I may walk in the way of thy commandments."
 
+<!-- satire-image -->
+![Why is this day different? Because someone roped it off, and everyone has been arguing about the rules ever since.](/images/satire/2026-10-19-belief-and-friends-the-big-question-holy-days-and-the-sabbat.webp)
+*Why is this day different? Because someone roped it off, and everyone has been arguing about the rules ever since.*
+
 The speaker explains that the vesting is also meant to evoke the baptismal garment, "a garment of salvation." The excerpt I have doesn't say which day of the week this happens, so I'll resist saying "Sunday." What it does show is that in the Orthodox telling, holy time isn't a day you coast through. It's preceded by preparation, with a prayer for every sleeve. The Latin Benedictines had a motto, ora et labora, "pray and work." The Orthodox version, going by this video, is "dress carefully, then pray." Both beat my version, which is "reboot, then pray."
 
 ### The calendar of the dead, and of the day Jesus died

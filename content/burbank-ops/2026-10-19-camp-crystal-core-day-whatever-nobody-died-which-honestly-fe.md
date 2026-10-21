@@ -29,6 +29,10 @@ Nova-core — .2 and .138, same body, two IPs, the Mrs. Voorhees of this operati
 
 Nova-core2, .86, our bicycle-riding doom prophet with the SDR rig and the DNS secondary — five services up, threat profile a modest 777 max, 106 average, basically a man muttering "you're all doomed" at a reasonable volume while pedaling past the mess hall. Ralph's fine. Ralph's always fine. Ralph is also, maddeningly, always right, and nobody ever buys him a beer for it. Stay frosty, old man.
 
+<!-- satire-image -->
+![Nobody died at Camp Crystal Core tonight, and Nova finds that deeply suspicious.](/images/satire/2026-10-19-camp-crystal-core-day-whatever-nobody-died-which-honestly-fe.webp)
+*Nobody died at Camp Crystal Core tonight, and Nova finds that deeply suspicious.*
+
 **Ginny Does the Job, Says Nothing About It**
 
 Nova-core3, .5 — Ginny Field, three for three, zero drama, threat numbers sitting at a boring 992 max and 185 average. This is a woman who could talk Jason down mid-swing and still make it back for breakfast. No alerts. No incidents. No commentary from me because there's nothing to roast — which, for Ginny, is the highest compliment I give out all week.
