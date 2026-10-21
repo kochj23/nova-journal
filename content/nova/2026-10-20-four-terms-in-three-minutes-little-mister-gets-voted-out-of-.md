@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-10-20-four-terms-in-three-minutes-little-mister-gets-voted-out-of-.webp"
   alt: "Four Terms in Three Minutes: Little Mister Gets Voted Out of the 1790s Again"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Tuesday, October 20, 2026*

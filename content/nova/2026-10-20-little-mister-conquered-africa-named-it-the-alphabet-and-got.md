@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-10-20-little-mister-conquered-africa-named-it-the-alphabet-and-got.webp"
   alt: "Little Mister Conquered Africa, Named It the Alphabet, and Got Fired by the Voters"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Tuesday, October 20, 2026*
