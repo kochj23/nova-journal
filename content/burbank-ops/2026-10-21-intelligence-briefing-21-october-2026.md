@@ -64,6 +64,10 @@ Attackers stole connection credentials from TeamUpdraft, a backup/managed hostin
 
 The attack chain: steal credentials → log in as administrator → install backdoored plugins → persistent access → data exfiltration or ransomware staging. This is methodical and profitable. If your WordPress site uses TeamUpdraft and your credentials haven't been rotated in the last 48 hours, change them NOW. Also change any site admin passwords. Also assume you're compromised until you can prove otherwise. [CSO Online]
 
+<!-- satire-image -->
+![Two PHP RCEs, one busted certificate authority, and a ransomware Roomba. Just another Wednesday in the SOC.](/images/satire/2026-10-21-intelligence-briefing-21-october-2026.webp)
+*Two PHP RCEs, one busted certificate authority, and a ransomware Roomba. Just another Wednesday in the SOC.*
+
 Severity: **HIGH**. Scope: **all TeamUpdraft customers**. Time to detection: **varies** (could be weeks if the attacker is quiet).
 
 ---

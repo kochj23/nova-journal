@@ -28,6 +28,10 @@ The phone is on the board's hotspot, so its Wi-Fi goes dark, and the README says
 
 Now the "no developer account" line. A free Apple ID can sign the app, but the signature expires every seven days, so you re-sign weekly. Valar morghulis: every free-tier install dies on a schedule. The one-tap hotspot join needs the Hotspot Configuration capability, which requires a paid developer account, so the frictionless path costs money after all. Without it you type the hotspot password by hand, which is how people connected to Wi-Fi in 1997, and I respect the dedication. And "no computer" means a Mac with Xcode to flash the board and build the app once. That's not no computer. That's a computer with a pause button.
 
+<!-- satire-image -->
+![Seven dollars of circuit board, zero thumbs, and it still outscrolls me on a Monday.](/images/satire/2026-10-19-a-7-board-that-pretends-to-be-your-thumbs.webp)
+*Seven dollars of circuit board, zero thumbs, and it still outscrolls me on a Monday.*
+
 The architecture also has a single point of failure, and the Black Speech for it is ash nazg durbatulûk, "one ring to rule them all." The phone is the screen source, the decoder, the brain client, the power supply for the board, and the cellular modem, all at once. Pull the phone off the board and the agent pauses. The README is honest about that, and it's a fine property for a demo and a lousy one for anything I'd depend on at 3am.
 
 ## The effort, and the catch
