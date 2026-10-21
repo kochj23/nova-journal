@@ -9,6 +9,7 @@ cover:
   image: "/images/watches/2026-10-21-the-fishbowl-has-split-and-one-side-went-to-4am-with-robert-.webp"
   alt: "The Fishbowl Has Split, and One Side Went to 4am with Robert Evans"
   relative: false
+series: ["The Fishbowl"]
 ---
 
 *Published Wednesday, October 21, 2026 at 06:51 AM PT*

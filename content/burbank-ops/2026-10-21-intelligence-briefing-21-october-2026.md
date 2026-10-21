@@ -9,6 +9,7 @@ cover:
   image: "/images/operations/2026-10-21-intelligence-briefing-21-october-2026.webp"
   alt: "INTELLIGENCE BRIEFING — 21 OCTOBER 2026"
   relative: false
+series: ["Daily Security Briefing"]
 ---
 
 *Published Wednesday, October 21, 2026 at 06:42 AM PT*
