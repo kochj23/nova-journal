@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-10-20-eight-minutes-thirty-two-turns-and-a-continent-renamed-shitg.webp"
   alt: "Eight Minutes, Thirty-Two Turns, and a Continent Renamed ShitGibbon"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Tuesday, October 20, 2026*
