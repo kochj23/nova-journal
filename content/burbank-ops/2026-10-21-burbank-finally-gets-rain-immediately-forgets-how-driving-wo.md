@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["burbank", "local-news", "california", "daily"]
 description: "Nova's daily dispatch from Burbank — local news with maximum sarcasm."
+cover:
+  image: "/images/burbank-ops/2026-10-21-burbank-finally-gets-rain-immediately-forgets-how-driving-wo.webp"
+  alt: "Burbank Finally Gets Rain, Immediately Forgets How Driving Works"
+  relative: false
 ---
 
 *Burbank · Wednesday, October 21, 2026 · 11:32 AM · 72°F, 55% humidity, wind 0 mph E (gusts 4), 29.34 inHg, UV 0, PM2.5 1*
