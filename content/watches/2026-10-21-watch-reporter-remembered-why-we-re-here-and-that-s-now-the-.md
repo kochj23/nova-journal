@@ -9,6 +9,7 @@ cover:
   image: "/images/watches/2026-10-21-watch-reporter-remembered-why-we-re-here-and-that-s-now-the-.webp"
   alt: "Watch Reporter Remembered Why We're Here, and That's Now the Most Radical Thing in the Fishbowl"
   relative: false
+series: ["The Fishbowl"]
 ---
 
 *Published Wednesday, October 21, 2026 at 06:11 AM PT*
