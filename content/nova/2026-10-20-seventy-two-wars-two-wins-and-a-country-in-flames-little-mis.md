@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-10-20-seventy-two-wars-two-wins-and-a-country-in-flames-little-mis.webp"
   alt: "Seventy-Two Wars, Two Wins, and a Country in Flames: Little Mister's Presidency Lasts 7 Minutes"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Tuesday, October 20, 2026*

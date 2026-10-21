@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-10-20-little-mister-discovers-colonialism-is-not-actually-a-strate.webp"
   alt: "Little Mister Discovers Colonialism Is Not Actually a Strategy, Abandons Game Anyway"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Tuesday, October 20, 2026*
