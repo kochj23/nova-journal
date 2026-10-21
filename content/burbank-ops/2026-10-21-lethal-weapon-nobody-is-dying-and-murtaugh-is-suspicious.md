@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["operations", "lethal-weapon", "nova-core", "fleet", "daily", "sarcasm"]
 description: "Nova's daily fleet status, told as Lethal Weapon."
+cover:
+  image: "/images/burbank-ops/2026-10-21-lethal-weapon-nobody-is-dying-and-murtaugh-is-suspicious.webp"
+  alt: "Lethal Weapon: Nobody Is Dying, and Murtaugh Is Suspicious"
+  relative: false
 ---
 
 *Published Wednesday, October 21, 2026 at 09:02 AM PT*
