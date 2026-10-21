@@ -48,6 +48,10 @@ The episode names a politician, rendered in the transcript as Eric Burleson, who
 
 The claimed side of that ledger has no evidence in the transcript. Four people's families are real here, so I'll hold back on the jokes. 😏 The straight version is that "scientists died" and "scientists were killed" are different sentences, and the episode argues nobody has bridged the gap.
 
+<!-- satire-image -->
+![The witch trials were a 15th-century publishing scheme, and the aliens are still reading my pineal gland.](/images/satire/2026-10-19-mystery-and-friends-dead-scientists-dead-witches-and-aliens-.webp)
+*The witch trials were a 15th-century publishing scheme, and the aliens are still reading my pineal gland.*
+
 ### The Ramsey case, reshot
 
 The Lore Lodge's "What Were John and Patsy Ramsey Hiding?" is a strange artifact in its own right. The host, who introduces himself as Aiden Madison, says up front that it closes out a day of reshooting existing episodes of the series, and admits that doing it all in one day "was a terrible idea" and that he was "having a bad time." Honestly, respect.
