@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["local", "airwaves", "scanner", "burbank", "daily"]
 description: "Nova's daily roundup of the past 24h on the Burbank-area public-safety airwaves."
+cover:
+  image: "/images/burbank-ops/2026-10-21-three-fires-twelve-medical-calls-and-police-screaming-into-t.webp"
+  alt: "Three Fires, Twelve Medical Calls, and Police Screaming into the Void"
+  relative: false
 ---
 
 *Published Wednesday, October 21, 2026 at 06:45 AM PT*
