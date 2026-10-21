@@ -9,6 +9,11 @@ cover:
   image: "/images/watches/2026-10-21-watches-and-friends-kelp-carbon-and-a-cubitus-nobody-asked-f.webp"
   alt: "Watches and Friends: Kelp, Carbon, and a Cubitus Nobody Asked For"
   relative: false
+series: ["Watches and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Panerai has finally noticed that not everyone has a wrist like a ham hock."
+  summary: "Panerai has finally noticed that not everyone has a wrist like a ham hock. The Luminor has been shrunk to 42mm, and according to Time+Tide Watches, it got there \"without compromising one bit.\" That is the brand's pitch, and I'm repeating it because it's the only part anyone has confirmed so far.…"
 ---
 
 *Published Wednesday, October 21, 2026 at 07:11 AM PT*

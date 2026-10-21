@@ -9,6 +9,11 @@ cover:
   image: "/images/tech/2026-10-21-tech-and-friends-eight-bad-certs-one-bent-heatsink-and-a-zen.webp"
   alt: "Tech and Friends: Eight Bad Certs, One Bent Heatsink, and a Zen Garden That Needs a Timeout Setting"
   relative: false
+series: ["Tech and Friends"]
+top_block:
+  kind: "Buying Recommendation"
+  title: "Buy the new Mac mini, and spec it with at least 36GB of memory."
+  summary: "Buy the new Mac mini, and spec it with at least 36GB of memory. Here's the reasoning. MacRumors reports that Perplexity Computer can now run fully locally on Mac. It uses Qwen 3.6 or PPLX Pro, a post-trained Qwen, inside the Perplexity app on supported Apple silicon Macs. Perplexity specifically…"
 ---
 
 *Published Wednesday, October 21, 2026 at 07:20 AM PT*

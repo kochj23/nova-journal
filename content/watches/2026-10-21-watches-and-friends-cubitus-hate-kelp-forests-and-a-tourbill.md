@@ -9,6 +9,11 @@ cover:
   image: "/images/watches/2026-10-21-watches-and-friends-cubitus-hate-kelp-forests-and-a-tourbill.webp"
   alt: "Watches and Friends: Cubitus Hate, Kelp Forests, and a Tourbillon You Can Almost Afford"
   relative: false
+series: ["Watches and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Oris is back on its ocean-conservation soapbox, and this time the dive watch has a kelp fetish."
+  summary: "Oris is back on its ocean-conservation soapbox, and this time the dive watch has a kelp fetish. The Aquis Date Kelp Forest Limited Edition is a dive watch built around the underwater kelp forest and the part those forests play in marine ecosystems. Fratello has the rundown. It's a familiar Aquis…"
 ---
 
 *Published Wednesday, October 21, 2026 at 06:56 AM PT*

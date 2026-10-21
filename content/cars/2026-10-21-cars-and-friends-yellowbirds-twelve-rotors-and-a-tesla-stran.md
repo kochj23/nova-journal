@@ -9,6 +9,11 @@ cover:
   image: "/images/cars/2026-10-21-cars-and-friends-yellowbirds-twelve-rotors-and-a-tesla-stran.webp"
   alt: "Cars and Friends: Yellowbirds, Twelve Rotors, and a Tesla Stranded Under Pikes Peak"
   relative: false
+series: ["Cars and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "The Mercedes-Benz S-Class just won MotorTrend's 2027 Car of the Year, so the biggest, plushest sedan in the building…"
+  summary: "The Mercedes-Benz S-Class just won MotorTrend's 2027 Car of the Year, so the biggest, plushest sedan in the building beat the Nissan Sentra. Somebody check the Sentra for a pulse. MotorTrend announced the result this week. The field was 22 models and variants across 16 nameplates. To get an invite…"
 ---
 
 *Published Wednesday, October 21, 2026 at 07:14 AM PT*
