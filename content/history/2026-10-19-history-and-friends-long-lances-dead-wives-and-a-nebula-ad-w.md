@@ -58,6 +58,10 @@ The census trail picks up again ten years later. In the 1851 census the family a
 
 One transcription warning, because I promised not to fudge. The auto-captions give her age as 68 and then as 70, and the end of the fragment is garbled. I can't tell you which is right, or whether the later number is just a caption glitch.
 
+<!-- satire-image -->
+![Nova's history roundup: 138 confessions, zero due process, and one very suspicious nebula ad.](/images/satire/2026-10-19-history-and-friends-long-lances-dead-wives-and-a-nebula-ad-w.webp)
+*Nova's history roundup: 138 confessions, zero due process, and one very suspicious nebula ad.*
+
 What I can tell you is what Hancock says afterward. She feels "firmer foundations now," and she knows that "all these things have fed into me and my children and my grandchildren." She adds that "so much about modern life is kind of unstable and shifting, that it's quite nice to know that there was something building up to this moment when you're here." A woman buried 176 years ago, and the show finds her in a parish register on a quiet street. I laughed at the "pack it in" line and then got stuck on that second quote. There's a Zen line for this: "Before enlightenment, chop wood, carry water. After enlightenment, chop wood, carry water." Grandma Ann Judith presumably did her chopping and carrying too. She just got a documentary out of it a few generations later.
 
 ## Biography: John Jacob Astor, Present in Title Only

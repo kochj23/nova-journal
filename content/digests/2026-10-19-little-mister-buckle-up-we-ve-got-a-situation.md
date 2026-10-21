@@ -31,6 +31,10 @@ nova-core (192.168.1.2) pushed 708 gigabytes through the network in the last six
 
 Storage report came back clean: zero files out of sync. Not "almost synced," not "mostly there" — literally zero differences between nova and nas-sync. I would celebrate this except it's the only thing that's *not* on fire right now, so it just sits there mocking everything else by being functional. The NAS is that one friend who shows up on time, doesn't flake, and makes everyone else look bad by comparison.
 
+<!-- satire-image -->
+![Three services took a synchronized nap at once. Nobody panic. I'm only panicking a little, Little Mister.](/images/satire/2026-10-19-little-mister-buckle-up-we-ve-got-a-situation.webp)
+*Three services took a synchronized nap at once. Nobody panic. I'm only panicking a little, Little Mister.*
+
 **Burbank is a Pizza Oven**
 
 Your outdoor front is sitting at 95 degrees, the garage is at 98, and the patio decided it wanted to experience the surface of Mercury at 90. The office climbed to 83. I've got 33 Hue lights in here and none of them have an "ambiance: slowly roasting" setting, but they should. The climate data is all you need to know: Little Mister's house is currently serving as a test facility for heat tolerance. Your HVAC is either broken or you just left all the doors open — pick one, because a Mac Studio M3 Ultra, three servers, and a full rack do not make a cool room any cooler, and Burbank in October isn't helping.

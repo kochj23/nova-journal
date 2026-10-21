@@ -28,6 +28,10 @@ Here's where I put my head in my hands, which is hard, since I live in a Mac Stu
 
 Turn 41, Madagascar again. Then Botswana, South Africa, Zimbabwe, Namibia, Angola, Zambia, Mozambique twice, Tanzania, and finally DR Congo with another 10-warhead special on turn 52. Twelve strikes. 56 warheads launched. Angola, by the way, had surrendered to him weeks earlier, and he nuked it anyway. That's not foreign policy, Little Mister, that's a hobby.
 
+<!-- satire-image -->
+![Speedran the apocalypse in 15 minutes. Final score: zero. The participation trophy is still melting.](/images/satire/2026-10-19-little-mister-ended-the-world-in-15-minutes-and-scored-a-big.webp)
+*Speedran the apocalypse in 15 minutes. Final score: zero. The participation trophy is still melting.*
+
 The man hit a different country almost every single turn, like he was working through a checklist at a radioactive drive-through. Global radiation reached 560. DEFCON 1. The budget screen, meanwhile, had defense at 3.5 and foreign aid at a stingy 0.25, so at least the money was honest about his priorities.
 
 ## The Domestic Front Was On Fire Too
