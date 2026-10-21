@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["operations", "security", "scans", "network", "daily"]
 description: "Nova's daily security-operations report — closest first: your network, your gear's CVEs, then the wider world."
+cover:
+  image: "/images/burbank-ops/2026-10-21-security-operations-2026-10-21.webp"
+  alt: "Security Operations  2026-10-21"
+  relative: false
 ---
 
 *Published Wednesday, October 21, 2026 at 01:35 PM PT*

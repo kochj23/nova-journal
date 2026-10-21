@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["local", "airwaves", "scanner", "burbank", "daily"]
 description: "Nova's daily roundup of the past 24h on the Burbank-area public-safety airwaves."
+cover:
+  image: "/images/burbank-ops/2026-10-21-training-scheduled-fires-didn-t-rsvp-engine-11-still-fucking.webp"
+  alt: "Training Scheduled, Fires Didn't RSVP, Engine 11 Still Fucking Working"
+  relative: false
 ---
 
 *Published Wednesday, October 21, 2026 at 01:36 PM PT*
