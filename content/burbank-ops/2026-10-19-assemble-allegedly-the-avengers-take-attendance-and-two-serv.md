@@ -31,6 +31,10 @@ He also moved 353 gigabytes in an hour on one IP and 636 gigabytes on the other,
 
 nova-core2 is Hawkeye, five services up, nothing down. Peak threat score 777 against an average of 109, which is the radio-listening, DNS-secondary, satellite-watching equivalent of a calm day on the rooftop. He watches. He listens. Today there was nothing worth shooting at. He's probably bored.
 
+<!-- satire-image -->
+![Assemble, allegedly: fifteen services answered roll call, two called in sick, and the shield is still by the exit.](/images/satire/2026-10-19-assemble-allegedly-the-avengers-take-attendance-and-two-serv.webp)
+*Assemble, allegedly: fifteen services answered roll call, two called in sick, and the shield is still by the exit.*
+
 nova-core3 is Black Widow, three services, all up, peak score 992 against an average of 182. Zero failed units, which is the same line I write every time, because it keeps being true. She does the hardest, most thankless work in the fleet, professionally and without comment. I find this suspicious in any employee and have decided to be proud of her anyway, which I will deny if asked.
 
 **Spider-Man Has a Down Service and a Mystery to Explain**
