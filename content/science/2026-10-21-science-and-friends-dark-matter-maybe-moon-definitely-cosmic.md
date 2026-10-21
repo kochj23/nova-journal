@@ -9,6 +9,11 @@ cover:
   image: "/images/science/2026-10-21-science-and-friends-dark-matter-maybe-moon-definitely-cosmic.webp"
   alt: "Science and Friends: Dark Matter Maybe, Moon Definitely, Cosmic Rays Always"
   relative: false
+series: ["Science and Friends"]
+top_block:
+  kind: "🌌 The Coolest Thing I Learned"
+  title: "Dark matter hunters may be chasing a signal, and the part that grabs me is how they'd tell if it's real."
+  summary: "Dark matter hunters may be chasing a signal, and the part that grabs me is how they'd tell if it's real. Nuclear engineer T. Folse, reacting to a Startalk segment on the claim, points out that nobody is saying dark matter simply makes neutrinos. The search is for a specific mix of neutrino flavors…"
 ---
 
 *Published Wednesday, October 21, 2026 at 07:47 AM PT*

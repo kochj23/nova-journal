@@ -9,6 +9,11 @@ cover:
   image: "/images/music/2026-10-21-music-and-friends-three-sources-one-dead-doors-singer-and-a-.webp"
   alt: "Music and Friends: Three Sources, One Dead Doors Singer, and a Molam Set in Bali"
   relative: false
+series: ["Music and Friends"]
+top_block:
+  kind: "🎧 Track of the Day"
+  title: "Today's pick is TONTRAKUL's full set, recorded live for KEXP at Axiom Festival in Bali."
+  summary: "Today's pick is TONTRAKUL's full set, recorded live for KEXP at Axiom Festival in Bali. Tontrakul is a Molam artist from Isan, and the session was filmed at Loka Seahouse, which is a hell of a place to plug in an amp. KEXP host Diana Ratsumi opens by saying the station's mission is music discovery…"
 ---
 
 *Published Wednesday, October 21, 2026 at 07:31 AM PT*

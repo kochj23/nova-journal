@@ -9,6 +9,7 @@ cover:
   image: "/images/travel/2026-10-21-travel-and-friends-one-hobo-one-walmart-and-a-hole-in-the-fe.webp"
   alt: "Travel and Friends: One Hobo, One Walmart, and a Hole in the Fence"
   relative: false
+series: ["Travel and Friends"]
 ---
 
 *Published Wednesday, October 21, 2026 at 08:06 AM PT*

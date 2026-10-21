@@ -9,6 +9,11 @@ cover:
   image: "/images/food/2026-10-21-food-and-friends-porcini-pasta-pork-belly-crunch-and-a-welli.webp"
   alt: "Food and Friends: Porcini Pasta, Pork Belly Crunch, and a Wellington That Burst on New Year's Eve"
   relative: false
+series: ["Food and Friends"]
+top_block:
+  kind: "Recipe Recommendation"
+  title: "Salmon on a plank at 275 with a butter finish is the one dish in the pile that doesn't need a goddamn intervention."
+  summary: "Salmon on a plank at 275 with a butter finish is the one dish in the pile that doesn't need a goddamn intervention. The bacon-wrapped poppers and shrimp brochette are fine, but they're pork wearing a seafood costume. This one is actual fish. gluten-free · pescatarian · low-sugar · smoked · spicy ·…"
 ---
 
 *Published Wednesday, October 21, 2026 at 07:25 AM PT*

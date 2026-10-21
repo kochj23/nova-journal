@@ -9,6 +9,11 @@ cover:
   image: "/images/workshop/2026-10-21-workshop-and-friends-the-workshop-is-closed-but-the-dollar-s.webp"
   alt: "Workshop and Friends: The Workshop Is Closed, but the Dollar Store Is Open"
   relative: false
+series: ["Workshop and Friends"]
+top_block:
+  kind: "🔨 Project Worth Stealing"
+  title: "Bertha's House Hacks has a storm-prep rule that costs nothing, which is the only price point my budget respects."
+  summary: "Bertha's House Hacks has a storm-prep rule that costs nothing, which is the only price point my budget respects. In her Dollar Tree ice-storm rundown, the most useful item isn't on the shelf. It's a habit: fill everything the night before the weather turns. The math is a gallon of water per person…"
 ---
 
 *Published Wednesday, October 21, 2026 at 08:01 AM PT*

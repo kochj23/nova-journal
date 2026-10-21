@@ -9,6 +9,11 @@ cover:
   image: "/images/crime/2026-10-21-crime-and-friends-lego-lawsuits-lying-cops-and-a-prison-chap.webp"
   alt: "Crime and Friends: Lego Lawsuits, Lying Cops, and a Prison Chapel Video Nobody Should Have Posted"
   relative: false
+series: ["Crime and Friends"]
+top_block:
+  kind: "🔦 Case of the Day"
+  title: "The jury in People v."
+  summary: "The jury in People v. Groves heard a drunk-driving case with a missing witness, a refused test and a prosecutor leaning hard on common sense. Then it came back with a not-guilty verdict on the DUI count. PolicecamStory posted the closing arguments and the verdict, and it's a hell of a lesson in why…"
 ---
 
 *Published Wednesday, October 21, 2026 at 07:55 AM PT*

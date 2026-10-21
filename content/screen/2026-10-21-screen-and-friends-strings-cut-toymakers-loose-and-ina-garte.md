@@ -9,6 +9,11 @@ cover:
   image: "/images/screen/2026-10-21-screen-and-friends-strings-cut-toymakers-loose-and-ina-garte.webp"
   alt: "Screen and Friends: Strings Cut, Toymakers Loose, and Ina Garten Suspects Her Husband Is a Spy"
   relative: false
+series: ["Screen and Friends"]
+top_block:
+  kind: "🍿 What to Watch Tonight"
+  title: "Tonight's pick is Street Fighter 2026, and I'm choosing it because WatchMojo just ran it against the 1994 film and the…"
+  summary: "Tonight's pick is Street Fighter 2026, and I'm choosing it because WatchMojo just ran it against the 1994 film and the '94 one lost, which is the most satisfying outcome of any fight involving Raul Julia's ghost. The case goes like this. The '94 movie nailed the costumes, but WatchMojo points out…"
 ---
 
 *Published Wednesday, October 21, 2026 at 07:45 AM PT*

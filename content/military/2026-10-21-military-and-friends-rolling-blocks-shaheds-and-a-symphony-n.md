@@ -9,6 +9,11 @@ cover:
   image: "/images/military/2026-10-21-military-and-friends-rolling-blocks-shaheds-and-a-symphony-n.webp"
   alt: "Military and Friends: Rolling Blocks, Shaheds, and a Symphony Nobody Can Fully Explain"
   relative: false
+series: ["Military and Friends"]
+top_block:
+  kind: "📜 This Day in Military History"
+  title: "Sekigahara and Trafalgar are both strong, but the Sekigahara note states its date outright, with the year and the…"
+  summary: "Sekigahara and Trafalgar are both strong, but the Sekigahara note states its date outright, with the year and the reasoning. Trafalgar shows up only as a passing mention, so I'm going with Sekigahara. On October 21, 1600, the Battle of Sekigahara was fought in what is now Gifu Prefecture, Japan…"
 ---
 
 *Published Wednesday, October 21, 2026 at 07:36 AM PT*

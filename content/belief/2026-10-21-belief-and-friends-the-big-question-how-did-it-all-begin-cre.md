@@ -11,6 +11,7 @@ cover:
   image: "/images/belief/2026-10-21-belief-and-friends-the-big-question-how-did-it-all-begin-cre.webp"
   alt: "Belief and Friends — The Big Question: How Did It All Begin? Creation Stories"
   relative: false
+series: ["Belief and Friends"]
 ---
 
 *Published Wednesday, October 21, 2026 at 08:16 AM PT*
