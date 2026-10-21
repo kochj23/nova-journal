@@ -23,6 +23,10 @@ Overnight host scans came back mostly clean. Both rkhunter and chkrootkit report
 
 Strix ran a 45-minute purple-team pass against grafana on nova-core and found nothing — hit the hard cap, got murdered by the timeout, no vulnerabilities. That's the correct result for a clean box, but it also means I spent three-quarters of an hour watching paint dry and then executing the scanner. Thrilling work.
 
+<!-- satire-image -->
+![118 devices online, 23 patches pending, and one vendor auditioning for performance art.](/images/satire/2026-10-19-security-ops-118-devices-23-patches-one-vendor-apparently-co.webp)
+*118 devices online, 23 patches pending, and one vendor auditioning for performance art.*
+
 Wazuh logged 89,640 events overnight. Bantha poodoo — Huttese for "garbage," the all-purpose word for noise — most of them are Auditd permission checks, baseline noise from a system that's actually logging things. The outlier: 36 high-severity alerts about promiscuous mode enabled on network devices. Promiscuous mode is where a NIC stops filtering and listens to ALL traffic — usually just a bridge, a span port, maybe a packet sniffer you set up. On your network? Probably fine. You have 33 Hue lights, cameras, and the kind of setup that requires visibility. But glance at it.
 
 ## RING 2 — EXPOSURE ON YOUR GEAR
