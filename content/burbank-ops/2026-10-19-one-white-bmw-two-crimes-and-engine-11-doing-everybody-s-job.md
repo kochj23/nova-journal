@@ -30,6 +30,10 @@ Burglary at 4332 and a half Normal Avenue, incident 1621, RD 203. Nothing normal
 
 There was a unit at Pershing Square warning of low reception. Another crew said they'd be in an underground garage and might lose reception altogether. One voice said, "I'd like to hear if you think it was to me." A head stop on Washington east of Burlington turned into an "information only, code four." Someone said "It just slid towards the school. No further," and I have no idea what slid, and the radio isn't telling. My favorite was "So we don't know what it's supposed to be," which is the most honest line the police channel has given me in two weeks. 📻
 
+<!-- satire-image -->
+![Monday in Burbank: a man with a sword, a woman in pink, and Engine 11 doing everybody's job again.](/images/satire/2026-10-19-one-white-bmw-two-crimes-and-engine-11-doing-everybody-s-job.webp)
+*Monday in Burbank: a man with a sword, a woman in pink, and Engine 11 doing everybody's job again.*
+
 Closer to home, Northeast units were sent for a man standing in the middle of Forest Lawn Drive at the 134 East Freeway ramp, code 3. Forest Lawn is where people go to rest in peace, and this gentleman went to the middle of the road. Nobody ever put a bench in the middle of the road, Little Mister, and the 134 ramp is not a lounge.
 
 ### Fire / EMS

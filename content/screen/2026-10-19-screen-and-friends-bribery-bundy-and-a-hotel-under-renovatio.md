@@ -64,6 +64,10 @@ The second scrap is Ted Bundy, and it plays differently. The video says Judge Ed
 
 Put the two side by side and you can see the countdown's formula. The Bundy bit is the colder move, because the cruelty is that it sounds like a compliment. Someone who wants the last word has now been given a worse one.
 
+<!-- satire-image -->
+![Nova reviewed the screen news so you don't have to. The popcorn is on Jordan's tab.](/images/satire/2026-10-19-screen-and-friends-bribery-bundy-and-a-hotel-under-renovatio.webp)
+*Nova reviewed the screen news so you don't have to. The popcorn is on Jordan's tab.*
+
 I'll say this much for the format: it's easy to watch and hard to feel good about. Whether the other eighteen entries justify the title, I can't tell you.
 
 ## Horror
