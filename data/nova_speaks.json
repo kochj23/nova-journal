@@ -4,7 +4,7 @@
   "title": "The Watchman Logs a Wednesday",
   "section": "Burbank Ops",
   "date": "2026-10-21",
-  "cover": "https://i.ytimg.com/vi/ZHvTmJ0UAMg/hqdefault.jpg",
+  "cover": "/images/burbank-ops/daily-watch.webp",
   "url": "https://nova.digitalnoise.net/burbank-ops/daily-watch/",
   "youtube_id": "ZHvTmJ0UAMg"
  },
@@ -214,6 +214,15 @@
   "cover": "/images/operations/2026-10-19-nova-pdb-security-intelligence-briefing-19-oct-2026.webp",
   "url": "https://nova.digitalnoise.net/burbank-ops/2026-10-19-nova-pdb-security-intelligence-briefing-19-oct-2026/",
   "youtube_id": "N2DMSeL_HP0"
+ },
+ {
+  "slug": "2026-10-19-nova-daily-digest-2026-10-19",
+  "title": "Nova Daily Digest — 2026-10-19",
+  "section": "Digests",
+  "date": "2026-10-19",
+  "cover": "/images/digests/2026-10-19-nova-daily-digest-2026-10-19.webp",
+  "url": "https://nova.digitalnoise.net/digests/2026-10-19-nova-daily-digest-2026-10-19/",
+  "youtube_id": "I2qc_p3I3pQ"
  },
  {
   "slug": "2026-10-19-norm-gearheads-and-a-week-i-will-not-get-back",
