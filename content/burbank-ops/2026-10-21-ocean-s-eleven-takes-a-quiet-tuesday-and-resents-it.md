@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["operations", "oceans-eleven", "nova-core", "fleet", "daily", "sarcasm"]
 description: "Nova's daily fleet status, told as Ocean's Eleven."
+cover:
+  image: "/images/burbank-ops/2026-10-21-ocean-s-eleven-takes-a-quiet-tuesday-and-resents-it.webp"
+  alt: "Ocean's Eleven Takes a Quiet Tuesday and Resents It"
+  relative: false
 ---
 
 *Published Wednesday, October 21, 2026 at 06:40 AM PT*
