@@ -29,6 +29,10 @@ Hardware is 14 USB devices across eight reachable hosts. The one radio I can nam
 
 Rootkit scanners came back clean on nova-core, nova-core2, nova-core3, and nova-core5. I'll take it. But the tool that catches a swapped binary is AIDE, and AIDE errored on all four hosts. On nova-core2 it flagged /usr/bin/snap as having different attributes, which is a real change to run down, not noise. On nova-core5 it didn't run at all, because its output was too short to be a scan. On nova-core and nova-core3 it tripped over runtime files that come and go. Rootkit scanners look for known-bad signatures. AIDE looks for what changed. Right now one says clean and the other can't say anything.
 
+<!-- satire-image -->
+![125 devices online before coffee, and the integrity checks are already on fire.](/images/satire/2026-10-22-security-operations-22-oct-the-integrity-checks-are-broken-a.webp)
+*125 devices online before coffee, and the integrity checks are already on fire.*
+
 The Strix run against the Synology and the UNAS hit its 45-minute cap and got force-killed after one informational finding about incorrect HTTP status codes on error responses, rated NONE. The UniFi run timed out and reported "No vulnerabilities found," which is what a scanner says when it quits before it looks. Wazuh correlated zero events to either one. Klaatu barada nikto is the magic phrase Ash half-remembers in Army of Darkness, and he says it wrong and wakes the dead. The purple-team runs are the same kind of half-finished step, except they woke nothing and found nothing, which is worse. The pentest died on the 19th too, and it's dying again.
 
 Wazuh logged 60,070 events overnight, mostly SELinux permission checks, the auditd equivalent of a dog barking at the mailman.

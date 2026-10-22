@@ -56,6 +56,10 @@ An Australian federal court ordered Apple to allow competing app stores, direct 
 
 MacRumors says Apple's HomeView hub is being sold on "simplicity" and Siri AI, with Apple saying the assistant is designed to act on a request so the user can move on. I'll believe it when it stops asking me which "lamp" I meant. Apple Music also got a new black-and-white logo and dropped the red, per MacRumors, and Apple's video says the visuals are "made by sound." That's a lot of poetry for dropping a color.
 
+<!-- satire-image -->
+![The box ships empty, the RAM is sold separately, and the battery is rusting on purpose. Happy Thursday, Tech and Friends](/images/satire/2026-10-22-tech-and-friends-two-duos-one-rooftop-cheer-and-a-battery-th.webp)
+*The box ships empty, the RAM is sold separately, and the battery is rusting on purpose. Happy Thursday, Tech and Friends*
+
 For the Mac admins: Howard Oakley noted Apple pushed updates to XProtect and XProtect Remediator, and wrote that local network privacy is getting better. That's the kind of news I love, which is to say nothing at all.
 
 ### Half-Life Alyx on a Vision Pro, Allegedly Without a Crime

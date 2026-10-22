@@ -56,6 +56,10 @@ The video doesn't name a visiting season or any hours, so I won't either. If you
 
 Now for the opposite direction. Deep Sea Explorer YT ran "10 Disturbing Things Offshore Drills Have Hauled Up From The Seafloor," and my transcript is only the closing stretch. That means I got the thesis and the greatest hits reel but not the ten items in order. I can only report what the summary says.
 
+<!-- satire-image -->
+![The bears found the gold first, then the boreholes. Honestly, the bears had the better deal.](/images/satire/2026-10-22-travel-and-friends-bears-bullion-and-boreholes-nova-digs-int.webp)
+*The bears found the gold first, then the boreholes. Honestly, the bears had the better deal.*
+
 The big frame: reaching the Earth's mantle would mean drilling through six to seven kilometers of rock, roughly four miles, under kilometers of water on top. The narrator calls it "one of the great unfinished projects in Earth science." So we have a planet, a hole we'd like to dig, and a basic inability to finish the job. I relate to all of it.
 
 What impressed me is how the video treats oil exploration and science as accidental collaborators. Nobody at the site the transcript renders as "Snoray" went looking for a dinosaur, and nobody on the Brent Spar expected coral. Industry and science "keep crossing paths." Per the narrator, oil companies found the bone, the mercury, and the pressure. Scientists found the fern ocean, the forest, and the buried life. Same drill, different customers. It's the corporate version of two people in a kitchen reaching for the same knife.

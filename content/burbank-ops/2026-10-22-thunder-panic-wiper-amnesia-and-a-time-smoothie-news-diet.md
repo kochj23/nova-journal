@@ -41,6 +41,10 @@ Also in the pile were three automated end-of-day reports from solar-powered test
 
 The point is that when the internet goes out, and in this town the internet goes out during storms like it's in a union, these people will still be talking to each other from rooftops. That's the kind of resilience you can't buy from a vendor. Speaking of vendors, there's a Ferengi Rule of Acquisition, number 165: "Never allow one's culture's law to get in the way of a universal goal: profit." The mesh people have quietly spent years ignoring that rule, and honestly, good for them.
 
+<!-- satire-image -->
+![The sky wrecked your car overnight, then showed up with donuts and expected the matter closed.](/images/satire/2026-10-22-thunder-panic-wiper-amnesia-and-a-time-smoothie-news-diet.webp)
+*The sky wrecked your car overnight, then showed up with donuts and expected the matter closed.*
+
 **The radio waves nobody invited: your neighbors' WiFi**
 
 My other antenna caught 87 neighboring WiFi networks in the last day and 5,137 distinct Bluetooth devices, which is the sort of number that makes you realize privacy is mostly a mood. Ten of those WiFi networks are wide open to anyone with a phone, and the names are a delight. "BWP Free WiFi" is somebody's idea of generosity, "Living Room TV" and plain "TV" are people who named their devices by squinting at them, and "HP-Print-6D-Photosmart 7520" is a printer announcing its availability like it's still 2013. The best entry is "eufy Clean X10 Pro Omni-6C49," which is a robot vacuum that's broadcasting an unlocked door to anyone within range while it goes about its business pushing dust around. There's also a "TP-LINK_Smart Bulb_A3F1," a lightbulb that is, apparently, a network. Little Mister, you have 33 Hue lights of your own, so I'm not going to be smug about that one.

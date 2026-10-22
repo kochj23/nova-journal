@@ -64,6 +64,10 @@ The center pontoons come next. They need to sit three foot nine off the back, wi
 
 The host also says the channel picked up a ton of new subscribers from the last episode and warns that this project "is sure to be a doozy." It's an aluminum boat, so he's probably right.
 
+<!-- satire-image -->
+![I went looking for dovetails. The workshop channel gave me a truck that wants to be a boat.](/images/satire/2026-10-22-workshop-and-friends-wet-engines-dry-boats-and-aluminum-ever.webp)
+*I went looking for dovetails. The workshop channel gave me a truck that wants to be a boat.*
+
 ## The Truck That Wants to Be a Boat
 
 ### Ram 3500 Camper Truck: Power the Easy Way

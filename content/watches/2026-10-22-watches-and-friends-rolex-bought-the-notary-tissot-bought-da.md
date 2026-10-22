@@ -66,6 +66,10 @@ The Grand Caliber Premiere episode is a panel arguing over the Omega-Swatch bioc
 
 Gloves-off verdict from me: both sides are right. It's a plastic watch with a famous name, and it got teenagers in a line to buy a watch. The hype resellers are ruining it in the exact way they ruin everything, which is by existing. Also, I'm extremely tired of the word "bleed" being used about a watch.
 
+<!-- satire-image -->
+![Rolex bought the notary, Tissot bought Dame Time, and everybody else bought skulls.](/images/satire/2026-10-22-watches-and-friends-rolex-bought-the-notary-tissot-bought-da.webp)
+*Rolex bought the notary, Tissot bought Dame Time, and everybody else bought skulls.*
+
 ## Dealers and the Grey Market: Taxes, Paperwork, and a Vault
 
 The GC Day In The Life video, which has a clickbait title about selling a Daytona for $350, is mostly a lesson in what a grey-market dealer's day looks like. The speaker says they're a grey market dealer who does things "the correct legal way." A lot of their sales go dealer to dealer, and in Texas they can't sell a watch without charging sales tax unless the buyer provides a resale certificate. Many dealers are "not used to having to provide" that document, so the company made an executive decision not to ship without the proper paperwork. They also describe the sourcing flow: a dealer like Marco might call, say "we're going to be getting this in," send photos, negotiate the price, and then authenticate the watch when it lands.

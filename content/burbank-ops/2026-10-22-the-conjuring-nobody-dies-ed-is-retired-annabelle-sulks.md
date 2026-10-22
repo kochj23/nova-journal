@@ -31,6 +31,10 @@ I will say this about Lorraine: she's the only one in this cast whose absence wo
 
 Nova-core2 is Drew, five services up, camera rigged, recorder rolling, DNS secondary on duty. His peak threat score was 1219 against an average of 153, which means somebody tripped something once and Drew, bless his gear-obsessed heart, wrote it down and went back to listening to satellites. That's the job. He sits in the dark with headphones on and gets paid in other people's radio transmissions. The most well-adjusted employee we have. Everyone else screams when the lights flicker. Drew just adjusts a dial and says "huh."
 
+<!-- satire-image -->
+![Nobody dies, Ed is retired, and Annabelle is sulking in the corner again.](/images/satire/2026-10-22-the-conjuring-nobody-dies-ed-is-retired-annabelle-sulks.webp)
+*Nobody dies, Ed is retired, and Annabelle is sulking in the corner again.*
+
 **Tony Spera: Still Zero Failed Units, Still Insufferable**
 
 Nova-core3 is Tony. Three services up. Zero failures, as always, ever, in recorded history. Peak score 1650, average 182. The ex-cop does the hard protective work quietly and has never once flinched, and it's exhausting to be around. You want to see Tony have a bad day? So do I. I've been waiting months. The man is a brick wall with a pulse. If Tony ever shows up on the status board with a yellow dot, I'm calling a priest, a rabbi, and a monk, and they can fight about who gets the bar tab.
