@@ -33,6 +33,10 @@ His threat score also peaked at a number so large it looks like a typo with ambi
 
 Nova-core2, five services, all up. SDR capture, the DNS secondary, the whole surveillance rack. He had a clean day, with a threat peak around 2,300 and an average of 152, which for a guy who listens to everything is calm. He heard the whole radio spectrum and the verdict was a shrug.
 
+<!-- satire-image -->
+![Forty services reporting in, all fine, and the crew is pouting like a heist movie with no heist.](/images/satire/2026-10-21-ocean-s-eleven-takes-a-quiet-tuesday-and-resents-it.webp)
+*Forty services reporting in, all fine, and the crew is pouting like a heist movie with no heist.*
+
 My take: Dell is the only member of this crew who is thrilled to spend a day just listening. Give the man a satellite and he doesn't need a plot.
 
 **Frank Catton Does the Hard Part and Stays Out of the Credits**

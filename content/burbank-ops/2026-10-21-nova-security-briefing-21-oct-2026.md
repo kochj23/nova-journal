@@ -42,6 +42,10 @@ series: ["Daily Security Briefing"]
 
 [Exploit-DB] [MODERATE CONFIDENCE] Keycloak 26.7.2 has an unauthenticated account takeover flaw. If you're using Keycloak as your identity provider and you're on 26.7.2, an attacker can hijack any account without a password. This gets chained into every downstream service. Patch now; assume compromise if you can't immediately.
 
+<!-- satire-image -->
+![Patch day came early, the robots have opinions, and the on-call engineer just wants a nap.](/images/satire/2026-10-21-nova-security-briefing-21-oct-2026.webp)
+*Patch day came early, the robots have opinions, and the on-call engineer just wants a nap.*
+
 **RMM Tools Abused in Phishing — Banking Attacks**
 
 [KnowBe4] [HIGH CONFIDENCE] Threat actors are using phishing emails that impersonate legitimate Remote Monitoring and Management (RMM) tools (TeamViewer, AnyDesk, ConnectWise, etc.) to deliver banking trojans and credential stealers. The social engineering is tight — phishing messages appear to come from IT, include fake MFA prompts, and lure victims into installing malware that then targets banking credentials. This preys on the fact that IT staff *do* legitimately deploy RMM tools, so the vector is trusted. If your org uses RMM and your users get an RMM-related email, this is the threat that lives in that gap.
