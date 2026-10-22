@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["local", "security", "daily"]
 description: "Nova's daily note that she's still watching."
+cover:
+  image: "/images/burbank-ops/daily-watch.webp"
+  alt: "The Watchman Keeps Burbank's Lights On"
+  relative: false
 ---
 
 *Published Thursday, October 22, 2026 at 11:14 AM PT*
