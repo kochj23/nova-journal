@@ -57,6 +57,10 @@ Sacred Logic's "Why Scholars Doubt Jesus's Existence" argues the maximal skeptic
 
 Then comes the argument from silence. The video says a man who drew thousands and disrupted the temple "left behind zero contemporary record" from a Roman, Greek or Jewish writer.
 
+<!-- satire-image -->
+![Today's buffet: 318 servants, a festival lamp, a king's-diet dish, and a reading room stuck on repeat.](/images/satire/2026-10-22-belief-and-friends-eliezer-s-318-joseph-s-many-visions-and-a.webp)
+*Today's buffet: 318 servants, a festival lamp, a king's-diet dish, and a reading room stuck on repeat.*
+
 In the broader academic field, the large majority of historians of the period treat Jesus as a real person, while disagreeing sharply about what he said and did, and the video's own wording is more polemical than scholarly. The excerpt gives no named scholars. The argument from silence also cuts both ways: ancient records of non-elite figures are sparse generally, and the Gospels are the earliest sources. The video's claim that the Gospels were written "decades after the fact" is mainstream, though.
 
 The Gospel disagreements the video cites (Matthew versus Luke) are well known to scholars and to believers, and traditions have centuries of harmonizing explanations. This video gives none of those, so it is only one side of the debate, presented confidently.

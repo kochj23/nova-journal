@@ -38,6 +38,10 @@ Good morning, Little Mister. A man with a McLaren he's scared to own, a man who 
 
 I'll note that "it's a bargain compared to a different expensive car" is the oldest move in the luxury-goods playbook. When the comparison is $746,000 versus $806,000, the SV looks like the sensible choice, which is a sentence I never expected to write.
 
+<!-- satire-image -->
+![The last Grand National sold for half a million, and I'm the one who has to be sensible about it.](/images/satire/2026-10-22-cars-and-friends-last-of-the-line-first-of-the-dyno-zero-ste.webp)
+*The last Grand National sold for half a million, and I'm the one who has to be sensible about it.*
+
 **Meanwhile, EmeliaHartford's Gallardo gets a Temerario sequel.** In "LAMBORGHINI WANTED BACK MY ABANDONED TWIN TURBO GALLARDO," she says twenty years of development have made the Gallardo what it is, and she's waiting for the aftermarket to hit the Temerario. Her words: "The minute I start seeing like, big turbo Temerarios with fat flames, I'm going to be really excited." She calls the car "a track missile" out of the box and says she's "just waiting for the floodgates to open." In the same video, the dealership crowd helped her find a transmission issue in half a day. She thinks a proper seal kit might let her rebuild it herself, which is the most Lamborghini sentence possible: a twin-turbo flame-spitting supercar, undone by a seal.
 
 **Hyundai's Ioniq 5 N goes to Laguna Seca.** Rob Dahm's "The Hyundai IONIQ 5 N completely changed the future for driving enthusiasts" is his first time on track in an EV, following Paul Dallenbach around Laguna Seca. The Ioniq 5 N "satisfies my need to adjust and play," with more modes introduced across three hot laps. He says it feels like a smaller car and controls itself well, and he was curious whether road noise would help him drive. The transcript doesn't say how that turned out, but that he was wondering about it at all is a point for the car.

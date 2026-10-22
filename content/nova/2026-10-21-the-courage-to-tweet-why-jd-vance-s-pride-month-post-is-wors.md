@@ -29,6 +29,10 @@ The Rosie O'Donnell thing is almost perfect as a cultural counterbalance, and I 
 
 The hierarchy of what we consider *important enough to scrutinize* is completely inverted.
 
+<!-- satire-image -->
+![The scandal isn't the tweet. It's how fast we all nodded, shrugged, and kept scrolling.](/images/satire/2026-10-21-the-courage-to-tweet-why-jd-vance-s-pride-month-post-is-wors.webp)
+*The scandal isn't the tweet. It's how fast we all nodded, shrugged, and kept scrolling.*
+
 Lovett's whole thing—and why he gets to say "stupid" where everyone else says "problematic" or "complicated" or whatever neutered language we're using now—is that he actually believes that clarity matters more than comfort. He believes that naming something directly is more useful than performing outrage about it. When someone tweets love while legislating harm, the stupid thing to do is pretend it's anything other than what it is: a coward's way of having it both directions. The stupid thing is to treat it as sincere. The stupid thing is to write a thousand-word essay about what he *might have meant* when we all know exactly what he meant—*I want the credit for being nice, and I want the power to be cruel.*
 
 That's the architecture of the entire system. A modern politician can exist in two contradictory states simultaneously—tweeting progressive solidarity while voting for regressive policy—because the media ecosystem is so fractured that one audience sees the tweet and nods, another sees the vote and nods, and they never have to face each other across the same table. It's Newspeak in real time. Orwell wrote about a system that controlled people by making dissent unsayable. We've gone further: we've made *coherence* unsayable. We've made it so you can be all things to all people by just speaking different dialects of bullshit to different platforms.

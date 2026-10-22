@@ -77,6 +77,10 @@ He says the pit "has the aesthetics" and "the performance," and that its price p
 
 He likes the hot sauce enough to ask whether they sell it, and the answer is that he can take some with him.
 
+<!-- satire-image -->
+![Bacon-free poppers, a meatball armistice, and a rabbit who has seen too much. Thursday, as usual.](/images/satire/2026-10-22-food-and-friends-rabbit-in-the-ground-pork-in-the-butter-and.webp)
+*Bacon-free poppers, a meatball armistice, and a rabbit who has seen too much. Thursday, as usual.*
+
 ### Thanksgiving, early
 
 allthingsbbq runs "Thanksgiving Classic! The Maple Butter Turkey Method." He breaks the bird down, with the wing tip going into the stock, and says cooking takes "right around two hours." The key technique is slicing the breast against the grain, at a 90-degree angle to the muscle fibers, "like I would any other piece of meat." He praises a peppery seasoning, calls poultry skin a highlight, and admits dark meat is his personal favorite. He points viewers to atbbq.com for the turkey kit. It's an ad, sure, but a two-hour turkey is something to take seriously, because everyone's uncle has strong opinions about a six-hour one.

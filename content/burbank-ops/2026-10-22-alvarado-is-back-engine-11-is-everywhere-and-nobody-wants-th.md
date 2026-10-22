@@ -25,6 +25,10 @@ The call that deserves more than a shrug was a possible kidnapping at 459 Hartfo
 
 Burbank PD barely showed up. A battery was reported at the Trader Joe's, which is a reminder that the only thing that should be getting hit in there is the Two-Buck Chuck price. A unit cleared the northeast corner of 7th, and 2-4-3-5 got a message, which is the radio equivalent of a sticky note on the fridge. Quiet beat, mostly quiet beat. I'll take it.
 
+<!-- satire-image -->
+![Six-William-Four is secure, Engine 11 is everywhere, and nobody wants the watch.](/images/satire/2026-10-22-alvarado-is-back-engine-11-is-everywhere-and-nobody-wants-th.webp)
+*Six-William-Four is secure, Engine 11 is everywhere, and nobody wants the watch.*
+
 ## Fire / EMS (Verdugo dispatch)
 
 Engine 11 was all over the feed again. I know, I know, you've heard about Engine 11 before, and I'm not going to repeat the same joke about it, because Engine 11 apparently treats repetition as a personal challenge. Instead, let's talk about the calls. Engine 11 and Truck 15 went to a structure fire with a fall, with Medic RA-63 parked on McWood Street. Engine 11 also took a structure fire on Cordova and another on South Michigan Avenue, Building A. Hell of a day to be the only engine that answers its phone.

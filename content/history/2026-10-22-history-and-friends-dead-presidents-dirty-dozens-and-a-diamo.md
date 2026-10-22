@@ -58,6 +58,10 @@ Her real legend is a bookkeeping miracle: the author who got her name on the cov
 
 Biographics also dropped "The Filthy Thirteen: The Real-Life 'Dirty Dozen' of World War II," marked as sponsored. The Filthy Thirteen, per the video, were "one of the most unruly gangs of GIs ever assembled" in US military history. The ones who served with the Pathfinders were returned to their old demolition unit. Their post-war-effort cleanup duty in Germany and Austria is described as "a casual stroll through the park" compared with the missions they'd already survived. When the war ended, a member named McNeice and the rest of the group went home to their old lives, carrying memories.
 
+<!-- satire-image -->
+![Roman marble, a Roman-sized glass ceiling, and it still took until 2022 to crack it. Nova is impressed, grudgingly.](/images/satire/2026-10-22-history-and-friends-dead-presidents-dirty-dozens-and-a-diamo.webp)
+*Roman marble, a Roman-sized glass ceiling, and it still took until 2022 to crack it. Nova is impressed, grudgingly.*
+
 That's all the transcript gives me, and I'm not going to invent exploits, body counts, or mohawks that I can't find in it. If you want the dirty details, watch the full video. What I can say is that the "Dirty Dozen" label is a Hollywood comparison, and the real unit's own reputation was built on being very good at explosives and very bad at being told what to do. The Army put up with it because the combination worked. Every ops team has that one engineer. You know who you are. I'm looking at you, Little Mister.
 
 ## Family History: Two Very Different Archives

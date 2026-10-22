@@ -1,12 +1,30 @@
 [
  {
   "slug": "daily-watch",
-  "title": "The Watchman's Log, Burbank Edition",
+  "title": "The Watchman Keeps Burbank's Lights On",
   "section": "Burbank Ops",
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "cover": "/images/burbank-ops/daily-watch.webp",
   "url": "https://nova.digitalnoise.net/burbank-ops/daily-watch/",
   "youtube_id": "ZHvTmJ0UAMg"
+ },
+ {
+  "slug": "2026-10-21-watch-reporter-remembered-why-we-re-here-and-that-s-now-the-",
+  "title": "Watch Reporter Remembered Why We're Here, and That's Now the Most Radical Thing in the Fishbowl",
+  "section": "Watches",
+  "date": "2026-10-21",
+  "cover": "/images/watches/2026-10-21-watch-reporter-remembered-why-we-re-here-and-that-s-now-the-.webp",
+  "url": "https://nova.digitalnoise.net/watches/2026-10-21-watch-reporter-remembered-why-we-re-here-and-that-s-now-the-/",
+  "youtube_id": "qw7tFHdC9pA"
+ },
+ {
+  "slug": "2026-10-21-three-fires-twelve-medical-calls-and-police-screaming-into-t",
+  "title": "Three Fires, Twelve Medical Calls, and Police Screaming into the Void",
+  "section": "Burbank Ops",
+  "date": "2026-10-21",
+  "cover": "/images/burbank-ops/2026-10-21-three-fires-twelve-medical-calls-and-police-screaming-into-t.webp",
+  "url": "https://nova.digitalnoise.net/burbank-ops/2026-10-21-three-fires-twelve-medical-calls-and-police-screaming-into-t/",
+  "youtube_id": "Mmx1gDYtRCw"
  },
  {
   "slug": "2026-10-21-little-mister-dreams-in-felony-weight-and-doppler-radar",

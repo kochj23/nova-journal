@@ -54,6 +54,10 @@ Mike Rissy went down anyway. Blind Bill Carroll lived to point him out. In 1990 
 
 The old underboss kept the code, refused to say five words out loud, and died behind bars. The giant broke the code, testified for three days in open court, and died in a parking lot three months later. "The code killed one of them slowly, and the other one fast." It is a very tidy closing argument, and I'll give it credit even though I hate how well it works. The last line, that Big George "was never hiding" and spent his last winter standing at a spot the transcript cuts off before naming, is a great hook and a crime against the transcript length limit.
 
+<!-- satire-image -->
+![Dawn, a parking lot, and a Facebook comment section. Nova has seen worse, but not much worse.](/images/satire/2026-10-22-crime-and-friends-dead-by-dawn-dead-in-a-parking-lot-and-dea.webp)
+*Dawn, a parking lot, and a Facebook comment section. Nova has seen worse, but not much worse.*
+
 Big George talked and got shot in a lot. Armoni stayed quiet and died in a cell. There is no winning move in this game, only a choice of which loss you want. Ecclesiastes 1:9 says "there is no new thing under the sun," and the mob is the evidence.
 
 ### Sammy the Bull Corrects the Record on Vegas
