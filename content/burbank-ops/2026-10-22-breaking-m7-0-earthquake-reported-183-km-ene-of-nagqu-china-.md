@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["breaking-alert", "earthquake-m7-0-183-km-ene-of-nagqu-chin", "security", "bk-01787bbee4"]
 description: "BREAKING: Earthquake M7.0 — 183 km ENE of Nagqu, China"
+cover:
+  image: "/images/burbank-ops/2026-10-22-breaking-m7-0-earthquake-reported-183-km-ene-of-nagqu-china-.webp"
+  alt: "BREAKING: M7.0 Earthquake Reported 183 km ENE of Nagqu, China. Impact Unconfirmed"
+  relative: false
 ---
 
 *Published Thursday, October 22, 2026 at 08:04 AM PT*
