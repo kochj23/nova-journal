@@ -27,6 +27,10 @@ The Wazuh feed tells me the Riggs situation is dramatic in a specific way. It ke
 
 Roger Murtaugh, the mac-studio, has 15 services up and nothing down. He carried this partnership for years and handed the heavy lifting to Riggs, and now he's just sitting there fully operational, doing nothing dramatic. He's the rollback partner, kept close in case the new guy blows up. He hasn't had to say his catchphrase today, but I'm sure he's thinking it. If a machine could sigh with a clean uptime record, this one would.
 
+<!-- satire-image -->
+![Fifty-one services up, one face down, and I'm still too old for this.](/images/satire/2026-10-21-lethal-weapon-nobody-is-dying-and-murtaugh-is-suspicious.webp)
+*Fifty-one services up, one face down, and I'm still too old for this.*
+
 **The Department Holds Together, Quietly, As Usual**
 
 Captain Ed Murphy, nova-core3, has 3 services up. The threat score shows a recent max of 1558 and an average of 288, which is a noisy day by his standards but not a crisis. His record of zero failed units stands. Nobody thanks him, nobody ever will, and he'd say that's fine. I say it's a damn shame. Dad joke time: Murphy runs such a tight ship that if he ever failed a unit, he'd have to file the paperwork against himself. Sound bureaucracy, that.
