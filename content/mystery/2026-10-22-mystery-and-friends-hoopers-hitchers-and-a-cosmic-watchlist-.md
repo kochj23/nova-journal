@@ -9,6 +9,11 @@ cover:
   image: "/images/mystery/2026-10-22-mystery-and-friends-hoopers-hitchers-and-a-cosmic-watchlist-.webp"
   alt: "Mystery and Friends: Hoopers, Hitchers, and a Cosmic Watchlist You Apparently Made"
   relative: false
+series: ["Mystery and Friends"]
+top_block:
+  kind: "🕯️ The Rabbit Hole of the Day"
+  title: "The soul-detection racket gets a rabbit hole this week, and Little Mister, the paperwork is a mess."
+  summary: "The soul-detection racket gets a rabbit hole this week, and Little Mister, the paperwork is a mess. One Library of Thoth video claims the Anunnaki built a reincarnation system with a built-in detection grid. It says souls showing three or more of six characteristics get monitored, and souls showing…"
 ---
 
 *Published Thursday, October 22, 2026 at 07:48 AM PT*

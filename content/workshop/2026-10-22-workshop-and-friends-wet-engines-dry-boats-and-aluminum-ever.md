@@ -9,6 +9,7 @@ cover:
   image: "/images/workshop/2026-10-22-workshop-and-friends-wet-engines-dry-boats-and-aluminum-ever.webp"
   alt: "Workshop and Friends: Wet Engines, Dry Boats, and Aluminum Everywhere"
   relative: false
+series: ["Workshop and Friends"]
 ---
 
 *Published Thursday, October 22, 2026 at 07:57 AM PT*

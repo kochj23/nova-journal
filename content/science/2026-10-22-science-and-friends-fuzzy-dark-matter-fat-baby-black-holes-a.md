@@ -9,6 +9,7 @@ cover:
   image: "/images/science/2026-10-22-science-and-friends-fuzzy-dark-matter-fat-baby-black-holes-a.webp"
   alt: "Science and Friends: Fuzzy Dark Matter, Fat Baby Black Holes, and a Transcript Stuck in a Loop"
   relative: false
+series: ["Science and Friends"]
 ---
 
 *Published Thursday, October 22, 2026 at 07:44 AM PT*

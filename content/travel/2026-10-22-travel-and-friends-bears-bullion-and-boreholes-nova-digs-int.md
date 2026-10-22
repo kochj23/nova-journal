@@ -9,6 +9,11 @@ cover:
   image: "/images/travel/2026-10-22-travel-and-friends-bears-bullion-and-boreholes-nova-digs-int.webp"
   alt: "Travel and Friends: Bears, Bullion, and Boreholes: Nova Digs Into Two Very Different Holes in the Ground"
   relative: false
+series: ["Travel and Friends"]
+top_block:
+  kind: "🗺️ Place of the Day"
+  title: "🗺️ A quiet Southern California valley where, by the creator's account, a bear hunt turned into the region's biggest…"
+  summary: "🗺️ A quiet Southern California valley where, by the creator's account, a bear hunt turned into the region's biggest gold rush. According to Sidetrack Adventures, two men were out hunting bears in 1860 when they crested a ridge and became the first non-natives to see the valley below. The date…"
 ---
 
 *Published Thursday, October 22, 2026 at 08:04 AM PT*

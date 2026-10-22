@@ -9,6 +9,11 @@ cover:
   image: "/images/crime/2026-10-22-crime-and-friends-dead-by-dawn-dead-in-a-parking-lot-and-dea.webp"
   alt: "Crime and Friends: Dead by Dawn, Dead in a Parking Lot, and Dead Wrong on Facebook"
   relative: false
+series: ["Crime and Friends"]
+top_block:
+  kind: "🔦 Case of the Day"
+  title: "Bruno Indelicato is the guy who proves that dodging the mob is easy and dodging the federal government is not."
+  summary: "Bruno Indelicato is the guy who proves that dodging the mob is easy and dodging the federal government is not. His father, Sonny Red, was killed in the Bonanno family's 1981 bloodbath, and the family wanted the son gone too. Street Files walks through the hunt. The reveal is colder than the movie.…"
 ---
 
 *Published Thursday, October 22, 2026 at 07:52 AM PT*

@@ -9,6 +9,11 @@ cover:
   image: "/images/screen/2026-10-22-screen-and-friends-phalanx-pitchers-and-politicians-the-roas.webp"
   alt: "Screen and Friends: Phalanx, Pitchers and Politicians: The Roast Hearing Edition"
   relative: false
+series: ["Screen and Friends"]
+top_block:
+  kind: "🍿 What to Watch Tonight"
+  title: "Tonight's pick is \"Vinick Accepts the Nomination\" from The West Wing, because the show's own channel posted a…"
+  summary: "Tonight's pick is \"Vinick Accepts the Nomination\" from The West Wing, because the show's own channel posted a convention speech where a Republican nominee is gracious to the other side. Watch it now, before the concept goes extinct. Arnold Vinick steps up with the clock running (\"We're going to run…"
 ---
 
 *Published Thursday, October 22, 2026 at 07:38 AM PT*
