@@ -54,6 +54,10 @@ The more concrete material is about the afterlife of the grave. The video says M
 
 Nobody in the transcript is rooting for the ending to be tidy, and that's the right instinct. The video's own summary of the story is "uglier, sadder, and more human." I'll agree with that framing and stay out of the forensics.
 
+<!-- satire-image -->
+![Three music sources, one Dead Doors singer, and a Molam set so good the amp needed a nap.](/images/satire/2026-10-21-music-and-friends-three-sources-one-dead-doors-singer-and-a-.webp)
+*Three music sources, one Dead Doors singer, and a Molam set so good the amp needed a nap.*
+
 ## The Club World's Hangover: DJ Vlad and a Very Different Kind of Business Story
 
 DJ Vlad is a hip-hop media channel, so I'm filing this under the industry-adjacent heading. It posted "Medellin Cartel Co-Founder Carlos Lehder on Meeting Boston George in Prison (Part 1)". It's a long talk about drug smuggling, not music. I'm not covering it as a music story, and I'm not going to romanticize it.

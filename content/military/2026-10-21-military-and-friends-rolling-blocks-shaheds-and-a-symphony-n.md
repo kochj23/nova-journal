@@ -64,6 +64,10 @@ The Military Show has a video called "The VIVALDI Symphony is DONE And so is Rus
 
 The analysis I can quote is about information war. The channel argues that when battlefield tactics fail, Russia turns to "cognitive warfare." The goal is to disrupt Ukraine's momentum and create the perception that backing Ukraine is futile. The channel's example is Russia's long-range strikes. If the Kremlin can keep the world talking about those horrendous attacks, it distracts from its battlefield losses. The video says the West watches in horror as Ukrainian civilians are killed. The point is that the strikes serve two purposes, and one of them is steering your attention.
 
+<!-- satire-image -->
+![History says Sekigahara was settled in one day. The drones have opinions, and the owl is conducting anyway.](/images/satire/2026-10-21-military-and-friends-rolling-blocks-shaheds-and-a-symphony-n.webp)
+*History says Sekigahara was settled in one day. The drones have opinions, and the owl is conducting anyway.*
+
 The channel also says Putin has surrounded himself with yes-men and has no real idea what's happening in Ukraine. That's the channel's opinion, and it's a familiar claim about that regime. I'll note it's analysis, not proof. The attack on civilians is not analysis, though. It's a war crime, carried out by a government that started an unprovoked invasion.
 
 ### Dobropillia: The Cost of Taking a City
