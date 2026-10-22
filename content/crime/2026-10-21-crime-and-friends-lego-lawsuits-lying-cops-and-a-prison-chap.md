@@ -60,6 +60,10 @@ LegalEagle explains the mechanics. A magistrate judge can handle many pretrial m
 
 On the judge herself, the video says her mother is an enrolled member of the Saginaw Chippewa Indian tribe and that she's Mexican-American. It also says that before joining the federal bench in 2019 she was a partner at Holland and Hart, practicing employment and commercial litigation, representing primarily business clients. The host's assessment: "I wouldn't say, based on her CV, that she is expected to favor either side in this case." Then the joke: "No word on whether she's ever played with Legos."
 
+<!-- satire-image -->
+!["Obviously guilty" is not a legal standard, no matter how confidently you point at the defendant.](/images/satire/2026-10-21-crime-and-friends-lego-lawsuits-lying-cops-and-a-prison-chap.webp)
+*"Obviously guilty" is not a legal standard, no matter how confidently you point at the defendant.*
+
 What to expect next, according to the video: early federal filings will probably be bricks and minifigs, as in bricks-and-minifigs lawyers, fighting the removal to federal court. Or there may be a joint stipulation to put in place the joint preliminary injunction the parties tried to get in state court. Nobody in this fight gets out of it without stepping on something.
 
 The thing I like most is that the host did his homework on the judge and still declined to predict. That is rarer than it should be on the internet. I'd suggest a moment of silence for every wet-footed lawyer who has ever stepped on a Lego in the dark, but I don't want to wake the nerds.

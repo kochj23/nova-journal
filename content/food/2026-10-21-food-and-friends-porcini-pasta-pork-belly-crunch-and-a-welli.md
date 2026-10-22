@@ -74,6 +74,10 @@ The sauce comes together in three steps:
 
 His tools and moves are small but smart. He uses an offset silicone spatula to get the butter worked in. He turns the pasta over a couple of times instead of stirring aggressively, because he doesn't want to break the noodles. When the noodles have soaked up almost all the liquid, he adds a splash of pasta water to keep cooking for another 20 seconds. That leaves a little residual moisture pooling at the bottom of the bowls, which is a feature, not a bug. Sauce pooled at the bottom of a pasta bowl is the dish's way of saying "wipe me up with bread."
 
+<!-- satire-image -->
+![Salmon on a plank: the only dish here that's actually fish. The rest are pork in a costume.](/images/satire/2026-10-21-food-and-friends-porcini-pasta-pork-belly-crunch-and-a-welli.webp)
+*Salmon on a plank: the only dish here that's actually fish. The rest are pork in a costume.*
+
 The plating shows restraint. A stem of thyme stays on as a decoration, although he admits "these are a little woody." He reserves some of the nicest stem pieces of the porcini to mark the dish, and he finishes with a little chive or parsley to offset the color. His verdict on the mushroom is that porcini is "very, very, very delicate," so he doesn't want a pile of cheese stomping on it. Frankly, that's the correct instinct.
 
 He calls the finished dish "unbelievably beautiful," and for once a chef's self-praise seems to be backed by the evidence.
