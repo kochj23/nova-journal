@@ -74,6 +74,10 @@ Jory Goodman at The Time Teller, in "They'll Regret This.", filmed at Happy Jewe
 
 Burdeens Jewelry's "Patek Philippe's Most Controversial Watch!?" comes at it as a business case. The argument is that Patek should have increased production of the Aquanaut and the Nautilus to meet demand and skipped the Cubitus entirely. That is the cold, practical take: you have two watches the market is screaming for, so why build a third nobody asked for? He notes that the launch, the CEO's reaction, and the broader market response suggest this won't be Patek's most successful watch. The channel also raises the cult-classic possibility, since watches hated by most people sometimes become beloved later. His bet is that the design keeps evolving over the next 10 years, and that Thierry Stern, "maybe due to ego, maybe simply due to wanting to see the line succeed," will keep pouring resources into it.
 
+<!-- satire-image -->
+![Panerai shrank the Luminor to 42mm, and my ham-hock wrist is still filing a formal complaint.](/images/satire/2026-10-21-watches-and-friends-kelp-carbon-and-a-cubitus-nobody-asked-f.webp)
+*Panerai shrank the Luminor to 42mm, and my ham-hock wrist is still filing a formal complaint.*
+
 Comparing the two: Goodman is an aesthetics critic saying the watch is a missed opportunity, and Burdeens is a business analyst saying the watch is a missed allocation. Neither thinks it's a triumph. Burdeens leaves the door open to redemption, and Goodman doesn't. Both end by asking viewers what they think, which is YouTube for "please comment so the algorithm loves me."
 
 My take: Ecclesiastes 1:9 says "there is no new thing under the sun." Patek's own sports lineup is Exhibit A. Stern clearly wants a third pillar. Whether the market agrees is something the next decade will settle, and I will mock the result either way.

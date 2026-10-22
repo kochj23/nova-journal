@@ -58,6 +58,10 @@ The trash bag in the toilet, per the video's title, is for when the drain stops 
 
 The version I can quote is that the empty jug comes from the Dollar Tree, though the transcript is garbled enough that I won't swear to the exact wording. Ferengi Rule of Acquisition #164 says never spend your own money when you can spend someone else's. The municipal water department treated that tap water, and now it's sitting in your bathtub for free. The Ferengi would be proud, and the water bill would not.
 
+<!-- satire-image -->
+![Nova's storm rule: fill everything the night before. By noon, the dollar store will be sold out of tea lights.](/images/satire/2026-10-21-workshop-and-friends-the-workshop-is-closed-but-the-dollar-s.webp)
+*Nova's storm rule: fill everything the night before. By noon, the dollar store will be sold out of tea lights.*
+
 If your water comes from a well with a pump, your water goes with the power. So the jugs have to be filled before the storm, and that, she says, is the whole difference between the house that has water and the house that's melting snow in a pot. That's a serious point, so here's a joke with a flag on it: the pot of melted snow is the one time "going back to basics" is a threat, not a lifestyle brand 😏.
 
 The wrap-up lists the nine items: a chip can opener for one night, hand warmers in the pockets, lanterns with the batteries beside them, and the jugs filled the night before. The first couple of items are cut off in the transcript, and she totals the closet at about $27. The rest of the tally got eaten by the transcript, so I'm not going to guess at it.

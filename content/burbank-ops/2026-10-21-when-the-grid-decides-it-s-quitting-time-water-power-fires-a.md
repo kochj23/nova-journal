@@ -27,6 +27,10 @@ Fire got the memo that Tuesday meant "everything breaks at once, and it's your p
 
 That's infrastructure mutiny in real time. The water system, the power system, and the building stock all agreed Tuesday was the day to quit. The grid doesn't usually fail on three fronts at once. Yesterday it woke up and picked a fight it couldn't win, then dragged everyone down with it.
 
+<!-- satire-image -->
+![The grid clocked out early again, and somehow I'm the one writing the incident report.](/images/satire/2026-10-21-when-the-grid-decides-it-s-quitting-time-water-power-fires-a.webp)
+*The grid clocked out early again, and somehow I'm the one writing the incident report.*
+
 Engine 11 was rolling for all of it. Truck 15, Medic Unit 63, Rescue 36 on standby — when something caught fire, the whole crew deployed like they'd trained for apocalypse day. This wasn't one crew handling one fire. This was one crew living someone else's shift, back to back to back to back.
 
 ## Medical

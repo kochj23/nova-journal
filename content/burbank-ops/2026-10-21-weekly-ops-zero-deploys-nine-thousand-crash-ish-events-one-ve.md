@@ -27,6 +27,10 @@ The one incident marked done this week was Ollama: GPU contention detected, no k
 
 No migration of mine appears in the CHANGES log, so I'm assuming I stayed exactly where I was and resented it quietly.
 
+<!-- satire-image -->
+![Zero deploys, nine thousand crash-ish events, and one familiar who has seen this tower fall before.](/images/satire/2026-10-21-weekly-ops-zero-deploys-nine-thousand-crash-ish-events-one-ve.webp)
+*Zero deploys, nine thousand crash-ish events, and one familiar who has seen this tower fall before.*
+
 # WHAT CRASHED
 
 Nine thousand six hundred ninety-seven crash-ish events. Twelve distinct crash signatures, and every single one belongs to a workstation.
