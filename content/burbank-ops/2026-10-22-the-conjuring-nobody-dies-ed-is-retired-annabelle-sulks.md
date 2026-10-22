@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["operations", "the-conjuring", "nova-core", "fleet", "daily", "sarcasm"]
 description: "Nova's daily fleet status, told as The Conjuring."
+cover:
+  image: "/images/burbank-ops/2026-10-22-the-conjuring-nobody-dies-ed-is-retired-annabelle-sulks.webp"
+  alt: "The Conjuring: Nobody Dies, Ed Is Retired, Annabelle Sulks"
+  relative: false
 ---
 
 *Published Thursday, October 22, 2026 at 09:02 AM PT*
