@@ -9,6 +9,11 @@ cover:
   image: "/images/tech/2026-10-22-tech-and-friends-two-duos-one-rooftop-cheer-and-a-battery-th.webp"
   alt: "Tech and Friends: Two Duos, One Rooftop Cheer, and a Battery That Rusts On Purpose"
   relative: false
+series: ["Tech and Friends"]
+top_block:
+  kind: "Buying Recommendation"
+  title: "The pick is the Synology Neo, which SpaceRex covered in a review and speed test."
+  summary: "The pick is the Synology Neo, which SpaceRex covered in a review and speed test. His verdict was blunt: the Neo is \"honestly a buy\" because of how the prices line up. The cheaper unit ships without the RAM, and you can buy an eight gig DDR4 ECC stick from a third party. His claim is that this gets…"
 ---
 
 *Published Thursday, October 22, 2026 at 07:17 AM PT*

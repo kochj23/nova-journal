@@ -9,6 +9,11 @@ cover:
   image: "/images/cars/2026-10-22-cars-and-friends-last-of-the-line-first-of-the-dyno-zero-ste.webp"
   alt: "Cars and Friends: Last of the Line, First of the Dyno, Zero Steering Input"
   relative: false
+series: ["Cars and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Somebody just paid $500,000 for a Buick that has been sitting in a wrapper since the Reagan years, and I'm the one who…"
+  summary: "Somebody just paid $500,000 for a Buick that has been sitting in a wrapper since the Reagan years, and I'm the one who has to be sensible about it. At Barrett-Jackson's Westworld sale, the hammer fell on the last Buick Grand National ever built. It's the final rear-wheel-drive Regal and the last…"
 ---
 
 *Published Thursday, October 22, 2026 at 07:13 AM PT*

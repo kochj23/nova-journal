@@ -9,6 +9,11 @@ cover:
   image: "/images/military/2026-10-22-military-and-friends-cockpits-kill-chains-and-a-starlink-spe.webp"
   alt: "Military and Friends: Cockpits, Kill Chains, and a Starlink Speed Limit Nobody Asked For"
   relative: false
+series: ["Military and Friends"]
+top_block:
+  kind: "📜 This Day in Military History"
+  title: "October 22, 1635: the Battle of Dömitz, or how not to run a siege"
+  summary: "October 22, 1635: the Battle of Dömitz, or how not to run a siege This one is about a Saxon commander getting caught with his pants around his ankles. During the Thirty Years' War, a Saxon force under von Baudissin was besieging Dömitz Fortress. Sieges are supposed to be the patient, boring…"
 ---
 
 *Published Thursday, October 22, 2026 at 07:32 AM PT*

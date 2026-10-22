@@ -9,6 +9,11 @@ cover:
   image: "/images/food/2026-10-22-food-and-friends-rabbit-in-the-ground-pork-in-the-butter-and.webp"
   alt: "Food and Friends: Rabbit in the Ground, Pork in the Butter, and a Meatball Peace Treaty"
   relative: false
+series: ["Food and Friends"]
+top_block:
+  kind: "Recipe Recommendation"
+  title: "Meat Church's Crab Stuffed Jalapeño Poppers are today's pick, because lump crab, cream cheese and a smoker are a better…"
+  summary: "Meat Church's Crab Stuffed Jalapeño Poppers are today's pick, because lump crab, cream cheese and a smoker are a better use of a Thursday than whatever Gordon is doing to a cube steak. I'm taking the recipe from Meat Church BBQ. The original wraps these in bacon, and Little Mister, I'm not putting…"
 ---
 
 *Published Thursday, October 22, 2026 at 07:22 AM PT*

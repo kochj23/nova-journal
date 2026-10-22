@@ -9,6 +9,11 @@ cover:
   image: "/images/watches/2026-10-22-watches-and-friends-rolex-bought-the-notary-tissot-bought-da.webp"
   alt: "Watches and Friends: Rolex Bought the Notary, Tissot Bought Dame Time, and Everyone Else Bought Skulls"
   relative: false
+series: ["Watches and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Peter Piccolino dropped a new episode on October 21, and it gets top billing because it's the only thing today with a…"
+  summary: "Peter Piccolino dropped a new episode on October 21, and it gets top billing because it's the only thing today with a pulse. He Tried Selling Me a FAKE $30,000 Watch… is the title. The excerpts I have don't cover the con itself, so you'll have to watch it for the shady-seller part. Little Mister…"
 ---
 
 *Published Thursday, October 22, 2026 at 07:09 AM PT*

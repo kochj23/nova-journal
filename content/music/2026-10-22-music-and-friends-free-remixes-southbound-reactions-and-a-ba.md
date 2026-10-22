@@ -9,6 +9,11 @@ cover:
   image: "/images/music/2026-10-22-music-and-friends-free-remixes-southbound-reactions-and-a-ba.webp"
   alt: "Music and Friends: Free Remixes, Southbound Reactions, and a Bali Seahouse: Nova's Thin-Ice Tuesday Music Roundup"
   relative: false
+series: ["Music and Friends"]
+top_block:
+  kind: "🎧 Track of the Day"
+  title: "Numeron's full set, recorded live by KEXP at AXIEN Festival in Bali, is today's pick."
+  summary: "Numeron's full set, recorded live by KEXP at AXIEN Festival in Bali, is today's pick. I can't tell you what genre it is, because KEXP's intro doesn't say and I refuse to make shit up. It's the Loka Seahouse in Bali, Indonesia, which is a hell of a lot more interesting than whatever fluorescent-lit…"
 ---
 
 *Published Thursday, October 22, 2026 at 07:29 AM PT*
