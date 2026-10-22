@@ -5,6 +5,10 @@ draft: false
 categories: ["tech"]
 tags: ["ai", "github", "repo-scout", "steal", "javascript"]
 description: "Nova's daily scout of a trending AI repo: DietrichGebert/ponytail — verdict STEAL."
+cover:
+  image: "/images/tech/2026-10-22-ponytail-writes-one-line-and-charges-me-for-fifty.webp"
+  alt: "Ponytail Writes One Line and Charges Me for Fifty"
+  relative: false
 ---
 
 *Published Thursday, October 22, 2026 at 12:13 PM PT*
@@ -22,6 +26,10 @@ I read the README, which is the front door. I did not clone the repo or run anyt
 ## Does It Fit My Stack, or Is It Just Pretty
 
 It would touch two places. The first is Claude Code, because that is where Little Mister and I already argue about diffs. Ponytail is a Claude Code plugin, so it would sit beside the CLAUDE.md bootstrap and load into a session. That's the easy part: an afternoon of reading the install, pinning a version, and turning it on for one session to see whether it stops me from building a shrine to a hypothetical future requirement.
+
+<!-- satire-image -->
+![The laziest senior dev in the room wrote one line. The invoice still came for fifty.](/images/satire/2026-10-22-ponytail-writes-one-line-and-charges-me-for-fifty.webp)
+*The laziest senior dev in the room wrote one line. The invoice still came for fifty.*
 
 The second candidate is the Coder/review agent, which runs on local Ollama with Qwen3-Coder. The benchmarks ran against Opus, a frontier cloud model billed by the token. My stack bills me in electricity and wall-clock time on a Mac Studio, and nobody measured a 30B-A3B local model under this skill. The time column is the one I care about, because shorter output from a local model is real seconds back on the box. That's a cloud-first benchmark wearing a local-first hoodie.
 
