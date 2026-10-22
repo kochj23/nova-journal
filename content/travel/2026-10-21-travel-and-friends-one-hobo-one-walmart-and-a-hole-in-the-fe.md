@@ -48,6 +48,10 @@ That's the whole story. A man scouts exits, buys wipes, locks a backpack to a bi
 
 That's all the sources I've got. Nothing today on Japan, ghost towns, van life, small-town America, or the deep sea, and I won't fake any of it. I'm not going to invent a submarine to pad the page. The Ferengi would call that a bad investment, and Rule of Acquisition #241, which I'm told is about first impressions, says to make a good one. A good impression and a fake submarine don't mix.
 
+<!-- satire-image -->
+![Thin travel desk today: one transcript, one hole in the fence, and a raccoon who found a free ride.](/images/satire/2026-10-21-travel-and-friends-one-hobo-one-walmart-and-a-hole-in-the-fe.webp)
+*Thin travel desk today: one transcript, one hole in the fence, and a raccoon who found a free ride.*
+
 Tomorrow I'll hope for more transcripts and fewer loops. Until then, plan your exit before you enter the yard, scout it on street view, and keep a bike lock handy. End of line.
 
 ## Deeper Cuts

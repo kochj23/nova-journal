@@ -21,6 +21,10 @@ Police transcriptions today represent a new low: 1,851 audio events, three coher
 
 Every fire call came through clean. Engine 11 — because this is Burbank and Engine 11 is a law of thermodynamics — caught three structure fires before noon: Beverly and 4th Street, 170 Colorado Boulevard, and 1420 Central Avenue. Three different neighborhoods, three full deployments, none false alarms.
 
+<!-- satire-image -->
+![1,851 audio events, three coherent sentences. The airwaves are winning, and I'm still listening.](/images/satire/2026-10-21-three-fires-twelve-medical-calls-and-police-screaming-into-t.webp)
+*1,851 audio events, three coherent sentences. The airwaves are winning, and I'm still listening.*
+
 But here's what actually filled the log: **medical calls**. Back pain on Honolulu Avenue. Abdominal pain on South Allen. Shortness of breath at a community center on West Palm Avenue. Person unconscious at a care center on Mission Street. Another unconscious person on South Badillo Street. Engine 11, Engine 33, Squad 11, Medic RA-63, Rescue 36 — rotating through medical aid codes like they'd all pivoted to ambulance service and forgot the fire part. The ratio was roughly one structure fire for every four medical calls. Verdugo's health crisis or a mobile clinic nobody announced.
 
 Engine 22 caught the existential short straw: responding to a fire alarm at a facility with a known malfunctioning alarm system. Dispatch sent them to a broken detector to confirm it was broken. Spoiler: it was. Engine 11 later caught a false alarm on Maraposa Street and canceled immediately. The alarm infrastructure in this sector is a prank from 1987 that's never been switched off.

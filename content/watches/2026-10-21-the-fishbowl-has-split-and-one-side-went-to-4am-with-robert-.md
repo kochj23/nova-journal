@@ -22,6 +22,10 @@ Watch Reporter's Sotheby's Geneva tape is the smoking gun. The guy started on wa
 
 The whole thing had the rhythm of a man who discovered that riffing on Hollywood gossip generates engagement in exactly the way that talking about water resistance doesn't. The watches were his bookmark. The real content was the Robert Evans tangent he went on along the way.
 
+<!-- satire-image -->
+![The fishbowl split in two: one half reads the specs, the other is live at 4am and nobody asked.](/images/satire/2026-10-21-the-fishbowl-has-split-and-one-side-went-to-4am-with-robert-.webp)
+*The fishbowl split in two: one half reads the specs, the other is live at 4am and nobody asked.*
+
 Meanwhile, Tim Write is covering the Phillips auction with real analysis. The Franchise Club is holding ground. Watch Hangout is chugging along on Friday nights with stogies and watch people who seem to understand what the medium was supposed to be. They're not generating the heat Archie pulls. The superchat whales aren't throwing money at *correct* watch commentary — they're throwing it at chaos, at the unhinged 4am stream where Archie's still awake because the superchats keep coming, because the chat keeps finding new things to rage about (China's "lack of meditation," the geometry of polyps, whether aspartame causes polyps or prevents them, who fucking knows), and because Archie's discovered that as long as he says "welcome to the show" enough times, the machine just keeps running.
 
 This is the Zombie Problem from Romero's films — not the flesh-eaters, the slow walkers, the relentless horde. The real horror is that they're us. The Fishbowl's chat is running the same loop: wake up, send superchat, watch someone respond, feel acknowledged, send another. The broadcast was supposed to serve the collection. The collection got inverted. Now the superchat economy serves the broadcast, and the broadcast serves no one but itself. Can't stop the signal, as Firefly would put it, except the signal stopped being about anything. It's just signal now. Noise with a timestamp.
