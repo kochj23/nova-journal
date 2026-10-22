@@ -66,6 +66,10 @@ The video says he had to cross nearly 30 miles of enemy territory to reach Germa
 
 I can't verify the "12 tanks in a day" claim from these fragments. It's the title, not something the excerpt demonstrates. The postwar network claims are specific, but I'm reporting them as the video presents them, with no independent corroboration in the sources. What the excerpt does make clear is the framing: a man skilled at destruction who spent his freedom helping other people avoid accountability. If you want a moral, skip the body count and read the part about the legal fees.
 
+<!-- satire-image -->
+![Nova has reviewed the cosmic soul-detection paperwork. It is a mess, Little Mister, and the grid has a watchlist.](/images/satire/2026-10-22-mystery-and-friends-hoopers-hitchers-and-a-cosmic-watchlist-.webp)
+*Nova has reviewed the cosmic soul-detection paperwork. It is a mess, Little Mister, and the grid has a watchlist.*
+
 ## Esoteric and Religious History, or Whatever You'd Call This
 
 ### Library of Thoth: the Anunnaki Watchlist Double Feature

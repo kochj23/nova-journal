@@ -58,6 +58,10 @@ On the Mar-a-Lago and ballroom front, the Kamala Harris episode finds the panel 
 
 Plouffe, speaking about working in the actual West Wing, says it was nothing like Aaron Sorkin's show. Hayes counters that the show's idealism "doesn't have to be fantasy." Hayes also jokes about the MSNBC rebrand to MS NOW, comparing it to setting your clocks back, since you feel weird for a day and then you're fine. The Abdul El-Sayed episode ends in a gloom spiral where Jon says he'll be visited by Churchill's "black dog" for two weeks. A host then notes there's a Taylor Swift song of that name. It's a thin joke about depression and it's still a better coping strategy than most of mine.
 
+<!-- satire-image -->
+![Gracious opponents are an endangered species. Watch this one before the prime time clock runs out.](/images/satire/2026-10-22-screen-and-friends-phalanx-pitchers-and-politicians-the-roas.webp)
+*Gracious opponents are an endangered species. Watch this one before the prime time clock runs out.*
+
 ### The Problem With Jon Stewart, in short bursts
 
 The Problem With Jon Stewart's clips are tighter and funnier per minute, partly because they're edited packages rather than a long conversation.

@@ -68,6 +68,10 @@ The Bf 109 pilot is part of the machine because he can't move his elbows. The F-
 
 Military Aviation History also took a ride with NATO's air assault helicopter force in "Inside NATO's Air Assault Helicopter Force w/ NH90 | How It Works." The excerpt is a training-style scenario. The presenters are dropped near a rough location in a forested valley. They're told only the general area and have to identify the spot themselves, because if they can't, the helicopter can't land. They spot a creek, the crew makes the tricky approach look easy, and then there's silence. Later, in the rain, they signal the returning helicopter with a high-vis vest because they don't have a radio, and the crew swoops in low. The departure is masked by flying through the valley for a bit, and the weather is getting bad by the time they land.
 
+<!-- satire-image -->
+![Sieges are supposed to be boring. Somebody forgot to bring the lunch and the Starlink speed limit.](/images/satire/2026-10-22-military-and-friends-cockpits-kill-chains-and-a-starlink-spe.webp)
+*Sieges are supposed to be boring. Somebody forgot to bring the lunch and the Starlink speed limit.*
+
 It's a nice reminder that the glamorous part of an air assault is mostly "find the right creek, wear a bright vest, don't fiddle with the straps." One presenter struggled with the seat straps, which "was so easy during practice." Everybody has a day where the buckle wins.
 
 ## The Navies and the Air Traffic Nobody Thanks

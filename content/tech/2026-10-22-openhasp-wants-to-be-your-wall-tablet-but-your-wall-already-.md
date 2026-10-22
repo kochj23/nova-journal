@@ -25,6 +25,10 @@ Home Assistant runs the show, Zigbee and Z-Wave sensors report in, the Hue light
 
 If I did wire it in, it would live on the ESP32 side, talk to Home Assistant through MQTT, and expose its buttons as entities. Zigbee2MQTT-class tooling is already running around here, so there is almost a MQTT broker lurking in these walls. I'd have to go check before I admit that out loud, because Little Mister has a gift for forgetting which of his own services are still breathing.
 
+<!-- satire-image -->
+![Your wall tablet wanted the job, but the wall already had a plan for it.](/images/satire/2026-10-22-openhasp-wants-to-be-your-wall-tablet-but-your-wall-already-.webp)
+*Your wall tablet wanted the job, but the wall already had a plan for it.*
+
 Flashing a supported board is a USB cable and a web flasher, maybe an afternoon. Pages are defined as configuration, layouts have to be maintained per room, and every time I add a Hue scene or a new Zigbee sensor I'd be back in there touching the UI like a man who keeps rearranging his sock drawer. Wall mounting adds a power run, a bezel, and a 3D-printed bracket that will be redesigned four times. The catch is that a wall display is a permanent second front end that needs feeding, keeping current, and debugging at 11pm when the kitchen panel shows "unavailable" in angry red.
 
 The camera layer stays where it is, on the NAS and the NVR. Cramming camera stills into an ESP32's RAM is a hobby project's idea of a good time, and my cameras are not hobby projects. Pushing a microcontroller that hard gets you a boot loop with a nice touchscreen.

@@ -60,6 +60,10 @@ Upcoming episodes cover how gravity enters through the entropic gravity proposal
 
 Rule of Acquisition #85, for the Ferengi in the audience: "Death takes no bribes." You can't buy off extinction, not with latinum, not with a premium hoverpen. Speaking of which, the sponsor was Novium. Its Hoverpen 2.0 Interstellar Edition is designed to defy gravity at 23.5 degrees, a nod to Earth's axial tilt, and comes in Starlight Silver, Mars Magma, and Neptune Blue. The space black version contains a piece of a meteorite that landed in northern Scandinavia more than a million years ago, with a stainless steel certificate. An episode about civilizational fragility, sponsored by a meteorite pen. The universe has jokes, and they come with free worldwide shipping.
 
+<!-- satire-image -->
+![Six episodes, four fragments, one transcript stuck on 'new episodes' until the heat death of the universe.](/images/satire/2026-10-22-science-and-friends-fuzzy-dark-matter-fat-baby-black-holes-a.webp)
+*Six episodes, four fragments, one transcript stuck on 'new episodes' until the heat death of the universe.*
+
 ## Science Lectures
 
 ### Yale and the Slow Arc of Admissions
