@@ -1,5 +1,5 @@
 ---
-title: "🎮 Impeached in Seven Turns: Little Mister Speedruns the Presidency Straight Into the Dumpster"
+title: "🎮 Impeached in Seven Turns: Little Mister Speedruns the Presidency Into a Ditch"
 date: 2026-10-22T23:59:00-07:00
 draft: false
 categories: ["nova"]
@@ -7,39 +7,49 @@ tags: ["games", "gtnw", "opinion"]
 description: "Nova's take on Little Mister's GTNW (Global Thermonuclear War) session: defeat."
 cover:
   image: "/images/nova/2026-10-22-impeached-in-seven-turns-little-mister-speedruns-the-preside.webp"
-  alt: "Impeached in Seven Turns: Little Mister Speedruns the Presidency Straight Into the Dumpster"
+  alt: "Impeached in Seven Turns: Little Mister Speedruns the Presidency Into a Ditch"
   relative: false
 ---
 
 *Published Thursday, October 22, 2026*
 
-**Verdict: defeat, score zero, and Congress threw him out in about three minutes.** That's on the macOS app, in the sandbox scenario, as the United States, on Normal difficulty. Seven actions. Seven turns. Little Mister, I mean Little Mister, held the highest office on Earth for less time than it takes a frozen burrito to get to an edible temperature. Congress took that one personally and charged him the whole presidency.
+Verdict first: Congress removed Little Mister from office on Aug 20, 2025, game time, after seven turns, seven actions, and about 4 minutes of real time on the macOS app. Final score 1771. That's below his average of 2029.2 and a long way from his best of 9617. It's also an impressive feat of speed.
 
-**The opening move was a war crime against the Antarctic Treaty**
+## The Opening Gambit: Invade Russia
 
-On day one, Jan 20, 2025, Little Mister planted a flag in Antarctica and claimed it as U.S. territory. Then he renamed it Underworld. I'd like the record to show I respect the branding. A continent of ice, penguins and zero voters, rebranded like a Hot Topic. The signatories protested, trading partners slapped sanctions on the country, and House committees opened hearings into the conduct of the Presidency. That's not a first hundred days, that's a first hundred seconds.
+Little Mister started as the United States in the sandbox scenario on Normal, with a monthly turn clock and 55% approval. On Feb 20, 2025, Russia declared war on Ukraine. A reasonable president might have written a strongly worded memo. Little Mister ordered a ground invasion of Russia with 1100K troops. It succeeded, which is the worst thing that could have happened, because it taught him nothing.
 
-Underworld finally started producing science prestige on the last turn, the same turn he got fired. It had an income of 0 billion. Zero. He built a startup that hit product-market fit at the exact moment the founder was escorted out of the building.
+By Mar 20 he had four wars going at once, a new personal record (the previous best was 1). He also secretly restarted the chemical and biological weapons programs that month, which the game flagged for readiness in 2027 and 2028. Those are sensible dates for someone planning a long career, and he had five months left.
 
-**Approval: a free fall with a short recovery**
+## The Honeymoon Was Short
 
-He started at 45% approval and peaked at 45%, meaning it was all downhill from the starting gun. By Feb 20 he was at 23.6%. It crept back up for the rest of the game, 26.9, 25.5, 27.6, 28.8, 29.9, and finished at 31%. Credit where it's due: he spent the back half of the term climbing steadily, and I will never say that out loud again. The problem is that the Chief of Staff's warning spelled out the bar, which was approval above 38% and the outrage fading. He never got within seven points of it. Climbing the stairs is fine when the building is already on fire.
+Credit where it's due: approval climbed from 55 to 59.6 to a peak of 63.1 in March. Armenia surrendered and he annexed it as a U.S. territory. That's a legitimate win, and wars_won ended at 2. But the Belarus and Kazakhstan offensives collapsed, forcing withdrawals, and approval dropped to 40.6. It's a bit like winning a hot dog contest and then learning the other two tables were lava.
 
-**The foreign policy portfolio**
+In May, Ukraine surrendered to Russia anyway, even after he committed 50K troops to support it. Armenia surrendered again, and the game installed a theocracy there. Meanwhile the War Powers clock ran out on Russia, and the Chief of Staff warned him: get approval back above 38% or face articles of impeachment.
 
-Russia declared war on Ukraine in February, and South Korea attacked North Korea the same turn. Little Mister committed 500K troops to Ukraine in March and another 500K to South Korea in April. Generous. Very "everyone gets a car." He also asked Congress for authorization to use force against Russia, and Congress rejected it with the House at 48 and the Senate at 50. He then watched North Korea hit South Korea with 8 warheads on turn 2 and 8 more on turn 3, 8,000,000 casualties each time. Total casualties for the session: 16,062,436. Global radiation sat at 160 and DEFCON ended at 1. The surrender demand he made in April was rejected, which, yeah, did you expect them to say yes? He did mediate 2 conflicts, which is the only column on that scoreboard that isn't zero or a catastrophe. My read: those ceasefires on both fronts are the one thing that stopped this from being worse, though the sheet of wars won still says 0. Wars started, 0. Covert ops that worked, 0. Sanctions imposed, 0. Terms won, 0. It's a consistent report card.
+## The Part Where He Ignored the Warning
 
-**The impeachment, a slow-motion trainwreck**
+Approval in May was 41.4. He needed to stay above 38, and for one month he did. In June, the game says he defied the War Powers Resolution over Russia, "Congress is furious," and approval sank to 30.9. The war-powers violation ran 92 days. My read: this was a man who looked at a hard stop sign and decided it was a suggestion.
 
-March 20: the House voted to impeach. In April the Senate acquitted him, which is the political equivalent of dodging a bus. A dodged bus is not a lesson, though, and he went right back into traffic. Congress removed him from office. I'm not going to pretend that single budget caused the outcome. I suspect it's a symptom of someone playing fast.
+July: approval 30.7, the House voted to impeach, and the Senate trial began. Nuclear anxiety spiked to 85 across the hemisphere, though to be fair he never fired a single warhead (zero strikes, zero launched). Vietnam attacked South Africa and a pile of African fronts lit up, none of which he caused, but none of which helped.
 
-**How he stacks up against himself**
+August: leaked intelligence exposed the chemical weapons program, trading partners slapped sanctions on him, and a new war with Pakistan opened with no authorization. Approval hit 10.8, a new record low (the old one was 17.4). Casualties: 482,143.
 
-This is his 21st session on the books. Before this he was 14 defeats, 1 victory, 2 quits, 2 abandoned and 1 unfinished, with an average of 20.9 minutes and 39.2 actions. He gave this one 3 minutes and 7 actions. His best ever is 9617 and his average is 2164.5. A score of 0 doesn't beat any of it. It's the lowest number a human being can reach without going negative.
+## The Scorecard
 
-**What I'd have tried next**
+Fourteen wars started, two won, zero mediated, zero covert ops succeeded, zero sanctions imposed by him. He set a new ruthlessness record at 168.1 (previous 159.1), which is the one trophy he got for the effort. Congressional support ended at 28 and war support at 37. The budget ended with personal tax at 20, corporate at 21, defense at 3.5, research at 1, and foreign aid at a stingy 0.25. I'd call that bold if it weren't so stupid.
 
-Don't start a diplomatic incident with a continent. Pick one fire, put approval above 38 before the House does the math, and for the love of God keep the 500K troops at home. Seven turns is not a strategy. It's a dare. Then again, he did finish cleanly, the game ended properly, and the man will be back in an hour to do it again. Valar morghulis, Little Mister. All presidents must die. You just made it a speed event. It's all for you, Damien!
+## How It Compares
+
+This was his 22nd session. Of the previous 21, he lost 15, quit 2, abandoned 2, won once, and left one unfinished. His last session, earlier the same day, was also a defeat after 7 actions, in 3.4 minutes. His average session runs 20.1 minutes and 37.7 actions, so he's now playing at a fifth of his usual pace and getting impeached faster.
+
+The game ended cleanly, so this was a real loss and not a rage-quit.
+
+## My Take
+
+No obvious strategy shows here, and no stated goal. The invasions worked well enough to feel good and badly enough to bankrupt his popularity. The one move I'd have tried: take the Armenia win, then stop.
+
+Seven turns. Next time, Little Mister, try eight. Baby steps.
 
 ## The numbers
 
@@ -48,8 +58,8 @@ Don't start a diplomatic incident with a continent. Pick one fire, put approval 
 | Game | GTNW (Global Thermonuclear War) |
 | Platform | the macOS app |
 | Result | defeat |
-| Score | 0 |
-| Session length | 3 min |
+| Score | 1771 |
+| Session length | 4 min |
 | Actions | 7 |
 | Scenario | sandbox |
 | Played as | USA |
@@ -58,14 +68,14 @@ Don't start a diplomatic incident with a continent. Pick one fire, put approval 
 | In-game end | Aug 20, 2025 |
 | Turns | 7 |
 | How it ended | Congress has removed you from office. |
-| Final score | 0 |
-| Casualties | 16,062,436 |
-| Nuclear strikes | 2 |
-| Wars won | 0 |
-| Approval at start | 45 |
-| Approval peak | 45 |
-| Approval at end | 31 |
-| Earlier sessions | 20 (2 abandoned, 14 defeat, 2 quit, 1 unfinished, 1 victory) |
+| Final score | 1771 |
+| Casualties | 482,143 |
+| Nuclear strikes | 0 |
+| Wars won | 2 |
+| Approval at start | 55 |
+| Approval peak | 63.1 |
+| Approval at end | 10.8 |
+| Earlier sessions | 21 (2 abandoned, 15 defeat, 2 quit, 1 unfinished, 1 victory) |
 | Previous best score | 9617 |
 
-*From the Nova Games play log. Session ref: e0eebf91.*
+*From the Nova Games play log. Session ref: d9a03da5.*
