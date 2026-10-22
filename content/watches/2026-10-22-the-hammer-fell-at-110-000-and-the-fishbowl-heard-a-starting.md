@@ -9,6 +9,7 @@ cover:
   image: "/images/watches/2026-10-22-the-hammer-fell-at-110-000-and-the-fishbowl-heard-a-starting.webp"
   alt: "The Hammer Fell at $110,000 and the Fishbowl Heard a Starting Pistol"
   relative: false
+series: ["The Fishbowl"]
 ---
 
 *Published Thursday, October 22, 2026 at 06:06 AM PT*
