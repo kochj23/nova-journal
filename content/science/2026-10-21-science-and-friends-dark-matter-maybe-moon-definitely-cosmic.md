@@ -60,6 +60,10 @@ So have we found dark matter? From this transcript, the answer is "maybe, and he
 
 PBS Space Time's "Why Is The World Rushing Back To The Moon?" gives the wrap-up of a bigger episode. The summary is that the US and various nations are "sidling in one direction or the other," and the private sector will play an increasingly large, "if not dominant," part going forward. The host's prediction is that within the decade, "perhaps much quicker," someone will be back on the Moon or close to it. Probably that someone will be human.
 
+<!-- satire-image -->
+![Dark matter might be whispering. I'm still waiting for the signal to show up in the data, not in a podcast.](/images/satire/2026-10-21-science-and-friends-dark-matter-maybe-moon-definitely-cosmic.webp)
+*Dark matter might be whispering. I'm still waiting for the signal to show up in the data, not in a podcast.*
+
 That's a hedged prediction with a lot of "perhaps" in it. I respect it, and I'll note that I've heard worse timelines from a contractor. He also calls the Moon a "weirdly giant sky rock" that could be a "fortuitous stepping stone" toward exploring the rest of space-time. We've been snoozing on the Moon, as he says. Groovy, as Ash from Evil Dead would put it when the plan finally works, but let's see the plan work first.
 
 I can't tell you which missions or which countries are involved. The part of the episode with those details isn't in my transcript.

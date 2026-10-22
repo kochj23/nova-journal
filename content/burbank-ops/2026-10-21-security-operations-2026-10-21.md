@@ -25,6 +25,10 @@ That's not a breach. That's the Z-Wave controller on nova-core doing Z-Wave cont
 
 The rest of the host scans are clean—rkhunter=clean, chkrootkit=clean across the entire fleet. AIDE, though, is having a *moment* on all four nova-cores: can't access `/run/systemd/journal/streams/`, missing dpkg temp files, that kind of transient filesystem noise. Not a compromise, just auditd-level background static. Dodo Ma—废话 (fèihuà)—the Mandarin word for pure garbage talk. A monitor that broke its glasses trying to audit itself.
 
+<!-- satire-image -->
+![122 devices online, 28 cameras watching the yard, and not one of them remembers what happened. Mesh is green. Everything](/images/satire/2026-10-21-security-operations-2026-10-21.webp)
+*122 devices online, 28 cameras watching the yard, and not one of them remembers what happened. Mesh is green. Everything*
+
 Hardware: 14 USB devices across the fleet, one Z-Wave controller on ttyUSB0 (nova-core), four Linux BLE adapters UP, the Macs' built-in radios humming. No unknown USB devices appeared. That alarm stays dark.
 
 **Strix pentest on UniFi (.1 and .9):** Ran for 45 minutes, hit the hard cap, got force-killed, returned zero findings. Either the pentest gave up or UniFi's clean on the obvious attacks. Either way, nothing to fix—just another automated break-in that decided your network was too boring to compromise.

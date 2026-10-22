@@ -62,6 +62,10 @@ MacRumors also says the first iPhone Duo unboxing has surfaced before the Octobe
 
 ShortCircuit's "New Tech, New Software - Apple Watch Series 12" has a complaint I fully endorse. The reviewer jumped from Series 4 to Series 10 and used it the same way. Now Apple killed the double-click app switcher in favor of a grid view, and he used it constantly to track time between sets. Spending flagship money to lose a feature you use is a special kind of insult.
 
+<!-- satire-image -->
+![Eight bad certs, one bent heatsink, and a zen garden that needs a timeout setting](/images/satire/2026-10-21-tech-and-friends-eight-bad-certs-one-bent-heatsink-and-a-zen.webp)
+*Eight bad certs, one bent heatsink, and a zen garden that needs a timeout setting*
+
 Also: Apple is hiring a 6G modem engineer, per MacRumors. 6G spectrum bands aren't established yet. Apple is planning for a standard that doesn't have a spec. Optimistic, or trust issues with Qualcomm. Both.
 
 9to5Mac also notes John Ternus's full interview has been published, with his involvement in design teams, and that Meta's Muse app hit 10 million US downloads in 40 days per Sensor Tower, the 12th app ever to do so.

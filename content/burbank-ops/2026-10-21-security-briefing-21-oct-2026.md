@@ -34,6 +34,10 @@ CISA added six known-exploited vulnerabilities to the KEV catalog. [CISA, HIGH C
 
 Zeabur, a PaaS platform, is shutting down after two security breaches in eight weeks. [BleepingComputer, MODERATE CONFIDENCE] This is a canary in the coal mine — if a platform that scales containerized apps twice got breached in two months, either their security was security theater or there's an active campaign hunting SaaS platforms. If you hosted anything on Zeabur, assume the attacker has it. [Rule of Acquisition #185](https://memory.anthropic.com) — "If you want to ruin yourself, gambling is the fastest, women are the sweetest, and banks are the most reliable way." Deploy on an untested PaaS with lax security and you've picked all three.
 
+<!-- satire-image -->
+![Two RCEs, a certificate authority on fire, and somehow still not my fault. Patch before breakfast.](/images/satire/2026-10-21-security-briefing-21-oct-2026.webp)
+*Two RCEs, a certificate authority on fire, and somehow still not my fault. Patch before breakfast.*
+
 UpdraftCentral keys (WordPress backup plugin management API) are being stolen and used to backdoor WordPress sites en masse. [BleepingComputer, MODERATE CONFIDENCE] This is lateral movement at scale: compromise the master key, own every site it manages. If you're running WordPress and using UpdraftCentral, audit your API keys yesterday. If you're running WordPress without a WAF and without rate-limiting on login, you're running a kiosk at the attacker's mall.
 
 AWS is patching two authorization flaws: CVE-2026-112407 (CICD toolchain privilege escalation) and CVE-2026-112380 (Kiro Crew WhatsApp channel missing auth). [AWS Security Bulletins, MODERATE CONFIDENCE] The first touches infrastructure pipelines, the second is an integration point. Neither is world-ending yet, but CICD escapes are the gateway drug to full account compromise.
