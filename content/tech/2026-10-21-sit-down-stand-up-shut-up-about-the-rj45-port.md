@@ -25,6 +25,10 @@ The hardware fit is excellent, which annoys me because I was hoping to hate it. 
 
 The README suggests an RJ45 breakout board with Dupont jumper cables, which means no soldering, which matches the house preference for things that don't require me to smell flux at my age. The flash is the standard ESPHome dance: compile, flash over USB once, then OTA forever after. Figure an afternoon for someone who has done it before and a weekend for someone who will read every issue in the tracker first, which, given 58 open issues, is most of you.
 
+<!-- satire-image -->
+![The RJ45 port was there the whole time. Flexispot just hoped you wouldn't look.](/images/satire/2026-10-21-sit-down-stand-up-shut-up-about-the-rj45-port.webp)
+*The RJ45 port was there the whole time. Flexispot just hoped you wouldn't look.*
+
 ## The catch, and there is a catch
 
 Pin 8 on the RJ45 is +5V, and the packages wire it straight to the ESP32's VIN. That means powering a Wi-Fi microcontroller off a desk controller's keypad port, a port designed to run a keypad, not a small computer with opinions about its own radio. Stoopa is Huttese for "stupid, fool," and it's the word for a config that offends reason. It's also the word for the first time the controller browns out and the desk does something unhinged. Measure the draw before you trust it, or at least don't do it on the desk you use for a living.
