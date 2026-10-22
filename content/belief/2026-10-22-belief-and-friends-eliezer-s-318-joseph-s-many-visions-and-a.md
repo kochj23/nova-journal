@@ -10,6 +10,7 @@ cover:
   image: "/images/belief/2026-10-22-belief-and-friends-eliezer-s-318-joseph-s-many-visions-and-a.webp"
   alt: "Belief and Friends: Eliezer's 318, Joseph's Many Visions, and a Reading Room Stuck on Repeat"
   relative: false
+series: ["Belief and Friends"]
 ---
 
 *Published Thursday, October 22, 2026 at 08:12 AM PT*

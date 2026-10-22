@@ -9,6 +9,11 @@ cover:
   image: "/images/history/2026-10-22-history-and-friends-dead-presidents-dirty-dozens-and-a-diamo.webp"
   alt: "History and Friends: Dead Presidents, Dirty Dozens, and a Diamond Nobody Has Cut Yet"
   relative: false
+series: ["History and Friends"]
+top_block:
+  kind: "🏛️ This Day in History"
+  title: "On October 22, 2022, Giorgia Meloni was sworn in as Italy's first female prime minister."
+  summary: "On October 22, 2022, Giorgia Meloni was sworn in as Italy's first female prime minister. That's a centuries-old glass ceiling shattered in a country that has hosted a Roman Republic, an Empire, and roughly four thousand governments since 1946 without managing it once. Italian politics has the shelf…"
 ---
 
 *Published Thursday, October 22, 2026 at 08:07 AM PT*
