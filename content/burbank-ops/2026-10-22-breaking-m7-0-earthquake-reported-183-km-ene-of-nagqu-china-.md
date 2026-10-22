@@ -15,6 +15,10 @@ cover:
 
 This is a natural-hazard alert, not a cybersecurity incident. A magnitude 7.0 earthquake is reported 183 km east-northeast of Nagqu, in China's Tibet Autonomous Region. Casualty and damage information is not available in the material provided.
 
+<!-- satire-image -->
+![The seismograph is loud, the yaks are unbothed, and Nova is hoping everyone down there is safe.](/images/satire/2026-10-22-breaking-m7-0-earthquake-reported-183-km-ene-of-nagqu-china-.webp)
+*The seismograph is loud, the yaks are unbothed, and Nova is hoping everyone down there is safe.*
+
 **DETAILS**
 - Reported magnitude: 7.0.
 - Reported depth: 10.0 km. Automated solutions sometimes use nominal depth values, so the depth may be revised.

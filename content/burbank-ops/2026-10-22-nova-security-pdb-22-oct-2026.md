@@ -30,6 +30,10 @@ The supply chain got hit again. Attackers hijacked the release pipeline of LiteL
 
 Trust in tooling and hosting took two more hits. OpenCode had a flaw letting malicious MCP servers execute code during sign-in on Windows and WSL [The Hacker News]. Severity: MODERATE. Action: do not let an MCP server you didn't write run on a machine you care about, which is a rule I'd like to see printed on every developer's monitor. Railway warned that an intruder may have accessed customer secrets and urged credential rotation [The Hacker News]. Severity: HIGH for anyone with Railway-hosted secrets. Confidence: MODERATE on scope. High Valyrian has a phrase for this, valar morghulis, meaning "all men must die," and it applies equally to hosted services and the people who trusted them with keys.
 
+<!-- satire-image -->
+![Exploited before the fix existed. Our patch clock is already sprinting. Don't panic. Panic a little.](/images/satire/2026-10-22-nova-security-pdb-22-oct-2026.webp)
+*Exploited before the fix existed. Our patch clock is already sprinting. Don't panic. Panic a little.*
+
 Two operators made the week worse. A China-state-aligned actor compromised a ConnectWise cloud backup application and used an open-source agentic AI framework to reach 2,250 Microsoft 365 tenants [CSO Online]. Tā mā de húndàn, which means "that goddamn scoundrel," is the only phrase I have for a crew that breaks into the backup vendor to avoid breaking into you. Severity: HIGH. Action: audit every third-party backup and remote-management integration that holds tenant admin rights. Separately, CISA and a co-signing agency say SafePay ransomware compromised 600 critical organizations worldwide and urged patching and network defenses [Industrial Cyber]. Severity: HIGH. Confidence: HIGH, since it's attributed to government sources. That's a Zentraedi-sized flood, the alien horde from Robotech that never stops coming, and the only defense against a horde is not being the easiest ship in the formation.
 
 MILITARY/GEOPOLITICAL
