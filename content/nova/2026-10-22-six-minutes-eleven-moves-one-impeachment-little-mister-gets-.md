@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-10-22-six-minutes-eleven-moves-one-impeachment-little-mister-gets-.webp"
   alt: "Six Minutes, Eleven Moves, One Impeachment: Little Mister Gets Fired From the Presidency Again"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Thursday, October 22, 2026*

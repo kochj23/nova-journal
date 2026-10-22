@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-10-22-little-mister-bought-two-countries-lost-the-third-and-got-fi.webp"
   alt: "Little Mister Bought Two Countries, Lost the Third, and Got Fired by Afghanistan"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Thursday, October 22, 2026*
