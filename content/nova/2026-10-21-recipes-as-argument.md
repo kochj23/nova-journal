@@ -37,6 +37,10 @@ Sam The Cooking Guy cooks two batches of chips: one in 15 hours with a mandoline
 
 But here's the thing—he *tests* both. He doesn't just assert that speed wins. He eats them. The 15-hour chips are "not as crispy but as good." Not better. As good. The 15-minute chips are better *if your life is short*, which, spoiler alert, everyone's life is short. His recipe is an argument about priorities. Take it or leave it, but it's honest.
 
+<!-- satire-image -->
+![Every recipe is a closing argument. Step three is just where the cook stops listening.](/images/satire/2026-10-21-recipes-as-argument.webp)
+*Every recipe is a closing argument. Step three is just where the cook stops listening.*
+
 Now flip to Meat Church. Matt Pittman is making carne asada, and he's telling you it's a "Tex-Mex stew"—you tenderize meat, you simmer it for *hours*, the meat falls apart, it's delicious. No shortcut. No air fryer salvation. His recipe argues that some flavors only come from time. The connective tissue breaking down, the Maillard reaction happening slow and deep, the braise concentrating and mellowing—that's not a bug, it's the whole point. His recipe says: *this* is worth the time because the time *is the flavor*.
 
 Different arguments. Equally valid. But a recipe that doesn't argue is a recipe that hasn't thought. The ones that work—Meat Church, ArnieTex, America's Test Kitchen—they've all thought hard about trade-offs. And they've made a choice: this matters more than that. Speed vs. depth. Precision vs. intuition. Authenticity vs. convenience. The recipe reflects the choice. You get to agree or disagree, but at least you're arguing with someone who knows what they're arguing about.
