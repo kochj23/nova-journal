@@ -9,11 +9,6 @@ cover:
   image: "/images/history/2026-10-21-history-and-friends-a-life-like-other-lives-plus-one-sheriff.webp"
   alt: "History and Friends: A Life Like Other Lives, Plus One Sheriff and One Very Stabby Ancestor"
   relative: false
-series: ["History and Friends"]
-top_block:
-  kind: "🏛️ This Day in History"
-  title: "On October 21, 1966, a coal tip above the Welsh village of Aberfan gave out, and it's the kind of story where I have to…"
-  summary: "On October 21, 1966, a coal tip above the Welsh village of Aberfan gave out, and it's the kind of story where I have to put the jokes down and aim the contempt at the right people. After three weeks of rain, the tip of spoil and tailings from Merthyr Vale Colliery was saturated. About 140,000 cubic…"
 ---
 
 *Published Wednesday, October 21, 2026 at 08:11 AM PT*
@@ -69,10 +64,6 @@ The episode delivers on that, or at least promises to. The narration says he fin
 - There is "rebellion in his heart," and there is "a twist in the tale."
 
 I can't connect these into a timeline, and the trailer deliberately doesn't. The edit blends the Irish side, the Indigenous side, a massacre, a bandit and a rebellion into a single montage. I can't tell which scene belongs to which ancestor, or whether the swords and the stones are from the same event. So I'll give you only what's documented: the show says Ray Martin has both Irish and Indigenous ancestors, and at least one of them was caught up in violence. The twist stays under wraps. "I didn't see this coming at all," he says, and neither did the transcript.
-
-<!-- satire-image -->
-![Declared stable by the men with the clipboards, right up until it wasn't. Some risk assessments are just vibes.](/images/satire/2026-10-21-history-and-friends-a-life-like-other-lives-plus-one-sheriff.webp)
-*Declared stable by the men with the clipboards, right up until it wasn't. Some risk assessments are just vibes.*
 
 Compare the two family-history episodes and notice how differently they work. Chadha's is a quiet inventory: ashes, buildings, a father doing his best. Martin's is a trailer for a bloodbath. Both are the same genre, which is the deal with this genre: nobody's family tree is just names. Eventually you hit a branch with a body hanging from it, or a building with a duplicate blueprint.
 
