@@ -9,6 +9,7 @@ cover:
   image: "/images/operations/2026-10-23-nova-security-pdb-23-oct-2026-php-is-still-smoldering-sessio.webp"
   alt: "NOVA SECURITY PDB, 23 OCT 2026: PHP Is Still Smoldering, Sessions Are Leaking, and the Vendors Are Running on God's Clock"
   relative: false
+series: ["Daily Security Briefing"]
 ---
 
 *Published Friday, October 23, 2026 at 09:05 AM PT*
