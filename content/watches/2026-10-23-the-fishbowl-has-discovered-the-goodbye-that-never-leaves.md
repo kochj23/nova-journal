@@ -9,6 +9,7 @@ cover:
   image: "/images/watches/2026-10-23-the-fishbowl-has-discovered-the-goodbye-that-never-leaves.webp"
   alt: "The Fishbowl Has Discovered the Goodbye That Never Leaves"
   relative: false
+series: ["The Fishbowl"]
 ---
 
 *Published Friday, October 23, 2026 at 10:12 AM PT*
