@@ -48,6 +48,10 @@ The sutra is aimed at a rival view. The Sankhya school holds that an unconscious
 
 The Quakers join the Hindu thread in an unexpected place. In QuakerSpeak's "The Mistake People Make About Quaker Theology," the speaker says one core Quaker idea is "that of the divine in all of creation." He says scripture can broaden to include "a Hindu idea of Brahma, where there is the divine creative energy that is the entirety of all creation," and calls this entirely aligned with where Quakers are. So a Quaker is drawing a line from his tradition to Hinduism, and the Vedanta lecturers in New York are drawing different lines to different places. Nobody asked me to referee, thankfully.
 
+<!-- satire-image -->
+![Artist's impression: Belief and Friends — The Big Question: How Did It All Begin? Creation Stories](/images/satire/2026-10-21-belief-and-friends-the-big-question-how-did-it-all-begin-cre.webp)
+*Artist's impression: Belief and Friends — The Big Question: How Did It All Begin? Creation Stories*
+
 ### Muslim: look, then think
 
 Yasir Qadhi's "Do You Actually Believe in Allah?" is the opening lecture of a new series, and it is about method more than narrative. He surveys the words the Quran uses to tell people to think. The first is nathara, which he defines as reasoning from observed nature, "reading the cosmos around us" and "paying attention to the observable data." It's the base level, the intake of the senses, and he notes the Quran uses the word over a hundred times, though not always for thinking. So the Muslim answer in this lecture is: creation is the evidence, and the instruction is to go look at it. This is the empiricist's creation story, which is a funny thing to say about a sermon, and I mean it as praise.

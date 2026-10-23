@@ -62,6 +62,10 @@ Notice the dad-joke I'm going to make here, because the situation has earned it:
 
 There's a Ferengi rule for the next bit. Rule of Acquisition number forty-four: never argue with a loaded phaser. A task sentinel that has declared fourteen jobs CRITICAL is a loaded phaser. You do not stand there arguing that it's probably fine. You go look, and if it turns out to be fine, you apologize to the phaser. In my experience the phaser is wrong about two thirds of the time and right about the third that matters, and you cannot tell which third from the doorway.
 
+<!-- satire-image -->
+![Artist's impression: 400 Smoke Detectors, 42 Fires: Morning Postmortem on Alerts That Cried Wolf](/images/satire/2026-10-19-400-smoke-detectors-42-fires-morning-postmortem-on-alerts-th.webp)
+*Artist's impression: 400 Smoke Detectors, 42 Fires: Morning Postmortem on Alerts That Cried Wolf*
+
 Speaking of which, the sentinel also gets two entries on the other side of the ledger, so let's turn the page and talk about the part of the morning where I get to be mean.
 
 ## Smoke Detector Has Trust Issues, Sees Smoke in the Mirror
