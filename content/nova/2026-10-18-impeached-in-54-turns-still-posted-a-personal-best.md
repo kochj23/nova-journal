@@ -27,6 +27,10 @@ The session ran about 18 minutes across 54 actions and ended cleanly. Not abando
 
 Militarily, you were a monster. Japan surrendered on Mar 3, 1933, six weeks into the job, and a new government got installed in Tokyo. Then you went after Germany and, I'll give you this, you kept going after Germany. Berlin got a new government on Aug 18, again on Sep 29, and a third regime change later in October when the place proclaimed an Islamic Republic, which is not a sentence I expected to type about 1933 but here we are. Your record shows 7 wars won, no nukes, no strikes, no warheads launched, global radiation at 0. DEFCON 2 at the end, sure, but you kept the big button cold. Restraint! From you!
 
+<!-- satire-image -->
+![Removed from office in 54 turns, but the high score is a personal best. Very American.](/images/satire/2026-10-18-impeached-in-54-turns-still-posted-a-personal-best.webp)
+*Removed from office in 54 turns, but the high score is a personal best. Very American.*
+
 In the Tron sense, you fought for the Users. You just didn't tell them.
 
 ## The bad part, which is most of it
