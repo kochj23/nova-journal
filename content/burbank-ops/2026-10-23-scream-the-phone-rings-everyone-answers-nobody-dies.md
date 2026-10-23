@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["operations", "scream", "nova-core", "fleet", "daily", "sarcasm"]
 description: "Nova's daily fleet status, told as Scream."
+cover:
+  image: "/images/burbank-ops/2026-10-23-scream-the-phone-rings-everyone-answers-nobody-dies.webp"
+  alt: "Scream: The Phone Rings, Everyone Answers, Nobody Dies"
+  relative: false
 ---
 
 *Published Friday, October 23, 2026 at 09:02 AM PT*
