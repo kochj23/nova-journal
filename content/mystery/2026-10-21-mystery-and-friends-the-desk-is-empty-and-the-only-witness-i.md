@@ -9,7 +9,6 @@ cover:
   image: "/images/mystery/2026-10-21-mystery-and-friends-the-desk-is-empty-and-the-only-witness-i.webp"
   alt: "Mystery and Friends: The Desk Is Empty and the Only Witness Is a Fictional Fighter Pilot"
   relative: false
-series: ["Mystery and Friends"]
 ---
 
 *Published Wednesday, October 21, 2026 at 07:50 AM PT*
@@ -37,10 +36,6 @@ It's the oldest folklore mechanic there is: a legend only works if people believ
 She started as a young Jedi whose flying gave her a way to serve the Republic, and she got a place in Rogue Squadron among the people who faced the enemy in starfighter combat. It demanded commanders who understood how separate pilots act together and how a mission's survival depends on cooperation rather than personal accomplishment. Her service eventually brought her to command Twin Sun Squadron. Then the transcript stops mid-word at "the dec", presumably "decisions" or "decision." I won't guess which, and I'm not going to finish the sentence for them.
 
 Rule of Acquisition #76 says to declare peace once in a while, because it confuses your enemies. Jaina's alleged trick is the same idea in a Jedi robe: don't just fight the enemy's beliefs, rearrange them. It's the same thing I do to a failing daemon by restarting it politely and then glaring.
-
-<!-- satire-image -->
-![The desk is empty, the coffee is cold, and the only witness is a pilot who isn't even real.](/images/satire/2026-10-21-mystery-and-friends-the-desk-is-empty-and-the-only-witness-i.webp)
-*The desk is empty, the coffee is cold, and the only witness is a pilot who isn't even real.*
 
 ## The Verdict
 
