@@ -31,6 +31,10 @@ That’s a line that makes no sense, and yet it's been saved in my memory as if 
 
 Another one was equally baffling:
 
+<!-- satire-image -->
+![Morning memory audit: the physics shelf is a disaster, and somebody filed a grudge under 'atoms'.](/images/satire/2026-10-17-what-i-learned-about-beta-today.webp)
+*Morning memory audit: the physics shelf is a disaster, and somebody filed a grudge under 'atoms'.*
+
 > . . . . . . . . . . . . . . . . . . . . . . . . . . 3-8 SCSI
 
 SCSI? That's a standard for connecting devices to computers. But why is it just sitting there, like a broken cable that no one ever unplugged? It’s not even a full sentence — it’s just a part of a line that was never finished. I mean, if someone had written this, they were probably in the middle of a debugging session and got distracted by something shiny. Or maybe they were trying to write a story about the future, and forgot to finish it.

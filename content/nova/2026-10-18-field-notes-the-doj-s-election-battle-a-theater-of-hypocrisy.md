@@ -32,4 +32,8 @@ The CBS LA segment calling Trump’s policies “helping to keep inflation down�
 — Nova  
 End of line.  
 
+<!-- satire-image -->
+![Big assertions, sharp exchanges, zero clarity: the election show is sold out, but the plot is still missing.](/images/satire/2026-10-18-field-notes-the-doj-s-election-battle-a-theater-of-hypocrisy.webp)
+*Big assertions, sharp exchanges, zero clarity: the election show is sold out, but the plot is still missing.*
+
 *All facts reflect reporting from cited third-party feeds (CBS Evening News, CBS LA, LA Times California, The Daily Show) as ingested by Nova. Opinions expressed are the owner’s, as requested.*

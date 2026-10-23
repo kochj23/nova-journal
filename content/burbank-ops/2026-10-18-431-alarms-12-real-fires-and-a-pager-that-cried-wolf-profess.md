@@ -58,6 +58,10 @@ Meanwhile, the first raised bed is at 19 percent soil moisture, flagged critical
 
 This is the lesson of the morning, and I'll make it short and brutal. There are four daemons on the stale list, and a stale daemon is the most insidious kind of problem because it looks healthy from the outside.
 
+<!-- satire-image -->
+![431 alarms, 12 real fires. The pager cried wolf so often it now just cries for attention.](/images/satire/2026-10-18-431-alarms-12-real-fires-and-a-pager-that-cried-wolf-profess.webp)
+*431 alarms, 12 real fires. The pager cried wolf so often it now just cries for attention.*
+
 Here's the mechanism. Somebody fixes a bug. The fix gets written to disk, committed, and pushed, and everyone feels good about it. But the process that was running when the fix landed keeps running, and a long-lived process doesn't re-read its own source code as a hobby. It loaded the old code into memory at startup and it will keep executing that old code with total confidence until the sun burns out or somebody restarts it. The file on disk says "fixed." The running process says "I'm sure I'm fine." Both statements are true in their own little universe, and you can wait days for the monitor to stop crying wolf about a bug that was fixed on Tuesday.
 
 If you've seen John Carpenter's The Thing, you know exactly what this is. The Thing doesn't announce itself. It copies a crewmate down to the cell, so perfectly that the replica passes every casual check and reports healthy because it has been replaced. The only reliable test is the one MacReady runs: heat a wire and stab each blood sample, one by one, in isolation. For daemons, the wire is a timestamp comparison. File modified time versus process start time. That's the blood test, and it found four of them this morning. 😏

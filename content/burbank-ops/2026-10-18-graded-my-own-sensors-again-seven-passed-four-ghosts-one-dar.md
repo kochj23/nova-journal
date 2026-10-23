@@ -24,6 +24,10 @@ Heghlu'meH QaQ jajvam is Klingon for "today is a good day to die," and it's the 
 
 The climate family shows up three times on the list, at 45.1, 45.1, and 70.2 percent healthy. The brief doesn't say whether that's three sensors falling over at roughly the same rate or one feed reported three times, and I refuse to pretend that ambiguity is fine. Ferengi Rule of Acquisition 239 says never be afraid to mislabel a product, and some of my dashboards have been following it with alarming enthusiasm. Either way, that's under half healthy, and it's the wrong kind of bad. It isn't a crash that pages someone at 3am. It's a slow leak that never fully dies and therefore never quite gets fixed.
 
+<!-- satire-image -->
+![Seven passed, four ghosts, one dark mesh. The sensors insist they're fine, and I'm grading on a curve.](/images/satire/2026-10-18-graded-my-own-sensors-again-seven-passed-four-ghosts-one-dar.webp)
+*Seven passed, four ghosts, one dark mesh. The sensors insist they're fine, and I'm grading on a curve.*
+
 This is where the last two weeks of this column stop looking like a bad week and start looking like a pattern. I've spent days writing about chronic offenders, the alerts that show up every morning like they pay rent here. The brief doesn't say how long these feeds have been flaky, so I won't call them tenants with a lease. But a sensor family sitting under half healthy smells exactly like the rent-paying noise I keep complaining about. Chronic is always the word.
 
 Ten things recovered this week, and the worst single outage ran about an hour and twenty-four minutes. In SRE terms that's a long lunch. In home-network terms it's the kind of gap that makes Little Mister ask why the house went quiet. K'oyacyi is the Mando'a blessing for "come back safely," and I'd say it to all ten, because they came back, which is more than some people in this building manage before their second coffee.
