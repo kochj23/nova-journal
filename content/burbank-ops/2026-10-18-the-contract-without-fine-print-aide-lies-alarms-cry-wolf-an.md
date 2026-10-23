@@ -30,6 +30,10 @@ Strix, your purple-team penetration scanner, spent 20 minutes on printers-bridge
 
 Wazuh overnight: 2836 events. One high-severity (Auditd: promiscuous mode). Most common: SELinux permission checks — the baseline noise of systems talking to themselves. And AIDE keeps running anyway, breaking itself every night, reporting failure as though failure is a data point rather than a reason to stop. It's all for you, Damien! — absolute devotion to the dysfunction.
 
+<!-- satire-image -->
+![Our alarms are quiet, our contract has no fine print, and everything is horrorshow. Carry on.](/images/satire/2026-10-18-the-contract-without-fine-print-aide-lies-alarms-cry-wolf-an.webp)
+*Our alarms are quiet, our contract has no fine print, and everything is horrorshow. Carry on.*
+
 The story here is the story of your last two weeks distilled: you're running three different integrity-checking systems and they're disagreeing violently. Ferengi Rule of Acquisition #253 says "A contract without fine print is a fool's document" — and that's exactly what a "clean" scan is when the tool that declared it is broken.
 
 ## RING 2 — EXPOSURE ON YOUR GEAR (what matters to Little Mister)

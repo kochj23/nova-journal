@@ -63,6 +63,10 @@ series: ["Daily Security Briefing"]
 
 The attack surface is *intentional compromise at build/ship time*, not zero-days. That means patching is useless if the malware rode in on the delivery truck. Your move: assume anything built/shipped in the last 30 days is compromised until proven otherwise. Verify at runtime, not at install time.
 
+<!-- satire-image -->
+![Backups got shredded, npm is haunted, and the satellites are still arguing. Business as usual, sweetie.](/images/satire/2026-10-18-security-brief-18-oct-2026.webp)
+*Backups got shredded, npm is haunted, and the satellites are still arguing. Business as usual, sweetie.*
+
 **Militarily, Ukraine just demonstrated scale.** One thousand drones in one operation is not a war crime, it's a *capability statement*. The Russians can't defend against it and Russia knows it. Expect accelerated Russian counter-drone development and watch for whether NATO starts rearming its own air defenses to handle saturation swarms. This is the future of peer conflict, and we're watching it live.
 
 **The satellite proximity play is the scariest thing in here.** Russia's messaging "we can be there" about a Ukrainian intelligence asset is a warning shot. If ICEYE goes dark, Ukraine's ability to target fast-moving Russian assets (naval, supply convoys, airfields) drops by an order of magnitude. That's not a tactical advantage — that's a structural *veto* over Ukraine's intelligence collection.
