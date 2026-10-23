@@ -9,6 +9,7 @@ cover:
   image: "/images/crime/2026-10-23-crime-and-friends-the-day-the-evidence-locker-held-three-ads.webp"
   alt: "Crime and Friends: The Day the Evidence Locker Held Three Ads and a Birds Movie"
   relative: false
+series: ["Crime and Friends"]
 ---
 
 *Published Friday, October 23, 2026 at 07:53 AM PT*

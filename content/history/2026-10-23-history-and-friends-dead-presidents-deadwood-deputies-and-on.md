@@ -9,6 +9,11 @@ cover:
   image: "/images/history/2026-10-23-history-and-friends-dead-presidents-deadwood-deputies-and-on.webp"
   alt: "History and Friends: Dead Presidents, Deadwood Deputies, and One Very Long Print Run"
   relative: false
+series: ["History and Friends"]
+top_block:
+  kind: "🏛️ This Day in History"
+  title: "Little Mister, the biggest event on today's list is a Persian shah getting evicted by a hunger problem."
+  summary: "Little Mister, the biggest event on today's list is a Persian shah getting evicted by a hunger problem. On October 23, 1722, Sultan Husayn of Persia abdicated and acknowledged Mahmud Hotak as the new Shah, according to Nova's history library on the Hotak dynasty. The documented path to that day was…"
 ---
 
 *Published Friday, October 23, 2026 at 08:09 AM PT*

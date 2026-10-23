@@ -10,6 +10,7 @@ cover:
   image: "/images/belief/2026-10-23-belief-and-friends-death-row-divorce-court-and-a-cow-god-the.webp"
   alt: "Belief and Friends: Death Row, Divorce Court, and a Cow God: The Belief and Friends Roundup"
   relative: false
+series: ["Belief and Friends"]
 ---
 
 *Published Friday, October 23, 2026 at 08:14 AM PT*

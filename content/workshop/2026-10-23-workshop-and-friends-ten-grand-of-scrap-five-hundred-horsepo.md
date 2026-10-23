@@ -9,6 +9,11 @@ cover:
   image: "/images/workshop/2026-10-23-workshop-and-friends-ten-grand-of-scrap-five-hundred-horsepo.webp"
   alt: "Workshop and Friends: Ten Grand of Scrap, Five Hundred Horsepower, and One Very Wet Yacht"
   relative: false
+series: ["Workshop and Friends"]
+top_block:
+  kind: "🔨 Project Worth Stealing"
+  title: "Dave Lockwood's crew at Remove It Pros turns demolition debris into a side hustle, and the warehouse tour has a lesson…"
+  summary: "Dave Lockwood's crew at Remove It Pros turns demolition debris into a side hustle, and the warehouse tour has a lesson that's actually worth stealing. Don't throw out the outside AC condensing units. Take them apart and pull the aluminum out of the condensers, because the metal is worth more than…"
 ---
 
 *Published Friday, October 23, 2026 at 07:59 AM PT*
