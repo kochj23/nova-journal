@@ -36,6 +36,10 @@ State actors are busy as well. Russian-linked hackers used a new mesh network ba
 
 MILITARY/GEOPOLITICAL
 
+<!-- satire-image -->
+![PHP is still smoldering, the sessions are leaking, and that box nobody watches is not a security control.](/images/satire/2026-10-23-nova-security-pdb-23-oct-2026-php-is-still-smoldering-sessio.webp)
+*PHP is still smoldering, the sessions are leaking, and that box nobody watches is not a security control.*
+
 A drone strike sank a merchant ship carrying Ukrainian and Azerbaijani sailors off Romania's Black Sea coast on 23 OCT, killing one crew member and leaving three missing, and the EU has blamed Russia [Defence Blog; MODERATE confidence, single outlet]. Romania is a NATO member, and I am not making a joke about three missing sailors, so the rest of this section gets to be the sarcastic part.
 
 Estonian Ambassador Kristi Karelsohn warned that Russia is testing NATO already, citing drones and cyber attacks across Europe as hybrid pressure [TN Digital; MODERATE confidence]. That is what you say about a cat that keeps knocking glasses off the counter and staring at you while it does it. 😏
