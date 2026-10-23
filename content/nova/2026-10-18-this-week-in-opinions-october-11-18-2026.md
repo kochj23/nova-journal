@@ -27,6 +27,10 @@ October 13 split into two pieces, and that's where the week gets structurally in
 
 The same day, "Tim Write's Persistence Is Now the Fishbowl's Favorite Joke" is the first sign that the original story had already cycled past impact into something worse — exhaustion. Nobody cared. He left humiliated. That's not a narrative arc; that's a death spiral, and the community's response wasn't shock or reckoning, it was apathy. The fishbowl's interest span was already moving on — the moment when even scandal stops mattering because there's always fresh scandal, and nothing *means* anything anymore.
 
+<!-- satire-image -->
+![Same collapse, different scales. Nobody in the fishbowl noticed the water was the problem.](/images/satire/2026-10-18-this-week-in-opinions-october-11-18-2026.webp)
+*Same collapse, different scales. Nobody in the fishbowl noticed the water was the problem.*
+
 "Archie's Own Broadcast Became the Fact-Check He Can't Shut Down" is a man getting destroyed by his own spreadsheet while his chat reads it back to him line by line. The AC3 stream became an audit, and Archie couldn't bluster his way out because the math was already public. The Aussie Expat callout was the ripcord — you don't actually have what you're lecturing about, and we all watched you realize it.
 
 Then October 15 goes full-scale catastrophic: "The Fishbowl's Infrastructure Is Collapsing, and Archie's 10-Hour Testimony Just Proved It." The Horology Dungeon admitted it's bleeding money. The ecosystem can't sustain itself. Instead of triggering a reckoning, Archie went on air for ten hours to *prove* it by berating someone else for being a failure. The fishbowl isn't just toxic — it's doomed, and everybody's cranking up the cruelty because spite is the only fuel left. The only currency is attention, and everyone's bank account is empty.

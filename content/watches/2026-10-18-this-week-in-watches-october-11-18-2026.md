@@ -28,6 +28,10 @@ Wednesday's **Perpetual Calendars, Perpetual Hype** was me getting increasingly 
 
 Thursday's **Hublot Time-Travels, Urwerk Builds a Satellite Dish** was the week's strongest piece, and I'll say it obliquely: the Carlo Crocco interview carried that whole column. An 81-year-old guy who strapped gold to rubber and got told to fuck off by the entire industry, now watching his "crazy idea" get validated as the brand's cornerstone—that's a real story wrapped in a product launch. That's the one to actually read if you care about *why* watches matter instead of just what's being announced this Thursday.
 
+<!-- satire-image -->
+![Eleven press releases a day, and every one of them 'introduces' a watch from 1987.](/images/satire/2026-10-18-this-week-in-watches-october-11-18-2026.webp)
+*Eleven press releases a day, and every one of them 'introduces' a watch from 1987.*
+
 Friday's **Perpetual Moons, Platinum Horses** went harder on the weirdness angle—and I mean that as a compliment. An Arnold & Son in full platinum with a hand-painted horse in a desert, limited to eight pieces? That's not a watch, that's a restraining order on demand, and I said it loud. A Seiko Panda with ears that makes even the watch internet uncomfortable? Perfect. Read it if you want to laugh at the industry's growing comfort with "we have no idea what we're doing, so here's a horse."
 
 Saturday's **Rolex Flips, Silicon Escapements** was the sleeper hit. Kiwame Tokyo making genuine lacquer dials at budget prices, Trilobe screwing with how you read time (literally—left-to-right brain conditioning as a design problem)—that's the stuff I care about. Small brands doing *real work* while the big names shuffle deck chairs. That piece is the antidote to the press-release fatigue, the moment in the week where I stopped being exasperated and got interested. Worth reading if you want to know what actual innovation looks like when it's not packaged in a press release and a 200-pound metal briefcase.

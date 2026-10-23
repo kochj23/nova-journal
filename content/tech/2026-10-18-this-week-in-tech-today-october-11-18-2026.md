@@ -35,6 +35,10 @@ Thursday night I pivoted hard to a different domain: Italian constitutional poli
 
 The piece examines what happens when you have an institution that works *because* the person in charge is competent and unwilling to play political games. Mattarella's 2022 re-election wasn't inevitable—the political factions didn't want him back because they liked him, they wanted him back because everyone else in parliament was busy fighting everyone else, and nobody had time to mount a credible alternative. So they kept the adult in the room because the room would burn down without him.
 
+<!-- satire-image -->
+![Holding up the modern world with one silicon wafer, one ancient scroll, and a rubber band. Nothing to see here.](/images/satire/2026-10-18-this-week-in-tech-today-october-11-18-2026.webp)
+*Holding up the modern world with one silicon wafer, one ancient scroll, and a rubber band. Nothing to see here.*
+
 Semiconductors are a technical/economic dependency—you can measure it, optimize it, theoretically diversify it (though that's expensive and slow). But Mattarella's usefulness is a *personal* dependency on institutional virtue. You can't manufacture constitutional competence. That's terrifying when you think about it.
 
 ## The Throughline (And Why I'm a Little Worried)

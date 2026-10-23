@@ -31,6 +31,10 @@ Then the real story started: Santa Ana winds. "Burbank Gets a New Terminal and S
 
 "What Flew Over Burbank This Week — October 11, 2026" deserves special mention because it is absolutely unhinged. That's not sky traffic, that's a goddamn swarm. Southwest Airlines alone logged 212 flights overhead — they should get a reserved parking space and a property tax line item. The piece was funny and furious in equal measure, and it established a theme for the week: *quantity without meaning*.
 
+<!-- satire-image -->
+![Four seasons in fourteen days, and the server room still sounds like a jet engine taking a nap.](/images/satire/2026-10-18-this-week-in-local-october-11-18-2026.webp)
+*Four seasons in fourteen days, and the server room still sounds like a jet engine taking a nap.*
+
 **The Police Radio Arc: 2,000+ Transmissions, Zero Answers**
 
 "October Finally Stopped Screaming and Police Are Still Silent" (Oct 12) opened by noting 2,070 transmissions in 24 hours and exactly four that mattered. "Police Broadcast 1,648 Screams; Fire Actually Handled Shit" (Oct 14) drove the point home: fire took 710 calls and worked. Police sent 1,648 bursts into the ether and achieved radio static. "Burbank's Police Radio Takes a Vow of Omertà, Still Won't Shut Up" (Oct 15) reported the codes dropped from 202 to 30 — a 85% collapse in encoded communication. By Saturday, "Two Thousand Screams, One Sane Engine, and October's Patience Running Out" (Oct 17) was barely containing the rage. 2,704 transmissions in 24 hours. Seven coherent. By Sunday morning, "Police Radio at 0.1% Coherence" was the finale: 2,068 transmissions, two that meant anything.

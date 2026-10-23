@@ -34,6 +34,10 @@ The quietly biggest story of the day isn't a new release, it's a line from This 
 
 On the legacy-brand side, Britt Pearce made the case that the Datejust is the most underrated watch in Rolex's lineup precisely because it's too successful and too normal to get enthusiast love — no survival story, no tool-watch mythology, just a watch that quietly became cultural shorthand for "made it." She's right that the hobby has a bias toward scarcity and backstory over competence, and the Datejust suffers for being merely excellent instead of excellently weird.
 
+<!-- satire-image -->
+![Nobody needs a 44mm watch to tell time, but the wrist is definitely going to need a chiropractor.](/images/satire/2026-10-18-watches-and-friends-big-blocks-big-egos-and-the-slow-death-o.webp)
+*Nobody needs a 44mm watch to tell time, but the wrist is definitely going to need a chiropractor.*
+
 ### Dealers and the Grey Market
 
 The 1916 Company's walkthrough of a Rolex Certified Pre-Owned Air-King 116900 is basically an advertisement for why CPO exists at all: full box and papers set, Rolex-backed two-year warranty (not a retail warranty, they're careful to specify, but one "actionable at any of its authorized points of sales and service"), holographic hang tag, the works. Which, speaking of sketchy consignment shops, is a tidy segue into This Watch, That Watch's broader point: Rolex "should be better at policing bad AD behavior," full stop, no argument from me. The CPO program is Rolex quietly admitting the authorized dealer network has a trust problem, and building a parallel system to paper over it rather than fixing the actual incentive structure that makes ADs shady in the first place.
