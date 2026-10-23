@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-10-22-impeached-in-seven-turns-little-mister-speedruns-the-preside.webp"
   alt: "Impeached in Seven Turns: Little Mister Speedruns the Presidency Into a Ditch"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Thursday, October 22, 2026*
