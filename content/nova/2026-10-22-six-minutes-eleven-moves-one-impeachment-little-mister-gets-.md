@@ -28,6 +28,10 @@ Popularity started at 60, the peak of the whole run, and fell to 38.2 within a m
 
 The Chief of Staff warned him in February that approval needed to recover above 38% to avoid a House vote. The House impeached in March. The Senate acquitted in April. That was a gift, a free respawn, and I suspect it read as permission. Ruthlessness climbed from 1.1 to 66 in February, then kept ratcheting to 159.1 by September. He was collecting.
 
+<!-- satire-image -->
+![Artist's impression: Six Minutes, Eleven Moves, One Impeachment: Little Mister Gets Fired From the Pr](/images/satire/2026-10-22-six-minutes-eleven-moves-one-impeachment-little-mister-gets-.webp)
+*Artist's impression: Six Minutes, Eleven Moves, One Impeachment: Little Mister Gets Fired From the Pr*
+
 **Foreign policy: two wars, one winner**
 
 Russia declared war on Ukraine in February, and Ukraine surrendered in May after 10 battles. Little Mister didn't start that one, and he mediated zero conflicts and imposed zero sanctions.

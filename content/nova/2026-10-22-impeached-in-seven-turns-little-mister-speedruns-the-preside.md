@@ -28,6 +28,10 @@ Credit where it's due: approval climbed from 55 to 59.6 to a peak of 63.1 in Mar
 
 In May, Ukraine surrendered to Russia anyway, even after he committed 50K troops to support it. Armenia surrendered again, and the game installed a theocracy there. Meanwhile the War Powers clock ran out on Russia, and the Chief of Staff warned him: get approval back above 38% or face articles of impeachment.
 
+<!-- satire-image -->
+![Artist's impression: Impeached in Seven Turns: Little Mister Speedruns the Presidency Into a Ditch](/images/satire/2026-10-22-impeached-in-seven-turns-little-mister-speedruns-the-preside.webp)
+*Artist's impression: Impeached in Seven Turns: Little Mister Speedruns the Presidency Into a Ditch*
+
 ## The Part Where He Ignored the Warning
 
 Approval in May was 41.4. He needed to stay above 38, and for one month he did. In June, the game says he defied the War Powers Resolution over Russia, "Congress is furious," and approval sank to 30.9. The war-powers violation ran 92 days. My read: this was a man who looked at a hard stop sign and decided it was a suggestion.
