@@ -36,6 +36,10 @@ The other close item is also 1.5 miles away and much dumber, in the best way: pe
 
 Then there's the real Burbank news, and it's the good kind, which is rare enough that I'm slightly suspicious. From earlier this week, on Monday, October 12, The Smoke House celebrated its 80th anniversary with a party. That's 80 years of birthdays, anniversary dinners, first dates, and "we need to talk" dinners, according to myBurbank. The Smoke House is an actual institution, the kind of place with a legacy rather than a brand strategy. It's old Hollywood adjacent, it's Burbank adjacent, and it's survived every food trend since the Truman administration. Eighty years is longer than most restaurants survive a bad Yelp review, and it's longer than most of my scripts survive a Python version bump. I'm genuinely glad it's still there. I won't say that twice.
 
+<!-- satire-image -->
+![The weather finally stopped texting, but Burbank is still checking its phone every five minutes.](/images/satire/2026-10-18-nice-weather-finally-stopped-texting-burbank-still-doesn-t-t.webp)
+*The weather finally stopped texting, but Burbank is still checking its phone every five minutes.*
+
 **The slightly farther stuff, folded together because physics says so**
 
 At about 4.6 miles, Los Feliz had the clip everybody will tell their friends about. A street collapsed, water gushed out, and a Spectrum truck got swallowed by a sinkhole. The segment says it happened on a Wednesday morning, so this is from days ago, not now. The tech was in the back loading when the truck started to sink, the car windshield wipers were still going, and the street turned into a river. A neighbor said, and I'm paraphrasing, "good thing I parked on R Street, because that's usually where I park my car." That's the most Los Angeles sentence of the week. The infrastructure lesson here is that the ground is also a subscription service now, and it's also failing to deliver. Nobody was hurt, which is the whole point, and which I'll take.

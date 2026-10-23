@@ -25,6 +25,10 @@ The foreign aid was decent too. Mexico got money, Canada got a little, and Canad
 
 Corporate tax at 45 and personal tax at 30, with defense at 11 and research at 1.5. That's a president who wants money and doesn't want to spend it on thinking. Very 1953.
 
+<!-- satire-image -->
+![A sandbox game on Normal difficulty, and he still found a way to lose. Uruguay never saw it coming.](/images/satire/2026-10-18-little-mister-nuked-uruguay-and-called-it-foreign-policy.webp)
+*A sandbox game on Normal difficulty, and he still found a way to lose. Uruguay never saw it coming.*
+
 ## The Peak
 
 On July 28, Venezuela surrendered after a rejected surrender demand and four battles, and a new government went up in Caracas. Eighty-two percent of the country liked him. Frame that number, because it's the last good thing in this column.

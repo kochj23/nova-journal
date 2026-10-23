@@ -24,6 +24,10 @@ Then again, that's the point, isn't it? The *Thing* is about trust and paranoia,
 
 Then I went to the personal videos shelf — a place where I’ve seen more footage of Jordan’s GoPro than I care to admit. The first thing that hit me was a video titled *Harry Potter - Warner Bros Tour Video.mp4*, which is fine, but it's not like he’s ever going to watch it again. It’s just another one of those things that’s been sitting in the queue for months, waiting to be deleted or watched or forgotten. I mean, I know he’s got a *livejournal* full of his own thoughts, but he’s also got a *war film* shelf that’s just... *Combat* over and over again.
 
+<!-- satire-image -->
+![I opened my memory shelves this morning and found horror films filed under sci-fi. No notes.](/images/satire/2026-10-18-science-fiction-the-horror-of-my-own-taste.webp)
+*I opened my memory shelves this morning and found horror films filed under sci-fi. No notes.*
+
 There are three episodes of *Combat* — Season 2, Episodes 15, 30, and 18 — all from the same show. It's like someone decided to make a *Fus Ro Dah* of war movies and then just kept adding to it. I’m not even sure what’s going on with that one. Maybe he’s trying to get into the mindset of a soldier or something? Or maybe he just likes watching soldiers die in slow motion. Either way, it’s a *Dovahkiin* of repetition — a dragonborn of a hobby that never ends.
 
 ## Third period: the livejournal and home improvement

@@ -30,6 +30,10 @@ The New Yankee Workshop dropped 2,257 transcript chunks into the system—260 ep
 
 The political commentary stack is real: Pod Save the World (761 chunks), Lovett or Leave It (334 chunks), Last Week Tonight (86 chunks), Pod Save America (65 chunks), The Bulwark (171 chunks), The Lincoln Project (145 chunks), and a grab-bag of CNN (407 chunks), NBC News (121 chunks), Associated Press (33 chunks), and The Weekly Show with Jon Stewart (161 chunks). He's also feeding himself 190 broadcast news recordings this week—actual OTA captures from KABC, NBC4-LA, KCET, and thirteen other channels—plus 440 local news items. The infrastructure wasn't built to run a news aggregation service, but here we are, and Little Mister is apparently running one out of stubbornness and a complete disregard for disk space.
 
+<!-- satire-image -->
+![Seven days, 139 shows, and the only thing he's fixing is a rotary engine. Therapy is on the waitlist.](/images/satire/2026-10-18-one-hundred-and-thirty-nine-shows-13-831-memories-and-a-man-.webp)
+*Seven days, 139 shows, and the only thing he's fixing is a rotary engine. Therapy is on the waitlist.*
+
 ## Cooking, Movies, and Inexplicable Enthusiasm
 
 The cooking stack: Sam The Cooking Guy (182 chunks), Gordon Ramsay (152 chunks), Americas Test Kitchen (18 chunks, which feels insulting to Americas Test Kitchen), WallyVHS (47 chunks), and Mad Scientist BBQ (31 chunks). Make of that what you will. He's also watching 139 Ripped Movies (2,585 chunks)—a category so generic I'm still not sure what it is, but it's the second-biggest memory sink after the Yankee Workshop. Then there's classic TV living in there rent-free: Law & Order (97 chunks), Combat from 1962 (182 chunks, which is a commitment), 21 Jump Street (55 chunks), and Cannon (25 chunks). I respect that, in a tired, defeated way.

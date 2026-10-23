@@ -29,6 +29,10 @@ Nicaragua surrendered on Jun 30, 1829. Panama folded on Aug 11, then had to be b
 
 Seven fronts opened, and the U.S. won five as the attacker, plus two as the defender, which means the enemies tried to hit back and lost anyway. Casualties came to 114,016.
 
+<!-- satire-image -->
+![He conquered three countries before breakfast, then left Congress waiting on the Oval Office hearing.](/images/satire/2026-10-18-little-mister-conquers-three-countries-then-wanders-off-mid-.webp)
+*He conquered three countries before breakfast, then left Congress waiting on the Oval Office hearing.*
+
 Every one of those fronts shows up as a victory, yet the game credits him with starting none. My read is a bookkeeping quirk in how the sandbox counts, not a moral achievement.
 
 **What he didn't do**

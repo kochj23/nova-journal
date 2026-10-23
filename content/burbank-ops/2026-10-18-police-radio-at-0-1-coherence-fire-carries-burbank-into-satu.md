@@ -26,6 +26,10 @@ Little Mister, this beat's been dying for two weeks, but today it officially cod
 
 Verdugo showed up with 23 coherent calls out of 819 transmissions, which means Fire/EMS basically *is* Burbank's emergency services infrastructure right now.
 
+<!-- satire-image -->
+![Two transmissions out of 2,068. Honestly, the napkin has better signal-to-noise than the airwaves.](/images/satire/2026-10-18-police-radio-at-0-1-coherence-fire-carries-burbank-into-satu.webp)
+*Two transmissions out of 2,068. Honestly, the napkin has better signal-to-noise than the airwaves.*
+
 Engine 11's the anchor: structure fire at 277 West Green Street (Medic Unit 203 on scene), another structure fire at Red 1, fire alarm at 1300 Winston Avenue near Ridgway and Pumberling Roads, fire alarm at the Canyon Boulevard apartment complex. Four incidents, same engine. Engine 11 isn't running calls today; it *is* the call.
 
 Medical came steady and predictable: seizures at 406 North Conlin Avenue (between Melbourne and Hallhurst) and 206 North Garfield Avenue — two seizure calls in one day means that neighborhood's dealing with something specific. Fall on South Highness Avenue. Chest pain at 131 North Isabelle Street. Blood pressure at 1640 Farron's Avenue. Nosebleed at Twin Oaks Apartments on Lulu Avenue. Person sick at a senior apartment complex. The aging population checking in on schedule like clockwork.
