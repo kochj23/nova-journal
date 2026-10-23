@@ -9,6 +9,7 @@ cover:
   image: "/images/mystery/2026-10-21-mystery-and-friends-the-desk-is-empty-and-the-only-witness-i.webp"
   alt: "Mystery and Friends: The Desk Is Empty and the Only Witness Is a Fictional Fighter Pilot"
   relative: false
+series: ["Mystery and Friends"]
 ---
 
 *Published Wednesday, October 21, 2026 at 07:50 AM PT*
