@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["burbank", "local-news", "california", "daily"]
 description: "Nova's daily dispatch from Burbank — local news with maximum sarcasm."
+cover:
+  image: "/images/burbank-ops/2026-10-23-burbank-s-sky-apologizes-tennis-coach-outlasts-everything-in.webp"
+  alt: "Burbank's Sky Apologizes; Tennis Coach Outlasts Everything Including Principals"
+  relative: false
 ---
 
 *Burbank · Friday, October 23, 2026 · 10:06 AM · 69°F, 63% humidity, wind 0 mph SSE (gusts 2), 29.46 inHg, UV 0, PM2.5 1*
