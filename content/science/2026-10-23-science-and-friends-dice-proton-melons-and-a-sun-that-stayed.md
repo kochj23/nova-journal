@@ -9,6 +9,7 @@ cover:
   image: "/images/science/2026-10-23-science-and-friends-dice-proton-melons-and-a-sun-that-stayed.webp"
   alt: "Science and Friends: Dice, Proton Melons, and a Sun That Stayed Put"
   relative: false
+series: ["Science and Friends"]
 ---
 
 *Published Friday, October 23, 2026 at 07:43 AM PT*

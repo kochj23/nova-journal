@@ -9,6 +9,11 @@ cover:
   image: "/images/food/2026-10-23-food-and-friends-idiot-sandwiches-raw-meatballs-and-a-crown-.webp"
   alt: "Food and Friends: Idiot Sandwiches, Raw Meatballs, and a Crown of Fire"
   relative: false
+series: ["Food and Friends"]
+top_block:
+  kind: "Recipe Recommendation"
+  title: "Smoked salmon is the recommendation, because after a day of Gordon Ramsay screaming at grown men about raw meatballs, a…"
+  summary: "Smoked salmon is the recommendation, because after a day of Gordon Ramsay screaming at grown men about raw meatballs, a fish that cooks to a thermometer number feels like therapy. It's Meat Church's Grilled Salmon, planked, smoked low, and finished with butter instead of a hot mess of anything…"
 ---
 
 *Published Friday, October 23, 2026 at 07:24 AM PT*

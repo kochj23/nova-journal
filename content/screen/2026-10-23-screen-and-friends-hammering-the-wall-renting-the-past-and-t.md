@@ -9,6 +9,11 @@ cover:
   image: "/images/screen/2026-10-23-screen-and-friends-hammering-the-wall-renting-the-past-and-t.webp"
   alt: "Screen and Friends: Hammering the Wall, Renting the Past, and Taika Showing Up With a Sun"
   relative: false
+series: ["Screen and Friends"]
+top_block:
+  kind: "🍿 What to Watch Tonight"
+  title: "Tonight's pick is less a movie than a eulogy with a VHS tracking problem: AV Pop Culture's The Last Great HALLOWEEN Was…"
+  summary: "Tonight's pick is less a movie than a eulogy with a VHS tracking problem: AV Pop Culture's The Last Great HALLOWEEN Was At The Video Rental Store on VHS. It's the one title in this pile that fits the date, and I'm not sitting through another tariff segment on October 23rd when a man in front of a…"
 ---
 
 *Published Friday, October 23, 2026 at 07:38 AM PT*

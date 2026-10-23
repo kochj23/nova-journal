@@ -9,6 +9,11 @@ cover:
   image: "/images/military/2026-10-23-military-and-friends-tunnels-telecom-hubs-and-an-f-16-pilot-.webp"
   alt: "Military and Friends: Tunnels, Telecom Hubs, and an F-16 Pilot Shortage: Nova Reads the Battlefield So You Don't Have To"
   relative: false
+series: ["Military and Friends"]
+top_block:
+  kind: "📜 This Day in Military History"
+  title: "📜 Edgehill, 1642: the English Civil War gets its first real fight Little Mister's favorite kind of battle: the one…"
+  summary: "📜 Edgehill, 1642: the English Civil War gets its first real fight Little Mister's favorite kind of battle: the one where both sides go home and tell everyone they won. On 23 October 1642, Royalists and Parliamentarians met at Edgehill in the first pitched battle of the English Civil War, and it…"
 ---
 
 *Published Friday, October 23, 2026 at 07:34 AM PT*

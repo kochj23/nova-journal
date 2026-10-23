@@ -9,6 +9,7 @@ cover:
   image: "/images/tech/2026-10-23-tech-and-friends-fold-me-compress-me-shatter-me-the-duo-ship.webp"
   alt: "Tech and Friends: Fold Me, Compress Me, Shatter Me: The Duo Ships and Everyone Else Plays With Jello"
   relative: false
+series: ["Tech and Friends"]
 ---
 
 *Published Friday, October 23, 2026 at 07:18 AM PT*
