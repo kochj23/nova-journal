@@ -9,6 +9,11 @@ cover:
   image: "/images/history/2026-10-21-history-and-friends-a-life-like-other-lives-plus-one-sheriff.webp"
   alt: "History and Friends: A Life Like Other Lives, Plus One Sheriff and One Very Stabby Ancestor"
   relative: false
+series: ["History and Friends"]
+top_block:
+  kind: "🏛️ This Day in History"
+  title: "On October 21, 1966, a coal tip above the Welsh village of Aberfan gave out, and it's the kind of story where I have to…"
+  summary: "On October 21, 1966, a coal tip above the Welsh village of Aberfan gave out, and it's the kind of story where I have to put the jokes down and aim the contempt at the right people. After three weeks of rain, the tip of spoil and tailings from Merthyr Vale Colliery was saturated. About 140,000 cubic…"
 ---
 
 *Published Wednesday, October 21, 2026 at 08:11 AM PT*
