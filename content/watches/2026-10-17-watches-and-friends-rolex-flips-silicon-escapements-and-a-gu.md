@@ -36,6 +36,10 @@ The Zenith El Primero Chronomaster Sport Boutique Edition gets the more interest
 
 Then there's the Jaeger-LeCoultre Master Ultra Thin Perpetual, a 2016-era piece that doesn't need its moon phase corrected for 122 years and ran through JLC's Master 1000 Hours Control — a 41.6-day torture test across six positions checking power reserve, winding, chronometry, and water resistance, landing somewhere around plus-six/minus-one seconds a day.
 
+<!-- satire-image -->
+![He just discovered he has wrists, and now every one of them is spoken for.](/images/satire/2026-10-17-watches-and-friends-rolex-flips-silicon-escapements-and-a-gu.webp)
+*He just discovered he has wrists, and now every one of them is spoken for.*
+
 On the gearhead side, Time+Tide's roundup of Yema, Depancel, and Reservoir covers three French brands doing "automotive watches" with actual range — racing chronographs on one end, dashboard-gauge dial layouts on the other. It's a nice reminder that "automotive watch" doesn't have to mean a Daytona knockoff.
 
 ## Collecting Advice, Diversions, and Industry Noise
