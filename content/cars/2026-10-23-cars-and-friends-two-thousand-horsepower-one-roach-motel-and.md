@@ -9,6 +9,11 @@ cover:
   image: "/images/cars/2026-10-23-cars-and-friends-two-thousand-horsepower-one-roach-motel-and.webp"
   alt: "Cars and Friends: Two Thousand Horsepower, One Roach Motel, and a Popcorn Truck That Runs on Steam"
   relative: false
+series: ["Cars and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Three builds, one deadline, and a Lotus that may or may not still be overheating."
+  summary: "Three builds, one deadline, and a Lotus that may or may not still be overheating. Hagerty's RADwood Build Challenge has hit Episode 5, titled \"Three Builds, Zero Days to Spare.\" That title is a threat, not a figure of speech. According to Hagerty's latest episode, the finish line is Radwood NorCal…"
 ---
 
 *Published Friday, October 23, 2026 at 07:13 AM PT*

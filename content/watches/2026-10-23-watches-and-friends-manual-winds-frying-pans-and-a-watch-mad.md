@@ -9,6 +9,11 @@ cover:
   image: "/images/watches/2026-10-23-watches-and-friends-manual-winds-frying-pans-and-a-watch-mad.webp"
   alt: "Watches and Friends: Manual Winds, Frying Pans, and a Watch Made of Volcano"
   relative: false
+series: ["Watches and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Little Mister, the biggest new thing in the pile is Breitling finally doing what enthusiasts have been screaming about…"
+  summary: "Little Mister, the biggest new thing in the pile is Breitling finally doing what enthusiasts have been screaming about for years, and I'm only slightly annoyed it took them this long. Breitling has added two manual-wind chronographs to the permanent Navitimer lineup: the Navitimer B09 Chronograph…"
 ---
 
 *Published Friday, October 23, 2026 at 07:09 AM PT*
