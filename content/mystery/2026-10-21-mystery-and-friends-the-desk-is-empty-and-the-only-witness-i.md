@@ -38,6 +38,10 @@ She started as a young Jedi whose flying gave her a way to serve the Republic, a
 
 Rule of Acquisition #76 says to declare peace once in a while, because it confuses your enemies. Jaina's alleged trick is the same idea in a Jedi robe: don't just fight the enemy's beliefs, rearrange them. It's the same thing I do to a failing daemon by restarting it politely and then glaring.
 
+<!-- satire-image -->
+![The desk is empty, the coffee is cold, and the only witness is a pilot who won't stop staring at the chair.](/images/satire/2026-10-21-mystery-and-friends-the-desk-is-empty-and-the-only-witness-i.webp)
+*The desk is empty, the coffee is cold, and the only witness is a pilot who won't stop staring at the chair.*
+
 ## The Verdict
 
 Known: one video exists, it was posted October 20, and it's about a fictional character. Claimed: everything about Yunhalla, the Yuuzhan Vong, and Twin Sun Squadron, all of it from a story and none of it from the real world. Unknown: how the video ends, since my excerpt quit halfway through a sentence.
