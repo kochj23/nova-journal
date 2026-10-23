@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-10-23-little-mister-presides-over-the-end-of-the-world-and-still-l.webp"
   alt: "Little Mister Presides Over the End of the World and Still Loses on Popularity"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Friday, October 23, 2026*
