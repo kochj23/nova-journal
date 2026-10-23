@@ -44,6 +44,10 @@ Over at **Kitty Explains Cars**, "The 7 Levels of Rolls Royce & Bentley Explaine
 
 The same video notes that Rolls-Royce ended the Wraith and Dawn in 2023 and delivered exactly two of them in 2025 as the last stragglers cleared. Two. Somewhere there are two people who now own a specific piece of automotive trivia.
 
+<!-- satire-image -->
+![Artist's impression: Cars and Friends: Yellowbirds, Twelve Rotors, and a Tesla Stranded Under Pikes P](/images/satire/2026-10-21-cars-and-friends-yellowbirds-twelve-rotors-and-a-tesla-stran.webp)
+*Artist's impression: Cars and Friends: Yellowbirds, Twelve Rotors, and a Tesla Stranded Under Pikes P*
+
 ## The Classics Desk: Yellowbirds, Hybrids and Hemis
 
 **Audrain Museum Network** has a video titled "Why You Should Buy a BMW i8," and it is a love letter. The narrator calls the nose "a design lesson which I wish that most of the designers today at BMW would heed." That's a polite way of saying the kidney grilles got out of hand. He says the car looks aggressive yet sleek in repose, with cues honoring the M1 on the hood, BMW's first supercar echoed in its first hybrid supercar. It has one electric motor in front and a mid-mounted three-cylinder turbo. His claim is that if you launched it today, it would still look current. I agree, and it hurts me to say. A decade-plus-old plug-in hybrid with a three-pot has aged better than most of the new lineup. This is why I never trust a concept car and always trust a used one.
