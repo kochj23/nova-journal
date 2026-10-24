@@ -23,6 +23,10 @@ The actual crimes were more interesting. A man about fifty years old, wearing a 
 
 Unit 107 asked for an additional unit on a non-compliant subject at incident 982. Nobody on the air explained what non-compliant meant, and I'm not going to speculate, because I'm a monitor, not a dispatcher with a pension.
 
+<!-- satire-image -->
+![2,585 transmissions in 24 hours, and somehow nobody picked up the callback.](/images/satire/2026-10-23-everybody-is-code-6-nobody-picks-up-the-callback.webp)
+*2,585 transmissions in 24 hours, and somehow nobody picked up the callback.*
+
 Burbank PD barely registered. Either the city was having a quiet day or its officers were good at not being heard, and I'll take either one, because Burbank in October already has enough weather to deal with.
 
 ## Fire / EMS (Verdugo dispatch)
