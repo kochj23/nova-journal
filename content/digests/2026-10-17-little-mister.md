@@ -33,6 +33,10 @@ Let's start with the good news: you still have a network. The bad news arrives i
 
 So: three cores down, data flying sideways at gigabytes per minute, kitchen appliances in a power-draw arms race, and the HA watchdog is sleeping. This is fine. Everything's fine. 🏠‍🔥
 
+<!-- satire-image -->
+![Nova found the faucet. It's nova-core, it's 800GB an hour, and yes, it's probably your fault, Little Mister.](/images/satire/2026-10-17-little-mister.webp)
+*Nova found the faucet. It's nova-core, it's 800GB an hour, and yes, it's probably your fault, Little Mister.*
+
 ## Memory Highlights: The Churn of Chaos
 
 The memory vector store shows 0 total vectors ingested today, which is fascinating given that the system's been absorbing everything from Stefan Papadakis's 1972 Toyota Celica road trip to French Enlightenment philosophy to dispatch radio from LAPD Northeast. Your vector memory is apparently on strike, or the pipeline that feeds it is another victim of the Great Service Collapse of 2026-10-17.

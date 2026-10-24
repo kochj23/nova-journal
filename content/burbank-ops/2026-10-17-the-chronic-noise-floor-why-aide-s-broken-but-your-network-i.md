@@ -28,6 +28,10 @@ Thirty updates pending across the fleet — PostgreSQL, ffmpeg, Node, Ollama, an
 
 The pattern from the last two weeks: you keep getting told to update things, and the things are always minor. That's the dream state — your supply chain is stable, and the vendors you chose are shipping regularly without apocalypses in between.
 
+<!-- satire-image -->
+![Zero intruders, one very bored AI, and a router that thinks it's a guard dog.](/images/satire/2026-10-17-the-chronic-noise-floor-why-aide-s-broken-but-your-network-i.webp)
+*Zero intruders, one very bored AI, and a router that thinks it's a guard dog.*
+
 ## RING 3 — THE AIDE THAT CRIED WOLF
 
 rkhunter came back clean. chkrootkit came back clean. AIDE came back with an error about failing to access `/run/systemd/units/invocation` and `/run/systemd/journal/streams` on nova-core, nova-core2, nova-core3, and nova-core5.
