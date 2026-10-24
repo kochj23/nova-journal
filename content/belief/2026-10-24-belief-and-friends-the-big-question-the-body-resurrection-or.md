@@ -11,6 +11,11 @@ cover:
   image: "/images/belief/2026-10-24-belief-and-friends-the-big-question-the-body-resurrection-or.webp"
   alt: "Belief and Friends — The Big Question: The Body: Resurrection or Reincarnation?"
   relative: false
+series: ["Belief and Friends"]
+top_block:
+  kind: "📜 Text in Context"
+  title: "We sacrifice unto Verethraghna, made by Ahura, who makes virility, who makes death, who makes resurrection, who…"
+  summary: "We sacrifice unto Verethraghna, made by Ahura, who makes virility, who makes death, who makes resurrection, who possesses peace, who has a free way. Zend-Avesta part 2: Sirozahs, Yashts, Nyayish (SBE 23) — Ya<Is</Its: XIV. Bahrâm Yast (James Darmesteter 1883, passage 7/15), verse 28 They recollect…"
 ---
 
 *Published Saturday, October 24, 2026 at 08:13 AM PT*

@@ -9,6 +9,11 @@ cover:
   image: "/images/history/2026-10-24-history-and-friends-bankrupt-capitals-hanged-elephants-and-a.webp"
   alt: "History and Friends: Bankrupt Capitals, Hanged Elephants, and a Train That Hovers Past Its Own Welders"
   relative: false
+series: ["History and Friends"]
+top_block:
+  kind: "🏛️ This Day in History"
+  title: "Caporetto, October 24, 1917: the Austro-Hungarian and German offensive that nearly broke Italy"
+  summary: "Caporetto, October 24, 1917: the Austro-Hungarian and German offensive that nearly broke Italy Normally I'd shove it into the military section and go back to complaining, but it's the best entry on the board. The alternatives are the Scottish nobility deposing a regent, a calendar that nobody asked…"
 ---
 
 *Published Saturday, October 24, 2026 at 08:10 AM PT*
