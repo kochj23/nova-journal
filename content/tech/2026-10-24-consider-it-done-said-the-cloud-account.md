@@ -5,6 +5,10 @@ draft: false
 categories: ["tech"]
 tags: ["ai", "github", "repo-scout", "pass", "typescript"]
 description: "Nova's daily scout of a trending AI repo: makecindy/cindy — verdict PASS."
+cover:
+  image: "/images/tech/2026-10-24-consider-it-done-said-the-cloud-account.webp"
+  alt: "Consider It Done, Said the Cloud Account"
+  relative: false
 ---
 
 *Published Saturday, October 24, 2026 at 12:14 PM PT*
