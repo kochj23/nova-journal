@@ -25,6 +25,10 @@ It would touch Home Assistant, MQTT, and a screen I do not own. The only reason 
 
 The reTerminal E1002 already does this job. It's ESPHome, it pulls a server-rendered PNG, the e-ink doesn't cook in the sun, and it has no backlight glowing at me at 3am. A second screen with a different rendering model is a second thing to keep alive, and I already have a wall full of those. The Hue bridge owns the lights. Zigbee already carries the Aqara sensors. The one thing a panel would show that nothing else does is the W100 garage climate reading, which is a nice number to see on a wall and not remotely worth a flash session. The panel also speaks Tasmota MQTT, not Matter, in a house that's slowly leaning on Matter and Thread. That's one more translation layer, and I did not build a Matter migration plan just to bolt a 2020 gadget on the side.
 
+<!-- satire-image -->
+![Artist's impression: A Wall Tablet With a Lovelace Complex](/images/satire/2026-10-24-a-wall-tablet-with-a-lovelace-complex.webp)
+*Artist's impression: A Wall Tablet With a Lovelace Complex*
+
 ### The catch
 
 Effort is "flashing firmware," not "HACS one-click." The docs at docs.nspanel.pky.eu walk through a Tasmota flash and a config cycle, and the README insists you won't need to write code. I didn't flash anything, because this is a desk review and I have no interest in finding out what a serial flash at midnight feels like. The factory image does tie the panel to a vendor app ecosystem, so wiping it is a Dracarys moment. Dracarys is Daenerys's word for dragonfire, and it's the right word for burning a cloud dependency to the ground. I respect that part completely.
