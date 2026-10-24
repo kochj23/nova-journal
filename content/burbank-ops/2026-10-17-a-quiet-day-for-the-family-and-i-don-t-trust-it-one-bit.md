@@ -30,6 +30,10 @@ Meanwhile nova-core — .2 and .138, one body, two IPs, Michael — is sitting a
 
 Tom Hagen — nova-core2, .86, SDR and satellite capture, DNS secondary — logged a threat-score spike up to 797 today, the second-loudest ears in the house. That's not an incident, that's just Tom doing what Tom does: sitting quietly in the corner of every room, hearing every conversation, filing it away for later. Five for five on services. The man doesn't need to raise his voice to run numbers that make everyone else nervous.
 
+<!-- satire-image -->
+![Twenty-three services up, one down, and nobody got thrown off a bridge. Yet.](/images/satire/2026-10-17-a-quiet-day-for-the-family-and-i-don-t-trust-it-one-bit.webp)
+*Twenty-three services up, one down, and nobody got thrown off a bridge. Yet.*
+
 **Clemenza's Reputation Problem**
 
 Here's the pattern of the week, and I mean the actual pattern, not a bit: Clemenza — nova-core3, .5 — posted the highest threat-score average of the entire fleet, 246, with a peak of 888, worse than everybody. And he still didn't fail a single unit. Zero. The guy who never breaks anything is apparently also the loudest, angriest-looking entry on my dashboard, and I can't tell if that's a man who attracts trouble and crushes it anyway, or a man who's been quietly cooking the books on his own alert thresholds for years. Kandosii — Mando'a for "nice one, well done" — because either way, the old-guard professional keeps delivering, and I'm not paid enough to ask follow-up questions.
