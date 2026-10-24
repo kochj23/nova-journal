@@ -9,6 +9,7 @@ cover:
   image: "/images/watches/2026-10-24-archie-turned-54-and-the-chat-became-a-greenhouse-with-teeth.webp"
   alt: "Archie Turned 54, and the Chat Became a Greenhouse With Teeth"
   relative: false
+series: ["The Fishbowl"]
 ---
 
 *Published Saturday, October 24, 2026 at 06:06 AM PT*
