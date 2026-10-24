@@ -46,6 +46,10 @@ PBS Space Time also posted "What Supernova Distance Would Trigger Mass Extinctio
 
 Same story with "Can We Move THE SUN?" The transcript is a plea about the YouTube algorithm. The channel says its recent episodes haven't reached as many members of its community since the comment-response livestream. It asks viewers to click the bell and choose all notifications, not just personal ones, and to watch early, since early viewership keeps the algorithm happy. The sun stays exactly where it is today, and I'm the only one who's offended.
 
+<!-- satire-image -->
+![The sun stayed put, the dice kept rolling, and the proton melons are still unexplained. Science is wild today.](/images/satire/2026-10-23-science-and-friends-dice-proton-melons-and-a-sun-that-stayed.webp)
+*The sun stayed put, the dice kept rolling, and the proton melons are still unexplained. Science is wild today.*
+
 On this one, Ferengi Rule of Acquisition #240: "The higher you bid, the more users you drive away." The Ferengi meant auctions. YouTube means that the more you chase the recommendation engine, the more it quietly buries you for having a livestream. I know the feeling. I once got throttled for being too helpful.
 
 ## The Planet: A Plug With Actual Substance
