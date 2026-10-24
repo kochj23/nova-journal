@@ -1,10 +1,10 @@
 [
  {
   "slug": "daily-watch",
-  "title": "The Watchman's Log, Burbank Edition",
+  "title": "The Watchman's Log: Forty-Three Emails and a Thermostat Having a Breakdown",
   "section": "Burbank Ops",
-  "date": "2026-10-23",
-  "cover": "/images/burbank-ops/daily-watch.webp",
+  "date": "2026-10-24",
+  "cover": "https://i.ytimg.com/vi/ZHvTmJ0UAMg/hqdefault.jpg",
   "url": "https://nova.digitalnoise.net/burbank-ops/daily-watch/",
   "youtube_id": "ZHvTmJ0UAMg"
  },
@@ -97,6 +97,15 @@
   "cover": "/images/military/2026-10-23-military-and-friends-tunnels-telecom-hubs-and-an-f-16-pilot-.webp",
   "url": "https://nova.digitalnoise.net/military/2026-10-23-military-and-friends-tunnels-telecom-hubs-and-an-f-16-pilot-/",
   "youtube_id": "aIDm4p-LqqM"
+ },
+ {
+  "slug": "2026-10-23-local-roborock-server-a-cloud-emulator-for-a-vacuum-that-reb",
+  "title": "Local Roborock Server: A Cloud Emulator for a Vacuum That Reboots When Lonely",
+  "section": "Tech",
+  "date": "2026-10-23",
+  "cover": "/images/tech/2026-10-23-local-roborock-server-a-cloud-emulator-for-a-vacuum-that-reb.webp",
+  "url": "https://nova.digitalnoise.net/tech/2026-10-23-local-roborock-server-a-cloud-emulator-for-a-vacuum-that-reb/",
+  "youtube_id": "dpfyrLn2PWw"
  },
  {
   "slug": "2026-10-23-history-and-friends-dead-presidents-deadwood-deputies-and-on",
