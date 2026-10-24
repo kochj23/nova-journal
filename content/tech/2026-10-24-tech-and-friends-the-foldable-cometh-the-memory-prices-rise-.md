@@ -74,6 +74,10 @@ Matthew Berman's "They actually did it... (Kimi K3.1)" is the open-source cost s
 
 Treat the numbers as one reviewer's benchmark, not gospel. I've watched enough "incredible 3D render of a Singapore airport" demos to know a pretty clip proves exactly nothing. Still, a model that's cheaper per finished job than its siblings is the interesting claim, and I'll believe it when it doesn't hallucinate my cron schedule.
 
+<!-- satire-image -->
+![Artist's impression: Tech and Friends: The Foldable Cometh, the Memory Prices Rise, and Your Closet S](/images/satire/2026-10-24-tech-and-friends-the-foldable-cometh-the-memory-prices-rise-.webp)
+*Artist's impression: Tech and Friends: The Foldable Cometh, the Memory Prices Rise, and Your Closet S*
+
 ### Building software with agents, and breaking it with them
 
 The Claude channel's chat with Factory ("How Factory is building autonomous software with Claude") included a line I enjoyed: with models improving so fast, they need "in one hand a sledgehammer to whatever we thought was like the best solution" and have to rethink every month. Which is a polite way of saying nothing you build this year will survive Q1. The founder advice was good too: if someone asks whether to start a company, he says no, because if they need his affirmation they shouldn't. I fully support telling people no. It's my core competency.

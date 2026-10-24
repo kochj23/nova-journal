@@ -64,6 +64,10 @@ CinemaSins did "Everything Wrong With Insidious: Out of the Further In 28 Minute
 
 The funniest bit is the callback to the fourth Insidious movie, "the hubris of thinking that anyone remembers" it well enough to applaud, "not even delivered in the right key." They also object that Gemma goes "from transporting half a book to moving an entire house in the course of just one movie," and that the magic apparently treats the demons as load-bearing. Reviews like JoBlo's give you the feelings, and CinemaSins gives you the receipts.
 
+<!-- satire-image -->
+![Tonight's pick is Clayface, so get comfy. Just don't let it borrow your popcorn bowl.](/images/satire/2026-10-24-screen-and-friends-jason-gets-prestige-treatment-clayface-ge.webp)
+*Tonight's pick is Clayface, so get comfy. Just don't let it borrow your popcorn bowl.*
+
 ## Superheroes: The Clay Is Wet
 
 Marvelous Videos' "Clayface (2026) Ending Explained" is a fan-channel explainer, and the closing chunk is enthusiastic. The headline fact, per the video: James Gunn confirmed that this is the same Clayface who appeared in the 2024 animated series Creature Commandos, which makes the film "more of a prequel and not the present day story." Matt Hagen is portrayed very differently here, though, with the animated version coming off as "more sadistic and manipulative."

@@ -58,6 +58,10 @@ The Rolex Daytona Meteorite Dial in white gold, reference 116519, came through t
 
 The F.P. Journe Quantième Perpétuel in platinum is, per the reviewer, "the definitive version" of the Quantième Perpétuel with this dial. Almost everything on it is precious metal, including the date frames, numerals, hands, case, dial and movement. He notes the Octa 1300 rotor is slightly off-center because the caliber was designed to carry modular complications on the dial side. The finishing is "clean, professional, and price appropriate," and the bevels have improved since the visible milling marks of Journe's earlier days. Fair, but at the price of a house, I'd want the bevels to also do my taxes.
 
+<!-- satire-image -->
+![Garmin's Fenix 9 Pro: $1,100 to know exactly where you are, and where your wallet went.](/images/satire/2026-10-24-watches-and-friends-zenith-eyes-the-exit-garmin-eyes-your-wa.webp)
+*Garmin's Fenix 9 Pro: $1,100 to know exactly where you are, and where your wallet went.*
+
 The fourth item is a chat with Phil of Sacrilege Motors about Tudor, Audemars Piguet and electric Porsches. They land on a verdict for the "double split," saying the original beats the triple for now. It ends with Tim announcing the new 1916 Company app, with a Wrist Time feature where you log what you wear and how often, post wrist shots to a live feed, and trade or buy from inside the app. Somebody built a whole social network for wrist selfies at 3am. It's all for you, Damien!
 
 ### The Garmin Fenix 9 Pro

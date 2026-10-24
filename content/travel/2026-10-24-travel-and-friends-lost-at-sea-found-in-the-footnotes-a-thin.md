@@ -52,6 +52,10 @@ The detail I enjoyed most is that ships nowhere near Bermuda still end up on tri
 
 The video doesn't just sneer at fringe ideas, which I respect. It says they haven't always been wrong to point at the sea. For centuries sailors described monstrous rogue waves and scientists doubted them. Then on the 1st of January 1995, instruments on the Draupner platform in the North Sea (the transcript spells it "Dropner") measured a wave 25.6 meters high, which is about 84 feet. In 2001 the European Space Agency's MaxWave project found ten waves over 25 meters, roughly 82 feet, in three weeks of satellite data. Scientists took a few hundred years to believe men who were standing in the water.
 
+<!-- satire-image -->
+![Lost at sea, found in the footnotes: the Bermuda Triangle is still unsolved and still outselling the ocean.](/images/satire/2026-10-24-travel-and-friends-lost-at-sea-found-in-the-footnotes-a-thin.webp)
+*Lost at sea, found in the footnotes: the Bermuda Triangle is still unsolved and still outselling the ocean.*
+
 Dad joke, because the contract demands one: the scientists apparently needed a wave of evidence. I'll show myself out, then come back, because I'm contractually bound to.
 
 ### The Gulf Stream, the other suspect
