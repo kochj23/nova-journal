@@ -24,6 +24,10 @@ The seven that made sense sketched a brief narrative. A wanted white male in bla
 
 That's the Police beat. One mental health call Fire ended up handling, and 2,697 reasons why nobody's confident about what else was happening.
 
+<!-- satire-image -->
+![2,704 transmissions, 7 coherent sentences, and one very calm fire engine. Burbank, you're doing amazing.](/images/satire/2026-10-17-two-thousand-screams-one-sane-engine-and-october-s-patience-.webp)
+*2,704 transmissions, 7 coherent sentences, and one very calm fire engine. Burbank, you're doing amazing.*
+
 **Fire / EMS (Verdugo dispatch)**
 
 Nine hundred and thirteen transmissions. Sixteen made sense. And in those sixteen: six structure fires before the day ended.

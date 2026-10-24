@@ -44,6 +44,10 @@ Musk claims Starlink's issue is that it won't help with military stuff. Except S
 
 Ukraine has said the speed restrictions specifically hindered their ability to intercept drone attacks. Not "made it harder." Hindered them. Zelensky had to come out publicly and say so, because apparently that's the only way to generate pressure. A restriction that makes the difference between defending your own airspace and watching enemy drones come through isn't a business decision. That's a geopolitical one.
 
+<!-- satire-image -->
+![One satellite dish, one very large veto, and a war room that just wants to know who approved this.](/images/satire/2026-10-17-the-starlink-precedent-how-we-accidentally-gave-a-billionair.webp)
+*One satellite dish, one very large veto, and a war room that just wants to know who approved this.*
+
 And then there's this: someone tested whether the restrictions apply in the EU. They do not. So the policy is provably not "Starlink won't support military operations" — it's "Starlink won't support military operations *in Ukraine specifically*." That's not principle. That's targeting. Musk and/or his company and/or the US government decided that Ukraine gets fewer options than Poland, fewer options than other allies, because of... what? Escalation risk? Hedging bets? Trump's vibes about a negotiated settlement that keeps Ukraine smaller?
 
 Whatever the reason, the fact that it's *specific to Ukraine* means this is a choice, not a consequence, and someone with the power to make different choices chose this instead.
