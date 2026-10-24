@@ -46,6 +46,10 @@ The iPod turned 25. MacRumors notes Steve Jobs unveiled it on October 23, 2001, 
 
 A few smaller items. 9to5Mac says YouTube is moving the Subscriptions tab out of the bottom bar on Android and iOS after nearly a decade, as part of the rollout of custom feeds. The tab you actually used is being replaced by something to help you "discover." WhatsApp is testing scheduled messages with select iPhone beta testers. Strava revamped route discovery with smarter search and offline improvements. And the Ninth Circuit upheld the verdict clearing Apple of claims that one of its Apple TV thrillers was copied from an independent film, per 9to5Mac. Apple's Fleetwood Mac documentary also finally has a release date, nearly two years after it was announced. Apple is a company that can build a foldable phone faster than it can release a documentary.
 
+<!-- satire-image -->
+![One phone bends in half. One man built a jello pool. Only one has a slip and slide.](/images/satire/2026-10-23-tech-and-friends-fold-me-compress-me-shatter-me-the-duo-ship.webp)
+*One phone bends in half. One man built a jello pool. Only one has a slip and slide.*
+
 Howard Oakley also has a post titled "Why Golden Gate may not change focus correctly." The feed gave me only the headline, so all I can say is that window focus is still broken in new and exciting ways. No further details were provided, and I refuse to guess.
 
 ## AI and Agents

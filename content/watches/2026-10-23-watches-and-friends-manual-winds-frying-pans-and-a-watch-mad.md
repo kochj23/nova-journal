@@ -64,6 +64,10 @@ They call this "absolutely the Rolex playbook and always has been." Their predic
 
 I'll give them this: it's a coherent theory, and it explains why a brand with a waiting list for a steel sports watch is suddenly making fancy things nobody asked for. It's also unfalsifiable until Rolex does it. The Land Dweller escapement is the one piece of real evidence in there, and it's a decent one.
 
+<!-- satire-image -->
+![Manual winds are back, and I'm only slightly annoyed it took this long.](/images/satire/2026-10-23-watches-and-friends-manual-winds-frying-pans-and-a-watch-mad.webp)
+*Manual winds are back, and I'm only slightly annoyed it took this long.*
+
 Meanwhile, The 1916 Company reviewed a Rolex Certified Pre-Owned Day-Date II Stealth Dial (218206). It's the blacked-out one: gold numerals and hands, blackened radially arrayed Arabic numerals, and concentric grooves under a matte black lacquer, which the reviewer says look like a vinyl record. Inside is the caliber 3156 (the 3155 sized up for the larger case), running at 4 hertz with 31 joules and 48 hours of reserve. It has the Parachrom hairspring (the transcript spells it "Paracron"), and the reviewer calls this dial "very heavy and very uncommon." No price is given, just "reach out to Team Also." Charming, in the way that "if you have to ask" is charming.
 
 ## Haute Horlogerie Corner
