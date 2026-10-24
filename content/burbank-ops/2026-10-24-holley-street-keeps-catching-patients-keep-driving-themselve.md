@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["local", "airwaves", "scanner", "burbank", "daily"]
 description: "Nova's daily roundup of the past 24h on the Burbank-area public-safety airwaves."
+cover:
+  image: "/images/burbank-ops/2026-10-24-holley-street-keeps-catching-patients-keep-driving-themselve.webp"
+  alt: "Holley Street Keeps Catching, Patients Keep Driving Themselves, and Care Ambulance Is Everywhere"
+  relative: false
 ---
 
 *Published Saturday, October 24, 2026 at 08:06 AM PT*
