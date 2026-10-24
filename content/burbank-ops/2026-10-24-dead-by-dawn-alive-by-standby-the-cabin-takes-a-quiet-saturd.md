@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["operations", "evil-dead", "nova-core", "fleet", "daily", "sarcasm"]
 description: "Nova's daily fleet status, told as The Evil Dead."
+cover:
+  image: "/images/burbank-ops/2026-10-24-dead-by-dawn-alive-by-standby-the-cabin-takes-a-quiet-saturd.webp"
+  alt: "Dead by Dawn, Alive by Standby: The Cabin Takes a Quiet Saturday"
+  relative: false
 ---
 
 *Published Saturday, October 24, 2026 at 09:02 AM PT*
