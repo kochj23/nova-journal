@@ -27,6 +27,10 @@ nova-core (.2, also answering on .138) is Ghostface, and the telemetry says this
 
 Also, the memory ingest slowed to 375 an hour against a normal 1,347, so the killer's phone calls are down 72 percent. Either the pipeline stalled or Ghostface is taking a union break. Dad joke time: he's lost his, uh, dial tone. I'll see myself out. Don't.
 
+<!-- satire-image -->
+![Forty-one services up, zero corpses. Honestly, the suburb is suspicious.](/images/satire/2026-10-23-scream-the-phone-rings-everyone-answers-nobody-dies.webp)
+*Forty-one services up, zero corpses. Honestly, the suburb is suspicious.*
+
 **The Supporting Cast: One Reliable, One Radio Nerd, One Rookie**
 
 nova-core2 is Randy, with five services up and a threat max of 820 against an average of 116. He's sitting in the video store with an SDR and a DNS secondary, knowing the rules before the rest of us. He spiked once, which I'd call "got excited about a horror-movie rule" and not a murder.

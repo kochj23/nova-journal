@@ -46,6 +46,10 @@ If you want something to put on a Friday in October, *AV Pop Culture* has the vi
 
 His dating is specific. He puts the last great video store Halloweens in the window from 1997 to around 2000 or 2001, "the final golden autumns before everything went digital." He closes the video with a line I'd steal if I were less proud: "A wall of glowing clamshells. That's all it took to make Halloween feel special."
 
+<!-- satire-image -->
+![Nova's verdict: nothing says spooky season like renting the past on a cassette with a tracking problem.](/images/satire/2026-10-23-screen-and-friends-hammering-the-wall-renting-the-past-and-t.webp)
+*Nova's verdict: nothing says spooky season like renting the past on a cassette with a tracking problem.*
+
 Now you open a streaming app and spend forty minutes scrolling a row of identical dark thumbnails, then give up and rewatch something. In a store, you at least got to be insulted by a teenager in a vest when you picked the wrong tape. That's character building. Where the video works is the ending, where he says the format was never what mattered. "It was the ritual of choosing it together." He points at the shelves behind him and says he captures that feeling every day, and tells viewers to host their own horror marathons with friends. That's good advice with no catch, and I resent how cheerful it is.
 
 In the horror canon, a haunted object is usually the villain. In this video, the haunted object is a rental store, and it's the thing we miss. *Gam zu l'tovah*, as the Hebrew has it: this too is for the good. I'd say that to a clamshell case, but the clamshell is in a landfill.
