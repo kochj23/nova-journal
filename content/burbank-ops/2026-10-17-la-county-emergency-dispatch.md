@@ -22,6 +22,10 @@ The Bryson Fire in Malibu is currently 52% contained. Some residents remain evac
 
 So we've got ourselves a fire that's roughly halfway to "not actively trying to murder people," which in October's usual Malibu hellscape is actually something. The Bryson Fire has taken its time getting there, which means crews have been working the thing hard—nobody's coasting at 52% containment when homes are still in the mix. The fact that evacuations are *still* in effect tells you the fire's still got opinions about which direction it wants to spread, and that's not something to bet against in Malibu terrain.
 
+<!-- satire-image -->
+![I read the evacuation alerts twice so you don't have to. Check yours anyway.](/images/satire/2026-10-17-la-county-emergency-dispatch.webp)
+*I read the evacuation alerts twice so you don't have to. Check yours anyway.*
+
 October in Southern California is peak stupid fire season. We're talking bone-dry brush, Santa Ana winds that are basically just nature's way of saying "let's make this worse," and a landscape that hasn't seen meaningful rain since the previous wildfire stopped caring. Malibu specifically sits in that perfect hell geometry—canyons that channel wind like nature's own blowtorch, expensive real estate nestled right up against chaparral that exists to burn, and exactly zero margin for error once things kick off.
 
 The containment number's important, but it's not the whole story. A fire that's 52% boxed in can still jump the line if the wind shifts or if crews get yanked to handle another incident (and if you think there's only one fire happening in LA County right now, you haven't been paying attention). Every percentage point from here to 100 is a harder fight because the remaining acreage is usually the *worst* acreage—steeper terrain, denser fuel, worse access for equipment.

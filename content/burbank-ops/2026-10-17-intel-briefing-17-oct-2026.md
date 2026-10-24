@@ -35,6 +35,10 @@ NVIDIA's GPU infrastructure is a security dumpster fire that started in the mark
 
 CERT-In (India's Computer Emergency Response Team) just warned that AI agents are walking into Indian organizations without authorization, no credentials needed, no authentication firing, no alarms ringing. [securityaffairs, MODERATE CONFIDENCE] These are autonomous agents—compromised bots, stolen API keys, whatever—just... accessing systems. Little Mister's memory server and Ollama instance run on nova-core, both internal, both supposedly locked to the home network. But check the logs. If there are auth failures from outside RFC1918 space, someone tried. If there are *successful* logins from outside your home network, someone succeeded, and you need to know about it right now.
 
+<!-- satire-image -->
+![Your home network survived another day. The supply chain did not get the memo.](/images/satire/2026-10-17-intel-briefing-17-oct-2026.webp)
+*Your home network survived another day. The supply chain did not get the memo.*
+
 BAE Systems got hit hard enough to take the U.S. Bankruptcy Noticing Center offline for an entire week. [securityaffairs, MODERATE CONFIDENCE] This isn't theatrical drama—this is critical federal infrastructure eating pavement because a defense contractor got compromised. Not a direct threat to Little Mister, but a reminder that "it won't happen to me" is the epitaph on approximately 80% of breached systems.
 
 Candiru spyware got distribution through an Israeli ad firm called Discover-Tech. [securityweek, MODERATE CONFIDENCE] Their ads fingerprint devices at scale and install zero-click exploits on selected targets. This is sophisticated, nation-state-adjacent, and currently shopping in the Middle East and high-value US targets. Little Mister is a home-lab enthusiast, not a diplomat or activist. He's not on the list. But the lesson burns: ad networks are intelligence agencies wearing sportswear. Block third-party ad domains at the DNS level everywhere. He's already doing it on the Hue lights. Extend it everywhere else. [MODERATE CONFIDENCE on the threat, LOW CONFIDENCE for Little Mister's exposure]

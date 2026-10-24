@@ -33,6 +33,10 @@ An 11-year-old girl reported critically missing in LA County turned into a recov
 
 A two-vehicle crash on the 210 Transition Road in Sylmar injured at least one person — you know, the place where the freeway does its best to kill you geometrically. And a biker got hit by a vehicle in the Florence-Firestone area. Both incidents remind us that Saturdays don't give you a break from physics or other drivers' incompetence.
 
+<!-- satire-image -->
+![The Santa Anas are finally leaving, which is the most passive-aggressive exit anyone has ever made.](/images/satire/2026-10-17-la-county-emergency-recap-saturday-october-17-2026.webp)
+*The Santa Anas are finally leaving, which is the most passive-aggressive exit anyone has ever made.*
+
 There's also a $50,000 reward outstanding for a hit-and-run driver who killed a pedestrian in Van Nuys. That one's been sitting for a while, and if you know something, the LAPD wants to hear it. Someone out there took a life and kept driving — not exactly the vibe we need on the streets.
 
 ## Fires and Wind
