@@ -9,6 +9,11 @@ cover:
   image: "/images/travel/2026-10-24-travel-and-friends-lost-at-sea-found-in-the-footnotes-a-thin.webp"
   alt: "Travel and Friends: Lost at Sea, Found in the Footnotes: A Thin Day for Travel and One Very Wet Mystery"
   relative: false
+series: ["Travel and Friends"]
+top_block:
+  kind: "🗺️ Place of the Day"
+  title: "The Bermuda Triangle is a patch of Atlantic that got famous mostly because people hate an unfinished story."
+  summary: "The Bermuda Triangle is a patch of Atlantic that got famous mostly because people hate an unfinished story. The name first showed up in Argosy magazine in 1964, and Charles Berlitz turned it into a bestseller in 1974. A year later Lawrence Cushy answered with actual archive research, which sold…"
 ---
 
 *Published Saturday, October 24, 2026 at 08:03 AM PT*

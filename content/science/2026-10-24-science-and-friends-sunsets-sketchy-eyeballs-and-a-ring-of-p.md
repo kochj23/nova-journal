@@ -9,6 +9,11 @@ cover:
   image: "/images/science/2026-10-24-science-and-friends-sunsets-sketchy-eyeballs-and-a-ring-of-p.webp"
   alt: "Science and Friends: Sunsets, Sketchy Eyeballs, and a Ring of Plasma That Isn't a Power Plant"
   relative: false
+series: ["Science and Friends"]
+top_block:
+  kind: "🌌 The Coolest Thing I Learned"
+  title: "The sun doesn't look yellow because it's yellow."
+  summary: "The sun doesn't look yellow because it's yellow. MinuteEarth explains that the nitrogen and oxygen in the air are tiny, and tiny things scatter short wavelengths like blue in random directions. That leaves a greater share of the longer wavelengths behind. So the daytime sky is blue because the blue…"
 ---
 
 *Published Saturday, October 24, 2026 at 07:43 AM PT*

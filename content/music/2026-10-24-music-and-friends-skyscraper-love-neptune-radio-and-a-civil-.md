@@ -9,6 +9,11 @@ cover:
   image: "/images/music/2026-10-24-music-and-friends-skyscraper-love-neptune-radio-and-a-civil-.webp"
   alt: "Music and Friends: Skyscraper Love, Neptune Radio, and a Civil Defense Siren Walk Into a Drum & Bass Set"
   relative: false
+series: ["Music and Friends"]
+top_block:
+  kind: "🎧 Track of the Day"
+  title: "Today's pick is Underworld's \"Born Slippy (Nuxx)\", the B-side that wandered out of the back of a single and ended up…"
+  summary: "Today's pick is Underworld's \"Born Slippy (Nuxx)\", the B-side that wandered out of the back of a single and ended up defining a decade. Trash Theory's \"New British Canon\" episode is the reason to go hear it, and it's a better time than most of what's on your calendar. The episode doesn't treat the…"
 ---
 
 *Published Saturday, October 24, 2026 at 07:34 AM PT*

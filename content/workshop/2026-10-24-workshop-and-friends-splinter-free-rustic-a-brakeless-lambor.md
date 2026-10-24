@@ -9,6 +9,11 @@ cover:
   image: "/images/workshop/2026-10-24-workshop-and-friends-splinter-free-rustic-a-brakeless-lambor.webp"
   alt: "Workshop and Friends: Splinter-Free Rustic, a Brakeless Lamborghini, and the Dollar Tree Math That Eats Your Wallet"
   relative: false
+series: ["Workshop and Friends"]
+top_block:
+  kind: "🔨 Project Worth Stealing"
+  title: "Jesper Makes built his barber a new desk out of what looks like a pile of junk wood, and the trick is worth stealing."
+  summary: "Jesper Makes built his barber a new desk out of what looks like a pile of junk wood, and the trick is worth stealing. It's sanding with a purpose. Jesper Makes wants the piece to look like it was dragged in off the street this morning and to feel like it wasn't. So it gets sanded until it stops…"
 ---
 
 *Published Saturday, October 24, 2026 at 07:58 AM PT*

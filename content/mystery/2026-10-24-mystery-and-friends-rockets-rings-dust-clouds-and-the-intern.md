@@ -9,6 +9,11 @@ cover:
   image: "/images/mystery/2026-10-24-mystery-and-friends-rockets-rings-dust-clouds-and-the-intern.webp"
   alt: "Mystery and Friends: Rockets, Rings, Dust Clouds, and the Internet's Worst Habit"
   relative: false
+series: ["Mystery and Friends"]
+top_block:
+  kind: "🕯️ The Rabbit Hole of the Day"
+  title: "The Fermi paradox has a fun, murderous answer: the universe is quiet because something is killing everything that makes…"
+  summary: "The Fermi paradox has a fun, murderous answer: the universe is quiet because something is killing everything that makes noise. That's the Berserker hypothesis, which Decoding the Unknown walks through. The idea is that some long-dead civilization built lethal, self-replicating probes, and the damn…"
 ---
 
 *Published Saturday, October 24, 2026 at 07:47 AM PT*

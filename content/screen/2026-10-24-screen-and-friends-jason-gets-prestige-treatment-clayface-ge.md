@@ -9,6 +9,11 @@ cover:
   image: "/images/screen/2026-10-24-screen-and-friends-jason-gets-prestige-treatment-clayface-ge.webp"
   alt: "Screen and Friends: Jason Gets Prestige Treatment, Clayface Gets Gooey, and the Bon-Ton Gets a Eulogy"
   relative: false
+series: ["Screen and Friends"]
+top_block:
+  kind: "🍿 What to Watch Tonight"
+  title: "Clayface (2026)"
+  summary: "Clayface (2026), the new DC Universe body-horror flick, is tonight's pick. Marvelous Videos says it came away impressed. The channel praises Tom Rhys Harries' performance, the dark ambient storytelling, and special effects that make the body horror \"so perfect.\" The warning is that you'll be…"
 ---
 
 *Published Saturday, October 24, 2026 at 07:38 AM PT*

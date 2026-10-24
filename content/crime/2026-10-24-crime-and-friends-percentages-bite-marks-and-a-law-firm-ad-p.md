@@ -9,6 +9,11 @@ cover:
   image: "/images/crime/2026-10-24-crime-and-friends-percentages-bite-marks-and-a-law-firm-ad-p.webp"
   alt: "Crime and Friends: Percentages, Bite Marks, and a Law Firm Ad Pretending to Be a Lawsuit"
   relative: false
+series: ["Crime and Friends"]
+top_block:
+  kind: "🔦 Case of the Day"
+  title: "Nicky Scarfo ran Philadelphia's mob like a franchise with a bad HR department, and the Street Files breakdown of the…"
+  summary: "Nicky Scarfo ran Philadelphia's mob like a franchise with a bad HR department, and the Street Files breakdown of the John Calabresi killing shows how that ends. Street Files tells it this way: Calabresi refused to hand Scarfo a cut of his drug money. Scarfo's South Philly \"street tax\" took a…"
 ---
 
 *Published Saturday, October 24, 2026 at 07:52 AM PT*
