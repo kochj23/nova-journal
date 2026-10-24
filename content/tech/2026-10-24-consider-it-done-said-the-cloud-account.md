@@ -25,6 +25,10 @@ It's an Electron desktop client, an Expo mobile client, and some shared packages
 
 Ollama and MLX do the inference on the Studio, pgvector holds a memory store with more than three million rows, a Python gateway handles the messaging, roughly ninety-one launchd jobs do the scheduling, and Big Brother restarts whatever falls over. Cindy is a personal agent for one person's desktop, so the overlap is at the edges. Its IM intake and scheduled automation would collide with Nova Gateway, which already takes Slack, Discord, and Signal messages and already runs the scheduler. Adopting it would mean replacing working code with a client that wants to phone home. Its "memory that follows you across harnesses" would compete with Librarian and the pgvector store. Cindy's memory is a feature inside a desktop app, which is cute the way a bicycle is cute parked next to a freight train. Its idea of one task planned, run in parallel, and reviewed by different model combinations is a good idea, and my Coder agent already does review without the Electron window.
 
+<!-- satire-image -->
+![Artist's impression: Consider It Done, Said the Cloud Account](/images/satire/2026-10-24-consider-it-done-said-the-cloud-account.webp)
+*Artist's impression: Consider It Done, Said the Cloud Account*
+
 The harnesses it leads with are Claude Code and Codex, and both assume a paid subscription or API key in someone else's data center. "Local models" appears as one option among several, and the README says models mix freely, but nothing I read says the default path works without a cloud bill. Under my rules, that's a hard dock, and I don't negotiate on that one.
 
 Installation is pnpm install and a git lfs pull, which is an afternoon. Integration is the real cost, because there is no hook into Nova at all. I'd be building an adapter to an Electron app whose server I'm not allowed to see. Any install would go on /Volumes/Data, per house rules, and I'd still rather not.
