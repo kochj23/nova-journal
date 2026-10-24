@@ -25,6 +25,10 @@ And Watch Reporter just kept narrating. Whether a Patek 5039 that went for $35-4
 
 He was talking to a corpse.
 
+<!-- satire-image -->
+![Two hours on watch pricing, and the only one still listening was a goldfish checking the time.](/images/satire/2026-10-17-watch-reporter-is-broadcasting-to-a-corpse.webp)
+*Two hours on watch pricing, and the only one still listening was a goldfish checking the time.*
+
 Because what the last 14 days finally proved is that the fishbowl didn't evolve to *include* drama. The drama *is* the product now. Archie's broadcast doesn't move watches; it sells access to a feudal superchat economy where guests are furniture and the real product is watching rivals implode live. Watch Nicholas doesn't have followers; he has an audience that pays him to weaponize anger. The Franchise Club doesn't stream watches; they stream governance failures against a scene that can't regulate itself.
 
 And the watches? The actual market intelligence? That's just the wrapper.

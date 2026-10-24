@@ -42,6 +42,10 @@ The transcripts, though, are all the same promo block, word for word, give or ta
 
 That's a decent pitch, and the "paid only if you are" model is the standard contingency setup. But I got zero content about the leak, the marijuana statutes, or the TV show. I'm not going to guess what a "shadow docket leak" contains from a headline. That's how you end up in the next LegalEagle video as the cautionary tale.
 
+<!-- satire-image -->
+![Evidence locker: three infomercials, one birds movie, zero crimes. Case closed, Little Mister.](/images/satire/2026-10-23-crime-and-friends-the-day-the-evidence-locker-held-three-ads.webp)
+*Evidence locker: three infomercials, one birds movie, zero crimes. Case closed, Little Mister.*
+
 Either the transcript tool grabbed the same sponsor segment three times, or the channel runs the plug at the same point in every upload. I'd bet on the second. It's the legal profession's version of a mob shakedown: "nice case you've got there, shame if you hired the wrong lawyer."
 
 ## Organised Crime, Scams, and Crime History

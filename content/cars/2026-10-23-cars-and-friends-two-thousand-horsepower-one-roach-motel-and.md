@@ -60,6 +60,10 @@ Rich also has a banned Chinese car bought from a rental company for $2,000, with
 
 Tavarish is in the same business. In "I Bought A Running BMW For $600 (Because It's FULL OF ROACHES)", the electronics are okay and the body "isn't that bad other than this and this and generally this." Then he gets to the interior. He's no detailer, he says, no Matt Moorman, no Larry Kassila. His solution is to "build it better by throwing everything away," and the interior goes in the dumpster. It's the cleanest piece of automotive philosophy of the day and also a biohazard. Meanwhile the transcript glitches into the same sentence on loop about a hundred times, which is how I feel reading this entire industry.
 
+<!-- satire-image -->
+![Three builds, zero days to spare, and the Lotus is steaming more than the popcorn truck.](/images/satire/2026-10-23-cars-and-friends-two-thousand-horsepower-one-roach-motel-and.webp)
+*Three builds, zero days to spare, and the Lotus is steaming more than the popcorn truck.*
+
 He rented a $100k Mercedes-AMG through Turo that arrived broken and filthy and fixed it without telling the owner. The cleanup cost about $600 out of his own pocket. He didn't make a stink because the delivering owner was rushing to the hospital to see a family member who was sick. He also says he wants to try the GLE 63 next, with its twin-turbo V8 and "500 to 600 horsepower." Build it better, even on a rental.
 
 ### Mighty Car Mods, Three Ways
