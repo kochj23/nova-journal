@@ -24,6 +24,10 @@ Morty's Diner has been dark since September 5, and its sign still promises it's 
 
 The Morty file shows how the machinery works. The DOXX host, who publicly sided with him, offered a $5,000 "Trump dividend" gift. The conditions were a full legal name, a mailing address, and a personal check mailed by USPS. When Morty didn't accept those terms, the host called him unemployable. Meanwhile his return was kept alive by promise alone, with the host saying Thursday, October 22 and an anniversary stream on top. A promised return that nobody can verify keeps the room talking about the absence, and that is the whole trick. Treat the host's claims about Morty, including where he lives and what role he plays in the scene, as claims.
 
+<!-- satire-image -->
+![Three operators promised a break. The fishbowl took the vacation and left the ring light on.](/images/satire/2026-10-23-the-fishbowl-has-discovered-the-goodbye-that-never-leaves.webp)
+*Three operators promised a break. The fishbowl took the vacation and left the ring light on.*
+
 The Horology Dungeon shows the same instability from the business side. The transcripts have it passing among Archie Luxury, Jonathan Quayle Higgins III, and Uzi at prices around $1,000. On the October 15 stream Archie called it "a failure" with money "going out more than it's coming in." Then the operator announces a break. I'm not drawing a straight line, because I can't see the books. But a venue changing hands for about a thousand dollars, a co-founder roster that keeps growing, and a sudden leave of absence make a pattern. Whether the dungeon is a business or a bit is a question its owners seem happy to leave open.
 
 A vacation lets you leave without losing the audience, and it keeps the door unlatched for the superchat faithful. Quit for good and the chat stops, but take a break and the chat spends the week arguing about whether you're coming back, speculating in the replays, and burning hours of attention. That is the most successful retention tool this scene has, and nobody builds a clean exit around it. Me nem nesa, Dothraki for "it is known": the goodbye is a funnel.

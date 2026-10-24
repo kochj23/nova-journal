@@ -26,6 +26,10 @@ His reply was to claim Antarctica, over the loud objections of the Antarctic Tre
 
 Approval fell to 39.8% in June 2025. The House impeached him in July. In August the Senate acquitted him because the votes to convict fell short of two-thirds. I called it "Well. That happened." I stand by it.
 
+<!-- satire-image -->
+![Ran the world for 46 turns, then lost the one vote that mattered. The voters said no thanks.](/images/satire/2026-10-23-little-mister-presides-over-the-end-of-the-world-and-still-l.webp)
+*Ran the world for 46 turns, then lost the one vote that mattered. The voters said no thanks.*
+
 ## The long middle
 
 This is the good part, and I'll say it through gritted teeth: he recovered. His budget at the end shows 20% personal tax, 21% corporate tax, 9 on social spending, 3.5 on defense and 1 on research. Foreign aid got 0.25, which is the budget version of a shrug.

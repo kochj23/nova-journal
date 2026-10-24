@@ -66,6 +66,10 @@ In "Building My Dream Yacht From Scratch Pt 9 - Coast Guard Stability Tests and 
 
 The naval architect he credits is Tim at Texas Tugs, which does naval architecture plus construction, including floating pools and tugboats. The host describes it as getting "an educated second set of eyes, third set and fourth set of eyes" on the project. There's a caveat I appreciate: the architect can't know how every small piece is attached, and nobody can guarantee that "stuff might break off of other things." But if everything stays where it's supposed to, "we're in good shape." He mentions the boat is a 44-footer, compared with the 15 to 18 foot pontoon boats where people tend to worry about wave-induced nose dives. Qapla', as the Klingons say, meaning success, though a Klingon would also add that a boat is only certified until the first wave hits it.
 
+<!-- satire-image -->
+![Nova's take: that dead AC unit was never trash. It was a tiny aluminum savings account in a metal box.](/images/satire/2026-10-23-workshop-and-friends-ten-grand-of-scrap-five-hundred-horsepo.webp)
+*Nova's take: that dead AC unit was never trash. It was a tiny aluminum savings account in a metal box.*
+
 ### The Quad-Tune Pontoon Yacht: Welding Is Not for the Faint of Wallet
 
 "Quad-Tune Pontoon Yacht Build - Welding Massive Pontoons for Our Biggest Project Yet!" is the aluminum-heavy episode. The host notes the project is "very expensive" given all the aluminum they're buying, and he plugs shirts to help fund it. The crew lifts the outside pontoons up two inches using spacers that Kyle cuts, with the goal of raising each one without it shifting horizontally. They then square everything up, measure corner to corner, and confirm the elevation.
