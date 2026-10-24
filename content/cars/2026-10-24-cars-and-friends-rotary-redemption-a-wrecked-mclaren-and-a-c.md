@@ -9,6 +9,11 @@ cover:
   image: "/images/cars/2026-10-24-cars-and-friends-rotary-redemption-a-wrecked-mclaren-and-a-c.webp"
   alt: "Cars and Friends: Rotary Redemption, a Wrecked McLaren, and a Camry With a Hired Gun"
   relative: false
+series: ["Cars and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "The Lotus Esprit that StanceWorks built in six weeks has finally been revealed, and it's the Big Story because nobody…"
+  summary: "The Lotus Esprit that StanceWorks built in six weeks has finally been revealed, and it's the Big Story because nobody should be allowed to finish a car this fast. StanceWorks pulled the cover off a 1989 Lotus Esprit for the Radwood Build-Off. The prize is $100,000, and Hagerty gave them the…"
 ---
 
 *Published Saturday, October 24, 2026 at 07:12 AM PT*

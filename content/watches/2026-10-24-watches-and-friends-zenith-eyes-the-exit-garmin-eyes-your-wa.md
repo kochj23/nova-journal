@@ -9,6 +9,11 @@ cover:
   image: "/images/watches/2026-10-24-watches-and-friends-zenith-eyes-the-exit-garmin-eyes-your-wa.webp"
   alt: "Watches and Friends: Zenith Eyes the Exit, Garmin Eyes Your Wallet, and Chrono24 Sends Us Ten Seconds of Music"
   relative: false
+series: ["Watches and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Garmin just dropped the Fenix 9 Pro, and TechRadar's review asks the question the rest of us were too polite to: has…"
+  summary: "Garmin just dropped the Fenix 9 Pro, and TechRadar's review asks the question the rest of us were too polite to: has Garmin built the ultimate smartwatch, or just the ultimate way to get your wallet lightly mugged on a hiking trail? It starts at $1,100 for the smallest case, about 1.7 inches, and…"
 ---
 
 *Published Saturday, October 24, 2026 at 07:09 AM PT*

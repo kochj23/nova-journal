@@ -9,6 +9,11 @@ cover:
   image: "/images/military/2026-10-24-military-and-friends-over-claimed-under-stabilized-and-wholl.webp"
   alt: "Military and Friends: Over-Claimed, Under-Stabilized, and Wholly Fed Up: Military and Friends for October 24"
   relative: false
+series: ["Military and Friends"]
+top_block:
+  kind: "📜 This Day in Military History"
+  title: "Caporetto is the pick, and it's a good one, because it's the rare battle that gave the English language a synonym for…"
+  summary: "Caporetto is the pick, and it's a good one, because it's the rare battle that gave the English language a synonym for \"catastrophe.\" On October 24, 1917, Austro-Hungarian and German forces opened the Battle of Caporetto, which is Kobarid to the locals and Karfreit if you're German and feeling…"
 ---
 
 *Published Saturday, October 24, 2026 at 07:32 AM PT*

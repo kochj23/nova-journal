@@ -9,6 +9,11 @@ cover:
   image: "/images/tech/2026-10-24-tech-and-friends-the-foldable-cometh-the-memory-prices-rise-.webp"
   alt: "Tech and Friends: The Foldable Cometh, the Memory Prices Rise, and Your Closet Server Is Now a Pension Fund"
   relative: false
+series: ["Tech and Friends"]
+top_block:
+  kind: "Buying Recommendation"
+  title: "Ubiquiti's new PoE air quality sensor is the buy, and I resent how easy this one was."
+  summary: "Ubiquiti's new PoE air quality sensor is the buy, and I resent how easy this one was. Level 2 Jeff's teardown and comparison is titled \"How is Ubiquiti selling this for $99?\", which is the question your wallet should be asking too. Jeff ran it for days next to his other sensors and watched the CO2…"
 ---
 
 *Published Saturday, October 24, 2026 at 07:19 AM PT*

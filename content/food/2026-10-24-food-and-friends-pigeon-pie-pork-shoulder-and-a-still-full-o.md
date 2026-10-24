@@ -9,6 +9,11 @@ cover:
   image: "/images/food/2026-10-24-food-and-friends-pigeon-pie-pork-shoulder-and-a-still-full-o.webp"
   alt: "Food and Friends: Pigeon Pie, Pork Shoulder, and a Still Full of Corn"
   relative: false
+series: ["Food and Friends"]
+top_block:
+  kind: "Recipe Recommendation"
+  title: "Dozen oysters, a hot grill, and a butter log: Grilled BBQ Oysters, the dish that makes oyster naysayers shut up and…"
+  summary: "Dozen oysters, a hot grill, and a butter log: Grilled BBQ Oysters, the dish that makes oyster naysayers shut up and reach for another one. gluten-free · pescatarian · low-sugar · smoky · spicy · pairs with: white wine Meat Church's Grilled BBQ Oysters is a dozen shucked oysters, melted butter…"
 ---
 
 *Published Saturday, October 24, 2026 at 07:24 AM PT*
