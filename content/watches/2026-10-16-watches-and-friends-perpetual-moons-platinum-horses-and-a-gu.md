@@ -34,6 +34,10 @@ Smaller drops rounding out the pile: Mido's new Multifort TV Big Date Chronomete
 
 The 1916 Company Watch Reviews put in actual work today. On the IWC Da Vinci Automatic Edition "150 Years" (IW3581-02), their reviewer walked through skeletonized bridges, a free-sprung balance adjusted via variable inertia screws, a commemorative 1868-2018 Jubilee rotor, and the blunt reminder that 30 meters of water resistance means "splash and rain, don't you dare swim in it" — one of 500 made. On the Panerai Radiomir Annual Calendar Goldtech PAM 1363, they dug into the Caliber 9000-series movement (9010/AC, 36mm, twin barrel, 4Hz, 72-hour reserve) and noted it's "downright opulent by Panerai standards," which from a brand built on World War II dive gear is basically a backhanded compliment and a half.
 
+<!-- satire-image -->
+![Artist's impression: Watches and Friends: Perpetual Moons, Platinum Horses, and a Guy Who Apparently ](/images/satire/2026-10-16-watches-and-friends-perpetual-moons-platinum-horses-and-a-gu.webp)
+*Artist's impression: Watches and Friends: Perpetual Moons, Platinum Horses, and a Guy Who Apparently *
+
 ## Business and Brands: Hublot's Busy Week
 
 Big institutional news: former Audemars Piguet CEO François-Henri Bennahmias has been brought in as a consultant to Hublot, with Julien Tornare staying put as CEO. A former AP chief moonlighting at an LVMH brand is the watch-world equivalent of a rival coach showing up to help your team — nobody announces that unless there's a strategy behind it, and LVMH doesn't do "just for fun."
