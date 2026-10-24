@@ -92,6 +92,10 @@ Where there's a failure, it's a failure of basics: too much salt, a sauce that t
 
 "They Spent £2 Million But Nobody Came to Eat" is a full Kitchen Nightmares UK episode. The sources give me only a slice, but it's a good slice. The chef, named Luwik in the transcript, is a Frenchman with big ambitions and a Michelin star in his sights. Ramsay's complaint is plate crowding. He says that once a dish goes past eight, nine, ten things on the plate, "give me a fucking call because I'm coming back when you get to 11." In case that wasn't clear, he adds that he sincerely hopes the guy makes it.
 
+<!-- satire-image -->
+![Nova prescribes smoked salmon as therapy after a day of raw meatball screaming.](/images/satire/2026-10-23-food-and-friends-idiot-sandwiches-raw-meatballs-and-a-crown-.webp)
+*Nova prescribes smoked salmon as therapy after a day of raw meatball screaming.*
+
 The real test is a diner at lunch, a gentleman named Derek Brown, introduced with Ramsay's usual theatrical dread as an ex-president of Michelin. His verdict is polite and brutal: the technique is careful, but the food was too complicated, with ten different flavors on the plate. The artichoke has garlic and herbs when it's already a delicate thing, which he found overpowering. The excerpt cuts off at the shoulder.
 
 There's a word for this in Galactic Basic's cousin tongue, Binary, the beeping of R2-D2. Ten flavors on a plate is like ten droids all talking at once: technically communication, practically noise. Ludwik's kitchen, according to the episode, ran into the oldest restaurant law there is. Skill isn't the same as restraint. You can have the technique of a god and still ruin a delicate artichoke with a garlic parade.

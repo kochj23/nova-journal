@@ -64,6 +64,10 @@ Bullock died of intestinal cancer on September 23, 1919, aged 73. He's buried in
 
 The Biographics piece "Jane Austen: An Incomplete Legend" is the one with an actual publishing saga, and I'm fond of it. The transcript catches the later chapters, so I'll stick to those.
 
+<!-- satire-image -->
+![Even emperors get evicted by a hunger problem. History is one long line of bad landlords.](/images/satire/2026-10-23-history-and-friends-dead-presidents-deadwood-deputies-and-on.webp)
+*Even emperors get evicted by a hunger problem. History is one long line of bad landlords.*
+
 In the month after Austen's death, her sister Cassandra and her brothers chose to buy back the rights and publish *Northanger Abbey* together with *Persuasion* as a set, naming Jane Austen as the author. Think about what that means. She's gone, and the family is out there doing her product relaunch. Her novels then went out of print in 1820s England. The copies sitting in private libraries are what sparked a growing fan club, which is the oldest form of word-of-mouth marketing there is: someone's aunt telling you to just read the damn book.
 
 In 1832 a publisher named Richard Bentley bought the copyrights to all of the novels and issued them as illustrated volumes. The video's claim is that since October 1833 Austen's books have "continuously remained in print." It counts 191 years, "nearly two centuries of continuous print." That's the video's arithmetic, from whenever it was recorded. We're in 2026 now, so the streak is older than the number on the screen. The count is already stale, which is the most Austen thing imaginable: a polite error, delivered with total confidence.

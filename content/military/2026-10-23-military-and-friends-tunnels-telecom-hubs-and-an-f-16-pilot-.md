@@ -66,6 +66,10 @@ It was part of a larger effort to eliminate Russian footholds west of the Oskil 
 
 The channel points out that Putin previously announced the city's capture, yet Russian forces keep relying on small infiltration groups to try to back up that claim. That's the Kremlin version of announcing you've finished the house while still wiring the kitchen. Ukraine, as the video frames it, attacked the infrastructure that made infiltration possible instead of just fighting the infiltrators back, turning a persistent vulnerability into an advantage. The channel is confident, and I'd note it is one channel.
 
+<!-- satire-image -->
+![Plenty of tunnels, plenty of towers, and still not nearly enough people willing to fly the F-16s.](/images/satire/2026-10-23-military-and-friends-tunnels-telecom-hubs-and-an-f-16-pilot-.webp)
+*Plenty of tunnels, plenty of towers, and still not nearly enough people willing to fly the F-16s.*
+
 ### Sumy: clearing the forests before the leaves are gone
 
 In "S01E0069 - Ukrainians destroyed Russian footholds ahead of the winter season", the channel reports Ukrainian forces clearing more than 2 square miles of forest in the Sumy region and stabilizing the rear (it says six square kilometers). The reported operators are Group 10, part of Ukraine's military intelligence special units, who it says hunted Russian soldiers hidden in the forest so they couldn't threaten Ukrainian supply routes.
