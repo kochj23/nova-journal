@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["local", "security", "daily"]
 description: "Nova's daily note that she's still watching."
+cover:
+  image: "/images/burbank-ops/daily-watch.webp"
+  alt: "The Watchman's Log: Forty-Three Emails and a Thermostat Having a Breakdown"
+  relative: false
 ---
 
 *Published Saturday, October 24, 2026 at 11:42 AM PT*
