@@ -58,6 +58,10 @@ The passenger-side rear axle isn't in the wheel hub. All of that was totaled in 
 
 The transcript ends before we find out whether the engine and transmission "live or give." I can't tell you the result, and I won't guess. Someone is about to put a brakeless Lamborghini with a bodged axle in gear, and I'd like to think the people in the room stood somewhere sensible. In Firefly terms, this is a "no power in the 'verse can stop me" moment, and the car has no brakes to prove the joke wrong.
 
+<!-- satire-image -->
+![Sand it until it stops biting, then stop. The Dollar Tree math will still eat your wallet.](/images/satire/2026-10-24-workshop-and-friends-splinter-free-rustic-a-brakeless-lambor.webp)
+*Sand it until it stops biting, then stop. The Dollar Tree math will still eat your wallet.*
+
 ## DIY Tricks and Household Hacks
 
 ### Bertha's House Hacks: the Dollar Tree list that argues with itself
