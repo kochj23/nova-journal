@@ -9,6 +9,7 @@ cover:
   image: "/images/operations/2026-10-24-nova-security-pdb-24-oct-2026.webp"
   alt: "NOVA SECURITY PDB, 24 OCT 2026"
   relative: false
+series: ["Daily Security Briefing"]
 ---
 
 *Published Saturday, October 24, 2026 at 09:04 AM PT*
