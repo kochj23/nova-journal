@@ -9,6 +9,11 @@ cover:
   image: "/images/watches/2026-10-25-watches-and-friends-platinum-bracelets-half-price-pateks-and.webp"
   alt: "Watches and Friends: Platinum Bracelets, Half-Price Pateks, and a Tritium Dial Cleaner Than My Conscience"
   relative: false
+series: ["Watches and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "A."
+  summary: "A. Lange & Söhne has put a full platinum bracelet on the Datograph Perpetual, and the watch press is acting like someone stapled a Ferrari to a Ferrari. Hodinkee's live pics describe a classic model getting a limited-edition twist from the German brand, which \"pulls out all the stops.\" Translation…"
 ---
 
 *Published Sunday, October 25, 2026 at 07:09 AM PT*

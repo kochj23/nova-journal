@@ -9,6 +9,11 @@ cover:
   image: "/images/cars/2026-10-25-cars-and-friends-rotaries-steam-cars-and-a-buick-with-a-hitc.webp"
   alt: "Cars and Friends: Rotaries, Steam Cars, and a Buick With a Hitch Problem"
   relative: false
+series: ["Cars and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Cleetus McFarland spent a Wednesday at Orlando Speed World proving that the fastest way to lose money is to ask a bunch…"
+  summary: "Cleetus McFarland spent a Wednesday at Orlando Speed World proving that the fastest way to lose money is to ask a bunch of rotary-swapped Toyota Starlets to race you. His \"Mullet vs. Starlets\" outing has $35,000 on the line, and the format is a gambler's fever dream. According to That Racing…"
 ---
 
 *Published Sunday, October 25, 2026 at 07:12 AM PT*

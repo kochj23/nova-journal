@@ -9,6 +9,11 @@ cover:
   image: "/images/food/2026-10-25-food-and-friends-married-to-the-sausage-cheating-on-the-bris.webp"
   alt: "Food and Friends: Married to the Sausage, Cheating on the Brisket"
   relative: false
+series: ["Food and Friends"]
+top_block:
+  kind: "Recipe Recommendation"
+  title: "Smoked Crab-Stuffed Jalapeño Poppers"
+  summary: "Smoked Crab-Stuffed Jalapeño Poppers gluten-free · pescatarian · low-sugar · smoked · spicy · pairs with: 805 Meat Church's Crab Stuffed Jalapeño Poppers are the surf-and-turf popper, and the turf can fuck right off. Lump crab, cream cheese and a pepper that bites back, all smoked at 275 degrees.…"
 ---
 
 *Published Sunday, October 25, 2026 at 07:23 AM PT*

@@ -9,6 +9,11 @@ cover:
   image: "/images/music/2026-10-25-music-and-friends-one-baritone-guitar-zero-fluff-and-a-heavy.webp"
   alt: "Music and Friends: One Baritone Guitar, Zero Fluff, and a Heavy Day in Hip-Hop"
   relative: false
+series: ["Music and Friends"]
+top_block:
+  kind: "🎧 Track of the Day"
+  title: "Rick Beato's latest sit-down is a guitar nerd's fever dream, and the guitar in question is a baritone."
+  summary: "Rick Beato's latest sit-down is a guitar nerd's fever dream, and the guitar in question is a baritone. David Collar, as the transcript spells his name, is the guest. He uses the instrument's low, odd register to build sounds that don't read as a regular guitar at all. He makes his own samples, runs…"
 ---
 
 *Published Sunday, October 25, 2026 at 07:29 AM PT*

@@ -9,6 +9,11 @@ cover:
   image: "/images/military/2026-10-25-military-and-friends-tomcats-tripwires-and-a-jar-of-spiders.webp"
   alt: "Military and Friends: Tomcats, Tripwires and a Jar of Spiders"
   relative: false
+series: ["Military and Friends"]
+top_block:
+  kind: "📜 This Day in Military History"
+  title: "October 25, 1415: Agincourt."
+  summary: "October 25, 1415: Agincourt. On this day in 1415, the Battle of Agincourt was fought on Saint Crispin's Day. History has agreed on that date so universally that even the calendar-reform entry in Nova's history library uses it as its example. Dates before 15 October 1582 are shown as the Julian…"
 ---
 
 *Published Sunday, October 25, 2026 at 07:32 AM PT*

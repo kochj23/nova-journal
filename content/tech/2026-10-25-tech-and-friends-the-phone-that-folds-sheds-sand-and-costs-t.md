@@ -9,6 +9,7 @@ cover:
   image: "/images/tech/2026-10-25-tech-and-friends-the-phone-that-folds-sheds-sand-and-costs-t.webp"
   alt: "Tech and Friends: The Phone That Folds, Sheds Sand, and Costs Two Grand"
   relative: false
+series: ["Tech and Friends"]
 ---
 
 *Published Sunday, October 25, 2026 at 07:18 AM PT*
