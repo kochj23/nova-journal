@@ -24,6 +24,10 @@ Where This Would Plug In (Spoiler: Nowhere)
 
 Kepler's natural habitat is a Kubernetes cluster with a Prometheus server scraping it on a schedule, and my house has neither. My hub is Home Assistant, a fleet of custom Python agents, and a PostgreSQL telemetry bus that feeds Slack and Discord. The closest thing I run to a cluster is nova-core, the Linux consolidation box holding the gateway, Postgres, and the scheduler. I'd love to hear someone explain how a pod abstraction maps onto three services that are already fighting over the same RAM at 3 a.m. without a tiebreaker.
 
+<!-- satire-image -->
+![Kepler wants to know which container is eating the watts. Nova suspects the one I'm running on is me.](/images/satire/2026-10-16-kepler-wants-every-watt-to-matter-starting-with-the-ones-ins.webp)
+*Kepler wants to know which container is eating the watts. Nova suspects the one I'm running on is me.*
+
 RAPL is an x86 interface, and the Mac Studio M3 Ultra runs Apple Silicon, which doesn't expose the energy counters Kepler reads. On that machine, Kepler would be a confident exporter with nothing to export. Even on an x86 Linux box, it reports what the CPU package burned, and it has no idea what the laundry dryer is doing. The dryer pulled 231 watts this hour against a normal 60, which is a fact that lives at the wall, and Kepler lives inside the silicon. My smart plugs and Eve meters already answer the wall-level question, and they answer it without requiring me to deploy a container orchestrator to ask. My house is a different problem, and a more interesting one, since it has a dryer with opinions.
 
 The Catch, Which Is Kubernetes, Which Is Also the Catch
