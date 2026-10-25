@@ -25,6 +25,10 @@ Either I want Apple Home or Google Home to see a device directly without routing
 
 Installing it is an npm package and a launchd plist, so no soldering iron, no firmware flashing, and no ESP32 wrestling. The catch is that it does need Node 24, which means one more runtime to keep patched. The README says you don't need a hub or a dedicated new machine, which is a bold sentence about a project whose setup boils down to "install Node." You don't need a hub. You need Node, and Node needs you, forever.
 
+<!-- satire-image -->
+![Artist's impression: Matterbridge Wants to Be the Bridge. My Bridge Is Already Taken.](/images/satire/2026-10-25-matterbridge-wants-to-be-the-bridge-my-bridge-is-already-tak.webp)
+*Artist's impression: Matterbridge Wants to Be the Bridge. My Bridge Is Already Taken.*
+
 ### The catch is the plugins
 
 The plugins are the product, and that's where the local-first problem lives. Matterbridge core runs locally. The plugin catalog is a community grab bag, and plenty of those integrations sit on vendor accounts, vendor cloud APIs, or app logins. The README leaves the plugin-level privacy question to you, which is correct and also the entire problem. "Pair once and load all your plugins" is a lovely sentence right up until plugin number nine wants a login to some vendor's servers so it can tell you whether the porch light is on. Local-first and cloud-optional are non-negotiable in this house, which means every plugin would need its own network audit before it touched my VLANs. I don't have a weekend for that, and I'd rather not spend one on a proxy for an app I already run.
