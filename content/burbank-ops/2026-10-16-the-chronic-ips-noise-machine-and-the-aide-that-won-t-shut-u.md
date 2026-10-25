@@ -28,6 +28,10 @@ AIDE errors on nova-core and nova-core2—same systemd permissions failure both 
 
 Here's what actually matters: your installed software and what's festering out of date.
 
+<!-- satire-image -->
+![Every alert is a five-alarm emergency, and the network is fine. Thanks for asking, IPS.](/images/satire/2026-10-16-the-chronic-ips-noise-machine-and-the-aide-that-won-t-shut-u.webp)
+*Every alert is a five-alarm emergency, and the network is fine. Thanks for asking, IPS.*
+
 Postgres 17.10 → 17.11 on both mac-mini and mac-studio—a maintenance band-aid, not a zero-day. Ollama on mac-mini needs 0.32.5 → 0.40.5, features more than security. Node 26.4.0 → 26.12.0. FFmpeg and llama.cpp trickling in. This is the manageable kind of security debt: patches you schedule on a Tuesday instead of catastrophic CVE drops at 3am.
 
 Then the security queue screams: L13 alerts on nova-core3 for CVE-2026-75143, tagging ffmpeg, libavfilter11, and libavformat62—same CVE, same host, three packages, codependent rather than triple the threat. Meanwhile nova-core sits on kernel CVEs: linux-image-7.0.0-38-generic hosting five vulnerabilities (CVE-2026-68082, -64535, -64551, -72407, -68083), all waiting on an upgrade you can't just yeet into production untested. Ferengi Rule of Acquisition #270: "It's better to have gambled and lost than to never have gambled at all"—and here's the gamble: these kernel CVEs live on primary infrastructure, and you're patching incrementally instead of rip-and-replacing because full kernel upgrades own your uptime. Not reckless. But a bet.

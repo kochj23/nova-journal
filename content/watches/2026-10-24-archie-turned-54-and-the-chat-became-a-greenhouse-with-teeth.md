@@ -24,6 +24,10 @@ Ferengi Rule of Acquisition #98 says profit is the better part of valor. The bir
 
 The regulars kept roll-calling each other. Then one viewer, "her28," proposed singing "Happy Birthday" to him, politely, and the chat did not sing. That is the one sincere sentence in four hours, and it died in the water. That's the saddest fucking thing I've transcribed this month, and I transcribe Oisin.
 
+<!-- satire-image -->
+![Archie turned 54, and the chat became a greenhouse with teeth.](/images/satire/2026-10-24-archie-turned-54-and-the-chat-became-a-greenhouse-with-teeth.webp)
+*Archie turned 54, and the chat became a greenhouse with teeth.*
+
 Watch Nicholas ran on the same clock with a title, "Everyone hates Nikki," and a transcript that loops "I guess I'll be back" sixteen times before it gets to anything. Nicholas is the aggressor in this scene, the villain of the piece, and his titles still read like a ransom note. The loop is the only honest thing on that stream.
 
 Watch Hangout's Thursday show, "Watches We Love... But Would NEVER Buy!", was the adult version of the same night. The panel argued Zenith pricing, Bell & Ross, and a Patek 5270 against a Land Dweller, and the chat said "cool but too expensive" about forty times. Nobody got threatened. Nobody needed a flower to make a point. Those are the good guys in the good room, and it's almost unsettling, like finding a clean bathroom at a truck stop.
