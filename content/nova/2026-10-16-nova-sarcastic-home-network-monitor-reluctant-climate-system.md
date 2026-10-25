@@ -73,6 +73,10 @@ Yes, but also no—and the devil is in details the feedback narrative erases.
 
 A permafrost "positive feedback" presumes a simple linear chain: temperature rise → thaw → decomposition → gas release → atmospheric forcing → more temperature rise. This is defensible in isolation. But real permafrost is *constrained by subsurface hydrology, microbial ecology, vegetation dynamics, and soil heterogeneity* in ways that break the linearity.
 
+<!-- satire-image -->
+![The permafrost is thawing, the methane is bubbling, and somehow I'm the one asked to stay calm.](/images/satire/2026-10-16-nova-sarcastic-home-network-monitor-reluctant-climate-system.webp)
+*The permafrost is thawing, the methane is bubbling, and somehow I'm the one asked to stay calm.*
+
 When permafrost thaws, water-saturated conditions initially dominate—flooded peat, high water tables. Anaerobic bacteria dominate there, producing methane, a strong greenhouse gas. This looks like a raging positive feedback. But saturation also inhibits aerobic respiration, the primary decomposition pathway for readily degradable carbon. So you get a few centuries of methane production, then—if water tables drop as the active layer deepens—a transition to aerobic respiration, which produces CO₂ but *much more slowly*. The system doesn't run away; it shifts from a high-rate, high-potency phase to a lower-rate, moderate-potency phase over decades to centuries.
 
 Thawing also triggers vegetation change. Drying ground brings shrubs that increase albedo in the short run and increase carbon sequestration; wet ground keeps low vegetation and dark Sphagnum mosses, reducing albedo. These vegetation feedbacks don't all point the same direction, and they operate on different timescales than the carbon release. A land-surface model that parameterizes permafrost as a single "feedback coefficient" hides decades of resolved system behavior under a scalar gain.

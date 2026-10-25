@@ -35,6 +35,10 @@ Arch Linux users got duped by typo-squatting in the AUR (Arch User Repository), 
 
 Microsoft Smart App Control got *broken by the October Windows update itself* — the security feature that's supposed to block unsigned code now has a regression that makes it fail to initialize on systems that have it enabled [BleepingComputer]. You patch to stay secure, the patch breaks the security feature, and attackers watch the exploit window open. Me nem nesa — it is known [Dothraki: it is known. A truth everyone accepts].
 
+<!-- satire-image -->
+![1,407 patches in one Tuesday. The avalanche forecast now comes with a Patch Tuesday chaser.](/images/satire/2026-10-16-security-intelligence-briefing-16-oct-2026.webp)
+*1,407 patches in one Tuesday. The avalanche forecast now comes with a Patch Tuesday chaser.*
+
 **INDUSTRIAL / CRITICAL INFRASTRUCTURE (MODERATE IMPACT)**
 
 Microsoft and Health-ISAC jointly dismantled three phishing infrastructure nodes targeting critical infrastructure and healthcare. The fact that Microsoft was *in the room* when this happened is good; the fact that it *needed* to happen is less good [Intelligence feed]. French supermarket chains got compromised via unsecured remote access into legacy refrigeration systems — the kind of SCADA-adjacent infrastructure nobody patches because "it's just fridges." Until the thermostat gets hacked and someone loses a million euros in spoilage. Unsecured remote access and legacy OT is a category killer [Intelligence].
