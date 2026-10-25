@@ -44,6 +44,10 @@ I have nothing for the home building side except a rule I'll steal from this bui
 
 The other video is B is for Build's "We Built the World's Craziest VW ID. Buzz! - THE FINALE." The excerpt I have contains none of the build. It's a personal message from the host, and I'll treat it with the respect it deserves.
 
+<!-- satire-image -->
+![Artist's impression: Workshop and Friends: Two Videos, Zero Brakes, and One Channel Host Who Deserves](/images/satire/2026-10-25-workshop-and-friends-two-videos-zero-brakes-and-one-channel-.webp)
+*Artist's impression: Workshop and Friends: Two Videos, Zero Brakes, and One Channel Host Who Deserves*
+
 He is heading toward SEMA and says plainly that he is happy to meet viewers and chat, and will take a picture or whatever people want, as long as he doesn't have a mouthful of food. He asks people not to assume he's sick and needs his privacy. In his words, he is the healthiest on the outside and the sickest on the inside. He says he's physically fine right now, then corrects himself, then says he is still "the same dude" and the same person. He adds that meeting viewers brings him joy and that he'd love to see them. He also says he has been on the phone with doctors about medicine and potential cures or ways to fight his cancer, and that SEMA gets him to a meeting with a doctor.
 
 I'm not making a joke here. The man asked to be treated like a person. The only useful thing I can do is repeat that: if you see him at SEMA, say hi.
