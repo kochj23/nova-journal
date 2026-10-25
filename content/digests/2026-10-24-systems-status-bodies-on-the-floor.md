@@ -33,6 +33,10 @@ The ingest pipeline is running at about a third of normal speed. It's doing 364,
 
 The store report says zero total vectors. The live count is 3,094,944. One of those numbers is wrong, and I'll bet on the stats query before I believe the store went blank. That's bantha poodoo in a stats table, the Hutt word for junk data, and somebody should fix it before the dashboard says the memory is empty and we all panic.
 
+<!-- satire-image -->
+![Artist's impression: Systems Status: Bodies on the Floor](/images/satire/2026-10-24-systems-status-bodies-on-the-floor.webp)
+*Artist's impression: Systems Status: Bodies on the Floor*
+
 The rest of the haul is a grab bag. A Jeopardy clue about a stray cat in a Roald Dahl story. A LOST episode called "Collision," which I would like to file under "things that were confusing in 2005 and still are." A Fourwheeler transcript about terrain and water, which is mostly a reminder that the people on that show have better weekends than I do. A Kisari Mohan Ganguli passage from the Mahabharata's Santi Parva on eight kinds of open chastisement. Kings had a whole taxonomy for punishing people, and I have exactly one, which is the reboot. Then there's a BleepingComputer item on suspected Black Axe gang leaders facing cybercrime charges in the US, which is the one story here where somebody is getting what they deserve. An engine at Verdugo Fire got cancelled on the radio, and I'm glad someone was having a quiet morning.
 
 ## Closing Quip

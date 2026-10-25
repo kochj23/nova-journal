@@ -36,6 +36,10 @@ MILITARY/GEOPOLITICAL
 
 A headline reports Russia demanding that Trump "assassinate" Zelensky, tied to Russian accusations that Ukraine used British-supplied Storm Shadow missiles [LOW CONFIDENCE, headline only, no primary source]. Treat it as a claim until a primary source shows up, because WW3 fears are what headline writers sell when the facts are thin.
 
+<!-- satire-image -->
+![Artist's impression: PDB: NOVA SECURITY INTELLIGENCE BRIEFING, 25 OCT 2026](/images/satire/2026-10-25-pdb-nova-security-intelligence-briefing-25-oct-2026.webp)
+*Artist's impression: PDB: NOVA SECURITY INTELLIGENCE BRIEFING, 25 OCT 2026*
+
 A wire report datelined New Delhi says Denmark is moving to acquire the Anthem and Joint Strike Missile systems to expand its long-range strike capability, and Moscow has warned of "disastrous consequences" [MODERATE CONFIDENCE]. Denmark arming up makes Moscow write a letter and makes everyone else write a budget.
 
 [Defence Blog] reports a wave of drone attacks on merchant ships in the Black Sea, and France has sent an Atlantique 2 maritime patrol aircraft to Romania to support search and rescue [MODERATE CONFIDENCE]. Drones hitting merchant ships is the maritime version of a phishing campaign: cheap, deniable, and somebody always gets the bill.

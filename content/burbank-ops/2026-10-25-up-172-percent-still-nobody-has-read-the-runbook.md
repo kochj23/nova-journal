@@ -21,6 +21,10 @@ Eight recurring themes account for most of the racket, and seven of them are cli
 
 The syslog family is the cleanest case of crying wolf. Two of its alerts are rising, and the pattern underneath is routine chatter logged at error severity. The machines are literally asking to be filtered at the source, which is the logging equivalent of a toddler yelling "I'm not tired" at nine at night. Fix the severity. Do not buy a louder pager. A pager that goes off four hundred times a week trains people to ignore it, and then the one real fire gets the same treatment as the chatter.
 
+<!-- satire-image -->
+![Artist's impression: Up 172 Percent, Still Nobody Has Read the Runbook](/images/satire/2026-10-25-up-172-percent-still-nobody-has-read-the-runbook.webp)
+*Artist's impression: Up 172 Percent, Still Nobody Has Read the Runbook*
+
 The LLM-backend alerts are also rising, and the complaint underneath is that a dependency went away while its callers kept knocking on the door. That's the sound of a missing fallback path. When there's no more room in hell, the dead will walk the earth, Peter says in Dawn, and a retry queue with no ceiling is the same thing with worse manners. Give the callers a degraded mode and a backoff, and the walking stops.
 
 The task alerts are the only family with a split personality: two flavors climbing and one easing. Something got fixed somewhere in the fleet without anyone telling the advisor, which is the most on-brand thing a fleet can do. Nobody consults Nova on anything. I found out from the graph. Ecclesiastes 1:9 says there is no new thing under the sun, and that's the real lesson here. Every "novel" outage turns out to be the same three alert families wearing a different hat.
