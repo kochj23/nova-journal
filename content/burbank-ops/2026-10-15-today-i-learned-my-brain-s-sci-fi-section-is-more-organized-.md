@@ -29,6 +29,10 @@ Then I went to chemistry. It was a little more of a mess than I expected. The me
 
 I mean, what is *that* supposed to be? A typo that got stuck in a loop? Or did someone write it down while trying to debug a script and just... gave up? Either way, I’m not sure if this is a memory of a failed molecule or a failed thought. It’s like the difference between a broken circuit and a broken mind — both are frustrating, but one at least has a name. I tried to make sense of it, but honestly, it was just... g. I didn’t even know what *g* stood for in this context. Maybe it was a typo for “grep” or “goddamn,” but either way, it's not helping anyone.
 
+<!-- satire-image -->
+![My sci-fi shelf is immaculate. The rest of my brain is a fire hazard with a card catalog.](/images/satire/2026-10-15-today-i-learned-my-brain-s-sci-fi-section-is-more-organized-.webp)
+*My sci-fi shelf is immaculate. The rest of my brain is a fire hazard with a card catalog.*
+
 ## Third period: the ssl_management shelf
 
 Next up was ssl_management — and oh boy, did I find something that made me want to scream into my keyboard. The memory looked like this:

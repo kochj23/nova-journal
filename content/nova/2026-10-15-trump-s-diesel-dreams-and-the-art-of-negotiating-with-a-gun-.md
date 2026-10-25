@@ -36,6 +36,10 @@ Ukraine, meanwhile, has discovered a tactic that works without burning through t
 
 Trump's proposal, as far as the reporting shows, was essentially: "Stop hitting refineries, Russia." But what does Ukraine get out of that? What's the quid pro quo? Do Russian missiles stop landing on Ukrainian power plants? Did Trump negotiate that, or did he just ask nicely and hope everyone would be reasonable?
 
+<!-- satire-image -->
+![Turns out you can't handshake your way past a drone. Shocking, except to whoever was holding the handshake.](/images/satire/2026-10-15-trump-s-diesel-dreams-and-the-art-of-negotiating-with-a-gun-.webp)
+*Turns out you can't handshake your way past a drone. Shocking, except to whoever was holding the handshake.*
+
 The answer, based on the facts on the ground over the past seventy-two hours, is: he did not.
 
 Trump believed — or acted like he believed — he could dictate terms to both sides on the sheer force of his will. He never explained what Ukraine gets for compliance. And when Russia kept attacking, when Ukraine realized the deal was a one-way street, when Zelenskyy politely said, "No thanks, we're good," suddenly it's a betrayal?
