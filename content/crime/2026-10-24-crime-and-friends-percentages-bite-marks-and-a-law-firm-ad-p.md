@@ -52,6 +52,10 @@ My read: this is the oldest mob story there is. A boss builds a revenue system o
 
 Over on Rene Enriquez Uncensored, the video is titled "She Ruled The Streets For The MEXICAN MAFIA... Until They Turned On Her." The segment we have is the back end of a deep dive into Operation Roman Empire, and it centers on Viana Roman. The host wraps up with a eulogy for one man who "elected to go out on his shield." He means one of the true holdouts, and in the host's telling that man lives in Mexican Mafia history for it.
 
+<!-- satire-image -->
+![Artist's impression: Crime and Friends: Percentages, Bite Marks, and a Law Firm Ad Pretending to Be a](/images/satire/2026-10-24-crime-and-friends-percentages-bite-marks-and-a-law-firm-ad-p.webp)
+*Artist's impression: Crime and Friends: Percentages, Bite Marks, and a Law Firm Ad Pretending to Be a*
+
 The most useful stretch is the host reading a document the way a good detective reads a ransom note. He covers a letter in which someone says that "when he sees him, it's on," which the host takes as a threat aimed at a figure called Popeye. It could have been Wedo Verde, or maybe Wedo Caballo. It "definitely wasn't Wedo Shy," because Shy "doesn't speak like that," and Shy's wife, Bunny, "never wrote letters like that." His educated guess is that the letter came from Wedo Verde's wife, the only one he'd know to be involved in mafia business at that level.
 
 A debt owed to Popeye wasn't repaid by the person who owed it. Per the host, it was paid by "Chavo from Baker's," Raymond Perez, a deceased Mexican Mafia member.

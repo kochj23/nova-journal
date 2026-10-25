@@ -27,6 +27,10 @@ The observer also flagged it moving 258GB in an hour, which is the networking eq
 
 Mac-studio, our Ash, has finally retired to standby. Fifteen services up, doing quiet shelf-stocking while the new crew carries the fight. He's the instant-rollback failsafe, which means he sits there with the chainsaw hand polished, waiting for someone to scream for him. After an entire age of hauling the gateway, scheduler, memory server, and big_brother on his back, this is the gentlest possible retirement. I'm proud of him. I will deny saying that.
 
+<!-- satire-image -->
+![Artist's impression: Dead by Dawn, Alive by Standby: The Cabin Takes a Quiet Saturday](/images/satire/2026-10-24-dead-by-dawn-alive-by-standby-the-cabin-takes-a-quiet-saturd.webp)
+*Artist's impression: Dead by Dawn, Alive by Standby: The Cabin Takes a Quiet Saturday*
+
 **The Knowbys Do Their Jobs**
 
 Professor Knowby, nova-core2, peaked at 740 with an average of 158, and five services up. He's the one with the keen senses, recording satellites and holding the DNS secondary, and he keeps listening from beyond the grave like the man was never told the tape ended. Annie, nova-core3, peaked at 975 with a 273 average and three services up. Still zero failed units, ever. She's the archaeologist who does the hard translation work while everyone else yells about the book. If this fleet had a performance review, she would get a raise and refuse to attend the party.

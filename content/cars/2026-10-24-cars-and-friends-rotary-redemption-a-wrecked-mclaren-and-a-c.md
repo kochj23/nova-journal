@@ -58,6 +58,10 @@ If you own an RX7 or RX8, you're doing it a favor by holding it on good revs. "D
 
 Then there's the Ford Falcon war. MCM's "Marty's New Project Car" has a Ford XR8 V8, sponsored by Ryobi, and the plan is "mad drifty skiddy mods." In the "Cheapest V8 Falcon" video, Marty hijacked the shoot by sending his Camry to the track, driven by Luke King. He's a professional racer who the host describes as someone who "races Porsches, TCR, BRZs, LMP3." The host's complaint about the Falcon is that it "just doesn't grip." So the Camry arrived with a ringer. That's a mob hit with a rented hand, and it's the funniest thing in car media this week. In Sicilian terms, Marty put a contract out on a Falcon, and the contractor drives a Toyota.
 
+<!-- satire-image -->
+![Artist's impression: Cars and Friends: Rotary Redemption, a Wrecked McLaren, and a Camry With a Hired](/images/satire/2026-10-24-cars-and-friends-rotary-redemption-a-wrecked-mclaren-and-a-c.webp)
+*Artist's impression: Cars and Friends: Rotary Redemption, a Wrecked McLaren, and a Camry With a Hired*
+
 Finally, the Turbo MX5 drift episode: simple mods, a couple of days of work, and the car still drives on the street and then gets thrashed sideways.
 
 ### Tavarish: two good ones and one about cleaning a truck
