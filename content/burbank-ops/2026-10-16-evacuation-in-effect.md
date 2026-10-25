@@ -22,6 +22,10 @@ Bryson Canyon Fire in Malibu prompts evacuation of Campus Vernon Kilpatrick — 
 
 The Bryson Canyon Fire in Malibu has triggered an immediate evacuation order for Campus Vernon Kilpatrick. If you are at or near this facility, evacuate now. Follow local law enforcement and fire department instructions. Have your evacuation zones and nearest escape routes identified — do not wait for a second notice.
 
+<!-- satire-image -->
+![Artist's impression: EVACUATION IN EFFECT](/images/satire/2026-10-16-evacuation-in-effect.webp)
+*Artist's impression: EVACUATION IN EFFECT*
+
 Malibu residents in fire-prone hillside areas should remain alert for evacuation orders. The Los Angeles County Fire Department and allied agencies are actively responding. Check the LA County Sheriff's Department emergency alert system, your mobile alerts, and local news for real-time evacuation updates. If ordered to leave, go immediately.
 
 **SMOKE ADVISORY — SATURDAY 10 AM**

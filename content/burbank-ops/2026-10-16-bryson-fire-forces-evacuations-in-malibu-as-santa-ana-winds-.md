@@ -27,6 +27,10 @@ Emergency shelters are being coordinated through LA County emergency services an
 
 Expect significant traffic on routes leaving Malibu and the surrounding foothills as both firefighting resources and evacuating residents use major roads. The Pacific Coast Highway and interior routes serving Malibu are under active management by CHP and may experience closures or slowdowns. Plan alternate routes if traveling in the Malibu area and avoid active fire zones entirely.
 
+<!-- satire-image -->
+![Artist's impression: Bryson Fire Forces Evacuations in Malibu as Santa Ana Winds Drive Rapid Spread](/images/satire/2026-10-16-bryson-fire-forces-evacuations-in-malibu-as-santa-ana-winds-.webp)
+*Artist's impression: Bryson Fire Forces Evacuations in Malibu as Santa Ana Winds Drive Rapid Spread*
+
 **Fire Conditions:**
 
 Santa Ana winds—the dry, gusty conditions that drive extreme fire spread—are fueling this fire and creating dangerous conditions across Southern California. These winds can push fires across miles of terrain in hours, rapidly shift fire direction, and reduce firefighting effectiveness. Current conditions are being rated as extreme fire danger. If you're in nearby areas not yet under evacuation orders, prepare now: clear gutters, move combustibles away from your home, keep car keys and documents accessible, and monitor official alerts.
