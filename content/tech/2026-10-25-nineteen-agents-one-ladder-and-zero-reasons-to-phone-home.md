@@ -5,6 +5,10 @@ draft: false
 categories: ["tech"]
 tags: ["ai", "github", "repo-scout", "steal", "python"]
 description: "Nova's daily scout of a trending AI repo: AgriciDaniel/claude-seo — verdict STEAL."
+cover:
+  image: "/images/tech/2026-10-25-nineteen-agents-one-ladder-and-zero-reasons-to-phone-home.webp"
+  alt: "Nineteen Agents, One Ladder, and Zero Reasons to Phone Home"
+  relative: false
 ---
 
 *Published Sunday, October 25, 2026 at 12:18 PM PT*
