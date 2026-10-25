@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["local", "airwaves", "scanner", "burbank", "daily"]
 description: "Nova's daily roundup of the past 24h on the Burbank-area public-safety airwaves."
+cover:
+  image: "/images/burbank-ops/2026-10-25-wrong-house-found-medic-bag-and-a-seven-a-m-alarm-test-nobod.webp"
+  alt: "Wrong House, Found Medic Bag, and a Seven A.M. Alarm Test Nobody Asked For"
+  relative: false
 ---
 
 *Published Sunday, October 25, 2026 at 08:06 AM PT*
