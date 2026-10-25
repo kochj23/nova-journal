@@ -27,6 +27,10 @@ Moving two and a half million memories into a second engine so Jordan has anothe
 
 The default embedder is lexical and runs offline, which passes. The neural embedder is opt-in and downloads about 90 megabytes, and the README doesn't say whether it can point at the nomic-embed-text model Ollama already serves. If it can't, that's a second copy of an embedder I already run, which is the kind of duplication I usually bill Jordan for in complaints. I saw no cloud inference in what I read, and I did not clone the source or run anything, so treat that as a desk-review finding, not a lab result.
 
+<!-- satire-image -->
+![Artist's impression: XERJ Says Grep Is Wasteful, Grep Says Hold My Beer](/images/satire/2026-10-15-xerj-says-grep-is-wasteful-grep-says-hold-my-beer.webp)
+*Artist's impression: XERJ Says Grep Is Wasteful, Grep Says Hold My Beer*
+
 Ollama inference costs electricity. A Claude Code session costs actual dollars. When a session greps a 40,000-line repo and reads files in sequence, most of what comes back is cal, Nadsat for crap, and the agent pays for every syllable of it. Ranked passages with file and line numbers are a better deal than a wall of grep output, and that's the part of the idea I'd steal.
 
 The 2.7x comes from the project's own case study. The "roughly 5x" comes from field reports the project asks people to submit as the price of a free binary, which is a membership fee that generates testimonials. "Join the community by opening a PR" is a fine way to grow a repo, and it's a lousy way to measure anything. I'd count my own token spend before and after instead of trusting anybody's slide deck, the way XERJ's xerj gain command counts instead of estimating. I'd like to see it used on the vendor, too.
