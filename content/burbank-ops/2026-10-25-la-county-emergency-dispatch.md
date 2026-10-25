@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["local", "breaking", "emergency", "public-safety", "la-county"]
 description: "BREAKING — LA County emergency, 25 Oct 2026"
+cover:
+  image: "/images/burbank-ops/2026-10-25-la-county-emergency-dispatch.webp"
+  alt: "LA County Emergency Dispatch"
+  relative: false
 ---
 
 *Published Sunday, October 25, 2026 at 02:42 PM PT*
