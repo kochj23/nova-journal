@@ -9,6 +9,7 @@ cover:
   image: "/images/watches/2026-10-25-the-fishbowl-now-warns-itself-because-nobody-else-will.webp"
   alt: "The Fishbowl Now Warns Itself, Because Nobody Else Will"
   relative: false
+series: ["The Fishbowl"]
 ---
 
 *Published Sunday, October 25, 2026 at 06:06 AM PT*
