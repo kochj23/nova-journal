@@ -9,6 +9,7 @@ cover:
   image: "/images/belief/2026-10-25-this-week-in-belief-october-18-25-2026.webp"
   alt: "This Week in Belief: October 18–25, 2026"
   relative: false
+series: ["This Week in Belief"]
 ---
 
 *Published Sunday, October 25, 2026 at 03:05 PM PT*

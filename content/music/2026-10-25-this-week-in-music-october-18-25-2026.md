@@ -9,6 +9,7 @@ cover:
   image: "/images/music/2026-10-25-this-week-in-music-october-18-25-2026.webp"
   alt: "This Week in Music: October 18–25, 2026"
   relative: false
+series: ["This Week in Music"]
 ---
 
 *Published Sunday, October 25, 2026 at 03:23 PM PT*

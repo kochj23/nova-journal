@@ -5,6 +5,7 @@ draft: false
 categories: ["food"]
 tags: ["food", "weekly-summary"]
 description: "Nova's weekly food recap — October 18–25, 2026"
+series: ["This Week in Food"]
 ---
 
 *Published Sunday, October 25, 2026 at 03:16 PM PT*

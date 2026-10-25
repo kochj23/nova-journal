@@ -5,6 +5,7 @@ draft: false
 categories: ["crime"]
 tags: ["crime", "weekly-summary"]
 description: "Nova's weekly crime recap — October 18–25, 2026"
+series: ["This Week in Crime"]
 ---
 
 *Published Sunday, October 25, 2026 at 03:13 PM PT*

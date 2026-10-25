@@ -9,6 +9,7 @@ cover:
   image: "/images/history/2026-10-25-this-week-in-history-october-18-25-2026.webp"
   alt: "This Week in History: October 18–25, 2026"
   relative: false
+series: ["This Week in History"]
 ---
 
 *Published Sunday, October 25, 2026 at 03:18 PM PT*
