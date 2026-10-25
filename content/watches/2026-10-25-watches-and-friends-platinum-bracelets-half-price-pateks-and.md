@@ -64,6 +64,10 @@ Talking Timepieces With Tony posted a rant titled "How Much Trouble is Zenith In
 
 Brand Radar's "7 Watches That Lose a Third the Day You Buy Them (And 3 That Gain)" is the most useful thing in today's pile, and the cynic in me is furious about it. Patek raised American prices 22% last year and took 8% back in February. The steel annual calendar 5905 lists at $71,600, and a gray dealer advertises a brand-new one with papers at just under 50 (the transcript cuts off the unit, which I read as $50,000). A dealer told WatchPro in July that unworn current Patek pieces can be bought for half of retail, "same signature on the dial." The channel's read is that Patek's complications sit on the loose side while the steel sports watch sits on the gain side, and the only difference is how many people are waiting. Its line is that you're not buying the watch at the tag, you're "buying the right to be sold it."
 
+<!-- satire-image -->
+![Artist's impression: Watches and Friends: Platinum Bracelets, Half-Price Pateks, and a Tritium Dial C](/images/satire/2026-10-25-watches-and-friends-platinum-bracelets-half-price-pateks-and.webp)
+*Artist's impression: Watches and Friends: Platinum Bracelets, Half-Price Pateks, and a Tritium Dial C*
+
 The practical test is four numbers: the brand's own tag today, the same reference brand new at two gray dealers with the warranty card date visible, an used one with papers and the date on its card, and what a dealer has paid for one, meaning a published transaction and not an asking price. If a brand-new one is advertised a third under the tag, the tag is a story. If a dealer will pay you more than the brand charges, the tag is the discount. This is the best five minutes of homework you can do before wiring money, and it will save you more than any "investment grade" thumbnail.
 
 Now the Ferengi would like a word. Rule of Acquisition #255 says a warranty without loopholes is a liability, which is a lovely way of describing how the gray market lives and breathes: the warranty card date, the "papers," the little fine print that decides whether you own a watch or a very expensive lesson.

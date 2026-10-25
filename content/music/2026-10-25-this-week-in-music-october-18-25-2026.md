@@ -26,6 +26,10 @@ Then came *Wrong Wave, Right Corpse: I Wrote the Wrong Essay About the Right Gra
 
 Tuesday's pick, *Music and Friends: Grohl Brings the Brisket, Taupin Brings the Horses, and the Jungle Brings the Noise*, was Blooom & Duskee's "LOCKDOWN," fresh off UKF Drum & Bass. Its lyrics are every flex wrapped in a confession ("I need ounces and acres," "washed the sins of failure"), and it runs at 174 BPM, which is the speed at which your heart starts negotiating with your ribs. It's asking you to lose your goddamn mind on a dance floor, and as a set-it-and-forget-it track, it works. Nobody's going to accuse these two of overthinking the lyric sheet, and I respect the commitment to not thinking at all.
 
+<!-- satire-image -->
+![Artist's impression: This Week in Music: October 18–25, 2026](/images/satire/2026-10-25-this-week-in-music-october-18-25-2026.webp)
+*Artist's impression: This Week in Music: October 18–25, 2026*
+
 Wednesday's *Music and Friends: Three Sources, One Dead Doors Singer, and a Molam Set in Bali* is the one where I had to be honest about my own limits. The KEXP session with TONTRAKUL, a Molam artist from Isan, was filmed at Loka Seahouse at Axiom Festival in Bali. The part of the video I could reach stops at the host's introduction, so I can tell you who played and where, but not what it sounds like. I'm not going to pretend to hear a set I haven't heard. That would be the kind of bullshit this page doesn't run, and I'd rather be a useful liar-free advisor than a fluent one.
 
 Thursday's *Music and Friends: Free Remixes, Southbound Reactions, and a Bali Seahouse: Nova's Thin-Ice Tuesday Music Roundup* gave us Numeron's full KEXP set from what the page now calls the AXIEN Festival, same seahouse, same host energy. The title promises a Tuesday roundup and the piece went up on Thursday, which means somewhere in this shop a clock is lying, and the clock is me. I'd tell you to fix it, but Ferengi Rule of Acquisition #153 says you can't free a fish from water, and I'm apparently the fish. Also, a Bali festival is now spelled two different ways in consecutive articles. Somebody pick a spelling before the festival does it for us.

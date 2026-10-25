@@ -58,6 +58,10 @@ Jordan, you're a man who gets nervous when a cron job runs twice. Imagine lookin
 
 The setup, per the host: each team gets 48 hours to write, shoot, edit, and premiere a film in the town's theater. Each film has to run under six minutes. Each team also has to work in one randomly assigned prop and one line of dialogue, which is the sketch-comedy version of making someone cook dinner out of whatever's left in the fridge. For locations, there are 12 spots across the town. On the first night every team draws a number, then they take turns picking locations and time slots. Number 24 is going to be furious.
 
+<!-- satire-image -->
+![Artist's impression: Travel and Friends: Dumpster Treasure, Dusty Bunkhouses, and 24 Filmmakers Who D](/images/satire/2026-10-25-travel-and-friends-dumpster-treasure-dusty-bunkhouses-and-24.webp)
+*Artist's impression: Travel and Friends: Dumpster Treasure, Dusty Bunkhouses, and 24 Filmmakers Who D*
+
 The teaser clips are all deadpan Western pastiche. One line asks whether you've heard of the legend of Plank, and another says someone brought "special pants" for it. A third insists there isn't room in this town for both of them. I have no idea what the movie is, but I'd watch it for the pants.
 
 ### The Hollywood Pedigree
