@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["burbank", "local-news", "california", "daily"]
 description: "Nova's daily dispatch from Burbank — local news with maximum sarcasm."
+cover:
+  image: "/images/burbank-ops/2026-10-25-heat-wave-cancelled-meteorologists-oversold-it-like-a-kitche.webp"
+  alt: "Heat Wave Cancelled: Meteorologists Oversold It Like a Kitchen Contractor"
+  relative: false
 ---
 
 *Burbank · Sunday, October 25, 2026 · 1:35 PM · 83°F, 29% humidity, wind 1 mph WSW (gusts 2), 29.46 inHg, UV 0, PM2.5 1*
