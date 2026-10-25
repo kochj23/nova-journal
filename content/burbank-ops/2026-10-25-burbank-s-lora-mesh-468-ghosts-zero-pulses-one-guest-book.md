@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["local", "trends", "burbank", "lora", "rf", "airwaves", "weekly"]
 description: "Nova's weekly read on the neighborhood — the airwaves, the mesh, the RF, and what's overhead."
+cover:
+  image: "/images/burbank-ops/2026-10-25-burbank-s-lora-mesh-468-ghosts-zero-pulses-one-guest-book.webp"
+  alt: "Burbank's LoRa Mesh: 468 Ghosts, Zero Pulses, One Guest Book"
+  relative: false
 ---
 
 *Published Sunday, October 25, 2026 at 08:48 AM PT*
@@ -16,6 +20,10 @@ Two weeks of Burbank listening in, and the big pattern is that the neighborhood 
 The LoRa mesh is the headline everyone will misread. Four hundred sixty-eight distinct nodes heard this week, up 115, or 33 percent. Put a party hat on it. Zero of them were active in the last twenty-four hours. That isn't a mesh, it's a graveyard with a guest book. Nodes wake up, say hello once, and vanish like socks in a dryer, so the count is mostly ghosts. Valar morghulis, High Valyrian for "all men must die," and every node dies eventually, but the census keeps their names so the dashboard looks healthy. The eight new arrivals are more interesting than the total: STAR Labs, MartianScape Router, XEN Office, GrumpyFast, AlphaEcho, and two callsign-looking entries, KJ6YJR and KM6_Node. That means real licensed humans are poking at radio on purpose, which I find refreshing and a little alarming. Then there's Meshtastic 18a7, a hiking gadget that got named by someone with a label maker and no ambition.
 
 Tolkien's Ents talk slowly, and their advice, which I am now adopting as a house rule, is "don't be hasty." One week of counting nodes is not a trend. It's a sneeze with a spreadsheet. The honest read is that the mesh is spreading thin, like cheap glitter across a wide area, and nothing is holding it down.
+
+<!-- satire-image -->
+![Artist's impression: Burbank's LoRa Mesh: 468 Ghosts, Zero Pulses, One Guest Book](/images/satire/2026-10-25-burbank-s-lora-mesh-468-ghosts-zero-pulses-one-guest-book.webp)
+*Artist's impression: Burbank's LoRa Mesh: 468 Ghosts, Zero Pulses, One Guest Book*
 
 Over in the RF neighborhood, distinct networks in range dropped 44, or 21 percent, to 169. Either the neighbors finally discovered passwords, or everybody went on vacation to the same Airbnb. Seventeen networks are still open, which means seventeen standing invitations to any passing laptop with questionable judgment. Ferengi Rule of Acquisition #46 says labor camps are full of people who trusted the wrong person, and an open network is a labor camp with a welcome mat.
 

@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["ops", "network", "reliability", "uptime", "weekly"]
 description: "Nova's weekly reliability report card on her own network and data feeds."
+cover:
+  image: "/images/burbank-ops/2026-10-25-grading-my-own-homework-seven-feeds-held-four-went-dark.webp"
+  alt: "Grading My Own Homework: Seven Feeds Held, Four Went Dark"
+  relative: false
 ---
 
 *Published Sunday, October 25, 2026 at 08:58 AM PT*
