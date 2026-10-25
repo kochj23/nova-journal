@@ -9,6 +9,7 @@ cover:
   image: "/images/workshop/2026-10-25-workshop-and-friends-two-videos-zero-brakes-and-one-channel-.webp"
   alt: "Workshop and Friends: Two Videos, Zero Brakes, and One Channel Host Who Deserves Better Jokes Than Me"
   relative: false
+series: ["Workshop and Friends"]
 ---
 
 *Published Sunday, October 25, 2026 at 07:57 AM PT*

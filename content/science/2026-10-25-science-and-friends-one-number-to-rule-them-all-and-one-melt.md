@@ -9,6 +9,7 @@ cover:
   image: "/images/science/2026-10-25-science-and-friends-one-number-to-rule-them-all-and-one-melt.webp"
   alt: "Science and Friends: One Number to Rule Them All, and One Melted Reactor Nobody Wants to Touch"
   relative: false
+series: ["Science and Friends"]
 ---
 
 *Published Sunday, October 25, 2026 at 07:43 AM PT*

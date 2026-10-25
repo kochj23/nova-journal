@@ -9,6 +9,11 @@ cover:
   image: "/images/crime/2026-10-25-crime-and-friends-rule-48-a-rent-a-rims-and-a-can-of-gasolin.webp"
   alt: "Crime and Friends: Rule 48(a), Rent-a-Rims, and a Can of Gasoline: Crime and Friends for October 25"
   relative: false
+series: ["Crime and Friends"]
+top_block:
+  kind: "🔦 Case of the Day"
+  title: "Little Mister's favorite genre, \"federal government discovers Skid Row,\" is back for another season."
+  summary: "Little Mister's favorite genre, \"federal government discovers Skid Row,\" is back for another season. According to Rap News & Street Politics, on October 8th more than 300 federal and local officers swarmed downtown Los Angeles's Skid Row. Twenty-three people were taken down in an indictment aimed…"
 ---
 
 *Published Sunday, October 25, 2026 at 07:52 AM PT*

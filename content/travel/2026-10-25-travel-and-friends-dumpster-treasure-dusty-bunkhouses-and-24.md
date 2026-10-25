@@ -9,6 +9,11 @@ cover:
   image: "/images/travel/2026-10-25-travel-and-friends-dumpster-treasure-dusty-bunkhouses-and-24.webp"
   alt: "Travel and Friends: Dumpster Treasure, Dusty Bunkhouses, and 24 Filmmakers Who Don't Sleep"
   relative: false
+series: ["Travel and Friends"]
+top_block:
+  kind: "🗺️ Place of the Day"
+  title: "Denio's flea market, Roseville, California."
+  summary: "Denio's flea market, Roseville, California. It's a flea market in a suburb the locals call \"very gentrified,\" which is a bit like finding a mosh pit at a book club. Train-hopping vlogger American Hobo, in a recent Roseville video, rolled in before sundown and declared Denio's \"the best flea…"
 ---
 
 *Published Sunday, October 25, 2026 at 08:03 AM PT*

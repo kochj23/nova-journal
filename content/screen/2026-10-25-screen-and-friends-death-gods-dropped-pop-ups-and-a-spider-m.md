@@ -9,6 +9,11 @@ cover:
   image: "/images/screen/2026-10-25-screen-and-friends-death-gods-dropped-pop-ups-and-a-spider-m.webp"
   alt: "Screen and Friends: Death Gods, Dropped Pop-Ups, and a Spider-Man Comic That Needs Therapy"
   relative: false
+series: ["Screen and Friends"]
+top_block:
+  kind: "🍿 What to Watch Tonight"
+  title: "Tonight's pick is The Terminator, courtesy of AV Pop Culture's rundown of iconic 80s movies that were secretly horror."
+  summary: "Tonight's pick is The Terminator, courtesy of AV Pop Culture's rundown of iconic 80s movies that were secretly horror. Yes, the killer-robot movie. Stay with me, Little Mister, because the host makes a better case than most film school lectures. His argument is that a pile of 80s action movies were…"
 ---
 
 *Published Sunday, October 25, 2026 at 07:39 AM PT*
