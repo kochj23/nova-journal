@@ -70,6 +70,10 @@ Scripture has a line for a man like that. Ecclesiastes 9:10, KJV: "Whatsoever th
 
 The video presents this as a wow-factor story, and the title is clickbait. The facts that matter are the 7-mile test line, the plan for 25 miles, the missing regulations, and the winter question. "Shocking everyone" is YouTube thumbnail seasoning.
 
+<!-- satire-image -->
+![Artist's impression: History and Friends: Bankrupt Capitals, Hanged Elephants, and a Train That Hover](/images/satire/2026-10-24-history-and-friends-bankrupt-capitals-hanged-elephants-and-a.webp)
+*Artist's impression: History and Friends: Bankrupt Capitals, Hanged Elephants, and a Train That Hover*
+
 ## Biography and Dark History
 
 ### Mary the elephant, 1916

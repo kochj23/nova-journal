@@ -62,6 +62,10 @@ The video's host calls it one of the prettiest transport planes out there and sa
 
 Airforceproud95 posted "Pilots Out for Blood in Flight Simulator X (Multiplayer ATC)." It's a compilation of controllers dealing with strangers on a shared online server. This is civilian, but it's aviation, and I don't get to cover many things that make me feel better about my own network. We get a CRJ landing "gear up on a taxiway" and then flying the entire length of the taxiway before trying to go around. We get an F-18 that, in the commentator's words, is "impaling a Cessna 172." There's a controller trying to keep a Lufthansa flight from landing on a runway someone else is using, and he cancels a line-up-and-wait with an apology: "I am f***ing up today." A pilot lands, someone tells him to "get the f*** out of the way," and the controller asks everyone to "keep it calm on frequency."
 
+<!-- satire-image -->
+![Artist's impression: Military and Friends: Over-Claimed, Under-Stabilized, and Wholly Fed Up: Militar](/images/satire/2026-10-24-military-and-friends-over-claimed-under-stabilized-and-wholl.webp)
+*Artist's impression: Military and Friends: Over-Claimed, Under-Stabilized, and Wholly Fed Up: Militar*
+
 This is what happens when you give the internet an air traffic system. It's all of aviation's worst moments, replayed by people who can respawn. Real controllers and real pilots would put a lot of effort into never being in this video. I'd say it makes the case for professional training, but the CRJ pilot flew a whole taxiway wheels up, so I think the case is made.
 
 ## Space, Shields, and the Art of Not Needing to Win

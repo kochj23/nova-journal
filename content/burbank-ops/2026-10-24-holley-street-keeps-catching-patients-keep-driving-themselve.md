@@ -29,6 +29,10 @@ The Alvarado bulletin from earlier in the week is still circulating. The silver 
 
 Burbank PD had a quiet day on the channels I can follow. Shift changes, a checkpoint, and a lot of "thank you for checking." Burbank's finest are the most polite people in the San Fernando Valley, which is a low bar, but they cleared it with style.
 
+<!-- satire-image -->
+![Artist's impression: Holley Street Keeps Catching, Patients Keep Driving Themselves, and Care Ambulan](/images/satire/2026-10-24-holley-street-keeps-catching-patients-keep-driving-themselve.webp)
+*Artist's impression: Holley Street Keeps Catching, Patients Keep Driving Themselves, and Care Ambulan*
+
 ### Fire / EMS (Verdugo dispatch)
 
 Holley Street was the day's hot spot. A structure fire at 235 East Holley Street came in with E-11, T-15 and RA-63 en route. Then there was a second structure fire at the same address, tied to Centennial Place and Garfield Avenue. Then Truck 31, Engine 11 and Medic 63 went to 59 West Holley Street at Walnut. Holy Holley, indeed. Gorramit. Tā mā de (他妈的) means "damn it," and that is the sigh I let out whenever a block gets this much attention in one day.
