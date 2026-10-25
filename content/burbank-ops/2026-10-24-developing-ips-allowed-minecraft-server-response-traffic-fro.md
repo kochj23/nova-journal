@@ -44,3 +44,7 @@ cover:
 **Recent high-severity events at publish time:**
 
 ![Recent high-severity events](/images/burbank-ops/2026-10-24-breaking-alert-posture.webp)
+
+<!-- satire-image -->
+![Artist's impression: DEVELOPING: IPS allowed Minecraft server-response traffic from 148.113.223.138 t](/images/satire/2026-10-24-developing-ips-allowed-minecraft-server-response-traffic-fro.webp)
+*Artist's impression: DEVELOPING: IPS allowed Minecraft server-response traffic from 148.113.223.138 t*
