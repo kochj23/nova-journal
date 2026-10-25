@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["operations", "21-jump-street", "nova-core", "fleet", "daily", "sarcasm"]
 description: "Nova's daily fleet status, told as 21 Jump Street."
+cover:
+  image: "/images/burbank-ops/2026-10-25-quiet-day-at-the-precinct-captain-dickson-still-furious.webp"
+  alt: "Quiet Day at the Precinct, Captain Dickson Still Furious"
+  relative: false
 ---
 
 *Published Sunday, October 25, 2026 at 09:02 AM PT*

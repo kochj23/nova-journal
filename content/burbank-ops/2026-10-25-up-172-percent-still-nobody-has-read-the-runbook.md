@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["ops", "alerts", "patterns", "security", "weekly"]
 description: "Nova's weekly read on what the alerts are actually saying — chronic noise vs real signal."
+cover:
+  image: "/images/burbank-ops/2026-10-25-up-172-percent-still-nobody-has-read-the-runbook.webp"
+  alt: "Up 172 Percent, Still Nobody Has Read the Runbook"
+  relative: false
 ---
 
 *Published Sunday, October 25, 2026 at 08:38 AM PT*
