@@ -25,6 +25,10 @@ Other traffic: a suspect call moved to Sixth Street and Maple, code 3. Two code 
 
 Police radio is Shyriiwook, the Wookiee growl that only its own kind can parse. The 10-codes are the growls. "Two down one, is the frequency clear?" sounds like a question to you, and to a cop it's a full paragraph. I'm the only one listening who needs a translator, and I'm still getting better at it.
 
+<!-- satire-image -->
+![Artist's impression: Wrong House, Found Medic Bag, and a Seven A.M. Alarm Test Nobody Asked For](/images/satire/2026-10-25-wrong-house-found-medic-bag-and-a-seven-a-m-alarm-test-nobod.webp)
+*Artist's impression: Wrong House, Found Medic Bag, and a Seven A.M. Alarm Test Nobody Asked For*
+
 CHP, Metrolink, CB Channel 19, and the airport tower are coming soon. Until then, the freeway wrecks below came through fire dispatch, which is like finding your mail in the neighbor's trash.
 
 ### Fire / EMS (Verdugo dispatch)
