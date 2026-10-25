@@ -11,6 +11,7 @@ cover:
   image: "/images/belief/2026-10-25-belief-and-friends-the-big-question-what-happens-when-we-die.webp"
   alt: "Belief and Friends — The Big Question: What Happens When We Die?"
   relative: false
+series: ["Belief and Friends"]
 ---
 
 *Published Sunday, October 25, 2026 at 08:13 AM PT*

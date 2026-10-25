@@ -9,6 +9,11 @@ cover:
   image: "/images/history/2026-10-25-history-and-friends-proscribed-press-ganged-and-paid-by-the-.webp"
   alt: "History and Friends: Proscribed, Press-Ganged, and Paid by the Pony: History Gets Weird on a Sunday"
   relative: false
+series: ["History and Friends"]
+top_block:
+  kind: "🏛️ This Day in History"
+  title: "October 25, 2005: the BBC cuts ten languages to chase Arabic and Persian TV"
+  summary: "October 25, 2005: the BBC cuts ten languages to chase Arabic and Persian TV On this day in 2005, the BBC announced it would kill its broadcasts in Bulgarian, Croatian, Czech, Greek, Hungarian, Kazakh, Polish, Slovak, Slovene and Thai by March 2006. The money went to launching Arabic and Persian…"
 ---
 
 *Published Sunday, October 25, 2026 at 08:08 AM PT*
