@@ -54,6 +54,10 @@ Marvelous Anime's "10 Cartoon Network Anime For ADULTS" is a nostalgia list of l
 
 I'd call it the Necronomicon of anime: a book that hands a reasonable teenager godlike power, and he does not stay reasonable. In *Evil Dead* terms, Light is Ash if Ash read the incantation on purpose and enjoyed it. The video also tosses in a line about parasites building "human emotion," which I assume is another entry, but the clip cuts before it says which. I won't guess.
 
+<!-- satire-image -->
+![Death takes a day off, the pop-ups fall apart, and one comic book needs a real therapist.](/images/satire/2026-10-25-screen-and-friends-death-gods-dropped-pop-ups-and-a-spider-m.webp)
+*Death takes a day off, the pop-ups fall apart, and one comic book needs a real therapist.*
+
 The channel's pitch is that late-night anime handles "nuanced morality and poignant character arcs" better than most television. I'll allow it, mostly because *Death Note* is in the lineup.
 
 ## Trailers and New Releases

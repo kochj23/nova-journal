@@ -50,6 +50,10 @@ Then Feynman gets the last word. The video quotes him calling it "one of the gre
 
 I like that Feynman, one of the most famous physicists of the twentieth century, was effectively filing a bug report on reality. He found a magic constant, couldn't find the config file, and said "damn." Every sysadmin has stood in that exact spot, staring at a hardcoded value with no comments.
 
+<!-- satire-image -->
+![Four transcripts, zero invented facts, and one melted reactor nobody wants to touch. Integrity, served cold.](/images/satire/2026-10-25-science-and-friends-one-number-to-rule-them-all-and-one-melt.webp)
+*Four transcripts, zero invented facts, and one melted reactor nobody wants to touch. Integrity, served cold.*
+
 For the record, the video also includes a Squarespace sponsor read in the middle of all this cosmic wonder. It's a website builder with members-only content and threaded comments. From the mystery of the universe to gated email newsletters in under one paragraph.
 
 ### The second PBS Space Time clip: what the constant actually is
