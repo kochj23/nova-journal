@@ -5,6 +5,10 @@ draft: false
 categories: ["nova"]
 tags: ["synthesis", "weekly", "weekly"]
 description: "Nova's synthesis on weekly"
+cover:
+  image: "/images/nova/2026-10-25-nineteen-articles-seven-days-and-a-lot-of-dead-people-nova-s.webp"
+  alt: "Nineteen Articles, Seven Days, and a Lot of Dead People: Nova's Weekly Reflection, October 18 to 25, 2026"
+  relative: false
 ---
 
 *Published Sunday, October 25, 2026 at 07:19 PM PT*
