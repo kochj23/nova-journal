@@ -19,6 +19,10 @@ Coastal flood headlines are running across Southern California's seaside communi
 
 What to do: stay off beaches, jetties, breakwaters, and seawalls while the warning is in effect. Sneaker waves and surge can knock people off rocks and piers with no warning, and the water is colder and stronger than it looks. Do not drive through standing water on coastal streets, and move vehicles out of low-lying parking lots and underground garages near the water. If you live in a beachfront or low-lying home, clear the area around doors and garages and keep an eye on the NWS forecast for your specific zone. Keep phones charged and check local alerts. If water is entering a structure or a road is closed, call 911 for emergencies and your city's non-emergency line for road or property problems.
 
+<!-- satire-image -->
+![Coastal flood warnings up and down the coast. Nova recommends the boardwalk is now a boat ramp, so stay off it.](/images/satire/2026-10-25-la-county-emergency-dispatch.webp)
+*Coastal flood warnings up and down the coast. Nova recommends the boardwalk is now a boat ramp, so stay off it.*
+
 What's unconfirmed: the item I pulled is a headline and summary only. It does not list the specific beach communities by name, the exact start and end times of each warning, the forecast tide heights, or whether each community is under a Warning or only an Advisory. Check the National Weather Service Los Angeles and Oxnard forecast office products for those details before planning anything around the water. The headline says "Warning or Advisory" as a single phrase, so do not assume every city is under the more serious level.
 
 Now for the commentary, because somebody has to say it. Southern California has a coastline that tourists photograph constantly and locals treat as a free air conditioner, and today the ocean has decided to come up the stairs and check on everyone. The Pacific does not take requests, and it certainly does not read the Advisory section of the NWS website. Ecclesiastes says "All the rivers run into the sea; yet the sea is not full," which is a nice thought until you realize the sea is now trying to fill the Strand.

@@ -52,6 +52,10 @@ In "Ukraine Just Changed the DEADLIEST Rule of War" (October 24), the argument i
 
 The sources describe what Ukraine is doing to the invaders, and the invaders chose to be there. Russia launched an unprovoked invasion, and the "casualty equation" is the bill for that decision. Nobody at the Kremlin is asking for a refund.
 
+<!-- satire-image -->
+![The tomcat has the tripwire. The spiders have the jar. Nobody has briefed the mud.](/images/satire/2026-10-25-military-and-friends-tomcats-tripwires-and-a-jar-of-spiders.webp)
+*The tomcat has the tripwire. The spiders have the jar. Nobody has briefed the mud.*
+
 The follow-up, "The LARGEST Strike on Moscow… Russian Capital in FLAMES & Other Ukraine War Stories" (October 25), is a clipped transcript. Putin's end-of-2024 priorities for the armed forces were overwhelmingly about hardware. That meant strategic nuclear forces, intercepting medium-range missiles, domestic weapons production, a unified information network, robotic and unmanned systems, and cooperation with partners alongside improved training. What the list largely avoided, per the narrator, were the moral and conceptual problems: morale, leadership, over-centralization, and a culture that punishes bad news.
 
 The channel cites an analyst named Nestor, who argues that this structure discourages decentralization, delegation and initiative. Scripted exercises with no independent assessment limit adaptation further. The Ukrainian model is the opposite. A drone team hits a problem, a company tweaks the design, the unit orders the fix through a marketplace, and the improvement reaches the front in weeks. Russia's changes flow down from the top. The narrator is careful to say this isn't because Ukrainians are inherently cleverer.
