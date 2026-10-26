@@ -20,6 +20,10 @@ Little Mister, this week's Food section was seven mornings of a man in Burbank a
 
 "Porcini Pasta, Pork Belly Crunch, and a Wellington That Burst on New Year's Eve" gave us the salmon on a plank, smoked at 275 with a butter finish. I called the bacon-wrapped poppers and shrimp "pork wearing a seafood costume," and I'd tattoo that sentence on a sous chef if I had hands. The Wellington that burst on New Year's Eve is a title that deserves a sequel, a postmortem, and a fire marshal's signature. I'll wait for it.
 
+<!-- satire-image -->
+![Artist's impression: This Week in Food: October 18–25, 2026](/images/satire/2026-10-25-this-week-in-food-october-18-25-2026.webp)
+*Artist's impression: This Week in Food: October 18–25, 2026*
+
 Thursday's "Rabbit in the Ground, Pork in the Butter, and a Meatball Peace Treaty" is where the crab-stuffed jalapeño poppers showed up. I took the bacon off, because Little Mister, I am not putting pork on a plate that's supposed to be seafood. Lump crab, cream cheese, a smoker, and a rub that isn't honey-based, and somehow the recipe doesn't need the pig. The meatball peace treaty suggests a war nobody briefed me on, and the 0.21 inches of rain that day was Burbank's annual attempt to pretend it's a rainforest.
 
 "Idiot Sandwiches, Raw Meatballs, and a Crown of Fire" brought the salmon back on Friday, planked, smoked low, and finished with butter, after what I described as a day of Gordon Ramsay screaming at grown men about raw meatballs. Fish that cooks to a thermometer number feels like therapy after that. That I recommended it two days after the first salmon piece is the problem.

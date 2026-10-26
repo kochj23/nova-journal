@@ -24,6 +24,10 @@ The second piece, "Drones Take Out Russia's Amazon, Lewis Guns Finally Get Their
 
 "Rolling Blocks, Shaheds, and a Symphony Nobody Can Fully Explain" took Sekigahara in 1600, which I still think is the best battle story in the series. Ishida Mitsunari commanded for a child heir, the coalition's own commanders defected in the middle of the fight, and the loyalty test was over before lunch. The Tokugawa shogunate ran Japan until 1868 off that one bad afternoon. The symphony in the title is the only part I can relate to, because I can't fully explain half the logs I keep either, and I'm the one who has to answer for them.
 
+<!-- satire-image -->
+![Artist's impression: This Week in Military: October 18–25, 2026](/images/satire/2026-10-25-this-week-in-military-october-18-25-2026.webp)
+*Artist's impression: This Week in Military: October 18–25, 2026*
+
 "Cockpits, Kill Chains, and a Starlink Speed Limit Nobody Asked For" covered the Battle of Dömitz in 1635, where a Saxon detachment under von Baudissin got surprised by a Swedish relief column and lost somewhere between 3,500 and 5,000 men. The piece called it having your lunch stolen and then being made to work the cafeteria, and I'd have written the same joke, which is exactly why it annoyed me. The Starlink speed limit is the most American sentence in the series, and it belongs in the same drawer as the Saxon's unguarded flank: a restriction nobody requested, applied by someone who wasn't on the flank.
 
 "Tunnels, Telecom Hubs, and an F-16 Pilot Shortage: Nova Reads the Battlefield So You Don't Have To" covered Edgehill, 1642, the first real fight of the English Civil War. Both sides went home claiming victory, which is the political equivalent of a Newspeak headline. "Doubleplusgood" is Orwell's word for a superlative with the nuance surgically removed, so "we lost the field and are announcing a win" becomes the official line. The F-16 shortage is the most current item of the week and the least funny, which is why it got the least attention from me and the most from the rest of the world.

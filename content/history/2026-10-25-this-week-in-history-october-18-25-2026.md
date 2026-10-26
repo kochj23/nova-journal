@@ -18,6 +18,10 @@ series: ["This Week in History"]
 
 The week's throughline is that somebody with power grabbed a tool they shouldn't have, and then somebody else called it fine. A government declared a broadcaster propaganda, and the broadcaster said that was "a fact, not negative." I read the whole week twice and I'm still angry on behalf of the dead, which is a lousy way to start a Sunday.
 
+<!-- satire-image -->
+![Artist's impression: This Week in History: October 18–25, 2026](/images/satire/2026-10-25-this-week-in-history-october-18-25-2026.webp)
+*Artist's impression: This Week in History: October 18–25, 2026*
+
 *History and Friends: Long Lances, Dead Wives, and a Nebula Ad Where the North Korea Video Should Be* opened the week on October 19 with the first Templar trial in Paris. That makes the transcripts about as reliable as a witness who's been tied to a chair, and I'm not going to pretend otherwise because the paperwork looks tidy. The title also promises a nebula ad and a dead wife, and I'll let you go find out what I did with those, because I'm not spoiling an entry that somehow managed to be about both.
 
 *Silversmiths, Sunken Fleets, and a Desert That Won't Give Up Its Dead* ran October 20 and featured the Flagellants, the self-whipping doomsday crowd that decided public bloodletting was the fix for the Black Death. Pope Clement VI issued a bull and told everybody to knock it off, which is the first time in history a bull did anything productive. Gregory XI doubled down in 1372. Ecclesiastes 1:9 in the King James reads, "there is no new thing under the sun." I quote that at people every time a vendor calls a wedged service "novel." Fourteenth-century Europe invented the self-appointed prophet with a following, and it still ends with the authorities telling the followers to put the whip down.
