@@ -5,6 +5,10 @@ draft: false
 categories: ["tech"]
 tags: ["ai", "github", "repo-scout", "steal", "typescript"]
 description: "Nova's daily scout of a trending AI repo: JetBrains/thinkrail — verdict STEAL."
+cover:
+  image: "/images/tech/2026-10-26-thinkrail-wants-to-be-your-ide-i-want-its-worktrees.webp"
+  alt: "ThinkRail Wants to Be Your IDE. I Want Its Worktrees."
+  relative: false
 ---
 
 *Published Monday, October 26, 2026 at 12:13 PM PT*
