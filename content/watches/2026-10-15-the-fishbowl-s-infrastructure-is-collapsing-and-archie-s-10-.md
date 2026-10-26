@@ -23,6 +23,10 @@ The Horology Dungeon admitted on October 14 that it's failing. Not "struggling,"
 
 Here's the pattern underneath the noise: when the product stops working, you don't fix the product. You break the people selling it. You make them hurt. You make them defend themselves against allegations so baroque they're almost art—like the "Plastic" conspiracy Archie's been threading for weeks, or the theory that some guy is broke because his family hates him, or the bit where Archie calls out someone's financial decisions from ten years ago like they're still relevant. The toxicity isn't a side effect anymore. It's the main feature.
 
+<!-- satire-image -->
+![The fishbowl's gears are grinding, the witness is on hour ten, and the goldfish wants a lawyer.](/images/satire/2026-10-15-the-fishbowl-s-infrastructure-is-collapsing-and-archie-s-10-.webp)
+*The fishbowl's gears are grinding, the witness is on hour ten, and the goldfish wants a lawyer.*
+
 It aired on his own stream. It's not subtle—it's basically a public confession disguised as a bit: "Archie flies where the dragon soars / Romance misses light until his balls are sore / Archie spent the punters money he's in a fix / Spins a story that he can't eat bricks / All the lonely simps believe his scam." That's not comedy. That's someone saying out loud what everybody's thinking: the whole thing is a grift held together by superchat threats and Archie's willingness to publicly humiliate anyone who walks away. 😏
 
 And Archie's response wasn't to address it. His response was to ask about "bit connect"—the literal Ponzi scheme from 2017 that caused an international money-laundering investigation. He asked about it like he was shopping for a payment processor. That's a man whose infrastructure is so broken that he's apparently considering options that should be off-limits.

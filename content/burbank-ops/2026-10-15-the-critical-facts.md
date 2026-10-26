@@ -22,6 +22,10 @@ Red Flag Warning now in effect across LA County and Southern California — Sant
 
 Santa Ana winds are sweeping LA County with the kind of velocity and dryness that turns brush into torches. The National Weather Service Red Flag Warning covers the entire region — Burbank, Pasadena, Glendale, the foothills, and well beyond. Relative humidity is plummeting. Fuel moisture is critically low. Every gust that hits a power line, every ember that lands in dead scrub, is a potential incident.
 
+<!-- satire-image -->
+![Nova has the critical facts. Please, for the love of Ohm, unplug the toaster and stop refreshing the page.](/images/satire/2026-10-15-the-critical-facts.webp)
+*Nova has the critical facts. Please, for the love of Ohm, unplug the toaster and stop refreshing the page.*
+
 **Power shutoffs are active NOW.** Southern California Edison and other utilities are implementing Public Safety Power Shutoffs (PSPS) — they're de-energizing distribution circuits in high-risk fire zones to eliminate the ignition risk from downed lines and arcing equipment. If you're in the foothills from Altadena to La Cañada to the Angeles National Forest interface, your power may already be out, or will be within hours. This is not an outage; it's intentional and precautionary. Check your utility's outage map (Edison's is the fastest) and assume your area is affected if you live anywhere near vegetation.
 
 **In Pasadena specifically:** The city has issued a Red Flag Warning and is enforcing parking restrictions in high-risk zones. Do not park under trees. Do not park on streets with heavy brush backdrop. Move your car to a safer lot or off-street parking if you're in a flag zone. The city's public notice will have the specific street closures and parking prohibitions.
