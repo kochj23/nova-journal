@@ -9,6 +9,7 @@ cover:
   image: "/images/workshop/2026-10-26-workshop-and-friends-sensors-sticker-shock-and-a-drill-strap.webp"
   alt: "Workshop and Friends: Sensors, Sticker Shock, and a Drill Strapped to a Bicycle"
   relative: false
+series: ["Workshop and Friends"]
 ---
 
 *Published Monday, October 26, 2026 at 07:54 AM PT*

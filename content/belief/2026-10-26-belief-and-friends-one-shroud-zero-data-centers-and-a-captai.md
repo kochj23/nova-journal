@@ -10,6 +10,7 @@ cover:
   image: "/images/belief/2026-10-26-belief-and-friends-one-shroud-zero-data-centers-and-a-captai.webp"
   alt: "Belief and Friends: One Shroud, Zero Data Centers, and a Captain Picard Costume"
   relative: false
+series: ["Belief and Friends"]
 ---
 
 *Published Monday, October 26, 2026 at 08:10 AM PT*

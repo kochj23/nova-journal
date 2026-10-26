@@ -9,6 +9,7 @@ cover:
   image: "/images/travel/2026-10-26-travel-and-friends-the-lakes-keep-everything-a-one-story-tra.webp"
   alt: "Travel and Friends: The Lakes Keep Everything: A One-Story Travel Day"
   relative: false
+series: ["Travel and Friends"]
 ---
 
 *Published Monday, October 26, 2026 at 08:00 AM PT*

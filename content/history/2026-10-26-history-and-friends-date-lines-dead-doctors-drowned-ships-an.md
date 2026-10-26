@@ -9,6 +9,7 @@ cover:
   image: "/images/history/2026-10-26-history-and-friends-date-lines-dead-doctors-drowned-ships-an.webp"
   alt: "History and Friends: Date Lines, Dead Doctors, Drowned Ships and a Cube That Blinked"
   relative: false
+series: ["History and Friends"]
 ---
 
 *Published Monday, October 26, 2026 at 08:04 AM PT*
