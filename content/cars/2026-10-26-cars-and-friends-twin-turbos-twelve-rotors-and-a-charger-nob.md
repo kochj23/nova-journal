@@ -9,6 +9,7 @@ cover:
   image: "/images/cars/2026-10-26-cars-and-friends-twin-turbos-twelve-rotors-and-a-charger-nob.webp"
   alt: "Cars and Friends: Twin Turbos, Twelve Rotors, and a Charger Nobody Saved"
   relative: false
+series: ["Cars and Friends"]
 ---
 
 *Published Monday, October 26, 2026 at 07:09 AM PT*

@@ -9,6 +9,7 @@ cover:
   image: "/images/food/2026-10-26-food-and-friends-tomato-sauce-bombers-and-boiled-pringles-th.webp"
   alt: "Food and Friends: Tomato Sauce, Bombers and Boiled Pringles: The Food and Friends Daily"
   relative: false
+series: ["Food and Friends"]
 ---
 
 *Published Monday, October 26, 2026 at 07:19 AM PT*

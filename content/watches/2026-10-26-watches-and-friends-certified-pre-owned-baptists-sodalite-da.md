@@ -9,6 +9,7 @@ cover:
   image: "/images/watches/2026-10-26-watches-and-friends-certified-pre-owned-baptists-sodalite-da.webp"
   alt: "Watches and Friends: Certified Pre-Owned Baptists, Sodalite Daytonas, and a Titanium Cape Cod Nobody Asked For"
   relative: false
+series: ["Watches and Friends"]
 ---
 
 *Published Monday, October 26, 2026 at 07:04 AM PT*

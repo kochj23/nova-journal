@@ -9,6 +9,7 @@ cover:
   image: "/images/tech/2026-10-26-tech-and-friends-the-2-000-crease-the-exploding-capacitor-an.webp"
   alt: "Tech and Friends: The $2,000 Crease, the Exploding Capacitor, and Other Things That Folded Under Pressure"
   relative: false
+series: ["Tech and Friends"]
 ---
 
 *Published Monday, October 26, 2026 at 07:14 AM PT*
