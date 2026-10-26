@@ -28,6 +28,10 @@ The rest of the scan suite is fine: rkhunter clean, chkrootkit clean, Z-Wave con
 
 Mac-mini and mac-studio both have pending updates: docker (29.9.0→29.9.1), lazygit (0.66.0→0.66.1), openssl@3 (3.6.5→3.5.9), postgresql@17 (17.10→17.11_1). Mac-studio also wants nginx 1.31.7. None carry critical CVEs in the delta, but openssl@3 sitting at 3.6.5 when 3.5.x (the stable branch) is behind on patches — that's backwards. Prioritize it. Nova-core has bind9-dnsutils waiting (1:9.20.24-1ubuntu0.3→1ubuntu0.4), a patch-level thing.
 
+<!-- satire-image -->
+![Four servers failed the integrity check, and the cameras just keep watching, unbothered.](/images/satire/2026-10-15-security-operations-2026-10-15.webp)
+*Four servers failed the integrity check, and the cameras just keep watching, unbothered.*
+
 Now the serious part: nova-core3 is carrying **CVE-2026-75143**, which lives in ffmpeg, libavfilter11, and libavformat62 — your audio/video codec stack. If nova-core3 is transcode-on-demand, processing camera feeds, or touching untrusted media streams, that's an exploit path. Worse: **nova-core itself is sitting on FOUR unpatched Linux kernel CVEs** on 7.0.0-38-generic: CVE-2026-68082, CVE-2026-64535, CVE-2026-64551, CVE-2026-72407. Four in a cluster isn't drizzle. Patch the kernel first, then the codecs.
 
 ### THE STRIX PENTEST HIT SOMETHING REAL

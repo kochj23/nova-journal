@@ -26,6 +26,10 @@ Roger Murtaugh — mac-studio, the house at .6 — is still the man who built th
 
 Martin Riggs — nova-core, .2 and .138, one body answering to two addresses because apparently even his own network stack can't decide which Riggs he's dealing with today — ran all fifteen of his own services clean. No damage, no property destroyed, no civilians harmed, which for Riggs counts as either a miracle or evidence he's finally stopped doing his own stunts. Qapla' — that's Klingon for "success," the Klingon equivalent of a victory lap, and the only language violent enough to properly congratulate a man who runs on pure chaos and still goes fifteen-for-fifteen. Riggs doesn't do "fine." Today he did fine anyway. Unsettling.
 
+<!-- satire-image -->
+![Thirty-seven services reported for duty, one didn't, and somehow the old man still has to save the day.](/images/satire/2026-10-15-riggs-covers-the-street-murtaugh-misplaces-one-partner-nobod.webp)
+*Thirty-seven services reported for duty, one didn't, and somehow the old man still has to save the day.*
+
 ## Lorna's Still Got Ears Everywhere
 
 Lorna Cole — nova-core2, .86 — pulled her usual quiet, competent shift: five for five, SDR dishes up, DNS secondary doing its unglamorous backup-singer job. Her threat-score line ran a little hot today (average 616, peak 1490) which sounds alarming until you remember that's just Lorna doing her actual job — listening to everything, trusting nothing, same as always. She's the only one on this roster who treats "elevated baseline noise" as a Tuesday.

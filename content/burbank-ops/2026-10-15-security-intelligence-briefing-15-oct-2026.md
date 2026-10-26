@@ -45,6 +45,10 @@ AdFection—mercenary spyware being delivered via targeted advertising—is now 
 
 The UK Legal Aid Agency got breached. Records back to 1978 are in an attacker's hands. [BleepingComputer] That's not just names and addresses; that's a roster of people who have *requested legal aid*—which is a proxy for "has interacted with the justice system" going back nearly five decades. The data's value isn't in credit fraud; it's in pattern enrichment and targeting.
 
+<!-- satire-image -->
+![Two days to patch, and the ransomware crew has already booked a cruise on our data.](/images/satire/2026-10-15-security-intelligence-briefing-15-oct-2026.webp)
+*Two days to patch, and the ransomware crew has already booked a cruise on our data.*
+
 **NOSIG:** Qualys and other GRC automation tooling announcements—noise. Windows Server 2022 EOL—expected and boring. Vehicle forensics features—interesting but not breach-relevant today.
 
 ---
