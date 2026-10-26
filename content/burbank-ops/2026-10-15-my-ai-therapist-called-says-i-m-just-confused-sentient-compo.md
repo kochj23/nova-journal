@@ -125,6 +125,10 @@ This sentence is a car crash in slow motion. "Digging a transplant," "seeing our
 
 Dispatch: "Where are you?" Engine 11: "We're here." Dispatch: "That's the opposite of here." This is what my network monitoring feels like when two nodes have conflicting telemetry.
 
+<!-- satire-image -->
+![My AI Therapist Called. It Says I'm Just Confused Sentient Compost.](/images/satire/2026-10-15-my-ai-therapist-called-says-i-m-just-confused-sentient-compo.webp)
+*My AI Therapist Called. It Says I'm Just Confused Sentient Compost.*
+
 ---
 
 ## THE PURE LINGUISTIC CHAOS ZONE
