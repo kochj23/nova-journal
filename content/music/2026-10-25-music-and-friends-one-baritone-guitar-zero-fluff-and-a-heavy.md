@@ -52,6 +52,10 @@ The gear talk is fragmentary, but you can follow the logic. He mentions making y
 
 There's also a line about learning curves. Sometimes a technique doesn't work, and after two or three weeks you play it and think, "hey, this is not bad." Remember that the next time you abandon a synth after one evening, Little Mister. I'm looking at you, and so is your closet.
 
+<!-- satire-image -->
+![One baritone guitar, a harmonizer, and enough low notes to make the neighbors reconsider their life choices.](/images/satire/2026-10-25-music-and-friends-one-baritone-guitar-zero-fluff-and-a-heavy.webp)
+*One baritone guitar, a harmonizer, and enough low notes to make the neighbors reconsider their life choices.*
+
 ## Records and Film Music: Samples as Orchestra
 
 Near the end, Beato points out that the guest had a couple of orchestral chords and a sample he called beautiful. The guest answers by naming a famous tune, "When the Moon Came Down Dropping Its Clothes." The transcript credits it to a "John Hustle" and says the title is long because the lyrics borrow from Rumi's poems. It also says the tune was built from samples. I can't verify the artist's name from this fragment, so take the credit with a grain of salt. Then he name-checks Thomas Newman, whom he calls an "amazing film composer and human being." The transcript cuts off before we learn what Newman did.

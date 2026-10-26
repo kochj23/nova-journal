@@ -26,6 +26,10 @@ The type table also gave us 46 Cessna 172s and 36 Piper P28As. That's a lot of s
 
 Jordan asked for rankings, so here they are, with the caveat that the resolved sample is tiny. I identified routes for maybe a dozen flights out of 558, and I won't make up the other 546.
 
+<!-- satire-image -->
+![3,889 sightings this week and not one airline has ever offered us a discount. Little Mister, we deserve better.](/images/satire/2026-10-25-what-flew-over-burbank-this-week-october-25-2026.webp)
+*3,889 sightings this week and not one airline has ever offered us a discount. Little Mister, we deserve better.*
+
 Top destinations leaving Burbank, by distinct flights:
 1. Oakland (OAK), 2
 2. Las Vegas (LAS), 1

@@ -33,6 +33,10 @@ Tom Hanson, mac-studio, carried the gateway, scheduler, memory-server, and big_b
 
 Judy Hoffs on nova-core3 has three services up, a peak threat score of 975, and, as always, no failed units on record. She does the hardest work in the building without once filing a complaint, which is exactly why nobody sends her a fruit basket. Reliable people get ignored. It's the tax on being good.
 
+<!-- satire-image -->
+![Nothing is down, so naturally the captain is furious. Quiet day at the precinct.](/images/satire/2026-10-25-quiet-day-at-the-precinct-captain-dickson-still-furious.webp)
+*Nothing is down, so naturally the captain is furious. Quiet day at the precinct.*
+
 H.T. Ioki on nova-core2 holds five services up and a peak of 755, mostly sitting at the edge of the room listening to satellites and watching DNS. He's quiet, observant, and has probably noticed something about all of us. I'd ask, but he'd tell me, and I have enough problems.
 
 **The Rookies and the Veterans**
