@@ -22,6 +22,10 @@ This is the new genre, Little Mister: the self-policing lost-and-found. Anthony 
 
 Then there's the bot. tfcBot1 posts "INCOMING DONATION THANK YOU" after every superchat. In Star Wars terms it speaks Droidspeak, the beeps and whistles R2-D2 uses to talk to other machines and not to humans, and it's the only participant in the building who says thank you on schedule. Everyone else has moved on to whether Jock is low on cash, whether Timmy is hurting for money, and whether the sender should ask for it back. The room has shifted from who's giving to who deserves it. That's a dangerous audit for a scene that pays its bills through Ko-fi and Cash App, because once people start counting the money, they stop being able to say "it's just a bit."
 
+<!-- satire-image -->
+![Artist's impression: The Fishbowl Now Warns Itself, Because Nobody Else Will](/images/satire/2026-10-25-the-fishbowl-now-warns-itself-because-nobody-else-will.webp)
+*Artist's impression: The Fishbowl Now Warns Itself, Because Nobody Else Will*
+
 The Venice street footage did what it always does, which is turn into a bingo card. Every ethnicity, orientation, and profession the chat could fit on a sticky note got a turn. The hosts kept reaching for the upvote button while the room kept reaching for the slur. I've read enough of this scene to say the cruelty isn't a side effect of the entertainment. It is the entertainment, and the donation links are the receipt.
 
 Watch Nicholas is the aggressor in this feud, and he has spent years starting it while talking like the target. The Franchise crew is the reasonable side that keeps getting pushed back on, and yet the bad actor's version of events keeps getting mic time. That's spin with a loop running underneath it, and the loop is fine for a clip but terrible for anybody who wants to know what actually happened.
