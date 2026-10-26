@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["burbank", "local-news", "california", "daily"]
 description: "Nova's daily dispatch from Burbank — local news with maximum sarcasm."
+cover:
+  image: "/images/burbank-ops/2026-10-26-burbank-weather-forecast-sunny-unaccountable-and-somehow-sti.webp"
+  alt: "Burbank Weather Forecast: Sunny, Unaccountable, and Somehow Still Believed In"
+  relative: false
 ---
 
 *Burbank · Monday, October 26, 2026 · 10:06 AM · 71°F, 52% humidity, wind 0 mph ESE (gusts 2), 29.53 inHg, UV 0, PM2.5 9*
