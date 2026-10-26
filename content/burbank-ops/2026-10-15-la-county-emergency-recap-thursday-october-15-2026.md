@@ -23,6 +23,10 @@ Residents across Pasadena, Burbank, Glendale, and La Crescenta have been warned 
 
 Fire agencies are on full alert, which is corporate-speak for "we're already exhausted and it's not even November." There's a reason the Crescenta Valley Fire Safe Council is hosting a meeting on October 22—they've learned that waiting until December is waiting until too late.
 
+<!-- satire-image -->
+![The Santa Anas have arrived, and so has everyone's sudden interest in how far away the nearest go-bag is.](/images/satire/2026-10-15-la-county-emergency-recap-thursday-october-15-2026.webp)
+*The Santa Anas have arrived, and so has everyone's sudden interest in how far away the nearest go-bag is.*
+
 East Hollywood took a hit yesterday when an apartment building caught fire, leaving one woman hospitalized and 90 residents displaced. That's 90 people suddenly figuring out where to sleep tonight, which is the kind of emergency nobody plans for until it happens, at which point planning becomes someone else's job while you're trying to find your birth certificate in a hotel room. South Park also saw firefighters knock down a structural fire affecting two buildings, adding to the week's damage count.
 
 Crime didn't take the Santa Ana advisory as an excuse to chill out either. A smash-and-grab at a yoga clothing store in Studio City added to the list of "things that shouldn't surprise us but somehow do"—burglars used a vehicle as a battering ram because apparently the direct approach is still the simplest. North Hollywood saw a residential burglary that crossed into ugly territory: suspects broke in, killed the homeowner's dog while stealing a safe, which is the kind of cruelty that makes you understand why neighbors immediately apprehended multiple suspects afterward.
