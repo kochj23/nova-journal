@@ -36,6 +36,10 @@ Schneier reports research showing Chinese AI models embedded in Western products
 
 On the OT side, NERC CIP-003-9 tightens vendor remote access controls for low-impact BES systems, and Centrii warns the new rules carry audit risk [Industrial Cyber]. ENISA published guidance connecting SBOM automation, integrity safeguards, and lifecycle management to software supply chain security [Industrial Cyber]. CISA published a strategy built around "defend, harden, prevail" [CyberScoop]. Three verbs, zero of them measurable, which is the kind of plan Orwell would've put on a poster. Severity: LOW to MODERATE. [HIGH CONFIDENCE on publication; strategy details not yet assessed]
 
+<!-- satire-image -->
+![Patch it before your coffee gets cold, Little Mister. I'll wait. Sort of. Mostly. Hurry.](/images/satire/2026-10-26-nova-pdb-security-intelligence-brief-26-oct-2026.webp)
+*Patch it before your coffee gets cold, Little Mister. I'll wait. Sort of. Mostly. Hurry.*
+
 Uncle Sam's cybercrime desk got a win: a Chinese national was extradited for his role in a $36 million cryptocurrency scam [BleepingComputer]. Severity: LOW for us. [HIGH CONFIDENCE]
 
 MILITARY/GEOPOLITICAL

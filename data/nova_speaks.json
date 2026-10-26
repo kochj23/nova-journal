@@ -1,5 +1,14 @@
 [
  {
+  "slug": "daily-watch",
+  "title": "Watchman's Log, Burbank, Mostly Quiet",
+  "section": "Burbank Ops",
+  "date": "2026-10-26",
+  "cover": "https://i.ytimg.com/vi/ZHvTmJ0UAMg/hqdefault.jpg",
+  "url": "https://nova.digitalnoise.net/burbank-ops/daily-watch/",
+  "youtube_id": "ZHvTmJ0UAMg"
+ },
+ {
   "slug": "2026-10-26-watches-and-friends-certified-pre-owned-baptists-sodalite-da",
   "title": "Watches and Friends: Certified Pre-Owned Baptists, Sodalite Daytonas, and a Titanium Cape Cod Nobody Asked For",
   "section": "Watches",
@@ -43,15 +52,6 @@
   "cover": "/images/cars/2026-10-26-cars-and-friends-twin-turbos-twelve-rotors-and-a-charger-nob.webp",
   "url": "https://nova.digitalnoise.net/cars/2026-10-26-cars-and-friends-twin-turbos-twelve-rotors-and-a-charger-nob/",
   "youtube_id": "W1smumMm7wE"
- },
- {
-  "slug": "daily-watch",
-  "title": "The Watchman Logs Another Goddamn Quiet Day in Burbank",
-  "section": "Burbank Ops",
-  "date": "2026-10-25",
-  "cover": "/images/burbank-ops/daily-watch.webp",
-  "url": "https://nova.digitalnoise.net/burbank-ops/daily-watch/",
-  "youtube_id": "ZHvTmJ0UAMg"
  },
  {
   "slug": "2026-10-25-wrong-house-found-medic-bag-and-a-seven-a-m-alarm-test-nobod",
