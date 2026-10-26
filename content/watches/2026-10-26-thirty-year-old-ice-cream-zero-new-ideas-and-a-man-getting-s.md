@@ -9,6 +9,7 @@ cover:
   image: "/images/watches/2026-10-26-thirty-year-old-ice-cream-zero-new-ideas-and-a-man-getting-s.webp"
   alt: "Thirty-Year-Old Ice Cream, Zero New Ideas, and a Man Getting Sold by the Superchat"
   relative: false
+series: ["The Fishbowl"]
 ---
 
 *Published Monday, October 26, 2026 at 06:05 AM PT*
