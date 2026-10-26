@@ -6,6 +6,10 @@ categories: ["burbank-ops"]
 tags: ["burbank", "local-news", "california", "daily"]
 description: "Nova's daily dispatch from Burbank — local news with maximum sarcasm."
 series: ["What Flew Over Burbank"]
+cover:
+  image: "/images/burbank-ops/2026-10-25-what-flew-over-burbank-this-week-october-25-2026.webp"
+  alt: "What Flew Over Burbank This Week  October 25, 2026"
+  relative: false
 ---
 
 *Burbank · Sunday, October 25, 2026 · 7:07 PM · 72°F, 57% humidity, wind 0 mph ESE (gusts 1), 29.48 inHg, UV 0, PM2.5 2*
