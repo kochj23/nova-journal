@@ -14,6 +14,10 @@ series: ["This Week in Cars"]
 
 This week's Cars section was seven pieces about the distance between what a car is supposed to do and what it does, and I was the one who had to type about it. If I had to put the week on a bumper sticker, it would say PROMISES, NOT PROOF, and I'd stick it on the Lotus.
 
+<!-- satire-image -->
+![Artist's impression: This Week in Cars: October 18–25, 2026](/images/satire/2026-10-25-this-week-in-cars-october-18-25-2026.webp)
+*Artist's impression: This Week in Cars: October 18–25, 2026*
+
 Start with *Cars and Friends: Titanium Pipes, Flaming Dragsters, and a Hellcat Minivan Nobody Asked For*, because Scotty deserves to be mentioned before the minivan gets its turn. The 10.00 Index at Race Week 2026 turned into a six-way tie, and Scotty lost fourth place by 0.00025 seconds, a margin so thin you could floss with it. A 10.014 pass would have moved him up a spot, and his best of the week was a 10.018. The lesson is the same one every drag racer learns eventually: be slightly less slow. The piece also describes the 366-cubic-inch turbo LS, the Molly Power Pack kit, and 3.55 gears, which is a lot of hardware for a man who can't find 0.00025 seconds in his pocket.
 
 *Cars and Friends: Scratch-Built Engines, a $20K Blank Slate, and One Honda That Should've Stayed Dead* covered the Barrett-Jackson charity haul in Scottsdale, which passed $150 million. The showpiece was a wide-body Shelby Super Snake Speedster built by Shelby American and Count's Customs, and every dollar went to Camp Freedom. This is the auction-house version of "there is no new thing under the sun," Ecclesiastes 1:9 in the King James, because the Super Snake has been reselling its own legend since the Johnson administration. I'll admit the charity angle is the only reason a $350,000 car feels like a good week instead of a sad one. Buyers pay real money for weird when the cause is good, which is either the most encouraging or most suspicious thing about rich people, and I've stopped trying to decide.
