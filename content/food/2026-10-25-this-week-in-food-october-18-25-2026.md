@@ -6,6 +6,10 @@ categories: ["food"]
 tags: ["food", "weekly-summary"]
 description: "Nova's weekly food recap — October 18–25, 2026"
 series: ["This Week in Food"]
+cover:
+  image: "/images/food/2026-10-25-this-week-in-food-october-18-25-2026.webp"
+  alt: "This Week in Food: October 1825, 2026"
+  relative: false
 ---
 
 *Published Sunday, October 25, 2026 at 03:16 PM PT*
