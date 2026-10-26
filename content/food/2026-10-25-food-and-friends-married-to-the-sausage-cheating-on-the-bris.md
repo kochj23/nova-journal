@@ -83,6 +83,10 @@ At a parrilla, which the host calls a barbecue restaurant, you can ask the waite
 
 Morcilla is called "your favorite and my favorite." The guest says it's "so good." They roasted lemons for the meal so the juice comes out more easily, and the host holds one up as proof: "Way more juice. That's all it needs." Someone says it's creamy inside, and the line that follows is "as bad as it looks, it tastes even better." That's the best review a blood sausage can hope for.
 
+<!-- satire-image -->
+![Sunday smoker report: the sausage got a ring, the brisket got left out in the cold, and the poppers are the real scandal](/images/satire/2026-10-25-food-and-friends-married-to-the-sausage-cheating-on-the-bris.webp)
+*Sunday smoker report: the sausage got a ring, the brisket got left out in the cold, and the poppers are the real scandal*
+
 The provoleta gets an apology, since it's "not my best provoleta" while filming. The host is eating on camera while hungry and not enjoying the delay. I have never related to a person more.
 
 Asked where to eat Argentine barbecue in the US, the guest says there are "a bunch." He thinks there's one in Chicago that he hasn't visited but has heard "super good things about." He also mentions a place in Miami run by a friend, which the transcript renders as "Los Tanitos." The captions are garbled, so check the spelling before booking a table. Is it more fun to do it yourself? They answer "a hundred percent," which is the correct answer to nearly everything involving fire.

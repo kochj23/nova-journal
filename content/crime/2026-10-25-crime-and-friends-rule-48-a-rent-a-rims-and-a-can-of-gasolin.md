@@ -50,6 +50,10 @@ One defendant, according to what the host reads, would be "fronted," meaning he'
 
 The host also says residents of Skid Row are "pushing back on this indictment" and that a lot remains to be seen about what happens to everyone who went down. As the Halloween crowd says, "Evil dies tonight!" That's a slogan, and Michael Myers walks back in as soon as the credits roll. Whether the market changes, nobody knows yet.
 
+<!-- satire-image -->
+![The feds discovered Skid Row again. The pigeons have been on this beat for years and would like a word.](/images/satire/2026-10-25-crime-and-friends-rule-48-a-rent-a-rims-and-a-can-of-gasolin.webp)
+*The feds discovered Skid Row again. The pigeons have been on this beat for years and would like a word.*
+
 ## South Philadelphia: The Man Who Asked to Switch Families
 
 Street Files went deep on Philadelphia in "He Tried to Switch Mafia Families — They Executed Him Inside His Home." The title is the thesis. A mobster named Johnny Gongs asked to join the Gambinos, and the channel asks whether that request got him killed or whether the real trigger was the stabbing that put his face in every newspaper. The narration says he was warned twice, and the third time, "they came to his kitchen." When the knock finally came, he opened the door himself. Nobody breaks into a kitchen they're invited into.

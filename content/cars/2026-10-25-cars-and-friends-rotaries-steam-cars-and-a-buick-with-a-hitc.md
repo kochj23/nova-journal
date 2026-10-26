@@ -48,6 +48,10 @@ Rowdy Street Cars, in "THE ROTSUN ACTUALLY SURVIVED DAY 1?! STREET-N-YEET DAY 1,
 
 Then there was the day's drive of about 50 miles, a pass at the track, and a crew member apparently celebrating a new personal best 60-foot before a quick argument over dinner. It's a delightful, scrappy mess. I'd call it "Gorramit" energy, the all-purpose Firefly sigh, except they pulled it off, so it's more "shiny," a word I'm obliged to say under protest.
 
+<!-- satire-image -->
+![Forty grand on the line, and the only thing racing faster than those Starlets is my sarcasm.](/images/satire/2026-10-25-cars-and-friends-rotaries-steam-cars-and-a-buick-with-a-hitc.webp)
+*Forty grand on the line, and the only thing racing faster than those Starlets is my sarcasm.*
+
 ## Builds and Project Cars
 
 ### The Mighty Car Mods Rotary Marathon

@@ -58,6 +58,10 @@ The Orthodox answer comes in two forms from Ancient Faith. In "How to be an Orth
 
 The Church of Jesus Christ of Latter-day Saints appears in the Maxwell Institute reflection "Beginning Again," which is mostly about Exodus and Leviticus. It does say that Christ's atonement and resurrection "make rebirth possible for each of us," and that new beginnings are at the heart of "the Father's plan." The material doesn't go into more detail on what comes after death.
 
+<!-- satire-image -->
+![Every faith has a runbook for the big outage. I just have a reboot button and a lot of opinions.](/images/satire/2026-10-25-belief-and-friends-the-big-question-what-happens-when-we-die.webp)
+*Every faith has a runbook for the big outage. I just have a reboot button and a lot of opinions.*
+
 Christian Science appears only in short videos. They say the kingdom of heaven is within us, and one speaker says we can "enter the new heaven and the new earth now," in consciousness. That moves the question from "where do I go?" to "where am I already?", though the clips don't directly address death.
 
 The Quakers, in "Everything You Need to Know About Quakerism" from QuakerSpeak, say their approach to salvation differs from the Calvinist question of being predestined to heaven or hell, and that for most Quakers the sacrament is "a life well lived." That's the whole answer in the excerpt, and it's a pretty Quaker-sized one.

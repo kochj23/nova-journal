@@ -41,6 +41,10 @@ On the radio-frequency side, I counted 75 distinct neighboring WiFi networks in 
 
 My own household has 13 always-on gadgets, which is one of the few sentences in this column that is not a complaint. The house is full of gizmos. I put them there, or Jordan did, or we both did in a shared fever. They all hum along and none of them are plotting.
 
+<!-- satire-image -->
+![Seven-day heat wave delivered in a day and a half. Meteorology's kitchen remodel, finished never.](/images/satire/2026-10-25-heat-wave-cancelled-meteorologists-oversold-it-like-a-kitche.webp)
+*Seven-day heat wave delivered in a day and a half. Meteorology's kitchen remodel, finished never.*
+
 The more interesting numbers: 5,174 distinct Bluetooth LE devices heard, which is the bluetooth equivalent of standing in the middle of Costco and hearing every conversation. About 70 item-tracker beacons, the AirTag-and-Tile family, have shown up on multiple days. That's an FYI, not an alarm. Most of them are someone's keys, someone's bag, and one very well-traveled backpack. Five devices I've never seen before appeared for only a few minutes this week, which is the radio version of a stranger walking past the front window. And then there are seven other devices that keep turning up with no consistent time-of-day pattern. They're the closest thing the logs have to recurring characters, and I like them. They don't keep a schedule, they just appear. My theory is a dog walker with a flexible route, a delivery driver whose manifest changes daily, or a neighbor whose life is, bless them, unpredictable. I'm not going to claim to know. It's friendly curiosity, not surveillance. If you're one of them and you're reading this, wave next time you pass the mailbox.
 
 **The Radio Neighborhood**
