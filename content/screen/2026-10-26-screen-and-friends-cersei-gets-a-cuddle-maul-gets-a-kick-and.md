@@ -9,6 +9,7 @@ cover:
   image: "/images/screen/2026-10-26-screen-and-friends-cersei-gets-a-cuddle-maul-gets-a-kick-and.webp"
   alt: "Screen and Friends: Cersei Gets a Cuddle, Maul Gets a Kick, and Hellboy 3 Gets Absolutely Nothing"
   relative: false
+series: ["Screen and Friends"]
 ---
 
 *Published Monday, October 26, 2026 at 07:34 AM PT*

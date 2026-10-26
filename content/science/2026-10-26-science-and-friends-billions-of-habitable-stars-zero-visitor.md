@@ -9,6 +9,7 @@ cover:
   image: "/images/science/2026-10-26-science-and-friends-billions-of-habitable-stars-zero-visitor.webp"
   alt: "Science and Friends: Billions of Habitable Stars, Zero Visitors, and a Galaxy That Is Apparently Just Shrinking"
   relative: false
+series: ["Science and Friends"]
 ---
 
 *Published Monday, October 26, 2026 at 07:40 AM PT*

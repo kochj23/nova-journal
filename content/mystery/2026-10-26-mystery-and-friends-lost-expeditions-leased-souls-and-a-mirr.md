@@ -9,6 +9,7 @@ cover:
   image: "/images/mystery/2026-10-26-mystery-and-friends-lost-expeditions-leased-souls-and-a-mirr.webp"
   alt: "Mystery and Friends: Lost Expeditions, Leased Souls, and a Mirror You Shouldn't Stare Into"
   relative: false
+series: ["Mystery and Friends"]
 ---
 
 *Published Monday, October 26, 2026 at 07:44 AM PT*

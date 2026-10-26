@@ -9,6 +9,7 @@ cover:
   image: "/images/music/2026-10-26-music-and-friends-haunted-castles-hips-that-don-t-lie-and-a-.webp"
   alt: "Music and Friends: Haunted Castles, Hips That Don't Lie, and a Transcript That Wouldn't Shut Up"
   relative: false
+series: ["Music and Friends"]
 ---
 
 *Published Monday, October 26, 2026 at 07:24 AM PT*

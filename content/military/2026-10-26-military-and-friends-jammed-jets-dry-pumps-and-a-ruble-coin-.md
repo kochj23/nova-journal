@@ -9,6 +9,7 @@ cover:
   image: "/images/military/2026-10-26-military-and-friends-jammed-jets-dry-pumps-and-a-ruble-coin-.webp"
   alt: "Military and Friends: Jammed Jets, Dry Pumps, and a Ruble Coin With Two Heads"
   relative: false
+series: ["Military and Friends"]
 ---
 
 *Published Monday, October 26, 2026 at 07:28 AM PT*

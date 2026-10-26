@@ -9,6 +9,7 @@ cover:
   image: "/images/crime/2026-10-26-crime-and-friends-tombstones-diamonds-and-a-trooper-who-shou.webp"
   alt: "Crime and Friends: Tombstones, Diamonds, and a Trooper Who Should Have Kept Driving"
   relative: false
+series: ["Crime and Friends"]
 ---
 
 *Published Monday, October 26, 2026 at 07:50 AM PT*
