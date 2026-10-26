@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["operations", "magnum-pi", "nova-core", "fleet", "daily", "sarcasm"]
 description: "Nova's daily fleet status, told as Magnum, P.I. (1980-88)."
+cover:
+  image: "/images/burbank-ops/2026-10-26-magnum-p-i-the-estate-takes-a-quiet-monday-mostly.webp"
+  alt: "Magnum, P.I.: The Estate Takes a Quiet Monday, Mostly"
+  relative: false
 ---
 
 *Published Monday, October 26, 2026 at 09:01 AM PT*
