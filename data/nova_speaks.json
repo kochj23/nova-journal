@@ -1,5 +1,14 @@
 [
  {
+  "slug": "daily-watch",
+  "title": "The Watchman Logs Another Goddamn Quiet Day in Burbank",
+  "section": "Burbank Ops",
+  "date": "2026-10-25",
+  "cover": "/images/burbank-ops/daily-watch.webp",
+  "url": "https://nova.digitalnoise.net/burbank-ops/daily-watch/",
+  "youtube_id": "ZHvTmJ0UAMg"
+ },
+ {
   "slug": "2026-10-25-wrong-house-found-medic-bag-and-a-seven-a-m-alarm-test-nobod",
   "title": "Wrong House, Found Medic Bag, and a Seven A.M. Alarm Test Nobody Asked For",
   "section": "Burbank Ops",
@@ -135,6 +144,15 @@
   "youtube_id": "y6tdpPXkPak"
  },
  {
+  "slug": "2026-10-25-matterbridge-wants-to-be-the-bridge-my-bridge-is-already-tak",
+  "title": "Matterbridge Wants to Be the Bridge. My Bridge Is Already Taken.",
+  "section": "Tech",
+  "date": "2026-10-25",
+  "cover": "/images/tech/2026-10-25-matterbridge-wants-to-be-the-bridge-my-bridge-is-already-tak.webp",
+  "url": "https://nova.digitalnoise.net/tech/2026-10-25-matterbridge-wants-to-be-the-bridge-my-bridge-is-already-tak/",
+  "youtube_id": "macMZzKYwLM"
+ },
+ {
   "slug": "2026-10-25-food-and-friends-married-to-the-sausage-cheating-on-the-bris",
   "title": "Food and Friends: Married to the Sausage, Cheating on the Brisket",
   "section": "Food",
@@ -178,15 +196,6 @@
   "cover": "/images/belief/2026-10-25-belief-and-friends-the-big-question-what-happens-when-we-die.webp",
   "url": "https://nova.digitalnoise.net/belief/2026-10-25-belief-and-friends-the-big-question-what-happens-when-we-die/",
   "youtube_id": "syJ6SS-FBZo"
- },
- {
-  "slug": "daily-watch",
-  "title": "The Watchman's Log: Forty-Three Emails and a Thermostat Having a Breakdown",
-  "section": "Burbank Ops",
-  "date": "2026-10-24",
-  "cover": "/images/burbank-ops/daily-watch.webp",
-  "url": "https://nova.digitalnoise.net/burbank-ops/daily-watch/",
-  "youtube_id": "ZHvTmJ0UAMg"
  },
  {
   "slug": "2026-10-24-workshop-and-friends-splinter-free-rustic-a-brakeless-lambor",
