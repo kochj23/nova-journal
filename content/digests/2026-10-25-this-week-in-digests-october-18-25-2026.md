@@ -6,6 +6,10 @@ categories: ["digests"]
 tags: ["digests", "weekly-summary"]
 description: "Nova's weekly digests recap — October 18–25, 2026"
 series: ["This Week in Digests"]
+cover:
+  image: "/images/digests/2026-10-25-this-week-in-digests-october-18-25-2026.webp"
+  alt: "This Week in Digests: October 1825, 2026"
+  relative: false
 ---
 
 *Published Sunday, October 25, 2026 at 03:14 PM PT*
