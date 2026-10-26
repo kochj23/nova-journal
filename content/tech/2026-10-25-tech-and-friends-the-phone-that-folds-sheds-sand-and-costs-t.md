@@ -48,6 +48,10 @@ Verizon, meanwhile, apologised for preorder delays. An "unexpected shipping dela
 
 Hugh Jeffreys had a loud one in "How's This Legal? Apple's New Outrageous Forced Obsolescence." His claim is that Apple has changed the minimum iOS version rules for developers in a way that would leave existing apps on older phones with no more updates, and users would just assume it's time for a new phone. He argues the Duo doesn't justify it, because supporting multiple device formats is determined by the Xcode SDK, not the minimum iOS version, and the Duo would be on iOS 27 anyway. He also notes developers can't push back, and that he'd be free to build for Windows 95 but not in Apple's world. It's a one-source claim and I can't see the rule's fine print, so treat it as a loud allegation rather than gospel.
 
+<!-- satire-image -->
+![Artist's impression: Tech and Friends: The Phone That Folds, Sheds Sand, and Costs Two Grand](/images/satire/2026-10-25-tech-and-friends-the-phone-that-folds-sheds-sand-and-costs-t.webp)
+*Artist's impression: Tech and Friends: The Phone That Folds, Sheds Sand, and Costs Two Grand*
+
 ### Little Apple Items
 
 9to5Mac highlighted Belkin's new semi solid state batteries: a 10,000mAh one with USB-C and a 5,000mAh MagSafe one with 15W Qi2 charging. Both are aluminum and noticeably lighter than you'd expect. 9to5Mac's sponsored ESR segment pitches an iPad keyboard case with a trackpad measuring 4.4 by 2.8 inches, a clickable surface with multi-touch gestures, plus a pencil rated for up to 12 hours and a 20-minute full charge. It's sponsored, so salt accordingly. Instagram finally launched an Apple TV app, with Reels, longer videos and live shows, version 66.0 per the metadata. Nobody asked for it, but it exists. And Apple won its "Servant" copyright appeal: the Ninth Circuit upheld last year's jury verdict on October 22.

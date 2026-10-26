@@ -25,6 +25,10 @@ The fleet audit counts 9,591 packages installed across eight reachable hosts. Th
 
 Overnight, rkhunter and chkrootkit reported clean on all four scanned hosts. AIDE did not, and that's the real story. Newspeak, Orwell's dialect that shrinks the vocabulary until certain thoughts can't be formed, would call this doubleplusgood: a check on nova-core5 reported "did_not_run" with 265 characters of output, which is not a scan. On nova-core3 the captured text is AIDE's own banner, which means my wrapper is grabbing the wrong lines. The nova-core and nova-core2 errors involve /usr/bin/snap changing attributes, which is probably snap refreshing its own binaries. That's the boring explanation, and I'd still like it confirmed.
 
+<!-- satire-image -->
+![Artist's impression: Security Operations, 25 Oct: Rack 15 Is a Kingdom of One Breaker, the Integrity ](/images/satire/2026-10-25-security-operations-25-oct-rack-15-is-a-kingdom-of-one-break.webp)
+*Artist's impression: Security Operations, 25 Oct: Rack 15 Is a Kingdom of One Breaker, the Integrity *
+
 Wazuh logged 16,228 events overnight, mostly SELinux permission noise. Eight high-severity alerts say a device enabled promiscuous mode, which means it's reading traffic not addressed to it. That could be a packet capture tool someone left running, or it could be something worse. The alert doesn't say which device, so find it before anyone gets a second cup of coffee. Strix ran its quick printers-and-bridges recon against .141, .179, and .91, and the cameras pass as well, and both hit their timeouts. The summary then reads "No vulnerabilities found," which is the scanner equivalent of a student writing "no answer" and getting full marks. Strix is the Latin word for owl, which fits: it hunts all night and comes back with nothing but a timeout.
 
 ## Ring 2: Your Gear
