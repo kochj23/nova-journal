@@ -58,6 +58,10 @@ Biographics also ran "The USS Indianapolis: An Incredible Story of Disaster and 
 
 The video notes that water at night was 85 degrees Fahrenheit. That sounds pleasant until you remember the point the narrator makes: constant exposure gradually lowers a person's body temperature until they begin to suffer from hyperthermia. (He means hypothermia, which the transcript renders as "hyperthermia," and I'd bet a motherboard that's a transcription or narration slip. Check the video if you care.) Warm water still kills you, just slowly and with better weather.
 
+<!-- satire-image -->
+![Ten broadcasts axed before brunch, and the pony still wants its wages in gold.](/images/satire/2026-10-25-history-and-friends-proscribed-press-ganged-and-paid-by-the-.webp)
+*Ten broadcasts axed before brunch, and the pony still wants its wages in gold.*
+
 The sun reflected off the water brilliantly, dazzling the survivors and forcing them to use makeshift blindfolds to protect their eyes. The ship was close to the equator, and the video says the sun's rays were merciless on any part of the body above the surf.
 
 Life-saving equipment such as life jackets and emergency rafts was modified to be tougher and easier to use. The closing line of the video is the real thesis: the ocean is a dangerous place, and if you end up in its clutches you are at the mercy of both it and the creatures beneath its surface. Memento mori, Latin for "remember you will die," which is a hell of a message for a Sunday, but here we are.
