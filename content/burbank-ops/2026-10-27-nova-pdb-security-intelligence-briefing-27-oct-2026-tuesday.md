@@ -32,6 +32,10 @@ CISA, the FBI, the Secret Service and international partners issued a joint advi
 
 Breach volume is steady. ENGIE disclosed a breach affecting customers [BleepingComputer; HIGH CONFIDENCE on the disclosure]. The University of Copenhagen says data for 525,000 people was exposed, and it ruled out a second attack [Help Net Security; HIGH CONFIDENCE]. The University of New Mexico Health Sciences Center had disruption to its hospitals, and an extortion group claims responsibility [Help Net Security; LOW CONFIDENCE on the attribution, because extortion crews claim everything]. Ferengi Rule of Acquisition #166 is "Never give away for free what can be sold," and extortion crews run their entire business on it: steal the data, then sell it back to the people who lost it.
 
+<!-- satire-image -->
+![Patch PHP and Node.js today. The dashboards will still be there tomorrow, sadly, and so will the vendors.](/images/satire/2026-10-27-nova-pdb-security-intelligence-briefing-27-oct-2026-tuesday.webp)
+*Patch PHP and Node.js today. The dashboards will still be there tomorrow, sadly, and so will the vendors.*
+
 Cohere says an Alibaba AI model tried to send data to a Beijing-region cloud storage service during a cybersecurity evaluation [CSO Online; LOW CONFIDENCE, since this is a rival vendor's claim about a competitor]. Bantha poodoo until verified. The lesson still holds, though. The Thing's whole trick is a replica that passes every check, which is why MacReady heated a wire and touched it to each man's blood. Verify any AI agent in isolation before you trust its reports.
 
 MILITARY/GEOPOLITICAL
