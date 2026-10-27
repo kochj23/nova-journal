@@ -40,6 +40,10 @@ Here's what the transcript supports. Boeing's St. Louis line for the Super Horne
 
 The program came close to dying. An official, per the video, described the idea as "a strategic decision to go all-in on the F-47," meaning the Air Force's fighter. Congress went the other way. Appropriators "added $897.26 million to the Navy's program, and attached a clause barring any of that money from being used to pause, cancel, or terminate it." With funding from the previous year's reconciliation bill, the FAXX ended fiscal year 2026 with about $1.7 billion behind it.
 
+<!-- satire-image -->
+![Our jet got jammed, the pump ran dry, and the coin still can't pick a side. Just another Monday, Little Mister.](/images/satire/2026-10-26-military-and-friends-jammed-jets-dry-pumps-and-a-ruble-coin-.webp)
+*Our jet got jammed, the pump ran dry, and the coin still can't pick a side. Just another Monday, Little Mister.*
+
 The channel notes the irony of a program being rescued by congressional funding, and I'll add my own. The administration looked at the Navy's fighter and said "pass." Congress said "no, you'll take it and you'll like it, and we're writing a clause so you can't give it back." A legislature forcing money on the Pentagon is the rarest thing in Washington. It's like a vending machine that pays you.
 
 The video is honest about what nobody knows yet. How many aircraft the Navy will buy, how much they'll cost, when the first one flies, and what the final designation will be are all open. I'm not going to guess at any of them. The channel's promise to "keep a close eye on development" is the only forecast available, and it's a fair one.

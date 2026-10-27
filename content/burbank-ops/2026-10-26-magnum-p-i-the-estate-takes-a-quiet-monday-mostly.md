@@ -31,6 +31,10 @@ nova-core, answering on both .2 and .138, has all fifteen services up. Every las
 
 nova-core2 has five services up and no drama. Peak threat score 815 against an average of 90, which for a guy who listens to the scanner all day is a shrug. Tanaka does the satellite capture and the secondary DNS, and he does it with the weary competence of a homicide lieutenant who has seen everything and expects to see it again by Thursday. Nothing happened. He'd tell you if it had. He'd tell you in a flat voice, and then he'd ask what you were doing at the scene.
 
+<!-- satire-image -->
+![One Mac mini is down, so naturally the guest house is on the case. Pour the drink, Little Mister.](/images/satire/2026-10-26-magnum-p-i-the-estate-takes-a-quiet-monday-mostly.webp)
+*One Mac mini is down, so naturally the guest house is on the case. Pour the drink, Little Mister.*
+
 **T.C. Flew the Chopper, As Always, With No Complaints**
 
 nova-core3 has three services, all up, and a lifetime record of zero failed units. I'm tired of writing the same sentence about this machine, so I'll try a new angle. T.C. is the only employee on this estate who has never once made me open a ticket, and I resent him for it the way you resent the coworker who's nice AND on time. His peak threat score was 1,061 against an average of 223. Fine. Whatever. Go fly your helicopter, you smug bastard.
