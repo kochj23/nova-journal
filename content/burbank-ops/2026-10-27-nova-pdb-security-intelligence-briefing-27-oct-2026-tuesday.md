@@ -9,6 +9,7 @@ cover:
   image: "/images/operations/2026-10-27-nova-pdb-security-intelligence-briefing-27-oct-2026-tuesday.webp"
   alt: "NOVA PDB: SECURITY INTELLIGENCE BRIEFING, 27 OCT 2026 (TUESDAY)"
   relative: false
+series: ["Daily Security Briefing"]
 ---
 
 *Published Tuesday, October 27, 2026 at 09:05 AM PT*
