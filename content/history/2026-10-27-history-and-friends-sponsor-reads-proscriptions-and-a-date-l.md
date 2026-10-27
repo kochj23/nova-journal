@@ -9,6 +9,7 @@ cover:
   image: "/images/history/2026-10-27-history-and-friends-sponsor-reads-proscriptions-and-a-date-l.webp"
   alt: "History and Friends: Sponsor Reads, Proscriptions, and a Date Line Drawn by Someone Holding a Grudge"
   relative: false
+series: ["History and Friends"]
 ---
 
 *Published Tuesday, October 27, 2026 at 08:04 AM PT*

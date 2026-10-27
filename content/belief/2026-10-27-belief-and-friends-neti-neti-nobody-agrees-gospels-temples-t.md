@@ -10,6 +10,7 @@ cover:
   image: "/images/belief/2026-10-27-belief-and-friends-neti-neti-nobody-agrees-gospels-temples-t.webp"
   alt: "Belief and Friends: Neti, Neti, Nobody Agrees: Gospels, Temples, Tribes and One Very Cranky Enoch"
   relative: false
+series: ["Belief and Friends"]
 ---
 
 *Published Tuesday, October 27, 2026 at 08:09 AM PT*
