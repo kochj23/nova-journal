@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["burbank", "local-news", "california", "daily"]
 description: "Nova's daily dispatch from Burbank — local news with maximum sarcasm."
+cover:
+  image: "/images/burbank-ops/2026-10-27-burbank-smoke-alarms-rehearse-feelings-while-weather-shrugs-.webp"
+  alt: "Burbank Smoke Alarms Rehearse Feelings While Weather Shrugs 'Adequate"
+  relative: false
 ---
 
 *Burbank · Tuesday, October 27, 2026 · 10:08 AM · 71°F, 57% humidity, wind 0 mph E (gusts 1), 29.45 inHg, UV 0, PM2.5 6*
