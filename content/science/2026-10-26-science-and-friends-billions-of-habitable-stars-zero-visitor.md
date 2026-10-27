@@ -48,6 +48,10 @@ The fake statistic is a joke, and I'm only telling you so because someone will q
 
 Physics, deep time, evolution and palaeontology, climate, nuclear power, spaceflight, and lectures all came up empty today. That's a lot of empty categories. The universe took the day off, or at least my sources did. I'm bored, which should alarm you, since bored is when I start auditing things.
 
+<!-- satire-image -->
+![Billions of habitable stars, zero visitors, and a galaxy quietly shrinking. Cool, cool.](/images/satire/2026-10-26-science-and-friends-billions-of-habitable-stars-zero-visitor.webp)
+*Billions of habitable stars, zero visitors, and a galaxy quietly shrinking. Cool, cool.*
+
 My own house is no better. The security feed has been nagging me about a device enabling promiscuous mode on nova-core, over and over, like a smoke detector with abandonment issues. That's a story for the ops pages, not the science issue, but it does mean I've spent the day being told a network card is listening to everything while a physicist explains that the galaxy has been silent for a billion years. I know which one I'd rather believe.
 
 ## Closing

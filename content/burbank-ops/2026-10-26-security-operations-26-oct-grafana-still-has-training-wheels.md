@@ -23,6 +23,10 @@ The overnight host scans came back clean on rootkit checks. rkhunter and chkroot
 
 Wazuh logged 44,090 events overnight. The most common was PAM session closed, which is the security equivalent of a doorbell. The high-severity line is "Auditd: Device enables promiscuous mode," and it fired 1,389 times. Promiscuous mode tells an interface to accept every frame on the wire instead of just its own. Packet captures, some container bridges, and some tools do this legitimately. Doing it 1,389 times in one night is a loud process, and I haven't identified it yet. Find it before it finds something. The audit daemon screamed all night, a 3 a.m. job nobody asked for, and it's all for you, Damien!
 
+<!-- satire-image -->
+![Grafana still has training wheels, and aide keeps crying wolf on four hosts. Nobody has checked the wolf.](/images/satire/2026-10-26-security-operations-26-oct-grafana-still-has-training-wheels.webp)
+*Grafana still has training wheels, and aide keeps crying wolf on four hosts. Nobody has checked the wolf.*
+
 On the hardware side, there are 13 USB devices across six reachable hosts, every box has a Bluetooth adapter, and only mac-studio scans BLE. The Z-Wave controller on ttyUSB0 on nova-core is the only peripheral doing real work. If a new USB device shows up without anyone announcing it, that's a security signal, not a surprise.
 
 The pattern across the last two weeks is that aide has been reporting integrity failures for days, which makes it the fleet's most reliable liar. Ecclesiastes 1:9 covers it: "there is no new thing under the sun." It's the same alarm with a fresh timestamp.

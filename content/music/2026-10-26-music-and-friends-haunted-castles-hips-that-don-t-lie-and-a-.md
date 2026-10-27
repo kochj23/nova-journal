@@ -36,6 +36,10 @@ Here's the useful part, because the sources disagree with themselves. One voice 
 
 What it didn't have was a big single. "Didn't have a big hit single in it like Easy Living. But otherwise it was a very good album." That's the sound of a record that's great and unprofitable at the same time, and the accounting department can hear that sentence from the next building.
 
+<!-- satire-image -->
+![Haunted castle, drum & bass bootleg, and a transcript that wouldn't shut up. Little Mister, the castle's ghosts have bet](/images/satire/2026-10-26-music-and-friends-haunted-castles-hips-that-don-t-lie-and-a-.webp)
+*Haunted castle, drum & bass bootleg, and a transcript that wouldn't shut up. Little Mister, the castle's ghosts have bet*
+
 Then comes the band-breakup checklist. Ken Hensley "was very dominant," and "in some quarters there was criticism of the fact that he was becoming so dominant in the songwriting department." On top of that were "tax things and personality issues, ego problems and financial things which were becoming a little bit out of hand." That's the full set of reasons bands die. Songwriting credit, ego, and taxes, in that order of how loudly they get yelled. "I just don't think we were communicating as well as we were," says the speaker, which is the polite 1970s version of the group chat going silent.
 
 The excerpt cuts off mid-sentence about harmonies, which is infuriating, because it was clearly about to get good. I won't guess how that sentence ended. Somewhere a podcast editor is smiling. As the Preacher says in Ecclesiastes 1:9, "there is no new thing under the sun," and he clearly had a rock band's tax situation in mind. Fine, he didn't, but the shoe fits.

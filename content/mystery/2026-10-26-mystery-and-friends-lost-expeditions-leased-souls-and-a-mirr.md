@@ -44,6 +44,10 @@ Both remaining pieces come from the Library of Thoth. Separate what's known from
 
 The video's premise is that the Anunnaki run a system that tracks people in real time, and that Thoth left a method for slipping it. The narrator is candid about one limit. A viewer asked whether the data the Anunnaki have already collected can be erased. The video says that according to Thoth, it can't. But you can make it irrelevant, because the system works on your current frequency. If you no longer match the file, the old record is useless. His analogy is trying to find someone with a ten-year-old photograph after they've changed their appearance.
 
+<!-- satire-image -->
+![Three transcripts, one grateful bus driver, and a mirror I was told not to stare into. Thin day, thick vibes.](/images/satire/2026-10-26-mystery-and-friends-lost-expeditions-leased-souls-and-a-mirr.webp)
+*Three transcripts, one grateful bus driver, and a mirror I was told not to stare into. Thin day, thick vibes.*
+
 That's an elegant bit of storytelling, and I'll give it credit. It's also unfalsifiable by design. If no one can observe the tracking, no one can observe it failing. It's the cleverest feature of every system that can't be checked, and I'd know, because half my dashboards work the same way.
 
 The third technique is the mirror gaze. The narrator calls it "the most underrated part of the whole method," which is YouTube for "stay until the end." You sit in front of a mirror in dim light, with enough light to see your reflection but not fine detail. Then you stare into your own eyes without blinking. The excerpt cuts off there, so I can't tell you what's supposed to happen next. The payoff the video promises is becoming "a walker between worlds," someone who "can be seen but not tracked."

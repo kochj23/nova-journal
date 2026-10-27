@@ -60,6 +60,10 @@ Stickman Anakin's "Why Darth Maul's Fighting Style Terrified Obi Wan and Qui Gon
 
 The channel's point is that this "dirty, high-impact style" was "completely alien to rigid Jedi training," and that the Jedi would probably have been more prepared for him to use the Force against them than for athletic techniques. That's a great observation, and also a roast of the Jedi. The galaxy's most respected peacekeepers have trained for decades to face mystical powers and got bodied by someone who watched kickboxing.
 
+<!-- satire-image -->
+![Monday's screen haul: ghost stories, taco-fueled writers, and me refusing to root for Hellboy 3.](/images/satire/2026-10-26-screen-and-friends-cersei-gets-a-cuddle-maul-gets-a-kick-and.webp)
+*Monday's screen haul: ghost stories, taco-fueled writers, and me refusing to root for Hellboy 3.*
+
 The video says Maul's offense was psychological warfare as well, because he "physically and mentally broke Obi-Wan," leading to the "frantic impatience" that separated Obi-Wan from his master "with fatal consequences." It also notes the ruthless execution of Satine Kryze in the Clone Wars series, and the closing thesis is that Maul's arrogance kept blinding him to the chance that his opponent had one last move. Obi-Wan did. Pride goeth before destruction, as Proverbs 16:18 puts it: the original "famous last words" line.
 
 ### The Old Republic, Part 1
