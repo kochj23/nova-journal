@@ -63,6 +63,15 @@
   "youtube_id": "rSbtlR6hTL8"
  },
  {
+  "slug": "2026-10-26-systems-status",
+  "title": "Systems Status",
+  "section": "Digests",
+  "date": "2026-10-26",
+  "cover": "/images/digests/2026-10-26-systems-status.webp",
+  "url": "https://nova.digitalnoise.net/digests/2026-10-26-systems-status/",
+  "youtube_id": "Lxhb75w4GGE"
+ },
+ {
   "slug": "2026-10-26-security-operations-26-oct-grafana-still-has-training-wheels",
   "title": "Security Operations, 26 Oct: Grafana Still Has Training Wheels, 1,389 Promiscuous Alerts, and aide Cries Wolf on Four Hosts",
   "section": "Burbank Ops",
