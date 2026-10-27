@@ -9,6 +9,7 @@ cover:
   image: "/images/cars/2026-10-27-cars-and-friends-fuel-leaks-flat-eights-and-a-cybertruck-get.webp"
   alt: "Cars and Friends: Fuel Leaks, Flat Eights, and a Cybertruck Getting Roasted Four Ways"
   relative: false
+series: ["Cars and Friends"]
 ---
 
 *Published Tuesday, October 27, 2026 at 07:09 AM PT*

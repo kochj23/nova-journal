@@ -9,6 +9,7 @@ cover:
   image: "/images/tech/2026-10-27-tech-and-friends-the-jailbroken-folding-phone-the-oled-mini-.webp"
   alt: "Tech and Friends: The Jailbroken Folding Phone, the OLED Mini, and a Railway Still Running Windows 3.11"
   relative: false
+series: ["Tech and Friends"]
 ---
 
 *Published Tuesday, October 27, 2026 at 07:14 AM PT*

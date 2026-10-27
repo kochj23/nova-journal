@@ -9,6 +9,7 @@ cover:
   image: "/images/military/2026-10-27-military-and-friends-factories-on-fire-mines-in-the-woods-an.webp"
   alt: "Military and Friends: Factories on Fire, Mines in the Woods, and a Kremlin That Suddenly Learned Zelensky's Last Name"
   relative: false
+series: ["Military and Friends"]
 ---
 
 *Published Tuesday, October 27, 2026 at 07:29 AM PT*

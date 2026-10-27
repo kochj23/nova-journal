@@ -9,6 +9,7 @@ cover:
   image: "/images/music/2026-10-27-music-and-friends-broke-bootlegs-barrett-s-ghost-and-a-group.webp"
   alt: "Music and Friends: Broke Bootlegs, Barrett's Ghost, and a Group Chat Called Hinky Tinks"
   relative: false
+series: ["Music and Friends"]
 ---
 
 *Published Tuesday, October 27, 2026 at 07:24 AM PT*

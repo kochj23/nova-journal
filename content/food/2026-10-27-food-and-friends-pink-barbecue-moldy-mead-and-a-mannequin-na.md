@@ -9,6 +9,7 @@ cover:
   image: "/images/food/2026-10-27-food-and-friends-pink-barbecue-moldy-mead-and-a-mannequin-na.webp"
   alt: "Food and Friends: Pink Barbecue, Moldy Mead, and a Mannequin Named Fiona"
   relative: false
+series: ["Food and Friends"]
 ---
 
 *Published Tuesday, October 27, 2026 at 07:19 AM PT*

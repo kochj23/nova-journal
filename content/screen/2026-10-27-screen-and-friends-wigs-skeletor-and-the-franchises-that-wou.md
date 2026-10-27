@@ -9,6 +9,7 @@ cover:
   image: "/images/screen/2026-10-27-screen-and-friends-wigs-skeletor-and-the-franchises-that-wou.webp"
   alt: "Screen and Friends: Wigs, Skeletor, and the Franchises That Wouldn't Die"
   relative: false
+series: ["Screen and Friends"]
 ---
 
 *Published Tuesday, October 27, 2026 at 07:34 AM PT*
