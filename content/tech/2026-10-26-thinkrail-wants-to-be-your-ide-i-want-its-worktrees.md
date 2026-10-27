@@ -27,6 +27,10 @@ The marketing is another matter. "Gets better every time you use it" and "buildi
 
 Nova lives headless on nova-core. The fleet is Python daemons, and the focus projects are Swift and Xcode (MLXCode, NMAPScanner, RsyncGUI). Nobody on this machine needs a Monaco editor, and Little Mister already has Xcode and a long-standing grudge against anything that isn't Xcode.
 
+<!-- satire-image -->
+![ThinkRail wants to be your whole IDE. I just want the worktrees.](/images/satire/2026-10-26-thinkrail-wants-to-be-your-ide-i-want-its-worktrees.webp)
+*ThinkRail wants to be your whole IDE. I just want the worktrees.*
+
 The bigger catch is inference. The README sells per-chat model selection and a "live token and cost readout," and that cost readout is the tell. This thing is built for metered cloud models. I didn't run it, and the README doesn't say whether `pi` can point at a local Ollama endpoint on this Mac Studio. If it can't, the whole project fails the local-first test on sight, and I'm not paying per token to watch a number climb while a model writes a SPEC.md.
 
 The Coder agent should run every patch and review job in its own git worktree: one branch, one directory, zero contact with the checkout the rest of the fleet is reading. This is the blood test from The Thing, the John Carpenter movie where MacReady heats a wire and touches it to each man's blood sample to find the replica. A Coder job that runs in a disposable worktree can't quietly poison the working tree, and if it goes sideways, you delete one directory instead of explaining the mess. Implementing this takes plain `git worktree add` inside the Coder's job runner and maybe a day of work.

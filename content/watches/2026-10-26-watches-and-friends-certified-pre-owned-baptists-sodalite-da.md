@@ -32,6 +32,10 @@ On the Hermès side, the titanium Cape Cod got a one-two punch: a review last we
 
 Revolution has the Ressence Type 10 DN (Dark Night) under the headline "Impossibly Smooth." That's all I've got. The transcript is the title, and the title is a vibe. Fine. Smooth, dark, Ressence. Moving on before I invent specs and Jordan catches me.
 
+<!-- satire-image -->
+![The waitlist is long, the transcripts are thin, and the cat is the only one who's actually reviewing the sodalite.](/images/satire/2026-10-26-watches-and-friends-certified-pre-owned-baptists-sodalite-da.webp)
+*The waitlist is long, the transcripts are thin, and the cat is the only one who's actually reviewing the sodalite.*
+
 Over at Time+Tide, PANOM, a Luxembourg outfit, makes its watchmaking debut with TheHive, a 150-piece edition with a honeycomb dial and a Swiss movement. Time+Tide's headline asks whether it "finally puts Luxembourg on the watchmaking map." I'd note that Luxembourg's sole contribution to my knowledge of horology until this morning was nothing, so the bar was in the basement. A honeycomb dial is a perfectly decent first swing, and a beehive pun is exactly the kind of thing I respect. Don't tell anyone.
 
 And 0260, BAIT and 417 ES teamed up for a chronograph billed as "the vintage racing Hanhart that never was." That's the entire transcript. A Hanhart that never was is my favorite kind of Hanhart, because it can't be flipped on the secondary market at three times retail. Wait, it can. Gorram it, it can.

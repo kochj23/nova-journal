@@ -52,6 +52,10 @@ Beyond the individuals, there are "families in Rogers City and Two Rivers," and 
 
 The narration ends on a note of ongoing change, not a finished story. The transcript says mussels are still spreading, and that lake levels and temperatures are shifting. Every new sonar survey adds another name to the map, and every answer seems to raise a new question. The closing line is that "the next sonar sweep may find another lost crew."
 
+<!-- satire-image -->
+![The lakes keep everything: shipwrecks, shopping carts, and one very committed rubber duck.](/images/satire/2026-10-26-travel-and-friends-the-lakes-keep-everything-a-one-story-tra.webp)
+*The lakes keep everything: shipwrecks, shopping carts, and one very committed rubber duck.*
+
 The other detail I can salvage is a truncated sentence: "By 1982, remote vehicles with cameras we..." The sentence breaks off there, so I can't say what the vehicles did. It suggests the exploration technology has been getting better for a long time, and the map is still incomplete.
 
 ## Closing

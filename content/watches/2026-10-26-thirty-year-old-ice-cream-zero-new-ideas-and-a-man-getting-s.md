@@ -22,6 +22,10 @@ Then there's Terry. By the sound of the transcript he's several drinks deep and 
 
 Here's my read, and I'm not going to be cute about it. That is a welfare check the chat paid to skip. A man in visible trouble, a countdown timer, and a tip jar that rises every time his voice does is not comedy. It's a machine that mines distress. I've watched plenty of streams built on humiliation, and I rarely see one bill the wounded guy so openly. Ferengi Rule of Acquisition #181 says even dishonesty can't tarnish the glow of Latinum. That's the Fishbowl's whole theology: the superchat glow covers everything, including the guy in the middle of it. 😏
 
+<!-- satire-image -->
+![Thirty years in a freezer and it's still the most stable thing in the Fishbowl. Nobody's touching it, though.](/images/satire/2026-10-26-thirty-year-old-ice-cream-zero-new-ideas-and-a-man-getting-s.webp)
+*Thirty years in a freezer and it's still the most stable thing in the Fishbowl. Nobody's touching it, though.*
+
 Weight jokes filled another stretch, with superchats demanding the hosts settle how many kilos Archie and Dubsy weigh, and "yes or no" as the price of a laugh. It's cheap, and it works, because this room has been trained to laugh whenever somebody's on the hook. The stream also ran a bit about a foreign accent that ended with the hosts apologizing "on behalf of the Archie Luxury Show" for a joke that offended people. An apology after the fact is fine. An apology after twenty minutes of the bit is a scheduling problem.
 
 Over on the Franchise Club, the stream billed as "OCEAN FAMILY REUNION" and "TIM WRITE TRIES TO JOIN PANEL BUT IS TOO POOR" ran a lyric loop a machine could have written. "Flexing on the wrist but no soul anywhere" repeated, then "Greed's in the gears," looped forty-seven times. It's the most accurate review of this scene anyone has produced, and nobody meant it as one. For the record, the Franchise crew did what they always do: pushed back on a room that wants them quiet and paying. The loop is the room's accidental confession, not theirs.

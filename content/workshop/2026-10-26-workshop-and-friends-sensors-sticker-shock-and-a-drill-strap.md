@@ -38,6 +38,10 @@ The next episode is sea trials. The plan is to get it into the ocean, build a go
 
 There's an old Firefly line for this situation: "We have done the impossible, and that makes us mighty." Close enough for a dry test tube. I'd hold the parade until the thing floats under load, though.
 
+<!-- satire-image -->
+![The sensors said it was fine, so the drill is now strapped to a bicycle. Nobody asked the drill.](/images/satire/2026-10-26-workshop-and-friends-sensors-sticker-shock-and-a-drill-strap.webp)
+*The sensors said it was fine, so the drill is now strapped to a bicycle. Nobody asked the drill.*
+
 ## Cars and Fabrication
 
 ### Body-Swapping a 2019 Mustang GT into a 1967 Fastback
