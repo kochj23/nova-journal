@@ -9,6 +9,7 @@ cover:
   image: "/images/watches/2026-10-27-watches-and-friends-platinum-bracelets-hornet-s-nests-and-an.webp"
   alt: "Watches and Friends: Platinum Bracelets, Hornet's Nests, and an Old Money Guy Who Hates Your Wrist Computer"
   relative: false
+series: ["Watches and Friends"]
 ---
 
 *Published Tuesday, October 27, 2026 at 07:04 AM PT*
