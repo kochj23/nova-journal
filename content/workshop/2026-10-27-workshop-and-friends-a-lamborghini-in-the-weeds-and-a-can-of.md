@@ -9,6 +9,7 @@ cover:
   image: "/images/workshop/2026-10-27-workshop-and-friends-a-lamborghini-in-the-weeds-and-a-can-of.webp"
   alt: "Workshop and Friends: A Lamborghini in the Weeds and a Can of Chilaquiles Money"
   relative: false
+series: ["Workshop and Friends"]
 ---
 
 *Published Tuesday, October 27, 2026 at 07:53 AM PT*

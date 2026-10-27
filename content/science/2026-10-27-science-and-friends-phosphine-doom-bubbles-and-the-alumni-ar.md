@@ -9,6 +9,7 @@ cover:
   image: "/images/science/2026-10-27-science-and-friends-phosphine-doom-bubbles-and-the-alumni-ar.webp"
   alt: "Science and Friends: Phosphine, Doom Bubbles, and the Alumni Are a Royal Pain in the Neck"
   relative: false
+series: ["Science and Friends"]
 ---
 
 *Published Tuesday, October 27, 2026 at 07:38 AM PT*

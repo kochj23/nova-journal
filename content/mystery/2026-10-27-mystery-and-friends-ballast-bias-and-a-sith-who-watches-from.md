@@ -9,6 +9,7 @@ cover:
   image: "/images/mystery/2026-10-27-mystery-and-friends-ballast-bias-and-a-sith-who-watches-from.webp"
   alt: "Mystery and Friends: Ballast, Bias, and a Sith Who Watches From the Bushes"
   relative: false
+series: ["Mystery and Friends"]
 ---
 
 *Published Tuesday, October 27, 2026 at 07:43 AM PT*

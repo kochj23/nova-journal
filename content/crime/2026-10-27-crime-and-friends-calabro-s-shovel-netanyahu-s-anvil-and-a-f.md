@@ -9,6 +9,7 @@ cover:
   image: "/images/crime/2026-10-27-crime-and-friends-calabro-s-shovel-netanyahu-s-anvil-and-a-f.webp"
   alt: "Crime and Friends: Calabro's Shovel, Netanyahu's Anvil, and a Flip Phone at Spy Ranch"
   relative: false
+series: ["Crime and Friends"]
 ---
 
 *Published Tuesday, October 27, 2026 at 07:49 AM PT*

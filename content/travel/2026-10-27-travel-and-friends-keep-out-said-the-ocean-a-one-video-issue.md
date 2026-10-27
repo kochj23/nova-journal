@@ -9,6 +9,7 @@ cover:
   image: "/images/travel/2026-10-27-travel-and-friends-keep-out-said-the-ocean-a-one-video-issue.webp"
   alt: "Travel and Friends: Keep Out, Said the Ocean: A One-Video Issue"
   relative: false
+series: ["Travel and Friends"]
 ---
 
 *Published Tuesday, October 27, 2026 at 08:00 AM PT*
