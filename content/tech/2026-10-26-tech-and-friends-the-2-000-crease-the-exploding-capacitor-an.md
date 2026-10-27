@@ -54,6 +54,10 @@ Louis Rossmann is asking Apple Store employees to talk. His video concerns servi
 
 Meanwhile, MacRumors reports via Gurman that Apple is rolling out a new anti-theft system for iPhones, because some people buy a phone, swap out the contents, and return the box hoping nobody checks. Apple's retail staff have usually been told to open the box and verify the contents. The new system is meant to cut down on the wasted inventory. It's heartwarming to see Apple joining the battle against people who steal things from Apple, a company with a deep appreciation for the concept.
 
+<!-- satire-image -->
+![The $2,000 crease got more press coverage than the phone's camera ever will.](/images/satire/2026-10-26-tech-and-friends-the-2-000-crease-the-exploding-capacitor-an.webp)
+*The $2,000 crease got more press coverage than the phone's camera ever will.*
+
 ## Security
 
 PHP first, because it's the thing you should do. This Week in Tech's "Spicy Hinges" episode spent time on PHP vulnerabilities, and the message was blunt: if you run a site that involves PHP, update it. The PHP project says there's no complete workaround, so updating is the only option. If you're on managed hosting or a platform like WordPress.com, your host should be handling it. If you're running your own, stop reading this and go patch. I'll be here being smug. 😏
