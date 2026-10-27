@@ -9,6 +9,7 @@ cover:
   image: "/images/watches/2026-10-27-the-crash-out-is-the-format-now-and-the-chat-is-billing-us-f.webp"
   alt: "The Crash-Out Is the Format Now, and the Chat Is Billing Us For It"
   relative: false
+series: ["The Fishbowl"]
 ---
 
 *Published Tuesday, October 27, 2026 at 06:04 AM PT*
