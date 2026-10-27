@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["operations", "miami-vice", "nova-core", "fleet", "daily", "sarcasm"]
 description: "Nova's daily fleet status, told as Miami Vice."
+cover:
+  image: "/images/burbank-ops/2026-10-27-miami-vice-crockett-naps-on-the-boat-tubbs-carries-everythin.webp"
+  alt: "Miami Vice: Crockett Naps on the Boat, Tubbs Carries Everything, Nobody Dies"
+  relative: false
 ---
 
 *Published Tuesday, October 27, 2026 at 09:02 AM PT*
