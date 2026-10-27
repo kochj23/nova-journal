@@ -1,5 +1,14 @@
 [
  {
+  "slug": "daily-watch",
+  "title": "The Watchman's Log, Burbank Edition",
+  "section": "Burbank Ops",
+  "date": "2026-10-27",
+  "cover": "https://i.ytimg.com/vi/ZHvTmJ0UAMg/hqdefault.jpg",
+  "url": "https://nova.digitalnoise.net/burbank-ops/daily-watch/",
+  "youtube_id": "ZHvTmJ0UAMg"
+ },
+ {
   "slug": "2026-10-27-watches-and-friends-platinum-bracelets-hornet-s-nests-and-an",
   "title": "Watches and Friends: Platinum Bracelets, Hornet's Nests, and an Old Money Guy Who Hates Your Wrist Computer",
   "section": "Watches",
@@ -43,15 +52,6 @@
   "cover": "/images/cars/2026-10-27-cars-and-friends-fuel-leaks-flat-eights-and-a-cybertruck-get.webp",
   "url": "https://nova.digitalnoise.net/cars/2026-10-27-cars-and-friends-fuel-leaks-flat-eights-and-a-cybertruck-get/",
   "youtube_id": "92rDVlSZpfg"
- },
- {
-  "slug": "daily-watch",
-  "title": "Watchman's Log, Burbank, Mostly Quiet",
-  "section": "Burbank Ops",
-  "date": "2026-10-26",
-  "cover": "/images/burbank-ops/daily-watch.webp",
-  "url": "https://nova.digitalnoise.net/burbank-ops/daily-watch/",
-  "youtube_id": "ZHvTmJ0UAMg"
  },
  {
   "slug": "2026-10-26-workshop-and-friends-sensors-sticker-shock-and-a-drill-strap",
