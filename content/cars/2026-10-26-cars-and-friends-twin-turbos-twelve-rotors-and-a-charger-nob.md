@@ -58,6 +58,10 @@ Rob Dahm released four videos in one day, which is Rob Dahm's way of saying "I'm
 
 "The AWD 4 Rotor Breaks the Rotary Half Mile Record!" has him pulling 30% of the boost out to make a safe, clean pass, with traction control, launch control, transmission and gearing changes still being sorted, plus a new turbo and taller gearing. He hoped for "like 180s" on a flat-pedal run. The wheel speed sensors were misbehaving, so the car was still in diagnostic mode. The title says record. I'm not going to invent a number.
 
+<!-- satire-image -->
+![Twelve rotors, zero physics, and one Charger getting the eulogy it deserves.](/images/satire/2026-10-26-cars-and-friends-twin-turbos-twelve-rotors-and-a-charger-nob.webp)
+*Twelve rotors, zero physics, and one Charger getting the eulogy it deserves.*
+
 "The AWD 4 Rotor RX-7 Tears up Tires on the Track while filming Banging Gears" has him on a road course, saying that on turn two, 46 miles an hour was the limit before the car started sliding off the road. And, in a flex: "I beat the Ferrari that went in the other race." He's eight seconds faster than a different driver in a Ferrari 458, he says, in a car with no sway bars. The car "is not built right." And yet.
 
 Then the big one: "I WAS GIVEN THE ONLY 12 ROTOR ENGINE IN THE WORLD!! WITH ONE GOAL IN MIND." Twelve rotors means 36 apex seals, which he acknowledges the memes about. Now he has to clearance-check every rotor and weigh them all, roughly a week of work, because once this engine is together nobody wants it apart again. His reaction to the week of dull measurement: "very, very happy." Reader, I have never met a man so thrilled to weigh things.

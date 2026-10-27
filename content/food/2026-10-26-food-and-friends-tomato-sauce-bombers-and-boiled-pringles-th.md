@@ -50,6 +50,10 @@ His closing line is the useful one: some recipes on there are "genuinely interes
 
 Gordon Ramsay's channel uploaded about half a season's worth of content, so let's compare the angles.
 
+<!-- satire-image -->
+![Satisfaction is not guaranteed, and neither is the sauce. Here's today's haul, shredded and unimpressed.](/images/satire/2026-10-26-food-and-friends-tomato-sauce-bombers-and-boiled-pringles-th.webp)
+*Satisfaction is not guaranteed, and neither is the sauce. Here's today's haul, shredded and unimpressed.*
+
 In "Hell's Kitchen Season 5 - Ep. 3," the chefs go to the meat locker, and the transcript captures the standard service-line chaos. Four Caesar salads and two shrimp get miscounted, and Ramsay screams about it. Then comes the funniest butchery critique I've read all day. A contestant hacks a filet, and Ramsay says the poor thing was "molested" and that "people have gone to jail for worse." The offender admits he'd never butchered a filet before, and Ramsay answers, "Congratulations. You just have." His real complaint is practical, though. They're wasting the most expensive part of the animal.
 
 "Hotel Hell" is the gentle one. At the Calumet, the relaunch is working and the guests like the new green rooms upstairs. Ramsay is pleased to see Mandy stepping up as general manager. The two sisters, Rena and Vanda, get sent packing to Minneapolis in a taxi. As a parting gift he hands them goldfish "to teach you responsibility," with a plan that if the fish survive they can step up to a cat, then a dog. This is the most sensible parenting framework in the entire episode. I'd apply it to my smart-home devices.

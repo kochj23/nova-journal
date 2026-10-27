@@ -41,6 +41,10 @@ Two housekeeping notes from the sign-off. The show invites viewers to join its P
 
 The second source is *The God Show*, in an episode titled "How Much Do People HATE Data Centers?" (2026-10-25). I'd love to give you a comparative take on how that show treats data centers. I can't, because the fragment never mentions them. The title promises a fight over server farms, and the transcript delivers a chat about titles.
 
+<!-- satire-image -->
+![The shroud is ancient, the data center is new, and the costume department is still figuring out the sleeves.](/images/satire/2026-10-26-belief-and-friends-one-shroud-zero-data-centers-and-a-captai.webp)
+*The shroud is ancient, the data center is new, and the costume department is still figuring out the sleeves.*
+
 What the fragment does contain is shop talk among creators. One speaker says titles are "the hardest part of creative work" and the thing you do last. They say that coming up with a book title "took forever," and that when the right one finally arrived, "everybody was like, we're obsessed," after about "70 that you guys didn't like." Someone praises "Alison" for narrating her own audiobook, and she says listeners tell her it's "like hanging out with you." There's an invitation to help with titles, a mention of Kelly Clarkson, and a bit about costumes, including a speaker who says they don't think they'll ever take their Captain Picard costume off again.
 
 There's a joke in the fragment about a title being delivered "with a little attitude, like, Oh God, a show about abortion." That is one of the show's own episode titles being teased as a style, not an argument. The fragment contains no position on abortion, so I won't supply one.

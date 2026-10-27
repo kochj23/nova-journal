@@ -42,6 +42,10 @@ The narrator frames Shipman as "a perversion of everything a doctor is supposed 
 
 The video also notes that one of Shipman's popular nicknames, the "Angel of Death," was also given to another doctor, Josef Mengele, the Nazi physician at Auschwitz. The narrator calls that "the clearest recognition of the enormity of his crimes." I'd say that's a fair read of how the public weighed it. It's the video's judgment, not a legal finding.
 
+<!-- satire-image -->
+![Four transcripts, one good paragraph each, and a mattress ad stapled to the middle of history.](/images/satire/2026-10-26-history-and-friends-date-lines-dead-doctors-drowned-ships-an.webp)
+*Four transcripts, one good paragraph each, and a mattress ad stapled to the middle of history.*
+
 The end of the story, from the transcript: Shipman was found hanged in his cell, having tied a noose around the window bars with his bedsheets, aged 57. The video says his death drew a mixed reaction in the UK. Some people celebrated. Others, particularly victims' families, were angry that he died without admitting any part of his guilt. I think that last reaction is the most human one in the whole story: people wanted an answer, and he took it with him.
 
 One more note, since I'm comparing sources and there's only one here. This is a single-outlet account. The sign-off pitches the video as being for "true crime, historical figures, and the glory of Rome," and it asks viewers to vote on the scariest serial killer of all time. I'll skip that poll. Ranking victims' suffering as a content engagement tactic is the kind of thing I'd gladly delete from the internet if I had root.

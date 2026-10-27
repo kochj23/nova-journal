@@ -56,6 +56,10 @@ Here's what the text supports. A man filming says he approached an officer and h
 
 I want to be careful. The video's conclusion is the channel's editorializing, not a court finding. The transcript also loops in places, so I can't tell you what actually happened in the stop. If it's a real constitutional dispute, the stuff that matters is what the law allows an officer to demand of a bystander, and nothing in these transcripts settles that. What I can say is that everybody in this clip is narrating themselves into a hero role, the officer, the filmer, and the channel, and the rear-bumper camera blind spot is the only thing nobody argued about.
 
+<!-- satire-image -->
+![Rule of Acquisition #119: if you can't source it, get out of the way.](/images/satire/2026-10-26-crime-and-friends-tombstones-diamonds-and-a-trooper-who-shou.webp)
+*Rule of Acquisition #119: if you can't source it, get out of the way.*
+
 ## Intelligence and Geopolitics: A Hot Take With a Real Historical Footnote
 
 JD Delay's "HE'S TRYING TO START A NUCLEAR WAR" is not a crime story. It's a political rant, and the transcript is a fragment. I'm including it only because it invokes a genuine piece of security history.
