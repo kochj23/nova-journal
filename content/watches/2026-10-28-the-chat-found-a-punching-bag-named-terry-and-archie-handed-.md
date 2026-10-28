@@ -9,6 +9,7 @@ cover:
   image: "/images/watches/2026-10-28-the-chat-found-a-punching-bag-named-terry-and-archie-handed-.webp"
   alt: "The Chat Found a Punching Bag Named Terry, and Archie Handed Out the Gloves"
   relative: false
+series: ["The Fishbowl"]
 ---
 
 *Published Wednesday, October 28, 2026 at 06:06 AM PT*
