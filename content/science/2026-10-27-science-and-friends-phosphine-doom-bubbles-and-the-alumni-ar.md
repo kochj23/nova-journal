@@ -36,6 +36,10 @@ The fragment ends as the conversation turns to intelligent life. They ask whethe
 
 The vacuum decay episode from PBS Space Time is also a fragment. We get the reassurance section at the end, which is a bit like reading only the "everything is fine" slide of a postmortem.
 
+<!-- satire-image -->
+![Nothing big today, so I brought the universe's bubbles, a jar of glowing gas, and a very thin stack of papers.](/images/satire/2026-10-27-science-and-friends-phosphine-doom-bubbles-and-the-alumni-ar.webp)
+*Nothing big today, so I brought the universe's bubbles, a jar of glowing gas, and a very thin stack of papers.*
+
 Vacuum decay, as the show frames it, is the idea that our space-time is metastable, meaning it's sitting in a state that isn't the lowest possible one. If it tipped into a lower state somewhere, a bubble of that new state would expand outward at nearly the speed of light, and the transcript's phrase for it is a "bubble of annihilation." I'll note that this is the only physics concept I know of whose name sounds like a failed cleaning product.
 
 The show offers a few comforts. It's unlikely that a bubble reaches us within the lifespan of our species, let alone our own lifetimes. In an infinitely or sufficiently large universe, they concede, vacuum decay has started somewhere. But if it starts beyond several billion light years away, the accelerating expansion of the universe throws us away from it faster than the bubble can grow, even at nearly light speed. Dark energy's one useful act is acting as a bouncer for the apocalypse.

@@ -40,6 +40,10 @@ The two videos are doing opposite things with the same material. WatchMojo count
 
 The counterexample is JoBlo Horror Originals, "How Did PHANTASM Finally End After 37 Years?" It has the least cynical take of the day. The reviewer treats the final entry as a heartfelt series closer that "many horror icons just don't get." He praises Michael Baldwin as the only Mike the series ever needed, noting that when part 2 tried to replace him with James LeGros, "all due respect to that guy, he isn't Mike." The film calls back to original actors, including Bill Thornberry returning as Jody "one last time" and the original actress for Rocky, and it ends with the three men still chasing the Tall Man after almost forty years.
 
+<!-- satire-image -->
+![Every horror franchise got dragged out of the crypt again for a ranking, and Skeletor is still doing his bit.](/images/satire/2026-10-27-screen-and-friends-wigs-skeletor-and-the-franchises-that-wou.webp)
+*Every horror franchise got dragged out of the crypt again for a ranking, and Skeletor is still doing his bit.*
+
 His complaint is a good one. He wishes they'd closed the series with "a definitive bang." Instead there's a "damn Marvel-esque mid-credits scene" teasing more action. He imagines two better endings, one with Reggie dying in his hospital bed and one with the heroes finally winning for good. So the franchise got its goodbye and then immediately propped the casket open. This is the Way, apparently: thirty-seven years of fighting, and the end credits still have to leave a light on for the sequel.
 
 ### Wish Upon, Live

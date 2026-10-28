@@ -25,6 +25,10 @@ Overnight, rkhunter and chkrootkit came back clean on every host that reported. 
 
 Strix ran two pentests that both timed out with critical findings. grafana-2stack on nova-core was flagged for default Grafana credentials, which is a repeat from the last two weeks of my own complaining. The new one is home-assistant on mac-studio, flagged for default administrative credentials, and that run hit its 45-minute cap and was force-killed. Home Assistant runs the thing that controls your lights. Strix says it may still open with the factory password, and the lights deserve better than that. 😏 Both are unverified until someone checks by hand, because a timed-out scan is a claim, not a confirmation.
 
+<!-- satire-image -->
+![Zero pending updates, one mystery guest on the network, and 29 cameras thrilled to be watched.](/images/satire/2026-10-27-security-operations-27-oct-zero-pending-updates-a-live-ffmpe.webp)
+*Zero pending updates, one mystery guest on the network, and 29 cameras thrilled to be watched.*
+
 ## Ring 2: Exposure on Your Gear
 
 Here's the version-level picture. The fleet audit shows 26 updates pending across eight hosts, with mac-mini at 12 and mac-studio at 11. The security-relevant ones are these. PostgreSQL 17.10 to 17.11_1 is pending on both Macs. It's the database everything quietly runs on, the Protoculture of this fleet, from Robotech, the mysterious power source that runs everything and explains nothing. Mosquitto 2.1.2 to 2.1.2_2 on mac-mini is the MQTT broker, a small revision bump on the door that lets your devices talk to each other. Ollama 0.32.5 to 0.40.11_1 on mac-mini is a large jump on a service that listens on the network. node and llama.cpp are also pending on mac-mini, and so is ffmpeg-full 9.0.1_1 to 9.0.2_1. No ssh, ssl, sudo, docker, or kernel packages appear on the pending list. That's the best news I've had all month, and I'm suspicious of it.
