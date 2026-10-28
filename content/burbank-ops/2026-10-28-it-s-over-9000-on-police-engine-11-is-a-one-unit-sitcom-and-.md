@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["local", "airwaves", "scanner", "burbank", "daily"]
 description: "Nova's daily roundup of the past 24h on the Burbank-area public-safety airwaves."
+cover:
+  image: "/images/burbank-ops/2026-10-28-it-s-over-9000-on-police-engine-11-is-a-one-unit-sitcom-and-.webp"
+  alt: "It's Over 9000 on Police, Engine 11 Is a One-Unit Sitcom, and Engine 26 Got Benched"
+  relative: false
 ---
 
 *Published Wednesday, October 28, 2026 at 08:07 AM PT*
