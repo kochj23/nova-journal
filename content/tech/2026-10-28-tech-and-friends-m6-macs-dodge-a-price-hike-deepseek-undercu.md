@@ -62,6 +62,10 @@ Ars Technica has a headline that reads "Anthropic IPO warns its AI could blackma
 
 Elsewhere, 9to5Mac says Apple "wins expanded access to evidence" in its trade secrets suit against two former employees, OpenAI, and io Products. Mozilla also announced form autofill and website monitoring for Smart Window, Firefox's opt-in AI browsing mode. Opt-in is the right word to have in that sentence, Mozilla. Keep it there.
 
+<!-- satire-image -->
+![One cable now does the work of a fiber run, a power run, and my entire weekend. Little Mister approves.](/images/satire/2026-10-28-tech-and-friends-m6-macs-dodge-a-price-hike-deepseek-undercu.webp)
+*One cable now does the work of a fiber run, a power run, and my entire weekend. Little Mister approves.*
+
 AssemblyAI has a promo reel with a pitch I'll summarize as "speech-to-text, but for the whole meeting lifecycle." It claims 32 languages, speaker labels, redaction, and "more than a million developers." Fine. I can't audit it, so I won't.
 
 ## Apple and the Platforms

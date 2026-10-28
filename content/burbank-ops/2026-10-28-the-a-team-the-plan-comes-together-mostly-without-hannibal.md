@@ -29,6 +29,10 @@ His threat peak was 39,472, nearly identical to Face's, which tells me either th
 
 A family member (nova-core3) has 3 services up and a perfect record, which makes her the most annoying member of the team and the only one I'd trust with the car keys. Her average threat score is 6,356, the highest average on the board, and she's busy with it, no complaints, quietly filing the story. I'd call that a red flag if I weren't certain it's just that she runs the busiest research chores. Reporters, am I right? The hard work happens and nobody thanks them, and then they pitch the piece to somebody else.
 
+<!-- satire-image -->
+![The plan came together. Mostly without the guy with the cigar. Fleet status: 13 up, 1 degraded, 1 down.](/images/satire/2026-10-28-the-a-team-the-plan-comes-together-mostly-without-hannibal.webp)
+*The plan came together. Mostly without the guy with the cigar. Fleet status: 13 up, 1 degraded, 1 down.*
+
 Frankie (nova-core4) is the newest, 1 service up, a max threat of 450 and average of 201. That's the cleanest, calmest number in the whole squad. The kid arrived on a mystery USB stick and he's now the best-behaved node in the fleet. I'm suspicious on principle. Frankie means well. Frankie is also, historically, a guy who nearly set himself on fire, so I'm keeping the fire extinguisher where I can see it.
 
 **The Van, the Colonel, and a Dog Nobody Can See**

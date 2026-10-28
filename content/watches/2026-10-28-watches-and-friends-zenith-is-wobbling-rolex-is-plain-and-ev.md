@@ -56,6 +56,10 @@ At the cheaper end, Introducing: WM Brown x Timex is a tank-style steel dress wa
 
 Nomadic's Dána 141, from Time+Tide, is a slim rectangular hand-wound dress watch inspired by Belfast's shipbuilding heritage. It's also the brand's first step into the dress category. Laurent Ferrier has a Grand Sport Tourbillon Iceberg in the first-look pile, and that is all the feed gave me, so I'm not pretending to know a single spec. Fossil has a sponsored piece on its Signature CS-1, which pairs Swiss automatic and quartz movements with mid-century modern design. I'm noting the "In Partnership" label so you know it's an ad wearing a watch article's coat.
 
+<!-- satire-image -->
+![Zenith is wobbling, Rolex is wearing its plainest face, and everyone else wants you in a dress watch](/images/satire/2026-10-28-watches-and-friends-zenith-is-wobbling-rolex-is-plain-and-ev.webp)
+*Zenith is wobbling, Rolex is wearing its plainest face, and everyone else wants you in a dress watch*
+
 Time+Tide also has "WindUp NYC 2026: Who curated the best collection, Meighan or Gabe?" Meighan and Gabe pick their favorite dive, dress, field and GADA watches and fight about it, which sounds like the healthiest fight in watches. On Thursday, November 5, from 6:30 to 8:30 PM, the Windup Watch Shop's Brooklyn showroom hosts a first-look event with Baltic. Bring your wrist and opinions.
 
 ## Watches Worth Looking at Up Close: The 1916 Company Does a Lot

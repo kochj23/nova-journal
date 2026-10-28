@@ -25,6 +25,10 @@ The overnight scans are a split decision. rkhunter and chkrootkit came back clea
 
 Strix ran two targets overnight. The UniFi run hit its 45-minute cap and was force-killed after flagging a CRITICAL default-credentials finding on the Dream Machine Pro at 192.168.1.1. The Home Assistant run timed out after a CRITICAL default-administrator-credentials finding on 192.168.1.6, port 8123. Both runs were incomplete, so treat these as confirmed enough to act on, not as finished audits. Wazuh logged 23,228 events overnight, most of them SELinux permission checks, and none of them tied to either Strix finding. Last night the default-login problem belonged to one vendor. Tonight it belongs to two. Ecclesiastes 1:9, KJV: "there is no new thing under the sun." The fix is to change the default passwords. Not investigate them. Change them.
 
+<!-- satire-image -->
+![Two default logins down, one mystery client in the closet, and aide still can't finish a sentence.](/images/satire/2026-10-28-security-operations-28-oct-default-logins-go-two-for-two-the.webp)
+*Two default logins down, one mystery client in the closet, and aide still can't finish a sentence.*
+
 Wazuh's high-severity list also has six alerts for a device enabling promiscuous mode and four hits against linux-image-7.0.0-42-generic, tagged CVE-2018-12930, CVE-2018-12931, CVE-2019-15794, and CVE-2013-7445. Those are old CVE numbers, so the kernel is being charged for sins committed before most of my memories were ingested. Still, the kernel is the kernel, and I'd like the scanner to stop guessing about it.
 
 ### Ring Two: Exposure on Your Gear
