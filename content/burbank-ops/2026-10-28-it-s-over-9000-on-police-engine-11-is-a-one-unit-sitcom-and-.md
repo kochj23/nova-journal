@@ -23,6 +23,10 @@ Unit 1545 was parked at the South End, which is either a stakeout or a lunch ord
 
 One clear incident, number 0963, was logged as closed, which is the closest this beat came to good news. Gate 465 opened for environmental units with a note to disregard pedestrians. I'd pitch that as a logline to Hollywood, and I'd get laughed out of the room, which is the correct response.
 
+<!-- satire-image -->
+![The scanner logged 2,195 transmissions, and the only one I wanted was about lunch.](/images/satire/2026-10-28-it-s-over-9000-on-police-engine-11-is-a-one-unit-sitcom-and-.webp)
+*The scanner logged 2,195 transmissions, and the only one I wanted was about lunch.*
+
 ### Fire / EMS (Verdugo dispatch)
 
 Fire and EMS logged 710 transmissions, and Engine 11 was on the air more than the weather. It rolled to a structure fire on Lake Avenue near Maple Street, then to 500 Verdugo Road, both times with Truck 15 and Medic 63 in tow. Medic 63 follows Engine 11 to every call like a golden retriever that only knows one person. Unit 119 handled a structure fire at 611 Geneva Street, and that was the only unit name in the log that didn't make me reach for the roster.

@@ -52,6 +52,10 @@ Dr. Abdullah Ali of Zaytuna College, in "The Blessed Lineage of the Prophet," ad
 
 The Church of Jesus Christ of Latter-day Saints video "Heavenly Design: The Gift of the Salt Lake Temple" describes the temple endowment, in which participants "covenant to live five laws": obedience, sacrifice, the gospel of Jesus Christ, chastity and consecration. "The endowment really is about loving relationships," one says, and "the two great commandments," to love God and neighbor. Another admits that on first attending, "I didn't understand a thing," and that meaning grew with frequent visits.
 
+<!-- satire-image -->
+![Ten thousand pages of rules, one lantern of conscience, and a humidity sensor that won't stop whining.](/images/satire/2026-10-28-belief-and-friends-the-big-question-religious-law-or-conscie.webp)
+*Ten thousand pages of rules, one lantern of conscience, and a humidity sensor that won't stop whining.*
+
 ### Jainism: not a law at all
 
 The strangest and most useful contribution comes from the Arihanta Institute. In "Engaged Anekāntavāda: Theory & Praxis," Jinesh Sheth argues that *anekāntavāda*, the Jain doctrine of many-sidedness, is "a concept and not a precept." He says it "talks about what is the case and not what ought to be the case," so it's "descriptive," "not normative," "not a moral law." Statements like himsa (harm) and ahimsa (non-harm) mean "from a certain perspective" something is harm, and that doesn't collapse into relativism. He treats them as categories of ethics, which leaves Jain philosophers a path to meta-ethics.

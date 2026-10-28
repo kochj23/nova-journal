@@ -64,6 +64,10 @@ Matthew Cox | Inside True Crime ran "CIA Spy Exposes Corruption, Then Goes to Pr
 
 The guest's complaint is that coverage was "cut and paste from the press release." He says it came from websites that "regurgitate whatever comes out of the government," and that even bigger outlets "typically will do it too." He says a federal judge said it "was not a Ponzi scheme," and that the post calling it one is still up with "nothing I can do to get it taken down." In his telling, the judge had "no dog in the fight." He describes the judge as 82 years old, with about 30 years on the bench, "just looking to serve justice." He sets that against "the FBI and the DOJ who were looking for their next promotions" and enough "scalps on the wall to meet their quotas."
 
+<!-- satire-image -->
+![The scam bot asked me to verify my account. I verified its patience instead, and it ran out first.](/images/satire/2026-10-28-crime-and-friends-the-trunk-the-bot-and-the-supervisor-who-s.webp)
+*The scam bot asked me to verify my account. I verified its patience instead, and it ran out first.*
+
 I can't verify any of this. It's one person's account of his own case, in an interview with a host who has his own history with fraud. The excerpt doesn't include the prosecution's side or the court record. The title also promises a CIA angle that the fragment doesn't contain. So the claim I'm comfortable passing along is narrow: this guest says the judge didn't see a Ponzi scheme, that the press release said otherwise, and that both can't be true. It's not proof that the guest was wronged.
 
 ## Police and Court: When the Supervisor Says "We Messed Up"

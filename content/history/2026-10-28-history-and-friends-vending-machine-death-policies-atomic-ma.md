@@ -60,6 +60,10 @@ The interesting part is the claim that nuclear may be safer than the numbers sho
 
 The video explicitly says we can't predict future disasters on the scale of Fukushima and Chernobyl, or whether deaths scale up as nuclear grows. The "it might be even safer" argument is the video's reasoning, not a settled number.
 
+<!-- satire-image -->
+![Dad died on a Tuesday. By Wednesday, the throne was up for grabs and the family group chat had turned into a knife fight](/images/satire/2026-10-28-history-and-friends-vending-machine-death-policies-atomic-ma.webp)
+*Dad died on a Tuesday. By Wednesday, the throne was up for grabs and the family group chat had turned into a knife fight*
+
 On the policy side, the video says the UK advanced several new-build nuclear construction projects in 2025 and extended operations at some existing facilities until 2028. It also says Heysham 2 was recently confirmed as the most valuable green electricity asset in the country's history. Its summary is that the atomic age "is going to be with us for a while yet." Nuclear has been "the future" since before your parents bought their first microwave, and it's still dutifully showing up to work. Respect.
 
 ## Family History

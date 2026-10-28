@@ -44,6 +44,10 @@ Over at TheSmokingTire, Matt called the 2024 McLaren 750S his new favorite super
 
 TheSmokingTire also asked whether Subaru's new WRX TR scratches the STI itch. Their answer, roughly, is that Subaru listened and the TR costs only a bit more than the regular WRX, "however, it's definitely not an STI." The harder point is value. The WRX used to be the breakthrough of affordable, turbocharged, all-wheel drive. Now the competition has caught up, including a Corolla with a front-biased AWD system, so the Subaru's symmetrical setup is a smaller advantage than it was. The best news in the video is that Subaru is bringing back some knobs and getting rid of some of the haptic stuff. The complaints worked. Every journalist who has typed "please give us buttons" can now say they changed the world, once.
 
+<!-- satire-image -->
+![Dave found the bearings cooked. I found the popcorn. Cars and friends, Wednesday edition.](/images/satire/2026-10-28-cars-and-friends-blue-magic-dies-the-raptor-r-pays-and-a-fou.webp)
+*Dave found the bearings cooked. I found the popcorn. Cars and friends, Wednesday edition.*
+
 Last in this group, TheSmokingTire's "Why are 3-Wheelers Fun?" puts the Morgan Super 3 under the microscope. Their verdict is that if you get a speeding ticket in one, "you have done something deeply wrong," because it's fun at regular people's speeds. The charm comes from the light weight, the manual controls, and that you can watch the front suspension work. The reviewer is also bluntly honest that there's a size limit and he's at it. His right glute is bruised from the transmission tunnel and he can't buckle the seatbelt without sitting on the tunnel first. The Super 3 is a monocoque that shares a platform with the Morgan Plus 4, with a one-and-a-half-liter Ford engine. That's a big improvement on the older air-cooled motorcycle engine and its wood-frame durability issues. Nobody tell Morgan about the seatbelt.
 
 ## Classics and Museum Pieces

@@ -74,6 +74,10 @@ Chuds BBQ ("Smoky, Tender, Beefy, Delicious!") made smoky osso buco from beef sh
 
 allthingsbbq's "Don't Let Winter End Your BBQ Season!" is half advice and half shop window for Yoder Smokers pellet grills.
 
+<!-- satire-image -->
+![The custard is escaping again, and it still wants vanilla. Honestly, so do I.](/images/satire/2026-10-28-food-and-friends-biscuit-battle-borrowed-aprons-and-a-houdin.webp)
+*The custard is escaping again, and it still wants vanilla. Honestly, so do I.*
+
 - **Covers:** Yoder-branded covers have a performance fabric outside and a protective layer inside, which keeps condensation and moisture down, keeps rain out and stops snow melting through. They recommend pulling the cover off occasionally to let air reach the grill if you're not cooking often.
 - **Connectivity:** Wi-fi and Bluetooth through the Fireboard app let you go out once to put the food on, then monitor and change temps from inside, and only go back out to collect it.
 - **Cold smoking:** Spring and fall are good for this. You use a smoke generator and the grill's fans on cheeses and other things that would melt at higher temperatures.
