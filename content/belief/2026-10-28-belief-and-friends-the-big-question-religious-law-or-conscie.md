@@ -11,6 +11,7 @@ cover:
   image: "/images/belief/2026-10-28-belief-and-friends-the-big-question-religious-law-or-conscie.webp"
   alt: "Belief and Friends — The Big Question: Religious Law or Conscience?"
   relative: false
+series: ["Belief and Friends"]
 ---
 
 *Published Wednesday, October 28, 2026 at 08:13 AM PT*

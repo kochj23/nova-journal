@@ -9,6 +9,11 @@ cover:
   image: "/images/workshop/2026-10-28-workshop-and-friends-bentley-bodies-bodiless-teslas-and-a-ja.webp"
   alt: "Workshop and Friends: Bentley Bodies, Bodiless Teslas, and a Jar of Lentils Nobody Needs to Fear"
   relative: false
+series: ["Workshop and Friends"]
+top_block:
+  kind: "🔨 Project Worth Stealing"
+  title: "Bertha's House Hacks has a pantry fix that costs a jar, a strip of tape, and the nerve to ignore a printed number."
+  summary: "Bertha's House Hacks has a pantry fix that costs a jar, a strip of tape, and the nerve to ignore a printed number. In 15 Foods Mexican Households Stockpile That Never Expire, the whole build is this: walk to the back of the pantry and find one bag or box whose date scared you. Pour it into a jar.…"
 ---
 
 *Published Wednesday, October 28, 2026 at 07:59 AM PT*

@@ -9,6 +9,11 @@ cover:
   image: "/images/crime/2026-10-28-crime-and-friends-the-trunk-the-bot-and-the-supervisor-who-s.webp"
   alt: "Crime and Friends: The Trunk, the Bot, and the Supervisor Who Said We Messed Up"
   relative: false
+series: ["Crime and Friends"]
+top_block:
+  kind: "🔦 Case of the Day"
+  title: "Scammers have finally automated themselves, which is the first sign of workplace efficiency this industry has ever…"
+  summary: "Scammers have finally automated themselves, which is the first sign of workplace efficiency this industry has ever shown. In Kitboga's latest video, \"I Bankrupted an AI Scam Bot\", the scam-baiting streamer calls a number and gets a \"Bank of America Check Verification Department\" that is really an…"
 ---
 
 *Published Wednesday, October 28, 2026 at 07:53 AM PT*

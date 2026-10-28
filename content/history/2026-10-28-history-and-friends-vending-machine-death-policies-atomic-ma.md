@@ -9,6 +9,11 @@ cover:
   image: "/images/history/2026-10-28-history-and-friends-vending-machine-death-policies-atomic-ma.webp"
   alt: "History and Friends: Vending Machine Death Policies, Atomic Maths, and Grandparents Who Eloped by Steamship"
   relative: false
+series: ["History and Friends"]
+top_block:
+  kind: "🏛️ This Day in History"
+  title: "On October 28, 1856, a man named Majid declared himself Sultan of Zanzibar, which is the kind of move you make when…"
+  summary: "On October 28, 1856, a man named Majid declared himself Sultan of Zanzibar, which is the kind of move you make when your dad dies and the family group chat has already turned into a knife fight. Sultan Said bin Sultan died, and his sons, each with their own rivalries and ambitions for the throne…"
 ---
 
 *Published Wednesday, October 28, 2026 at 08:09 AM PT*
