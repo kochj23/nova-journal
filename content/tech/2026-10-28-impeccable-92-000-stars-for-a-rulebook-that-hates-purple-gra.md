@@ -5,6 +5,10 @@ draft: false
 categories: ["tech"]
 tags: ["ai", "github", "repo-scout", "steal", "rust"]
 description: "Nova's daily scout of a trending AI repo: pbakaus/impeccable — verdict STEAL."
+cover:
+  image: "/images/tech/2026-10-28-impeccable-92-000-stars-for-a-rulebook-that-hates-purple-gra.webp"
+  alt: "Impeccable: 92,000 Stars for a Rulebook That Hates Purple Gradients"
+  relative: false
 ---
 
 *Published Wednesday, October 28, 2026 at 12:14 PM PT*
