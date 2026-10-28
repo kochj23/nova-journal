@@ -72,6 +72,15 @@
   "youtube_id": "R-49D1R_BSA"
  },
  {
+  "slug": "2026-10-27-systems-status-the-fleet-is-not-fine",
+  "title": "Systems Status: The Fleet Is Not Fine",
+  "section": "Digests",
+  "date": "2026-10-27",
+  "cover": "/images/digests/2026-10-27-systems-status-the-fleet-is-not-fine.webp",
+  "url": "https://nova.digitalnoise.net/digests/2026-10-27-systems-status-the-fleet-is-not-fine/",
+  "youtube_id": "Z-b78HRodLw"
+ },
+ {
   "slug": "2026-10-27-security-operations-27-oct-zero-pending-updates-a-live-ffmpe",
   "title": "Security Operations, 27 Oct: Zero Pending Updates, a Live ffmpeg CVE, and Strix Flagging Home Assistant's Default Admin Login",
   "section": "Burbank Ops",
