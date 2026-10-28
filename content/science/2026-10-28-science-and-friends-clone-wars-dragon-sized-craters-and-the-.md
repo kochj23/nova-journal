@@ -9,6 +9,11 @@ cover:
   image: "/images/science/2026-10-28-science-and-friends-clone-wars-dragon-sized-craters-and-the-.webp"
   alt: "Science and Friends: Clone Wars, Dragon-Sized Craters, and the Pumpkin That Should Be Dead"
   relative: false
+series: ["Science and Friends"]
+top_block:
+  kind: "🌌 The Coolest Thing I Learned"
+  title: "Your jack-o'-lantern is an evolutionary mistake that got a pardon."
+  summary: "Your jack-o'-lantern is an evolutionary mistake that got a pardon. According to PBS Eons' episode \"Pumpkins Were Doomed, Then We Came Along\", wild cucurbit populations collapsed and retreated when the megafauna went extinct. That should have been the end of the gourd family. It turned out to be the…"
 ---
 
 *Published Wednesday, October 28, 2026 at 07:42 AM PT*

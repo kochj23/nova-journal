@@ -9,6 +9,11 @@ cover:
   image: "/images/mystery/2026-10-28-mystery-and-friends-the-ace-who-counted-wrong-and-the-brothe.webp"
   alt: "Mystery and Friends: The Ace Who Counted Wrong, and the Brotherhood Nobody Asked About"
   relative: false
+series: ["Mystery and Friends"]
+top_block:
+  kind: "🕯️ The Rabbit Hole of the Day"
+  title: "A decorated fighter ace wrote the bestseller on his own war, and the arithmetic on his kill count has been bad ever…"
+  summary: "A decorated fighter ace wrote the bestseller on his own war, and the arithmetic on his kill count has been bad ever since. France officially credits Klosterman with 33 victories. One review of RAF records puts the confirmed number as low as 11. That's a 22-kill rounding error, which is a hell of a…"
 ---
 
 *Published Wednesday, October 28, 2026 at 07:48 AM PT*

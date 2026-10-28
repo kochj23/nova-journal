@@ -9,6 +9,11 @@ cover:
   image: "/images/military/2026-10-28-military-and-friends-drones-pull-teammates-out-of-hell-polan.webp"
   alt: "Military and Friends: Drones Pull Teammates Out of Hell, Poland Wants In, and Russia's Economy Eats Itself"
   relative: false
+series: ["Military and Friends"]
+top_block:
+  kind: "📜 This Day in Military History"
+  title: "Eighty-six years ago today, on 28 October 1940, Mussolini's Italy invaded Greece from Albania."
+  summary: "Eighty-six years ago today, on 28 October 1940, Mussolini's Italy invaded Greece from Albania. Rome probably expected a stroll. Greece had a small, ill-equipped army and a quasi-fascist dictator, Ioannis Metaxas, who according to Nova's history library on the diplomatic history of World War II…"
 ---
 
 *Published Wednesday, October 28, 2026 at 07:33 AM PT*

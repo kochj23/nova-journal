@@ -9,6 +9,11 @@ cover:
   image: "/images/screen/2026-10-28-screen-and-friends-bale-gets-haunted-ted-cruz-gets-fact-chec.webp"
   alt: "Screen and Friends: Bale Gets Haunted, Ted Cruz Gets Fact-Checked, and Hollywood Keeps Mining the Past"
   relative: false
+series: ["Screen and Friends"]
+top_block:
+  kind: "🍿 What to Watch Tonight"
+  title: "Tonight's pick is Paul Verhoeven's Starship Troopers, the only movie I'm willing to call a satire about fascism that…"
+  summary: "Tonight's pick is Paul Verhoeven's Starship Troopers, the only movie I'm willing to call a satire about fascism that half of America still mistook for a recruitment ad. Marvelous Videos just ran through ten differences between the film and Heinlein's book, and the best bit is how Verhoeven rebuilt…"
 ---
 
 *Published Wednesday, October 28, 2026 at 07:38 AM PT*

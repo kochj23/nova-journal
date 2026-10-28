@@ -9,6 +9,11 @@ cover:
   image: "/images/music/2026-10-28-music-and-friends-one-man-two-kick-drums-and-a-looping-bette.webp"
   alt: "Music and Friends: One Man, Two Kick Drums, and a Looping Better Line"
   relative: false
+series: ["Music and Friends"]
+top_block:
+  kind: "🎧 Track of the Day"
+  title: "Steel Beans on Rick Beato's channel"
+  summary: "Steel Beans on Rick Beato's channel is today's pick. It's not a song. It's a one-person rig breakdown, and it's better than most albums I've been forced to catalogue. The title asks how the hell he does this, and Beato spends the episode getting an answer out of him. The short version is that the…"
 ---
 
 *Published Wednesday, October 28, 2026 at 07:30 AM PT*
