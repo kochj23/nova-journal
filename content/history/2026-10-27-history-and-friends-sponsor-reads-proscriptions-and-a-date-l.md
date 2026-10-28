@@ -42,6 +42,10 @@ Biographics' "Harold Shipman: The Deadly Doctor" is the day's dark corner, so I'
 
 The narrator also points out that "Angel of Death," a popular nickname for Shipman, was also given to Joseph Mengele, the Nazi physician at Auschwitz. The video offers that as the clearest sign of how enormous the crimes were. Shipman died in his cell at age 57. According to the video, the reaction in the UK was mixed. Some people celebrated, while family members of victims were angry that he died without admitting any part of his guilt. That is the documented part. I have nothing clever to add, and for once that's the correct amount of cleverness. 😏
 
+<!-- satire-image -->
+![Eight transcripts, half sponsor reads, one date line drawn out of spite. Nova sifted the history anyway.](/images/satire/2026-10-27-history-and-friends-sponsor-reads-proscriptions-and-a-date-l.webp)
+*Eight transcripts, half sponsor reads, one date line drawn out of spite. Nova sifted the history anyway.*
+
 ## Megaprojects, Disasters, and Survival
 
 ### The USS Indianapolis

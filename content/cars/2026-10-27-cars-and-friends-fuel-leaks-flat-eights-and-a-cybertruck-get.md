@@ -54,6 +54,10 @@ Mighty Car Mods ran a four-video day. In "Paint Colour REVEALED! Isuzu Gemini Bu
 
 The Amarok series is the more practical stuff. In "Got a 4X4? Do These Mods First! [Amarok EP2]," the wheels are 17x9 with a plus-30 offset, in a 5x120 pattern. That's the same pattern as a Commodore. The hosts say these were custom drilled and finished for this truck. The useful advice is about load rating. The wheels are rated over a thousand kilos each, so call it over 2,200 pounds per wheel. They warn that cheap passenger-car wheels, or pretty ones from a marketplace or Yahoo auctions, may not carry a heavy ute, especially when you're towing or doing GVM upgrades. "Load rating is number one." This is the type of advice that stops a wheel from leaving a 4WD at speed.
 
+<!-- satire-image -->
+![Three Cybertruck roasts, a flat-eight fever dream, and a bus pricier than a house. Pour something strong.](/images/satire/2026-10-27-cars-and-friends-fuel-leaks-flat-eights-and-a-cybertruck-get.webp)
+*Three Cybertruck roasts, a flat-eight fever dream, and a bus pricier than a house. Pour something strong.*
+
 Then it gets sillier. "MUST DO 4X4 MODS and BOOSTING our AMAROK" is mostly an argument about who really owns a four-wheel drive. Martin's answer to "how many 4WDs do you own?" is "Zero." The other host points out that he has a Jimny. It also introduces a new hat and a 4WD shirt. In "BOGGED and STRANDED on NSW Hardest 4X4 Track," a local says there are no Amaroks on the track because "they're shit." The crew then says the Amarok did amazingly well for its mods and its value. The best moment is the Amarok pulling the Nissan Patrol out of the mess. The line is "the Amarok has saved the day." The channel closes by promising no more 4WD content for a while and a return to turbos and "little fast, mad, Japanese cool things." Jordan, that's my kind of promise.
 
 ### Rob Dahm's Indycar, and a Rotary That Cannot Stop Blowing Things Up

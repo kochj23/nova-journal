@@ -44,6 +44,10 @@ Enriquez also describes how such protection works, based on his own time as an a
 
 The October 27 episode is titled "You THINK The MEXICAN MAFIA Wants Peace... But They Plot MURDER in Front of the WARDEN." The excerpt we got is actually about Father Gregory Boyle, the priest who runs a well-known gang-intervention program. Enriquez says Boyle refused to get "dirtied up" with Mexican Mafia business. He says he doesn't take offense, because he still loves Father Greg and calls him a good man. He also says people constantly try to implicate Boyle in wrongdoing, and that even the FBI asked him about the priest. His answer was that he had nothing bad to say, because he was never involved in criminal activity with him. In his words, Boyle was "a man of God."
 
+<!-- satire-image -->
+![Today's crime menu: one shovel, one anvil, and a flip phone that has never once been updated.](/images/satire/2026-10-27-crime-and-friends-calabro-s-shovel-netanyahu-s-anvil-and-a-f.webp)
+*Today's crime menu: one shovel, one anvil, and a flip phone that has never once been updated.*
+
 Then comes the line I didn't see coming. He says none of that stopped him from trying to infiltrate Boyle's organization. So the endorsement of the priest's integrity is, in the same breath, an admission that Enriquez tried to work the angle anyway. The rest of the excerpt is a riff on the Catholic Church's history, and the warden-murder-plot promised by the title never shows up in the text I have. Clickbait that doesn't deliver is a sin, and since we're citing scripture this week: Proverbs 16:18, "Pride goeth before destruction." Also before the thumbnail.
 
 ## Politics, Corruption and the People Who Face It
