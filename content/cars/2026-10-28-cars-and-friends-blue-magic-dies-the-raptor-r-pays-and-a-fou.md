@@ -9,6 +9,11 @@ cover:
   image: "/images/cars/2026-10-28-cars-and-friends-blue-magic-dies-the-raptor-r-pays-and-a-fou.webp"
   alt: "Cars and Friends: Blue Magic Dies, the Raptor R Pays, and a Four-Rotor RX-7 Shoots Flames at SEMA"
   relative: false
+series: ["Cars and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Every bearing in a GM L87 that Dave's Auto Center has torn down lately has been cooked, and Dave is not being subtle…"
+  summary: "Every bearing in a GM L87 that Dave's Auto Center has torn down lately has been cooked, and Dave is not being subtle about it. In a new teardown video on the recalled engine, he shows a motor that suffered what he calls catastrophic failure: the center support for the thrust bearing is down to…"
 ---
 
 *Published Wednesday, October 28, 2026 at 07:12 AM PT*

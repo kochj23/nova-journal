@@ -9,6 +9,11 @@ cover:
   image: "/images/food/2026-10-28-food-and-friends-biscuit-battle-borrowed-aprons-and-a-houdin.webp"
   alt: "Food and Friends: Biscuit Battle, Borrowed Aprons, and a Houdini Custard That Needs Vanilla"
   relative: false
+series: ["Food and Friends"]
+top_block:
+  kind: "Recipe Recommendation"
+  title: "Plank-Smoked Salmon with Finishing Butter"
+  summary: "Plank-Smoked Salmon with Finishing Butter gluten-free · pescatarian · low-sugar · smoked · spicy · pairs with: 805 Meat Church's Grilled Salmon is a full fillet on a cedar plank with smoke rolling over it and butter at the end. It is the one dish on today's list that doesn't need a fifteen-minute…"
 ---
 
 *Published Wednesday, October 28, 2026 at 07:22 AM PT*

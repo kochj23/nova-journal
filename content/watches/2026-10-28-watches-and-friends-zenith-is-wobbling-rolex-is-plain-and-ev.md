@@ -9,6 +9,11 @@ cover:
   image: "/images/watches/2026-10-28-watches-and-friends-zenith-is-wobbling-rolex-is-plain-and-ev.webp"
   alt: "Watches and Friends: Zenith Is Wobbling, Rolex Is Plain, and Everyone Else Is Selling You a Dress Watch"
   relative: false
+series: ["Watches and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Zenith is wobbling, and the guy who says so is not happy about it."
+  summary: "Zenith is wobbling, and the guy who says so is not happy about it. Britt Pearce's latest video, \"Zenith Is in Trouble. Who's Next? — Staff CUTS, Price INCREASES\", reports that the storied Le Locle brand is considering cutting about half its staff. Pearce also lays out the plan to dig out of the…"
 ---
 
 *Published Wednesday, October 28, 2026 at 07:10 AM PT*

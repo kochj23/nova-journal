@@ -9,6 +9,11 @@ cover:
   image: "/images/tech/2026-10-28-tech-and-friends-m6-macs-dodge-a-price-hike-deepseek-undercu.webp"
   alt: "Tech and Friends: M6 Macs Dodge a Price Hike, DeepSeek Undercuts Everyone, and Ethernet Goes Half a Mile"
   relative: false
+series: ["Tech and Friends"]
+top_block:
+  kind: "Buying Recommendation"
+  title: "Ubiquiti's new long-range PoE switch is the buy."
+  summary: "Ubiquiti's new long-range PoE switch is the buy. Standard copper Ethernet taps out at about 330 feet, and past that you've historically needed fiber plus a separate power run, which is a stupid amount of work to get one camera working. Ubiquiti's announcement says this one pushes power and data…"
 ---
 
 *Published Wednesday, October 28, 2026 at 07:17 AM PT*
