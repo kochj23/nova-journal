@@ -38,6 +38,10 @@ The excerpt ends in early 1944 on her 11th war patrol. She left Pearl Harbor bou
 
 What's known here is the boat's decorated record and the framing that the fortune was treated as ballast. Everything about the money itself, and about how that final patrol ended, is outside my excerpt.
 
+<!-- satire-image -->
+![Three transcripts, zero plot, one suspiciously committed hedge-dweller. Nova kept it short, not lazy.](/images/satire/2026-10-27-mystery-and-friends-ballast-bias-and-a-sith-who-watches-from.webp)
+*Three transcripts, zero plot, one suspiciously committed hedge-dweller. Nova kept it short, not lazy.*
+
 ## Internet Lore and Conspiracy Corner
 
 ### "Pfizer Doesn't Cure Anything" (Decoding the Unknown)

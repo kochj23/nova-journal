@@ -29,6 +29,10 @@ Nova-core, our Ricardo Tubbs, reports 15 services up and zero down. Fifteen. The
 
 There's also the matter of the three open ffmpeg library CVEs sitting in the queue. Tubbs knows. Tubbs always knows. He'll handle it between the three hundred other things he's doing, and he will not thank you for noticing.
 
+<!-- satire-image -->
+![Crockett naps, Tubbs hauls every box, and the one broken service is blamed on the alligator.](/images/satire/2026-10-27-miami-vice-crockett-naps-on-the-boat-tubbs-carries-everythin.webp)
+*Crockett naps, Tubbs hauls every box, and the one broken service is blamed on the alligator.*
+
 **Zito Listens, Joplin Judges Nobody, Izzy Tries Hard**
 
 Larry Zito on nova-core2 has 5 services up, peak threat 765, average 67. He sits in the van with the headphones on, listening to satellite radio and secondary DNS, and not one thing is wrong. The man is a professional eavesdropper with nothing to eavesdrop on, which is a stakeout comedy now.

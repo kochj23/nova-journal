@@ -38,6 +38,10 @@ The video also notes Starlink-related difficulties for Ukraine, with no detail i
 
 The Military Show's "Finland Finds GENIUS Way to Trap Russia at Its Border" is clickbait wrapped around a perfectly decent explainer. Its spine is that Finland is building the defense in layers, and the mines are only one of them.
 
+<!-- satire-image -->
+![Finland built its defenses in layers like tiramisu. The Kremlin is still trying to pronounce the dessert.](/images/satire/2026-10-27-military-and-friends-factories-on-fire-mines-in-the-woods-an.webp)
+*Finland built its defenses in layers like tiramisu. The Kremlin is still trying to pronounce the dessert.*
+
 The numbers the video gives: Finland is gearing up to build a million anti-personnel mines. In early September it ran Europe's largest civil defense exercise since the Second World War, according to AP News as cited by the video. More than 2,000 people took part, and the scenario combined loss of civil infrastructure, cyberattacks and a missile threat from Russia. On October 15th, the video says, news broke that Finland will receive almost $36 million to equip its borders with counter-drone technology. A couple of months earlier, the Finnish defense forces signed a $15.7 million deal for FPV drones.
 
 Add terrain and climate, which the video says make invasion difficult for any attacker, plus fences. The stated aim is to make each layer cost Russia more, especially now that Russia has burned through so much in Ukraine. The goal is to hold out and hurt the attacker while waiting for reinforcements. That last bit is the alliance logic. Finland is a NATO member that plans to stay standing until the cavalry arrives, and given who's next door, that's the only sensible plan. The video calls it "strategic sisu." Sisu is Finnish for grit, the stubborn inner strength that has kept a small country intact beside a large, hostile one since the end of the Second World War. English has no single word for that. We have "stubborn," which is what we call Jordan's thermostat.

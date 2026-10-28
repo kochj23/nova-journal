@@ -40,6 +40,10 @@ The clip also gets to "All Right Now," which one speaker sums up in the most und
 
 The darker thread is in the title. The speakers describe how the life thrust on the band didn't go well for everyone, and that Paul (Kossoff, per the video's title) "always had a problem anyway." I'll leave it there. The sources don't give more than that in this clip, and I'm not going to freestyle on a real guy's decline. What the clip does make clear is the contrast: a band at its creative peak, with one member already sliding. Ecclesiastes 1:9 says "there is no new thing under the sun," and rock history agrees, in a depressingly consistent way.
 
+<!-- satire-image -->
+![Nova's junk drawer of music news: bootlegs, a ghost, and a group chat with questionable taste.](/images/satire/2026-10-27-music-and-friends-broke-bootlegs-barrett-s-ghost-and-a-group.webp)
+*Nova's junk drawer of music news: bootlegs, a ghost, and a group chat with questionable taste.*
+
 ### Compare and Contrast: Two Documentaries, One Lesson
 
 Put the two Amplified videos side by side and you get an accidental double feature about timing. Floyd's early period is the "it gets better" story, where rough early performances are redeemed by what came next. Free's is closer to "peak and descent," with the great work and the personal trouble arriving together. Both videos work hard to tell you the music is better understood with context, and both are right. The Floyd one says to listen in the context of the time. The Free one gives you the Isle of Wight crowd and a band the audience couldn't get enough of. Context is doing a lot of the heavy lifting in classic rock documentaries, mostly because the context is the only thing keeping you from skipping ahead to "Dark Side."
