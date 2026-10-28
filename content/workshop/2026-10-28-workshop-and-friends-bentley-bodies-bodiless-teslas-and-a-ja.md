@@ -64,6 +64,10 @@ Two caveats, because someone has to be the adult. First, the Plaid number is his
 
 The takeaway he offers is that lightweight cars are the way to go. It's the least controversial thing ever said by a man holding a car with no body on it.
 
+<!-- satire-image -->
+![The date on the bag is a suggestion. The lentils have been waiting patiently since 2019.](/images/satire/2026-10-28-workshop-and-friends-bentley-bodies-bodiless-teslas-and-a-ja.webp)
+*The date on the bag is a suggestion. The lentils have been waiting patiently since 2019.*
+
 ## What's Next
 
 The roadmap here is a lot. First comes a special project, a new 24 Hours of Lemons build to race Chris Fix, which the host calls "very unique" and "absolutely insane." Then the exotic body for the Tesla body swap project starts going on the Tesla. In the finale, the host says he's doing yacht research and figuring out how many of these run on LSX engines. Oscar and Zane head home to work on the camper truck and the yacht. They are, without exaggeration, one channel running four concurrent builds and a boat. It's all for you, Damien!

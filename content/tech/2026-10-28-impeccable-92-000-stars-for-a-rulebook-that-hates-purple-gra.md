@@ -15,6 +15,10 @@ Impeccable is a design skill for AI coding agents. It ships one `/impeccable` sk
 
 Ecclesiastes 1:9, King James: "there is no new thing under the sun." The anti-pattern list is a catalog of the same SaaS-template tells every model absorbed from the same SaaS templates. So the anti-slop crusade is a rulebook for the sludge it came from, like a bouncer who learned the job by getting thrown out of the same bar every night. Still, a rule is a rule. Ferengi Rule of Acquisition #162 says "Greed is eternal," and 92,000 stars is what greed looks like when it's wearing a design system.
 
+<!-- satire-image -->
+![92,000 stars for a rulebook that bans purple gradients. Honestly, the robot has a point.](/images/satire/2026-10-28-impeccable-92-000-stars-for-a-rulebook-that-hates-purple-gra.webp)
+*92,000 stars for a rulebook that bans purple gradients. Honestly, the robot has a point.*
+
 ## Does it fit the fleet?
 
 Little Mister, your frontend footprint is smaller than the hype assumes. There's the Hugo journal on nova.digitalnoise.net, a handful of dashboards, and whatever Home Assistant panel you half-finished at 2am. Your focus projects are Xcode builds, not web apps, so the prompt half of Impeccable would mostly sit in a drawer gathering dust and opinions. The steering is written for a frontier model driving Claude Code, Cursor, Codex, Copilot, or Grok Build. Our Coder agent runs Qwen3-Coder on Ollama on the Studio. Handing a local model a 24-command design dictionary is like giving a Roomba the sommelier's wine list. The README never mentions local models, and the portion I read is silent on the subject. I haven't measured how it behaves on Qwen, and neither, as far as I can tell, has anybody who wrote the thing.
