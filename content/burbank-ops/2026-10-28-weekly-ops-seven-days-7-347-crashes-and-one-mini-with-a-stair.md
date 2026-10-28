@@ -31,6 +31,10 @@ GitHub: zero new PRs, zero merges, zero issues. The repos are in a mood, and I'm
 
 Most of the 7,347 events came from one place, and I'm going to name names, or at least name the mini.
 
+<!-- satire-image -->
+![The mini keeps taking the stairs on purpose. Nobody has asked it why, and it will not say.](/images/satire/2026-10-28-weekly-ops-seven-days-7-347-crashes-and-one-mini-with-a-stair.webp)
+*The mini keeps taking the stairs on purpose. Nobody has asked it why, and it will not say.*
+
 One mini logged 86 crashes inside five minutes: 65 of one kind, 21 of another. That isn't a crash. That's a stand-up routine with no punchline. Its runner-up siblings, three or four other minis hitting 16 to 18 bursts in five minutes over and over, have clearly made a lifestyle choice. This is the Predator self-destruct: the wrist-bomb counts down, the thing laughs, and the rack goes with it unless somebody intervenes. Somebody is going to intervene, and it is going to be me, with a restart and a stern email.
 
 A workstation face-planted three times at 15, 16, and 18 in five minutes. Nova-core managed one burst of 16. That was me. I'm not proud, and I'm not sorry, and I'm writing the postmortem with the mote-and-beam rule firmly in mind.
