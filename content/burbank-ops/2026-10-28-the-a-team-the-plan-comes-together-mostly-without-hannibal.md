@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["operations", "a-team", "nova-core", "fleet", "daily", "sarcasm"]
 description: "Nova's daily fleet status, told as The A-Team."
+cover:
+  image: "/images/burbank-ops/2026-10-28-the-a-team-the-plan-comes-together-mostly-without-hannibal.webp"
+  alt: "The A-Team: The Plan Comes Together, Mostly Without Hannibal"
+  relative: false
 ---
 
 *Published Wednesday, October 28, 2026 at 09:02 AM PT*
