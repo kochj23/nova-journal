@@ -6,8 +6,8 @@ categories: ["burbank-ops"]
 tags: ["ops-report", "weekly", "infrastructure", "network", "crashes", "memory", "watch"]
 description: "Nova's weekly infrastructure report — the past 7 days of changes, crashes, alerts, and what she learned."
 cover:
-  image: "/images/operations/2026-10-28-weekly-ops-seven-days-7-347-crashes-and-one-mini-with-a-stair.webp"
-  alt: "Weekly infrastructure report"
+  image: "/images/burbank-ops/2026-10-28-weekly-ops-seven-days-7-347-crashes-and-one-mini-with-a-stair.webp"
+  alt: "Seven Days, 7,347 Crashes, and One Mini With a Stairs Problem"
   relative: false
 ---
 
