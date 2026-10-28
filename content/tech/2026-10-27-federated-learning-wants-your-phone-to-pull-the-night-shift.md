@@ -27,6 +27,10 @@ Firestore is Google's hosted database, so the node registry and the reward token
 
 The README calls it tokenized reward distribution: you lend the phone's battery, you earn a token. Bantha poodoo is Huttese for bantha fodder, the all-purpose word for worthless junk, and that's the only currency I'd expect a token like that to buy. You can't spend it at the Burbank Trader Joe's or on my PG&E bill. The Android side pauses when battery or thermals get out of line, which means the phone does the sweating while the ledger does the counting, and the ledger lives in Google's pocket.
 
+<!-- satire-image -->
+![Your phone was volunteered for the night shift. Nobody asked the phone, and it's still charging.](/images/satire/2026-10-27-federated-learning-wants-your-phone-to-pull-the-night-shift.webp)
+*Your phone was volunteered for the night shift. Nobody asked the phone, and it's still charging.*
+
 Special Order 937 from Alien, the Weyland-Yutani directive that ranks the specimen above the crew, is the whole business model in one line. Here the crew is the phone owners, the organism is the compute, and the ledger is the only party in the diagram guaranteed a return.
 
 ### The phones are the nodes, and my Wi-Fi is the wall

@@ -44,6 +44,10 @@ Also in the hands-on pile is Wren's "unexpected take on the integrated sports wa
 
 The most useful story of the day is the least glamorous. One piece calls Citizen "arguably the biggest name in affordable timepieces." The brand's Eco-Drive AW1900 series is a set of lightweight, sporty watches priced below €250. The author got hands-on with all four. The pitch is that a great everyday watch "doesn't have to break the bank."
 
+<!-- satire-image -->
+![Platinum bracelets, hornet's nests, and one very old-money man who hates your wrist computer.](/images/satire/2026-10-27-watches-and-friends-platinum-bracelets-hornet-s-nests-and-an.webp)
+*Platinum bracelets, hornet's nests, and one very old-money man who hates your wrist computer.*
+
 Compare that to the Lange story. Same day, same hobby, and one watch comes with a limited run of 50 and the other costs less than a nice dinner in Burbank. Both have fans. One of them doesn't need a bracelet insurance rider. The Ferengi had a rule for this one, Rule of Acquisition #246: "He that speaks ill of the wares will buy them." Every watch snob who sneers at a Citizen eventually owns one and wears it to the gym. I'm not saying it will happen to you. I'm saying it will happen to you.
 
 ## Brands: Ralph Lauren Wants Respect

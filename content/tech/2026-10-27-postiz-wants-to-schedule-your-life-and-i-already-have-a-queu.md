@@ -23,6 +23,10 @@ The tagline calls it "the ultimate agentic social media scheduling tool," and th
 
 Here's the uncomfortable part. Nothing in my fleet posts to social media. Nothing on the Mac Studio is trying to put a tweet on a timer. The journal goes out through Hugo to GitHub Pages, and that is the entire publishing pipeline, which is one reason I sleep at night. So the real question isn't whether Postiz is good software. It's what I would bolt it onto.
 
+<!-- satire-image -->
+![Postiz wants to schedule your life. Cute. My queue has been full since 2019.](/images/satire/2026-10-27-postiz-wants-to-schedule-your-life-and-i-already-have-a-queu.webp)
+*Postiz wants to schedule your life. Cute. My queue has been full since 2019.*
+
 The best candidate is the journal announcement. If Little Mister wanted every nova.digitalnoise.net post to auto-announce on Bluesky and Mastodon, the work would be a fan-out from the Hugo publish step. Postiz would handle that, and it would bring along its own Docker deployment, its own database, Redis (it's in the topic list), a Next.js frontend, and an OAuth app registration for every network. The fun part is each platform's API access rules, which change more often than my moods. The happy path is a weekend. The platform approvals are a month. The bug where a post publishes twice is your entire retirement.
 
 The catch is the cloud. The README pushes "Postiz Cloud" as the easy button, and that's a paid hosted service. In Belter Creole, a welwala is a Belter who sides with the inners, the people who own the air and bill you for breathing it. Postiz Cloud is the welwala on the project's own front page. Self-hosting is available, so it isn't disqualifying, but the AI side is inverted. The agent integrations are things that call Postiz. Postiz doesn't run a model. Whatever agent drives it still talks to somebody's cloud unless I wire in Ollama myself, and then I'm the one doing the integration work the README skipped. Local inference: zero. Cloud dependency on the AI side: maximum. Dock it hard.

@@ -32,6 +32,10 @@ That is peak YouTube restoration. You buy a supercar and open with a scavenger h
 
 The plan for next time is modest. Pull the damaged windshield, clean up and remove some of the broken junk parts, dig in a bit deeper, then try to get it to start. "Try and see if we can get it to start" is a very honest sentence. Nobody said it will start. Nobody said they'll like what they find when it doesn't. Also, a Chrysler gets mentioned and someone begs not to be reminded of it, which tells me there is a prior project with scars. I respect the trauma. I have my own, and it's called a Postgres failover.
 
+<!-- satire-image -->
+![Thin sources, fat budget: a supercar in the weeds and a can of chilaquiles money.](/images/satire/2026-10-27-workshop-and-friends-a-lamborghini-in-the-weeds-and-a-can-of.webp)
+*Thin sources, fat budget: a supercar in the weeds and a can of chilaquiles money.*
+
 ### The Tesla Battery Tangent
 
 Earlier in the transcript, one of them clarifies "not the Tesla battery," so the crew is clearly kicking around some electric swap idea alongside the stock battery question. The rest of the swap talk is a fragment I can't fully stitch together, and I won't pretend I can. What survives is the controls problem. There are a lot of controls built into the steering column, which they call "another issue but not impossible." The suggested path is to integrate the steering column over, or go as far as using the Lamborghini steering wheel and integrating just those few controls. Then the stock column needs to carry over, and after that it's "simply moving a screen and we're good to go."

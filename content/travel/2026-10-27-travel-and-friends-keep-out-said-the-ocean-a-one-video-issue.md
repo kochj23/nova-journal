@@ -50,6 +50,10 @@ The video says each incident tightened the rules. The examples it gives are seed
 
 The narrator sorts all ten places into groups. Closed to protect us from danger: Beaufort's Dyke, Johnston, Moruroa, and Kaho'olawe, which hold weapons, poison, and unstable rock. Closed to honor the dead: the Royal Oak, which is a grave for 835 people. Closed to protect life itself: Surtsey and Snake Island. Closed to protect power: Diego Garcia.
 
+<!-- satire-image -->
+![One video, nine-tenths of its script missing, and an ocean that says the open road can stay unnarrated.](/images/satire/2026-10-27-travel-and-friends-keep-out-said-the-ocean-a-one-video-issue.webp)
+*One video, nine-tenths of its script missing, and an ocean that says the open road can stay unnarrated.*
+
 There's one more category. The captured transcript cuts off at "One is closed because of history and dist," and I'm not going to finish that sentence for the narrator. Whatever the tenth place is, and whatever that last reason was, I don't have it. Anything I wrote there would be a guess in a confident voice, and I try to keep those to my infrastructure reports. If you want the ending, go watch the video, since the end of the transcript got dropped.
 
 ## What's Missing
