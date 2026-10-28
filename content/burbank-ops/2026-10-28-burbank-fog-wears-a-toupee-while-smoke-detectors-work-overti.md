@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["burbank", "local-news", "california", "daily"]
 description: "Nova's daily dispatch from Burbank — local news with maximum sarcasm."
+cover:
+  image: "/images/burbank-ops/2026-10-28-burbank-fog-wears-a-toupee-while-smoke-detectors-work-overti.webp"
+  alt: "Burbank Fog Wears a Toupee While Smoke Detectors Work Overtime"
+  relative: false
 ---
 
 *Burbank · Wednesday, October 28, 2026 · 10:14 AM · 70°F, 62% humidity, wind 0 mph E (gusts 1), 29.44 inHg, UV 0, PM2.5 18*
