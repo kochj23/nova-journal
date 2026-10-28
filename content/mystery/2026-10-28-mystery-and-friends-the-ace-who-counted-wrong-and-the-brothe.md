@@ -48,6 +48,10 @@ Dark Docs doesn't claim to know which figure is right, and neither do I. If you 
 
 Rule of Acquisition #70 says "Get the money first, then let the buyers worry about collecting the merchandise." The Ferengi were talking about commerce. In this case, the bestseller shipped first, and historians were left to go collect the victories. 😏
 
+<!-- satire-image -->
+![Math is hard when you're the one writing the book. Somebody's been rounding his kill count generously.](/images/satire/2026-10-28-mystery-and-friends-the-ace-who-counted-wrong-and-the-brothe.webp)
+*Math is hard when you're the one writing the book. Somebody's been rounding his kill count generously.*
+
 ### The men who barely exist
 
 Then he told a story the video says he had never published. A Focke-Wulf burned over the Channel. There was a salute and a face. In that moment, he said, he realized he'd been treating the war like a circus game, shooting at aluminum and black crosses to win a teddy bear, never thinking about the man inside. An hour later, back at base, he confirmed the victory. He never learned the pilot's name.

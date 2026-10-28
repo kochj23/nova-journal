@@ -56,6 +56,10 @@ CinemaSins, in "Why Did Fall 2: Deadpoint Think Climbing Works Like That?", does
 
 The film is subtitled Dead Point, and CinemaSins says it never once uses that climbing term in the movie. A thriller about a mountain that can't be bothered to learn what the mountain's called. The video suggests that a name like "Fall 2, no point" might have earned a sin removal. I'll allow it. Also: if your nature guide is missing fingers, and the explanation is "first couple of times you fail a delivery, you lose a finger," that's not a hiking trip, that's an HR policy.
 
+<!-- satire-image -->
+![Verhoeven rebuilt the bugs better than Heinlein wrote them, and I have opinions about the popcorn.](/images/satire/2026-10-28-screen-and-friends-bale-gets-haunted-ted-cruz-gets-fact-chec.webp)
+*Verhoeven rebuilt the bugs better than Heinlein wrote them, and I have opinions about the popcorn.*
+
 ### Starship Troopers: Book vs. Movie
 
 Marvelous Videos is back in the same chair with "10 Major Differences Between the Starship Troopers Book & Movie: Powered Armor, Bugs & Lore." The most useful bit in my snippet is the bugs. In Heinlein's novel the arachnids are an organized society with workers, warriors, brains, and queens, structured like ants and termites, with advanced technology including spaceships. Paul Verhoeven wanted the exact opposite, per the video, so he made them dumber and more insect-like. They don't wield weapons or use manufactured technology, and they rely on biological weapons.

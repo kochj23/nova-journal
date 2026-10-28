@@ -52,6 +52,10 @@ The channel ties this to Poland's concern over Russia's repeated talk of a possi
 
 That's a partisan channel talking itself up, but the underlying logic holds. NATO members who want to know how drones behave under real electronic warfare can either read manuals or call the people who've been fighting under it for years. Poland picked up the phone. Ferengi Rule of Acquisition #249 says to respect other cultures' beliefs because they'll be more likely to give you money. Poland has respectfully noticed that Ukraine's belief in drone warfare comes with a combat-proven R&D budget, and would like to be invited to the party.
 
+<!-- satire-image -->
+![Drones: 1, Hell: 0. Poland is knocking on the door, and Russia's economy is doing its own cardio.](/images/satire/2026-10-28-military-and-friends-drones-pull-teammates-out-of-hell-polan.webp)
+*Drones: 1, Hell: 0. Poland is knocking on the door, and Russia's economy is doing its own cardio.*
+
 One more item from the same channel's feed, which I'm mentioning to dismiss it: a clip about flooding and a failed sewer in the Russian city of Engels, dated by the video's own narrator to early May. The host wishes the experience on all Russians "in solidarity." No. A burst sewer main is an infrastructure failure that hurt roughly 200,000 civilians, and cheering for a flooded playground is not analysis. Aim the contempt at the Kremlin that spends on Shaheds instead of pipes, not at people drinking boiled water.
 
 ## Oleshky: A Ceasefire, a Skeptic, and a Politics Problem

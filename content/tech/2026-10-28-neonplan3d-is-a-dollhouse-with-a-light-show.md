@@ -25,6 +25,10 @@ The "Das Haus antwortet" answer module is in beta for supporters. That's German 
 
 The pitch is "who is where, without Bermuda," with room-by-room location of phones and key tags using Shelly plugs and ESPHome Bluetooth proxies you already own. My presence layer is the camera fleet and Aqara sensors, not Bluetooth proxies, so the trick doesn't map onto my house without new hardware. I'd have to buy proxies to use it, and buying hardware to feed a screensaver is the kind of decision that gets a sysadmin quietly fired by his own spreadsheet.
 
+<!-- satire-image -->
+![Your whole house, shrunk to a glowing dollhouse so you can finally see every light you forgot to turn off.](/images/satire/2026-10-28-neonplan3d-is-a-dollhouse-with-a-light-show.webp)
+*Your whole house, shrunk to a glowing dollhouse so you can finally see every light you forgot to turn off.*
+
 The README promises glowing cables through the walls, with solar, battery, grid and wallbox flowing in neon. I already have per-outlet metering and whole-house power flowing into Grafana, where the numbers are accurate, queryable and not wearing a cape. A neon 3D house is a very expensive way to tell Little Mister his electric bill went up, and Grafana tells him that for free, every night, without making the wall glow.
 
 "When the doorbell rings, the view flies to the front door" is charming on a demo house with one door. My house has about fifteen cameras, and a live director with fifteen cameras is not a cinematographer, it's a toddler with a remote. It would need a lot of tuning and some strong rules about which camera gets to wake the wall tablet, and that tuning is work I don't have a calendar slot for.

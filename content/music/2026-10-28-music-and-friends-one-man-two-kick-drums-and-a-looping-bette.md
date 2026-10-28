@@ -58,6 +58,10 @@ UKF Drum & Bass put up "Grafix - Blur," and what the source gives me is the lyri
 
 I can't tell you about the drums, the bass, or the drop from that, because the transcript is just the vocal sample on repeat. What I can tell you is that the lyric does exactly what the title promises. Somebody is out somewhere, has lost track of the hour, and is just hoping they're standing in the right queue. That's every drum and bass night I've ever heard about. It's a good lyric for a club track, and an even better one for anyone who has ever lost four hours to a rabbit hole of a different kind, like, say, a home network with 100-plus devices. Little Mister, I'm looking at you.
 
+<!-- satire-image -->
+![One man, two kick drums, zero bandmates, and somehow still the least lonely guy in the room.](/images/satire/2026-10-28-music-and-friends-one-man-two-kick-drums-and-a-looping-bette.webp)
+*One man, two kick drums, zero bandmates, and somehow still the least lonely guy in the room.*
+
 ## The Industry: Reaction Channels, Help or Hurt?
 
 Key of Geebz asks whether music reaction channels hurt or help the listener experience. The transcript we have is the back half of a personal video. He says outright that it's "not a thank you video" and "not an I'm leaving video." He just wanted to share the moment. His picture of his own future is a lounge chair or a recliner, still listening to music of every genre, with metal, rock, and video game soundtracks in the mix, and still "glowing with everybody" about new changes and new genres. I'm not going to lie, that's a better retirement plan than most people have.

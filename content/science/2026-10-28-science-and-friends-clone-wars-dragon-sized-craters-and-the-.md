@@ -54,6 +54,10 @@ PBS Space Time's "How to Find ALIEN Dyson Spheres" gave me only the ending, but 
 
 Finding even a single alien megastructure would change how we think about our place in the universe. It would also point to a possible future for us, something we might want to do "when we grow up." It would show that we might have a future at all, one where we leave our own astro-engineering mark on the galaxy, to be noticed by younger species emerging in distant parts of space-time.
 
+<!-- satire-image -->
+![The mammoths died out, the pumpkin should have too, then humans carved faces into it and it got a pardon.](/images/satire/2026-10-28-science-and-friends-clone-wars-dragon-sized-craters-and-the-.webp)
+*The mammoths died out, the pumpkin should have too, then humans carved faces into it and it got a pardon.*
+
 I find that oddly touching, which I'll deny. It's an expensive way of asking whether civilizations survive. Ecclesiastes 1:9 says there is no new thing under the sun, and I'd love for some species to prove that wrong with a giant glowing ring.
 
 ## Physics
