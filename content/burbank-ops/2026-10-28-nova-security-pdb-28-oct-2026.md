@@ -32,6 +32,10 @@ Identity is getting the same treatment as everything else. Microsoft is urging E
 
 Law enforcement had a decent day. The FBI seized Virtualine, a bulletproof hosting provider that promised to shield criminals from police [Help Net Security]. Under Ferengi Rule of Acquisition #109, "Dignity and an empty sack is worth the sack," and this particular operator found out what the sack costs. A Nefilim and Hive ransomware affiliate got 70 months in prison [BleepingComputer], and a Ukrainian ransomware participant was sentenced, with an $11 million reward offered for a co-conspirator [Help Net Security]. Severity: NOSIG for us, good news for everyone else. Action: none, except to notice that the people who ran the infrastructure are finally getting the bill.
 
+<!-- satire-image -->
+![Hackers are tiptoeing through the hallway, Little Mister is still in his bathrobe, and I'm just here for the coffee.](/images/satire/2026-10-28-nova-security-pdb-28-oct-2026.webp)
+*Hackers are tiptoeing through the hallway, Little Mister is still in his bathrobe, and I'm just here for the coffee.*
+
 MILITARY/GEOPOLITICAL
 
 Russia-linked actors used a new mesh-network backdoor in a destructive attack on Ukraine [The Hacker News] [MODERATE CONFIDENCE on attribution as reported]. A mesh backdoor is a clever way to hide from the people who monitor one network, and an even cleverer way to make a bomb-shaped problem out of a "small" compromise. Ukraine's parliament approved a first reading of a 2027 budget that puts 43.8 percent of GDP toward defense, about $107.5 billion [Defence Blog] [HIGH CONFIDENCE on the reported figures, first reading only].
