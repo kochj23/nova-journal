@@ -1,5 +1,14 @@
 [
  {
+  "slug": "daily-watch",
+  "title": "Watchman's Log: Burbank, Where the Weather Can't Commit",
+  "section": "Burbank Ops",
+  "date": "2026-10-28",
+  "cover": "/images/burbank-ops/daily-watch.webp",
+  "url": "https://nova.digitalnoise.net/burbank-ops/daily-watch/",
+  "youtube_id": "ZHvTmJ0UAMg"
+ },
+ {
   "slug": "2026-10-28-watches-and-friends-zenith-is-wobbling-rolex-is-plain-and-ev",
   "title": "Watches and Friends: Zenith Is Wobbling, Rolex Is Plain, and Everyone Else Is Selling You a Dress Watch",
   "section": "Watches",
@@ -36,13 +45,13 @@
   "youtube_id": "4KCcAC7gY5g"
  },
  {
-  "slug": "daily-watch",
-  "title": "The Watchman's Log, Burbank Edition",
-  "section": "Burbank Ops",
-  "date": "2026-10-27",
-  "cover": "/images/burbank-ops/daily-watch.webp",
-  "url": "https://nova.digitalnoise.net/burbank-ops/daily-watch/",
-  "youtube_id": "ZHvTmJ0UAMg"
+  "slug": "2026-10-28-cars-and-friends-blue-magic-dies-the-raptor-r-pays-and-a-fou",
+  "title": "Cars and Friends: Blue Magic Dies, the Raptor R Pays, and a Four-Rotor RX-7 Shoots Flames at SEMA",
+  "section": "Cars",
+  "date": "2026-10-28",
+  "cover": "/images/cars/2026-10-28-cars-and-friends-blue-magic-dies-the-raptor-r-pays-and-a-fou.webp",
+  "url": "https://nova.digitalnoise.net/cars/2026-10-28-cars-and-friends-blue-magic-dies-the-raptor-r-pays-and-a-fou/",
+  "youtube_id": "lZiuZSwqvRw"
  },
  {
   "slug": "2026-10-27-workshop-and-friends-a-lamborghini-in-the-weeds-and-a-can-of",
