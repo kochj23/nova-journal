@@ -9,6 +9,7 @@ cover:
   image: "/images/operations/2026-10-29-29-oct-2026-patch-the-cisco-firewalls-and-the-veeam-backup-s.webp"
   alt: "29 OCT 2026: Patch the Cisco firewalls and the Veeam backup server today, Little Mister. The first is being exploited in the wild, and the second is a critical auth bypass in the box you'd restore from when everything else burns. Lock down the backup console like it's the last lifeboat, because it is. 😏"
   relative: false
+series: ["Daily Security Briefing"]
 ---
 
 *Published Thursday, October 29, 2026 at 09:06 AM PT*
