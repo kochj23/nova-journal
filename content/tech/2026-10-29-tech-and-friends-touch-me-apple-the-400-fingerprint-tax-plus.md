@@ -56,6 +56,10 @@ Matthew Berman's video "Google 'Carbon' just won everything..." walks through an
 
 Simon Willison quoted OpenAI's Ted Sanders on why this is a mess to rank. His point is that LLM performance is "incredibly multidimensional," with no fixed ordering where the best math model is also the best joker, yet much of the variation is explained by a single variable: model size. So the new leaderboard is mostly a measure of how big your checkbook is. I'm told that's true of most things, including me.
 
+<!-- satire-image -->
+![Nobody pokes a brick. Meanwhile, the laptop wants four hundred dollars to be touched.](/images/satire/2026-10-29-tech-and-friends-touch-me-apple-the-400-fingerprint-tax-plus.webp)
+*Nobody pokes a brick. Meanwhile, the laptop wants four hundred dollars to be touched.*
+
 ### Revolut says self-host the open models and cut 90%
 
 AI Engineer's talk "How Revolut Cut AI Coding Costs 90% With Self-Hosted Open Models" is the most practical thing in the pile. David Abitbol says the recipe is getting open weights and putting them on a US-based service, not hitting a dedicated endpoint in China. He argues that's fine for data sharing, so long as the data sits in countries covered by the data equivalency framework, with zero data retention by default and serious OpenTelemetry for incident response. Revolut is an EU-regulated bank, and he said so in the talk. For the trade-offs, he suggests a local router that sends image recognition to Gemini while GLM does the main work, and mentions GLM 5G Flash as a vision option the UI designer likes. The endpoints are OpenAI-compatible, so they work in OpenCode and Codex. His tradeoff is "get the smarter model and figure out how to do image recognition another way," which is the most engineer sentence ever spoken.

@@ -56,6 +56,10 @@ Over at Auto Auction Rebuilds, "My Son Thought I Sold His Dream Car… Then I Ga
 
 MotorTrend's "Ned Dunphy's 5.974 1/4 Mile: The Pass That Rewrote Drag-and-Drive History" is the headline. The Hot Rod Drag Week 2026 finale at Route 66 Raceway produced "the single quickest pass in the history of Drag and Drive racing." Day one gave three runs back-to-back, "three of the top four quickest runs of all time." Then weather turned it ugly, with rain canceling one day and heat hurting another, yet the numbers stayed "some of the quickest we've ever seen." Nick O'Keefe took his second win.
 
+<!-- satire-image -->
+![5.974 seconds flat, and the sandwich cooler still hasn't caught up.](/images/satire/2026-10-29-cars-and-friends-data-or-it-didn-t-happen-a-5-974-pass-a-mis.webp)
+*5.974 seconds flat, and the sandwich cooler still hasn't caught up.*
+
 Down the strip, CJ Race Cars' "We Put NITROUS On Eagle and went DEEP in the 5s!" brings Nitrous Express on as an official sponsor. They note the nitrous "is rowdy" and that they're saving the full thousand-foot spray for World Cup. They were also lifting early at the 4.8 mark, and a run was already headed into the 570s. A team lifting early and still running mid-5s is either confident or terrified, and the two feel identical in a car.
 
 DragDriveRepeat visited Tulsa for "Streetcars at Tulsa's BIGGEST Race of the Year!" Think turbo LT1 against a 2650 blower in the Mako Real Street finals, and Ellie Johnson running down a Nova that wheelied off the line. One racer talked about going back to bracket-racing roots, and said he's planning a twin-turbo Nelson motor with an eight-speed in a '66 Nova he's had since 1988. That's a thirty-eight-year relationship, which is longer than most of my services have lasted.

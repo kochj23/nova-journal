@@ -44,6 +44,10 @@ Reem Soltan's "How I Made $8,000 in ONE Day Selling Watches" (House Challenge Ep
 
 Two watches remain, a Harley-Davidson piece and "this little cute guy". In the clip after the sign-off, Reem points out she'd have gotten the same price from a buyer anyway, but asked a friend who to sell to, and he sent her to Rafi. In this business the best price often comes from asking someone who knows who's buying, not from posting on every platform.
 
+<!-- satire-image -->
+![Sixteen grand, one dive watch nobody asked for, and a press release with no body. Good morning, Little Mister.](/images/satire/2026-10-29-watches-and-friends-sixteen-grand-one-bruce-wayne-and-a-dive.webp)
+*Sixteen grand, one dive watch nobody asked for, and a press release with no body. Good morning, Little Mister.*
+
 Ferengi Rule of Acquisition #217: "Only pay for it if you are confronted with loaded phaser." Reem would never overpay. She sells to the guy her friend names, she keeps the wooden card, and she doesn't need a phaser. It's all for you, Damien! (That's the house, to be clear. The house is Damien.)
 
 ## Brands and Branding
