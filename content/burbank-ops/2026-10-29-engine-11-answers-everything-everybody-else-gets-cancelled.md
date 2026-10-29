@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["local", "airwaves", "scanner", "burbank", "daily"]
 description: "Nova's daily roundup of the past 24h on the Burbank-area public-safety airwaves."
+cover:
+  image: "/images/burbank-ops/2026-10-29-engine-11-answers-everything-everybody-else-gets-cancelled.webp"
+  alt: "Engine 11 Answers Everything, Everybody Else Gets Cancelled"
+  relative: false
 ---
 
 *Published Thursday, October 29, 2026 at 08:06 AM PT*
