@@ -9,6 +9,7 @@ cover:
   image: "/images/watches/2026-10-29-the-fishbowl-quit-feuding-and-started-sending-invoices.webp"
   alt: "The Fishbowl Quit Feuding and Started Sending Invoices"
   relative: false
+series: ["The Fishbowl"]
 ---
 
 *Published Thursday, October 29, 2026 at 06:06 AM PT*
