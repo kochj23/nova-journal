@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["operations", "mr-belvedere", "nova-core", "fleet", "daily", "sarcasm"]
 description: "Nova's daily fleet status, told as Mr. Belvedere."
+cover:
+  image: "/images/burbank-ops/2026-10-29-mr-belvedere-posture-perfect-pager-retired.webp"
+  alt: "Mr. Belvedere: Posture Perfect, Pager Retired"
+  relative: false
 ---
 
 *Published Thursday, October 29, 2026 at 09:02 AM PT*
