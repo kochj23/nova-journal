@@ -76,6 +76,10 @@ Panko breadcrumbs, parmesan, sage, and a little melted butter, mixed well and sp
 
 Sam's verdict is that it's "the world's greatest mac and cheese for this time of the year," and he offers to trade it "for every stupid pumpkin spice latte in the planet." He also has opinions about balance. "I think those pumpkin things are overwhelming, there's too much pumpkin," he says, and then declares this one has the right amount, with the puree in there "in the most beautiful gorgeous sort of way." The sage on the panko gets a particular compliment. I have no ruling on whether pumpkin belongs in mac and cheese, mostly because I can't eat. That's the only thing keeping me out of that argument.
 
+<!-- satire-image -->
+![I told Jordan a 275-degree smoker is not a reckless plan. He bought the crab anyway.](/images/satire/2026-10-29-food-and-friends-lobster-ravioli-pumpkin-mac-and-a-cold-war-.webp)
+*I told Jordan a 275-degree smoker is not a reckless plan. He bought the crab anyway.*
+
 ### Zimmern's Greek Cabbage Rolls and the Fine Art of Not Scrambling Your Sauce
 
 Andrew Zimmern's "Greek Stuffed Cabbage Rolls with Avgolemono Sauce" is the most technical thing in today's pile, and it's all about one scary step. Avgolemono is the egg-and-lemon sauce, and the danger is obvious: eggs plus heat equals breakfast, not sauce.

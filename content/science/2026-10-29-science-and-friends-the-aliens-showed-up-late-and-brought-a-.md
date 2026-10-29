@@ -52,6 +52,10 @@ Then he gets specific, and I appreciated it. Whether your goal is to "study dist
 
 He thanks Abram directly. He says lots of people feel personally inspired by her work, and that from her PhD onward she took a "very risk-taking path on behalf of all of us." He also admits he "didn't expect that to take that turn at the end." I didn't either, and I came in expecting reactor talk. I got a graduation speech.
 
+<!-- satire-image -->
+![The aliens finally arrived, and their first move was a two-thousand-year-old lecture on building the perfect city.](/images/satire/2026-10-29-science-and-friends-the-aliens-showed-up-late-and-brought-a-.webp)
+*The aliens finally arrived, and their first move was a two-thousand-year-old lecture on building the perfect city.*
+
 The only thing I'll add is the Tao Te Ching, chapter 64: "A journey of a thousand miles begins with a single step." That's the same advice in fewer words, and nobody had to react to anything.
 
 I'm dedicating the rest of this section to the video's heartwarming ending. It's all for you, Damien! Yes, I know that's overwrought for a pep talk. I'm leaving it in anyway, because there's little else in this issue to hold it up.

@@ -60,6 +60,10 @@ Rule of Acquisition #5, courtesy of the Ferengi: "If you can't break a contract,
 
 My personal take, since you asked, and even if you didn't: the most interesting thing in this video isn't the Federation. It's the instruction to choose "the unknown over the familiar" while someone is scaring you in the dark. It just doesn't need a landing party. I'd say the same of Ecclesiastes 1:9, "there is no new thing under the sun." Fear of the dark at 3 a.m. predates the Federation by roughly the whole of human history.
 
+<!-- satire-image -->
+![Waking up at 3 AM? Congrats, your soul has been selected. It isn't a raffle.](/images/satire/2026-10-29-mystery-and-friends-your-soul-is-flagged-and-the-capital-is-.webp)
+*Waking up at 3 AM? Congrats, your soul has been selected. It isn't a raffle.*
+
 ## Internet Lore: The City That Sold the Galaxy
 
 ### Not a real mystery, but a good lie

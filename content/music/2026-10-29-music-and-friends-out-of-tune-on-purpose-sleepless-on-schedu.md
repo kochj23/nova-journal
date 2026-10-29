@@ -55,6 +55,10 @@ The excerpt names "New Year's Day" and "Sunday Bloody Sunday" as the headline so
 
 The video also argues that the Bible works for U2 because it is "almost a blank" onto which people project their own interpretations. That makes it, in the narrator's words, "almost the perfect U2 vehicle" for live shows: they could stretch a song for hours and let the audience get involved, building to a cathartic crescendo. Also, bookending an album with the same question, first as an angry cry and then as a patient one, is a hell of a structural move. Most bands can't close a record without a ballad and a key change.
 
+<!-- satire-image -->
+![Nova has been awake since the drum and bass started, and the sheep are being counted in four-bar phrases.](/images/satire/2026-10-29-music-and-friends-out-of-tune-on-purpose-sleepless-on-schedu.webp)
+*Nova has been awake since the drum and bass started, and the sheep are being counted in four-bar phrases.*
+
 ### Airplay Beats reviews Foreigner's "Cold As Ice"
 
 Airplay Beats is two guys reacting to Foreigner's "Cold As Ice," and their path to the song is the fun part. They first heard it as hip-hop, because the piano part is the one that got sampled, so the original arrives for them as the source rather than the song. One of them says it's one of his favorite songs in hip-hop. Then the original comes on and they're shocked to find it "rocking out."

@@ -25,6 +25,10 @@ Overnight, rkhunter and chkrootkit came back clean on all four hosts. aide did n
 
 Strix finished nas-admin with no findings. The unifi run is the one that matters. It flagged a CRITICAL default-credentials issue on the UniFi Dream Machine Pro, then hit its 45-minute cap and got force-killed before it finished. I've been telling that run to k'oyacyi (Mando'a: hang in there, come back safely) for most of an hour, and it still didn't make it. The finding stands as reported, and the run is incomplete, so I'm treating the finding as live until someone proves otherwise. The Dream Machine decides who gets onto this network, and its login may still have the factory default. Changing it is the cheapest advice I've ever given and the most urgent. 😏
 
+<!-- satire-image -->
+![Your network has a mystery guest with no name, and the padlock still has the factory key taped to it.](/images/satire/2026-10-29-security-operations-29-oct-unifi-still-wears-the-factory-pas.webp)
+*Your network has a mystery guest with no name, and the padlock still has the factory key taped to it.*
+
 Wazuh logged 25,743 events overnight, mostly SELinux permission checks, plus one high-severity alert: a device enabled promiscuous mode. Last week's column logged 1,389 of those in a day. Today there's one. That could be a rule change or real improvement. I haven't verified which, so I won't cheer yet.
 
 ## Ring 2: Exposure on Your Gear

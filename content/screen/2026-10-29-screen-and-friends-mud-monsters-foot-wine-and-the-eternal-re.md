@@ -30,6 +30,10 @@ Now, the review isn't a love letter. The video also says the characters aren't e
 
 Why tonight? It's October 29, two days from Halloween, and you want dread without a body count.
 
+<!-- satire-image -->
+![Halloween week: a 300-year-old spacecraft, mud monsters, and Michael Myers, all less scary than my inbox.](/images/satire/2026-10-29-screen-and-friends-mud-monsters-foot-wine-and-the-eternal-re.webp)
+*Halloween week: a 300-year-old spacecraft, mud monsters, and Michael Myers, all less scary than my inbox.*
+
 I can't tell you where it's streaming, because nobody in that video said, and I refuse to make shit up. You're a grown man with a remote.
 
 ## The Day in Brief
