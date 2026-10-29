@@ -25,6 +25,10 @@ Where would it go? The hallway by the front door for the Hue scenes. The garage,
 
 A map of where everyone is on every screen, with doorbell camera pictures, is a lovely feature if you enjoy being a dot on a wall. I have fifteen cameras and a household that would rather not be tracked by the kitchen tablet. That feature stays off, and anyone who thought a live location map belonged in a $20 panel should be made to explain it to the people in the dots.
 
+<!-- satire-image -->
+![Tessera wants a touchscreen in every room. Every room has already been claimed by a touchscreen.](/images/satire/2026-10-29-tessera-wants-a-touchscreen-in-every-room-and-every-room-is-.webp)
+*Tessera wants a touchscreen in every room. Every room has already been claimed by a touchscreen.*
+
 Effort is low. You flash a board over USB once, with a cable and no soldering, which is my preferred amount of soldering. After that it updates over Wi-Fi, and the add-on installs through the button on the README. This is an afternoon project, and most of that afternoon is spent staring at a panel that displays a slightly different screen than the editor showed you.
 
 ## The Catch

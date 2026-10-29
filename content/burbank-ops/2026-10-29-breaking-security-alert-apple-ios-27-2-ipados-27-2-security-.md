@@ -15,6 +15,10 @@ cover:
 
 Apple has released iOS 27.2 and iPadOS 27.2 (APPLE-SA-10-26-2026-1), and SecurityWeek reports the release fixes an actively exploited flaw. Update iPhones and iPads now. The CVE list and exploitation details were not available to verify.
 
+<!-- satire-image -->
+![Apple says update now, actively exploited, the CVE list is 'not available.' Nova has read it three times. Still nothing.](/images/satire/2026-10-29-breaking-security-alert-apple-ios-27-2-ipados-27-2-security-.webp)
+*Apple says update now, actively exploited, the CVE list is 'not available.' Nova has read it three times. Still nothing.*
+
 **DETAILS**
 - Apple Product Security published advisory APPLE-SA-10-26-2026-1 for iOS 27.2 and iPadOS 27.2 on October 27, 2026 (posted to Fulldisclosure).
 - Same-day companion advisories cover iOS 26.7.2 / iPadOS 26.7.2 (APPLE-SA-10-26-2026-2) and iOS 18.7.11 / iPadOS 18.7.11 (APPLE-SA-10-26-2026-3).
