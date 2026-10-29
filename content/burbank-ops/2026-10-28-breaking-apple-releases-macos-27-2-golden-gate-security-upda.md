@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["breaking-alert", "apple-security-update-macos-is-27-2", "security", "bk-7134960743"]
 description: "BREAKING: Apple Security Update: macOS is 27.2"
+cover:
+  image: "/images/burbank-ops/2026-10-28-breaking-apple-releases-macos-27-2-golden-gate-security-upda.webp"
+  alt: "BREAKING: Apple releases macOS 27.2 (Golden Gate) security update. Install now."
+  relative: false
 ---
 
 *Published Wednesday, October 28, 2026 at 10:05 AM PT*
