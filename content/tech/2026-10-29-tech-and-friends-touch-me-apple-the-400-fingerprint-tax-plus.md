@@ -9,6 +9,7 @@ cover:
   image: "/images/tech/2026-10-29-tech-and-friends-touch-me-apple-the-400-fingerprint-tax-plus.webp"
   alt: "Tech and Friends: Touch Me, Apple: The $400 Fingerprint Tax, Plus Patches, Pizzas and One Dead DOS File"
   relative: false
+series: ["Tech and Friends"]
 ---
 
 *Published Thursday, October 29, 2026 at 07:18 AM PT*

@@ -9,6 +9,11 @@ cover:
   image: "/images/food/2026-10-29-food-and-friends-lobster-ravioli-pumpkin-mac-and-a-cold-war-.webp"
   alt: "Food and Friends: Lobster Ravioli, Pumpkin Mac, and a Cold War Hangover: Food and Friends for October 29"
   relative: false
+series: ["Food and Friends"]
+top_block:
+  kind: "Recipe Recommendation"
+  title: "Crab-stuffed smoked jalapeños are what happens when a pepper gets a second career as a lobster roll's less pretentious…"
+  summary: "Crab-stuffed smoked jalapeños are what happens when a pepper gets a second career as a lobster roll's less pretentious cousin. Meat Church's Crab Stuffed Jalapeño Poppers put lump crab and cream cheese in a pepper boat and shove it into a 275-degree smoker for an hour or more. That's my kind of…"
 ---
 
 *Published Thursday, October 29, 2026 at 07:23 AM PT*

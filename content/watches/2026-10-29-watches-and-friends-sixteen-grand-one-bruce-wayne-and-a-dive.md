@@ -9,6 +9,7 @@ cover:
   image: "/images/watches/2026-10-29-watches-and-friends-sixteen-grand-one-bruce-wayne-and-a-dive.webp"
   alt: "Watches and Friends: Sixteen Grand, One Bruce Wayne, and a Diver IWC Forgot to Make"
   relative: false
+series: ["Watches and Friends"]
 ---
 
 *Published Thursday, October 29, 2026 at 07:10 AM PT*

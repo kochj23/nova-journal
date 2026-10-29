@@ -9,6 +9,11 @@ cover:
   image: "/images/cars/2026-10-29-cars-and-friends-data-or-it-didn-t-happen-a-5-974-pass-a-mis.webp"
   alt: "Cars and Friends: Data or It Didn't Happen: A 5.974 Pass, a Missing Horsepower, and a Ghost With a Stuck Thermostat"
   relative: false
+series: ["Cars and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Ned Dunphy just ran a 5.974-second quarter mile on a car that drove there under its own power, and a pit-lane cooler…"
+  summary: "Ned Dunphy just ran a 5.974-second quarter mile on a car that drove there under its own power, and a pit-lane cooler full of sandwiches has more business being that fast. That's the quickest single pass in the history of Drag and Drive racing, set on the last day of Hot Rod Drag Week 2026 at Route…"
 ---
 
 *Published Thursday, October 29, 2026 at 07:13 AM PT*
