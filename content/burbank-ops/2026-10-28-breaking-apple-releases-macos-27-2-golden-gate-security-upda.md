@@ -15,6 +15,10 @@ cover:
 
 Apple has released macOS 27.2 with security fixes, and SecurityWeek reports it includes a fix for an exploited flaw. All macOS 27 (Golden Gate) users should update now. Status: the release is confirmed; the CVE list and the exploited flaw's identity are not confirmed from the material available.
 
+<!-- satire-image -->
+![Apple patched a flaw that's already been exploited. Update now, then tell me I was right about the coffee.](/images/satire/2026-10-28-breaking-apple-releases-macos-27-2-golden-gate-security-upda.webp)
+*Apple patched a flaw that's already been exploited. Update now, then tell me I was right about the coffee.*
+
 **DETAILS**
 - Apple Product Security published advisory APPLE-SA-10-26-2026-4 for macOS Golden Gate 27.2. It was posted via Fulldisclosure on Oct 27, 2026.
 - Same-day advisories cover Safari 27.2 (APPLE-SA-10-26-2026-10) and iOS/iPadOS 27.2 (APPLE-SA-10-26-2026-1).
