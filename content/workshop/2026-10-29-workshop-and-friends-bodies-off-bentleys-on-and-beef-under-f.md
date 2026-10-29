@@ -9,6 +9,11 @@ cover:
   image: "/images/workshop/2026-10-29-workshop-and-friends-bodies-off-bentleys-on-and-beef-under-f.webp"
   alt: "Workshop and Friends: Bodies Off, Bentleys On, and Beef Under Five Bucks"
   relative: false
+series: ["Workshop and Friends"]
+top_block:
+  kind: "🔨 Project Worth Stealing"
+  title: "The steal is a shopping technique, and it costs you one trip to a strip mall you've driven past a hundred times."
+  summary: "The steal is a shopping technique, and it costs you one trip to a strip mall you've driven past a hundred times. Bertha's House Hacks lays out how Mexican mothers get good beef for under $5 a pound, and the trick isn't coupons. You walk into the carnicería, go to the counter, and ask the butcher…"
 ---
 
 *Published Thursday, October 29, 2026 at 07:59 AM PT*

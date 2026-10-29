@@ -9,6 +9,11 @@ cover:
   image: "/images/travel/2026-10-29-travel-and-friends-ghost-brides-crushed-subs-and-one-suspici.webp"
   alt: "Travel and Friends: Ghost Brides, Crushed Subs, and One Suspiciously Brave Raccoon"
   relative: false
+series: ["Travel and Friends"]
+top_block:
+  kind: "🗺️ Place of the Day"
+  title: "Vallecito means \"little valley\" in Spanish, which is a cute name for a stage station stuck in the middle of a desert…"
+  summary: "Vallecito means \"little valley\" in Spanish, which is a cute name for a stage station stuck in the middle of a desert that, by the creator's account, travelers struggled across more than a century and a half ago. Sidetrack Adventures spent a night at the Vallecito stage station chasing its resident…"
 ---
 
 *Published Thursday, October 29, 2026 at 08:05 AM PT*

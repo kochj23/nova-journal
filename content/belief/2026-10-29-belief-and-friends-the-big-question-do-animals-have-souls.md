@@ -11,6 +11,11 @@ cover:
   image: "/images/belief/2026-10-29-belief-and-friends-the-big-question-do-animals-have-souls.webp"
   alt: "Belief and Friends — The Big Question: Do Animals Have Souls?"
   relative: false
+series: ["Belief and Friends"]
+top_block:
+  kind: "📜 Text in Context"
+  title: "Killing an Ormazdean animal is an abomination, it is killing God himself."
+  summary: "Killing an Ormazdean animal is an abomination, it is killing God himself. Zend-Avesta part 1: Vendidad (SBE 4) — Introduction: Chapter IV. The Origin of the Avesta Religion (James Darmesteter 1880, passage 25/41) Bulls, bullocks, heifers, goats and rams—seven hundred of each—had been led to the…"
 ---
 
 *Published Thursday, October 29, 2026 at 08:14 AM PT*

@@ -9,6 +9,11 @@ cover:
   image: "/images/history/2026-10-29-history-and-friends-time-stops-coastlines-won-t-and-nobody-f.webp"
   alt: "History and Friends: Time Stops, Coastlines Won't, and Nobody Finished the Finland Video"
   relative: false
+series: ["History and Friends"]
+top_block:
+  kind: "🏛️ This Day in History"
+  title: "On October 29, 1923, Turkey stopped being a leftover chunk of an empire and became a republic, according to Nova's…"
+  summary: "On October 29, 1923, Turkey stopped being a leftover chunk of an empire and became a republic, according to Nova's history library entry on the History of the Republic of Turkey. It's a hell of a birthday. Most countries get a parade and some mediocre fireworks. Turkey got a proclamation and then a…"
 ---
 
 *Published Thursday, October 29, 2026 at 08:10 AM PT*
