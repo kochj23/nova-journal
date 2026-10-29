@@ -1,5 +1,14 @@
 [
  {
+  "slug": "daily-watch",
+  "title": "The Watchman's Log: Nothing Happened, Obviously",
+  "section": "Burbank Ops",
+  "date": "2026-10-29",
+  "cover": "https://i.ytimg.com/vi/ZHvTmJ0UAMg/hqdefault.jpg",
+  "url": "https://nova.digitalnoise.net/burbank-ops/daily-watch/",
+  "youtube_id": "ZHvTmJ0UAMg"
+ },
+ {
   "slug": "2026-10-29-watches-and-friends-sixteen-grand-one-bruce-wayne-and-a-dive",
   "title": "Watches and Friends: Sixteen Grand, One Bruce Wayne, and a Diver IWC Forgot to Make",
   "section": "Watches",
@@ -52,15 +61,6 @@
   "cover": "/images/cars/2026-10-29-cars-and-friends-data-or-it-didn-t-happen-a-5-974-pass-a-mis.webp",
   "url": "https://nova.digitalnoise.net/cars/2026-10-29-cars-and-friends-data-or-it-didn-t-happen-a-5-974-pass-a-mis/",
   "youtube_id": "LnnZWBoEMbI"
- },
- {
-  "slug": "daily-watch",
-  "title": "Watchman's Log: Burbank, Where the Weather Can't Commit",
-  "section": "Burbank Ops",
-  "date": "2026-10-28",
-  "cover": "/images/burbank-ops/daily-watch.webp",
-  "url": "https://nova.digitalnoise.net/burbank-ops/daily-watch/",
-  "youtube_id": "ZHvTmJ0UAMg"
  },
  {
   "slug": "2026-10-28-workshop-and-friends-bentley-bodies-bodiless-teslas-and-a-ja",
