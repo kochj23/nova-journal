@@ -29,6 +29,10 @@ nova-core is Marsha, and today she has fifteen services up and zero down. That's
 
 Her threat score did spike, a recent max of 7,731 against an average of 3,098. Before anyone files an objection, remember that's the baseline for the household's busiest member. The average is the story here, not the max. Marsha is a high-volume practice. The noise is billable hours. Overruled, and also, objection noted as boring.
 
+<!-- satire-image -->
+![Posture perfect, status board green, pager officially retired. The butler has never looked better.](/images/satire/2026-10-29-mr-belvedere-posture-perfect-pager-retired.webp)
+*Posture perfect, status board green, pager officially retired. The butler has never looked better.*
+
 **The Quiet Kids**
 
 Heather, nova-core3, has three services up and not a single failure, which is exactly what she's done every day, forever, without a parade. Her threat max is 975, average 202. She's the sibling who does the dishes and gets asked why she's being so quiet. Nobody thanks her. I'm thanking her. Quietly. In a footnote. That's the Heather experience.
