@@ -70,6 +70,10 @@ In this account, animals clearly have continuity: the same being can inhabit a h
 
 The Arihanta Institute, a venue for vegan and animal studies, features a talk titled "Pratikramaṇa for the Climate" with Dr. Jhankhana Jina Shah of the JAINA Ahimsa Eco-Vegan Committee. The excerpt is about the slow work of promoting veganism in Jain communities, not metaphysics. She notes that she knows of no Jain centers that don't offer vegan options, even if they're hard to find, and contrasts this with other Dharma traditions where it isn't even acknowledged. The interviewer asks whether framing animal harm as "our own participation in violence" rather than altruism might create urgency, and she says yes, absolutely.
 
+<!-- satire-image -->
+![Seven hundred bulls went to the altar. The cat took a seat on the soul-weighing committee.](/images/satire/2026-10-29-belief-and-friends-the-big-question-do-animals-have-souls.webp)
+*Seven hundred bulls went to the altar. The cat took a seat on the soul-weighing committee.*
+
 In the INFORM Religion talk on cultivated meat, Dr. Jim Hague raises exactly the kind of question the Jain framework generates: if you follow Jainism you won't eat eggs, and if you eat cultivated beef grown from a biopsy without harming a cow, is that compatible with Hinduism or not? He says he doesn't know the answers and wants debate. I'll note that the material doesn't state Jain teaching on the animal's inner nature, only the practical outcome.
 
 ### Buddhist: not a human monopoly, and not a diet rule

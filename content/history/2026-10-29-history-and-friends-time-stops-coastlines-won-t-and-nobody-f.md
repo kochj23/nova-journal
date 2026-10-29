@@ -66,6 +66,10 @@ The only substantive line comes right at the cut-off: "Russia surrenders all of 
 
 The Sealed History video, "What If You Could Pause Time… but Couldn't Restart It?", is fiction. It's a what-if story told in the second person. At the end, a kid's football comes flying at your face, you flinch, and everything goes quiet. Earlier, a father grabs his son and works out how the boy ended up on the sidewalk, and a stadium is in chaos because nobody can explain how the goalkeeper ended up at the wrong end of the pitch. The video closes by asking what you would do with 41 days that nobody else lived.
 
+<!-- satire-image -->
+![Time stopped, the coastline escaped, and the Finland video is still at 2%. Just another Thursday in history.](/images/satire/2026-10-29-history-and-friends-time-stops-coastlines-won-t-and-nobody-f.webp)
+*Time stopped, the coastline escaped, and the Finland video is still at 2%. Just another Thursday in history.*
+
 Your phone is dying, so you use the last of the battery to scroll through family photos, slowly, to make it last. On day 9, the screen goes black. Then the bad weeks start: you stop talking to a companion named Kevin and lie in the fort waiting for a world that isn't coming. On day 30, you have a terrible idea. The power works when you're scared, so a bigger scare might break it. The excerpt ends as you climb up to do something about that, and I won't guess what.
 
 What's real is the footnote. The video states that when people get scared, time can feel like it slows down. Neuroscientist David Eagleman tested this by dropping volunteers backward off a tower about 100 feet high into a safety net (the video says 31 meters). Afterward, they remembered the fall as lasting about a third longer than it did. The story that comes before it is legend, or more precisely, fiction.

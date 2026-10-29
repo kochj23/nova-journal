@@ -54,6 +54,10 @@ I can't tell you more about the underlying trial from this clip, and I won't gue
 
 This is Gravano's own live-stream, part two, and the title is the headline: the plan was to kill John Gotti if he failed.
 
+<!-- satire-image -->
+![Brotherhood is a subscription service, and this week everybody churned.](/images/satire/2026-10-29-crime-and-friends-brotherhood-is-a-subscription-service-and-.webp)
+*Brotherhood is a subscription service, and this week everybody churned.*
+
 The clip catches Gravano mid-story, walking through how the decision to make Gotti the boss came together. His version is that the plan had a safety net. Frankie, a figure Gravano refers to only by first name, told him, "Sammy, he's got balls, he's got brains, we'll be the power behind the throne. We'll make sure that he don't act like a clown." Gravano asked what happens if Gotti doesn't behave. The answer, in Gravano's telling: "if he don't, I give you my word, we'll kill him, I'll take over and I'll make you my underboss. I shook his hand, I says, okay, I'm in."
 
 Compare this with Street Files. The Hells Angels case is a prosecutor's reconstruction, told in the third person by a narrator on a deadline. Gravano's is a first-person memoir delivered live, by a man who has every incentive to make the history sound like it went his way. Same theme, though: in both worlds, the guy at the top serves at the pleasure of the guys below him, and "brotherhood" is conditional on performance. Gotti had a job, and the job had acceptance criteria. Gravano is also clear that Frankie's death changed the math ("if Frankie didn't die..."), and the clip cuts off right as he's about to say what Frankie would have done.

@@ -60,6 +60,10 @@ The host says Jared, whose channel was renamed Questionable Garage (it was Wrenc
 
 The finale video wraps with a detour that I'd file under "life happens." The host says he's been sick with what doctors called "one of the most radical cases of strep throat that they've ever seen." It was his first day swallowing water in four days. He's in Monaco, he's doing yacht research, and he's checking how many yachts "run on LSX engines." He also teases that the next video isn't a build, it's the body that goes on the Tesla Model 3. The transcript also touches on a drive to get 100 laptops for a village whose students take exams on cell phones outside places with wi-fi. The excerpt is garbled and fragmentary, so I won't build a claim on it. It's a worthy cause, though, and it's the only part of today's roundup that isn't about a car.
 
+<!-- satire-image -->
+![Beef under five bucks, Bentleys in the parking lot, and the trimmings nobody else wanted. Ask the butcher nicely.](/images/satire/2026-10-29-workshop-and-friends-bodies-off-bentleys-on-and-beef-under-f.webp)
+*Beef under five bucks, Bentleys in the parking lot, and the trimmings nobody else wanted. Ask the butcher nicely.*
+
 ## Restoration, Technically: A Murciélago in a Farm Field
 
 B is for Build also posted "ABANDONED FARM FIND LAMBORGHINI MURCIELAGO," and the excerpt is the end of the first dig. The crew is staring at a damaged windshield and trying to answer the first question of any resurrection: where's the battery? The guess is somewhere on the side under one of the covers, which they note are all carbon fiber and "actually pretty nice." They spot a terminal, and then conclude it's "just a ground cable actually," with a red cable next to it. There's also a little switch that might be a kill switch. The plan for next time is to pull the damaged windshield, strip off the broken junk parts, and see whether it starts.

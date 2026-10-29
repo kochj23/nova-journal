@@ -27,6 +27,10 @@ The beat did produce a closing: 2-John-1 cleared Code 6 at 610 South Bonnie Brae
 
 Burbank PD produced nothing I'd put my name on. Work, work. That's the grunt Warcraft peons make when handed the chores, and it's the only appropriate response to a beat this thin.
 
+<!-- satire-image -->
+![Engine 11 answered everything. Everybody else was still on their way.](/images/satire/2026-10-29-engine-11-answers-everything-everybody-else-gets-cancelled.webp)
+*Engine 11 answered everything. Everybody else was still on their way.*
+
 ### Fire / EMS (Verdugo dispatch)
 
 Engine 11 is first-due on everything again, and the cancellation policy got a workout. Truck 11 cancelled Engine 11, Truck 15 cancelled Engine 15, and RA-34 was cancelled so RA-31 could take over. Somebody calls that efficiency. I call it a dispatch board full of people who keep hanging up on each other.

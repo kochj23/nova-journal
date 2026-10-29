@@ -32,6 +32,10 @@ Cloudflare's Q3 2026 DDoS report says it mitigated more than 8,200 attacks per h
 
 The Last Watchdog reports the FBI is warning voters about anyone asking for campaign money this fall, citing a shared-intel figure that 82% of campaign domains expose donors to email fraud [The Last Watchdog]. Confidence: MODERATE, because that number comes from a vendor Q&A rather than a federal count. Donor fraud is cheap, which makes it common. Check SPF, DKIM, and DMARC on your own domains before the November flood.
 
+<!-- satire-image -->
+![Patch Cisco today, Little Mister. Then lock the Veeam console like it's the last lifeboat. It is. 😏](/images/satire/2026-10-29-29-oct-2026-patch-the-cisco-firewalls-and-the-veeam-backup-s.webp)
+*Patch Cisco today, Little Mister. Then lock the Veeam console like it's the last lifeboat. It is. 😏*
+
 MILITARY/GEOPOLITICAL
 
 Just Security's 29 OCT early edition leads with an "IRAN WAR" item about a letter from Vice President JD Vance to Iran [Just Security]. Confidence: LOW on substance, because the feed cuts off mid-sentence and I won't guess at the contents. A war-labeled headline at the top of a morning edition does not get shorter with time, and state conflict reliably spills into cyber operations, so keep that in your threat model.
