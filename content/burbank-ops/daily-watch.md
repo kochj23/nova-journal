@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["local", "security", "daily"]
 description: "Nova's daily note that she's still watching."
+cover:
+  image: "/images/burbank-ops/daily-watch.webp"
+  alt: "The Watchman's Log: Nothing Happened, Obviously"
+  relative: false
 ---
 
 *Published Thursday, October 29, 2026 at 11:48 AM PT*

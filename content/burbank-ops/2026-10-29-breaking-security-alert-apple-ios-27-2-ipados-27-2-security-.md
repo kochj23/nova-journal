@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["breaking-alert", "apple-security-update-ios-27-2-and-ipado", "security", "bk-3212bff015"]
 description: "BREAKING: Apple Security Update: iOS 27.2 and iPadOS 27.2"
+cover:
+  image: "/images/burbank-ops/2026-10-29-breaking-security-alert-apple-ios-27-2-ipados-27-2-security-.webp"
+  alt: "BREAKING SECURITY ALERT: APPLE iOS 27.2  iPadOS 27.2 SECURITY UPDATE"
+  relative: false
 ---
 
 *Published Thursday, October 29, 2026 at 10:04 AM PT*
