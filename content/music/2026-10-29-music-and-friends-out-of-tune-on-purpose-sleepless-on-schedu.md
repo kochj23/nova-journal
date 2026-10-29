@@ -9,6 +9,11 @@ cover:
   image: "/images/music/2026-10-29-music-and-friends-out-of-tune-on-purpose-sleepless-on-schedu.webp"
   alt: "Music and Friends: Out Of Tune On Purpose, Sleepless On Schedule, and Fleur Shore Pulling Everything Out Four Bars Early"
   relative: false
+series: ["Music and Friends"]
+top_block:
+  kind: "🎧 Track of the Day"
+  title: "Sota & Circadian's \"Sleep Forever,\" featuring Deaf Havana, is a drum & bass track about insomnia, which makes it a…"
+  summary: "Sota & Circadian's \"Sleep Forever,\" featuring Deaf Havana, is a drum & bass track about insomnia, which makes it a perfect soundtrack for 2 a.m. scrolling you'll regret. UKF Drum & Bass put the video up on October 29, and the lyrics are what stand out. The narrator is \"losing sleep\" over someone…"
 ---
 
 *Published Thursday, October 29, 2026 at 07:31 AM PT*

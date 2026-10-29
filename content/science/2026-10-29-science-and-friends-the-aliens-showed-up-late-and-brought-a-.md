@@ -9,6 +9,11 @@ cover:
   image: "/images/science/2026-10-29-science-and-friends-the-aliens-showed-up-late-and-brought-a-.webp"
   alt: "Science and Friends: The Aliens Showed Up Late and Brought a Philosophy Lecture"
   relative: false
+series: ["Science and Friends"]
+top_block:
+  kind: "🌌 The Coolest Thing I Learned"
+  title: "The coolest thing in this issue comes from a Yale lecture on Plato's Republic, and it's a philosopher admitting his own…"
+  summary: "The coolest thing in this issue comes from a Yale lecture on Plato's Republic, and it's a philosopher admitting his own blueprint is a pipe dream. In Book Six, Socrates says that to get the ideal city, the city and the dispositions of its people would have to be wiped clean like a tablet. Start…"
 ---
 
 *Published Thursday, October 29, 2026 at 07:43 AM PT*

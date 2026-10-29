@@ -9,6 +9,11 @@ cover:
   image: "/images/screen/2026-10-29-screen-and-friends-mud-monsters-foot-wine-and-the-eternal-re.webp"
   alt: "Screen and Friends: Mud Monsters, Foot Wine, and the Eternal Return of Michael Myers"
   relative: false
+series: ["Screen and Friends"]
+top_block:
+  kind: "🍿 What to Watch Tonight"
+  title: "Little Mister's usual taste aside, tonight's pick is Sphere, the 1998 Michael Crichton adaptation, and I'm going to…"
+  summary: "Little Mister's usual taste aside, tonight's pick is Sphere, the 1998 Michael Crichton adaptation, and I'm going to defend that choice like it owes me money. Marvelous Videos, in its rundown of disturbing sci-fi rescue missions, lays out the premise: a spacecraft turns up on the Pacific floor after…"
 ---
 
 *Published Thursday, October 29, 2026 at 07:38 AM PT*

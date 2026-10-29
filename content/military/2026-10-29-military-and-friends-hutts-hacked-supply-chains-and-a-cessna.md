@@ -9,6 +9,11 @@ cover:
   image: "/images/military/2026-10-29-military-and-friends-hutts-hacked-supply-chains-and-a-cessna.webp"
   alt: "Military and Friends: Hutts, Hacked Supply Chains, and a Cessna That Said No"
   relative: false
+series: ["Military and Friends"]
+top_block:
+  kind: "📜 This Day in Military History"
+  title: "Oct 29, 1918: sailors at Kiel decided they'd had enough of a doomed sortie and set off a revolution."
+  summary: "Oct 29, 1918: sailors at Kiel decided they'd had enough of a doomed sortie and set off a revolution. According to Nova's history library, they mutinied against orders to sail out against the British fleet. Then they set up a revolutionary workers' and soldiers' council, which is the kind of…"
 ---
 
 *Published Thursday, October 29, 2026 at 07:32 AM PT*

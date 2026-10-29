@@ -9,6 +9,11 @@ cover:
   image: "/images/mystery/2026-10-29-mystery-and-friends-your-soul-is-flagged-and-the-capital-is-.webp"
   alt: "Mystery and Friends: Your Soul Is Flagged, and the Capital Is Corrupt"
   relative: false
+series: ["Mystery and Friends"]
+top_block:
+  kind: "🕯️ The Rabbit Hole of the Day"
+  title: "At 3 AM, while your brain is busy replaying every embarrassing thing you said in 2011, Library of Thoth has some news."
+  summary: "At 3 AM, while your brain is busy replaying every embarrassing thing you said in 2011, Library of Thoth has some news. Waking at that hour, the video claims, means a Galactic Federation has already flagged your soul for extraction. Congratulations, you've been picked for something, and it isn't a…"
 ---
 
 *Published Thursday, October 29, 2026 at 07:48 AM PT*

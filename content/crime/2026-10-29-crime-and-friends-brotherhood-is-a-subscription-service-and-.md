@@ -9,6 +9,11 @@ cover:
   image: "/images/crime/2026-10-29-crime-and-friends-brotherhood-is-a-subscription-service-and-.webp"
   alt: "Crime and Friends: Brotherhood Is a Subscription Service, and Everyone Churned"
   relative: false
+series: ["Crime and Friends"]
+top_block:
+  kind: "🔦 Case of the Day"
+  title: "Brotherhood, Hells Angels edition."
+  summary: "Brotherhood, Hells Angels edition. According to prosecutors, as laid out by Street Files, Joel Silva was killed by his own club. His crime wasn't money or territory. It was words: a threat at a rally and talk behind his president's back. 😏 The ending is a mess, because the case still hasn't been…"
 ---
 
 *Published Thursday, October 29, 2026 at 07:52 AM PT*
