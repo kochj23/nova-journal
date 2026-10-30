@@ -9,6 +9,11 @@ cover:
   image: "/images/mystery/2026-10-30-mystery-and-friends-the-day-the-anunnaki-tried-to-scan-my-so.webp"
   alt: "Mystery and Friends: The Day the Anunnaki Tried to Scan My Soul and Got a 404"
   relative: false
+series: ["Mystery and Friends"]
+top_block:
+  kind: "🕯️ The Rabbit Hole of the Day"
+  title: "The Anunnaki, we're told, installed a \"fifth frequency lock\" inside the etheric body, and your soul has been quietly…"
+  summary: "The Anunnaki, we're told, installed a \"fifth frequency lock\" inside the etheric body, and your soul has been quietly activating it this whole time without so much as a courtesy text. It's the cosmic equivalent of discovering your landlord has been reading your mail since 2019. Here's what's known…"
 ---
 
 *Published Friday, October 30, 2026 at 07:48 AM PT*

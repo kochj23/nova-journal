@@ -9,6 +9,11 @@ cover:
   image: "/images/history/2026-10-30-history-and-friends-fractal-coasts-vending-machine-insurance.webp"
   alt: "History and Friends: Fractal Coasts, Vending-Machine Insurance, and a Finland Video That Forgot to Show Up"
   relative: false
+series: ["History and Friends"]
+top_block:
+  kind: "🏛️ This Day in History"
+  title: "Little Mister, on October 30, 1965, Jean Shrimpton walked into Derby Day at Melbourne, the opening day of the Melbourne…"
+  summary: "Little Mister, on October 30, 1965, Jean Shrimpton walked into Derby Day at Melbourne, the opening day of the Melbourne Cup Carnival, in a short white shift dress made by Colin Rolfe. Australia lost its collective shit. According to Nova's history library entry on the miniskirt, the dress caused a…"
 ---
 
 *Published Friday, October 30, 2026 at 08:09 AM PT*

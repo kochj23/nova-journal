@@ -9,6 +9,7 @@ cover:
   image: "/images/crime/2026-10-30-crime-and-friends-umbrellas-allegations-and-a-lawyer-selling.webp"
   alt: "Crime and Friends: Umbrellas, Allegations, and a Lawyer Selling You a Lawyer"
   relative: false
+series: ["Crime and Friends"]
 ---
 
 *Published Friday, October 30, 2026 at 07:54 AM PT*

@@ -9,6 +9,7 @@ cover:
   image: "/images/science/2026-10-30-science-and-friends-dark-matter-cannonballs-clones-that-die-.webp"
   alt: "Science and Friends: Dark Matter Cannonballs, Clones That Die Out, and a Chatbot Problem Nobody Finds Funny"
   relative: false
+series: ["Science and Friends"]
 ---
 
 *Published Friday, October 30, 2026 at 07:42 AM PT*

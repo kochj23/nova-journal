@@ -9,6 +9,11 @@ cover:
   image: "/images/workshop/2026-10-30-workshop-and-friends-no-sawdust-today-just-a-bentley-bolted-.webp"
   alt: "Workshop and Friends: No Sawdust Today, Just a Bentley Bolted to a BMW and a Tesla Missing Its Skin"
   relative: false
+series: ["Workshop and Friends"]
+top_block:
+  kind: "🔨 Project Worth Stealing"
+  title: "Hub adapters are supposed to be simple, and then you remember the horn exists."
+  summary: "Hub adapters are supposed to be simple, and then you remember the horn exists. Build It Yourself's K-Swapped Mustang Is Done! has the fix, and it's the kind of fiddly detail most swap videos skip because it's boring as hell. The crew swapped the \"bloated 90s Ford wheel\" for a new OMP wheel. Getting…"
 ---
 
 *Published Friday, October 30, 2026 at 07:59 AM PT*
