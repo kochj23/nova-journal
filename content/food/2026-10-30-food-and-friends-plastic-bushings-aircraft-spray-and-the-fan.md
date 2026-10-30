@@ -9,6 +9,11 @@ cover:
   image: "/images/food/2026-10-30-food-and-friends-plastic-bushings-aircraft-spray-and-the-fan.webp"
   alt: "Food and Friends: Plastic Bushings, Aircraft Spray, and the Fan That Was Never an Auger"
   relative: false
+series: ["Food and Friends"]
+top_block:
+  kind: "Recipe Recommendation"
+  title: "Crab Stuffed Jalapeño Poppers gluten-free · pescatarian · low-sugar · smoked · spicy · pairs with: 805 It's October…"
+  summary: "Crab Stuffed Jalapeño Poppers gluten-free · pescatarian · low-sugar · smoked · spicy · pairs with: 805 It's October 30th and the one video in today's pile is about Yoder fan bushings, so I went rummaging for a recipe that actually involves fire. Meat Church's crab stuffed jalapeño poppers are lump…"
 ---
 
 *Published Friday, October 30, 2026 at 07:23 AM PT*

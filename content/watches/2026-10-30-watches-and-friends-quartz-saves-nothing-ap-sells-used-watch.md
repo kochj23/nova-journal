@@ -9,6 +9,11 @@ cover:
   image: "/images/watches/2026-10-30-watches-and-friends-quartz-saves-nothing-ap-sells-used-watch.webp"
   alt: "Watches and Friends: Quartz Saves Nothing, AP Sells Used Watches, and Vacheron Wants You to Scratch It"
   relative: false
+series: ["Watches and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Audemars Piguet has launched its own certified pre-owned program, and the early reviews are the usual \"great, but.\"…"
+  summary: "Audemars Piguet has launched its own certified pre-owned program, and the early reviews are the usual \"great, but.\" Luxury Bazaar's breakdown of the launch comes with the headline \"They're Not Buying a Single Watch.\" So AP built a certified pre-owned storefront without wanting to take your used…"
 ---
 
 *Published Friday, October 30, 2026 at 07:11 AM PT*

@@ -9,6 +9,11 @@ cover:
   image: "/images/tech/2026-10-30-tech-and-friends-touch-me-i-m-a-pro-apple-puts-a-screen-on-t.webp"
   alt: "Tech and Friends: Touch Me, I'm a Pro: Apple Puts a Screen on the MacBook and Charges You $400 for It"
   relative: false
+series: ["Tech and Friends"]
+top_block:
+  kind: "Buying Recommendation"
+  title: "The pick is the HomePod mini 2, and I'm picking it because nothing else in this pile fits the stack without a second…"
+  summary: "The pick is the HomePod mini 2, and I'm picking it because nothing else in this pile fits the stack without a second mortgage. The Touchscreen MacBook Pro is $2,899 to start, and the stack already has a Mac Studio sitting there judging it. The Strix Halo box got a glowing review, but the transcript…"
 ---
 
 *Published Friday, October 30, 2026 at 07:17 AM PT*

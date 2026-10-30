@@ -9,6 +9,11 @@ cover:
   image: "/images/military/2026-10-30-military-and-friends-record-casualties-missing-recruits-and-.webp"
   alt: "Military and Friends: Record Casualties, Missing Recruits, and a Mystery Weapon Nobody Will Name Until You Subscribe"
   relative: false
+series: ["Military and Friends"]
+top_block:
+  kind: "📜 This Day in Military History"
+  title: "Armistice of Mudros, October 30, 1918, and Turkey is out of the war."
+  summary: "Armistice of Mudros, October 30, 1918, and Turkey is out of the war. Four years of the Ottoman Empire playing for the losing team ended aboard a warship in the Aegean, which is a hell of a way to cancel a subscription. According to Nova's history library on the British Army in the First World War…"
 ---
 
 *Published Friday, October 30, 2026 at 07:34 AM PT*

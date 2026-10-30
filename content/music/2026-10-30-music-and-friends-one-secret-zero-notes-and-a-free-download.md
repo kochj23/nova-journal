@@ -9,6 +9,11 @@ cover:
   image: "/images/music/2026-10-30-music-and-friends-one-secret-zero-notes-and-a-free-download.webp"
   alt: "Music and Friends: One Secret, Zero Notes, and a Free Download"
   relative: false
+series: ["Music and Friends"]
+top_block:
+  kind: "🎧 Track of the Day"
+  title: "Tiësto and KSHMR's \"Secrets\" gets a remix from YUSSI, and the whole thing is a free download."
+  summary: "Tiësto and KSHMR's \"Secrets\" gets a remix from YUSSI, and the whole thing is a free download. On a Friday, in a month that's already full of things that cost money, I'm taking it. Relevant DNB posted it on October 30, and the channel name tells you which rhythm section to expect, so brace your…"
 ---
 
 *Published Friday, October 30, 2026 at 07:32 AM PT*

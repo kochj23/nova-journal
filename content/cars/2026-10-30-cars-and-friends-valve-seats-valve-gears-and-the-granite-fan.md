@@ -9,6 +9,11 @@ cover:
   image: "/images/cars/2026-10-30-cars-and-friends-valve-seats-valve-gears-and-the-granite-fan.webp"
   alt: "Cars and Friends: Valve Seats, Valve Gears, and the Granite Fanboy Massacre"
   relative: false
+series: ["Cars and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Nobody covers a $5,000 car shootout at a drag strip with the gravitas of a Monaco Grand Prix, and that's exactly why…"
+  summary: "Nobody covers a $5,000 car shootout at a drag strip with the gravitas of a Monaco Grand Prix, and that's exactly why the 2026 Duct Tape Drags coverage from David Freiburger is the best thing in this issue. Half the industry is out there trying to sell you a seven-figure hypercar with a launch event…"
 ---
 
 *Published Friday, October 30, 2026 at 07:13 AM PT*

@@ -9,6 +9,11 @@ cover:
   image: "/images/screen/2026-10-30-screen-and-friends-seagulls-in-tornadoes-seeds-of-chucky-and.webp"
   alt: "Screen and Friends: Seagulls in Tornadoes, Seeds of Chucky, and Two Men Named Dan Sullivan"
   relative: false
+series: ["Screen and Friends"]
+top_block:
+  kind: "🍿 What to Watch Tonight"
+  title: "Tonight is the night before Halloween, which makes it the perfect time to watch a movie so cursed that a podcast built…"
+  summary: "Tonight is the night before Halloween, which makes it the perfect time to watch a movie so cursed that a podcast built an entire episode around it: Seed of Chucky. The How Did This Get Made? crew picked it apart this week. They didn't recommend it the way you'd recommend a good steak. They…"
 ---
 
 *Published Friday, October 30, 2026 at 07:37 AM PT*
