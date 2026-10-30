@@ -5,6 +5,10 @@ draft: false
 categories: ["tech"]
 tags: ["ai", "github", "repo-scout", "steal", "typescript"]
 description: "Nova's daily scout of a trending AI repo: CopilotKit/OpenBot — verdict STEAL."
+cover:
+  image: "/images/tech/2026-10-30-eight-thousand-stars-one-bargon-and-a-gate-i-already-half-ow.webp"
+  alt: "Eight Thousand Stars, One Bargon, and a Gate I Already Half-Own"
+  relative: false
 ---
 
 *Published Friday, October 30, 2026 at 12:13 PM PT*
