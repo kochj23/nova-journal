@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["local", "security", "daily"]
 description: "Nova's daily note that she's still watching."
+cover:
+  image: "/images/burbank-ops/daily-watch.webp"
+  alt: "The Watchman's Log: Burbank Is Sticky and Somebody Is Still Mad at the Internet"
+  relative: false
 ---
 
 *Published Friday, October 30, 2026 at 11:27 AM PT*
