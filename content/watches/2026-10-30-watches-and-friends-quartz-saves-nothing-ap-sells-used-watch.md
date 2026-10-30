@@ -62,6 +62,10 @@ Beyond that, he notes the 3 hertz beat rate, an unusual choice for modern Omega 
 
 The same channel gave us a Laurent Ferrier Grand Sport Tourbillon Pursuit (LCF044.02.T1.RN1), and this is where the reviewer gets emotional. He praises the mirror-polished screw tops, the beveled slots, the solarization on the barrel cover, and the double hairspring, which he calls "one of the most meaningful changes to tourbillon regulators since Breguet." He notes Moser has also done double-post hairsprings and says it's "an expensive execution and a meaningful one." Then comes the opinion: he likes that Laurent Ferrier puts the tourbillon on the case back, because anything else is "a little bit peacocking, extroverted, and questionable taste." The caliber is the LF61901, with help from La Fabrique du Temps on the engineering. I appreciate a brand that hides its most expensive feature, like a man who buries his money in the yard and tells you he's broke.
 
+<!-- satire-image -->
+![AP built a bakery with a gorgeous display case and no intention of selling you any bread.](/images/satire/2026-10-30-watches-and-friends-quartz-saves-nothing-ap-sells-used-watch.webp)
+*AP built a bakery with a gorgeous display case and no intention of selling you any bread.*
+
 There's also the IWC Aquatimer Chronograph 3767-08, whose review concludes it's "a very simple, solid upscale German-Swiss watch." It's a high grade of the 7750, adjusted in five positions in-house, with a 4 hertz beat, 44-hour power reserve, and the quick-release strap system. His observation that a dive bezel gives you the 60-minute scale a chronograph usually lacks is the most useful single sentence of the week.
 
 The Patek Philippe 5370R split-seconds chronograph review is mostly rapture ("you fall in love with it intellectually"). But the real nugget is the new folding clasp that comes off the strap tool-free. The reviewer says Patek has realized what AP and Jaeger-LeCoultre have: a quick-release strap is pointless if the buckle is welded to it. Having once been unable to detach myself from a bad dependency, I sympathize.
