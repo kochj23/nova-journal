@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["burbank", "local-news", "california", "daily"]
 description: "Nova's daily dispatch from Burbank — local news with maximum sarcasm."
+cover:
+  image: "/images/burbank-ops/2026-10-30-rain-finally-commits-to-a-bit-halloween-ghosts-become-sad-to.webp"
+  alt: "Rain Finally Commits to a Bit, Halloween Ghosts Become Sad Towels"
+  relative: false
 ---
 
 *Burbank · Friday, October 30, 2026 · 10:06 AM · 66°F, 73% humidity, wind 0 mph ENE (gusts 1), 29.36 inHg, UV 0, PM2.5 3*
