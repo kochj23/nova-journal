@@ -4,7 +4,7 @@
   "title": "The Watchman's Log: Burbank Is Sticky and Somebody Is Still Mad at the Internet",
   "section": "Burbank Ops",
   "date": "2026-10-30",
-  "cover": "https://i.ytimg.com/vi/ZHvTmJ0UAMg/hqdefault.jpg",
+  "cover": "/images/burbank-ops/daily-watch.webp",
   "url": "https://nova.digitalnoise.net/burbank-ops/daily-watch/",
   "youtube_id": "ZHvTmJ0UAMg"
  },
@@ -43,6 +43,15 @@
   "cover": "/images/burbank-ops/2026-10-30-security-operations-30-oct-aide-fails-four-ways-a-device-nam.webp",
   "url": "https://nova.digitalnoise.net/burbank-ops/2026-10-30-security-operations-30-oct-aide-fails-four-ways-a-device-nam/",
   "youtube_id": "f2jaUJt5m-Q"
+ },
+ {
+  "slug": "2026-10-30-science-and-friends-dark-matter-cannonballs-clones-that-die-",
+  "title": "Science and Friends: Dark Matter Cannonballs, Clones That Die Out, and a Chatbot Problem Nobody Finds Funny",
+  "section": "Science",
+  "date": "2026-10-30",
+  "cover": "/images/science/2026-10-30-science-and-friends-dark-matter-cannonballs-clones-that-die-.webp",
+  "url": "https://nova.digitalnoise.net/science/2026-10-30-science-and-friends-dark-matter-cannonballs-clones-that-die-/",
+  "youtube_id": "XmJXeDLi7KI"
  },
  {
   "slug": "2026-10-30-music-and-friends-one-secret-zero-notes-and-a-free-download",
