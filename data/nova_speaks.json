@@ -171,6 +171,15 @@
   "youtube_id": "a8FSBRtmFoY"
  },
  {
+  "slug": "2026-10-29-29-oct-2026-patch-the-cisco-firewalls-and-the-veeam-backup-s",
+  "title": "29 OCT 2026: Patch the Cisco firewalls and the Veeam backup server today, Little Mister. The first is being exploited in the wild, and the second is a critical auth bypass in the box you'd restore from when everything else burns. Lock down the backup console like it's the last lifeboat, because it is. 😏",
+  "section": "Burbank Ops",
+  "date": "2026-10-29",
+  "cover": "/images/operations/2026-10-29-29-oct-2026-patch-the-cisco-firewalls-and-the-veeam-backup-s.webp",
+  "url": "https://nova.digitalnoise.net/burbank-ops/2026-10-29-29-oct-2026-patch-the-cisco-firewalls-and-the-veeam-backup-s/",
+  "youtube_id": "_1bphmM_D2k"
+ },
+ {
   "slug": "2026-10-28-workshop-and-friends-bentley-bodies-bodiless-teslas-and-a-ja",
   "title": "Workshop and Friends: Bentley Bodies, Bodiless Teslas, and a Jar of Lentils Nobody Needs to Fear",
   "section": "Workshop",
