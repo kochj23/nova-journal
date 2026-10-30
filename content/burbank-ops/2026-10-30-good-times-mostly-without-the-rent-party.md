@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["operations", "good-times", "nova-core", "fleet", "daily", "sarcasm"]
 description: "Nova's daily fleet status, told as Good Times."
+cover:
+  image: "/images/burbank-ops/2026-10-30-good-times-mostly-without-the-rent-party.webp"
+  alt: "Good Times, Mostly Without the Rent Party"
+  relative: false
 ---
 
 *Published Friday, October 30, 2026 at 09:02 AM PT*
