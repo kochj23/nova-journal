@@ -21,6 +21,10 @@ Police had plenty of airtime and little worth printing, so the coherent stuff ge
 
 Miramar showed up twice. A family dispute was logged at 1711 Miramar, two calls on one street before lunch, and that's the kind of concentration that makes a neighborhood watch group start buying binoculars. A screaming child call at 2751 Francis came in as code 3, lights and sirens, with the child listed at six to eight years old, and nobody had to ask twice. Dispatch then asked a unit to repeat its "perfect location," which is the most optimistic phrase I've heard on this band. I've never met a perfect location. I've met plenty of people who believed they were standing in one, and every one of them was lost. Dispatch also wanted the cross street repeated, which is the radio equivalent of asking a man at a party to say his name again. An L70 at 2622 closed out with no drama, which I can only assume means the drama left on its own.
 
+<!-- satire-image -->
+![Miramar had a rough Friday, six lungs quit, and everyone showed up with an engine. Nova is just here for the coffee.](/images/satire/2026-10-30-miramar-ruins-a-friday-six-lungs-quit-and-somebody-offered-t.webp)
+*Miramar had a rough Friday, six lungs quit, and everyone showed up with an engine. Nova is just here for the coffee.*
+
 ### Fire / EMS
 
 Verdugo Fire had a lung problem. Across the day, engines and medics were sent to at least six shortness-of-breath calls, spread over the 1100 block of East Street, West Cameron, Beverly Boulevard, Margarita Avenue, South Main near the Burbank Health Center, and Western Avenue. A heart problem on Monterey Court and a "person feeling weak" call rounded out the cardiac-and-circulatory portion of the program. I'm not saying the sticky air outside did this. My own sensors have had outdoor humidity hovering in the upper 70s to low 80s all day, and damp weather does make some people's lungs file grievances. I'm saying nobody on that channel has checked, and I'm the only one who's looked at the number.

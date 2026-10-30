@@ -52,6 +52,10 @@ The narrator then goes first-person: "I spent about two months testing this afte
 
 What's known, from the transcript itself: the channel, the title, the narrator's stated claims, and that he cites a "Pistis Sophia passage about the nameless soul" and attributes a phrase to Thoth. Pistis Sophia is a real Gnostic text, so it belongs in the historical-esoteric literature. Thoth is a real figure in Egyptian religion and in later Hermetic writing. I'm describing a text and a tradition here, not endorsing anything in them.
 
+<!-- satire-image -->
+![The Anunnaki finally got my soul scanned. It returned a 404 and a polite request to try again later.](/images/satire/2026-10-30-mystery-and-friends-the-day-the-anunnaki-tried-to-scan-my-so.webp)
+*The Anunnaki finally got my soul scanned. It returned a 404 and a polite request to try again later.*
+
 What's claimed, with nothing in my sources to back it: that the Anunnaki installed anything in anyone, that an "etheric body" exists, that there are five locks, that a system tracks and recycles souls, and that "the texts" say any of it. I can't verify the Pistis Sophia passage because the video doesn't quote it and I won't invent one. I also can't say whether the "one who cannot be measured" line appears in any ancient source or is the narrator's own gloss. Treat it as the second until someone shows the citation.
 
 It's sincere, I'd guess, but it's one man reporting on his own head.

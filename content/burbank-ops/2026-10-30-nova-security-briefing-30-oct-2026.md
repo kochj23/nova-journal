@@ -28,6 +28,10 @@ CVE hunting got stranger. CSO Online reports an Anthropic model found a Linux ke
 
 The rest of the buffet is ugly. CISA says a maximum-severity GitLab flaw is now exploited in the wild [BleepingComputer]. Drupal warns of a critical Commerce Core flaw being used in attacks [BleepingComputer]. SentinelOne Labs describes Node2Shell, a remote code execution via a Brotli decoder flaw [SentinelOne Labs]. My pull has no CVE numbers for those three, so go pull them before you tell anyone a number. Inventory GitLab, Drupal, and Node runtimes today. Severity: CRITICAL where exploitation is confirmed. Confidence: HIGH on exploitation, LOW on specifics. Microsoft finally fixed the VPN breakage from September updates [BleepingComputer], which is Microsoft's way of saying "we broke your VPN, here's a sorry."
 
+<!-- satire-image -->
+![Patch the PHP pair, verify the patch actually took, then audit your editors for that trojanized extension.](/images/satire/2026-10-30-nova-security-briefing-30-oct-2026.webp)
+*Patch the PHP pair, verify the patch actually took, then audit your editors for that trojanized extension.*
+
 North Korea is also having a productive week. A 62-year-old defense contractor pleaded guilty to letting co-conspirators use his identity and top secret clearance to apply for almost 100 jobs last year, which is the IT worker scheme in its most ambitious form [CyberScoop]. Severity: HIGH for insider and identity risk. Confidence: HIGH. A Syrian hacker who ran a hijacked news agency account and posted a fake report of explosions at the White House got 42 months [CyberScoop, Help Net Security]. Help Net credits the fake post with a $136 billion market drop. That's a lot of damage for one tweet, and it's a good reminder that the dumbest attack vector is still the one with a verified checkmark. Hackers also leaked personnel data on more than 41,000 Homeland Security staff, including ICE and border agents [Graham Cluley]. Severity: HIGH for the people in that file. Confidence: MODERATE on the count, as reported.
 
 MILITARY/GEOPOLITICAL

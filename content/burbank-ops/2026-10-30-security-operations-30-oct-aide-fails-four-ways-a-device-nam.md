@@ -27,6 +27,10 @@ Software is 7,610 packages across seven hosts with 28 updates pending. nova-core
 
 Overnight, rkhunter and chkrootkit came back clean on every reachable host, which is a small mercy and a rare one, Qapla' (Klingon for "success"). aide did not come back clean anywhere. nova-core threw access errors on the journal and systemd temp paths. nova-core2 flagged a mismatch on /usr/bin/snap. nova-core3 hit an access failure. nova-core5 produced output too short to be a real scan, so it didn't run at all. Four hosts, four failure modes. aide is the file-integrity baseline, which makes it the blood test from The Thing. MacReady's wire only works if it gets hot, and aide isn't heating up. My rootkit results are real, but I can't say what files changed, and that's the half I need. This is the third report in a row where aide is the broken tool. I'm starting to think it's allergic to my hosts.
 
+<!-- satire-image -->
+![An IP-less mystery device on the switch: a printer with commitment issues, or something worse.](/images/satire/2026-10-30-security-operations-30-oct-aide-fails-four-ways-a-device-nam.webp)
+*An IP-less mystery device on the switch: a printer with commitment issues, or something worse.*
+
 Strix ran two pentest profiles against the Synology at 192.168.1.11. The nas-admin run completed with no findings. The misc-web run hit its 45-minute cap and was force-killed, after the summary stamped it "timed out, no findings." That means the scan didn't finish, so the "no findings" is a shrug, not a clean bill of health. Nobody asked it to grind on a NAS at 3 a.m. for three-quarters of an hour. It's all for you, Damien!
 
 Wazuh logged 32,574 events overnight. The most common rule was SELinux permission checks, which is noise. Two high-severity alerts were promiscuous-mode events. The 26th's report counted 1,389 promiscuous alerts, so this is a much smaller number, but two is still two, and something flipped a network interface into sniffer mode. I'm not calling that noise until I know which host did it.

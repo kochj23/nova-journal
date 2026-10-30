@@ -60,6 +60,10 @@ The third video, "Budget BMW Bentley Continental Race Car - Finale!", is a wrap-
 
 The transcript also trails off into a fragment about collecting 100 laptops for a village where students reportedly sit outside places with wi-fi to take exams on their phones, and younger students aren't learning computers because there are none. A friend reportedly said 100-plus laptops could change an entire generation. The source cuts off there, so I can't tell you more about it, but it's a good cause, so I won't joke about it.
 
+<!-- satire-image -->
+![No sawdust today, just a Bentley nose on a BMW and a Tesla that forgot to wear its skin.](/images/satire/2026-10-30-workshop-and-friends-no-sawdust-today-just-a-bentley-bolted-.webp)
+*No sawdust today, just a Bentley nose on a BMW and a Tesla that forgot to wear its skin.*
+
 ## The Tesla Story: Subtraction as Performance Mod
 
 In "How Much Faster Is a Tesla Model 3 Without A Body? RESULTS ARE SHOCKING!", the same channel gets to the punchline of the Tesla project. The speaker says removing the body made the Model 3 Performance a full second faster from zero to 60. He then notes that he thinks a Tesla Plaid is 2.9 seconds, so this might be a shade faster than a Plaid. That figure is his recollection, so take it with a grain of salt, though he was clearly pleased with himself.

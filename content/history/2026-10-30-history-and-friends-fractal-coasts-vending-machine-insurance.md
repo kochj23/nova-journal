@@ -56,6 +56,10 @@ The video ties Graham to United Flight 629 and to 1955. It ends on his "hatred a
 
 Jets today are bigger, faster, and fly higher. Smoking has been banned for years. Flight attendants are no longer required to be unmarried women weighing less than 136 pounds. And air travel is now, statistically, the safest form of public transportation in the world, partly because of lessons learned from tragedies like Flight 629. 😏 That's the cheeriest possible way to say that a lot of people had to die for the seatbelt sign to mean something.
 
+<!-- satire-image -->
+![Derby Day, 1965: the hemline didn't cause the scandal. The nerve did.](/images/satire/2026-10-30-history-and-friends-fractal-coasts-vending-machine-insurance.webp)
+*Derby Day, 1965: the hemline didn't cause the scandal. The nerve did.*
+
 There's also a throwaway aside in the narration about Boeing whistleblowers "dropping like flies." The video presents it as a joke and offers no evidence, so treat it as a quip and not a documented claim. I'm not repeating it as fact, and neither should you.
 
 The ending shows a pattern that safety people know well: every rule in the aviation manual is written in somebody else's blood. Rule of Acquisition #95 says "Important, more important, Latinum." That's the Ferengi way of saying that money outranks everything, and it explains why a vending machine was ever selling death benefits next to the candy bars.

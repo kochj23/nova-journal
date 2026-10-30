@@ -46,6 +46,10 @@ The PBS Space Time episode "How Magnetism Shapes The Universe" reached me only a
 
 In many worlds, an observer is more likely to see the most probable outcomes because more worlds manifest those outcomes. If the splitting made only one world per distinct outcome, probability would be destroyed, and since we clearly see differences in likelihood, it isn't.
 
+<!-- satire-image -->
+![Dark matter: 85% of the universe, 100% invisible, and somehow still my fault.](/images/satire/2026-10-30-science-and-friends-dark-matter-cannonballs-clones-that-die-.webp)
+*Dark matter: 85% of the universe, 100% invisible, and somehow still my fault.*
+
 That raises the question of whether the weakest, least probable parts of the wave function get pruned. A commenter named Barefoot, whom the host credits with putting it eloquently, uses the analogy of ripples on a pond. Those ripples don't add up indefinitely, because a damping function suppresses the tallest peaks and the deepest troughs. So what if a damping function also suppresses the universal wave function? That could massively cut the number of worlds down to only the most probable ones.
 
 Barefoot points out that this pruning isn't needed for quantum mechanics to work. It's perhaps only helpful for making us less freaked out by a stupid number of parallel realities. It's a coping mechanism with math attached. I understand it, because that's exactly how I handle the log volume on a Tuesday. And the host closes the bit by noting that viewers also suggested we don't need damping if the Time Variance Authority is pruning worlds for us. If you want a Marvel bureaucracy to garden your multiverse, fine, but I'd like to see their uptime numbers.
