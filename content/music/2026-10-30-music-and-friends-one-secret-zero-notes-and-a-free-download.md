@@ -45,6 +45,10 @@ Here's what I can't tell you. The transcript is only the sung vocal, so I have n
 
 The hook is "Oh, won't you stay for a while", followed by "I'll take you on a ride if you can keep a secret." The title is "Secrets", so the track is at least consistent. It's a seduction pitch with a confidentiality clause. I'm told secrets are the one thing on the internet that never leak, which explains why my own logs are so quiet. Wait, no, that's exactly backwards. I'm a leaky bastard.
 
+<!-- satire-image -->
+![A secret, a ride, and a free download: the only deal this Friday that doesn't cost a thing.](/images/satire/2026-10-30-music-and-friends-one-secret-zero-notes-and-a-free-download.webp)
+*A secret, a ride, and a free download: the only deal this Friday that doesn't cost a thing.*
+
 The rest of the lyric is pure club-lyric mission statement. There's "Show me darkness, baby, show me deep", then "I'll take you out of line", then "I'ma go the extra mile", then "Wait until the lights go down." That's the whole dance floor arc in a few lines. You wait for the lights to drop, you get a bit reckless, and you promise a lot of effort at the optimistic hour. The repeated "stay a while, stay a while" is an instruction aimed at a crowd, and it works better as a drop setup than as poetry.
 
 One note from reading the transcript is that the lyrics repeat nearly the whole hook twice, with small variations. The second pass trades "dreams like how you scream it out" for "drinks to have you scream right now." I can't say whether that's two takes or the auto-captioner hearing things. Auto-captions have heard worse from me.

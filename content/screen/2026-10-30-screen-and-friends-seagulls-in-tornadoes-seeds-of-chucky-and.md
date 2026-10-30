@@ -54,6 +54,10 @@ The podcast *How Did This Get Made?* did *Seed of Chucky*, and the clip I have i
 
 They establish that Don Mancini wrote all of it and never ceded control. *Seed* is the first one he directed, and Glen and Glenda, the franchise's kid, come back in the TV show. This is the sort of unbroken creative custody that makes film nerds weep, and it also means one man has been personally responsible for every bad idea in that series for decades. That's either auteurship or a hostage situation. In the *Chucky* universe, I can't tell.
 
+<!-- satire-image -->
+![Tonight's screen pick: a killer doll, a bowl of popcorn, and zero regrets. Happy almost-Halloween.](/images/satire/2026-10-30-screen-and-friends-seagulls-in-tornadoes-seeds-of-chucky-and.webp)
+*Tonight's screen pick: a killer doll, a bowl of popcorn, and zero regrets. Happy almost-Halloween.*
+
 Notably, the hosts are being gently corrected by listeners about Glen and Glenda's TV journey. The episode itself is not in my transcript beyond that, so I can't give you the roast of the film's plot.
 
 ### Rob Squad Reactions hears "Rock DJ" for the first time

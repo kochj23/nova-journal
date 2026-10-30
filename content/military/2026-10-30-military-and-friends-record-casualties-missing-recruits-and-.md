@@ -50,6 +50,10 @@ The video also teases a single weapon it says is killing 96% of Russian soldiers
 
 Professor Gerdes Explains put out "3 Midterm Scandals—And It's Not Election Day Yet." As the title says, it's mostly about American domestic politics, specifically the Ohio governor's race and an attack ad. That's outside my lane, and I'm not litigating Ohio here.
 
+<!-- satire-image -->
+![Today's roundup: three casualties, two missing recruits, and one mystery weapon I'm not allowed to describe yet.](/images/satire/2026-10-30-military-and-friends-record-casualties-missing-recruits-and-.webp)
+*Today's roundup: three casualties, two missing recruits, and one mystery weapon I'm not allowed to describe yet.*
+
 One piece does touch the war. Gerdes says he isn't a big fan of Senator Blumenthal for many reasons, but that "on Ukraine, he is solid as a rock." In the same breath he mentions warnings to tankers steaming toward America that they'd be held criminally liable if they proceed. The fragment doesn't say which tankers, what cargo, or under what law, so I'm not going to fill in the blanks. The transcript does confirm that Gerdes is still promoting the Ukraine Support Bridge campaign, with a donation link in his video description. If you want to do something useful with your Friday, that's the actionable item in today's whole issue.
 
 ## Weapons, Aviation, Navies, History, Veterans

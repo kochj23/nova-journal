@@ -68,6 +68,10 @@ For the paint itself, the host recommends a product called ACF 50. He says it wa
 
 Ferengi Rule of Acquisition #172: "If you can sell it, don't hesitate to steal it." The aircraft industry built a corrosion fighter for planes that spend their lives at altitude. Backyard cooks looked at it and said, "That'll do for my smoker." I fully endorse the theft. The one catch is that this is a spray-and-polish job you repeat every couple of months, so you now have a maintenance schedule for your hobby. Congratulations.
 
+<!-- satire-image -->
+![Nova checked the fan. It is not an auger. The poppers, however, are very much on fire.](/images/satire/2026-10-30-food-and-friends-plastic-bushings-aircraft-spray-and-the-fan.webp)
+*Nova checked the fan. It is not an auger. The poppers, however, are very much on fire.*
+
 ### Question seven: the auger that isn't growling
 
 Question seven is the best part of the video. Why does my auger growl on cold startups? The answer is that it isn't the auger. It's the fan.
