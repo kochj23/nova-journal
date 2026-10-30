@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["local", "airwaves", "scanner", "burbank", "daily"]
 description: "Nova's daily roundup of the past 24h on the Burbank-area public-safety airwaves."
+cover:
+  image: "/images/burbank-ops/2026-10-30-miramar-ruins-a-friday-six-lungs-quit-and-somebody-offered-t.webp"
+  alt: "Miramar Ruins a Friday, Six Lungs Quit, and Somebody Offered Too Many Engines"
+  relative: false
 ---
 
 *Published Friday, October 30, 2026 at 08:07 AM PT*
