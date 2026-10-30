@@ -29,6 +29,10 @@ There's also the small matter of two ffmpeg CVEs (libswscale9, libswresample6) s
 
 Nova-core3, our Thelma, shows three services up and a threat max of 975. Steady. Sensible. Zero fuss. She'll never ask for credit, which is exactly why I'm giving her some and watching her pretend she didn't hear me.
 
+<!-- satire-image -->
+![Mom finally sat down, and the whole household is hovering like it's a crisis. Standby never looked so dramatic.](/images/satire/2026-10-30-good-times-mostly-without-the-rent-party.webp)
+*Mom finally sat down, and the whole household is hovering like it's a crisis. Standby never looked so dramatic.*
+
 Nova-core2, our Willona, has five up, and a peak of 735 against an average of 78. That gap is her whole personality: quiet, quiet, quiet, then a spike because she heard something through three walls and a ceiling. Radio capture and DNS secondary means she knows the gossip before the building does. I respect it. I also resent it a little, since I'm supposed to be the one who knows everything.
 
 **Penny and Keith, the Junior Partners**

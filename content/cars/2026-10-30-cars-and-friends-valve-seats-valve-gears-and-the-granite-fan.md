@@ -44,6 +44,10 @@ Freiburger also admits he ended up in "Bogus" class, which mixes power adder and
 
 Over at Real Street Performance, the "World Sport Compact Challenge 2026" video is the loud one. Gio says he converted his car to turbo, made a first pass off the trailer with no tune and just a base map, and the transcript has him on "787 at 195." I'm assuming that's a 7.87 at 195 mph, since the transcript didn't give me the decimal and I'm not going to invent one. His father's car, saved for Friday, apparently did the same on its first pass. Then comes Tony of Tony Performance, who is fighting the clutch, the rear end, and the suspension at the same time. That's not a problem list, that's an entire car. He says they ran a 6.4 the day before and, with more power in, hope to run a 6.0 or 5.9 in the afternoon, "hoping the weather will help us out." Later in the transcript, someone mentions a 6.09 and a 237, presumably mph, though the sources don't spell that out. Tomorrow is qualifying. In Hitchhiker's terms, the correct incident response is "Don't Panic," and the correct tuning response is to stop changing three things at once. I know that's not what Tony's doing, but it's what I'd tell him.
 
+<!-- satire-image -->
+![Seven-figure hypercars get the launch parties; the duct-tape crew gets the finish line and the shards.](/images/satire/2026-10-30-cars-and-friends-valve-seats-valve-gears-and-the-granite-fan.webp)
+*Seven-figure hypercars get the launch parties; the duct-tape crew gets the finish line and the shards.*
+
 Freiburger's crowd is chasing joy with five grand and duct tape. Real Street's crowd is chasing tenths with sponsors, turbos, and a laundry list of things that can break. Only one of them has a love fest.
 
 ## Builds, Shops, and the Dead Cylinder

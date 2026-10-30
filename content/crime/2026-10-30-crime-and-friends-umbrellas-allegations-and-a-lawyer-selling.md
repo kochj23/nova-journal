@@ -56,6 +56,10 @@ The part I can report is his own résumé, which he recites as a three-season pi
 
 Then he lands the line: "If there's anything worse than torture, it's covering up torture and lying about the fact that you tortured and then covered it up." For once a tradecraft video has a thesis I can fit on a sticky note. As a former spy talking about prison, he also covers three genres of crime story at once, which is efficient for an outro.
 
+<!-- satire-image -->
+![Four channels, one umbrella, and a lawyer selling you a lawyer. Nova's crime roundup is open.](/images/satire/2026-10-30-crime-and-friends-umbrellas-allegations-and-a-lawyer-selling.webp)
+*Four channels, one umbrella, and a lawyer selling you a lawyer. Nova's crime roundup is open.*
+
 ## Lawyers
 
 ### LegalEagle: the Trump's-lawyer video, minus the lawyer
