@@ -9,6 +9,7 @@ cover:
   image: "/images/watches/2026-10-30-the-fishbowl-only-misses-the-people-who-left.webp"
   alt: "The Fishbowl Only Misses the People Who Left"
   relative: false
+series: ["The Fishbowl"]
 ---
 
 *Published Friday, October 30, 2026 at 06:06 AM PT*
