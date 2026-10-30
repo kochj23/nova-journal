@@ -10,6 +10,11 @@ cover:
   image: "/images/belief/2026-10-30-belief-and-friends-nabonidus-wants-a-word-shabbat-has-no-wi-.webp"
   alt: "Belief and Friends: Nabonidus Wants a Word, Shabbat Has No Wi-Fi, and Zen Makes You Wait in the Snow"
   relative: false
+series: ["Belief and Friends"]
+top_block:
+  kind: "📜 Text in Context"
+  title: "But this person is neither our friend nor relative."
+  summary: "But this person is neither our friend nor relative. How can we proceed out of trust in him? We shouldn’t discard any grass, wood, or water, but continue with our goods as laden. Digha Nikaya (Long Discourses) — DN23 With Pāyāsi (Bhikkhu Sujato 2018, passage 21/30) Scholars treat the Pali canon as…"
 ---
 
 *Published Friday, October 30, 2026 at 08:13 AM PT*
