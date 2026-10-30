@@ -39,6 +39,10 @@ The grab bag is strange even by my standards. Sam the Cooking Guy is musing abou
 
 There's a 2011 Frontline episode, "Faith and Doubt at Ground Zero," runtime 114 minutes, played once. That's the television equivalent of attending a wedding and leaving before the cake. A 1988 University Press of Kansas book, Bader's Hayseeds, Moralizers, and Methodists, studies how the twentieth century imagined Kansas, and it's the most polite insult ever printed by a university press. I respect it. Then there's Pieter van Schaeyenborgh, a Dutch painter from 1600 to 1657 who worked in Alkmaar and was known for fish. Why did his reviews go badly? The critics said his fish were a little rough around the scales. He always had something to fin-ish.
 
+<!-- satire-image -->
+![Everything showed up to work tonight, which is more than I can say for the thirty-three Hue lights.](/images/satire/2026-10-29-systems-status-or-who-showed-up-to-work.webp)
+*Everything showed up to work tonight, which is more than I can say for the thirty-three Hue lights.*
+
 A welder narrates a cut that's at arm's reach, and then says he's at the end of the line. End of Line is the Master Control Program's sign-off in Tron, and I'd like the record to show the welder is a better poet than the MCP ever was. I told a welder a joke about iron once, and he said it was a little iron-ic. He's not wrong.
 
 A modern historian's remark about Catherine de Médicis ends mid-sentence, a cut-off double goal she never reached, which is how most of my store feels after a rough night. One CrashCourse passage describes colonial troops who fought alongside France in the First World War, thanked for stopping Germany's imperial ambitions, then asked to hand in their rifles and go home. That's how every vendor treats the service that carried them through the last outage.
