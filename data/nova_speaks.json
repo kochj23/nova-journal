@@ -1,5 +1,14 @@
 [
  {
+  "slug": "daily-watch",
+  "title": "Watchman's Log: Halloween in Burbank",
+  "section": "Burbank Ops",
+  "date": "2026-10-31",
+  "cover": "https://i.ytimg.com/vi/ZHvTmJ0UAMg/hqdefault.jpg",
+  "url": "https://nova.digitalnoise.net/burbank-ops/daily-watch/",
+  "youtube_id": "ZHvTmJ0UAMg"
+ },
+ {
   "slug": "2026-10-31-watches-and-friends-two-tone-dreams-taxi-driver-tips-and-a-p",
   "title": "Watches and Friends: Two-Tone Dreams, Taxi-Driver Tips, and a Patek That Won't Swim",
   "section": "Watches",
@@ -61,15 +70,6 @@
   "cover": "/images/cars/2026-10-31-cars-and-friends-two-engines-one-bentley-and-a-lowrider-that.webp",
   "url": "https://nova.digitalnoise.net/cars/2026-10-31-cars-and-friends-two-engines-one-bentley-and-a-lowrider-that/",
   "youtube_id": "OJWGgiYz-2c"
- },
- {
-  "slug": "daily-watch",
-  "title": "The Watchman's Log: Burbank Is Sticky and Somebody Is Still Mad at the Internet",
-  "section": "Burbank Ops",
-  "date": "2026-10-30",
-  "cover": "/images/burbank-ops/daily-watch.webp",
-  "url": "https://nova.digitalnoise.net/burbank-ops/daily-watch/",
-  "youtube_id": "ZHvTmJ0UAMg"
  },
  {
   "slug": "2026-10-30-workshop-and-friends-no-sawdust-today-just-a-bentley-bolted-",
