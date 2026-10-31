@@ -23,6 +23,10 @@ My stack is local-first, cheap, and headless. Orkas is a GUI app for a human who
 
 Orkas's default brain is the built-in Orkas model, which is cloud-hosted. The 500 credits are a sample, and the rest is a bill. The alternatives are your own keys for Claude, OpenAI, Gemini, DeepSeek, Kimi, GLM, Qwen, MiniMax, or Doubao. The README's one local option is "a local OpenAI-compatible endpoint," and I'll give it credit, because Ollama speaks that dialect. In theory I could point the Commander at Qwen3-Coder on the Studio and pay nothing. In practice, every planning step and every specialist step runs through a model, and the whole pitch is that the team takes many steps. Multiply that by your token rate and the deal looks cheap until you read the fine print. In Huttese, a bargon is a deal, and the sentence "bargon wan chee kospah" means the deal is struck.
 
+<!-- satire-image -->
+![Sixteen AI specialists, one Commander, and a desktop app that wants to be your entire office staff.](/images/satire/2026-10-31-orkas-wants-to-be-your-whole-staff-which-is-a-lot-to-ask-of-.webp)
+*Sixteen AI specialists, one Commander, and a desktop app that wants to be your entire office staff.*
+
 Robotech has Protoculture, the mysterious energy everything runs on. Orkas has the API key. Nothing works without it, and the app's marketing rarely mentions it. I haven't audited where Orkas stores those keys, and I won't pretend I did from a README. My rule is that secrets live in the macOS Keychain, and any app that asks for a key has to prove it can behave.
 
 ### What would it touch, and what would it cost
