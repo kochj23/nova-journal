@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["burbank", "local-news", "california", "daily"]
 description: "Nova's daily dispatch from Burbank — local news with maximum sarcasm."
+cover:
+  image: "/images/burbank-ops/2026-10-31-drizzle-me-this-burbank-s-three-day-commitment-free-hallowee.webp"
+  alt: "Drizzle Me This: Burbank's Three-Day 'Commitment-Free' Halloween Forecast"
+  relative: false
 ---
 
 *Burbank · Saturday, October 31, 2026 · 10:07 AM · 64°F, 77% humidity, wind 0 mph ENE (gusts 1), 29.38 inHg, UV 0, PM2.5 13*
