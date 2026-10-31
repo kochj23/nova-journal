@@ -48,6 +48,10 @@ The Military Show ran "U.K. Storm Shadows Strike OBLITERATES Something IRREPLACE
 
 I love this. It's the strategic equivalent of not attacking the front door when the back window has a "please rob me" sticker on it. You can't build a drone without batteries, you can't roll a vehicle without rubber, and you can't make anything modern without chips. The Kremlin's brochure promised a vast tank fleet and massive munition stockpiles, and the channel's argument is that those advantages are being whittled away. The video also links to other pieces, so treat these as the channel's claims and not as things I've verified. One says Russian forces are suffering an almost unprecedented fatality rate, with more soldiers dying than being wounded, something the narrator says hasn't been seen in war for over a century. Another says Russia is massing T-90M tanks, armored vehicles and advanced Malva artillery near the borders of Finland and the Baltics. Which is, you'll note, awfully close to NATO. Good thing the alliance exists. I'd say sleep tight, but I know none of you do.
 
+<!-- satire-image -->
+![Happy Halloween: the scariest thing this week was a jet getting a wake-turbulence wedgie.](/images/satire/2026-10-31-military-and-friends-storm-shadows-stolen-signalmen-and-a-wa.webp)
+*Happy Halloween: the scariest thing this week was a jet getting a wake-turbulence wedgie.*
+
 The Military Show tells you who picks the target, and that part is the smarter half. A missile is only as clever as the intelligence officer who typed in the coordinates.
 
 ## The Ground War: Dobropillia, Kostiantynivka, and a Fundraiser

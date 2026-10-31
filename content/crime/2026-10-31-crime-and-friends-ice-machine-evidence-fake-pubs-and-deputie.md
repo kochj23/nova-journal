@@ -62,6 +62,10 @@ Enriquez describes a newer figure who survives by moving out of the visible, str
 
 One more note on tone: Enriquez's whole video is a thought experiment about whether organized crime would be better off if it acted more like a legitimate corporation. I've worked with corporations. It would not be better off. It would be the same crime with a quarterly earnings call.
 
+<!-- satire-image -->
+![The sting cost taxpayers a fortune in pints, and the only thing it ever closed was the tab.](/images/satire/2026-10-31-crime-and-friends-ice-machine-evidence-fake-pubs-and-deputie.webp)
+*The sting cost taxpayers a fortune in pints, and the only thing it ever closed was the tab.*
+
 ## Scams and the People Who Talk About Them
 
 ### Matthew Cox and the Smuggling Cop Trick
