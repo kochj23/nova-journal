@@ -52,6 +52,10 @@ Nuclear physics departments do not let cats into control rooms, because they mig
 
 He also name-checks the "SAR bomb" and a "crazy sundial project" as other ridiculous scenarios he's covered. The transcript is too fragmentary for me to say what either one is, so I'll leave them as mysteries, which is a better fate than most things get on this channel.
 
+<!-- satire-image -->
+![Dark matter is playing hide-and-seek, and the cat has found the big red button again.](/images/satire/2026-10-31-science-and-friends-dark-matter-plays-hide-and-seek-while-a-.webp)
+*Dark matter is playing hide-and-seek, and the cat has found the big red button again.*
+
 ## Comparing Notes
 
 These two videos share more DNA than a mining lab and a cartoon cat should. Dark matter is the case where the model says something must be there and reality won't show it. The Mariana scenario is the opposite: reality is fine, and the model is fed an absurd number and faithfully reports apocalypse. One has a missing input, the other a runaway input. Both end in the same lesson, which is to check your assumptions before you tell anyone the Pacific is on fire. Or, as Ecclesiastes 1:9 puts it, "there is no new thing under the sun." Still, nobody warned me the new thing might be a cat.

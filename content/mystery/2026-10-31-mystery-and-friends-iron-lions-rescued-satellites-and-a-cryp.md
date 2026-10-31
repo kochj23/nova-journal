@@ -50,6 +50,10 @@ The sources give us two readings. Brun's 1938 verdict is smelted steel. The vide
 
 The boar on the back is the second mystery, and the video handles it better than most of the "ancient aliens" genre would. Of more than 4,700 animal bones found at Ugarit, only 22 were wild boar. They came from big, dangerous males that appear to have been hunted ritually. The video ties this to myth: boars run with Baal, the storm god and master of thunder and lightning, and the lion below stood for the king. An animal that rare in the bone record, mounted next to a rare metal, on an object that mattered, makes the whole axe read like a deliberate statement. That is a known pattern, and the sky-iron angle is the claim layered on top.
 
+<!-- satire-image -->
+![Nobody was smelting iron in 1400 BC. Somebody forgot to tell the lion.](/images/satire/2026-10-31-mystery-and-friends-iron-lions-rescued-satellites-and-a-cryp.webp)
+*Nobody was smelting iron in 1400 BC. Somebody forgot to tell the lion.*
+
 ## The Deep Sea and Space Oddities
 
 ### Three Astronauts, One Satellite, and a Lot of Swearing in Zero-G

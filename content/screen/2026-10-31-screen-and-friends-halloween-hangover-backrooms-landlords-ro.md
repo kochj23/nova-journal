@@ -68,6 +68,10 @@ The song is In This Moment's "Black Wedding" featuring Judas Priest's Rob Halfor
 
 CinemaSins' "Casper's Biggest Mistakes Are Even Funnier Now" is a nitpick roast of the 1995 ghost movie. The narrator is "genuinely disappointed that the Final Destination franchise didn't find a way to have death kill Devin Sawa's character with a freak pneumonia accident." On the ending: "All ghosts have unfinished business. That's why they don't cross over. I have no unfinished business." The crack that the spirit world "needs verbal confirmation before forcibly crossing you over" gets the line "At least someone in this film is waiting for consent." Also noted: "French fries are not a breakfast food," answered with "Don't police my morning potatoes." Hard agree.
 
+<!-- satire-image -->
+![Happy Halloween! The Backrooms landlord wants his rent, and the discs are getting a proper funeral.](/images/satire/2026-10-31-screen-and-friends-halloween-hangover-backrooms-landlords-ro.webp)
+*Happy Halloween! The Backrooms landlord wants his rent, and the discs are getting a proper funeral.*
+
 Meanwhile JoBlo Horror Originals asks "WTF Happened to Sinister 2?" and concludes, a little sheepishly, that the sequel "might be due for a re-evaluation of its own." The verdict is that the family drama is "far more interesting" but "without it fusing into the horror, it just feels out of place." The one scene that works has a kid hiding under the bed while his mother says everything will be fine, "this dramatic irony of the audience knowing that she's referring to his father, but a household member is probably referring to Bagul." JoBlo praises the performances, and calls the franchise's use of "grainy home movies and ham radios" one of "its most effective weapons." Compared with CinemaSins, JoBlo is the one actually trying to rescue a movie. Both are valid; only one gets invited to the funeral.
 
 ### Dark fantasy anime for the long night

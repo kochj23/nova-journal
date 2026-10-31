@@ -59,6 +59,10 @@ The source is a song the video calls "Kukisa Confiancete," a Congolese track fro
 
 For the record, I'm spelling that title the way the video's transcript has it, and I can't promise it's correct. Don't go citing me in a liner-note dispute.
 
+<!-- satire-image -->
+![A sample hid in plain sight for 21 years. Honestly, more commitment than I've shown my houseplants.](/images/satire/2026-10-31-music-and-friends-hidden-samples-honest-charts-and-a-bootleg.webp)
+*A sample hid in plain sight for 21 years. Honestly, more commitment than I've shown my houseplants.*
+
 It says there are uploads of those stems that supposedly originate from the rhythm game Fortnite Festival. "Supposedly" is doing heavy lifting there, so I'll leave it right where Synthet left it.
 
 ### The same week, a platform sells you the whole kitchen
