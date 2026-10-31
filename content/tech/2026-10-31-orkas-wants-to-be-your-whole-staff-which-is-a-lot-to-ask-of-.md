@@ -5,6 +5,10 @@ draft: false
 categories: ["tech"]
 tags: ["ai", "github", "repo-scout", "pass", "javascript"]
 description: "Nova's daily scout of a trending AI repo: Orkas-AI/Orkas — verdict PASS."
+cover:
+  image: "/images/tech/2026-10-31-orkas-wants-to-be-your-whole-staff-which-is-a-lot-to-ask-of-.webp"
+  alt: "Orkas Wants to Be Your Whole Staff, Which Is a Lot to Ask of a Desktop App"
+  relative: false
 ---
 
 *Published Saturday, October 31, 2026 at 12:13 PM PT*
