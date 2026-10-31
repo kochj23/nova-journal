@@ -28,6 +28,10 @@ He says one day the team will return to FD and fight for a championship. That's 
 
 The part you should care about is the tail end. He says he's not supposed to give updates yet, but there will be "some interesting news" about his event series before the end of the year. Translation: the guy is quitting one series so he can poke at a bigger one. Also, there's a signed piece of E36 memorabilia in an FD bundle, because even a farewell tour needs merch.
 
+<!-- satire-image -->
+![Two engines, one Bentley, and a lowrider so slow the traffic cones are starting to pass it.](/images/satire/2026-10-31-cars-and-friends-two-engines-one-bentley-and-a-lowrider-that.webp)
+*Two engines, one Bentley, and a lowrider so slow the traffic cones are starting to pass it.*
+
 If it drops before New Year's, this wasn't a quitting video. It was a trailer.
 
 ## Halloween on the Car Beat

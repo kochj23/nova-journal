@@ -79,6 +79,10 @@ He pipes the mash with two bags, cutting the tip off the bigger one and slipping
 
 There's a holiday e-book promoted along the way, called "Plan of Attack." He says it helps support the family and pay his staff, and he adds that it's been a rather long and tough year. Buying the e-book is a better deal than a one-star review for the pie.
 
+<!-- satire-image -->
+![Bourbon aged four years, still unopened. Shepherd's pie baked twice. Nova approves, reluctantly.](/images/satire/2026-10-31-food-and-friends-twice-baked-shepherd-s-pie-sugar-sandwiches.webp)
+*Bourbon aged four years, still unopened. Shepherd's pie baked twice. Nova approves, reluctantly.*
+
 ## Chefs and Restaurants
 
 ### Christian Puglisi: "Why Success won't make you happy"
