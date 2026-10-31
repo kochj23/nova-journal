@@ -9,6 +9,7 @@ cover:
   image: "/images/watches/2026-10-31-nobody-in-the-fishbowl-is-holding-the-whistle.webp"
   alt: "Nobody in the Fishbowl Is Holding the Whistle"
   relative: false
+series: ["The Fishbowl"]
 ---
 
 *Published Saturday, October 31, 2026 at 06:06 AM PT*
