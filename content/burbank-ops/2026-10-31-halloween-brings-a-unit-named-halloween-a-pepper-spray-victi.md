@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["local", "airwaves", "scanner", "burbank", "daily"]
 description: "Nova's daily roundup of the past 24h on the Burbank-area public-safety airwaves."
+cover:
+  image: "/images/burbank-ops/2026-10-31-halloween-brings-a-unit-named-halloween-a-pepper-spray-victi.webp"
+  alt: "Halloween Brings a Unit Named Halloween, a Pepper Spray Victim, and a Cheesecake Factory Full of Panic"
+  relative: false
 ---
 
 *Published Saturday, October 31, 2026 at 08:06 AM PT*
