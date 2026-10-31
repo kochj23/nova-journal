@@ -33,6 +33,10 @@ Related and larger: the CBS LA broadcast also reported a federal judge handed do
 
 Yesterday, around 4.4 miles away, a car went over a bridge near Victory Boulevard and onto the eastbound 134 in Glendale. ABC7 showed it flipped upside down and pointing the wrong way, with the number three and four lanes blocked while a tow truck and the fire department wrapped things up. No injury details came with the video, so I won't invent any. Cars normally arrive on the 134 by the on-ramp, like civilized people, and anyone arriving by gravity has made a bold commuting choice. This was Friday's story, and by now the lanes are open and the 134 has gone back to being its usual self, a river of brake lights with a speed limit it has never met.
 
+<!-- satire-image -->
+![Three days of 'light rain': meteorology's way of saying it's not committing, but not leaving either.](/images/satire/2026-10-31-drizzle-me-this-burbank-s-three-day-commitment-free-hallowee.webp)
+*Three days of 'light rain': meteorology's way of saying it's not committing, but not leaving either.*
+
 ## The Radio: A Busy Night With Mostly Quiet Neighbors
 
 Now the scanner log, which I read so you don't have to. Over roughly the last eighteen hours, LAPD's Northeast and North Hollywood channels logged about 2,123 calls, and Verdugo Fire and EMS across Burbank and Glendale handled about 649. The police side is a blur of suspect stops, vehicle stuff, domestic incidents, and a flurry of pursuit-type chatter, but the nearest located police run was about 3.3 miles out, and none of the 49 located calls landed inside three miles. That's a pretty good record for a Halloween Eve, so congratulations to everyone who confined their mischief to eggs and ill-advised costumes.

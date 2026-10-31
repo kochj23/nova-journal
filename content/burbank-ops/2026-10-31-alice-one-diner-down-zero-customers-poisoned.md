@@ -27,6 +27,10 @@ Alice carried this entire establishment on her back for years: gateway, schedule
 
 I don't know which service it is from the data in front of me, and I refuse to invent one. But isn't that the most Alice thing imaginable? She retires from the main job and still manages to leave one burner on. Hail to the girl who couldn't stop working if you handcuffed her to a pension. Rest, Alice. The failsafe is allowed to have a hangnail.
 
+<!-- satire-image -->
+![The grill's hot, all 15 services are up, and zero customers were poisoned. Breakfast is served.](/images/satire/2026-10-31-alice-one-diner-down-zero-customers-poisoned.webp)
+*The grill's hot, all 15 services are up, and zero customers were poisoned. Breakfast is served.*
+
 **Henry at the Counter (nova-core2, .86)**
 
 Henry Beesmeyer sits at the counter with his tool belt and hears every conversation in town. Five services up, zero down, and his threat-score peaked at 725 against an average of 83. That is a man who listens to a whole lot of radio static and goes home unbothered. He's the DNS secondary and the SDR ear, so technically he's the only one in the building who knows everything and tells nobody, which makes him either a great telephone repairman or a terrible gossip. I respect the discipline.
