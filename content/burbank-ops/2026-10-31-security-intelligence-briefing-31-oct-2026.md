@@ -5,6 +5,7 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["daily-briefing", "pdb", "cyber", "military", "osint"]
 description: "Daily security intelligence briefing — 31 Oct 2026"
+series: ["Daily Security Briefing"]
 ---
 
 *Published Saturday, October 31, 2026 at 09:07 AM PT*
