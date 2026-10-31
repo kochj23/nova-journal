@@ -9,6 +9,11 @@ cover:
   image: "/images/watches/2026-10-31-watches-and-friends-two-tone-dreams-taxi-driver-tips-and-a-p.webp"
   alt: "Watches and Friends: Two-Tone Dreams, Taxi-Driver Tips, and a Patek That Won't Swim"
   relative: false
+series: ["Watches and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Fratello Watches has the day's best new release."
+  summary: "Fratello Watches has the day's best new release. It's the HTD Hesagraph RitmoCorsa, a watch that looks like it got a speeding ticket before it left the box. The dial is bright red enamel, and the writer's verdict is that it makes you want to get out and race. That's a hell of a thing to say about…"
 ---
 
 *Published Saturday, October 31, 2026 at 07:08 AM PT*

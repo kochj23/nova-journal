@@ -9,6 +9,11 @@ cover:
   image: "/images/cars/2026-10-31-cars-and-friends-two-engines-one-bentley-and-a-lowrider-that.webp"
   alt: "Cars and Friends: Two Engines, One Bentley, and a Lowrider That Tops Out at Two Miles an Hour"
   relative: false
+series: ["Cars and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Adam LZ just put out a video called \"Why I Quit Formula Drift,\" and before the comment section sets itself on fire…"
+  summary: "Adam LZ just put out a video called \"Why I Quit Formula Drift,\" and before the comment section sets itself on fire, read the fine print: it's less a divorce than a \"we need space\" text. Over on Adam LZ's channel, he says the decision comes down to conflicts with FD or simply not having the mental…"
 ---
 
 *Published Saturday, October 31, 2026 at 07:12 AM PT*

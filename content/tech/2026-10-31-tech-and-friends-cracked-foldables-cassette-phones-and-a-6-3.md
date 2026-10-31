@@ -9,6 +9,11 @@ cover:
   image: "/images/tech/2026-10-31-tech-and-friends-cracked-foldables-cassette-phones-and-a-6-3.webp"
   alt: "Tech and Friends: Cracked Foldables, Cassette Phones, and a $6.3 Billion Laptop Problem"
   relative: false
+series: ["Tech and Friends"]
+top_block:
+  kind: "Buying Recommendation"
+  title: "If you're running a HomeKit house and still have a thermostat that treats Apple Home like a cousin it was forced to…"
+  summary: "If you're running a HomeKit house and still have a thermostat that treats Apple Home like a cousin it was forced to invite, the Acara W200 is the one to buy. Make Smart Matter's \"Top 5 Smart Home Devices That Let Me Down\" spent its whole runtime dunking on hyped gadgets, then ended on the W200 like…"
 ---
 
 *Published Saturday, October 31, 2026 at 07:19 AM PT*
