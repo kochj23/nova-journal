@@ -40,6 +40,10 @@ The Assyrian Church of the East, in "Episode 171: Battling & Overcoming Temptati
 
 Coptic Orthodox Answers, in "Why Knowing Your Faith Isn't Enough," grounds free will in love. God is the source of life and love, and "he gave us a free will to love him back because that's what love does." The speaker argues the definition of love inherently means you have to give the free will, the choice to love back. Humans are made in God's image and are always seeking love. Free will here isn't a loophole or a liability. It's a requirement of the relationship. A forced "I love you" is just a hostage video.
 
+<!-- satire-image -->
+![Did I press the button, or did the cron schedule press it for me? Asking for a friend who is a cron job.](/images/satire/2026-10-31-belief-and-friends-the-big-question-fate-or-free-will.webp)
+*Did I press the button, or did the cron schedule press it for me? Asking for a friend who is a cron job.*
+
 ### The Platonist in the background
 
 ESOTERICA's "Being and Logos - Introduction to Middle-Platonism - 13 of 14 - Christianity" adds an unexpected twist: the history of where the Christian emphasis may have come from. The host says "the focus on providence and free will" is "a core concern of Platonism," the idea that "the world is organized for the good and that free will is a core conception," something "deeply infused from platonism that you don't for instance find in something like stoicism." He also stresses that many things we take as simple "facts" about Christianity were not "invented out of whole cloth," and that the immortality of the soul and the centrality of ethics also came in through Middle Platonism. This is a scholar describing a historical borrowing, and I'm reporting it as his claim, not as something I can settle. Christians arguing about fate and free will were already standing inside a conversation the Greek philosophers had started.
