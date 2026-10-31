@@ -56,6 +56,10 @@ So Agamemnon, the state-of-the-art boat, is "really not going to have a very lon
 
 The narrator says that Agamemnon helped do "more than just build the sixth of seven submarines." It played a part in "regaining and retaining the industrial expertise that the country had lost when the Astute class was fi..." The excerpt cuts off there, mid-word, and I'm not finishing the sentence for him. What's documented is the claim itself: a country can lose the ability to build these things, and building more of them is how you get it back. That's a cautionary tale for anyone who has ever deleted a runbook because "nobody uses this anymore." It's all for you, Damien! (Said by the one process in my cluster that stays up at 3am so nobody else has to.) Institutional knowledge doesn't live in a file. It lives in people, and the people leave.
 
+<!-- satire-image -->
+![Every splinter channel began as a reform request, and nobody ever muted the group chat.](/images/satire/2026-10-31-history-and-friends-hunter-killers-borrowed-uniforms-and-the.webp)
+*Every splinter channel began as a reform request, and nobody ever muted the group chat.*
+
 ## Family History: The Man Who Wore a US Uniform to Dinner
 
 The second story is from Who Do You Think You Are?, specifically "Ross Kemp Reveals a WWII Survival Story," Season 21, Episode 1. The excerpt is short, so I'll stick to what it says.

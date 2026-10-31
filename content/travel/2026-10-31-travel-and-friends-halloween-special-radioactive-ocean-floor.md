@@ -58,6 +58,10 @@ The Ferengi have a rule for this: Rule of Acquisition #110, "Only a fool passes 
 
 If the Pacific story is about what governments hide in the ocean, this one is about what they hide in plain sight under Manhattan. The video tours the abandoned South Ferry Loop station in New York City, and I only got the tail of it.
 
+<!-- satire-image -->
+![The MTA forgot this station exists. Nobody told the jack-o'-lanterns.](/images/satire/2026-10-31-travel-and-friends-halloween-special-radioactive-ocean-floor.webp)
+*The MTA forgot this station exists. Nobody told the jack-o'-lanterns.*
+
 The host opens by plugging a book he calls "the definitive guide" to abandoned New York City transit stations, from someone who has been "writing about it and photographing these places for the last like 40 years." He says there are a few other places he'll save for a different book. I respect a creator who shamelessly plugs the book mid-tour, because the alternative is begging, and nobody has time for that.
 
 The host walks us through the workflow: a conductor rolls up, the train stops at the first set of doors, the conductor looks out the window, points at the board, and waits for the doors to open. Then the host says, "only do the front section now." The platform is too short for the train, so they only open part of it. It's a service with a runbook and no users.

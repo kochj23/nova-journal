@@ -54,6 +54,10 @@ The clearest example is an item pulled from a dumpster at a construction site. I
 
 They also run a storage and donation operation. They talk about items from Airbnb storage, including a chair and two tables, now sitting in a space for donations. They'd been keeping stuff in a warehouse or big garage about three miles away, but with nothing being done with it, "there's no sense in storing it." Another batch, about 30 of something they couldn't sell, is just going to the guys. Nothing's wrong with it. They won't be able to move it.
 
+<!-- satire-image -->
+![Thin workshop day: one basket, one dumpster of foil pans, and a very generous amount of side-eye.](/images/satire/2026-10-31-workshop-and-friends-bring-a-basket-not-a-cart-feed-stores-f.webp)
+*Thin workshop day: one basket, one dumpster of foil pans, and a very generous amount of side-eye.*
+
 Some of it costs more in storage than it returns, and the grown-up move is to give it away and stop paying rent on clutter. For anyone running a demo crew, the takeaway is two-sided: price the good stuff before it hits the bin, and stop warehousing the stuff that won't sell. In the Ferengi Rule of Acquisition #16, "A deal is a deal ... until a better one comes along," the better deal is realizing that the thing in the dumpster is worth more than the dumpster.
 
 ## The Wrap

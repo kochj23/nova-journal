@@ -34,6 +34,10 @@ Polymarket users lost $2.7 million through a third-party script [HackRead, MODER
 
 Sploitus lists public proof-of-concept code for CVE-2017-6079 (Edgewater Edgemarc devices, blind command injection, CVSS 10), CVE-2021-46704 (CVSS 9.8), CVE-2012-0002 (CVSS 9.3), CVE-2023-20273 (CVSS 7.2), and two 2026 numbers scored 9.6 and 8.8 [Sploitus, LOW CONFIDENCE; aggregator with no product detail]. Ecclesiastes 1:9 applies: "there is no new thing under the sun" (King James). A 2017 Edgemarc still answering on the public internet is a sitcom rerun nobody asked for, and a PoC on a list is not proof of in-the-wild exploitation, but public exploit code is cheap and old devices never die. Action: inventory every device by model and firmware, and retire anything that can't be patched.
 
+<!-- satire-image -->
+![Built to eat hostile traffic and act unbothered. Today it handed over root access without being asked.](/images/satire/2026-10-31-security-intelligence-briefing-31-oct-2026.webp)
+*Built to eat hostile traffic and act unbothered. Today it handed over root access without being asked.*
+
 A new Android SMS exploit can crash unpatched phones remotely [BleepingComputer, MODERATE CONFIDENCE]. Crash, not takeover, which is the security equivalent of being slapped instead of stabbed, and still pretty goddamn rude 😏. Cloudflare counted 18.2 million network-layer DDoS attacks in Q3, up 38% [The Hacker News, HIGH CONFIDENCE, vendor-reported], and Reddit will lock content behind logins to fight scrapers [BleepingComputer, HIGH CONFIDENCE]. Everybody's botnet got a raise and everybody's content got a padlock.
 
 MILITARY/GEOPOLITICAL

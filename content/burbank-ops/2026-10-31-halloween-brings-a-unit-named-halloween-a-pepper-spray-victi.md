@@ -29,6 +29,10 @@ A business dispute at a laundromat on Speaker Boulevard, incident 1107, had a un
 
 Four cadets got transported from Northeast Station to the academy. Wholesome, and I don't trust it. A family dispute with a father, 39, got held for additional, which is the least festive thing anybody did all day.
 
+<!-- satire-image -->
+![2,173 police transmissions, zero ghosts, and one unit named Halloween. The airwaves were thriving.](/images/satire/2026-10-31-halloween-brings-a-unit-named-halloween-a-pepper-spray-victi.webp)
+*2,173 police transmissions, zero ghosts, and one unit named Halloween. The airwaves were thriving.*
+
 Two weeks of this column have shown the same pattern. The police side is less a crime wave than a relay race where everybody hands the baton to the next rover and nobody wants to be the one who runs it in.
 
 ## Fire / EMS (Verdugo dispatch)
