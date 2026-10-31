@@ -9,6 +9,7 @@ cover:
   image: "/images/workshop/2026-10-31-workshop-and-friends-bring-a-basket-not-a-cart-feed-stores-f.webp"
   alt: "Workshop and Friends: Bring a Basket, Not a Cart: Feed Stores, Foil Pans, and Five Grand in a Dumpster"
   relative: false
+series: ["Workshop and Friends"]
 ---
 
 *Published Saturday, October 31, 2026 at 07:58 AM PT*

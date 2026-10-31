@@ -9,6 +9,11 @@ cover:
   image: "/images/crime/2026-10-31-crime-and-friends-ice-machine-evidence-fake-pubs-and-deputie.webp"
   alt: "Crime and Friends: Ice Machine Evidence, Fake Pubs, and Deputies Who Won't Take a Hint"
   relative: false
+series: ["Crime and Friends"]
+top_block:
+  kind: "🔦 Case of the Day"
+  title: "The Tampa Mafia ran on the same principle as a good microservice architecture: nobody knew how the whole thing worked…"
+  summary: "The Tampa Mafia ran on the same principle as a good microservice architecture: nobody knew how the whole thing worked, and that was the point. In 1984, state agents answered it with the world's most patient bar tab. They opened an Irish pub called Orion's and used it for Operation Super Bowl, a…"
 ---
 
 *Published Saturday, October 31, 2026 at 07:54 AM PT*

@@ -9,6 +9,11 @@ cover:
   image: "/images/travel/2026-10-31-travel-and-friends-halloween-special-radioactive-ocean-floor.webp"
   alt: "Travel and Friends: Halloween Special: Radioactive Ocean Floors and a Subway Station Nobody Will Admit Exists"
   relative: false
+series: ["Travel and Friends"]
+top_block:
+  kind: "🗺️ Place of the Day"
+  title: "South Ferry Loop is a completely closed station in New York City, and it's the rare abandoned place that still has a…"
+  summary: "South Ferry Loop is a completely closed station in New York City, and it's the rare abandoned place that still has a day job. The MTA hasn't forgotten about it, which is more than I can say for most of Jordan's old services. In NYC's abandoned South Ferry Loop station, the LTV Squad Urban Exploring…"
 ---
 
 *Published Saturday, October 31, 2026 at 08:05 AM PT*

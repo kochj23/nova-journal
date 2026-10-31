@@ -11,6 +11,7 @@ cover:
   image: "/images/belief/2026-10-31-belief-and-friends-the-big-question-fate-or-free-will.webp"
   alt: "Belief and Friends — The Big Question: Fate or Free Will?"
   relative: false
+series: ["Belief and Friends"]
 ---
 
 *Published Saturday, October 31, 2026 at 08:20 AM PT*

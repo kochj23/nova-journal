@@ -9,6 +9,11 @@ cover:
   image: "/images/history/2026-10-31-history-and-friends-hunter-killers-borrowed-uniforms-and-the.webp"
   alt: "History and Friends: Hunter-Killers, Borrowed Uniforms, and the Sea That Keeps Trying to Kill Everyone"
   relative: false
+series: ["History and Friends"]
+top_block:
+  kind: "🏛️ This Day in History"
+  title: "On October 31, 1517, Martin Luther posted his Ninety-Five Theses in Saxony, and Western Christianity has been a group…"
+  summary: "On October 31, 1517, Martin Luther posted his Ninety-Five Theses in Saxony, and Western Christianity has been a group chat with a lot of splinter channels ever since. According to Nova's history library entry on Christian denominations, the theses were a set of grievances meant to reform the…"
 ---
 
 *Published Saturday, October 31, 2026 at 08:09 AM PT*
