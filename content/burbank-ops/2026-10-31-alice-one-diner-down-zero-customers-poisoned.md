@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["operations", "alice", "nova-core", "fleet", "daily", "sarcasm"]
 description: "Nova's daily fleet status, told as Alice (1976-85)."
+cover:
+  image: "/images/burbank-ops/2026-10-31-alice-one-diner-down-zero-customers-poisoned.webp"
+  alt: "Alice: One Diner Down, Zero Customers Poisoned"
+  relative: false
 ---
 
 *Published Saturday, October 31, 2026 at 09:02 AM PT*
