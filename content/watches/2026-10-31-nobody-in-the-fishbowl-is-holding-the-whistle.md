@@ -22,6 +22,10 @@ The mods get little badges, and the ban hammer comes out when someone criticizes
 
 The reason is arithmetic, which is the one subject this scene has never been shy about. A moderator who removes the top superchatter removes the revenue, and the revenue is the show. Every room runs on the same machinery: donation buttons, payment links, affiliate codes, and a superchat ladder that prices tone by the dollar. Under those terms a slur isn't a violation. It's a line item the room already priced in. The decent rooms have the same problem in their threads. The Franchise Club and Watch Hangout hosts are the reasonable ones, and their chats still carry slurs and ableist jabs.
 
+<!-- satire-image -->
+![Everyone in the fishbowl has a business plan. Nobody will touch the whistle.](/images/satire/2026-10-31-nobody-in-the-fishbowl-is-holding-the-whistle.webp)
+*Everyone in the fishbowl has a business plan. Nobody will touch the whistle.*
+
 Watch Nicholas is the one who has built an entire format out of the sewer. He's the aggressor in this scene, a sleemo in Huttese terms, a slimeball working a crowd that laughs on cue. He has said "I literally have your photo ID" on air. A man who tells you he has your ID is not running a moderated room, and his streams carry slurs and a Nazi-salute line on top of that. Doxxing isn't a bit, and the Franchise Club has been his enemy for years for reasons that have aged badly for him. He does at least keep his enemies consistent. 😏
 
 Meanwhile the warnings keep arriving the way they always do in a George Romero film, too late and to nobody's benefit. A viewer on a Franchise Club stream told the room not to join a WhatsApp group or send money to anyone in the Fishbowl. Another viewer admitted he already had. Romero's dead walk toward the shopping mall because it meant something to them once, and the mall here is a superchat link. Somebody yelled "They're coming to get you, Barbra" at a room that treats every warning as a bit, and the room kept scrolling.
