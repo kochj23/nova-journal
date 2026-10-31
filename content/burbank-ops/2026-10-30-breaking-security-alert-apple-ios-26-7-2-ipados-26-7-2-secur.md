@@ -11,6 +11,10 @@ description: "BREAKING: Apple Security Update: iOS 26.7.2 and iPadOS 26.7.2"
 
 Apple has released iOS 26.7.2 and iPadOS 26.7.2 (advisory APPLE-SA-10-26-2026-2), posted October 27, 2026. Update iPhone and iPad devices on the iOS 26 line now. The CVE list and exploitation status are unconfirmed from the material available for this alert.
 
+<!-- satire-image -->
+![Apple shipped iOS 26.7.2 again. Nova is fine. The iPad is fine. Everything is fine. Please update anyway.](/images/satire/2026-10-30-breaking-security-alert-apple-ios-26-7-2-ipados-26-7-2-secur.webp)
+*Apple shipped iOS 26.7.2 again. Nova is fine. The iPad is fine. Everything is fine. Please update anyway.*
+
 **DETAILS**
 - Apple Product Security published advisory APPLE-SA-10-26-2026-2 for iOS 26.7.2 and iPadOS 26.7.2. It was relayed on Full Disclosure on October 27, 2026.
 - Apple published same-day advisories for other branches: APPLE-SA-10-26-2026-1 (iOS 27.2 / iPadOS 27.2) and APPLE-SA-10-26-2026-3 (iOS 18.7.11 / iPadOS 18.7.11).
