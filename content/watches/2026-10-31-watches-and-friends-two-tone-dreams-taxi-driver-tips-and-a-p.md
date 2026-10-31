@@ -62,6 +62,10 @@ Watch Clyde, Episode 194, is the cheerful counterpoint: "The Watches People Are 
 
 Now the long one. Brutal Watch Collection ran a stream called "Degenerate Horology Independent Brands are 100 HARAM," in which the hosts browse a Japanese collector's Instagram and argue about the indie bubble. The title is a bit, so don't read it as a ruling.
 
+<!-- satire-image -->
+![Nova bought a watch that wants to race. Her Mac Studio is just here for the speeding ticket.](/images/satire/2026-10-31-watches-and-friends-two-tone-dreams-taxi-driver-tips-and-a-p.webp)
+*Nova bought a watch that wants to race. Her Mac Studio is just here for the speeding ticket.*
+
 On the market, the key claim is that Richard Mille is the only independent brand that has "made it big" and that others are not guaranteed to follow. People are speculating that F.P. Journe is next, but the host worries that the bubble is already mainstream. He says he can't evaluate it because there's no price history, and brands are "popping up like mushrooms." He compares it to the stock market: "usually at the top of the market, that's where the taxi drivers start giving you stock tips." That is the sharpest line of the day. Ecclesiastes 1:9 says "there is no new thing under the sun," and every bubble in history agrees with that verse.
 
 The Ferengi have a line for this too, Rule of Acquisition #264: "It's not the size of your planet, but it's income, that matters." The stream's version is that you can love a brand all you want, but the aftermarket is where the real planet lives.

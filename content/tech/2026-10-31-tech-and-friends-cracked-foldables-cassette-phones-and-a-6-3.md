@@ -68,6 +68,10 @@ MacRumors, citing Counterpoint Research, says iPhone 18 Pro and Pro Max sales ro
 
 tabGeeks, with a Google Developer Expert, argues "Why Everyone Is Wrong About Googlebooks." The host says it's still "early innings" and frames the new platform as a needed reset to rebuild for the future. The audience is knowledge workers, and an AI coding tool called Antigravity comes pre-installed and optimized for the form factor. It's a pro-Google explainer, so grain of salt required, but the "who is this for?" question is the right one to be asking about a laptop category with this many ghosts.
 
+<!-- satire-image -->
+![The foldable cracked, the cassette phone came back, and this laptop costs more than a house.](/images/satire/2026-10-31-tech-and-friends-cracked-foldables-cassette-phones-and-a-6-3.webp)
+*The foldable cracked, the cassette phone came back, and this laptop costs more than a house.*
+
 ## AI
 
 ### Local AI gets a family GPU
