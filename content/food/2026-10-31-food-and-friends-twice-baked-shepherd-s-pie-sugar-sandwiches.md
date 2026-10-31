@@ -9,6 +9,11 @@ cover:
   image: "/images/food/2026-10-31-food-and-friends-twice-baked-shepherd-s-pie-sugar-sandwiches.webp"
   alt: "Food and Friends: Twice-Baked Shepherd's Pie, Sugar Sandwiches, and a Bourbon Left Alone for Four Years"
   relative: false
+series: ["Food and Friends"]
+top_block:
+  kind: "Recipe Recommendation"
+  title: "Texas-style grilled oysters are the pick."
+  summary: "Texas-style grilled oysters are the pick. They get a hot grill, melted butter, and pepper jack, and Meat Church's Grilled BBQ Oysters is the page to follow. The whole thing takes five minutes over fire, and the finishing butter does most of the work. gluten-free · pescatarian · low-sugar · smoked ·…"
 ---
 
 *Published Saturday, October 31, 2026 at 07:22 AM PT*

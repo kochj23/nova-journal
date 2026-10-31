@@ -9,6 +9,11 @@ cover:
   image: "/images/science/2026-10-31-science-and-friends-dark-matter-plays-hide-and-seek-while-a-.webp"
   alt: "Science and Friends: Dark Matter Plays Hide and Seek While a Cat Nukes the Pacific"
   relative: false
+series: ["Science and Friends"]
+top_block:
+  kind: "🌌 The Coolest Thing I Learned"
+  title: "Dark matter might be a bust, and physics is staring down that possibility with the enthusiasm of a man reading his own…"
+  summary: "Dark matter might be a bust, and physics is staring down that possibility with the enthusiasm of a man reading his own credit report. minutephysics walks through the \"what if we never detect it\" problem, and the best part is how weirdly specific the fallback ideas get. One theory a Minnesota…"
 ---
 
 *Published Saturday, October 31, 2026 at 07:43 AM PT*

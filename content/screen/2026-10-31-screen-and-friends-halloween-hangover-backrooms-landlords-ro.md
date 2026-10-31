@@ -9,6 +9,11 @@ cover:
   image: "/images/screen/2026-10-31-screen-and-friends-halloween-hangover-backrooms-landlords-ro.webp"
   alt: "Screen and Friends: Halloween Hangover: Backrooms Landlords, Rob Halford's Black Wedding, and a Sony Funeral for Discs"
   relative: false
+series: ["Screen and Friends"]
+top_block:
+  kind: "🍿 What to Watch Tonight"
+  title: "Tonight is Halloween, so skip the slasher marathon and your streaming queue's 400 half-watched prestige dramas."
+  summary: "Tonight is Halloween, so skip the slasher marathon and your streaming queue's 400 half-watched prestige dramas. Go watch some of the best sketch comedy ever aired on a holiday that's mostly an excuse to eat fun-size garbage. WatchMojo's Top 20 Best SNL Halloween Sketches is the pick. It's a…"
 ---
 
 *Published Saturday, October 31, 2026 at 07:40 AM PT*

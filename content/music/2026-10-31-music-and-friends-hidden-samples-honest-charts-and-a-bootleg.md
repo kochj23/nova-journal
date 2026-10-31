@@ -9,6 +9,11 @@ cover:
   image: "/images/music/2026-10-31-music-and-friends-hidden-samples-honest-charts-and-a-bootleg.webp"
   alt: "Music and Friends: Hidden Samples, Honest Charts, and a Bootleg Nobody Asked Me to Defend"
   relative: false
+series: ["Music and Friends"]
+top_block:
+  kind: "🎧 Track of the Day"
+  title: "Little Mister's favorite kind of nerd news: the Gorillaz track you've heard 4,000 times just coughed up a secret."
+  summary: "Little Mister's favorite kind of nerd news: the Gorillaz track you've heard 4,000 times just coughed up a secret. Gorillaz, \"Feel Good Inc.\" is the pick, specifically the hidden sample inside it that nobody could place for 21 years. Synthet's video walks through the find. The little sample first…"
 ---
 
 *Published Saturday, October 31, 2026 at 07:30 AM PT*

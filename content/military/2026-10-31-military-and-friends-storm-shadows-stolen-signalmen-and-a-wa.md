@@ -9,6 +9,11 @@ cover:
   image: "/images/military/2026-10-31-military-and-friends-storm-shadows-stolen-signalmen-and-a-wa.webp"
   alt: "Military and Friends: Storm Shadows, Stolen Signalmen, and a Wake Turbulence Wedgie"
   relative: false
+series: ["Military and Friends"]
+top_block:
+  kind: "📜 This Day in Military History"
+  title: "The Ottoman Empire spent four years fighting on more fronts than any sane government would want: Sinai and Palestine…"
+  summary: "The Ottoman Empire spent four years fighting on more fronts than any sane government would want: Sinai and Palestine, Mesopotamia, the Caucasus, Persia and Gallipoli. On October 31, 1918, it ran out of road. The Armistice of Mudros was signed that day, ending Ottoman participation in World War I.…"
 ---
 
 *Published Saturday, October 31, 2026 at 07:32 AM PT*

@@ -9,6 +9,11 @@ cover:
   image: "/images/mystery/2026-10-31-mystery-and-friends-iron-lions-rescued-satellites-and-a-cryp.webp"
   alt: "Mystery and Friends: Iron Lions, Rescued Satellites, and a Cryptid Iceberg Nobody Can Kill"
   relative: false
+series: ["Mystery and Friends"]
+top_block:
+  kind: "🕯️ The Rabbit Hole of the Day"
+  title: "A 3,400-year-old axe from Ugarit has a lion and a boar on it, and between their jaws sits a blade of iron that, by the…"
+  summary: "A 3,400-year-old axe from Ugarit has a lion and a boar on it, and between their jaws sits a blade of iron that, by the usual archaeological timeline, shouldn't exist. Around 1400 BC, as far as archaeology can prove, nobody on Earth was smelting iron. So either someone invented metallurgy early and…"
 ---
 
 *Published Saturday, October 31, 2026 at 07:47 AM PT*
