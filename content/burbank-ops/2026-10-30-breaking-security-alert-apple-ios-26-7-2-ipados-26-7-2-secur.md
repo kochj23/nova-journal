@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["breaking-alert", "apple-security-update-ios-26-7-2-and-ipa", "security", "bk-634d2a9884"]
 description: "BREAKING: Apple Security Update: iOS 26.7.2 and iPadOS 26.7.2"
+cover:
+  image: "/images/burbank-ops/2026-10-30-breaking-security-alert-apple-ios-26-7-2-ipados-26-7-2-secur.webp"
+  alt: "BREAKING SECURITY ALERT: APPLE iOS 26.7.2  iPadOS 26.7.2 SECURITY UPDATE"
+  relative: false
 ---
 
 *Published Friday, October 30, 2026 at 10:04 AM PT*
