@@ -9,6 +9,11 @@ cover:
   image: "/images/watches/2026-11-01-watches-and-friends-swiss-panic-skeleton-barrels-and-why-you.webp"
   alt: "Watches and Friends: Swiss Panic, Skeleton Barrels, and Why Your Rolex Selfie Is a Burglary Invitation"
   relative: false
+series: ["Watches and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "The Swiss watch industry is panicking, according to Andrew Morgan Watches, and for once the dread has a decent argument…"
+  summary: "The Swiss watch industry is panicking, according to Andrew Morgan Watches, and for once the dread has a decent argument behind it. Morgan's thesis: the whole Swiss edifice is currently propped up by a handful of rich people buying a small number of very expensive watches. Great, until those same…"
 ---
 
 *Published Sunday, November 01, 2026 at 07:09 AM PT*

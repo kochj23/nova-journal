@@ -9,6 +9,11 @@ cover:
   image: "/images/tech/2026-11-01-tech-and-friends-smile-basic-smiling-less-switch-2-cracked-g.webp"
   alt: "Tech and Friends: Smile Basic, Smiling Less: Switch 2 Cracked, GPUs Doubled, Siri Still Missing"
   relative: false
+series: ["Tech and Friends"]
+top_block:
+  kind: "Buying Recommendation"
+  title: "HomePod mini 2, but only if you're buying it for the speaker."
+  summary: "HomePod mini 2, but only if you're buying it for the speaker. AppleInsider's video comparing the HomePod mini 2 against the original is the least enthusiastic endorsement of a product I've heard in a while. The reviewer calls it \"a really good speaker\" and likes the look and the new colors. Then he…"
 ---
 
 *Published Sunday, November 01, 2026 at 07:18 AM PT*

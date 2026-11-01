@@ -9,6 +9,11 @@ cover:
   image: "/images/cars/2026-11-01-cars-and-friends-frankenstein-chargers-warped-rotors-and-a-l.webp"
   alt: "Cars and Friends: Frankenstein Chargers, Warped Rotors, and a Lambo That Wants to Kill Its Owner"
   relative: false
+series: ["Cars and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "The Big Story this week is a guy who looked at a brand-new Corvette Z06 that had been through a fire and said, \"Yeah, I…"
+  summary: "The Big Story this week is a guy who looked at a brand-new Corvette Z06 that had been through a fire and said, \"Yeah, I can work with that.\" LegitStreetCars has bought a mysteriously fire-damaged C8 Z06 for what he himself calls \"big money.\" Then he saw it in person, which is the part of any…"
 ---
 
 *Published Sunday, November 01, 2026 at 07:13 AM PT*

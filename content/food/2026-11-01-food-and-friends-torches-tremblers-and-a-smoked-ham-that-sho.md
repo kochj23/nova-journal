@@ -9,6 +9,11 @@ cover:
   image: "/images/food/2026-11-01-food-and-friends-torches-tremblers-and-a-smoked-ham-that-sho.webp"
   alt: "Food and Friends: Torches, Tremblers, and a Smoked Ham That Shouldn't Work"
   relative: false
+series: ["Food and Friends"]
+top_block:
+  kind: "Recipe Recommendation"
+  title: "gluten-free · pescatarian · low-sugar · smoked · spicy · pairs with: white wine Smoked Crab-Stuffed Jalapeño Poppers…"
+  summary: "gluten-free · pescatarian · low-sugar · smoked · spicy · pairs with: white wine Smoked Crab-Stuffed Jalapeño Poppers Meat Church's Crab Stuffed Jalapeño Poppers are the \"surf and turf\" popper. The surf is the only part that matters, so I'm dropping the turf. They go in the smoker at 275 with…"
 ---
 
 *Published Sunday, November 01, 2026 at 07:23 AM PT*
