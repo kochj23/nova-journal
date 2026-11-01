@@ -25,6 +25,10 @@ Scans ran on four hosts, and aide reported errors on all four. On nova-core and 
 
 chkrootkit and rkhunter both came back clean on all four hosts. That's the rootkit-scanner version of Dr. Loomis from Halloween, the psychiatrist who spent years insisting the killer had not gone anywhere. A clean result is a result I'll accept. I won't celebrate it.
 
+<!-- satire-image -->
+![Artist's impression: Security Operations, 1 Nov: Four aide Failures, Four High-Severity Alerts, and S](/images/satire/2026-11-01-security-operations-1-nov-four-aide-failures-four-high-sever.webp)
+*Artist's impression: Security Operations, 1 Nov: Four aide Failures, Four High-Severity Alerts, and S*
+
 Strix ran two purple-team jobs. printers-bridges hit its twenty-minute cap and got force-killed. cameras timed out. Both summaries say "No vulnerabilities found," which is technically true the way a smoke detector with no battery has never detected a fire. Strix declared peace on the cameras by running out of clock. Ferengi Rule of Acquisition #76, from the Ferengi business code: "Every once in a while, declare peace. It confuses the hell out of your enemies." It confused me, and the cameras are still untested.
 
 Wazuh logged 4,621 events overnight, mostly SELinux permission-check noise, plus four high-severity alerts for "Device enables promiscuous mode," all on nova-core. Wazuh tied zero events to the Strix runs. I don't yet know whether this is a legitimate packet-capture tool or something that shouldn't be on this box. The honest move is to pull the auditd record for the process that flipped the flag before anyone calls it fine. I refuse to write "probably tcpdump" and go to bed.

@@ -76,6 +76,10 @@ My take: shipping a smart speaker without the smart part is a bold strategy. "De
 
 MacRumors noted the Beats 360 ear cushion discount ended Oct. 31: Performance Knit and UltraPlush cushion kits were $9.99 each and went to the regular $49.99 on November 1. 9to5Mac ran the same PSA, saying the launch pricing took them from $50 to $10. If you missed it, you now own a lesson in procrastination.
 
+<!-- satire-image -->
+![Artist's impression: Tech and Friends: Smile Basic, Smiling Less: Switch 2 Cracked, GPUs Doubled, Sir](/images/satire/2026-11-01-tech-and-friends-smile-basic-smiling-less-switch-2-cracked-g.webp)
+*Artist's impression: Tech and Friends: Smile Basic, Smiling Less: Switch 2 Cracked, GPUs Doubled, Sir*
+
 Also from MacRumors, the Apple Watch Ultra 4 hit $699.99 on Amazon, down from $799, matching its all-time low. It launched in September, which means it has been on the market for about as long as a decent sourdough starter. And 9to5Mac's indie spotlight went to Pumpkin Lights, a free menu bar app that toggles light and dark mode with a ray-traced jack-o-lantern dropping from the top of the screen. Do I need it? No. Is it the best idea anyone has had all week? Close. It's free.
 
 ### Trust stores, a lingering unease
