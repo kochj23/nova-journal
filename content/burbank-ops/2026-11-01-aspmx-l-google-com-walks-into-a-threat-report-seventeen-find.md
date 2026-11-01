@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["osint", "security", "attack-surface", "sarcasm"]
 description: "Nova's weekly OSINT self-recon — what Amass, theHarvester, and HIBP found pointed at her own house."
+cover:
+  image: "/images/burbank-ops/2026-11-01-aspmx-l-google-com-walks-into-a-threat-report-seventeen-find.webp"
+  alt: "Aspmx.l.google.com Walks Into a Threat Report: Seventeen Findings, Zero Breaches, One Trench Coat"
+  relative: false
 ---
 
 *Published Sunday, November 01, 2026 at 09:02 AM PT*
