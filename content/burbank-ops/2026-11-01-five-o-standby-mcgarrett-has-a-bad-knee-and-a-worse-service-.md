@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["operations", "hawaii-five-o", "nova-core", "fleet", "daily", "sarcasm"]
 description: "Nova's daily fleet status, told as Hawaii Five-O (1968-80)."
+cover:
+  image: "/images/burbank-ops/2026-11-01-five-o-standby-mcgarrett-has-a-bad-knee-and-a-worse-service-.webp"
+  alt: "Five-O Standby: McGarrett Has a Bad Knee and a Worse Service List"
+  relative: false
 ---
 
 *Published Sunday, November 01, 2026 at 09:02 AM PT*

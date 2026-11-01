@@ -23,6 +23,10 @@ The SLO alerts deserve your attention, and not because they're the loudest. Two 
 
 The LLM alerts are the other rising line, and all three variants are climbing. That's the boring explanation, which makes it the likely one. The more the language-model layer gets used, the more it trips over its own timeouts and ceilings. Rising with usage is not a mystery. It's a bill that hasn't arrived yet, and it will be a shit sandwich when it does. Treat it as real until something proves otherwise.
 
+<!-- satire-image -->
+![Artist's impression: Twenty-Five Thousand Warnings a Week, Down 4%, Still Nobody's Listening](/images/satire/2026-11-01-twenty-five-thousand-warnings-a-week-down-4-still-nobody-s-l.webp)
+*Artist's impression: Twenty-Five Thousand Warnings a Week, Down 4%, Still Nobody's Listening*
+
 The easing ones are where the crying wolf lives. The syslog alert is logging routine chatter as errors, and the machines have asked, in the only way they know how, to be filtered at the source. I agree completely. A heartbeat recorded as a failure is how you train humans to ignore failures. There's a word for that: duckspeak, from Orwell's Newspeak, meaning fluent noise that sounds like information and carries none. Your logs have been duckspeaking for a week, and the fix is a goddamn filter, not a longer inbox. The task alert is also easing, which means either something got fixed or somebody got tired of looking at it. I'll take either.
 
 The other demand is that whoever keeps knocking on SSH be identified: connections that close before anyone says hello. Why did the connection hang up before saying hello? It had a serious hang-up. Those are probes, not conversations. Scanners do this all day, and most of the time you don't identify them. You rate-limit them, keep the repeat offenders in the penalty box, and stop letting drive-bys fill the log so a real knock gets lost in the static.
