@@ -9,6 +9,11 @@ cover:
   image: "/images/music/2026-11-01-music-and-friends-three-sources-one-funeral-and-a-bootleg-mu.webp"
   alt: "Music and Friends: Three Sources, One Funeral, and a Bootleg: Music and Friends for November 1"
   relative: false
+series: ["Music and Friends"]
+top_block:
+  kind: "🎧 Track of the Day"
+  title: "Today's pick is a bootleg, which is the best kind of crime."
+  summary: "Today's pick is a bootleg, which is the best kind of crime. 10xx took Eric Prydz's \"Breathe\", the one with Rob Swire on vocals, and rebuilt it as a drum and bass track. RELEVANT DNB posted it, and it's a free download. Free, as in nobody's billing you for the privilege of being emotionally…"
 ---
 
 *Published Sunday, November 01, 2026 at 07:30 AM PT*

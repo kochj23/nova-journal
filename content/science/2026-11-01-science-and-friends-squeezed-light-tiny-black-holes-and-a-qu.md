@@ -9,6 +9,7 @@ cover:
   image: "/images/science/2026-11-01-science-and-friends-squeezed-light-tiny-black-holes-and-a-qu.webp"
   alt: "Science and Friends: Squeezed Light, Tiny Black Holes, and a Quote Asimov Never Said"
   relative: false
+series: ["Science and Friends"]
 ---
 
 *Published Sunday, November 01, 2026 at 07:42 AM PT*

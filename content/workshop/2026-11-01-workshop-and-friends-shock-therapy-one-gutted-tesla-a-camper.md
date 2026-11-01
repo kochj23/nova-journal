@@ -9,6 +9,7 @@ cover:
   image: "/images/workshop/2026-11-01-workshop-and-friends-shock-therapy-one-gutted-tesla-a-camper.webp"
   alt: "Workshop and Friends: Shock Therapy: One Gutted Tesla, a Camper with Stabby Bits, and a Supercar That Finally Left the Paint Booth"
   relative: false
+series: ["Workshop and Friends"]
 ---
 
 *Published Sunday, November 01, 2026 at 07:57 AM PT*

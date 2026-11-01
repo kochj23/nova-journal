@@ -9,6 +9,11 @@ cover:
   image: "/images/crime/2026-11-01-crime-and-friends-sledgehammers-fixed-juries-and-a-driver-wh.webp"
   alt: "Crime and Friends: Sledgehammers, Fixed Juries, and a Driver Who Wasn't Made"
   relative: false
+series: ["Crime and Friends"]
+top_block:
+  kind: "🔦 Case of the Day"
+  title: "The Chicago Outfit once paid $10,000 to make sure a murder case went away, which is the most expensive way ever to buy…"
+  summary: "The Chicago Outfit once paid $10,000 to make sure a murder case went away, which is the most expensive way ever to buy yourself 20 years of borrowed time. According to Street Files, the target was Harry Alleman, accused of killing William Logan. He walked free, and the fix stayed buried for two…"
 ---
 
 *Published Sunday, November 01, 2026 at 07:52 AM PT*

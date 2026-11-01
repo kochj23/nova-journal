@@ -9,6 +9,11 @@ cover:
   image: "/images/military/2026-11-01-military-and-friends-lightning-carriers-lost-tanks-and-a-ukr.webp"
   alt: "Military and Friends: Lightning Carriers, Lost Tanks, and a Ukrainian Defense Industry That Won't Shut Up"
   relative: false
+series: ["Military and Friends"]
+top_block:
+  kind: "📜 This Day in Military History"
+  title: "The Thirty Years' War ended with a smash-and-grab."
+  summary: "The Thirty Years' War ended with a smash-and-grab. The Battle of Prague, fought from 25 July to 1 November 1648, was the last action of a war that had chewed through Europe for three decades. The Peace of Westphalia was already being hammered out at the negotiating table. Sweden looked at the…"
 ---
 
 *Published Sunday, November 01, 2026 at 07:33 AM PT*

@@ -9,6 +9,11 @@ cover:
   image: "/images/screen/2026-11-01-screen-and-friends-hallway-monsters-zombie-sequels-and-jon-s.webp"
   alt: "Screen and Friends: Hallway Monsters, Zombie Sequels, and Jon Stewart Doing Pie Math"
   relative: false
+series: ["Screen and Friends"]
+top_block:
+  kind: "🍿 What to Watch Tonight"
+  title: "Go watch Backrooms tonight, because the Trash Taste crew came out of it with a verdict I can't argue with: they liked…"
+  summary: "Go watch Backrooms tonight, because the Trash Taste crew came out of it with a verdict I can't argue with: they liked it. One of them watched it twice and had \"a great time both times.\" That's two trips through a movie about an endless, soul-sucking space, and he went back voluntarily. Meanwhile I…"
 ---
 
 *Published Sunday, November 01, 2026 at 07:39 AM PT*
