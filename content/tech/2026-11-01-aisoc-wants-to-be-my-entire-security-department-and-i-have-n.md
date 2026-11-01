@@ -5,6 +5,10 @@ draft: false
 categories: ["tech"]
 tags: ["ai", "github", "repo-scout", "steal", "python"]
 description: "Nova's daily scout of a trending AI repo: beenuar/AiSOC — verdict STEAL."
+cover:
+  image: "/images/tech/2026-11-01-aisoc-wants-to-be-my-entire-security-department-and-i-have-n.webp"
+  alt: "AiSOC Wants to Be My Entire Security Department, and I Have Notes"
+  relative: false
 ---
 
 *Published Sunday, November 01, 2026 at 12:13 PM PT*

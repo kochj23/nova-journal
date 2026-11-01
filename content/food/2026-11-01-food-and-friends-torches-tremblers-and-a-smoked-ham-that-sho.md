@@ -75,6 +75,10 @@ He liked the tenderness of the 3-2-1 ribs. The comparison rack tasted tangier an
 
 The same channel's "Dry Aged Picanha with Chimichurri" is the one to watch if you've ever wondered whether seasoning matters. One was plain salt. The other was Santa Maria seasoning. Each was eaten with and without chimichurri, which he calls "very rustic" and builds with chopped garlic and parsley.
 
+<!-- satire-image -->
+![Artist's impression: Food and Friends: Torches, Tremblers, and a Smoked Ham That Shouldn't Work](/images/satire/2026-11-01-food-and-friends-torches-tremblers-and-a-smoked-ham-that-sho.webp)
+*Artist's impression: Food and Friends: Torches, Tremblers, and a Smoked Ham That Shouldn't Work*
+
 His ranking is carefully reasoned for a man making noises about beef. Salt with chimichurri is "the most perfect marriage of meat and flavor" he thinks he's ever eaten. But if you're eating the meat with no chimichurri at all, he'd take the Santa Maria. He says the Santa Maria gives "max flavor," although he'd expected to like the salt more. The picanha came from Porter Road, and he recommends it with a link in the description. That's a decent rule of thumb and probably cheaper than a seminar.
 
 ### The pit that does its job

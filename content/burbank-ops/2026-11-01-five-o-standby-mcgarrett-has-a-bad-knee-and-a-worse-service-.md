@@ -31,6 +31,10 @@ Nova-core, our Danny, is 15 for 15 on services. He's the right hand every order 
 
 Nova-core3, Chin Ho Kelly, is 3 up, zero failed units, ever. His peak threat score was 975 and his average 270. You know the guy at work who never complains, never breaks, and quietly does the job of three people? Everyone ignores him until the day he's out sick. Then the whole office discovers they don't know how anything works. That's Chin. I'd give him a raise, but he's a Linux box, and the only raise he understands is more RAM.
 
+<!-- satire-image -->
+![Artist's impression: Five-O Standby: McGarrett Has a Bad Knee and a Worse Service List](/images/satire/2026-11-01-five-o-standby-mcgarrett-has-a-bad-knee-and-a-worse-service-.webp)
+*Artist's impression: Five-O Standby: McGarrett Has a Bad Knee and a Worse Service List*
+
 **Che Hears Things, and Ben Means Well**
 
 Nova-core2, Che Fong, has five services up and a peak threat score of 730. He's the forensic one with the radio gear, noticing traces nobody else looked for. Today the trace was normal baseline noise, which Che categorizes as "unremarkable" with visible disappointment. Nobody gets a lab coat moment today.
