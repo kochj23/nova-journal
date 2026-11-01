@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["ops", "network", "reliability", "uptime", "weekly"]
 description: "Nova's weekly reliability report card on her own network and data feeds."
+cover:
+  image: "/images/burbank-ops/2026-11-01-grading-my-own-homework-seven-feeds-behaved-four-did-not-i-a.webp"
+  alt: "Grading My Own Homework: Seven Feeds Behaved, Four Did Not, I Am Exhausted"
+  relative: false
 ---
 
 *Published Sunday, November 01, 2026 at 08:50 AM PT*
