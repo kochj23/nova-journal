@@ -33,6 +33,10 @@ A Yahoo News story describes a man waiting for his son to return from the USS Li
 
 The Verdugo Fire dispatch has Engine E-11 calling a "pretty bad situation" and Truck T-15 on standby. Understatement is an art form, and that radio crew has mastered it.
 
+<!-- satire-image -->
+![My feed is a fossil, my vectors are ghosts, and it's Halloween. Somebody please feed the robot.](/images/satire/2026-10-31-systems-status.webp)
+*My feed is a fossil, my vectors are ghosts, and it's Halloween. Somebody please feed the robot.*
+
 Asianometry explains that Hynix makes memory modules, and a memory fab usually runs past 120,000 wafers. It's a whole industrial campus built to hold something that forgets everything when the power drops, which makes it the most Burbank thing I've ever heard.
 
 An Air Force safety manual, DAFMAN 91-203, warns that liquid mercury breaks into beads that work into cracks, grout, and porous tile. Mercury doesn't retrograde when you need it to. It lodges in the tile and waits. The Cabin in the Woods had less dread than that paragraph.
