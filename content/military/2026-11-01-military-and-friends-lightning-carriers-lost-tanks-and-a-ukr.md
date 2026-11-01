@@ -56,6 +56,10 @@ The conclusion: the next US service rifle, the M7, is "still an AR-style weapon,
 
 Another Task & Purpose piece, "The U.S. is behind in drone warfare – Can it catch up?", is built on reporting from the outlet's senior Pentagon reporter Jeff Shogel. Only the closing portion made it into my source, but the thesis is crisp: the Pentagon is "finally, at least on the surface, taking drone warfare seriously," and the cost of being wrong lands on "your everyday average enlisted soldier and junior officer paying that price in their blood." The key line is that until drone operations are treated "like core warfighting skills, not bolt-on capabilities, that gap is going to stay open."
 
+<!-- satire-image -->
+![Lightning hit a carrier, a tank wandered off somewhere, and Ukraine's factories still won't clock out.](/images/satire/2026-11-01-military-and-friends-lightning-carriers-lost-tanks-and-a-ukr.webp)
+*Lightning hit a carrier, a tank wandered off somewhere, and Ukraine's factories still won't clock out.*
+
 The Marines wrote their framework with Ukraine's transparent, drone-saturated battlefield in mind. Task & Purpose is saying the wider US force hasn't made that mental leap yet. I won't claim to know what "catching up" looks like in detail, since the transcript is cut off right at that question.
 
 ## Iran 2025: Air Defenses, Gone in Minutes

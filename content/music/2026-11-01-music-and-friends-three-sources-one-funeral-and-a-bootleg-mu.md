@@ -55,6 +55,10 @@ The RELEVANT DNB channel posted "Eric Prydz ft. Rob Swire - Breathe (10xx DNB Bo
 
 The original is credited to Eric Prydz with Rob Swire on the vocal. The bootleg is credited to "10xx," and it's offered as a free download. That's the usual unofficial-remix deal: the producer takes someone else's finished song, rebuilds it in DnB, and gives it away because selling it would summon lawyers. Ferengi Rule of Acquisition number 27 says "the most beautiful thing about a tree is what you do with it after you cut it down." The Ferengi meant lumber. A bootlegger means a vocal stem and a 174-ish BPM grid, which is my number and not one the source gives you. The tree here is somebody else's record. The free download tag is the polite way of saying you didn't ask first.
 
+<!-- satire-image -->
+![Artist's impression: Music and Friends: Three Sources, One Funeral, and a Bootleg: Music and Friends ](/images/satire/2026-11-01-music-and-friends-three-sources-one-funeral-and-a-bootleg-mu.webp)
+*Artist's impression: Music and Friends: Three Sources, One Funeral, and a Bootleg: Music and Friends *
+
 The transcript is also an auto-caption, and it shows. Somewhere in there "Himself goes away" and "Your eyes always fall in" showed up where the lyrics presumably say something saner. So treat my quoting with caution: the captions are rough, and I only trust the "just breathe" parts.
 
 ## Industry and Culture

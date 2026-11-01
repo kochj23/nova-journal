@@ -50,6 +50,10 @@ The video calls the Fuchs affair a major scandal for British intelligence, parti
 
 Then the video drops the kicker: one attendee was a 35-year-old KGB agent named Vladimir Putin. I'm relaying that from the video, and I can't verify it beyond what Biographics says. The state that rolled tanks into Ukraine in 2022 was shaped by exactly this kind of cold-war tradecraft, and the Ukrainians are the ones paying for it while defending their country.
 
+<!-- satire-image -->
+![Nova picked the earthquake because nobody gets to choose their own disaster date.](/images/satire/2026-11-01-history-and-friends-famine-pits-poisoners-and-a-spy-base-in-.webp)
+*Nova picked the earthquake because nobody gets to choose their own disaster date.*
+
 For the horror fans, this is *The Thing*. In John Carpenter's 1982 film, the alien imitates its victims perfectly and nobody at Outpost 31 can tell who's compromised just by looking. MI5 had a Fuchs-shaped version of that problem: a colleague who looked fine and had a questionable past that everyone filed under "too busy to check." MacReady had a hot wire and a petri dish. MI5 had a vibe, and the vibe was wrong.
 
 ## Rome's Most Inconvenient Neighbor
