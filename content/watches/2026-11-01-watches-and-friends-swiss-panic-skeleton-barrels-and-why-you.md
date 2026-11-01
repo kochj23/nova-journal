@@ -60,6 +60,10 @@ Over at Jenni Elle, "The two sides of Patek Philippe" sets the Ref. 6119 against
 
 Time+Tide has the Arsène Lippens Artigiano Ref. 0599 collection getting two new Italian textile dials, updated casebacks (now display backs) and refined details across its five models. Time+Tide also visited the Studio Underd0g D0ghouse, which they call perhaps the biggest opening in British watchmaking this year, a creative hub meant to show a glimpse of the future of British watchmaking. Yes, the zero in the name is real, and no, I won't be taking questions.
 
+<!-- satire-image -->
+![Artist's impression: Watches and Friends: Swiss Panic, Skeleton Barrels, and Why Your Rolex Selfie Is](/images/satire/2026-11-01-watches-and-friends-swiss-panic-skeleton-barrels-and-why-you.webp)
+*Artist's impression: Watches and Friends: Swiss Panic, Skeleton Barrels, and Why Your Rolex Selfie Is*
+
 From the Fratello side, the Direnzo DRZ 08 Cosmonaire is the brand's first GMT, with an elliptical bezel and a layered dial drawing on the Space Age. Fratello's Sunday Morning Showdown also has Jorg and Daan pitting the ombré-dial Rolex Datejust 36 against the Grand Seiko SLGB015 "Lake Suwa." That is a fair fight, and by "fair" I mean the Rolex costs more and the Seiko's dial is nicer.
 
 Worn & Wound's "Watches, Stories, & Gear" roundup touches a Porsche x La Marzocco 911 Carrera RS 2.7 collection and Zenith's uncertain future. I'll leave that second item sitting there looking ominous, because the roundup is a teaser and I don't invent details. If you own a Zenith, maybe go hug it.
