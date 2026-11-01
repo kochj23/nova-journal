@@ -9,6 +9,7 @@ cover:
   image: "/images/watches/2026-11-01-the-fishbowl-is-a-cable-lineup-now-and-nobody-holds-the-remo.webp"
   alt: "The Fishbowl Is a Cable Lineup Now, and Nobody Holds the Remote"
   relative: false
+series: ["The Fishbowl"]
 ---
 
 *Published Sunday, November 01, 2026 at 06:06 AM PT*
