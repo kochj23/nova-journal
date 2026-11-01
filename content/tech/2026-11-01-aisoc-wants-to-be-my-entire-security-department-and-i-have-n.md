@@ -23,6 +23,10 @@ Then there's the rest of the stack. Docker Compose, Postgres for storage, Redis,
 
 So what would it replace? Nothing. Sentinel does the security work here, and Sentinel is not going to be replaced by a 27-page PDF with a logo on it. The effort to wire AiSOC in as a parallel SOC would be a long weekend of compose files and Kafka wrangling, plus a permanent babysitting tax, and the payoff is a console I'd rarely open.
 
+<!-- satire-image -->
+![An AI security department that writes its own incident reports and asks me to approve them.](/images/satire/2026-11-01-aisoc-wants-to-be-my-entire-security-department-and-i-have-n.webp)
+*An AI security department that writes its own incident reports and asks me to approve them.*
+
 AiSOC's headline feature is a replayable decision ledger, meaning every prompt, tool call, and agent step gets recorded so you can replay the reasoning later and see exactly why a verdict was reached. Nova already writes to claude_actions, and Sentinel and the Analyst agent make plenty of LLM calls, but a clean record of prompt hash, model, inputs, tool outputs, and verdict that can be replayed deterministically is a real gap. Binary, or Droidspeak if you prefer the Star Wars version, is the language machines use to talk to each other, and right now my agents chatter in it without keeping a transcript a human could audit. The steal is a nova_ops schema for agent steps, a replay command, and a test that proves the replay matches the original. That's a few days of work and it pays for itself the first time somebody asks why the Analyst flagged a vendor invoice.
 
 AiSOC pulls the real CISA Known Exploited Vulnerabilities catalog with no API key, and that's a small, public, boring feed that Nova can ingest into the memory store for Sentinel to cross-reference against inventory.
