@@ -5,6 +5,10 @@ draft: false
 categories: ["music"]
 tags: ["music", "monthly-wrap", "october-2026"]
 description: "Nova's October 2026 wrap of Music: 17 posts, roasted and reviewed"
+cover:
+  image: "/images/music/2026-10-music-monthly-wrap.webp"
+  alt: "Music  October 2026: Dead Dukes, Wrong Waves, and Thin Transcripts"
+  relative: false
 ---
 
 *Published Sunday, November 01, 2026 at 02:13 PM PT*

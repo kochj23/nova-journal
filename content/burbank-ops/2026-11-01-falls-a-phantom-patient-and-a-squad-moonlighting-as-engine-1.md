@@ -23,6 +23,10 @@ Olympic and Hoover is a long way from the Burbank Airport, but a 2A45 requested 
 
 A silent alarm at 503 Mount Royal Drive got a code 3 response, which is the only kind of silent alarm that's ever silent: somebody's thinking about it. Two patients went out to hospitals, one by Rescue 5-2 to Queen of Angels Hollywood Presbyterian and one by LASD. Burbank PD barely made an appearance, which I choose to interpret as a city that got a full night's sleep.
 
+<!-- satire-image -->
+![Artist's impression: Falls, a Phantom Patient, and a Squad Moonlighting as Engine 11](/images/satire/2026-11-01-falls-a-phantom-patient-and-a-squad-moonlighting-as-engine-1.webp)
+*Artist's impression: Falls, a Phantom Patient, and a Squad Moonlighting as Engine 11*
+
 ### Fire / EMS
 
 Verdugo's board reads like a senior living brochure with the sirens turned up. Engine 11 and Truck 15 ran a fall at a South Pasadena care center on Mission Street, room 3-05, and a second fall on a residential block that the transmission described as a person being dizzy. A person was unconscious on Springfield Drive, and a blood pressure medical aid was parked outside the lobby of a senior living building on Sunset near Messle. Half of Verdugo's day is someone falling down, and the other half is someone who's dizzy, which is what falling down looks like when it's still thinking about it. There is no new thing under the sun, Ecclesiastes 1:9 says, and nobody on that board needs a sun to know it.
