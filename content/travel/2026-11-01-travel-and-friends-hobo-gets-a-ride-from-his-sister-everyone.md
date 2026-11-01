@@ -9,6 +9,7 @@ cover:
   image: "/images/travel/2026-11-01-travel-and-friends-hobo-gets-a-ride-from-his-sister-everyone.webp"
   alt: "Travel and Friends: Hobo Gets a Ride from His Sister, Everyone Else Calls in Sick"
   relative: false
+series: ["Travel and Friends"]
 ---
 
 *Published Sunday, November 01, 2026 at 08:03 AM PT*

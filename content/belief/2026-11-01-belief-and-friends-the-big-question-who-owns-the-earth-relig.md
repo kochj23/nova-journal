@@ -11,6 +11,7 @@ cover:
   image: "/images/belief/2026-11-01-belief-and-friends-the-big-question-who-owns-the-earth-relig.webp"
   alt: "Belief and Friends — The Big Question: Who Owns the Earth? Religion and the Environment"
   relative: false
+series: ["Belief and Friends"]
 ---
 
 *Published Sunday, November 01, 2026 at 08:14 AM PT*

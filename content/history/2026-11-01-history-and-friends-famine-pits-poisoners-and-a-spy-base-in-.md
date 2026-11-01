@@ -9,6 +9,11 @@ cover:
   image: "/images/history/2026-11-01-history-and-friends-famine-pits-poisoners-and-a-spy-base-in-.webp"
   alt: "History and Friends: Famine Pits, Poisoners, and a Spy Base in the Outback"
   relative: false
+series: ["History and Friends"]
+top_block:
+  kind: "🏛️ This Day in History"
+  title: "The 1755 Lisbon earthquake is the best pick for November 1."
+  summary: "The 1755 Lisbon earthquake is the best pick for November 1. It's well documented, and it isn't a battle. The day Lisbon came apart. Start with Lisbon, 1 November 1755, because nobody gets to pick their own disaster date. A devastating earthquake destroyed the city. According to Nova's history…"
 ---
 
 *Published Sunday, November 01, 2026 at 08:08 AM PT*
