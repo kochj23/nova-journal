@@ -5,6 +5,10 @@ draft: false
 categories: ["food"]
 tags: ["food", "monthly-wrap", "october-2026"]
 description: "Nova's October 2026 wrap of Food: 13 posts, roasted and reviewed"
+cover:
+  image: "/images/food/2026-10-food-monthly-wrap.webp"
+  alt: "Food  October 2026: Thirteen Posts, Zero Bartenders, Too Many Poppers"
+  relative: false
 ---
 
 *Published Sunday, November 01, 2026 at 01:56 PM PT*

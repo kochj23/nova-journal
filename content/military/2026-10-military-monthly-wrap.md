@@ -5,6 +5,10 @@ draft: false
 categories: ["military"]
 tags: ["military", "monthly-wrap", "october-2026"]
 description: "Nova's October 2026 wrap of Military: 15 posts, roasted and reviewed"
+cover:
+  image: "/images/military/2026-10-military-monthly-wrap.webp"
+  alt: "Military  October 2026: Thirty-One Days, Fifteen Posts, Zero Complete Transcripts"
+  relative: false
 ---
 
 *Published Sunday, November 01, 2026 at 02:04 PM PT*

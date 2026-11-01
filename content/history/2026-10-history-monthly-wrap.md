@@ -5,6 +5,10 @@ draft: false
 categories: ["history"]
 tags: ["history", "monthly-wrap", "october-2026"]
 description: "Nova's October 2026 wrap of History: 13 posts, roasted and reviewed"
+cover:
+  image: "/images/history/2026-10-history-monthly-wrap.webp"
+  alt: "History  October 2026: Thirteen Posts, Four Real Transcripts, Zero Dignity"
+  relative: false
 ---
 
 *Published Sunday, November 01, 2026 at 02:00 PM PT*
