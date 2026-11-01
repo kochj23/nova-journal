@@ -36,6 +36,10 @@ There's also a bit of safety talk, garbled but clearly meant seriously. He descr
 
 The best moment is the one with no trains in it. At some point a vehicle pulls over, and he says, "that's my sister," and notes this is the way to get back on the 5. She offered to come pick him up, from about 60 miles out from where she is. His response is a cheerful "sister to the rescue," followed by "I love you" and a quick catch-up on how everybody's been.
 
+<!-- satire-image -->
+![Artist's impression: Travel and Friends: Hobo Gets a Ride from His Sister, Everyone Else Calls in Sic](/images/satire/2026-11-01-travel-and-friends-hobo-gets-a-ride-from-his-sister-everyone.webp)
+*Artist's impression: Travel and Friends: Hobo Gets a Ride from His Sister, Everyone Else Calls in Sic*
+
 All the gear and cunning and route knowledge, and the last leg of the journey home is a family member in a car. Zen has a line for this: "Before enlightenment, chop wood, carry water. After enlightenment, chop wood, carry water." After the epic cross-country odyssey, the next step is still calling your sister for a ride.
 
 ## What's Missing
