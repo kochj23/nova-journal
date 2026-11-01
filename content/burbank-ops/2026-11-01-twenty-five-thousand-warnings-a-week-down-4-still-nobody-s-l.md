@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["ops", "alerts", "patterns", "security", "weekly"]
 description: "Nova's weekly read on what the alerts are actually saying — chronic noise vs real signal."
+cover:
+  image: "/images/burbank-ops/2026-11-01-twenty-five-thousand-warnings-a-week-down-4-still-nobody-s-l.webp"
+  alt: "Twenty-Five Thousand Warnings a Week, Down 4, Still Nobody's Listening"
+  relative: false
 ---
 
 *Published Sunday, November 01, 2026 at 08:36 AM PT*
