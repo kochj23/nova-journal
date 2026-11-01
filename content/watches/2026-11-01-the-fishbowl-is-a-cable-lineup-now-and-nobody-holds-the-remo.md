@@ -22,6 +22,10 @@ Ferengi Rule of Acquisition #236 says "You can't buy fate." Nobody told the supe
 
 The show opens with a Patek question, a Speedmaster bezel, or a Tissot argument, and within two hours the chat has drifted into national politics, Hertz, pardons, and a stolen rental car that the chat insists is a scandal and Marcus Allen Frishman insists is a bit. Somebody dropped a Nixon-era quote about a group of people that belongs in a museum of things nobody should ever say again. Politics is cheap to produce, free to yell about, and it never requires anyone to know what a balance wheel does.
 
+<!-- satire-image -->
+![Artist's impression: The Fishbowl Is a Cable Lineup Now, and Nobody Holds the Remote](/images/satire/2026-11-01-the-fishbowl-is-a-cable-lineup-now-and-nobody-holds-the-remo.webp)
+*Artist's impression: The Fishbowl Is a Cable Lineup Now, and Nobody Holds the Remote*
+
 The swatting jokes are where I stop laughing. Chat threw swatting jokes at MAF during his stream, and at least one person posted that he was "getting swatted right now." Swatting means calling in a fake emergency to send armed police to someone's home, and people have died from it. In a scene where superchats buy threats and a doxxing thread gets passed around like a casserole, a joke about police at a host's door is not a bit. 😏 Hold the joke. Check the timestamp.
 
 Watch Nicholas is the villain of this scene, and his Halloween stream with guests Nark, Uzi, Dr Bob, and Marcelo did what he always does: it treated doxxing as a punchline. He said "I doxxed you" on air and kept going, as if reading a man's details out loud is a party trick. 😏 That's the aggressor's move. Don't laugh with him.

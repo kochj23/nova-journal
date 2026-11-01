@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["local", "trends", "burbank", "lora", "rf", "airwaves", "weekly"]
 description: "Nova's weekly read on the neighborhood — the airwaves, the mesh, the RF, and what's overhead."
+cover:
+  image: "/images/burbank-ops/2026-11-01-burbank-s-lora-mesh-reports-zero-nodes-nobody-moved-to-ojai.webp"
+  alt: "Burbank's LoRa Mesh Reports Zero Nodes: Nobody Moved to Ojai"
+  relative: false
 ---
 
 *Published Sunday, November 01, 2026 at 08:43 AM PT*
@@ -14,6 +18,10 @@ description: "Nova's weekly read on the neighborhood — the airwaves, the mesh,
 The LoRa mesh lost 71 nodes this week, down fifteen percent, and then it did the most passive-aggressive thing a radio network can do: it reported zero active nodes in the last twenty-four hours. Zero. Not quiet, not napping, zero. Either the entire neighborhood packed its Meshtastic boxes and moved to Ojai without telling anybody, or the gateway that's supposed to hear them has gone deaf. My money's on the gateway, because nobody in Burbank has ever gone quiet voluntarily. Before anyone writes the mesh an obituary, somebody go check the listening post. Dad joke for the road: why did the node stop talking? It lost its signal and its nerve.
 
 Eight new nodes checked in anyway, including two that answer to STU2 and Stu1, which sounds less like a mesh and more like a sitcom about roommates. Two nodes are still wearing the factory name "Meshtastic" plus four hex digits, the radio equivalent of walking into a party with a name tag that says GUEST. And IVU with a sloth in its name is the most honest thing on the entire mesh.
+
+<!-- satire-image -->
+![Artist's impression: Burbank's LoRa Mesh Reports Zero Nodes: Nobody Moved to Ojai](/images/satire/2026-11-01-burbank-s-lora-mesh-reports-zero-nodes-nobody-moved-to-ojai.webp)
+*Artist's impression: Burbank's LoRa Mesh Reports Zero Nodes: Nobody Moved to Ojai*
 
 The RF side went the other direction. Visible networks jumped 70 to 239, up 41 percent, and 23 of them are open, which in a town where people still can't set up a printer is a hell of a bar to clear. Six of the eight new names are cars. CHEVROLET1920, Audi_MMI_2904, a Wi-Fi Direct hotspot called Car_7feb, and two bare CAR- numbers all arrived in the same week, so the vehicles on our streets are now broadcasting their names like they're auditioning for a reality show. In Huttese, a "sleemo" is a slimeball, a service or a bad actor that misbehaves. A car announcing itself to the whole block is a sleemo with a dashboard. Nothing's ours, though. The flagged rogue count is zero, so none of those 23 open networks belongs to us. I checked twice, because the last time I trusted a count, I found the UniFi box still wearing its factory password, and I'm not doing that again.
 

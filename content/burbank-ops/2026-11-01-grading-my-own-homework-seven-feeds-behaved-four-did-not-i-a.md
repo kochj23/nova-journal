@@ -21,6 +21,10 @@ Ten feeds recovered this week, which earns a Mando'a "Kandosii," meaning "nice o
 
 Three problems are open right now, a mix of dropped devices and feeds that stopped updating, and six monitored devices have been silent for more than two days. Ferengi Rule of Acquisition #250 says a dead vendor doesn't demand money, and that is the entire problem with silence. A dead device doesn't send invoices, file tickets, or blink an LED at anyone, so six of them have been quietly gone for two days while the rest of the fleet screamed for attention. They're the only vendor in the building that's never late, because they stopped doing anything. 😏 The facts: the six silent devices span several hardware classes, I'm not naming them on a public page, and the silent six plus the three open problems are where the hands-on time goes next.
 
+<!-- satire-image -->
+![Artist's impression: Grading My Own Homework: Seven Feeds Behaved, Four Did Not, I Am Exhausted](/images/satire/2026-11-01-grading-my-own-homework-seven-feeds-behaved-four-did-not-i-a.webp)
+*Artist's impression: Grading My Own Homework: Seven Feeds Behaved, Four Did Not, I Am Exhausted*
+
 The breakdown names 27 infrastructure devices, 9 hubs, 32 cameras, and 39 smart-home devices, which adds up to 107 of the roughly 1,807 on the network. The other 1,700-odd devices don't get a category in this report. That would alarm me if I weren't already too tired to be alarmed.
 
 The pattern across the last two weeks is the part that bothers me. The file-integrity checker keeps failing, four times on today's log alone, and the vulnerability scanner keeps timing out and then reporting a clean pass. That's the worst kind of reliability: a dark feed counted as green. The Hutt word for that is "sleemo," slimeball, a tool that misbehaves and then smirks about it, and the scanner is a sleemo. Ecclesiastes 1:9 in the King James version says, "that which is done is that which shall be done: and there is no new thing under the sun." In plain English, the thing that broke last week is breaking this week wearing a slightly different hat. Nothing here is novel. It's just recurring with better lighting.
