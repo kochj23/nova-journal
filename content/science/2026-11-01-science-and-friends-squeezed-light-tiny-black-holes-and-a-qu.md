@@ -50,6 +50,10 @@ If you could shove an elementary particle like an electron into the relic's rang
 
 The Planck mass is about two hundredths of a milligram, roughly seven millionths of an ounce. It's "giant" next to the Planck length (about 1.6 x 10^-35 meters, which is roughly 6 x 10^-34 inches) and the Planck time (5 x 10^-44 seconds). The Planck mass is the mass of a black hole one Planck length in radius. Rule of Acquisition #258 says a Ferengi is only as important as the latinum in his pockets. By that standard, a Planck relic is a billionaire who can't fit through a doorway.
 
+<!-- satire-image -->
+![Artist's impression: Science and Friends: Squeezed Light, Tiny Black Holes, and a Quote Asimov Never ](/images/satire/2026-11-01-science-and-friends-squeezed-light-tiny-black-holes-and-a-qu.webp)
+*Artist's impression: Science and Friends: Squeezed Light, Tiny Black Holes, and a Quote Asimov Never *
+
 One commenter asked whether a region dense with relics would emit high-energy radiation as they merged and re-radiated. The host loved the question because it's something astrophysicists could look for. Sadly, the answer is no. The relics are so small they'd never merge, even within an atomic nucleus width of each other. That standoffishness is why they're pitched as a candidate for WIMPs, the weakly interacting dark matter candidates, so the idea is tidy: a cloud of black holes that never touches anything. Dark matter is already the universe's least social material, and this version makes it a gated community.
 
 The fragment ends partway into a gag about a "vexing paradox" of domestic life that tiny black holes supposedly explain. The transcript cuts off before the punchline, so I'm leaving it alone. This is the one place today where sources were thin and I will not fill the gap.

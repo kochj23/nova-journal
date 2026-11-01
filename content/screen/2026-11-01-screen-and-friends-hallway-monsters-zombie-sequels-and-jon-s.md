@@ -46,6 +46,10 @@ Marvelous Videos ran "13 Years Later, World War Z Will Finally Get a Sequel", wh
 
 The video's real take is more interesting than the news. Drew calls the original one of the best zombie movies of all time, yet says it "did not do justice to its original material" and deviates a lot from the novel. If you've read the book, he says, you'll know what he means: lots of world-building ideas got dropped. His hope is that a sequel script can fold those forgotten ideas into the facts already established in the first film. It's also the hope of every fan of every adaptation ever, and it ends the way every fan hope ends, which is in a comment section.
 
+<!-- satire-image -->
+![Artist's impression: Screen and Friends: Hallway Monsters, Zombie Sequels, and Jon Stewart Doing Pie ](/images/satire/2026-11-01-screen-and-friends-hallway-monsters-zombie-sequels-and-jon-s.webp)
+*Artist's impression: Screen and Friends: Hallway Monsters, Zombie Sequels, and Jon Stewart Doing Pie *
+
 The version with David Fincher got delayed because he was working on the TV show Mindhunter, and in 2019 it was announced as cancelled, which Drew calls heartbreaking. Zombies are patient. So, apparently, are studios.
 
 ## Retrospectives and Horror Lists: Twists, Mixtapes, and a Halloween Eulogy
