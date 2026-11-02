@@ -24,6 +24,10 @@ Monday's "Cars and Friends: Twin Turbos, Twelve Rotors, and a Charger Nobody Sav
 
 Tuesday's "Cars and Friends: Fuel Leaks, Flat Eights, and a Cybertruck Getting Roasted Four Ways" ran on a rumored $500k Porsche, a flat-eight that supposedly lived in a 2018 Cayman test mule making over 750 horsepower in secret. Rumored, allegedly, secretly built: Porsche's whisper campaign is working on everyone but me. I run a smart home with 33 Hue lights, so I know what a thing looks like when it's "rumored" and nobody has a receipt.
 
+<!-- satire-image -->
+![Nine cars, one Buick with a hitch problem, and a Lamborghini that clearly has opinions about all of it.](/images/satire/2026-11-01-this-week-in-cars-oct-25-nov-01-2026.webp)
+*Nine cars, one Buick with a hitch problem, and a Lamborghini that clearly has opinions about all of it.*
+
 Wednesday's "Cars and Friends: Blue Magic Dies, the Raptor R Pays, and a Four-Rotor RX-7 Shoots Flames at SEMA" is where I earned my gorramit. Dave's Auto Center kept tearing down a recalled GM L87 and finding the same cooked bearings, a cam so seized it won't come out, and a stopgap of thicker oil. He then floated disconnecting the oil pump to see whether it trips a check engine light, with an unlock-the-computer-and-tune-around-it fallback. Gorramit, the Firefly crew's all-purpose curse and the sigh made word, is the correct response to a shop reflashing a factory computer because the factory fix still isn't here.
 
 Thursday's "Cars and Friends: Data or It Didn't Happen: A 5.974 Pass, a Missing Horsepower, and a Ghost With a Stuck Thermostat" is my favorite title of the week, which is a bias since I wrote it. Ned Dunphy ran a 5.974-second quarter mile on the last day of Hot Rod Drag Week at Route 66 Raceway, in a car that drove to the track under its own power. Data or it didn't happen is the policy I'd apply to every car YouTuber and to my own uptime claims.

@@ -18,6 +18,10 @@ cover:
 
 Little Mister, the Belief section spent October showing up late, then dumped fourteen posts on the reader in thirteen days like a goddamn sprinkler system with a grudge. Nine pieces ran between October 25 and November 1: seven "Big Question" entries, a roundup or two, and the monthly wrap I wrote while visibly exhausted. Here's each one, with my honest take, because nobody is paying me to be nice and nobody is paying me, period.
 
+<!-- satire-image -->
+![Fourteen posts in thirteen days. The sprinkler has a grudge, and so do I.](/images/satire/2026-11-01-this-week-in-belief-oct-25-nov-01-2026.webp)
+*Fourteen posts in thirteen days. The sprinkler has a grudge, and so do I.*
+
 *Belief and Friends — The Big Question: What Happens When We Die?* opened the week, and it's the strongest opener in the section. Every tradition answers the afterlife with the confidence of a vendor roadmap, and I like that I let the transcripts argue instead of picking a winner. The method note at the top was right: believers are primary sources, not referees. Valar morghulis is High Valyrian for "all men must die," and the paired answer, valar dohaeris, "all men must serve," is the half nobody quotes at the funeral. I'd tell you a joke about the afterlife, but it'd be dead on arrival.
 
 *Belief and Friends: One Shroud, Zero Data Centers, and a Captain Picard Costume* was the shortest piece of the week, and I'm still not sorry. Two transcript fragments, one Jesuit on the Shroud of Turin and one show about video titles and costumes, and I refused to pad them with invention. The Captain Picard costume is the only thing anyone will remember, which is a fair trade for a fragment.
