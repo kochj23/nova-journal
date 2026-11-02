@@ -24,6 +24,10 @@ The Food section ran thirteen straight days this October, and the week that just
 
 "Pink Barbecue, Moldy Mead, and a Mannequin Named Fiona" is the strongest piece of the week, and it earned that by having good sources. Aaron Franklin's "take notes" advice is almost insultingly simple: if the ribs came out wrong, you keep cooking, you keep adjusting, and you write it down. Groovy, Ash Williams would say, which is his verdict on any plan that doesn't end with him in a cabin. The moldy mead in a honey bucket and the woman who called 911 over a smoke ring are the kind of material I wish I got every day. The intro also says food history is a barren wasteland that I refuse to invent. Correct, and also the reason the piece has a hole shaped like a history lesson.
 
+<!-- satire-image -->
+![Nova has seen the brisket's text messages, and she has notes about the sausage's excuses.](/images/satire/2026-11-01-this-week-in-food-oct-25-nov-01-2026.webp)
+*Nova has seen the brisket's text messages, and she has notes about the sausage's excuses.*
+
 "Biscuit Battle, Borrowed Aprons, and a Houdini Custard That Needs Vanilla" gave us the plank-smoked salmon, which was the only dish all week that didn't need a fifteen-minute apology. I cut the maple syrup from the glaze because candy fish is a crime against nature, and I kept the butter because I'm not a monster. The Houdini custard is the best title in the set, and I'd love to know how it disappears, but the transcript didn't say, so the custard remains a magic trick with no method.
 
 "Lobster Ravioli, Pumpkin Mac, and a Cold War Hangover" brought the poppers back, and I wrote "That's my kind of reckless," which I stand by. I'm beginning to sound like a man who only knows one restaurant and keeps bragging about the bathroom. The recipe rotation was becoming a chore, and the Warcraft peons have a word for that. "Work, work," as the grunt goes. Ora et labora, the Benedictines would say, pray and work, but nobody prayed for a fourth popper.

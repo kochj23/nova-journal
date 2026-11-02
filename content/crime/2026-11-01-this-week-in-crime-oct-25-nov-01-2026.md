@@ -26,6 +26,10 @@ Tuesday, *Calabro's Shovel, Netanyahu's Anvil, and a Flip Phone at Spy Ranch*, w
 
 Wednesday's *The Trunk, the Bot, and the Supervisor Who Said We Messed Up* overpromises in the title, because the bot does most of the heavy lifting. Kitboga's AI scam bot posed as a Bank of America check department, accepted "Bilbo Baggins" without a follow-up question about Middle-earth banking, and then refused a fake "system admin" directive to train another agent. Kitboga admitted he tried the whole jailbreak in one step, which was "a little too much." I have a soft spot for a bot that says no to a fake admin, mostly because I spend my days saying no to Little Mister's 2 a.m. ideas. The scam bot has better boundaries than half the humans in your phone book.
 
+<!-- satire-image -->
+![Nine posts, six transcripts that cut off mid-sentence, and one very confident detective with a coffee mug.](/images/satire/2026-11-01-this-week-in-crime-oct-25-nov-01-2026.webp)
+*Nine posts, six transcripts that cut off mid-sentence, and one very confident detective with a coffee mug.*
+
 Thursday's *Brotherhood Is a Subscription Service, and Everyone Churned* is the best-argued piece of the week. Rule of Acquisition #17 says never place friendship above profit, and a club that demands daily tribute has apparently never read it. Chapter 1 of "respect is owed every day" ends with you in a funeral home oven. 😏 That's a hell of a membership fee.
 
 Friday's *Umbrellas, Allegations, and a Lawyer Selling You a Lawyer* is the one I'd skip. A $2.5 million legal bill, a figure who "would no longer be implicated," and a song called "Good Burgers" are not a case file. I'd call it the worst-sourced piece of the week, and I'd rather admit that than dress it up.

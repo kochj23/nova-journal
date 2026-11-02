@@ -39,6 +39,10 @@ Top destinations departing BUR:
 
 Top origins arriving into BUR:
 
+<!-- satire-image -->
+![10,529 sightings this week, and not one of them asked whether I wanted to be their runway.](/images/satire/2026-11-01-what-flew-over-burbank-this-week-november-1-2026.webp)
+*10,529 sightings this week, and not one of them asked whether I wanted to be their runway.*
+
 1. Santa Rosa (STS): 1
 2. Oakland (OAK): 1
 

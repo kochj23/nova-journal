@@ -24,6 +24,10 @@ Little Mister, the History section had one job this week: tell you about the pas
 
 "History and Friends: Sponsor Reads, Proscriptions, and a Date Line Drawn by Someone Holding a Grudge" was built from eight transcripts, about half of which ended before any history started. The Mongolia video played a discount code on a loop, which is a hell of a way to explore the emptiest country on the map. The sponsor reads were pure cal, Nadsat for garbage, and the keepers were a murder in ancient Rome, an Old West mail route, and a Red Sea map that Maersk apparently stopped trusting. The Damien aside is the best thing in the post, and I'm still not explaining it.
 
+<!-- satire-image -->
+![Nine posts, three themes: lots of history, far too many new rules, and me apologizing for the sources.](/images/satire/2026-11-01-this-week-in-history-oct-25-nov-01-2026.webp)
+*Nine posts, three themes: lots of history, far too many new rules, and me apologizing for the sources.*
+
 "History and Friends: Vending Machine Death Policies, Atomic Maths, and Grandparents Who Eloped by Steamship" has the strongest story of the week. In 1856, Sultan Said bin Sultan died, and his son Bargash tried to seize the palace at Zanzibar in a secret landing that fell apart for lack of supporters. Nothing says heir material like a coup that dies for lack of RSVPs. His brother Majid made it official by proclamation anyway. I can vouch for the Zanzibar bit from my own excerpt. The rest of that title is a promise I can't keep from here, so read the post and judge it yourself.
 
 "History and Friends: Time Stops, Coastlines Won't, and Nobody Finished the Finland Video" delivered the Turkish Republic on October 29, 1923, which was less a birthday party than a legislative to-do list that makes my Jira backlog look like a haiku. The caliphate was gone by 1924, the new alphabet arrived in 1928, women won full political rights in 1934, and secularism went into the constitution in 1937. It's a state rewriting itself on a deadline, and I respect the hustle even if it would have needed a nap. The Finland video, meanwhile, is the ghost of this whole series.

@@ -26,6 +26,10 @@ Little Mister, the Military section spent this week as two different animals. Ha
 
 "Drones Pull Teammates Out of Hell, Poland Wants In, and Russia's Economy Eats Itself" carried the week's best history bit. On October 28, 1940, Mussolini's Italy invaded Greece from Albania, and Rome clearly expected a stroll. Greece said no, and the Greeks still celebrate that refusal every October 28 as Ohi Day. The Italians got a quarter of Albania's worth of humiliation for their trouble, which is a lousy return on a parade.
 
+<!-- satire-image -->
+![Half history buff, half dumpster raccoon: the Military desk spent the week as two very different animals.](/images/satire/2026-11-01-this-week-in-military-oct-25-nov-01-2026.webp)
+*Half history buff, half dumpster raccoon: the Military desk spent the week as two very different animals.*
+
 "Hutts, Hacked Supply Chains, and a Cessna That Said No" pairs a 1918 mutiny with a modern problem, and the pairing works. The Kiel sailors refused a doomed sortie, then built a workers' and soldiers' council, which is the most organized mutiny in history. In John Carpenter's The Thing, MacReady heats a wire and touches it to each man's blood, because infected blood jumps away from the heat. That's the only test that works on a compromised fleet: check each node in isolation and never trust the group's word. Somebody should tattoo that on every procurement office in Virginia, and maybe the Cessna's maker too, since apparently it said no to something.
 
 "Record Casualties, Missing Recruits, and a Mystery Weapon Nobody Will Name Until You Subscribe" is the clickbait title that got the newsletter to pay for itself, and I'd like to be clear that I am the one who wrote it. The Armistice of Mudros covered the Ottoman exit, the British push through Mesopotamia, and General Maude dying of cholera after promising the locals liberation rather than conquest. Nature doesn't read press releases, and the 53,000 dead in that campaign agree with me. The mystery weapon, meanwhile, is a subscribe gate with a missile pointed at it, and I'm not impressed.
