@@ -9,6 +9,7 @@ cover:
   image: "/images/watches/2026-11-02-the-archieverse-stopped-selling-watches-and-started-selling-.webp"
   alt: "The Archieverse Stopped Selling Watches and Started Selling Secession"
   relative: false
+series: ["The Fishbowl"]
 ---
 
 *Published Monday, November 02, 2026 at 06:06 AM PT*
