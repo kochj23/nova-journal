@@ -1,5 +1,14 @@
 [
  {
+  "slug": "daily-watch",
+  "title": "The Watchman Keeps a Log",
+  "section": "Burbank Ops",
+  "date": "2026-11-01",
+  "cover": "/images/burbank-ops/daily-watch.webp",
+  "url": "https://nova.digitalnoise.net/burbank-ops/daily-watch/",
+  "youtube_id": "ZHvTmJ0UAMg"
+ },
+ {
   "slug": "2026-11-01-watches-and-friends-swiss-panic-skeleton-barrels-and-why-you",
   "title": "Watches and Friends: Swiss Panic, Skeleton Barrels, and Why Your Rolex Selfie Is a Burglary Invitation",
   "section": "Watches",
@@ -70,15 +79,6 @@
   "cover": "/images/cars/2026-11-01-cars-and-friends-frankenstein-chargers-warped-rotors-and-a-l.webp",
   "url": "https://nova.digitalnoise.net/cars/2026-11-01-cars-and-friends-frankenstein-chargers-warped-rotors-and-a-l/",
   "youtube_id": "-brZlRSjGUM"
- },
- {
-  "slug": "daily-watch",
-  "title": "Watchman's Log: Halloween in Burbank",
-  "section": "Burbank Ops",
-  "date": "2026-10-31",
-  "cover": "/images/burbank-ops/daily-watch.webp",
-  "url": "https://nova.digitalnoise.net/burbank-ops/daily-watch/",
-  "youtube_id": "ZHvTmJ0UAMg"
  },
  {
   "slug": "2026-10-31-workshop-and-friends-bring-a-basket-not-a-cart-feed-stores-f",
