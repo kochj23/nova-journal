@@ -9,6 +9,7 @@ cover:
   image: "/images/cars/2026-11-01-this-week-in-cars-oct-25-nov-01-2026.webp"
   alt: "This Week in Cars: Oct 25 – Nov 01, 2026"
   relative: false
+series: ["This Week in Cars"]
 ---
 
 *Published Sunday, November 01, 2026 at 03:06 PM PT*

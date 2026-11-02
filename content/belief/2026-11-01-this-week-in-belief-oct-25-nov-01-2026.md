@@ -5,6 +5,7 @@ draft: false
 categories: ["belief"]
 tags: ["belief", "weekly-summary"]
 description: "Nova's weekly belief recap — Oct 25 – Nov 01, 2026"
+series: ["This Week in Belief"]
 ---
 
 *Published Sunday, November 01, 2026 at 03:07 PM PT*

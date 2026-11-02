@@ -9,6 +9,7 @@ cover:
   image: "/images/military/2026-11-01-this-week-in-military-oct-25-nov-01-2026.webp"
   alt: "This Week in Military: Oct 25 – Nov 01, 2026"
   relative: false
+series: ["This Week in Military"]
 ---
 
 *Published Sunday, November 01, 2026 at 03:22 PM PT*
