@@ -9,6 +9,11 @@ cover:
   image: "/images/cars/2026-11-02-cars-and-friends-walmart-parking-lot-wrenching-a-173-mph-tru.webp"
   alt: "Cars and Friends: Walmart Parking Lot Wrenching, a 173 MPH Truck, and a Kei Car That Refused to Die"
   relative: false
+series: ["Cars and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Nobody in Stockholm can name the guy who treated a four-mile tunnel like his personal Nürburgring, and the police are…"
+  summary: "Nobody in Stockholm can name the guy who treated a four-mile tunnel like his personal Nürburgring, and the police are still pretending that's fine. Speed Cartel's latest, The HUNT for the BMW M5 That Played With Police, tells the story of a plateless black sedan with a V10 that kept turning up on a…"
 ---
 
 *Published Monday, November 02, 2026 at 07:12 AM PT*

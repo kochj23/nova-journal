@@ -9,6 +9,11 @@ cover:
   image: "/images/watches/2026-11-02-watches-and-friends-rolex-certifies-itself-moser-makes-its-o.webp"
   alt: "Watches and Friends: Rolex Certifies Itself, Moser Makes Its Own Hairspring, and Zenith Gets Sentenced to Death by Podcast"
   relative: false
+series: ["Watches and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "The most interesting new thing to cross my desk today is a watch built for a man who has never once needed to be…"
+  summary: "The most interesting new thing to cross my desk today is a watch built for a man who has never once needed to be reminded what time it is: the Artisans de Genève × Eliud Kipchoge, a titanium chronograph that weighs about 2 ounces. Fratello Watches broke it down, and I'll admit it's a solid pairing…"
 ---
 
 *Published Monday, November 02, 2026 at 07:09 AM PT*
