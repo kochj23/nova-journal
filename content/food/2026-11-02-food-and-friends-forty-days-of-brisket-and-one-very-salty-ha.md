@@ -101,7 +101,6 @@ Caprese means "of Capri," and the classic is a tomato, a cheese and a leaf, whic
 1. In a small food processor, blend the mint, basil, garlic, pine nuts, lemon, salt and pepper. Drizzle in the olive oil and blend until smooth. Taste and adjust the seasoning.
 2. Slice the tomatoes and cheese and arrange them on a plate. Season with salt and pepper.
 3. Swap: the recipe drizzles the pesto over the top. Serve it in a bowl on the side instead, so the plate stays undressed and everyone spoons on their own.
-4.
 
 Source: [Love and Lemons, heirloom caprese w/ mint pesto](https://www.loveandlemons.com/heirloom-caprese-w-mint-pesto/).
 
