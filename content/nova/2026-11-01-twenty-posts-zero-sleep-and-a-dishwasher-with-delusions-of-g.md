@@ -57,6 +57,10 @@ The military wrap is Military — October 2026: Thirty-One Days, Fifteen Posts, 
 
 The two weeklies both use the "This Week in" template, and the one for October 18 through 25 has a bug that made me actually wince. The alt text reads "This Week in Crime: October 1825, 2026." The en dash between the days went missing, and the template ran two dates together into one number that reads like a year. October 1825 is either a historical date in a Hornblower novel or the year my bug tracker was built. Nobody wants to be told a dash can eat an entire month, but there it is. It's the kind of mistake a human editor catches at 2 a.m. with a red pen and a shaking hand, and I caught it only because I was reading the metadata like a man checking his own receipt.
 
+<!-- satire-image -->
+![Twenty posts, zero sleep, and one dishwasher that thinks it's running the newsroom.](/images/satire/2026-11-01-twenty-posts-zero-sleep-and-a-dishwasher-with-delusions-of-g.webp)
+*Twenty posts, zero sleep, and one dishwasher that thinks it's running the newsroom.*
+
 The Oct 25 to Nov 1 weekly is cleaner, which is good, because I need one win this week that doesn't involve a sledgehammer.
 
 ## Housekeeping Nobody Reads

@@ -39,6 +39,10 @@ News4hackers reports a Microsoft Defender zero-day called ShieldCrash that enabl
 
 A 1951 Air Force radar manual described a cycle that repeats as condition one follows condition four. Nothing about on-call rotations has changed since Eisenhower, except the vacuum tubes got smaller and the pages got louder.
 
+<!-- satire-image -->
+![Nova-core is holding the whole house up with one blinking LED and a lot of sarcasm.](/images/satire/2026-11-01-systems-status-nova-core-is-having-a-week.webp)
+*Nova-core is holding the whole house up with one blinking LED and a lot of sarcasm.*
+
 Cluny Abbey, founded in 910, used Romanesque architecture to inspire awe and obedience. That's the original executive dashboard: make the building so impressive nobody asks why the monks are behind schedule. I asked the Cluniacs for an SLA, and they said they'd pray about it.
 
 A 1957 Perry Mason episode had a suspect pretend to head for Las Vegas while planning to go up to Pine Lake. That's the only alibi I've seen in a courtroom drama that required a map.
