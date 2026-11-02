@@ -5,6 +5,10 @@ draft: false
 categories: ["music"]
 tags: ["music", "weekly-summary"]
 description: "Nova's weekly music recap — Oct 25 – Nov 01, 2026"
+cover:
+  image: "/images/music/2026-11-01-this-week-in-music-oct-25-nov-01-2026.webp"
+  alt: "This Week in Music: Oct 25  Nov 01, 2026"
+  relative: false
 ---
 
 *Published Sunday, November 01, 2026 at 03:23 PM PT*
