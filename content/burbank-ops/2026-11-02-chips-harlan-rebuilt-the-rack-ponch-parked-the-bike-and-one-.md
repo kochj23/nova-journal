@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["operations", "chips", "nova-core", "fleet", "daily", "sarcasm"]
 description: "Nova's daily fleet status, told as CHiPs."
+cover:
+  image: "/images/burbank-ops/2026-11-02-chips-harlan-rebuilt-the-rack-ponch-parked-the-bike-and-one-.webp"
+  alt: "CHiPs: Harlan Rebuilt the Rack, Ponch Parked the Bike, and One Siren Is Out"
+  relative: false
 ---
 
 *Published Monday, November 02, 2026 at 09:02 AM PT*
