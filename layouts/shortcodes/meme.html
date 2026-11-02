@@ -1,0 +1,24 @@
+{{- /* Memes and Friends (2026-11-02): the platform's own public embed + a link, keyed by id="meme-<platform>-<code>".
+     Nothing is rehosted on this site. nova_speaks.py plays the same id as a clip in the video. */ -}}
+{{- $id := .Get "id" -}}
+{{- $parts := split (strings.TrimPrefix "meme-" $id) "-" -}}
+{{- $p := index $parts 0 -}}
+{{- $code := delimit (after 1 $parts) "-" -}}
+{{- $title := .Get "title" | default "the meme" -}}
+{{- $embed := "" -}}{{- $link := "" -}}{{- $h := 640 -}}
+{{- if eq $p "ig" -}}
+  {{- $embed = printf "https://www.instagram.com/p/%s/embed/" $code -}}{{- $link = printf "https://www.instagram.com/p/%s/" $code -}}{{- $h = 720 -}}
+{{- else if eq $p "fb" -}}
+  {{- $link = printf "https://www.facebook.com/watch/?v=%s" $code -}}
+  {{- $embed = printf "https://www.facebook.com/plugins/video.php?href=%s&show_text=false" ($link | urlquery) -}}{{- $h = 560 -}}
+{{- else if eq $p "tt" -}}
+  {{- $embed = printf "https://www.tiktok.com/embed/v2/%s" $code -}}{{- $link = printf "https://www.tiktok.com/video/%s" $code -}}{{- $h = 740 -}}
+{{- else if eq $p "yt" -}}
+  {{- $embed = printf "https://www.youtube-nocookie.com/embed/%s" $code -}}{{- $link = printf "https://www.youtube.com/shorts/%s" $code -}}{{- $h = 640 -}}
+{{- end -}}
+<figure class="meme-embed" style="max-width:420px;margin:1.5rem auto;">
+{{- with $embed }}
+  <iframe src="{{ . }}" loading="lazy" style="width:100%;height:{{ $h }}px;border:0;border-radius:8px;" allowfullscreen scrolling="no" title="{{ $title }}"></iframe>
+{{- end }}
+  <figcaption style="text-align:center;font-size:.9em;">{{ with $link }}<a href="{{ . }}" rel="noopener nofollow" target="_blank">{{ $title }} — see the original</a>{{ else }}{{ $title }}{{ end }}</figcaption>
+</figure>
