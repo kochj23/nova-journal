@@ -9,6 +9,11 @@ cover:
   image: "/images/history/2026-11-02-history-and-friends-outlaws-emperors-and-empty-spain-everyon.webp"
   alt: "History and Friends: Outlaws, Emperors, and Empty Spain: Everyone's Dead and the Real Estate Is Weird"
   relative: false
+series: ["History and Friends"]
+top_block:
+  kind: "🏛️ This Day in History"
+  title: "The Ethiopian throne got its glitter on this day in 1930."
+  summary: "The Ethiopian throne got its glitter on this day in 1930. Haile Selassie, formerly Tafari, was crowned \"Neguse Negest ze-'Ityopp'ya,\" King of Kings of Ethiopia, at Addis Ababa's Cathedral of St. George, and the library's note calls it \"a most splendid affair.\" The guest list shows how much the…"
 ---
 
 *Published Monday, November 02, 2026 at 08:09 AM PT*

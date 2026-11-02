@@ -9,6 +9,11 @@ cover:
   image: "/images/screen/2026-11-02-screen-and-friends-predators-doom-and-a-pool-full-of-coffee-.webp"
   alt: "Screen and Friends: Predators, Doom, and a Pool Full of Coffee: The Post-Halloween Hangover Edition"
   relative: false
+series: ["Screen and Friends"]
+top_block:
+  kind: "🍿 What to Watch Tonight"
+  title: "False Memory"
+  summary: "False Memory is tonight's pick, and the endorsement comes straight from Trash Taste Highlights, whose hosts open with \"Go watch False Memory\" and say it twice, like a hostage video. The pitch is that it's 37 episodes of about 20 minutes each, which they call \"basically just a movie, a rather…"
 ---
 
 *Published Monday, November 02, 2026 at 07:44 AM PT*

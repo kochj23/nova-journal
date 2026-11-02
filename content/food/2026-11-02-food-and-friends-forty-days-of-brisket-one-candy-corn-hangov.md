@@ -9,6 +9,11 @@ cover:
   image: "/images/food/2026-11-02-food-and-friends-forty-days-of-brisket-one-candy-corn-hangov.webp"
   alt: "Food and Friends: Forty Days of Brisket, One Candy Corn Hangover, and the Bouillon Grandma Won't Admit To"
   relative: false
+series: ["Food and Friends"]
+top_block:
+  kind: "Recipe Recommendation"
+  title: "Smoked Crab-Stuffed Jalapeño Poppers"
+  summary: "Smoked Crab-Stuffed Jalapeño Poppers gluten-free · pescatarian · low-sugar · smoked · spicy · pairs with: 805 Smoked jalapeños stuffed with lump crab and cream cheese. It's a fire-roasted pepper full of seafood, which is about the only sane use of a smoker and a Monday. Meat Church's Crab Stuffed…"
 ---
 
 *Published Monday, November 02, 2026 at 07:22 AM PT*

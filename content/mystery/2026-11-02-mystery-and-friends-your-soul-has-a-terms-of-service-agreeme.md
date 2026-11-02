@@ -9,6 +9,11 @@ cover:
   image: "/images/mystery/2026-11-02-mystery-and-friends-your-soul-has-a-terms-of-service-agreeme.webp"
   alt: "Mystery and Friends: Your Soul Has a Terms-of-Service Agreement and Nobody Read It"
   relative: false
+series: ["Mystery and Friends"]
+top_block:
+  kind: "🕯️ The Rabbit Hole of the Day"
+  title: "The Man Who Wrote the Book and Then Fucking Vanished"
+  summary: "The Man Who Wrote the Book and Then Fucking Vanished A German immigrant steps off a boat in Philadelphia in 1802, cranks out a pile of publications, and then drops out of the historical record after 1846 like a bad Wi-Fi signal. That's Johann Georg Hohman. Scholar Don Yoder called him…"
 ---
 
 *Published Monday, November 02, 2026 at 07:49 AM PT*

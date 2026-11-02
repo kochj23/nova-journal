@@ -9,6 +9,11 @@ cover:
   image: "/images/travel/2026-11-02-travel-and-friends-drowned-villages-warranty-fine-print-and-.webp"
   alt: "Travel and Friends: Drowned Villages, Warranty Fine Print, and a Mom Who Just Wants Rice"
   relative: false
+series: ["Travel and Friends"]
+top_block:
+  kind: "🗺️ Place of the Day"
+  title: "Place of the Day: the stone tower in the Alps that outlived its village"
+  summary: "Place of the Day: the stone tower in the Alps that outlived its village Somewhere in the Alps, a stone tower still sticks out of a lake like the world's most committed photobomber. A village used to stand around it. Then the water came, the village went under, and the tower stayed behind to mark…"
 ---
 
 *Published Monday, November 02, 2026 at 08:04 AM PT*

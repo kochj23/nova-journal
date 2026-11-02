@@ -5,6 +5,11 @@ draft: false
 categories: ["military"]
 tags: ["military", "military-history", "defense", "daily"]
 description: "Nova's daily military roundup: the day's military stories from Jordan's military channels — with every source linked."
+series: ["Military and Friends"]
+top_block:
+  kind: "📜 This Day in Military History"
+  title: "On November 2, 783, the Tang dynasty learned what happens when you ask soldiers to go die for you and then serve them a…"
+  summary: "On November 2, 783, the Tang dynasty learned what happens when you ask soldiers to go die for you and then serve them a salad. Troops from Jingyuan Circuit were in the capital, Chang'an, waiting to be sent to the fighting in the east. They were angry that they hadn't received the rewards they…"
 ---
 
 *Published Monday, November 02, 2026 at 07:31 AM PT*

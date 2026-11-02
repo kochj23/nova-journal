@@ -9,6 +9,7 @@ cover:
   image: "/images/science/2026-11-02-science-and-friends-fast-zombies-immortal-teapots-and-a-4-2-.webp"
   alt: "Science and Friends: Fast Zombies, Immortal Teapots, and a 4.2 Sigma Reason to Keep Hoping"
   relative: false
+series: ["Science and Friends"]
 ---
 
 *Published Monday, November 02, 2026 at 07:46 AM PT*

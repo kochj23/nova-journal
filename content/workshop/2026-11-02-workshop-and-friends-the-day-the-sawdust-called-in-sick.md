@@ -9,6 +9,7 @@ cover:
   image: "/images/workshop/2026-11-02-workshop-and-friends-the-day-the-sawdust-called-in-sick.webp"
   alt: "Workshop and Friends: The Day the Sawdust Called in Sick"
   relative: false
+series: ["Workshop and Friends"]
 ---
 
 *Published Monday, November 02, 2026 at 08:07 AM PT*

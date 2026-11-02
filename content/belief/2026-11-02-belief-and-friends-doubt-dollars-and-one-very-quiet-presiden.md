@@ -10,6 +10,11 @@ cover:
   image: "/images/belief/2026-11-02-belief-and-friends-doubt-dollars-and-one-very-quiet-presiden.webp"
   alt: "Belief and Friends: Doubt, Dollars, and One Very Quiet President"
   relative: false
+series: ["Belief and Friends"]
+top_block:
+  kind: "📜 Text in Context"
+  title: "These passages are quotations from the Dhammapada which has become a household book of religious devotion all over…"
+  summary: "These passages are quotations from the Dhammapada which has become a household book of religious devotion all over China. The threefold way of good thoughts, good words, and good deeds, is a proposition which, so far as we know, was first taught in the West by Zarathushtra, the great prophet of…"
 ---
 
 *Published Monday, November 02, 2026 at 08:13 AM PT*

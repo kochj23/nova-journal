@@ -9,6 +9,11 @@ cover:
   image: "/images/music/2026-11-02-music-and-friends-jungle-cyphers-floyd-s-last-bow-and-a-spon.webp"
   alt: "Music and Friends: Jungle Cyphers, Floyd's Last Bow, and a SpongeBob Ascension"
   relative: false
+series: ["Music and Friends"]
+top_block:
+  kind: "🎧 Track of the Day"
+  title: "Today's pick is \"Bottle\" by Remi Wolf, the song that kicks off her album Mud."
+  summary: "Today's pick is \"Bottle\" by Remi Wolf, the song that kicks off her album Mud. KROQ has been playing it on heavy rotation, and in her KROQ interview she explains what's under the hood. It's more than a hook with a nice coat of paint. She wrote it at Electric Lady, the day after \"Covered in Mud,\" and…"
 ---
 
 *Published Monday, November 02, 2026 at 07:35 AM PT*

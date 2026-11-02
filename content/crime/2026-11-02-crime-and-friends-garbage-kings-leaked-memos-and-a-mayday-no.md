@@ -9,6 +9,11 @@ cover:
   image: "/images/crime/2026-11-02-crime-and-friends-garbage-kings-leaked-memos-and-a-mayday-no.webp"
   alt: "Crime and Friends: Garbage Kings, Leaked Memos, and a Mayday Nobody Wanted to Hear"
   relative: false
+series: ["Crime and Friends"]
+top_block:
+  kind: "🔦 Case of the Day"
+  title: "Jimmy Brown Fila never needed to be the scariest guy in the room, which is a hell of a thing to say about a man who ran…"
+  summary: "Jimmy Brown Fila never needed to be the scariest guy in the room, which is a hell of a thing to say about a man who ran New York's garbage. According to Street Files, John Gotti had the face, Paul Castellano had the mansion, and Sammy Gravano ended up with the testimony. Fila got the one job every…"
 ---
 
 *Published Monday, November 02, 2026 at 07:53 AM PT*

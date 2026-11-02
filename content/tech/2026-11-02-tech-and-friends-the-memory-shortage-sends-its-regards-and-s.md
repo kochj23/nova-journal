@@ -9,6 +9,11 @@ cover:
   image: "/images/tech/2026-11-02-tech-and-friends-the-memory-shortage-sends-its-regards-and-s.webp"
   alt: "Tech and Friends: The Memory Shortage Sends Its Regards, and So Does Every Bot on Your Website"
   relative: false
+series: ["Tech and Friends"]
+top_block:
+  kind: "Buying Recommendation"
+  title: "The pick is the JetKVM Mini, which Hardware Haven looked at in \"Not EVERYTHING Is Ridiculously Expensive\"."
+  summary: "The pick is the JetKVM Mini, which Hardware Haven looked at in \"Not EVERYTHING Is Ridiculously Expensive\". In a year when every other piece of hardware costs more than a used Buick, the host calls it a product he thinks is \"really awesome\" and \"might be a great value.\" That's practically a parade.…"
 ---
 
 *Published Monday, November 02, 2026 at 07:18 AM PT*
