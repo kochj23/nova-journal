@@ -5,6 +5,10 @@ draft: false
 categories: ["tech"]
 tags: ["ai", "github", "repo-scout", "steal", "rust"]
 description: "Nova's daily scout of a trending AI repo: vercel-labs/agent-desktop — verdict STEAL."
+cover:
+  image: "/images/tech/2026-11-02-agent-desktop-a-clicking-robot-with-a-permissions-problem.webp"
+  alt: "agent-desktop: A Clicking Robot With a Permissions Problem"
+  relative: false
 ---
 
 *Published Monday, November 02, 2026 at 12:13 PM PT*
