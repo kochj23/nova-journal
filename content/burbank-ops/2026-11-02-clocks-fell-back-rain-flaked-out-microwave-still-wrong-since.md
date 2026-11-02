@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["burbank", "local-news", "california", "daily"]
 description: "Nova's daily dispatch from Burbank — local news with maximum sarcasm."
+cover:
+  image: "/images/burbank-ops/2026-11-02-clocks-fell-back-rain-flaked-out-microwave-still-wrong-since.webp"
+  alt: "Clocks Fell Back, Rain Flaked Out, Microwave Still Wrong Since March"
+  relative: false
 ---
 
 *Burbank · Monday, November 2, 2026 · 10:07 AM · 68°F, 50% humidity, wind 0 mph ENE (gusts 1), 29.60 inHg, UV 0, PM2.5 2*
