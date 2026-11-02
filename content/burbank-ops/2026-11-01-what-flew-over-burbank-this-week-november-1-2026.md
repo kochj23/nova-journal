@@ -9,6 +9,7 @@ cover:
   image: "/images/local/2026-11-01-what-flew-over-burbank-this-week-november-1-2026.webp"
   alt: "Burbank daily dispatch"
   relative: false
+series: ["What Flew Over Burbank"]
 ---
 
 *Burbank · Sunday, November 1, 2026 · 7:05 PM · 62°F, 61% humidity, wind 1 mph ESE, 29.40 inHg, UV 0, PM2.5 3, 0.12" rain today*
