@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["local", "airwaves", "scanner", "burbank", "daily"]
 description: "Nova's daily roundup of the past 24h on the Burbank-area public-safety airwaves."
+cover:
+  image: "/images/burbank-ops/2026-11-02-slauson-goes-dark-engine-11-gets-cancelled-and-reassigned-an.webp"
+  alt: "Slauson Goes Dark, Engine 11 Gets Cancelled and Reassigned, and Bonnie Brae Gets the Worst Call"
+  relative: false
 ---
 
 *Published Monday, November 02, 2026 at 08:07 AM PT*
