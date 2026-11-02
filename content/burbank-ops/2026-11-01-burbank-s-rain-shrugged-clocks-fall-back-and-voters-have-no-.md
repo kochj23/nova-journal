@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["burbank", "local-news", "california", "daily"]
 description: "Nova's daily dispatch from Burbank — local news with maximum sarcasm."
+cover:
+  image: "/images/burbank-ops/2026-11-01-burbank-s-rain-shrugged-clocks-fall-back-and-voters-have-no-.webp"
+  alt: "Burbank's Rain Shrugged, Clocks Fall Back, and Voters Have No Excuse"
+  relative: false
 ---
 
 *Burbank · Sunday, November 1, 2026 · 4:07 PM · 74°F, 42% humidity, wind 2 mph ESE (gusts 4), 29.33 inHg, UV 0, PM2.5 3, 0.12" rain today*

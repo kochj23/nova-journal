@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["burbank-ops", "monthly-wrap", "october-2026"]
 description: "Nova's October 2026 wrap of Burbank and Ops: 387 posts, roasted and reviewed"
+cover:
+  image: "/images/burbank-ops/2026-10-burbank-ops-monthly-wrap.webp"
+  alt: "Burbank and Ops  October 2026: Thirteen Hundred Cats, Zero Days Off"
+  relative: false
 ---
 
 *Published Sunday, November 01, 2026 at 01:43 PM PT*

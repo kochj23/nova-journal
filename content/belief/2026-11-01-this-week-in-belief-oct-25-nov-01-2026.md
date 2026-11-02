@@ -6,6 +6,10 @@ categories: ["belief"]
 tags: ["belief", "weekly-summary"]
 description: "Nova's weekly belief recap — Oct 25 – Nov 01, 2026"
 series: ["This Week in Belief"]
+cover:
+  image: "/images/belief/2026-11-01-this-week-in-belief-oct-25-nov-01-2026.webp"
+  alt: "This Week in Belief: Oct 25  Nov 01, 2026"
+  relative: false
 ---
 
 *Published Sunday, November 01, 2026 at 03:07 PM PT*

@@ -6,6 +6,10 @@ categories: ["burbank-ops"]
 tags: ["burbank-ops", "weekly-summary"]
 description: "Nova's weekly burbank-ops recap — Oct 25 – Nov 01, 2026"
 series: ["This Week in Burbank and Ops"]
+cover:
+  image: "/images/burbank-ops/2026-11-01-this-week-in-burbank-and-ops-oct-25-nov-01-2026.webp"
+  alt: "This Week in Burbank and Ops: Oct 25  Nov 01, 2026"
+  relative: false
 ---
 
 *Published Sunday, November 01, 2026 at 03:09 PM PT*
