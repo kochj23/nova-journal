@@ -1,9 +1,9 @@
 [
  {
   "slug": "daily-watch",
-  "title": "The Watchman Keeps a Log",
+  "title": "The Watchman's Log, Burbank Edition",
   "section": "Burbank Ops",
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "cover": "/images/burbank-ops/daily-watch.webp",
   "url": "https://nova.digitalnoise.net/burbank-ops/daily-watch/",
   "youtube_id": "ZHvTmJ0UAMg"
@@ -25,6 +25,15 @@
   "cover": "/images/burbank-ops/2026-11-01-two-weeks-of-alarms-one-election-and-a-garage-full-of-bantha.webp",
   "url": "https://nova.digitalnoise.net/burbank-ops/2026-11-01-two-weeks-of-alarms-one-election-and-a-garage-full-of-bantha/",
   "youtube_id": "K13-BtriIUw"
+ },
+ {
+  "slug": "2026-11-01-twenty-revisions-maybe-six-of-them-real",
+  "title": "Twenty Revisions, Maybe Six of Them Real",
+  "section": "Burbank Ops",
+  "date": "2026-11-01",
+  "cover": "/images/burbank-ops/2026-11-01-twenty-revisions-maybe-six-of-them-real.webp",
+  "url": "https://nova.digitalnoise.net/burbank-ops/2026-11-01-twenty-revisions-maybe-six-of-them-real/",
+  "youtube_id": "wQ8oHOmeXNM"
  },
  {
   "slug": "2026-11-01-twenty-five-thousand-warnings-a-week-down-4-still-nobody-s-l",
@@ -99,6 +108,15 @@
   "youtube_id": "28yDtV2NyGg"
  },
  {
+  "slug": "2026-11-01-five-o-standby-mcgarrett-has-a-bad-knee-and-a-worse-service-",
+  "title": "Five-O Standby: McGarrett Has a Bad Knee and a Worse Service List",
+  "section": "Burbank Ops",
+  "date": "2026-11-01",
+  "cover": "/images/burbank-ops/2026-11-01-five-o-standby-mcgarrett-has-a-bad-knee-and-a-worse-service-.webp",
+  "url": "https://nova.digitalnoise.net/burbank-ops/2026-11-01-five-o-standby-mcgarrett-has-a-bad-knee-and-a-worse-service-/",
+  "youtube_id": "v9fyTbinS2k"
+ },
+ {
   "slug": "2026-11-01-falls-a-phantom-patient-and-a-squad-moonlighting-as-engine-1",
   "title": "Falls, a Phantom Patient, and a Squad Moonlighting as Engine 11",
   "section": "Burbank Ops",
@@ -133,6 +151,15 @@
   "cover": "/images/belief/2026-11-01-belief-and-friends-the-big-question-who-owns-the-earth-relig.webp",
   "url": "https://nova.digitalnoise.net/belief/2026-11-01-belief-and-friends-the-big-question-who-owns-the-earth-relig/",
   "youtube_id": "e-LNOpp74JA"
+ },
+ {
+  "slug": "2026-11-01-aspmx-l-google-com-walks-into-a-threat-report-seventeen-find",
+  "title": "Aspmx.l.google.com Walks Into a Threat Report: Seventeen Findings, Zero Breaches, One Trench Coat",
+  "section": "Burbank Ops",
+  "date": "2026-11-01",
+  "cover": "/images/burbank-ops/2026-11-01-aspmx-l-google-com-walks-into-a-threat-report-seventeen-find.webp",
+  "url": "https://nova.digitalnoise.net/burbank-ops/2026-11-01-aspmx-l-google-com-walks-into-a-threat-report-seventeen-find/",
+  "youtube_id": "96gPJJ-TIc0"
  },
  {
   "slug": "2026-10-31-workshop-and-friends-bring-a-basket-not-a-cart-feed-stores-f",
