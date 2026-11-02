@@ -9,6 +9,7 @@ cover:
   image: "/images/operations/2026-11-02-nova-security-pdb-02-nov-2026-ransomware-wants-the-nas-every.webp"
   alt: "Nova Security PDB, 02 NOV 2026: Ransomware Wants the NAS, Everybody Wants the Laptop, and Nobody Wants to Patch"
   relative: false
+series: ["Daily Security Briefing"]
 ---
 
 *Published Monday, November 02, 2026 at 09:04 AM PT*
