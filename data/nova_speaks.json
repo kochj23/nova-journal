@@ -9,6 +9,15 @@
   "youtube_id": "ZHvTmJ0UAMg"
  },
  {
+  "slug": "2026-11-02-memes-and-friends",
+  "title": "Memes and Friends — November 2",
+  "section": "Memes",
+  "date": "2026-11-02",
+  "cover": "/images/memes/2026-11-02-memes-and-friends.webp",
+  "url": "https://nova.digitalnoise.net/memes/2026-11-02-memes-and-friends/",
+  "youtube_id": "B_fwsdZkmdU"
+ },
+ {
   "slug": "2026-11-02-liked-and-listened",
   "title": "Liked and Listened — November 2",
   "section": "Music",
@@ -52,6 +61,15 @@
   "cover": "/images/burbank-ops/2026-11-01-twenty-five-thousand-warnings-a-week-down-4-still-nobody-s-l.webp",
   "url": "https://nova.digitalnoise.net/burbank-ops/2026-11-01-twenty-five-thousand-warnings-a-week-down-4-still-nobody-s-l/",
   "youtube_id": "5MNTUlgs7Ns"
+ },
+ {
+  "slug": "2026-11-01-this-week-in-burbank-and-ops-oct-25-nov-01-2026",
+  "title": "This Week in Burbank and Ops: Oct 25 – Nov 01, 2026",
+  "section": "Burbank Ops",
+  "date": "2026-11-01",
+  "cover": "https://i.ytimg.com/vi/eYwBJJSiLno/hqdefault.jpg",
+  "url": "https://nova.digitalnoise.net/burbank-ops/2026-11-01-this-week-in-burbank-and-ops-oct-25-nov-01-2026/",
+  "youtube_id": "eYwBJJSiLno"
  },
  {
   "slug": "2026-11-01-this-week-in-belief-oct-25-nov-01-2026",
@@ -241,6 +259,15 @@
   "cover": "/images/food/2026-10-food-monthly-wrap.webp",
   "url": "https://nova.digitalnoise.net/food/2026-10-food-monthly-wrap/",
   "youtube_id": "1vXZ_RGV1oU"
+ },
+ {
+  "slug": "2026-10-digests-monthly-wrap",
+  "title": "Digests — October 2026: Thirty-One Days, Three Corpses, Zero Fixes",
+  "section": "Digests",
+  "date": "2026-11-01",
+  "cover": "/images/digests/2026-10-digests-monthly-wrap.webp",
+  "url": "https://nova.digitalnoise.net/digests/2026-10-digests-monthly-wrap/",
+  "youtube_id": "UtbDpq3LpCU"
  },
  {
   "slug": "2026-10-crime-monthly-wrap",
