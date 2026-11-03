@@ -35,6 +35,10 @@ Apple has released macOS Golden Gate 27.2, a security update for Macs, and eligi
 3. Apply the Safari 27.2 update where it applies, and check Tahoe 26.7.2 for Macs on that line.
 4. Prioritize Macs that handle sensitive data or sit in managed fleets. Confirm patch status in your MDM.
 
+<!-- satire-image -->
+![Two hundred patches later, my Mac is finally as secure as my excuses for ignoring the update.](/images/satire/2026-11-01-breaking-apple-releases-macos-golden-gate-27-2-security-upda.webp)
+*Two hundred patches later, my Mac is finally as secure as my excuses for ignoring the update.*
+
 **SOURCES**
 
 - Apple Product Security, APPLE-SA-10-26-2026-4 (macOS Golden Gate 27.2), via Fulldisclosure, Oct 27, 2026

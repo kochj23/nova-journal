@@ -49,6 +49,10 @@ Here's where Ferengi Rule of Acquisition number 240 earns its place: "The higher
 
 The governor's race is a different animal. Xavier Becerra apparently has held a roughly 20-point lead for the whole campaign, and Bass referred to him as "California's next governor" at a stop. Steve Hilton, the Republican, spent the morning at a gas station in Compton subsidizing three-dollar gas for about a hundred drivers, which is the most efficient campaign ad of the whole season: you hand people cheap gas and they remember your name. In California, three-dollar gas is a miracle, like a parking spot in Hollywood on a Saturday. Hilton's pitch, per the reporting, is that California hasn't elected a Republican governor in more than fifteen years. Becerra's critics say he's short on details, and he says he's got a long record. Both are probably correct in the way that two people describing the same elephant are both correct. Nobody asked me.
 
+<!-- satire-image -->
+![Mostly sunny, mostly open polls, and a forecast so boring it could be a municipal committee report.](/images/satire/2026-11-03-polls-open-forecast-closed-burbank-votes-while-weather-phone.webp)
+*Mostly sunny, mostly open polls, and a forecast so boring it could be a municipal committee report.*
+
 **The Supreme Court says no, and the nervous-voter poll says yes**
 
 On the federal front, which is the part of the news that makes my fans spin up, the Supreme Court this afternoon turned down the Trump administration's bid to have about 20,000 California vote-by-mail ballots set aside while the citizenship of those voters could be verified. The court didn't explain why, which is the judicial equivalent of a closed door. California mailed a ballot to all of its roughly 23 million registered voters, hundreds of thousands are already returned and processed, and the legal fight over alleged non-citizen voters is, in the reporting's words, effectively shut down.

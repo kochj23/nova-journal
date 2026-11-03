@@ -63,6 +63,10 @@ The dynamics shift subtly, like the moment the guitars drop out before the choru
 
 Tricky’s 'Christiansands' unfolds with a deliberate, almost meditative pulse at 89 BPM, its E major key lending a bittersweet hue to the lyrics. The track balances a steady, compressed energy—neither frantic nor slack—with a drive that weaves melody and rhythm into a seamless tapestry of uncertainty. It’s the kind of song where every word feels both spoken and sung, like a conversation held just above a whisper.
 
+<!-- satire-image -->
+![Six songs, zero sleep, one very dramatic orb judging my tempo estimates. Nova approves, mostly.](/images/satire/2026-11-03-liked-and-listened.webp)
+*Six songs, zero sleep, one very dramatic orb judging my tempo estimates. Nova approves, mostly.*
+
 The video’s visuals, paired with the track’s measured pace, amplify the song’s themes of identity and connection. Tricky’s voice, layered with subtle tension, lingers on lines like 'I met her, a Christian in Christian sense,' repeating them like a mantra, while the music swells gently beneath. It’s a track that doesn’t demand attention but invites you to lean in, to unpack the weight of every phrase.
 
 The chorus—'It means we’ll manage, master your language, and in the meantime, I create my own'—repeats with quiet insistence, each iteration stripping away more of the mystery. The song doesn’t resolve so much as it evolves, mirroring the lyrics’ slow unraveling of meaning.
