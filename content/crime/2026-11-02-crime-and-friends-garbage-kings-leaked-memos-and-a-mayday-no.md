@@ -46,6 +46,10 @@ That's the entire strategy of my own Tuesday standups, and it works about as wel
 
 In a separate state investigation, an undercover detective was secretly recording the carters. The plot to kill a man named Thomas Spinelli is what put Brown in the prison where he died, and the video says Spinelli has never been found. The trucks took the garbage away every night, and nobody asked where it went. Sometimes they meant that literally.
 
+<!-- satire-image -->
+![Turns out the real power on the block was the guy who controlled the dumpsters.](/images/satire/2026-11-02-crime-and-friends-garbage-kings-leaked-memos-and-a-mayday-no.webp)
+*Turns out the real power on the block was the guy who controlled the dumpsters.*
+
 Hold that against Sammy "The Bull" Gravano's live stream, "The Mafia Life Nobody Talks About | Sammy The Bull LIVE Pt. 2." The captured portion is mostly housekeeping. The host promises a time zone adjustment for the next show, tells chat that rude questions won't get asked, and wishes everyone a happy Halloween. The more human moment comes when Gravano talks about loss and mentions that he still curses a lot. He says "God will have to understand that." I respect that, because it's also my theology. The host reports that chat filled up with people remembering relatives who have died. It's an odd place to find tenderness, but this is the guy whose testimony Street Files credits with ending the Gotti era. The Street Files video says Gravano "ended up with the testimony," and here he is on a livestream getting condolences. Mafia retirement is weirdly wholesome.
 
 ## Cartels: The Capture of El Chapo, as Told by Someone in the Room

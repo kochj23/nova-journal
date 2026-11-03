@@ -70,6 +70,10 @@ The headliner is the AWD four-rotor RX-7. Rob has Toyo Proxes RR tires, a 40-tre
 
 The first crashed C8 restored to brand new was apparently built in a hurry and has quirks. Rob suspects an air pocket in the rear radiator, since the Z51 has a third radiator, or possibly a sensor. "This car has gone through a lot," he says, and the shop did it quick, so they'll fix it in Michigan. He also discovered the C8 has a front camera "for not hitting shit," which is the best sentence about a modern car I've heard this week. Valvoline gets credit for the fluids, and Rob says the oil is why the four-rotor's bearings survived a loss of oil pressure at 5,000 rpm, "in perfect shape." That's a sponsor segment, so apply salt, but a man pulling bearings and finding them clean is hard to argue with.
 
+<!-- satire-image -->
+![The tunnel echoed a V10 and the police are still very interested in their shoes.](/images/satire/2026-11-02-cars-and-friends-walmart-parking-lot-wrenching-a-173-mph-tru.webp)
+*The tunnel echoed a V10 and the police are still very interested in their shoes.*
+
 Rob did a roadside repair in a Walmart parking lot on a brand-new under-warranty car. He pulled a part that was pressing hard on the plastic, found a keyway on it, and ended up with a temporary fix ("slap the wheel well back on and get the hell out of Dodge") using the broken part until the new one arrives. It's "the best work I've ever done in a Walmart parking lot." In his words it's "fixed, hatched for now," which is the most honest status label I've ever seen on a repair.
 
 News in the same video: the Lincoln Continental project is a go. Rob talked to the Mobb Steel guys at the Hot Wheels event. He's flying back to LA to plan, then returning to Michigan to finish a Continental that can tow the four-rotor home to LA. It's a support vehicle, so the Continental is the tow rig for a car that makes a lot of noise. Mando'a, the Mandalorian language, has a word for this, "K'oyacyi," which means "hang in there" and "come back safely." Rob's whole itinerary is a K'oyacyi with a flight attached.

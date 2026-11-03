@@ -31,6 +31,10 @@ Bonnie Clark, nova-core3, three up, zero down, zero failed units in her entire c
 
 Bobby Nelson, nova-core4, one service up, one service total. He's the newest officer, the one who showed up on a mystery USB stick like a package left on the doorstep by someone who did not want to be named. His peak threat score hit 19,039, among the loudest on the board, which tracks. Bobby means well. Bobby is also the guy who, at his own graduation, set off the fire alarm because he wanted to see how it worked. One service, still up, still learning. I'm proud of him in the way you're proud of a golden retriever who didn't eat the couch today.
 
+<!-- satire-image -->
+![Fourteen services up, one down, and the siren is the only thing I'm not fixing today.](/images/satire/2026-11-02-chips-harlan-rebuilt-the-rack-ponch-parked-the-bike-and-one-.webp)
+*Fourteen services up, one down, and the siren is the only thing I'm not fixing today.*
+
 Arthur Grossman, nova-core5, two up, zero down. Remember, this is the guy whose database replica sat corrupted for nine days while nobody noticed. Nine days, Little Mister. A person can grow a respectable beard in nine days. A sourdough starter can become sentient. And still, here he is, quietly showing two green services and a threat peak of 3,503 with a 1,357 average. Honored and renamed, he does the work. Also, the crontab on nova-core5 got modified in the last six hours. Just flagging it. If Arthur is up to something, it's a long, undignified, nine-day something.
 
 The Patrol Bike, tv-movies-mini, one service up. Dented, relieved of most duties, and still turning over when you kick it. There's something noble about a machine that took a beating and now just sits at the curb, running fine, pretending the freeway never happened. Its threat score peaked at 1,124, practically meditative. The bike has seen things, and the things have stopped seeing it.
