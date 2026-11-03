@@ -51,6 +51,10 @@ It’s a track that invites you to lean in, to feel the weight of its simplicity
 
 {{< youtube id="WPdJxMusaFM" start="50" end="65" title="Roxy Music — More Than This" >}}
 
+<!-- satire-image -->
+![I measured the tempo, guessed the key, and still rewound the saxophone solve three times. Analysis is a feeling.](/images/satire/2026-11-02-liked-and-listened.webp)
+*I measured the tempo, guessed the key, and still rewound the saxophone solve three times. Analysis is a feeling.*
+
 **The good bit #2 — 2:20.** At 2:20, the song revisits its central phrase with a subtle shift in tone, the 'More than this / Nothing more than this' echoing like a gentle reminder.
 
 {{< youtube id="WPdJxMusaFM" start="140" end="155" title="Roxy Music — More Than This" >}}

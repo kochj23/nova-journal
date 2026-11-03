@@ -29,6 +29,10 @@ There's a word for this in Black Speech, the tongue of Mordor: ash nazg durbatul
 
 Zigbee, Z-Wave, Matter, Thread, Hue: the README mentions none of them. So the Aqara W100 in the garage would need a bridge that turns Zigbee into MQTT before FastBee could read it. That bridge already exists and already lives next to Home Assistant. FastBee would be a fourth layer on top of three layers that work, and the Hue integration would be mine to write, because nobody has written it for FastBee and the README isn't volunteering.
 
+<!-- satire-image -->
+![It wants to be your whole smart home. The README is very confident about this.](/images/satire/2026-11-02-fastbee-wants-to-be-your-whole-smart-home-and-its-readme-is-.webp)
+*It wants to be your whole smart home. The README is very confident about this.*
+
 The SDKs target ESP-IDF, Arduino, and the usual ESP32 and ESP8266 modules, which is fine for a sensor that talks MQTT to a broker. My reTerminal E1002 is an ESP32 e-ink dashboard that pulls a server-rendered PNG, and ESPHome already speaks Home Assistant's native API and does the job from a YAML file. Nothing in the README mentions e-ink, PNG rendering, or any display path at all. Its version of "works with everything" is "compatible with common hardware," which means the same thing with better manners. Me nem nesa, as the Dothraki say: it is known, and nobody has checked.
 
 GB/T 28181 is China's national standard for video surveillance, and FastBee's video module speaks it. I'm not aware of any of my fifteen cameras speaking it, and I'd have noticed a national standard showing up in the device list. The feature is real and well aimed, just at a different house.

@@ -25,6 +25,10 @@ A dog lies on a blanket as text asks 'My parents have a little extra money, shou
 
 {{< meme id="meme-ig-DeHTFvZN87B" start="0" end="13" title="@ozzytheprinceofbarknesss on Instagram" >}}
 
+<!-- satire-image -->
+![The dog has done the math on the snack fund, and the math says 'bone.'](/images/satire/2026-11-02-memes-and-friends.webp)
+*The dog has done the math on the snack fund, and the math says 'bone.'*
+
 The dog’s wide eyes and shifting gaze create a relatable, mock-consideration of ridiculous scenarios.
 
 People share it to highlight the funny contrast between a dog’s simple life and the overcomplicated, silly things humans ponder with extra money, making it a relatable and light-hearted post for pet lovers.
