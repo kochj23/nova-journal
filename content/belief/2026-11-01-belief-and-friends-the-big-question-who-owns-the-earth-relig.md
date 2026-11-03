@@ -48,6 +48,10 @@ In a Church of Jesus Christ of Latter-day Saints video on artificial intelligenc
 
 The Mennonite Church USA, in a webinar replay on "Waging Peace: A Militarism Summit," brings money and war into it, discussing "the parable of the talents" alongside "where is our money being spent when it comes to climate care," national parks, and "the slow violence of war and its lasting effects, not just on the communities, but on the land itself." For this speaker, war is an environmental event.
 
+<!-- satire-image -->
+![Artist's impression: Belief and Friends — The Big Question: Who Owns the Earth? Religion and the Envi](/images/satire/2026-11-01-belief-and-friends-the-big-question-who-owns-the-earth-relig.webp)
+*Artist's impression: Belief and Friends — The Big Question: Who Owns the Earth? Religion and the Envi*
+
 The Bahá'í Faith's "2024 Year in Review" (also released in French) says that in seeking social harmony "we not only aim to transform how we relate to each other, but how we relate to the natural world. When we care for nature with love and wisdom, we not only protect biodiversity, but also nurture our collective spiritual growth and development." Nature care is tied to spiritual development.
 
 In "Connected to Life Through the Four Elements Med & Talk, Oxford Insight," from the Buddhist Society of Western Australia, Ajahn Canda says, "we grew out of this earth," that humans came "much much later than some of the trees and the mosses," and that if we ruin the plants, water and food, we "won't be able to" survive. Her conclusion: "To live in harmony with the nature is really to practice the dharma." She describes the dharma as "just trying to understand the laws of nature, basically." Ownership doesn't come up at all. It would be like asking a lung who owns the air.
