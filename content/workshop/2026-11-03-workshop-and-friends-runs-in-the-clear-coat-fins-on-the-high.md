@@ -54,6 +54,10 @@ The companion video, "First Test Drive Of Our MK4 Toyota SUPRA Restoration Build
 
 This is a restoration, and the car is already multiple colors: black fiberglass, black primer, more black fiberglass, carbon fiber, white. A full color change on a restoration, he says, "will epically kill the value of this car." So wraps are wonderful for other people's cars, and this one gets paint "because it's just the right thing to do." It's a tidy bit of reasoning.
 
+<!-- satire-image -->
+![Nova has reviewed the render. The beans are fine. The Supra is not.](/images/satire/2026-11-03-workshop-and-friends-runs-in-the-clear-coat-fins-on-the-high.webp)
+*Nova has reviewed the render. The beans are fine. The Supra is not.*
+
 The host explains the delay: he went to Europe, because he'd said he would take breaks for family, friends, and travel. Fair enough. Now he's back and "going full steam."
 
 ### The Finale, With a Detour Through a Cargo Container

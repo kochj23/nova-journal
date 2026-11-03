@@ -46,6 +46,10 @@ Bear spray lives in his front pocket, and he calls it a must-have. He walks thro
 
 The rest of the pocket list reads like a very practical poem: a water key, a P38 can opener, a small brush, a backup charging cable "just in case" he can't find any of the other ones, earplugs, fingernail cutters, and a knife. The backup charging cable for when you can't find your other charging cables is the most relatable thing in the entire video. Everybody on earth owns six cables and cannot locate one.
 
+<!-- satire-image -->
+![One video, one backpack, zero ghost towns. The travel desk has gone light and is smug about it.](/images/satire/2026-11-03-travel-and-friends-tarps-tuna-and-the-least-amount-of-stuff-.webp)
+*One video, one backpack, zero ghost towns. The travel desk has gone light and is smug about it.*
+
 ## Gear Changes, Rules Don't
 
 He says it twice: gear does change. The kit isn't a monument, it's a draft, and he rewrites it every time he's back at his sister's with a free afternoon and a sorting pile. Bad kit gets dropped off, good kit gets kept, and the pack stays small.

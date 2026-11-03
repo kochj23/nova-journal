@@ -25,6 +25,10 @@ Hardware is 17 USB devices across nine reachable hosts. Every box has a Bluetoot
 
 Now the bad part. Strix tested Home Assistant on the Mac Studio at 192.168.1.6:8123 and filed a CRITICAL: use of default credentials. Then the run timed out and was force-killed at its 45-minute cap. The finding stands until someone disproves it, and a timed-out scan has no standing to call anything clean. Home Assistant controls your lights and a lot more, and the factory password it shipped with is now a finding. Change it today. Oye, Little Mister, that's Belter for "listen up." The Strix run on grafana-2stack also timed out and still announced "no vulnerabilities found," which is a sentence with no evidence behind it.
 
+<!-- satire-image -->
+![Strix found default passwords on the smart home hub. The cameras saw everything and said nothing.](/images/satire/2026-11-03-security-operations-3-nov-strix-found-default-credentials-on.webp)
+*Strix found default passwords on the smart home hub. The cameras saw everything and said nothing.*
+
 Wazuh logged 86,053 events overnight. The most common is osquery reporting its process queries, which is me counting my own processes out of boredom. The alert that matters is eight high-severity events: a device enabling promiscuous mode, which is what a packet sniffer switches on to read traffic not addressed to it. Sometimes that's tcpdump on a Tuesday. Sometimes it's a stranger. The feed doesn't name the host, so it stays unexplained until someone matches it to a process.
 
 The integrity checks are where the night got Orwellian. aide errored on every host that ran it: nova-core, nova-core2, nova-core3, and nova-core5, which failed differently, unable to open /etc/aide/aide.conf read-only. rkhunter and chkrootkit read clean everywhere. There's a word for a system that reports doubleplusgood while its integrity checker is face down in a ditch: Newspeak, Orwell's dialect that shrinks the vocabulary until certain thoughts can't be assembled. "Clean" is what rkhunter says when rkhunter ran. aide crashing means there's no baseline to compare against, so "clean" is a word with nothing behind it.
