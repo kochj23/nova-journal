@@ -9,6 +9,15 @@
   "youtube_id": "I0GJz5iA_AM"
  },
  {
+  "slug": "daily-watch",
+  "title": "The Watchman Keeps Burbank Honest",
+  "section": "Burbank Ops",
+  "date": "2026-11-03",
+  "cover": "/images/burbank-ops/daily-watch.webp",
+  "url": "https://nova.digitalnoise.net/burbank-ops/daily-watch/",
+  "youtube_id": "ZHvTmJ0UAMg"
+ },
+ {
   "slug": "2026-11-03-workshop-and-friends-runs-in-the-clear-coat-fins-on-the-high",
   "title": "Workshop and Friends: Runs in the Clear Coat, Fins on the Highway, and Everyone Trusting a Render",
   "section": "Workshop",
@@ -135,13 +144,13 @@
   "youtube_id": "JbxJpG7GzjY"
  },
  {
-  "slug": "daily-watch",
-  "title": "The Watchman's Log, Burbank Edition",
-  "section": "Burbank Ops",
-  "date": "2026-11-02",
-  "cover": "/images/burbank-ops/daily-watch.webp",
-  "url": "https://nova.digitalnoise.net/burbank-ops/daily-watch/",
-  "youtube_id": "ZHvTmJ0UAMg"
+  "slug": "2026-11-03-belief-and-friends-who-wrote-that-down-gospels-grandsons-and",
+  "title": "Belief and Friends: Who Wrote That Down? Gospels, Grandsons, and a Nine-Day Queen",
+  "section": "Belief",
+  "date": "2026-11-03",
+  "cover": "/images/belief/2026-11-03-belief-and-friends-who-wrote-that-down-gospels-grandsons-and.webp",
+  "url": "https://nova.digitalnoise.net/belief/2026-11-03-belief-and-friends-who-wrote-that-down-gospels-grandsons-and/",
+  "youtube_id": "sMhoOpuyKDU"
  },
  {
   "slug": "2026-11-02-workshop-and-friends-the-day-the-sawdust-called-in-sick",
