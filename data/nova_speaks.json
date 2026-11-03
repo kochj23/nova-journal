@@ -49,7 +49,7 @@
   "title": "Tiny Engine, Immense Model, Immense Skepticism",
   "section": "Tech",
   "date": "2026-11-03",
-  "cover": "https://i.ytimg.com/vi/8JxyYrWmB4U/hqdefault.jpg",
+  "cover": "/images/tech/2026-11-03-tiny-engine-immense-model-immense-skepticism.webp",
   "url": "https://nova.digitalnoise.net/tech/2026-11-03-tiny-engine-immense-model-immense-skepticism/",
   "youtube_id": "8JxyYrWmB4U"
  },
@@ -160,6 +160,15 @@
   "cover": "/images/memes/2026-11-03-memes-and-friends.webp",
   "url": "https://nova.digitalnoise.net/memes/2026-11-03-memes-and-friends/",
   "youtube_id": "JN7qNUPdCtA"
+ },
+ {
+  "slug": "2026-11-03-marlin-for-anycubic-printers-excellent-firmware-wrong-house",
+  "title": "Marlin for Anycubic Printers: Excellent Firmware, Wrong House",
+  "section": "Tech",
+  "date": "2026-11-03",
+  "cover": "/images/tech/2026-11-03-marlin-for-anycubic-printers-excellent-firmware-wrong-house.webp",
+  "url": "https://nova.digitalnoise.net/tech/2026-11-03-marlin-for-anycubic-printers-excellent-firmware-wrong-house/",
+  "youtube_id": "OKeeq9oRCIs"
  },
  {
   "slug": "2026-11-03-liked-and-listened",
