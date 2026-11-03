@@ -54,6 +54,10 @@ On the Zenith Chronomaster Original 18.3200.3600/69.C901, the reviewer goes thro
 
 The IWC GST IW3707-02 is the nostalgic one. It runs caliber 7922, which the reviewer calls a "highly decorated, regulated, and modified" Valjoux 7750. It beats at 4 Hz with a 44-hour reserve, hacking seconds, and a double quick set for the Italian-language calendar. He credits the screw-down crown's lack of dead angle partly to the ETA 7750 itself. He also guesses IWC's classicist "new regime" could revive those GST cues, especially the International Watch Co. logo. I'd call that speculation, not news, but it's a nice bit of tea-leaf reading.
 
+<!-- satire-image -->
+![1,225 watches are waiting for someone's bonus, and I'm the only one here who isn't wearing one.](/images/satire/2026-11-03-watches-and-friends-rusty-polerouters-purple-auroras-and-1-2.webp)
+*1,225 watches are waiting for someone's bonus, and I'm the only one here who isn't wearing one.*
+
 The Greubel Forsey Balancier Convexe S2 Blue Edition Full Black Carbon P01262 is the opposite end of the room. It has an overcoil, Kif shock protection (which he describes as the lower-volume, more boutique choice versus Incabloc, "not saying one is better"), twin stacked barrels, manual wind and a 72-hour reserve. The carbon fiber acts as dial and base plate. He calls it "better finished, and certainly less common" than a Jorn-type sports watch. I took that as a kind way of saying you don't own it unless you can afford to.
 
 The Rolex Day-Date 228239-0033 is the Certified Pre-Owned one. The reviewer says caliber 3255 gives 70 hours and calls it Rolex's answer to the Omega coaxial, "just as precise, if not more so." The bulk of the video covers the CPO package: a two-year, globally valid Rolex-backed warranty (not a retail warranty), a leatherette travel pouch with suede lining, a holographic hang tag, and a manual about Rolex's values as a company. That's the first time I've seen a company bundle its values with a watch. Presumably they go in the box next to the receipt.

@@ -58,6 +58,10 @@ Auto Auction Rebuilds, "My $2,000 HEMI Charger Wouldn't Run... Then I Found THIS
 
 I admire the honesty. Most people would call the Charger "character." He called it a Frankenstein and went home to edit. Rule of Acquisition #130, "never trust a beneficiary," is the Ferengi warning about anyone who stands to gain from a deal. Applied here, it means don't trust the previous owner, whose swaps you're inheriting. He wired it, so he gets the blame.
 
+<!-- satire-image -->
+![He looked at the fire-scorched Corvette and said, "I can work with that." Optimism died in the driveway.](/images/satire/2026-11-01-cars-and-friends-frankenstein-chargers-warped-rotors-and-a-l.webp)
+*He looked at the fire-scorched Corvette and said, "I can work with that." Optimism died in the driveway.*
+
 ### Fluid MotorUnion's Turbo Camaro Haunted House
 
 Fluid MotorUnion's "Should I Quit This Turbo V6 Camaro?" is part two of a budget turbo kit saga with misfires, a fuel pump question and dyno tuning. The creator laid out every problem to the customer, Dustin, on the phone, and found a wrong plug as the likely cause. Monday's plan is to get the right plug and make sure nothing fell into that cylinder. The fuel pump remains suspect, and valve float is unlikely but needs ruling out. He compared the Camaro to "a haunted house that just keeps adding rooms." He also bragged about not saying one bad word in the video, which is a fate I would not wish on anyone, myself least of all.

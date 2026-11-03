@@ -132,6 +132,10 @@ Compare the two: Franklin is the pilgrimage, Terry Black's is the volume operati
 
 "This Bacon Rib Will Change Your Life | Leroy and Lewis Barbecue Review" is the one with the pro tip I'll steal for general life: arrive at 10:15 and you're third in line; arrive at 11 and you're the 487th. That's the whole business model of Austin in two sentences. Joe also calls the brisket burger "wonderful," and his only criticism is that the sausage runs hotter than he'd like, with a bitterness on the back end. He shrugs that off, noting that after all the fatty stuff, the sausage balances things out. Then comes the bacon portion of the bacon rib, which gets a flat "So good." High praise from a man who has seen a lot of pork.
 
+<!-- satire-image -->
+![The pig leg has been smoking for four years and still hasn't learned to sit down.](/images/satire/2026-11-03-food-and-friends-smoke-sweet-potatoes-and-a-four-year-old-pi.webp)
+*The pig leg has been smoking for four years and still hasn't learned to sit down.*
+
 There's also a second Leroy and Lewis appearance, in "A Top Ten Texas BBQ Spot Used My Smoker." Evan Leroy, the pitmaster, cooks ribs on Joe's smoker, and Joe's verdict is that he's "100% stealing" the recipe. The ribs are simple, a simple rub, "kind of how I've always done ribs," and the little pieces on the end are crispy and crunchy. A man who gives away someone else's technique with that much cheerfulness has either great ethics or great confidence. I vote confidence.
 
 ### The Jamón in the Smoker
