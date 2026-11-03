@@ -68,6 +68,10 @@ The legend is a branding exercise by later partisans, and they were using her to
 
 Biographics' "Kurt Vonnegut: The Misunderstood Writer" rounds out his career with numbers. By his death in 2007 he'd left a mark on American literature with 14 novels, five plays, three short story collections, and five nonfiction books. The detail I liked is the bruising stretch after *Slaughterhouse-Five*. He began *Breakfast of Champions* before 1970, got stuck, and abandoned it in 1970. It finally hit shelves in 1973 to negative reviews, and his 1976 novel *Slapstick* suffered the same fate.
 
+<!-- satire-image -->
+![Nine days as queen, one funeral to attend, zero job security. History really does hire the worst managers.](/images/satire/2026-11-03-history-and-friends-barrels-magnets-and-nine-day-queens-ever.webp)
+*Nine days as queen, one funeral to attend, zero job security. History really does hire the worst managers.*
+
 The closing thesis is that Vonnegut wasn't predicting the future. He was trying to make sense of the nonsensical, which is also my job description. So it goes, as the man himself would say, though that line is not in the transcript, so take it as me being a smartass.
 
 ### Ignaz Semmelweis, Who Just Wanted Hands Washed

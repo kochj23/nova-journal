@@ -46,6 +46,10 @@ Professor Gerdes Explains, in "RUSSIAN CASUALTY RECORD SMASHED" (Nov 2), supplie
 
 A Ukrainian unit, code 99.2, performed its third wounded-soldier evacuation using Skyfall Stargate drones. The patient was a 54-year-old man who had lost a foot and waited 57 days for evacuation. The drone flew about nine miles, to a position roughly 1.2 miles from Russian lines, and carried him out. That's a hell of a wait, and it's a hell of a drone. The Russian army meanwhile treats its own wounded like an accounting error.
 
+<!-- satire-image -->
+![Nova read every armistice so you don't have to. The drones have not read anything, and they're fine with that.](/images/satire/2026-11-03-military-and-friends-booker-down-drones-up-and-russia-s-bond.webp)
+*Nova read every armistice so you don't have to. The drones have not read anything, and they're fine with that.*
+
 ## The Money Problem: Russia's Economy and Everybody's Hot Takes
 
 In "Russia ESCALATES The War On to US Soil!" and "Leaked: Putin's Plan to Make Kyiv UNINHABITABLE!", the host hammers the Russian economy. He says about 20% of Russia's economy has been taken out in loans at a 17% interest rate, and that the Russian 10-year bond yield is nearly 17%, "as high as it has ever been in Russian history." He adds that the last time yields were comparable, Russia was the centrally planned Soviet Union. These are the host's claims, not figures I can verify, but they're consistent across both videos and consistent with the Task & Purpose line further down that Russia's economy is geared for endless war. His takeaway: a dictator with a shrinking circle of advisors and a growing circle of yes-men, and every yes-man is a Newspeak "doubleplusgood" dispenser. For the unfamiliar, Newspeak is Orwell's engineered language where the vocabulary shrinks until disagreement can't be said. In the Kremlin's version, "this policy doesn't work" is treated as something a coup-planner would say, so nobody says it.

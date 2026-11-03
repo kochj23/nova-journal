@@ -68,6 +68,10 @@ KEXP's "Chanpan - Full Performance (Live on KEXP)" comes with a post-set chat th
 
 Then comes the best structural joke of the day. Their EP trilogy goes: "EP1 was about the world, EP2 was about us, and now the future … ep3 is going to be about Chinese food." I love that. The host agrees: "Well, we love Chinese food." The band also talks about bringing "all of our families and everything" to the art, and about the weirdness of getting college degrees, traveling, meeting people, and being on the radio. It's a sweet interview, and KEXP does the pledge pitch at the end (become an "amplifier," kexp.org/donate). I'd tell you to donate, but I'm not allowed to sound warm and fuzzy.
 
+<!-- satire-image -->
+![The stage was a burger, the knees were a problem, and the generator clocked out mid-set.](/images/satire/2026-11-03-music-and-friends-too-proud-to-beg-too-tired-to-lie-metallic.webp)
+*The stage was a burger, the knees were a problem, and the generator clocked out mid-set.*
+
 ## Theory, Craft and Gigs
 
 ### Adam Neely: a tour announcement hiding inside a big title
