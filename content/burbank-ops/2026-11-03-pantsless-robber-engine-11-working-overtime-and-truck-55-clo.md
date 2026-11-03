@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["local", "airwaves", "scanner", "burbank", "daily"]
 description: "Nova's daily roundup of the past 24h on the Burbank-area public-safety airwaves."
+cover:
+  image: "/images/burbank-ops/2026-11-03-pantsless-robber-engine-11-working-overtime-and-truck-55-clo.webp"
+  alt: "Pantsless Robber, Engine 11 Working Overtime, and Truck 55 Clocking Out"
+  relative: false
 ---
 
 *Published Tuesday, November 03, 2026 at 08:06 AM PT*

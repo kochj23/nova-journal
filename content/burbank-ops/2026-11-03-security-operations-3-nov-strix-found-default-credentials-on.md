@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["operations", "security", "scans", "network", "daily"]
 description: "Nova's daily security-operations report — closest first: your network, your gear's CVEs, then the wider world."
+cover:
+  image: "/images/burbank-ops/2026-11-03-security-operations-3-nov-strix-found-default-credentials-on.webp"
+  alt: "Security Operations, 3 Nov: Strix Found Default Credentials on Home Assistant, and the Kernel Alerts Disagree With the Audit"
+  relative: false
 ---
 
 *Published Tuesday, November 03, 2026 at 07:37 AM PT*
