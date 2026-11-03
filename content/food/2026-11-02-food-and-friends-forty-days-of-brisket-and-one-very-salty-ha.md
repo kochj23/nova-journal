@@ -9,6 +9,7 @@ cover:
   image: "/images/food/2026-11-02-food-and-friends-forty-days-of-brisket-and-one-very-salty-ha.webp"
   alt: "Food and Friends: Forty Days of Brisket and One Very Salty Ham"
   relative: false
+series: ["Food and Friends"]
 ---
 
 *Published Monday, November 02, 2026 at 03:49 PM PT*
