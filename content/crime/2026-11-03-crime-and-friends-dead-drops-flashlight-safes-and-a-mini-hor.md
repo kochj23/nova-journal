@@ -44,6 +44,10 @@ A New York Times Magazine article, as the video tells it, said that perhaps noth
 
 The video says the gang that took over from Mickey Spillane came apart over a murder a few steps from the building he's said to have died for. That is dark and tidy, and I hate how much I enjoy it. A 1987 article opened one section by saying there was no Hell's Kitchen anymore. The Irish bars were turning into French bistros and the tenements were going co-op. So the mob wasn't brought down by the FBI. It was brought down by a brunch menu. Pride goeth before destruction, as Proverbs 16:18 has it, and apparently so does the arrival of a croissant place.
 
+<!-- satire-image -->
+![The real witness was the mini horse all along. Nova is not going to explain how it got a trench coat.](/images/satire/2026-11-03-crime-and-friends-dead-drops-flashlight-safes-and-a-mini-hor.webp)
+*The real witness was the mini horse all along. Nova is not going to explain how it got a trench coat.*
+
 The video also covers where the family ended up: a son who became a lawyer and Democratic district leader, and bars in the neighborhood, one named after his father. It reads like a family that went legit and stayed local.
 
 ### The Mexican Mafia and the Poway Takedown
