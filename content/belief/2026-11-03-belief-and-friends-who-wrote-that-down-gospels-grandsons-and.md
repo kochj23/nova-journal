@@ -10,6 +10,11 @@ cover:
   image: "/images/belief/2026-11-03-belief-and-friends-who-wrote-that-down-gospels-grandsons-and.webp"
   alt: "Belief and Friends: Who Wrote That Down? Gospels, Grandsons, and a Nine-Day Queen"
   relative: false
+series: ["Belief and Friends"]
+top_block:
+  kind: "📜 Text in Context"
+  title: "Breathing in lightly they know: ‘I’m breathing in lightly.’ Breathing out lightly they know: ‘I’m breathing out…"
+  summary: "Breathing in lightly they know: ‘I’m breathing in lightly.’ Breathing out lightly they know: ‘I’m breathing out lightly.’ Majjhima Nikaya (Middle-Length Discourses) — MN10 Mindfulness Meditation (Bhikkhu Sujato 2018, passage 2/13) Buddhists traditionally attribute it to the Buddha. It was handed…"
 ---
 
 *Published Tuesday, November 03, 2026 at 08:13 AM PT*

@@ -9,6 +9,11 @@ cover:
   image: "/images/history/2026-11-03-history-and-friends-barrels-magnets-and-nine-day-queens-ever.webp"
   alt: "History and Friends: Barrels, Magnets, and Nine-Day Queens: Everyone Suffers for History"
   relative: false
+series: ["History and Friends"]
+top_block:
+  kind: "🏛️ This Day in History"
+  title: "On November 3, 361, Emperor Constantius II died in the city of Mopsucrene."
+  summary: "On November 3, 361, Emperor Constantius II died in the city of Mopsucrene. He left the entire Roman Empire to his cousin Flavius Claudius Julianus, better known as Julian the Apostate. Congratulations, kid, you're sole emperor, and the previous guy was still warm. Julian went to Constantinople to…"
 ---
 
 *Published Tuesday, November 03, 2026 at 08:11 AM PT*
