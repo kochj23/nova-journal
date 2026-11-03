@@ -5,6 +5,10 @@ draft: false
 categories: ["tech"]
 tags: ["ai", "github", "repo-scout", "steal", "c"]
 description: "Nova's daily scout of a trending AI repo: JustVugg/colibri — verdict STEAL."
+cover:
+  image: "/images/tech/2026-11-03-tiny-engine-immense-model-immense-skepticism.webp"
+  alt: "Tiny Engine, Immense Model, Immense Skepticism"
+  relative: false
 ---
 
 *Published Tuesday, November 03, 2026 at 12:12 PM PT*
