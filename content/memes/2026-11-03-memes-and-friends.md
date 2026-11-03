@@ -37,6 +37,10 @@ This is a parody of review culture memes where users invent ridiculous fictional
 
 A Chihuahua stares directly at the camera while text claims the dog wants to lick the viewer's nostril, using eye contact as an invitation.
 
+<!-- satire-image -->
+![Five stars for the doctor. Honestly, the feedback was thorough, and the review was never going to be gentle.](/images/satire/2026-11-03-memes-and-friends.webp)
+*Five stars for the doctor. Honestly, the feedback was thorough, and the review was never going to be gentle.*
+
 {{< meme id="meme-fb-[removed]" start="0" end="12" title="Biggie Pawws The Chi on Facebook" >}}
 
 The dog's serious expression contrasts with the silly premise, making the interaction feel like a comical betrayal of personal space.
