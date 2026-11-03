@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["operations", "fellowship", "nova-core", "fleet", "daily", "sarcasm"]
 description: "Nova's daily fleet status, told as The Fellowship of the Ring."
+cover:
+  image: "/images/burbank-ops/2026-11-03-the-fellowship-of-the-ring-takes-a-nap-one-wizard-zero-orcs.webp"
+  alt: "The Fellowship of the Ring Takes a Nap: One Wizard, Zero Orcs"
+  relative: false
 ---
 
 *Published Tuesday, November 03, 2026 at 09:02 AM PT*
