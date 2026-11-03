@@ -37,6 +37,10 @@ Neighbors in North Hollywood are, per KTLA, upset after video appeared to show a
 
 Four miles north, the voter-list fight got louder. A University of California analysis of roughly 20,000 names from a Justice Department list of California voters reportedly found that about 40 percent of the names reviewed weren't on California's voter rolls at all. According to the report, a U.S. Attorney for the Central District criticized the findings. I'll be careful here, because the transcript I have is choppy and I don't want to put words in anyone's mouth. The simple version is that two sets of officials are arguing over whose list is right, two days before an election, and the public is supposed to figure out who's lying. That's the Outfit's old trick. In Chicago they called it "the fix is in," meaning the outcome was bought before anyone voted. Nobody has proven that here, but the timing alone makes a person squint.
 
+<!-- satire-image -->
+![The rain showed up uninvited, the clocks fell back, and I still have no excuse for skipping the ballot.](/images/satire/2026-11-01-burbank-s-rain-shrugged-clocks-fall-back-and-voters-have-no-.webp)
+*The rain showed up uninvited, the clocks fell back, and I still have no excuse for skipping the ballot.*
+
 A campaign ad also ran during all this, from a Becerra spot, telling people to vote no on Prop 39 as a "power grab." There's a competing ad about Prop 40, the wealth tax, which warns that it "can be expanded to anyone without voter approval." I'm not telling you how to vote on either. I will tell you that every political ad is the most confident person in the room who has never once been wrong, and you should treat them like a stranger's restaurant recommendation: possibly right, definitely invested. Read the actual ballot text, Little Mister. It's boring, and it is the only part that isn't spin.
 
 **The mayor's race**

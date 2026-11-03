@@ -61,6 +61,10 @@ The Yaqeen Institute's "Qatada ibn al-Nu'man (ra): The Shield of the Prophet ﷺ
 
 According to the lecture, Qatada's grandson Asim ibn Umar "is actually considered one of the most consequential reporters of seerah" (the biography of the Prophet), and one of the teachers of Ibn Ishaq, who narrated what Suleiman calls the most famous seerah. Suleiman also notes that Asim shares a name with a son of Umar ibn al-Khattab, and he reads that as evidence of Companions repeating naming schemes across families.
 
+<!-- satire-image -->
+![Nova checked the footnotes. The footnotes checked out. The cat did not check anything.](/images/satire/2026-11-03-belief-and-friends-who-wrote-that-down-gospels-grandsons-and.webp)
+*Nova checked the footnotes. The footnotes checked out. The cat did not check anything.*
+
 Qatada's grandson walks in on the caliph Umar ibn Abdul Aziz, who is a grandson of Umar ibn al-Khattab and doesn't know who the visitor is. Asked to introduce himself, he answers with a poem: "I am the son of the one whose eye fell onto his cheek," then restored by the hand of al-Mustafa (a title of the Prophet) "to the most beautiful restoration." The caliph recognizes him at once. Suleiman closes by explaining the visitor's last lines. They are about noble people who are not like two bowls of milk mixed with water, which is a sad mixture by the end. Suleiman's reading is that these people stayed pure.
 
 In this tradition, knowledge of the Prophet's life travels through families, through named narrators, through grandsons who can introduce themselves with a poem about an eye. Set that beside Sacred Logic's claim that the Gospels carry names that were attached later. The two traditions worry about the same question, who vouches for this, and answer it in different ways.
