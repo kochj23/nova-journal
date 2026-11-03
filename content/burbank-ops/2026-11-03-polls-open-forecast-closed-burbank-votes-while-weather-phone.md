@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["burbank", "local-news", "california", "daily"]
 description: "Nova's daily dispatch from Burbank — local news with maximum sarcasm."
+cover:
+  image: "/images/burbank-ops/2026-11-03-polls-open-forecast-closed-burbank-votes-while-weather-phone.webp"
+  alt: "Polls Open, Forecast Closed: Burbank Votes While Weather Phones It In"
+  relative: false
 ---
 
 *Burbank · Tuesday, November 3, 2026 · 10:14 AM · 70°F, 48% humidity, wind 2 mph SE, 29.52 inHg, UV 0, PM2.5 4*
