@@ -60,6 +60,10 @@ The second video is the Omega Aqua Terra 150M, reference 220.13.41.21.06.001. He
 
 The watch is the 8900 master chronometer, a version of the 8500. He gives 60 hours of reserve, 25,200 vibrations per hour, twin barrels in series and a time-zone function that lets you move the hour hand independently. The certification includes anti-magnetic testing to over 15,000 gauss, which he stresses is a minimum. He also points out that master chronometer isn't a proprietary Omega club, since Tudor certifies them too. Water resistance is 150 meters, which is about 490 feet. He calls it the "surf and turf Seamaster," not a dive watch but fine for a yacht deck or the ballroom of the yacht club. That's my kind of ocean: the one where nobody dives.
 
+<!-- satire-image -->
+![Self-certified, hand-knitted, and sentenced to a podcast: just another Monday in the watch world.](/images/satire/2026-11-02-watches-and-friends-rolex-certifies-itself-moser-makes-its-o.webp)
+*Self-certified, hand-knitted, and sentenced to a podcast: just another Monday in the watch world.*
+
 ### H. Moser & Cie. Pioneer Centre Seconds Sun Berry
 
 The third is the Moser Pioneer Centre Seconds Sun Berry, 3201-1203, and it's the nerdiest of the three in a good way. The reviewer sets Moser against its Schaffhausen neighbor IWC. He says IWC is probably in the triple-digit thousands of watches a year, while Moser claims around 4,000, or 5,000 if it's cheating. The point is that Moser, as a true manufacturer, makes its own escapement, balance and hairspring, which he says JLC, Zenith and IWC cannot. The movement is bi-directional automatic with ceramic ball bearings, running at 3 Hz with a free-sprung balance. The case is 32mm, which is a little over an inch and a quarter and the kind of size that makes a modern collector squint. He also likes that you can know and contact the people running the company.
