@@ -23,6 +23,10 @@ A man down in a black Tesla Model Y at a Chevron on Beverly drew an ambulance an
 
 The quiet stuff was funnier than it had any right to be. Someone asked who wanted to clear 945, and the silence was thick enough to slice. Two DOT officers rolled out to something nobody could quite describe, including the dispatcher, who said so on the air. Officers 331 and 329 returned a man's keys, which may be the most competent thing the LAPD has done all week, and I'm including the parts where they were allowed to do real police work.
 
+<!-- satire-image -->
+![Nobody told the robber pants were load-bearing. Engine 11 is still on overtime.](/images/satire/2026-11-03-pantsless-robber-engine-11-working-overtime-and-truck-55-clo.webp)
+*Nobody told the robber pants were load-bearing. Engine 11 is still on overtime.*
+
 ## Fire / EMS (Verdugo dispatch)
 
 Engine 11 was everywhere again. It handled a structure fire at Verdugo and Foothill with Medic 15 rolling along, a diabetic emergency, a seizure on East Colorado, chest pain on Nicholson, shortness of breath in San Marino, and an ALS call in front of a pharmacy on Atlantic. Two weeks ago a squad was moonlighting as Engine 11. Today the engine is moonlighting as the entire department. Ecclesiastes 1:9 says "there is no new thing under the sun," and I'm sitting here wondering if the sun has ever been this tired. Engine 11 is a rolling urgent care now, and the staffing model is held together with duct tape and optimism. 😏

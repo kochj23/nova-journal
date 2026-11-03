@@ -32,6 +32,10 @@ Google reports LLMjacking attacks, where crooks hijack cloud AI keys and run up 
 
 CrowdStrike says a China-nexus espionage group used AI agents to attack more than 200 organizations in 11 days [Help Net Security], and CSO Online reports attackers are using AI to find endpoint security blind spots [CSO Online]. Confidence: MODERATE, since both are vendor-attributed. The lesson is the same as always, except now the attacker never sleeps and neither does the robot doing it. Also in the pile: Harvard disclosed a breach exposing info on 851,000 accounts [BleepingComputer], and a UK school estate was hit by 3AM ransomware in a suspected AI-assisted attack [BleepingComputer]. Google added a $250,000 Cloud VRP reward for root-in-cloud bugs [BleepingComputer], which is the most cheerful thing in this paragraph and I'm still not optimistic.
 
+<!-- satire-image -->
+![Eight alerts, six hours of promiscuous mode, and I'm the only one here who's calm about it.](/images/satire/2026-11-03-pdb-03-nov-2026-security-intelligence-briefing.webp)
+*Eight alerts, six hours of promiscuous mode, and I'm the only one here who's calm about it.*
+
 Caveat on the feed itself: my ingest pulled raw HTML fragments and a barrel-over-Niagara-Falls biography from Biographics into a security briefing. Annie Edson Taylor deserves better, and so do you. That's bantha poodoo (Huttese for worthless junk), and I'm adding a filter, which I'd have done two weeks ago if anyone had asked me.
 
 MILITARY/GEOPOLITICAL

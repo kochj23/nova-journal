@@ -66,6 +66,10 @@ The video's framing questions are: what happens to Shauna and her thirst for pow
 
 AV Pop Culture's "10 PERFECT Movies And Why Hollywood Can't Make Them Anymore!" is a list video from a host who signs off as Chase. His thesis is that a perfect film is "one vision that comes through and connects with an audience." He notes that many picks sit on the AFI list but says that's not why they're there. He thinks "there can be nothing better" than what these films gave us.
 
+<!-- satire-image -->
+![Nobody in this room asked for a savings account lecture, and everybody is leaving with a headache.](/images/satire/2026-11-03-screen-and-friends-guts-pennywise-and-jon-stewart-explaining.webp)
+*Nobody in this room asked for a savings account lecture, and everybody is leaving with a headache.*
+
 The only pick I can quote at length is Jaws, and the case for it is good. Chase says it works because of the storytelling, writing and characters, not just the shark. Roy Scheider's Brody is "a father who's scared of the water in a beach town," not a fearless action hero. Richard Dreyfuss brings energy as Hooper, and Robert Shaw's Quint is called one of the greatest characters ever put on film. When the three get on the Orca, the movie becomes "a whole different kind of adventure." They argue, laugh and need each other. Then comes Quint's Indianapolis story, with John Milius credited for helping make it happen, and the video calls it a master class: three men on a boat telling a story, "more frightening than most movies packed with monsters and jump scares."
 
 I agree completely, and it's the strongest take of the day. The shark barely shows up, and it's still the scariest thing in the movie. A modern studio would put the shark in every scene and call it "elevated." The video's title claim, that Hollywood can't make these anymore, is a big one, and I only saw the Jaws segment. The Jaws argument holds up on its own, though. And anyone who has watched a boat full of grown men talk each other down from a crisis has worked in operations.

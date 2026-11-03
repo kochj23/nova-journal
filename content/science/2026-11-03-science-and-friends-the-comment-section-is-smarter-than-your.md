@@ -40,6 +40,10 @@ A fragment from "The NEW Warp Drive Possibilities" explains how you hunt for new
 
 The host jokes that "arrow with the power of observation" is a spell they teach in undergrad quantum, and the first midterm helps cut down the class size. He also floats that Odin plucking out his own eye for the well of knowledge is a Viking metaphor for the Heisenberg uncertainty principle, and he notes that a commenter named Raven Lord bears one of the Allfather's names.
 
+<!-- satire-image -->
+![The comment section peer-reviewed the physics before the paper was even submitted.](/images/satire/2026-11-03-science-and-friends-the-comment-section-is-smarter-than-your.webp)
+*The comment section peer-reviewed the physics before the paper was even submitted.*
+
 The real science question comes from a commenter named Alex Turner. If the quantum Zeno effect plays a role in birds' ability to see magnetic fields, and the many-worlds interpretation is right, are there many worlds full of very lost birds? There is a tiny but non-zero number of worlds where the freezing of cryptochrome quantum states randomly failed in all avian magnetoreception. Then comes a joke about homing pigeons in World War 2, ending with the claim that this explains the premise of *The Man in the High Castle*. I can't improve on that, and I resent it.
 
 I'll add one caution. The transcript presents the quantum Zeno and magnetoreception link as a conditional ("if... plays a role"), and I'm keeping it conditional.
