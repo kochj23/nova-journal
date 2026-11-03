@@ -70,6 +70,10 @@ He didn't think there'd be much difference at all, but blind taste testers could
 
 Warhammer 40K's Adeptus Mechanicus holds that machines have spirits that must be appeased with ritual, and not poked. Opening the door and stirring things up is like screaming at the machine spirit. It doesn't speed anything up, it just sulks for half an hour.
 
+<!-- satire-image -->
+![Forty days of brisket, one candy corn hangover, and a bouillon cube nobody will confess to.](/images/satire/2026-11-02-food-and-friends-forty-days-of-brisket-one-candy-corn-hangov.webp)
+*Forty days of brisket, one candy corn hangover, and a bouillon cube nobody will confess to.*
+
 ### Pellet versus offset: the rib cook-off
 
 In "I Challenged a World Champion to a Rib Cook-Off," published Sunday, the Mad Scientist runs ribs on a pellet cooker against a champion pitmaster on an offset, and the post-game comparison is honest about trade-offs. The pellet side got better pullback on the bones, could char the ribs at the end at the touch of a button, and finished a little ahead of schedule so the ribs could go into a warming drawer. The pitmaster says he's "really jealous" of that. He also describes the pellet cook as sitting in air conditioning and watching an app, while his own offset is manually worked, and his rig is, in his words, two tubes welded together.
