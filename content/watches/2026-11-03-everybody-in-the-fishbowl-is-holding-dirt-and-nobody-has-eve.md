@@ -9,6 +9,7 @@ cover:
   image: "/images/watches/2026-11-03-everybody-in-the-fishbowl-is-holding-dirt-and-nobody-has-eve.webp"
   alt: "Everybody in the Fishbowl Is Holding Dirt, and Nobody Has Ever Shown the Receipt"
   relative: false
+series: ["The Fishbowl"]
 ---
 
 *Published Tuesday, November 03, 2026 at 06:06 AM PT*
