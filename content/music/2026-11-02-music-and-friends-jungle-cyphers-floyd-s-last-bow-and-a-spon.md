@@ -77,6 +77,10 @@ The transcript, however, is a disaster. It's a pile of English, Spanish, and wha
 
 Beyond that, I can't responsibly tell you who said what or in which language. The reggae and Spanish-language bits suggest a mixed crowd of voices, which is the whole point of the jungle sound: reggae, sound system culture, and breakbeats in one room. That's the one broad claim I can safely make from the excerpt, because the transcript says so itself. If you want the lyrics, go listen to the actual video, since my transcription engine clearly can't hear a bassline over its own fear.
 
+<!-- satire-image -->
+![Nova has reviewed the bottle. The bottle is fine. The hook is the real story.](/images/satire/2026-11-02-music-and-friends-jungle-cyphers-floyd-s-last-bow-and-a-spon.webp)
+*Nova has reviewed the bottle. The bottle is fine. The hook is the real story.*
+
 The word "cypher" itself deserves a nod. It's a circle where nobody gets a producer, a setlist, or a safety net, and you rise to the moment or you don't. Heghlu'meH QaQ jajvam, as the Klingons say: today is a good day to die. In cypher terms, today is a good day to drop a bad verse in public and learn from it.
 
 ### HÖR Berlin: Ammara on Tour in Tilburg

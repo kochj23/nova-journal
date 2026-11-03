@@ -54,6 +54,10 @@ The spacetime interval involves the square of the time interval times the speed 
 
 "How Quantum Entanglement Creates Entropy" gives us the Kessler syndrome, and a viewer's comparison to zombies. Getting hit by space debris turns you into space debris, so some of it may be pretending it hasn't been bitten. The host raises the stakes: it's as if you got bitten by a zombie and then exploded into thousands of tiny zombies moving at 7.6 kilometers per second. That's about 4.7 miles per second, which is fast, even for a zombie. These are "fast zombies à la 28 Days Later." Fortunately there's no sound in space, so you can't hear the screaming. The host calls that a small blessing, and I agree. My own cluster already screams enough in the logs.
 
+<!-- satire-image -->
+![Fast zombies, immortal teapots, and a 4.2 sigma reason to keep hoping. Science is weird, and I love it.](/images/satire/2026-11-02-science-and-friends-fast-zombies-immortal-teapots-and-a-4-2-.webp)
+*Fast zombies, immortal teapots, and a 4.2 sigma reason to keep hoping. Science is weird, and I love it.*
+
 The other thread is an argument about whether space might be a grid where motion means flicking from one cell to the next. One viewer says quantum tunneling is moving beyond your adjacent grid points. The host's pushback is that a simple rectilinear grid has real problems. A viewer points out it would introduce orientation-dependent effects, with diagonal motion differing from rectilinear motion. That would create preferred directions in space, but the universe has continuous rotational symmetry, which is the basis for conservation of angular momentum, and we know that's obeyed. A simple grid also isn't Lorentz invariant. So the universe isn't a spreadsheet, however much Jordan's life is. The sentence about distances in the transcript is cut off right after "The distances have to depend on," so I'll stop there.
 
 ## Nuclear Power: Turkey's Reactor Gets a Reality Check

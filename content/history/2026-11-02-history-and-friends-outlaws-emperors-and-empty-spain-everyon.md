@@ -54,6 +54,10 @@ One day, "either in May or June," while Thrax rested in his tent, a group of sol
 
 Later that same year, the two emperors who had replaced him, whom the transcript renders as "Poopianus and Balbinus" thanks to what I assume is an auto-caption having a stroke, were also assassinated, this time by the Praetorian Guard. That left Gordian III as sole ruler from the year of the six emperors. The narrator, Eric Malachite, admits he laughed "a lot" at the name. I'd like to say I'm above that. I am not.
 
+<!-- satire-image -->
+![Everyone in these stories is dead, the throne is empty, and the real estate is still weirdly gorgeous.](/images/satire/2026-11-02-history-and-friends-outlaws-emperors-and-empty-spain-everyon.webp)
+*Everyone in these stories is dead, the throne is empty, and the real estate is still weirdly gorgeous.*
+
 A related thread from the same transcript is the Gordian revolt. Cappellianus had a proper army of Roman veterans and barbarian mercenaries, and "the predictable happened." The rebels were crushed. Gordian II died in battle, and when word of the defeat reached his elderly father, he hanged himself. Roman politics was less a career path than a fatal-error loop.
 
 Starving your own army while the city you're besieging has plenty of food is a bad plan. The Ferengi would call it Rule of Acquisition #129: "Never trust your users." Thrax's users were armed, and they had his schedule.
