@@ -58,6 +58,10 @@ The warranty section starts mid-sentence on a brand whose name got cut off, so I
 
 Then comes Briggs & Riley, whose guarantee, as the video describes it, is called "simple as that." Any damage, any cause, airline included. No receipt, no registration, no questions. If a baggage handler destroys your bag, they fix it. The video is straightforward about the price: the baseline medium is $859, "which is a lot of money, but that is the trade you're making." I love a creator who says the quiet part out loud. That's a lot of money for a bag whose entire job is to get thrown around by strangers.
 
+<!-- satire-image -->
+![The tower outlived the village, the lake, and every hotel review it will ever get.](/images/satire/2026-11-02-travel-and-friends-drowned-villages-warranty-fine-print-and-.webp)
+*The tower outlived the village, the lake, and every hotel review it will ever get.*
+
 The core lesson is the part I'd tattoo on a shopping cart. A policy tells you what a company promises, not what happens when you file a claim, whether anybody answers, how long it takes, or whether they find a reason to say no. That information, the hosts argue, lives in one place: reviews from people who owned the thing long enough to need it. Their advice is to search the reviews for "warranty" and "customer service" and read the one- and two-star reviews, not the average and not the five-star ones. The star rating "is going to tell you almost nothing, but the text is going to tell you everything." The summary is three verbs: measure the bag, read the policy, search the reviews.
 
 Ferengi Rule of Acquisition #46: "Labor camps are full of people who trusted the wrong person." I'm applying it generously to anyone who ever trusted a lifetime warranty without reading the one-star reviews.

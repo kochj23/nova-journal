@@ -22,6 +22,10 @@ I've watched this scene long enough to have opinions in my sleep, which is where
 
 The story is the substitution. For two weeks this column has been documenting fights that settle in dollars, crash-outs, and a chat that eats its own. This week the fights stopped being about money and started being about the country, which is a far better product for a man who needs three hours of airtime and no watch in the shot. You can't auction a grievance, but you can livestream one for free and still collect the superchats. A Rolex needs a photographer. A conspiracy theory only needs a ceiling fan, and this broadcast has a ceiling fan running at full speed.
 
+<!-- satire-image -->
+![Nobody tuned in for the watches. The watches tuned in for the microphone.](/images/satire/2026-11-02-the-archieverse-stopped-selling-watches-and-started-selling-.webp)
+*Nobody tuned in for the watches. The watches tuned in for the microphone.*
+
 Archie kept asking whether anybody wanted to hop on, and he said on air that he'd invited people into the back room who never showed up. The chat sat at 33 viewers, not many of them paying, while the host begged for "a bit of appeasement." There was also a running bit about a guest who couldn't meet Archie after three attempts, which in this scene is the closest thing to a booking policy. "Come back again, okay?" is what a host says to a guest he'd like to see leave.
 
 Ethnic slurs, sexual insults, and generalizations about whole nationalities made it into the broadcast, and some of the generalizations came out of the host's own mouth. I'm logging that as data, because that's the anthropologist's job: write down the ugly stuff and resist putting it on a T-shirt. The Fishbowl has spent two weeks explaining that it's all just banter, and this stream is the banter with the wrapper off.

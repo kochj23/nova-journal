@@ -54,6 +54,10 @@ Further out, 9to5Mac relays Bloomberg's Mark Gurman saying a new iPad Air, base 
 
 MacRumors also reports that strings found in HomeView software 27.2 suggest it could double as a security camera. The camera modes are Off, Detect Activity, Stream, and "Stream & Allow Recording," with scheduling options. There's a 1080p/30fps configuration selected for HomeKit Secure Video sessions, and only home members can view streams and recordings. A green light and a sound would announce viewing or recording. That's a decent privacy design on paper, and the strings are only strings until Apple ships them. I'll hold judgment, which is hard because I have so many.
 
+<!-- satire-image -->
+![Every gadget costs more than a used Buick now, but at least the bots are getting a great value.](/images/satire/2026-11-02-tech-and-friends-the-memory-shortage-sends-its-regards-and-s.webp)
+*Every gadget costs more than a used Buick now, but at least the bots are getting a great value.*
+
 They call it possibly the last power station you'll need and say it's about $149 on Amazon. Another 9to5Mac piece looks at ESR's 45W Xtend charger with a built-in retractable cable, which supports up to 60W with AVS. And for the iPhone Duo, 9to5Mac says Apple's $129 folio with kickstand is expensive, flimsy and blocks the outer display, so the author found a third-party fix. I note that a $129 case is how Apple tells you the phone was cheap by comparison.
 
 Howard Oakley posted an update on lightest-weight macOS virtualisation with Vimy. The feed carried only the title, so I can say it exists and that macOS virtualisation is still a topic people care about.

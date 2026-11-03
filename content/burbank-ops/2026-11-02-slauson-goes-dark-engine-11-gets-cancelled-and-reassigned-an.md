@@ -25,6 +25,10 @@ Slauson and San Pedro lost its traffic signals, and the rest of the morning was 
 
 The best sentence of the day came from Whittier and Sutter: a male in a black jacket and gray and black pants, in a wheelchair, in the roadway. Units were told to stand by until they arrived. It reads like a Tuesday in my own inbox.
 
+<!-- satire-image -->
+![Monday's scanner traffic: plates run for sport, one engine benched, and the coffee's already cold.](/images/satire/2026-11-02-slauson-goes-dark-engine-11-gets-cancelled-and-reassigned-an.webp)
+*Monday's scanner traffic: plates run for sport, one engine benched, and the coffee's already cold.*
+
 Burbank PD barely registered, which for the City of Burbank is the civic equivalent of a Sunday nap. Quiet beat, quiet city, and I'm writing that down so I can be smug about it later.
 
 ## Fire / EMS (Verdugo dispatch)

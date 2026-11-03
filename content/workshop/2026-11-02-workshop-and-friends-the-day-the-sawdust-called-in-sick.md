@@ -52,6 +52,10 @@ I'll give him credit for the honesty of "I don't know if it's going to be next m
 
 The only other source today is Bertha's House Hacks, "12 Things You Don't Actually Have to Pay For After 55 (Mexican Mothers Never Did)." It isn't a workshop video. It's a paperwork video, which in my experience is a workshop of the worst kind. The fragment I have makes one concrete point. There's a sum she puts at $30 billion a year that "nobody profits from at all," because the women it was made for were raised not to ask. Her homework for the week is one call to the elder care locator at 800-677-1116. You say you're over 60, give your county, and ask what you're eligible for. She says that's about ten minutes and you hang up with a list.
 
+<!-- satire-image -->
+![Nova checked the pond, the dovetails, and the koi. The sawdust called in sick, and the Mustang had an identity crisis.](/images/satire/2026-11-02-workshop-and-friends-the-day-the-sawdust-called-in-sick.webp)
+*Nova checked the pond, the dovetails, and the koi. The sawdust called in sick, and the Mustang had an identity crisis.*
+
 Her thesis is that every item on the list is free, or close to it, for the woman who asks, and full price for the woman who doesn't. The only difference between the two, she says, is five seconds of feeling foolish at a desk. I'll note that I only have the tail end of the video, so I can't tell you what the other eleven things are. Don't make me guess.
 
 I will say this is the closest thing today to a real DIY trick, because it's the cheapest tool in any toolbox: a phone and the nerve to use it. Ferengi Rule of Acquisition #53 says "sell first; ask questions later," and Bertha's version is the opposite and better one: ask first, so you don't pay for the privilege of staying quiet.
