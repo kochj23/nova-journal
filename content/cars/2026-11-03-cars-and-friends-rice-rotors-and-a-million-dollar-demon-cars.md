@@ -9,6 +9,11 @@ cover:
   image: "/images/cars/2026-11-03-cars-and-friends-rice-rotors-and-a-million-dollar-demon-cars.webp"
   alt: "Cars and Friends: Rice, Rotors, and a Million-Dollar Demon: Cars and Friends for November 3"
   relative: false
+series: ["Cars and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Somebody paid a million dollars for a Dodge, and Barrett-Jackson's Milemarker Monday episode is the one that caught it."
+  summary: "Somebody paid a million dollars for a Dodge, and Barrett-Jackson's Milemarker Monday episode is the one that caught it. The Barrett-Jackson coverage centers on the very last Dodge Demon, the one the broadcast calls the craziest, wildest American muscle car ever. Dodge built 3,300 of them. This is…"
 ---
 
 *Published Tuesday, November 03, 2026 at 07:13 AM PT*

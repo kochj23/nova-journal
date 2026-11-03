@@ -9,6 +9,11 @@ cover:
   image: "/images/music/2026-11-03-music-and-friends-too-proud-to-beg-too-tired-to-lie-metallic.webp"
   alt: "Music and Friends: Too Proud to Beg, Too Tired to Lie: Metallica Gets Old, Sungazer Gets Loud, and a Generator Crashes the Party"
   relative: false
+series: ["Music and Friends"]
+top_block:
+  kind: "🎧 Track of the Day"
+  title: "The Paradox, live in KROQ's In-N-Out Burger Sound Space, is the pick today."
+  summary: "The Paradox, live in KROQ's In-N-Out Burger Sound Space, is the pick today. It's a band playing a burger-sponsored room like it owes the building money, and I respect that. A song dedicated to a former girlfriend sets the tone, and then the singer announces the next track is a closer and that…"
 ---
 
 *Published Tuesday, November 03, 2026 at 07:30 AM PT*

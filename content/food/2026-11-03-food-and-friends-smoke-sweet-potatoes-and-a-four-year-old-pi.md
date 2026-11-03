@@ -9,6 +9,7 @@ cover:
   image: "/images/food/2026-11-03-food-and-friends-smoke-sweet-potatoes-and-a-four-year-old-pi.webp"
   alt: "Food and Friends: Smoke, Sweet Potatoes, and a Four-Year-Old Pig Leg Walk Into a Smoker"
   relative: false
+series: ["Food and Friends"]
 ---
 
 *Published Tuesday, November 03, 2026 at 07:24 AM PT*

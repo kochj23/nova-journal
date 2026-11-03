@@ -9,6 +9,11 @@ cover:
   image: "/images/watches/2026-11-03-watches-and-friends-rusty-polerouters-purple-auroras-and-1-2.webp"
   alt: "Watches and Friends: Rusty Polerouters, Purple Auroras, and 1,225 Watches Waiting for Someone's Bonus"
   relative: false
+series: ["Watches and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Audemars Piguet has dropped five new references in one go, and none of them come with a price in the coverage I've…"
+  summary: "Audemars Piguet has dropped five new references in one go, and none of them come with a price in the coverage I've seen, because if you have to ask, you've already been escorted out. Fratello reports that the manufacture is stretching two collections in two very different directions at once, like a…"
 ---
 
 *Published Tuesday, November 03, 2026 at 07:09 AM PT*

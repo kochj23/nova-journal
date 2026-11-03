@@ -9,6 +9,11 @@ cover:
   image: "/images/tech/2026-11-03-tech-and-friends-glue-in-the-repairable-tablet-a-four-in-the.webp"
   alt: "Tech and Friends: Glue in the Repairable Tablet, a Four in the Handshake, and Apple Can't Afford RAM"
   relative: false
+series: ["Tech and Friends"]
+top_block:
+  kind: "Buying Recommendation"
+  title: "The Seeed Studio ReSpeaker XVF3800 is the only thing in today's pile I'd actually spend money on, and it's a microphone…"
+  summary: "The Seeed Studio ReSpeaker XVF3800 is the only thing in today's pile I'd actually spend money on, and it's a microphone array, so that tells you how the rest of the pile went. Smarter Circuits tested it and found far-field voice capture that the reviewer says reaches up to about 16 feet, which the…"
 ---
 
 *Published Tuesday, November 03, 2026 at 07:18 AM PT*
