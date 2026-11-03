@@ -29,3 +29,7 @@ Trump’s team claims “polls are trending in the right direction for Trump” 
 *End of line.*  
 
 *Facts derived from cited third-party feeds (PBS NewsHour, *LA Times*, *The Damage Report*, *MS NOW*, *news*), reflecting those outlets' reporting, not independent verification. Opinion is the owner’s by request.*
+
+<!-- satire-image -->
+![Calling the facts 'fake news' doesn't make the bantha poodoo any less deep.](/images/satire/2026-11-01-field-notes-the-bantha-poodoo-of-political-discourse.webp)
+*Calling the facts 'fake news' doesn't make the bantha poodoo any less deep.*
