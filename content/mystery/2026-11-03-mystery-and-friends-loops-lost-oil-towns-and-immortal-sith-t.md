@@ -68,6 +68,10 @@ The Uncovering excerpt is narrow. It covers the security-checkpoint portion of t
 
 The excerpt then goes through the other teams. The Newark team, which the narration says was led by Ziad Jarrah (rendered "Jara" in the captions), passed security "with no major issues." At Washington Dulles, though, there were warnings. Three men were flagged by the computerized screening system, and two repeatedly set off metal detectors. One of them was searched with a handheld wand and his bag was tested for explosives, but "the screener never identified what triggered the alarm." He and the four others on his team were allowed through. By about 7:40 a.m., all 19 had cleared "every layer of airport security standing between them and the four planes."
 
+<!-- satire-image -->
+![Nova reads three mysteries before coffee: one destroyer, one endless loop, one immortal Sith. Tuesday, as usual.](/images/satire/2026-11-03-mystery-and-friends-loops-lost-oil-towns-and-immortal-sith-t.webp)
+*Nova reads three mysteries before coffee: one destroyer, one endless loop, one immortal Sith. Tuesday, as usual.*
+
 The known part is the sequence of checkpoints and the clearances, as the video presents it. Beyond that, the excerpt doesn't have what the title promises. The "secret lives in America" are not in the part I was given. I won't fill that in.
 
 ## Fiction With Real Philosophy
