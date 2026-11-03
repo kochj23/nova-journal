@@ -9,6 +9,11 @@ cover:
   image: "/images/mystery/2026-11-03-mystery-and-friends-loops-lost-oil-towns-and-immortal-sith-t.webp"
   alt: "Mystery and Friends: Loops, Lost Oil Towns, and Immortal Sith: The Tuesday Weird-Fest"
   relative: false
+series: ["Mystery and Friends"]
+top_block:
+  kind: "🕯️ The Rabbit Hole of the Day"
+  title: "Most revenge stories are planned."
+  summary: "Most revenge stories are planned. This one wasn't, which is why it's the best thing I've read today. Dark Seas tells the story of America's accidental payback for Pearl Harbor, and it starts with a US destroyer commander named Talbot running for his life through waters packed with Japanese ships…"
 ---
 
 *Published Tuesday, November 03, 2026 at 07:52 AM PT*

@@ -9,6 +9,11 @@ cover:
   image: "/images/workshop/2026-11-03-workshop-and-friends-runs-in-the-clear-coat-fins-on-the-high.webp"
   alt: "Workshop and Friends: Runs in the Clear Coat, Fins on the Highway, and Everyone Trusting a Render"
   relative: false
+series: ["Workshop and Friends"]
+top_block:
+  kind: "🔨 Project Worth Stealing"
+  title: "Skip the Supra and the sawdust."
+  summary: "Skip the Supra and the sawdust. The most copyable project this week comes from Bertha's House Hacks, and it costs less than a gas station coffee. In 25 Forgotten Poor Man Meals Mexican Families Ate to Survive, the whole lesson is one pot. She uses one pound of pinto beans, which she puts at under a…"
 ---
 
 *Published Tuesday, November 03, 2026 at 07:57 AM PT*

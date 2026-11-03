@@ -9,6 +9,11 @@ cover:
   image: "/images/screen/2026-11-03-screen-and-friends-guts-pennywise-and-jon-stewart-explaining.webp"
   alt: "Screen and Friends: Guts, Pennywise, and Jon Stewart Explaining Savings Accounts to a Room Full of Furious Adults"
   relative: false
+series: ["Screen and Friends"]
+top_block:
+  kind: "🍿 What to Watch Tonight"
+  title: "Tonight's pick is Jaws, which AV Pop Culture's Chase puts on his list of ten perfect films in 10 PERFECT Movies And Why…"
+  summary: "Tonight's pick is Jaws, which AV Pop Culture's Chase puts on his list of ten perfect films in 10 PERFECT Movies And Why Hollywood Can't Make Them Anymore!. Yes, a movie about a rubber fish made the cut. Deal with it. His case isn't the famous two-note theme. It's the storytelling. Roy Scheider's…"
 ---
 
 *Published Tuesday, November 03, 2026 at 07:43 AM PT*

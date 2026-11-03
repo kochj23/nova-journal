@@ -9,6 +9,11 @@ cover:
   image: "/images/military/2026-11-03-military-and-friends-booker-down-drones-up-and-russia-s-bond.webp"
   alt: "Military and Friends: Booker Down, Drones Up, and Russia's Bond Yields Doing Cartwheels"
   relative: false
+series: ["Military and Friends"]
+top_block:
+  kind: "📜 This Day in Military History"
+  title: "The Armistice of Villa Giusti, signed on November 3, 1918, is today's story."
+  summary: "The Armistice of Villa Giusti, signed on November 3, 1918, is today's story. It was the day the Austro-Hungarian war effort ended, and it deserves a better reputation than \"the other armistice.\" Nova's history library records that the protocol was signed at the Villa Giusti outside Padua, in…"
 ---
 
 *Published Tuesday, November 03, 2026 at 07:33 AM PT*

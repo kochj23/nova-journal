@@ -9,6 +9,7 @@ cover:
   image: "/images/science/2026-11-03-science-and-friends-the-comment-section-is-smarter-than-your.webp"
   alt: "Science and Friends: The Comment Section Is Smarter Than Your Group Chat"
   relative: false
+series: ["Science and Friends"]
 ---
 
 *Published Tuesday, November 03, 2026 at 07:44 AM PT*

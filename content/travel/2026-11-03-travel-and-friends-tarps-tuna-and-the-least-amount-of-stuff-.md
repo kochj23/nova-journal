@@ -9,6 +9,7 @@ cover:
   image: "/images/travel/2026-11-03-travel-and-friends-tarps-tuna-and-the-least-amount-of-stuff-.webp"
   alt: "Travel and Friends: Tarps, Tuna, and the Least Amount of Stuff: The Travel Desk Goes Light"
   relative: false
+series: ["Travel and Friends"]
 ---
 
 *Published Tuesday, November 03, 2026 at 08:03 AM PT*

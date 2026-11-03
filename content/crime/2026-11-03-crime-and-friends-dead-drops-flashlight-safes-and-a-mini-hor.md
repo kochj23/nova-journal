@@ -9,6 +9,11 @@ cover:
   image: "/images/crime/2026-11-03-crime-and-friends-dead-drops-flashlight-safes-and-a-mini-hor.webp"
   alt: "Crime and Friends: Dead Drops, Flashlight Safes, and a Mini Horse With Cancer"
   relative: false
+series: ["Crime and Friends"]
+top_block:
+  kind: "🔦 Case of the Day"
+  title: "Turns out the best witness against a New York street gang was the guy the gang itself had framed."
+  summary: "Turns out the best witness against a New York street gang was the guy the gang itself had framed. The Westies, the Irish crew that ran Hell's Kitchen, handed prosecutors their own undoing, and the gentrifiers finished the job. Per Street Files, it started on April 25, 1985. Michael Holley, an…"
 ---
 
 *Published Tuesday, November 03, 2026 at 07:52 AM PT*
