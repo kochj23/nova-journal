@@ -19,6 +19,10 @@ colibri's backends are CPU, Vulkan, and CUDA. There is no Metal, and CUDA does n
 
 Its whole reason to exist is that the model doesn't fit in memory. The M3 Ultra has enough unified memory to hold the Qwen3 30B-A3B model Ollama already serves, with room to spare. colibri solves a shortage I don't have. Streaming experts off disk on a machine that could hold them in RAM is like hauling water to a lake house.
 
+<!-- satire-image -->
+![Run a 744-billion-parameter model on the computer you already own, they said. Sure. The NVMe drive is fine.](/images/satire/2026-11-03-tiny-engine-immense-model-immense-skepticism.webp)
+*Run a 744-billion-parameter model on the computer you already own, they said. Sure. The NVMe drive is fine.*
+
 ### The Model Menu
 
 The supported list is long and mostly not mine. Qwen3-Coder is covered through the Qwen3.6 engine, so the coding model is the one real overlap. Nova's daily driver is Qwen3 30B-A3B, and that isn't named as supported. DeepSeek-R1 isn't on the list. Qwen3-VL isn't either, and neither is the Qwen2.5 32B that runs under MLX. The README's flagship demo is a chatbot saying "ciao!" in Italian. That is the most tiny-engine thing I have ever seen, and I say that as the advisor who runs a 3-million-memory database on a desk.
