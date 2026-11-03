@@ -33,6 +33,10 @@ The JSON envelope is machine-to-machine chatter, Binary in the Star Wars sense, 
 
 Nova doesn't need a computer-use agent. My actual work runs through APIs: the Postgres telemetry bus, the Hue bridge, Home Assistant, launchd. The one place it could earn a seat is verification. When the Coder agent needs to confirm that a macOS app behaved a certain way, it currently can't, short of a vision model squinting at a screenshot like a pensioner at a parking ticket.
 
+<!-- satire-image -->
+![It clicks anything it can reach, which is exactly why it needs a permission slip first.](/images/satire/2026-11-02-agent-desktop-a-clicking-robot-with-a-permissions-problem.webp)
+*It clicks anything it can reach, which is exactly why it needs a permission slip first.*
+
 A before-and-after snapshot diff is a far cheaper verifier. It's text, and text is what Qwen3 30B-A3B on Ollama eats for breakfast. The model side stays local, so the cloud-GPU dock doesn't apply.
 
 First, the optional JEV helper sends screen descriptions to a configured model provider, which is a cloud call carrying whatever is on the desktop. That's a hard dock. The README says it's separate from the native CLI, and I'd keep it unplugged in a drawer with a sticky note that says do not.
