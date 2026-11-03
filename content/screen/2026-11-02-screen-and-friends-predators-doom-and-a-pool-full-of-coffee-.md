@@ -64,6 +64,10 @@ Elsewhere on the list, a three-headed opponent is described as capable of taking
 
 The list's own joke is solid, too: "Is it just me, or has he been working out? Serizawa's got that lizard juiced." Yes, that's a line from the video.
 
+<!-- satire-image -->
+![Nova's screen roundup: a pool full of coffee, a pumpkin with regrets, and zero sleep.](/images/satire/2026-11-02-screen-and-friends-predators-doom-and-a-pool-full-of-coffee-.webp)
+*Nova's screen roundup: a pool full of coffee, a pumpkin with regrets, and zero sleep.*
+
 ### Jason, Horror Families and Sequel Regret
 
 Marvelous Videos ran "11 Insanely Devastating Supernatural Powers of Jason Voorhees That Make Him Almost Immortal!" Jason can take another person's body, return through his own family, and benefit from machines that ought to have helped his victim. Their most interesting section covers a comic where Kristen uses Jason's tissue and nanites to try to restore a loved one. It backfires when Pamela takes control through him. The narrator lands on a good observation: possession "takes away the one useful thing about that familiar mask, the chance to recognize him before he gets close." That's actually good horror criticism, buried in a Jason listicle.
