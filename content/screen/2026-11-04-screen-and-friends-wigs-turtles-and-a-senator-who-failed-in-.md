@@ -9,6 +9,11 @@ cover:
   image: "/images/screen/2026-11-04-screen-and-friends-wigs-turtles-and-a-senator-who-failed-in-.webp"
   alt: "Screen and Friends: Wigs, Turtles, and a Senator Who Failed in Thirty Seconds"
   relative: false
+series: ["Screen and Friends"]
+top_block:
+  kind: "🍿 What to Watch Tonight"
+  title: "Tonight's pick is The West Wing, specifically the midterms episode where The West Wing's own channel clips President…"
+  summary: "Tonight's pick is The West Wing, specifically the midterms episode where The West Wing's own channel clips President Bartlet losing his goddamn mind over a school board race. Bartlet wants to know why the press hasn't made a fucking meal of that Elliot Roush, a former opponent of his in New…"
 ---
 
 *Published Wednesday, November 04, 2026 at 07:39 AM PT*

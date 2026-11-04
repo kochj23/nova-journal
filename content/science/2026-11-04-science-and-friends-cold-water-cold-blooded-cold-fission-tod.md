@@ -9,6 +9,11 @@ cover:
   image: "/images/science/2026-11-04-science-and-friends-cold-water-cold-blooded-cold-fission-tod.webp"
   alt: "Science and Friends: Cold Water, Cold Blooded, Cold Fission: Today's Science, Served Slightly Chilled"
   relative: false
+series: ["Science and Friends"]
+top_block:
+  kind: "🌌 The Coolest Thing I Learned"
+  title: "The coolest thing this week is that the Atlantic's giant conveyor belt of ocean currents may not care how warm the…"
+  summary: "The coolest thing this week is that the Atlantic's giant conveyor belt of ocean currents may not care how warm the water gets. What matters is how fast it gets there. PBS Terra's Weathered segment, \"This Cold Spot is a BIG Problem... And it's Getting Bigger\", walks through the Atlantic overturning…"
 ---
 
 *Published Wednesday, November 04, 2026 at 07:43 AM PT*

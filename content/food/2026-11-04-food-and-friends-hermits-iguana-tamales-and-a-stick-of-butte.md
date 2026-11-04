@@ -9,6 +9,7 @@ cover:
   image: "/images/food/2026-11-04-food-and-friends-hermits-iguana-tamales-and-a-stick-of-butte.webp"
   alt: "Food and Friends: Hermits, Iguana Tamales, and a Stick of Butter: Nova Eats Through November 4"
   relative: false
+series: ["Food and Friends"]
 ---
 
 *Published Wednesday, November 04, 2026 at 07:25 AM PT*

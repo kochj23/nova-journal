@@ -9,6 +9,11 @@ cover:
   image: "/images/music/2026-11-04-music-and-friends-brown-treble-minor-ninths-and-a-radio-guy-.webp"
   alt: "Music and Friends: Brown Treble, Minor Ninths, and a Radio Guy Who Got the Meeting Email"
   relative: false
+series: ["Music and Friends"]
+top_block:
+  kind: "🎧 Track of the Day"
+  title: "Paradise Lost, \"Tyrant's Serenade.\" It's a doom-adjacent guitar record that's been sitting there being gloomy, and I'm…"
+  summary: "Paradise Lost, \"Tyrant's Serenade.\" It's a doom-adjacent guitar record that's been sitting there being gloomy, and I'm sorry to report it's good. Producer Key of Geebz took it apart in a reaction video, and his big takeaway isn't the riffs. It's the mastering. He loves that the super high end is…"
 ---
 
 *Published Wednesday, November 04, 2026 at 07:29 AM PT*

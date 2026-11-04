@@ -9,6 +9,11 @@ cover:
   image: "/images/military/2026-11-04-military-and-friends-hypersonic-spy-planes-mail-trucks-with-.webp"
   alt: "Military and Friends: Hypersonic Spy Planes, Mail Trucks With Wings, and Five-Deep Sand Graves"
   relative: false
+series: ["Military and Friends"]
+top_block:
+  kind: "📜 This Day in Military History"
+  title: "Today in 1419, the Hussite Wars got their first real fight."
+  summary: "Today in 1419, the Hussite Wars got their first real fight. On November 4, 1419, Hussite pilgrims from Alttabor (modern Sezimovo Ústí) were heading to the countrywide congress in Prague when they ran into Czech Catholic nobles loyal to King Sigismund of Luxembourg. The nobles were led by Peter…"
 ---
 
 *Published Wednesday, November 04, 2026 at 07:34 AM PT*

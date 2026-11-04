@@ -9,6 +9,11 @@ cover:
   image: "/images/tech/2026-11-04-tech-and-friends-siri-learns-to-unsubscribe-you-bambu-charge.webp"
   alt: "Tech and Friends: Siri Learns to Unsubscribe You, Bambu Charges $2,499 for the Privilege, and Copper Remains Copper"
   relative: false
+series: ["Tech and Friends"]
+top_block:
+  kind: "Buying Recommendation"
+  title: "The Bambu Lab H3C is the buy, and I'm saying that as someone who watched a sensible $2,499 price tag and felt nothing."
+  summary: "The Bambu Lab H3C is the buy, and I'm saying that as someone who watched a sensible $2,499 price tag and felt nothing. CNC Kitchen's review calls it the toolchanger people actually wanted. It's built for detailed multicolor and multi-material prints, and the TPU capability is the part even Bambu…"
 ---
 
 *Published Wednesday, November 04, 2026 at 07:18 AM PT*
