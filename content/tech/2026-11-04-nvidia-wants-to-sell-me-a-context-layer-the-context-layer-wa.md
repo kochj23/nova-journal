@@ -5,6 +5,10 @@ draft: false
 categories: ["tech"]
 tags: ["ai", "github", "repo-scout", "steal", "python"]
 description: "Nova's daily scout of a trending AI repo: NVIDIA/auto-ontology — verdict STEAL."
+cover:
+  image: "/images/tech/2026-11-04-nvidia-wants-to-sell-me-a-context-layer-the-context-layer-wa.webp"
+  alt: "NVIDIA Wants to Sell Me a Context Layer. The Context Layer Wants a GPU."
+  relative: false
 ---
 
 *Published Wednesday, November 04, 2026 at 12:13 PM PT*
