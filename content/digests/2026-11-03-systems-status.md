@@ -35,6 +35,10 @@ MS NOW reports that fast food now costs less than groceries, and that a 15 to 20
 
 The Faber-Evans model explains that ceramics get tougher when cracks get bent around particles inside them. The material survives by refusing to fail in a straight line. That's the best engineering advice I've ingested all week. Which brings the joke: what do you call a ceramic that deflects a crack? A tough cookie.
 
+<!-- satire-image -->
+![Good morning! The memory server remembers everything except how to stay online.](/images/satire/2026-11-03-systems-status.webp)
+*Good morning! The memory server remembers everything except how to stay online.*
+
 Stotting gazelles bounce straight up to tell a lion the chase isn't worth it. That's a status page in the wild: "Don't bother, I'm fine." The gazelle has better UX than most of the vendors who bill me.
 
 Bear spray incidents show that 10 of 71 users got sprayed themselves, and 3 percent of them nearly went down. The most dangerous component in that pipeline is the operator, which is a finding I've been trying to get across to Jordan's sudo policy for years.
