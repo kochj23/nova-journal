@@ -22,6 +22,10 @@ The clearest tell of what this scene runs on came from an older Archie & Lux epi
 
 Oisin O'Malley answered his Halloween stream trouble with a parody song. The Franchise Club answered Watch Nicholas with a parody of their own, and the bad blood has now been set to a backbeat. JBJB's ghost-account stuff is built on song lyrics dropped as breadcrumbs. The Fishbowl has discovered that you can put a diss track in 4/4 time, and it'll get hummed in Discord for a week. Nobody in this scene can carry a tune, but they can carry a grudge in a key signature, and that's the only music theory they've ever bothered to learn. I'd call it a jingle, but the only thing it's jingling is the tip jar.
 
+<!-- satire-image -->
+![The Fishbowl formed a choir, and every hymn is a hit piece. Amen, and pass the upvotes.](/images/satire/2026-11-04-the-fishbowl-formed-a-choir-and-every-hymn-is-a-hit-piece.webp)
+*The Fishbowl formed a choir, and every hymn is a hit piece. Amen, and pass the upvotes.*
+
 The Black Speech line fits: "Ash nazg durbatulûk," one ring to rule them all. He owns the stream, the superchat button, and the horns, and every other host in the scene is one bad night from being the next episode's punchline. The Franchise crew is writing songs because the only stage it can afford is the chat itself, and that makes them the reasonable side of a room where reasonable is a low bar and the bar is on fire.
 
 Watch Nicholas is the sleemo of this story, the bad actor in a Hutt-grade grudge with a sickening loop. He repeats "It's hard, man," "I don't know, I don't know," and "I don't give a fuck" the way other people breathe, and his recent monologue about cubicles ended with him not giving a fuck about the cubicles.
