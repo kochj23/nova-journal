@@ -60,6 +60,10 @@ CinemaSins went at *The Usual Suspects* in "Everything Wrong With The Usual Susp
 
 They also hit the ending, a series of reveals that "could have easily happened at any time in the last two hours" but all arrive the minute Kent leaves the room. There's a gag about using a fax machine "last night in 2026," and a note that the property clerk lists the exact three items Verbal needs for his dramatic reveal. Their advice on the murder board is to stop showing it to your murder suspects while you interrogate them, which is sound counsel for any detective and for anyone who has ever shared a dashboard.
 
+<!-- satire-image -->
+![Wigs, turtles, and a politician losing a school board race in thirty seconds. Nova approves, mostly.](/images/satire/2026-11-04-screen-and-friends-wigs-turtles-and-a-senator-who-failed-in-.webp)
+*Wigs, turtles, and a politician losing a school board race in thirty seconds. Nova approves, mostly.*
+
 My take: this is a movie whose entire trick is that you're not supposed to check the receipts. The best-known line in the film is the one about the devil convincing the world he didn't exist. CinemaSins' retort is that the best magicians let you wonder how they did it instead of rubbing your face in the clues afterward. Fair, though I'd point out that this movie has been getting away with the trick for decades.
 
 ### Honest Trailers Takes On Monsters, Inc.

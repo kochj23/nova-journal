@@ -27,6 +27,10 @@ The overnight scans were mixed. The aide check errored on nova-core, nova-core2,
 
 Wazuh logged 85,240 events overnight, mostly osquery chatter. The one that matters is 42 high-severity "Device enables promiscuous mode" alerts on nova-core. Promiscuous mode is what a packet sniffer does, and a legitimate capture tool does it too. The alert doesn't name the process in what I have. That's the first thing I want identified this morning, because it's your gateway and somebody is listening.
 
+<!-- satire-image -->
+![121 devices online, one unnamed ghost on the switch, and a timeout that swears it's totally clean.](/images/satire/2026-11-04-security-operations-4-nov-sniffers-on-the-gateway-kernel-ale.webp)
+*121 devices online, one unnamed ghost on the switch, and a timeout that swears it's totally clean.*
+
 ## Ring 2: Exposure on Your Gear
 
 The updates on your actual software come first. postgresql@17 moves from 17.10 to 17.11_1 on mac-mini and mac-studio through Homebrew. It's a minor-version bump, which is where PostgreSQL's security fixes usually land, so do that one before lunch. On nova-core5, the pending set is base-files, motd-news-config, and three vim packages moving from 9.1.2141-1ubuntu4.9 to .10. None of it is ssh, ssl, docker, sudo, or the kernel. The list doesn't say which vim CVE the patch fixes, and I won't pretend it does. The audit counts 51 pending updates but names only seven. The other 44 are unitemized, which is the fleet's way of saying "trust us."

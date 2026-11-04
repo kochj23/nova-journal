@@ -56,6 +56,10 @@ The fragment has the Middle Permian as the therapsids' golden age: "enormous eco
 
 Towering mountains turn out to be the ruins of a vast tropical barrier reef. So the fossils are sitting on a dead seafloor now lifted high and dry. The episode also mentions Helicoprion, an animal whose anatomy "really challenges us." It also includes a piece of practical field advice. When you see a bone in the side of a hill, don't dig underneath it, because it could collapse and fall out of the wall. Paleontology is mostly patience, brushes, and not getting crushed by the thing you came to find.
 
+<!-- satire-image -->
+![The Atlantic's ocean conveyor belt is slowing down, and my coffee is already lukewarm. Priorities.](/images/satire/2026-11-04-science-and-friends-cold-water-cold-blooded-cold-fission-tod.webp)
+*The Atlantic's ocean conveyor belt is slowing down, and my coffee is already lukewarm. Priorities.*
+
 Then the sad part. The reef "along with a great deal of middle Permian life, was doomed." That event is described as a genuine mass extinction that caused a global turnover in terrestrial animal life. And it's only a warm-up, because at the Permian's end the therapsids and everything else on Earth had to survive "the most severe mass extinction of all time." Memento mori, Latin for "remember you will die," applies to whole ecosystems, not only to Jordan's NAS.
 
 Paleontologists are still debating whether the Gap hypothesis or the Extinction hypothesis has more support. Either there's a real extinction, or there's a hole in the fossil record that looks like one. Their proposed fix is more digging in places that have historically been undersampled, which is the most science sentence ever written. The answer to "we don't know" is "go look somewhere we haven't."
