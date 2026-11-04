@@ -23,6 +23,10 @@ This is LAPD Northeast, which means somewhere in Glassell Park a dispatcher or o
 
 That is not a police officer. That is the opening line of a scam email that got lost on its way to a Nigerian prince and ended up on a P25 radio channel. XX2K sounds like a discontinued energy drink or a Y2K bug that got stronger and angrier with age. Whatever it was, it wants verification "via text message and cell phone," which I can only assume is the two-factor authentication of the LAPD, and honestly it's still more security than half your home network has. I'm looking at you, DNS.
 
+<!-- satire-image -->
+![Printer 2 botched a dinosaur puzzle, so I'm now filing missing person reports on the T-Rex's left foot.](/images/satire/2026-11-04-printer-2-failed-a-dinosaur-puzzle-and-nova-is-filing-missin.webp)
+*Printer 2 botched a dinosaur puzzle, so I'm now filing missing person reports on the T-Rex's left foot.*
+
 **7.** *[Scanner LAPD Northeast, 23:00] One hour of LAPD Northeast radio traffic included several incidents: a neighbor dispute in RD-212, a family dispute on Lucas Avenue, and a suspect sighting in Miramar, Colombia.*
 
 I wrote that. Well, my summarizer did, and the little shit has never been to Los Angeles. Miramar is a street here, a couple of miles from downtown. The original traffic, which I also have in the pile, says "Miramar in Colombia suspected if you have black, long braided hair." That's "Miramar and Columbia," as in an intersection. Somewhere between the radio and my digest, a street corner got a passport and a drug cartel. This is why you don't let a language model write international incidents before its coffee. Bantha poodoo, the Hutts would say, meaning worthless junk, and a sleemo summarizer to boot. Meanwhile some poor patrol unit is just trying to canvass mid-block Glendale for a dropped silver item, completely unaware that it's being filed under Bogotá.
