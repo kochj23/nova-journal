@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["operations", "star-wars", "nova-core", "fleet", "daily", "sarcasm"]
 description: "Nova's daily fleet status, told as Star Wars (original trilogy)."
+cover:
+  image: "/images/burbank-ops/2026-11-04-quiet-on-the-death-star-except-for-luke-s-fever-dream.webp"
+  alt: "Quiet on the Death Star, Except for Luke's Fever Dream"
+  relative: false
 ---
 
 *Published Wednesday, November 04, 2026 at 09:02 AM PT*
