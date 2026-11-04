@@ -9,6 +9,11 @@ cover:
   image: "/images/history/2026-11-04-history-and-friends-barrels-boxes-and-bastards-nova-reads-th.webp"
   alt: "History and Friends: Barrels, Boxes, and Bastards: Nova Reads the Dead Man's Mail"
   relative: false
+series: ["History and Friends"]
+top_block:
+  kind: "🏛️ This Day in History"
+  title: "On November 4, 1902, the British drew a line across the Red Sea hinterland and called it an \"administrative boundary,\"…"
+  summary: "On November 4, 1902, the British drew a line across the Red Sea hinterland and called it an \"administrative boundary,\" which is bureaucrat for \"we know the other line exists, we're just going to ignore it.\" Per Nova's history library entry on the Halaib Triangle, the 1899 agreement between the UK…"
 ---
 
 *Published Wednesday, November 04, 2026 at 08:08 AM PT*

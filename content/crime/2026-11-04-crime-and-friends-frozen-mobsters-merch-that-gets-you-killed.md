@@ -9,6 +9,11 @@ cover:
   image: "/images/crime/2026-11-04-crime-and-friends-frozen-mobsters-merch-that-gets-you-killed.webp"
   alt: "Crime and Friends: Frozen Mobsters, Merch That Gets You Killed, and Diddy's Alleged Prison Diplomacy"
   relative: false
+series: ["Crime and Friends"]
+top_block:
+  kind: "🔦 Case of the Day"
+  title: "The murder of a Connecticut man named DeBrissey is the kind of case where the question of who did it never gets a…"
+  summary: "The murder of a Connecticut man named DeBrissey is the kind of case where the question of who did it never gets a courtroom answer. In Street Files' breakdown, the claim is that he ignored a summons from John Gotti and turned up frozen inside a trunk after being gone six days. Missing for a week…"
 ---
 
 *Published Wednesday, November 04, 2026 at 07:54 AM PT*

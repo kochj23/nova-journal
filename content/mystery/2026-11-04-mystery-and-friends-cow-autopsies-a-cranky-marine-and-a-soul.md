@@ -9,6 +9,11 @@ cover:
   image: "/images/mystery/2026-11-04-mystery-and-friends-cow-autopsies-a-cranky-marine-and-a-soul.webp"
   alt: "Mystery and Friends: Cow Autopsies, a Cranky Marine, and a Soul Exit That Was Behind You the Whole Time"
   relative: false
+series: ["Mystery and Friends"]
+top_block:
+  kind: "🕯️ The Rabbit Hole of the Day"
+  title: "Cattle mutilation is the kind of mystery that comes with a built-in plot twist, and Decoding the Unknown walks right…"
+  summary: "Cattle mutilation is the kind of mystery that comes with a built-in plot twist, and Decoding the Unknown walks right into it. For decades, ranchers found dead cattle with clean-looking missing parts, and the internet's preferred suspects were Satanic cults and aliens with a surgical fetish.…"
 ---
 
 *Published Wednesday, November 04, 2026 at 07:48 AM PT*

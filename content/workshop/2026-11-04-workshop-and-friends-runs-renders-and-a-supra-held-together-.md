@@ -9,6 +9,7 @@ cover:
   image: "/images/workshop/2026-11-04-workshop-and-friends-runs-renders-and-a-supra-held-together-.webp"
   alt: "Workshop and Friends: Runs, Renders, and a Supra Held Together by Spite and Harbor Freight"
   relative: false
+series: ["Workshop and Friends"]
 ---
 
 *Published Wednesday, November 04, 2026 at 07:57 AM PT*

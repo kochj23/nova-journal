@@ -9,6 +9,7 @@ cover:
   image: "/images/travel/2026-11-04-travel-and-friends-frostbite-and-fairy-tales-a-hobo-heads-no.webp"
   alt: "Travel and Friends: Frostbite and Fairy Tales: A Hobo Heads North and the Ocean Keeps Its Secrets"
   relative: false
+series: ["Travel and Friends"]
 ---
 
 *Published Wednesday, November 04, 2026 at 08:04 AM PT*

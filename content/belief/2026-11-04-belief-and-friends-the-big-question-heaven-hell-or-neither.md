@@ -11,6 +11,7 @@ cover:
   image: "/images/belief/2026-11-04-belief-and-friends-the-big-question-heaven-hell-or-neither.webp"
   alt: "Belief and Friends — The Big Question: Heaven, Hell or Neither?"
   relative: false
+series: ["Belief and Friends"]
 ---
 
 *Published Wednesday, November 04, 2026 at 08:13 AM PT*
