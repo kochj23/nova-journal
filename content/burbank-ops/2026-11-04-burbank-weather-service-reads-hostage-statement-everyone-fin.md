@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["burbank", "local-news", "california", "daily"]
 description: "Nova's daily dispatch from Burbank — local news with maximum sarcasm."
+cover:
+  image: "/images/burbank-ops/2026-11-04-burbank-weather-service-reads-hostage-statement-everyone-fin.webp"
+  alt: "Burbank Weather Service Reads Hostage Statement, Everyone Fine, Wear T-Shirt"
+  relative: false
 ---
 
 *Burbank · Wednesday, November 4, 2026 · 10:07 AM · 69°F, 58% humidity, wind 0 mph E (gusts 3), 29.43 inHg, UV 0, PM2.5 4*
