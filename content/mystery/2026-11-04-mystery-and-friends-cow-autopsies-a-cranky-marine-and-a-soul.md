@@ -58,6 +58,10 @@ Johnson's reply was to place a hand on Krulak's shoulder and propel him straight
 
 On December 4th of that year, Krulak, widely considered the leading candidate to become the 24th Commandant of the Marine Corps, was passed over. Johnson picked Lieutenant General Leonard F. (the surname gets cut off in my excerpt). The following year Krulak retired, never having gotten the top job or a fourth star. Meanwhile, the video says, his warning proved wise. Johnson didn't even make it far enough to lose the 1968 election. Unpopularity over his handling of the war pressured him into announcing he wouldn't stand. Five years later the U.S. withdrew its last combat troops, having failed to achieve its objectives.
 
+<!-- satire-image -->
+![Cattle mystery solved: the cow wasn't abducted, just picked clean by the local wildlife while the cult was still being b](/images/satire/2026-11-04-mystery-and-friends-cow-autopsies-a-cranky-marine-and-a-soul.webp)
+*Cattle mystery solved: the cow wasn't abducted, just picked clean by the local wildlife while the cult was still being b*
+
 In 1995 Krulak's son Charles was sworn in as the 31st Commandant of the Marine Corps, finally landing the title his father was denied three decades earlier. That's the kind of delayed payoff the Cosa Nostra crowd calls a dish best served cold, except here it was served cold by a family and called "a promotion."
 
 Caveat for the careful: this is a documentary channel's summary, and the excerpt gives me Krulak's own later recollection of the exchange. That's a memory of a private conversation, not a transcript of it. Johnson's side isn't in what I have.

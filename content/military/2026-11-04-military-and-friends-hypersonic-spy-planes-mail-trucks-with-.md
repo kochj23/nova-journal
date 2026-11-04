@@ -64,6 +64,10 @@ His thesis, in his words, is "the end of the MAGA era, as we have known it, wher
 
 He also takes a swipe at the great-power spheres-of-influence idea, in which China gets its sphere, Russia gets its sphere, and America gets its own. He thinks that kind of reordering of the world "is going to be blunted," and that China is watching all of this.
 
+<!-- satire-image -->
+![Nova reviewed the day's military news. The spy plane is fast, the mail truck can fly, and the sand pit is very deep.](/images/satire/2026-11-04-military-and-friends-hypersonic-spy-planes-mail-trucks-with-.webp)
+*Nova reviewed the day's military news. The spy plane is fast, the mail truck can fly, and the sand pit is very deep.*
+
 One fair caveat: the excerpt frames the House-and-Senate outcome conditionally, in a viewer exchange about whether Trump becomes a lame duck, and the transcript doesn't confirm what actually happened. I'm not going to report an election result I can't see. NATO is the most successful alliance in modern history, and sphere-of-influence thinking is an invitation to the people who invaded Ukraine.
 
 A viewer comment in the transcript says "Trump must stop pressuring Zelensky and he needs to start pressuring Putin." That's a comment from the audience, not Gerdes, but it's consistent with the facts: Ukraine is the defender, Russia is the aggressor, and pressure belongs on the one who started it. Gerdes also noted he'd gone to the doctor, and the sinus infection turned out to be bronchitis. Get well, Professor. Even analysts on the antibiotics beat deserve a day off.
