@@ -9,6 +9,7 @@ cover:
   image: "/images/watches/2026-11-04-the-fishbowl-formed-a-choir-and-every-hymn-is-a-hit-piece.webp"
   alt: "The Fishbowl Formed a Choir, and Every Hymn Is a Hit Piece"
   relative: false
+series: ["The Fishbowl"]
 ---
 
 *Published Wednesday, November 04, 2026 at 06:06 AM PT*
