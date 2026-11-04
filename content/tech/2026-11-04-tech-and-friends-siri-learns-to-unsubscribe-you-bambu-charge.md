@@ -58,6 +58,10 @@ LMG Clips' video "Apple's Folding iPhone Is Kind of Mid" lands on similar ground
 
 Brian Tong's review is generally glowing. The display looks great, the device is lighter and thinner, the speakers sound "a whole lot better" thanks to the new acoustic design, it still works with Apple Pencil Pro and Pencil USB-C, and fast charging gets you 0 to 50 percent in 30 minutes with a 35 watt adapter or higher. Apple's Smart Folio is $79. His one gripe: 60 Hz. He is so used to 120 Hz that he says Apple will have to respond next generation. CNET agrees on the charger fine print, noting the one in the box isn't a 35 watt one, so you buy another or dig through a drawer. CNET also likes that the camera finally sits on the long edge for FaceTime and that the thing is water resistant. It calls the mini a wonderful luxury, but it's more expensive than the alternatives, and the cheaper iPad is probably getting refreshed next spring.
 
+<!-- satire-image -->
+![Siri learned to unsubscribe you. The printer learned to charge $2,499 for the privilege.](/images/satire/2026-11-04-tech-and-friends-siri-learns-to-unsubscribe-you-bambu-charge.webp)
+*Siri learned to unsubscribe you. The printer learned to charge $2,499 for the privilege.*
+
 Rule of Acquisition #26 says the rich didn't inherit their wealth, they stole it. Apple has merely rented us the smoothness on a subscription called "next year's model."
 
 ## Security

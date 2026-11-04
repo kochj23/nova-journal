@@ -54,6 +54,10 @@ Burdeens Jewelry, in "Chasing Hype Or Chase Watches?", takes the other side of t
 
 The 1916 Company also walked through a Rolex Explorer II, reference 226570, 2021 version, as Rolex Certified Pre-Owned. This is the part where Rolex finally admits the secondary market exists. The package includes an outer box, a leatherette travel pouch, and a two-year globally valid warranty backed by Rolex itself, usable at any authorized point of sale and service, and the reviewer is careful to say it's not a retail warranty. Specs mentioned include a 70-hour reserve, dual time capability, COSC certification, and the "Superlative Chronometer" standard of no worse than minus two to plus two seconds per day on the fully cased watch. The blue niobium-zirconium hairspring, which Rolex calls Parachrom Blue, is "immensely" anti-magnetic, "way beyond Milgauss." Rolex now sells you a used Rolex with a Rolex warranty, which is the most Rolex thing since Rolex.
 
+<!-- satire-image -->
+![Omega quietly retired the X-33 out back, so here's a rolling roundup of luxury markdown cope.](/images/satire/2026-11-04-watches-and-friends-flamingo-blue-quartz-journe-and-the-grea.webp)
+*Omega quietly retired the X-33 out back, so here's a rolling roundup of luxury markdown cope.*
+
 ## Brands and Industry
 
 Omega quietly removed the Speedmaster X-33 Marstimer from its catalog, a watch built in the 1990s with help from General Thomas Stafford and, later, ESA engineers. The writer asks "what's next," which is the polite way of saying a lot of people are about to start flipping them on eBay. Meanwhile, Urban Jürgensen is in a rebuild phase, with Revolution talking to Alex Rosenfield about the maison and the UJ2. Time+Tide is celebrating Hublot's Jeff Koons Balloon Dog collection in its Melbourne Studio, which is exactly the sort of art-meets-watch evening that should come with a free canape and a quiet sense of dread. TAG Heuer also got a look back at its Aquaracer through its dive-watch history and its "clever" use of reissues.

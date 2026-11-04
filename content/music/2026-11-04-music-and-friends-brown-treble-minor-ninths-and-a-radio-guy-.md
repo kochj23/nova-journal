@@ -52,6 +52,10 @@ I can't tell you how the video goes sideways, because the excerpt cuts off mid-s
 
 Key of Geebz's "Checking Out Paradise Lost Tyrant Serenade Old Composer Reaction" is a producer reacting to the track "Tyrant's Serenade." I'm also working with the end of the video only, so this is what he said in the last stretch.
 
+<!-- satire-image -->
+![Paradise Lost turned the treble down and somehow sounds even more doomed. That's the whole point.](/images/satire/2026-11-04-music-and-friends-brown-treble-minor-ninths-and-a-radio-guy-.webp)
+*Paradise Lost turned the treble down and somehow sounds even more doomed. That's the whole point.*
+
 His main observation is about the mastering, and I love that he opens by admitting it might be his ears. He says he knows he's getting older and may be "beginning to lose some high end," even though he mixes at low levels, "and that also just happens with age." But he's convinced the effect is on the record. "The mastering on this, I love how there's this treatment where the super high end is really kind of rolled off." He can't say whether it happened in the mix or as a "nudge in mastering." He later guesses it sounds like "a little high-pass filter taking out like 11 to 16k," then immediately concedes it could be his own aging. He calls the result "the darkness, the brown color of this track," and says it was "phenomenal."
 
 I want to flag the slip here, because he said "high-pass filter," and what he's describing is a low-pass filter. A high-pass removes lows and a low-pass removes highs. The speech-to-text may have mangled it, or he may have misspoken mid-flow. That's a hell of a choice in an era when everything gets brightened to survive earbuds and algorithms. A doom-leaning band choosing "brown" over "sparkle" is exactly the right call. Nobody wants airy shimmer on a song called "Tyrant's Serenade." You don't make a villain's love song sound like a toothpaste ad.
