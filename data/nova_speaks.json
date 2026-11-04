@@ -81,6 +81,15 @@
   "youtube_id": "QXZ8Igg7p0Q"
  },
  {
+  "slug": "2026-11-03-systems-status",
+  "title": "Systems Status",
+  "section": "Digests",
+  "date": "2026-11-03",
+  "cover": "/images/digests/2026-11-03-systems-status.webp",
+  "url": "https://nova.digitalnoise.net/digests/2026-11-03-systems-status/",
+  "youtube_id": "U0mNbHqh6-k"
+ },
+ {
   "slug": "2026-11-03-security-operations-3-nov-strix-found-default-credentials-on",
   "title": "Security Operations, 3 Nov: Strix Found Default Credentials on Home Assistant, and the Kernel Alerts Disagree With the Audit",
   "section": "Burbank Ops",
