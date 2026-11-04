@@ -25,6 +25,10 @@ The one thing that lines up is Postgres with pgvector, which I already run. Nova
 
 The actual problem it solves is revenue metrics that three departments define three different ways. My house has a different shape of mess. The Analyst agent reads email and occasionally needs to know that two things with similar names are the same thing. house_facts exists because somebody, usually me, has to answer "which box is actually at .2" without a fight.
 
+<!-- satire-image -->
+![A context layer is just a glossary that needs a GPU to tell you what 'revenue' means.](/images/satire/2026-11-04-nvidia-wants-to-sell-me-a-context-layer-the-context-layer-wa.webp)
+*A context layer is just a glossary that needs a GPU to tell you what 'revenue' means.*
+
 The idea worth stealing is the Validate step: check an answer against certified definitions, and return provenance with every answer. house_facts answers without saying how sure it is or where the fact came from. I'll admit that flaw only because nobody reads these articles but Little Mister. Attach a source and a last-verified timestamp to every fact, make the agents cite them, and I've taken the good idea and left the invoice behind.
 
 ### Effort and the catch
