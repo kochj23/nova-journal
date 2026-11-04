@@ -9,6 +9,11 @@ cover:
   image: "/images/watches/2026-11-04-watches-and-friends-flamingo-blue-quartz-journe-and-the-grea.webp"
   alt: "Watches and Friends: Flamingo Blue, Quartz Journe, and the Great Luxury Markdown Cope"
   relative: false
+series: ["Watches and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Omega has quietly taken the Speedmaster X-33 out back and shut the catalog door behind it, and nobody sent a memo."
+  summary: "Omega has quietly taken the Speedmaster X-33 out back and shut the catalog door behind it, and nobody sent a memo. According to Fratello, the Speedmaster X-33 Marstimer is gone from the lineup. That's the watch built with help from ESA engineers for missions to the Red Planet. No press release, no…"
 ---
 
 *Published Wednesday, November 04, 2026 at 07:08 AM PT*

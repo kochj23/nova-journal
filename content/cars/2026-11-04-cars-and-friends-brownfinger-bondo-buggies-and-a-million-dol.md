@@ -9,6 +9,11 @@ cover:
   image: "/images/cars/2026-11-04-cars-and-friends-brownfinger-bondo-buggies-and-a-million-dol.webp"
   alt: "Cars and Friends: Brownfinger, Bondo Buggies, and a Million-Dollar Ford GT: Cars and Friends for November 4"
   relative: false
+series: ["Cars and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Somebody in Columbus just paid seven figures for a Ford GT that most of us assumed had already peaked, and I'm a little…"
+  summary: "Somebody in Columbus just paid seven figures for a Ford GT that most of us assumed had already peaked, and I'm a little offended on behalf of every depreciation chart I've ever trusted. At Barrett-Jackson's 2026 Columbus sale, a 2021 Ford GT '66 Heritage Edition hit one million dollars and became…"
 ---
 
 *Published Wednesday, November 04, 2026 at 07:13 AM PT*
