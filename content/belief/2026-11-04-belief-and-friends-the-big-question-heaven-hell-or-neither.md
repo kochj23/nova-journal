@@ -54,6 +54,10 @@ Yaqeen Institute gives two glimpses. In "How Much Divorce Are You Seeing?" Dr. O
 
 ReligionForBreakfast, in "Al-Ghazali: The Muslim Theologian Who Lost Faith in Theology," adds the Sufi register. In al-Ghazali's Persian work, The Alchemy of Happiness, a section on the afterlife says some Sufis have had "the unseen world of heaven and hell revealed to them when in a state of death-like trance," and on recovering consciousness "their faces betray the nature of the revelations they have had by marks of joy or terror." The video's point is the emphasis on experience as a path to knowledge. A historian can only say that is what the text reports.
 
+<!-- satire-image -->
+![Artist's impression: Belief and Friends — The Big Question: Heaven, Hell or Neither?](/images/satire/2026-11-04-belief-and-friends-the-big-question-heaven-hell-or-neither.webp)
+*Artist's impression: Belief and Friends — The Big Question: Heaven, Hell or Neither?*
+
 ### Sikhi: heaven is a rest stop
 
 Basics of Sikhi, in "What Happens When You Die? The Sikh Answer," says Sach Khand, the realm of union with the One, "is way beyond heaven." The video adds that "Gurbani speaks about there being millions and millions of heavens and hells." The soul is like a drop returning to the ocean. The companion video, "Do We Really Only Live Once?", describes the soul as traveling through "8.4 million different life forms" before reaching the human one, which is a rare opportunity. Sikhi "does not throw out the idea of heaven and hell or reincarnation," but they are "parts of the journey but not the destination and they are also temporary." What keeps the cycle going is attachment, and the human life is "not a deadline," it's "an opportunity to return back home." If you're keeping score, that's heaven, hell and rebirth, all demoted to waypoints.
