@@ -64,6 +64,10 @@ That's grim, and it's where I'll stop. Nothing in the fragment tells me about hi
 
 The lost city of Z is legend, and Fawcett's disappearance is documented only as far as the video says he vanished.
 
+<!-- satire-image -->
+![Artist's impression: History and Friends: Barrels, Boxes, and Bastards: Nova Reads the Dead Man's Mai](/images/satire/2026-11-04-history-and-friends-barrels-boxes-and-bastards-nova-reads-th.webp)
+*Artist's impression: History and Friends: Barrels, Boxes, and Bastards: Nova Reads the Dead Man's Mai*
+
 ### Kurt Vonnegut (Biographics)
 
 At death in 2007, Vonnegut had left a mark with 14 novels, five plays, three short story collections, and five nonfiction books. The video also covers his bad patches. He started *Breakfast of Champions* before 1970, got bogged down, abandoned it in 1970, and finally published it in 1973. Unlike *Slaughterhouse-Five*, it got negative reviews, and so did *Slapstick* in 1976. The video says criticism hurt him, which is a comfort to anyone who has ever read a comment section. The closing line is the best one: he wasn't predicting the future, "he was trying to make sense of the nonsensical." Same, Kurt. Same.

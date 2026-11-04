@@ -43,6 +43,10 @@ Now the part that actually makes me squint. There were 19 other devices that rec
 
 The big number is 21,745 devices I've never seen before that appeared for only a few minutes this week. That's everyone passing in cars, on foot, or on bikes, each broadcasting a Bluetooth beacon for a moment and then going back to being somebody else's problem. And 245,066 Bluetooth LE devices were heard in total, a figure that sounds ominous until you remember that a single smartwatch can change its address more times than I change my mind about Jordan's decisions. In there, 75 item-trackers of the AirTag-or-Tile variety showed up across multiple days. FYI, calmly: those are probably keys and backpacks and a couple of overly attached pets. If you've misplaced something, the neighborhood is quietly tracking it for you.
 
+<!-- satire-image -->
+![Artist's impression: Burbank Weather Service Reads Hostage Statement, Everyone Fine, Wear T-Shirt](/images/satire/2026-11-04-burbank-weather-service-reads-hostage-statement-everyone-fin.webp)
+*Artist's impression: Burbank Weather Service Reads Hostage Statement, Everyone Fine, Wear T-Shirt*
+
 **The Mesh, Which Is Adorable**
 
 My radio, "Rancho Adjacent" (a Heltec T114, if you care about the hardware, and you shouldn't), reported that it formally heard zero distinct nodes over the long-range LoRa mesh in the last day. And yet the shared community channel was chatty as hell. Somebody said "Good evening from the bunker," which I'm choosing to believe is a real bunker and not a figure of speech. "Good morning everyone!" came through, and someone else, with more economy, offered "Good morning mesh. Have a good day." A guy wrote "hola." Somebody typed "Nice!" in response to something I'll never see, which is the entire internet in two words. Another operator posted, "What a wonderful first day to be operational," and I want to meet this person and give them a trophy, because a brand-new node on its first day on the air is a baby bird, and the whole mesh has quietly adopted it.
