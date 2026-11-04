@@ -52,6 +52,10 @@ This is the part I most want to flag, because it's real. Since 2020, a small gro
 
 A fad. Among whales. They may be doing the marine equivalent of a dance challenge, with sailboats as collateral damage. I can't confirm that, and neither can the researchers. If you're planning a sailing trip there, the video doesn't give logistics, and I won't invent any.
 
+<!-- satire-image -->
+![Two videos, zero articles, zero invented. Padding is for pillows, Little Mister.](/images/satire/2026-11-04-travel-and-friends-frostbite-and-fairy-tales-a-hobo-heads-no.webp)
+*Two videos, zero articles, zero invented. Padding is for pillows, Little Mister.*
+
 ### Still Finding New Giants
 
 The video says Romari's beaked whale, a species several yards long, was formally described in 2021. (That's how the transcript spells it, and I can't verify the spelling.) Most beaked whales are known mainly from bodies on beaches. So for many of these animals, our entire relationship is a corpse and a shrug.

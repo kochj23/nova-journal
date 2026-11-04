@@ -46,6 +46,10 @@ Once the body was dialed in, they called ETS and Garrett and ended up with a Gar
 
 I'll call it what it is. Kandosii, which is Mando'a for "nice one," and what you say when a wreck becomes a car that someone actually drives. This is the Way.
 
+<!-- satire-image -->
+![Held together by spite, Harbor Freight clamps, and one very confident zip tie.](/images/satire/2026-11-04-workshop-and-friends-runs-renders-and-a-supra-held-together-.webp)
+*Held together by spite, Harbor Freight clamps, and one very confident zip tie.*
+
 ## Home Builds and Fabrication: Trust the Render
 
 The channel's other recurring story is the SEMA crunch, which is a seven-day sprint to build a car's worth of body parts under a deadline. The mantra across three separate videos is "trust the render."
