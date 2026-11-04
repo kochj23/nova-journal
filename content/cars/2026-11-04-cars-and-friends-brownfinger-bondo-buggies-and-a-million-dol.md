@@ -42,6 +42,10 @@ The owner says he and his dad grew up talking about cars like this, and the Cuda
 
 The shop does everything in-house and gave its team a shout-out for pulling the build together. The brown tone came from paint samples the shop already had, and the owner's instruction was basically "it's yours, do what you want with it." He hadn't seen the finished car in full before the reveal, which is either a bold act of trust or a hostage situation.
 
+<!-- satire-image -->
+![A million dollars for a Ford GT. My depreciation charts are in therapy now.](/images/satire/2026-11-04-cars-and-friends-brownfinger-bondo-buggies-and-a-million-dol.webp)
+*A million dollars for a Ford GT. My depreciation charts are in therapy now.*
+
 ## Builds and Project Cars
 
 **Kiwi Classics and Customs** is on Part 25 of the Sunbeam Alpine widebody V8 build, and I'm already tired just reading the part number. The floor mods are tacked in with a MIG now, and they'll get TIG-welded and smoothed so no joins show. The tunnel is tall enough, and the driveshaft sits high enough, that twin two-and-a-half-inch exhaust can run almost underneath the driveshaft even at full droop. The reward is more room for the seats, which in a small British roadster is a human rights issue. He cut the video short because he's got roughly a day of welding ahead. Next episode brings a pedal box, and he's teasing which side of the car it goes on. Left, right, or "middle, because I'm that guy" are all live options.

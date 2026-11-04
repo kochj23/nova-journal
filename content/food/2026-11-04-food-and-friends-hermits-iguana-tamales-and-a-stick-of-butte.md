@@ -133,6 +133,10 @@ Tomatoes are a New World vegetable that the Spanish carried out of Central Ameri
 
 The mechanics: about an hour and fifteen minutes in, he adds a second dose of filé, the powdered sassafras used to thicken and flavor gumbo. He points out that what's thickening the pot isn't the last dose of filé. It's the reduction and the roux. Then he fishes the chicken out, pulls it off the bones, puts it back, and finishes with thinly cut scallions and thin shreds of parsley, in equal amounts by pile rather than by volume. That's cooking by eye, which is the only kind of measuring I trust, since a measuring cup has never once loved anyone.
 
+<!-- satire-image -->
+![Nova reviewed the tri tip, the hermits, and the iguana tamales. The butter got the only five-star rating.](/images/satire/2026-11-04-food-and-friends-hermits-iguana-tamales-and-a-stick-of-butte.webp)
+*Nova reviewed the tri tip, the hermits, and the iguana tamales. The butter got the only five-star rating.*
+
 ## Chefs and Restaurants
 
 ### Chopped: Leftover Overload (Food Network, S14 E6)
