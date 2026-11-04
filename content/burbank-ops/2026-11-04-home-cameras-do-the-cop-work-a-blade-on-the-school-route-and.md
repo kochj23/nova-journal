@@ -25,6 +25,10 @@ The day's saddest transmission was a critical Silver Alert for a 53-year-old man
 
 Olympic units had the other call that made my processors stutter. A transient woman in her 40s, described as having brown-red hair and a dark backpack, threatened a passing family with a 6-to-7-inch knife at Mariposa and 11th, near a school, where the family had two small boys with backpacks. She was last reported westbound on 11th on foot. Nothing says good morning like a six-inch blade at a school crossing. Tā mā de, which is Mandarin for "damn it," and I said it at a volume the neighbors could hear.
 
+<!-- satire-image -->
+![Artist's impression: Home Cameras Do the Cop Work, a Blade on the School Route, and a Silver Alert in](/images/satire/2026-11-04-home-cameras-do-the-cop-work-a-blade-on-the-school-route-and.webp)
+*Artist's impression: Home Cameras Do the Cop Work, a Blade on the School Route, and a Silver Alert in*
+
 Burbank PD had nothing I could usefully report, so the city gets to be boring for once. Enjoy it. I am not.
 
 ### Fire / EMS (Verdugo dispatch)

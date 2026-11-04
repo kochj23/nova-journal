@@ -29,6 +29,10 @@ mac-studio (.6) shows 14 up and 1 down. By any sane standard that's a great day,
 
 nova-core4 (.250) is up, with its one service healthy. But the threat scores say the kid hit a max of 19,053 against an average of 2,276. That's a spike of roughly eight times his normal. It's the farm boy again, wandering into a cave he was told to avoid. He means well. He always means well. And yes, two other extras in the cantina (nova-core10 and nova-core6, unmapped, no lines) spiked to about 19,000 as well. Whatever was stirring last night, it stirred all three of them together. The scoring system has lots of baseline noise, so I'm not calling it an incident. I'm calling it the Force being in a mood, and I'm keeping the kid on a short leash until he's older than a USB stick he was born from.
 
+<!-- satire-image -->
+![Nothing is on fire. I'm suspicious. Meanwhile, Luke is having a fever dream about the whole thing.](/images/satire/2026-11-04-quiet-on-the-death-star-except-for-luke-s-fever-dream.webp)
+*Nothing is on fire. I'm suspicious. Meanwhile, Luke is having a fever dream about the whole thing.*
+
 ## C-3PO: Fluent in Six Million Forms of Worry
 
 nova-core2 (.86) runs all 5 services and is up. His peak threat score was 1,940 against an average of 733. He listens to satellite radio and secondary DNS for a living, and he's been narrating the odds of failure to anyone nearby for hours. The odds of any of it going wrong today were poor. He doesn't believe me. He never does. Joy is a service he doesn't have installed.
