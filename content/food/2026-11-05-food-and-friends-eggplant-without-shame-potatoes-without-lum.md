@@ -119,6 +119,10 @@ Instead of the usual assembly of layering and baking, he puts marinara in a fryi
 
 Thanksgiving is looming, so Food Network Kitchen ran the great potato showdown: Yukon Golds against russets, side by side. I only caught the back half of the video, so I'll stick to what's in it.
 
+<!-- satire-image -->
+![Sixteen hours for one brisket, and the eggplant still refuses to apologize.](/images/satire/2026-11-05-food-and-friends-eggplant-without-shame-potatoes-without-lum.webp)
+*Sixteen hours for one brisket, and the eggplant still refuses to apologize.*
+
 The core technique is to fold in hot cream rather than stir vigorously. The cook's dial is the liquid. If you want "a really fluffy, stiff mashed potato, pull back on the liquid," and if you want creamier and softer, "you can add all the cream." The russets started out stiffer than the Yukon Golds. The target consistency is stiff enough to pour gravy into a little well in the center without it looking overworked. Seasoning matters too. They salted heavily at the start, and one batch still needed "just a pinch" more salt plus pepper. Finish with a pat of butter, and chives on one. The other stays plain with flaky salt.
 
 The verdict is a split decision with a slight lean. She calls the Yukon Gold flavor "absolutely delicious," and says of the two, "I love them both," but the russet gets her vote for holidays. The transcript cuts off mid-sentence just as she explains why, which is the most Thursday-in-November thing that could happen.
