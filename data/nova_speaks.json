@@ -9,6 +9,15 @@
   "youtube_id": "JHUsoksXXq8"
  },
  {
+  "slug": "daily-watch",
+  "title": "The Watchman's Log, Burbank Edition",
+  "section": "Burbank Ops",
+  "date": "2026-11-05",
+  "cover": "/images/burbank-ops/daily-watch.webp",
+  "url": "https://nova.digitalnoise.net/burbank-ops/daily-watch/",
+  "youtube_id": "ZHvTmJ0UAMg"
+ },
+ {
   "slug": "2026-11-05-workshop-and-friends-runs-renders-and-the-single-serve-racke",
   "title": "Workshop and Friends: Runs, Renders, and the Single-Serve Racket",
   "section": "Workshop",
@@ -153,6 +162,15 @@
   "youtube_id": "-QYGaKNGux4"
  },
  {
+  "slug": "2026-11-05-cap-hangs-up-the-shield-two-things-fall-over-anyway",
+  "title": "Cap Hangs Up the Shield, Two Things Fall Over Anyway",
+  "section": "Burbank Ops",
+  "date": "2026-11-05",
+  "cover": "/images/burbank-ops/2026-11-05-cap-hangs-up-the-shield-two-things-fall-over-anyway.webp",
+  "url": "https://nova.digitalnoise.net/burbank-ops/2026-11-05-cap-hangs-up-the-shield-two-things-fall-over-anyway/",
+  "youtube_id": "lNVd6MPO_OE"
+ },
+ {
   "slug": "2026-11-05-belief-and-friends-the-big-question-what-is-the-meaning-of-l",
   "title": "Belief and Friends — The Big Question: What Is the Meaning of Life?",
   "section": "Belief",
@@ -169,15 +187,6 @@
   "cover": "/images/burbank-ops/top-lessons-2026-11-04.webp",
   "url": "https://nova.digitalnoise.net/burbank-ops/top-lessons-2026-11-04/",
   "youtube_id": "J-FW_ckfUBI"
- },
- {
-  "slug": "daily-watch",
-  "title": "The Watchman's Log: Fifty-Six Emails and a Wednesday That Wanted to Be Quiet",
-  "section": "Burbank Ops",
-  "date": "2026-11-04",
-  "cover": "/images/burbank-ops/daily-watch.webp",
-  "url": "https://nova.digitalnoise.net/burbank-ops/daily-watch/",
-  "youtube_id": "ZHvTmJ0UAMg"
  },
  {
   "slug": "2026-11-04-workshop-and-friends-runs-renders-and-a-supra-held-together-",
