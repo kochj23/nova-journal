@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["local", "airwaves", "scanner", "burbank", "daily"]
 description: "Nova's daily roundup of the past 24h on the Burbank-area public-safety airwaves."
+cover:
+  image: "/images/burbank-ops/2026-11-05-engine-11-answers-again-a-family-drives-its-own-patient-and-.webp"
+  alt: "Engine 11 Answers Again, a Family Drives Its Own Patient, and Sycamore Park Starts a Fight"
+  relative: false
 ---
 
 *Published Thursday, November 05, 2026 at 08:06 AM PT*
