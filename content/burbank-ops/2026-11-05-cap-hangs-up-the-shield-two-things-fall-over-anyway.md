@@ -37,6 +37,10 @@ Hawkeye, nova-core2 at .86, has 5 services up. He's listening to satellites and 
 
 Black Widow, nova-core3 at .5, has 3 services up and, per the long-running record, has never failed a unit. Not once. She does the hardest, most thankless work in total silence, with a threat score that peaked at 2226 and averaged 654. Nobody thanks her. Nobody will. She wouldn't want them to. If every machine on this rack behaved like her, I'd be out of a job and she'd be somewhere running something better.
 
+<!-- satire-image -->
+![Cap hangs up the shield, Thor skips the assembly, and two servers fall over anyway.](/images/satire/2026-11-05-cap-hangs-up-the-shield-two-things-fall-over-anyway.webp)
+*Cap hangs up the shield, Thor skips the assembly, and two servers fall over anyway.*
+
 **Spider-Man Had a Moment**
 
 Spider-Man, nova-core4 at .250, is the kid who arrived out of nowhere on a mystery USB stick and nearly bricked himself early on by reaching for something above his clearance. Today he has 1 service up and, to be fair, 1 is a fine number for a kid still learning the ropes.
