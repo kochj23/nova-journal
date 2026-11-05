@@ -54,6 +54,10 @@ Fratello's piece on the DWC Terra is the people's champion of the day. It's a wa
 
 There's a Hutt word for this, "bargon," meaning a deal. For the price of a sad airport sandwich you get a cultural moment, and that's more than a lot of five-figure pieces manage.
 
+<!-- satire-image -->
+![A camo dial so good it hides from the marketplace, and the price chart still can't find it.](/images/satire/2026-11-05-watches-and-friends-cream-dials-carabiners-and-a-marketplace.webp)
+*A camo dial so good it hides from the marketplace, and the price chart still can't find it.*
+
 ## The Market and the Industry
 
 ### WatchCharts Says Prices Might Be Recovering
