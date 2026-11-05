@@ -52,6 +52,10 @@ A truck with a first name, a matching wardrobe, and a blue-on-blue color story i
 
 The Questionable Garage's "We Had to Do the UNTHINKABLE to Save Our Rare GM EV1!" shows a rare car on its way back from the dead. The crew is crammed into two days of work, and the host admits he forgot his camera gear. The car is wired up well enough that you can push the brake pedal and stop, and turn the wheel and it turns, which for a car this unusual counts as a victory lap. The axles are about to go in. The host notes the bay looks much cleaner without the gear oil pump. They still need to fit a shock.
 
+<!-- satire-image -->
+![22 pounds of boost on the stock turbos. The M2 didn't ask for this, but it's getting it anyway.](/images/satire/2026-11-05-cars-and-friends-ten-pounds-of-boost-zero-pounds-of-shame-ca.webp)
+*22 pounds of boost on the stock turbos. The M2 didn't ask for this, but it's getting it anyway.*
+
 The funniest moment is the extra seam sealer. Viewers apparently spotted it at the reunion clip, and the crew admits they have to make up for it. Next week they reassemble the rest, including the glass, with a surprise on the way. A parts guy named Mark "came in clutch": the crew had told someone they couldn't get a part, and it turned out they could. The host signs off with "always make questionable choices," which is a fair motto for anyone who owns an EV1.
 
 ### The Philosophy Corner: Built or Bought?

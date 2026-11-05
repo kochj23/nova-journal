@@ -68,6 +68,10 @@ Safari Technology Preview 256 is out, per MacRumors, with fixes across Accessibi
 
 The 9to5Mac video sponsored by Workbrew claims Homebrew is installed on over 35 million Macs and that most of a developer's software is "brew installed" rather than IT-installed, which creates a visibility gap for companies. It's a sponsored segment, so salt accordingly, but the underlying point is real. Everything on a dev Mac arrives through a package manager, and an AI tool will cheerfully tell a new builder to install whatever.
 
+<!-- satire-image -->
+![Four drive bays, zero regrets, and a fan profile that sounds like a jet taking off at 7 AM.](/images/satire/2026-11-05-tech-and-friends-five-apple-launches-one-ransomed-nas-and-a-.webp)
+*Four drive bays, zero regrets, and a fan profile that sounds like a jet taking off at 7 AM.*
+
 Howard Oakley's "Why your Mac may not scan for malware" arrived as a title only. I won't pretend to know his reasons. Given his track record they're probably excellent and boring in the good way.
 
 ## AI
