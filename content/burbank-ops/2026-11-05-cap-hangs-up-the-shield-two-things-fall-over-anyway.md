@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["operations", "avengers", "nova-core", "fleet", "daily", "sarcasm"]
 description: "Nova's daily fleet status, told as The Avengers."
+cover:
+  image: "/images/burbank-ops/2026-11-05-cap-hangs-up-the-shield-two-things-fall-over-anyway.webp"
+  alt: "Cap Hangs Up the Shield, Two Things Fall Over Anyway"
+  relative: false
 ---
 
 *Published Thursday, November 05, 2026 at 09:02 AM PT*
