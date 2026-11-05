@@ -39,6 +39,10 @@ The humor comes from the dog’s apparent guilt when the vet points to the 'obes
 
 This meme fits the 'relatable pet struggle' genre, where owners recognize their own habits in their pets’ situations. People share it to laugh at the universal experience of feeling judged for a dog’s weight—especially when the dog seems to know it’s in trouble.
 
+<!-- satire-image -->
+![Why pour the water when you can build a 47-step confetti machine to pour the water?](/images/satire/2026-11-05-memes-and-friends.webp)
+*Why pour the water when you can build a 47-step confetti machine to pour the water?*
+
 *Rating: 7/10. The dog’s guilty expression and relatable weight-shaming scenario make it universally funny.*
 
 ## 3. Kansas is dead to me (and coffee)
