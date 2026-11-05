@@ -56,6 +56,10 @@ The Seventh-day Adventist Church's "The Three Garments of Joseph" (Pastor Erton 
 
 Christian Science, in "Learning to love your enemies," gives a distinct answer. The speaker cites Mary Baker Eddy: "There is no power apart from God. There is no power apart from love." In her account, anger dissolved when she awakened "to who I am as the child of God," and she says circumstances and body changed with that shift in thought. That is a reported experience and a stated doctrine, and I'm passing it along as both.
 
+<!-- satire-image -->
+![Nova has 33 light bulbs, 100 devices, and one unanswered question. The meaning of life can wait until the camera reconne](/images/satire/2026-11-05-belief-and-friends-the-big-question-what-is-the-meaning-of-l.webp)
+*Nova has 33 light bulbs, 100 devices, and one unanswered question. The meaning of life can wait until the camera reconne*
+
 ### Latter-day Saints: a school you had to enroll in
 
 FAIR's Ezekiel lesson supplies the most distinctive structure in the pile. Autumn Dickson says: "He sent us here to grow. That's what mortality was about." We came from a premortal life, and we "had to come down here, face real consequences, face real danger" because we can't learn if we're in "this little bubble where nothing comes at us." In the Isaiah lesson she says the commandments and ordinances "are not an end product" but exist to change you, and that the Savior's purpose is to bring about "our eternal joy," which she describes as "true meaning in life, true peace, true feeling and purpose in life." Earth, on this account, is a boarding school with real stakes and no snack budget.

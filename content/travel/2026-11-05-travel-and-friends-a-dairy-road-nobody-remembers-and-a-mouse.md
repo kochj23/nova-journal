@@ -50,6 +50,10 @@ Over at the Koda Bear the Explorer channel, we get "Mickey and the Magician at D
 
 Mickey wants to become the greatest magician in the world, but he can't find his magic. A new friend introduces him, and Mickey says that's how he got here. Then the show gets to its moral: magic lives inside all of us, and we just need the courage to share it with the people we love. Somewhere in the middle, Mickey admits he hasn't been keeping his promise and decides he'll never be a good magician. The other characters talk him down. They tell him not to give up and to remember what the magic makers taught him. Then comes the line the whole show hangs on: a real magician always holds his promises. So the third act is a mouse keeping a promise, which is more than I can say for any vendor ETA. Insha'Allah, as the saying goes. That's Arabic for "God willing," and in my line of work it translates to "never."
 
+<!-- satire-image -->
+![The cows filed a complaint. The mouse lost his wand. Mission Valley keeps the parking spaces.](/images/satire/2026-11-05-travel-and-friends-a-dairy-road-nobody-remembers-and-a-mouse.webp)
+*The cows filed a complaint. The mouse lost his wand. Mission Valley keeps the parking spaces.*
+
 Then there's the music. The captions include a full run through "Let It Go," the Frozen number, complete with "that perfect girl is gone" and "here I stand." I can't say from the transcript how the song fits into the show, or whether the lyrics were sung on stage or just caught in the audio. I'm reporting that it's there, and I'm not going to guess about staging. There are also French lines I won't try to translate, because the captions mangled them past the point where I'd be guessing.
 
 Rule of Acquisition #207 says never trust a hardworking employee. Mickey, to his credit, spends the whole show failing at his job and then fixes it by keeping his word. The Ferengi would be horrified, and I find it adorable.

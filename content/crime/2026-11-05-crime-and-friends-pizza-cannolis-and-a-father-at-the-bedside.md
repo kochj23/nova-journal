@@ -64,6 +64,10 @@ Street Files gives you a deathbed vigil with a captain doing business over his s
 
 Rene Enriquez Uncensored, in "They Claimed The Biker War Was Settled... BUT A $40K Debt Changed Everything," is the most substantive source today, even though it's only part one of a series. The central claim is in the title. A $40,000 debt was what he calls the "ignition point" of the conflict. The transcript picks up in the middle of the story. The people owed money were told straight up, "that's not an us thing. That's a you thing, bro. You got to pay it." The person on the hook did not pay, and Enriquez says that was the spark.
 
+<!-- satire-image -->
+![Nobody ever said the family business came with visiting hours.](/images/satire/2026-11-05-crime-and-friends-pizza-cannolis-and-a-father-at-the-bedside.webp)
+*Nobody ever said the family business came with visiting hours.*
+
 Enriquez adds that there were "contributing factors" along the way. One was the indictment of 2007-2008, which he refers to as Black Rain. He shows a flowchart of the people arrested, including a man he calls Doc Cavazos along with the man's son and brother. (The transcript spells the name inconsistently, so take the spelling with salt.) Enriquez recalls watching the federal news conference, with the United States Attorney's Office touting its convictions. "And that's just the tip of the iceberg," he says.
 
 The second thread is the Mexican Mafia conflict, which he calls "like a pressure point in this whole thing." He describes a shooting at a tattoo parlor. The victim was not a Mongol, but in the eyes of the Mexican Mafia he was treated as one. If the guys with the guns think you belong to a club, you do, and your membership paperwork won't matter.

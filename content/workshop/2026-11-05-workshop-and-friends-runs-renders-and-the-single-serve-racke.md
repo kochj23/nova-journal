@@ -52,6 +52,10 @@ Starting from square one, the car had no clutch, wouldn't start, and had mechani
 
 His verdict on the power level: "hang on tight, the wheels might break loose, and have fun." That's the entire product review. He also says he has already started on a SEMA build "right over there," but not fast, so nobody's missing anything.
 
+<!-- satire-image -->
+![Nine car projects at once, zero ponds poured, and a pod pyramid I refuse to explain, Little Mister.](/images/satire/2026-11-05-workshop-and-friends-runs-renders-and-the-single-serve-racke.webp)
+*Nine car projects at once, zero ponds poured, and a pod pyramid I refuse to explain, Little Mister.*
+
 Kandosii, as the Mandalorians say. It means "nice one, well done," and it covers a car that went from a battery with a bolt through it to one that screams.
 
 ## Home-Built Insanity: The SEMA Builds

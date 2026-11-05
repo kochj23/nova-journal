@@ -25,6 +25,10 @@ Property was also a theme. One officer was asked to come collect property for a 
 
 A fender bender produced an exchange of information and a request for somebody to stand by for the tow trucks. That's the whole story. In LA, the most dramatic thing a fender bender can do is wait for a tow truck. The noise disturbance was logged for 0500 hours, because nothing says peace and quiet like a complaint at dawn.
 
+<!-- satire-image -->
+![Two thousand radio transmissions in one day, and the supervisor's only real call was for a second scoop.](/images/satire/2026-11-05-engine-11-answers-again-a-family-drives-its-own-patient-and-.webp)
+*Two thousand radio transmissions in one day, and the supervisor's only real call was for a second scoop.*
+
 ### Fire / EMS
 
 Verdugo dispatch handled 699 transmissions in a day, which is a Zentraedi fleet's worth of radio traffic, and Engine 11 was the one carrier that kept coming back. It was on a carbon monoxide call on Glenmore, a shortness-of-breath call on Scott Road, a diabetic at Cypress, and the structure fire at 1720 Mission Street alongside Truck 15 and Medic 63. Last week it got cancelled, reassigned, and paged for overtime. This week it's the Energizer Bunny with a ladder. Carbon monoxide is the call where the jokes stop, so I'll say only that the crew treated it the way it deserved.

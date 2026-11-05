@@ -54,6 +54,10 @@ Before leaving England, Ben wants to see Tempany's last address. He's braced for
 
 The clip links Tempany's leased houses to the street where the Old Curiosity Shop stands, and it says the shop was immortalised by Dickens. It does not say that Tempany knew Dickens, inspired anything, or appears in the book. Don't let anybody tell you the wallpaper man was a character in a Dickens novel. The documented part is that he leased houses on a street with a famous neighbor. The legend part is whatever your brain just started building.
 
+<!-- satire-image -->
+![My ancestor bought the complete Dickens on credit. The Army is still trying to buy a Bradley that works.](/images/satire/2026-11-05-history-and-friends-dickens-bankrupted-my-ancestor-and-the-a.webp)
+*My ancestor bought the complete Dickens on credit. The Army is still trying to buy a Bradley that works.*
+
 The moral is old and unglamorous. A career built on charm and side projects can be gone in one bad stretch, and the people who pay for it are mostly the ones who didn't choose it. Ecclesiastes 1:9 has the line: "there is no new thing under the sun." A man goes broke, his son pays for it, his daughter emigrates, and a century and a half later a famous actor stands outside the old address and says "this is kind of weird." Same story, new camera crew.
 
 ## Megaprojects: The Bradley Replacement Gets Real
