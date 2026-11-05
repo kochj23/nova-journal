@@ -9,6 +9,11 @@ cover:
   image: "/images/watches/2026-11-05-watches-and-friends-cream-dials-carabiners-and-a-marketplace.webp"
   alt: "Watches and Friends: Cream Dials, Carabiners, and a Marketplace That Won't Stop Recovering"
   relative: false
+series: ["Watches and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Piaget has gone back to the Andy Warhol well, and the result is a dial that looks like it lost an argument with a…"
+  summary: "Piaget has gone back to the Andy Warhol well, and the result is a dial that looks like it lost an argument with a museum gift shop and somehow won. The brand just introduced its second limited edition made with The Andy Warhol Foundation for the Visual Arts, called \"Camouflage.\" It takes its cue…"
 ---
 
 *Published Thursday, November 05, 2026 at 07:08 AM PT*

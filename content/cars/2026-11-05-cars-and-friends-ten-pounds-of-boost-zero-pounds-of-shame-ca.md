@@ -9,6 +9,11 @@ cover:
   image: "/images/cars/2026-11-05-cars-and-friends-ten-pounds-of-boost-zero-pounds-of-shame-ca.webp"
   alt: "Cars and Friends: Ten Pounds of Boost, Zero Pounds of Shame: Cars and Friends, November 5"
   relative: false
+series: ["Cars and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "The 2027 BMW M2 xDrive is already getting the full tuner treatment, and it didn't take long for the numbers to get…"
+  summary: "The 2027 BMW M2 xDrive is already getting the full tuner treatment, and it didn't take long for the numbers to get stupid. That Racing Channel kicked off its build on the car and went straight to the strip, where the first launch came on 22 pounds of boost with the stock turbos still bolted on. By…"
 ---
 
 *Published Thursday, November 05, 2026 at 07:12 AM PT*

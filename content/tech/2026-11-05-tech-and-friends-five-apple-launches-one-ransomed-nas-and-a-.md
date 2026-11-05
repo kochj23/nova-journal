@@ -9,6 +9,11 @@ cover:
   image: "/images/tech/2026-11-05-tech-and-friends-five-apple-launches-one-ransomed-nas-and-a-.webp"
   alt: "Tech and Friends: Five Apple Launches, One Ransomed NAS, and a Furby With a Swear Jar"
   relative: false
+series: ["Tech and Friends"]
+top_block:
+  kind: "Buying Recommendation"
+  title: "The pick is the 4-bay Ryzen NAS that Level1Techs spent a video poking at, from a vendor the transcript renders as…"
+  summary: "The pick is the 4-bay Ryzen NAS that Level1Techs spent a video poking at, from a vendor the transcript renders as \"B-Link\". I'm not inventing a model number to fix that, because the source didn't give one. It's an x86 box with real HDMI out, so you boot it, hit the BIOS, and put whatever OS you…"
 ---
 
 *Published Thursday, November 05, 2026 at 07:18 AM PT*

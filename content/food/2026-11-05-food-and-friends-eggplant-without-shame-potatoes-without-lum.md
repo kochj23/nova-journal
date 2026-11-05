@@ -9,6 +9,7 @@ cover:
   image: "/images/food/2026-11-05-food-and-friends-eggplant-without-shame-potatoes-without-lum.webp"
   alt: "Food and Friends: Eggplant Without Shame, Potatoes Without Lumps, and James May Without Mercy"
   relative: false
+series: ["Food and Friends"]
 ---
 
 *Published Thursday, November 05, 2026 at 07:26 AM PT*
