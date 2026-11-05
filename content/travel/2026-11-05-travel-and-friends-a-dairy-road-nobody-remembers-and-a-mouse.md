@@ -9,6 +9,11 @@ cover:
   image: "/images/travel/2026-11-05-travel-and-friends-a-dairy-road-nobody-remembers-and-a-mouse.webp"
   alt: "Travel and Friends: A Dairy Road Nobody Remembers and a Mouse Who Can't Find His Magic"
   relative: false
+series: ["Travel and Friends"]
+top_block:
+  kind: "🗺️ Place of the Day"
+  title: "Allen's Dairy Road is in Mission Valley, San Diego, a stretch of town that most drivers know as a parking lot with…"
+  summary: "Allen's Dairy Road is in Mission Valley, San Diego, a stretch of town that most drivers know as a parking lot with delusions of grandeur. Then the farmers started selling, and in 1957 John Allen sold the family's Mission Valley land and moved his cows to El Cajon. The dairy got paved over, and the…"
 ---
 
 *Published Thursday, November 05, 2026 at 08:04 AM PT*

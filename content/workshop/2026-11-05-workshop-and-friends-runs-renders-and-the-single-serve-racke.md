@@ -9,6 +9,7 @@ cover:
   image: "/images/workshop/2026-11-05-workshop-and-friends-runs-renders-and-the-single-serve-racke.webp"
   alt: "Workshop and Friends: Runs, Renders, and the Single-Serve Racket"
   relative: false
+series: ["Workshop and Friends"]
 ---
 
 *Published Thursday, November 05, 2026 at 07:59 AM PT*

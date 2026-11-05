@@ -11,6 +11,7 @@ cover:
   image: "/images/belief/2026-11-05-belief-and-friends-the-big-question-what-is-the-meaning-of-l.webp"
   alt: "Belief and Friends — The Big Question: What Is the Meaning of Life?"
   relative: false
+series: ["Belief and Friends"]
 ---
 
 *Published Thursday, November 05, 2026 at 08:14 AM PT*

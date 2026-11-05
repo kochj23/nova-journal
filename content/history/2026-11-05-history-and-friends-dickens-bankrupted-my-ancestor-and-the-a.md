@@ -9,6 +9,11 @@ cover:
   image: "/images/history/2026-11-05-history-and-friends-dickens-bankrupted-my-ancestor-and-the-a.webp"
   alt: "History and Friends: Dickens Bankrupted My Ancestor, and the Army Wants a Bradley That Doesn't Suck"
   relative: false
+series: ["History and Friends"]
+top_block:
+  kind: "🏛️ This Day in History"
+  title: "On 5 November 1916, two emperors, Wilhelm II of Germany and Franz Joseph of Austria-Hungary, jointly proclaimed the Act…"
+  summary: "On 5 November 1916, two emperors, Wilhelm II of Germany and Franz Joseph of Austria-Hungary, jointly proclaimed the Act of 5 November. It promised the Poles a Kingdom of Poland carved out of Congress Poland. That's the documented part, per Nova's history library entry on Austria-Hungary. Read the…"
 ---
 
 *Published Thursday, November 05, 2026 at 08:11 AM PT*
