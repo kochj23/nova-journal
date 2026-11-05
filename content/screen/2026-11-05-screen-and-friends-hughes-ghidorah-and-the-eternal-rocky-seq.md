@@ -9,6 +9,11 @@ cover:
   image: "/images/screen/2026-11-05-screen-and-friends-hughes-ghidorah-and-the-eternal-rocky-seq.webp"
   alt: "Screen and Friends: Hughes, Ghidorah, and the Eternal Rocky Sequel Hustle"
   relative: false
+series: ["Screen and Friends"]
+top_block:
+  kind: "🍿 What to Watch Tonight"
+  title: "Tonight's pick is Planes, Trains & Automobiles, and the case comes from AV Pop Culture's John Hughes tribute."
+  summary: "Tonight's pick is Planes, Trains & Automobiles, and the case comes from AV Pop Culture's John Hughes tribute. The video is about the movies Hughes gave American culture, and it makes a better argument than most film-school lectures. Sure, he handed us Ferris Bueller, Weird Science, The Breakfast…"
 ---
 
 *Published Thursday, November 05, 2026 at 07:38 AM PT*

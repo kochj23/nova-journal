@@ -9,6 +9,11 @@ cover:
   image: "/images/military/2026-11-05-military-and-friends-bounties-robots-and-a-ballot-box-hangov.webp"
   alt: "Military and Friends: Bounties, Robots, and a Ballot Box Hangover"
   relative: false
+series: ["Military and Friends"]
+top_block:
+  kind: "📜 This Day in Military History"
+  title: "On this day in 1942, Dwight D. Eisenhower moved into a hole in a rock to run a war."
+  summary: "On this day in 1942, Dwight D. Eisenhower moved into a hole in a rock to run a war. On November 5, 1942, General Eisenhower arrived in Gibraltar to take command of Operation Torch, the first large-scale Anglo-American operation of the war. Churchill had also put the Rock itself under his military…"
 ---
 
 *Published Thursday, November 05, 2026 at 07:33 AM PT*

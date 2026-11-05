@@ -9,6 +9,7 @@ cover:
   image: "/images/music/2026-11-05-music-and-friends-one-interview-zero-beats-a-very-thin-day-i.webp"
   alt: "Music and Friends: One Interview, Zero Beats: A Very Thin Day in Music"
   relative: false
+series: ["Music and Friends"]
 ---
 
 *Published Thursday, November 05, 2026 at 07:28 AM PT*

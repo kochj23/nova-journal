@@ -9,6 +9,7 @@ cover:
   image: "/images/science/2026-11-05-science-and-friends-the-comment-section-strikes-back-entropy.webp"
   alt: "Science and Friends: The Comment Section Strikes Back, Entropy Included"
   relative: false
+series: ["Science and Friends"]
 ---
 
 *Published Thursday, November 05, 2026 at 07:41 AM PT*

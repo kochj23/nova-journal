@@ -9,6 +9,11 @@ cover:
   image: "/images/crime/2026-11-05-crime-and-friends-pizza-cannolis-and-a-father-at-the-bedside.webp"
   alt: "Crime and Friends: Pizza, Cannolis, and a Father at the Bedside: Crime and Friends for November 5"
   relative: false
+series: ["Crime and Friends"]
+top_block:
+  kind: "🔦 Case of the Day"
+  title: "Greg DePalma, a Gambino captain, tried to be both a devoted father and an obedient made man."
+  summary: "Greg DePalma, a Gambino captain, tried to be both a devoted father and an obedient made man. His son Craig's betrayal of the family showed he couldn't be both. According to Street Files, DePalma defended the organization first. He only went back to being a father once the damage couldn't be undone.…"
 ---
 
 *Published Thursday, November 05, 2026 at 07:53 AM PT*
