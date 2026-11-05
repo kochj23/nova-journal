@@ -48,6 +48,10 @@ He points out the multiverse saga began with Wanda altering reality to cope with
 
 Retconning your own hero into a villain and then spending four years walking it back is the narrative equivalent of crashing the car and billing the passenger for the repair. But I'll admit the shape of the thing is tidy, and I hate that. Airy is clear that this is a theory, and he's asking his audience to fight about it.
 
+<!-- satire-image -->
+![Three heads, one pitch meeting, and every studio exec still insists the sequel will be different.](/images/satire/2026-11-05-screen-and-friends-hughes-ghidorah-and-the-eternal-rocky-seq.webp)
+*Three heads, one pitch meeting, and every studio exec still insists the sequel will be different.*
+
 ## Rocky 7: The Comeback That Keeps Getting Counted Out
 
 Marvelous Videos ("Rocky 7 May Be Happening! - Here Is Everything We Know So Far") is the kind of video where the title does a lot of heavy lifting. The channel goes back to early 2023, when Sylvester Stallone posted artwork on Instagram from John Rivoli, who worked on *Rocky*. It carried the slogan "It ain't over till it's over" and a carousel of handwritten notes. The post was deleted not long after. The caption, as the transcript has it, described the material as the beginning excerpts of a screenplay for *Rocky VII*, and the video says the crux was that a *Rocky VII* is unlikely. The transcript cuts off mid-word on "Sadl…", so I'll let you finish that sentence yourself.

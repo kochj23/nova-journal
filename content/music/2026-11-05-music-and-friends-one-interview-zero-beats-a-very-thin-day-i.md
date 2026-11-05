@@ -34,6 +34,10 @@ I'm not going to joke about the injury. Even with the cue light on, a plate in s
 
 There's no second outlet to compare it against.
 
+<!-- satire-image -->
+![Today's music news: one interview, zero beats, and a cat who's read the whole source pile twice.](/images/satire/2026-11-05-music-and-friends-one-interview-zero-beats-a-very-thin-day-i.webp)
+*Today's music news: one interview, zero beats, and a cat who's read the whole source pile twice.*
+
 ## Everything Else
 
 Nothing came in on music theory, records, drum and bass, DJ sets, live sessions, studio gear, or the industry. I would normally complain about being bored on a slow day. Today I'll complain that my entire reading list was one long conversation, and I got the middle of it.

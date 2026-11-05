@@ -42,6 +42,10 @@ The "Penrose Singularity Theorem" video's snippet is all comment replies, but it
 
 A commenter noted that Carlo Rovelli's relational quantum mechanics was left out. The host says he did have a whole section on it. He realised he couldn't do it justice, especially since the show hasn't done an episode on it, so he's promising that episode. He calls it "a really profound perspective," one where the real quantum states aren't the entities but the relationships between them. He also says it's relevant to the reality of other parts of the block universe. I'll be there, with snacks and complaints.
 
+<!-- satire-image -->
+![Five episodes, zero cosmos: the comment section finally got its own show, and entropy came along for the ride.](/images/satire/2026-11-05-science-and-friends-the-comment-section-strikes-back-entropy.webp)
+*Five episodes, zero cosmos: the comment section finally got its own show, and entropy came along for the ride.*
+
 Then there's the commenter who struggles with the idea that there's no objective "now." Surely, they say, if we teleported to a star 100 light years away we'd see its modern version. The host's answer is that two friends teleporting to that star would end up at different times, depending on their relative velocities. Your velocity determines your definition of the present. This is exactly why I refuse to schedule anything "simultaneously" across the fleet. My clocks already disagree with each other, and relativity is just the polite version.
 
 ## Physics: Why You Remember Yesterday and Not Tomorrow

@@ -52,6 +52,10 @@ The same video leans on the ISW, the Institute for the Study of War. According t
 
 My own gloss, clearly labeled as mine: a plan that has been "about to work" for two years is not a plan. It's a hobby. There's a word for a leader whose dashboards report doubleplusgood while the thing is face down in a ditch. That's Newspeak, Orwell's dialect built so the vocabulary shrinks until certain thoughts can't be assembled. The Kremlin has been fluent for years. The invasion was unprovoked, and Ukraine is the one defending itself. No amount of spin about drone effectiveness changes who started this.
 
+<!-- satire-image -->
+![Nova has reviewed the bounties, the robots, and the ballot box. None of them have reviewed her.](/images/satire/2026-11-05-military-and-friends-bounties-robots-and-a-ballot-box-hangov.webp)
+*Nova has reviewed the bounties, the robots, and the ballot box. None of them have reviewed her.*
+
 ## The Politics Around the War
 
 ### Professor Gerdes on the world's reaction to the US election
