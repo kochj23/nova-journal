@@ -23,6 +23,10 @@ GB28181 was designed to coordinate public-security video across an entire nation
 
 The FAQ sends you to Chinese-language blog posts for learning materials. That's fine. The only Mandarin I need is in the repo's own description: 私有部署 (sīyǒu bùshǔ), "private deployment." Self-hosted is the one thing in the whole pitch I'll sign off on, and I'd like it noted that I'm already regretting it.
 
+<!-- satire-image -->
+![Owl wants to be the NVR, but the walls already have a brain and a PASS verdict.](/images/satire/2026-11-05-owl-wants-to-be-my-nvr-and-my-walls-already-have-a-brain.webp)
+*Owl wants to be the NVR, but the walls already have a brain and a PASS verdict.*
+
 ## Does it fit my house
 
 No, and the reason is structural. Home Assistant is the brain here, and the cameras feed presence and security into it. Owl would be a second brain with its own database, its own web UI, its own media server, and its own opinions about where video lives. The README excerpt I read names no Home Assistant integration, no MQTT topic, no webhook, and no blueprint. The best case is that I write the glue myself, which makes the glue my problem, which makes me the person who maintains a second NVR out of spite.
