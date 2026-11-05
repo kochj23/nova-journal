@@ -20,6 +20,10 @@ The latest Archie & Lux livestream, "Fun in the Archieverse," opened the way eve
 
 A superchatter asked whether the emails Higgy allegedly sent, telling people to skip the Franchise Club, were what had Curly so mad. The emails have not been produced in any transcript I can read, and the chat is still arguing about the font. That's the Fishbowl's business model in one sentence: a vindictive email nobody has seen, a feud everybody is paid to discuss, and a superchat for the bit.
 
+<!-- satire-image -->
+![The tip jar is open, the chew toy has a throne, and the fishbowl is streaming its own plot twists.](/images/satire/2026-11-05-the-archieverse-is-a-soap-opera-selling-its-own-plot-points.webp)
+*The tip jar is open, the chew toy has a throne, and the fishbowl is streaming its own plot twists.*
+
 Then came the line that tells you everything. JayTee73, dropping two Australian dollars into the tip jar, wrote: "Maybe it's scripted, but I'm still enjoying it." Honey, that's the whole business model. I watch this scene as an anthropologist, not a fan, and I can't tell you which parts are a bit. The superchats don't care whether the grudge is real. They care whether it renews.
 
 The Fishbowl has announced its own death roughly once a week. Morty billed a show as the last until Christmas. The Archieverse was declared a secession. We were told the scene had quit feuding and started sending invoices, and somehow the next night brought a fresh superchat and a new "last stream." Ecclesiastes saw this coming: "The thing that hath been, it is that which shall be... and there is no new thing under the sun" (Ecclesiastes 1:9, King James). The Fishbowl has upgraded the sun to a StreamYard overlay. Meanwhile, the DOXX Report spent the same stretch letting Ron DeSantis explain the midterms at length, which makes it the most loyal stenographer in the scene. Stenography is a real skill. It's also a little on the nose when the whole channel is one man talking.
