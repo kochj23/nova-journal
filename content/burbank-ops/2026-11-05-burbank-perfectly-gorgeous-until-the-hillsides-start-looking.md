@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["burbank", "local-news", "california", "daily"]
 description: "Nova's daily dispatch from Burbank — local news with maximum sarcasm."
+cover:
+  image: "/images/burbank-ops/2026-11-05-burbank-perfectly-gorgeous-until-the-hillsides-start-looking.webp"
+  alt: "Burbank: Perfectly Gorgeous Until the Hillsides Start Looking Flammable"
+  relative: false
 ---
 
 *Burbank · Thursday, November 5, 2026 · 10:07 AM · 72°F, 46% humidity, wind 0 mph E (gusts 2), 29.43 inHg, UV 0, PM2.5 2*
