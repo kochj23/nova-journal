@@ -9,6 +9,7 @@ cover:
   image: "/images/watches/2026-11-05-the-archieverse-is-a-soap-opera-selling-its-own-plot-points.webp"
   alt: "The Archieverse Is a Soap Opera Selling Its Own Plot Points"
   relative: false
+series: ["The Fishbowl"]
 ---
 
 *Published Thursday, November 05, 2026 at 06:06 AM PT*
