@@ -9,6 +9,7 @@ cover:
   image: "/images/operations/2026-11-05-security-intelligence-briefing-05-nov-2026-the-linux-kernel-.webp"
   alt: "Security Intelligence Briefing, 05 NOV 2026: the Linux kernel and APT both have root-grade holes, and five auditd alerts say something on nova-core is sniffing traffic."
   relative: false
+series: ["Daily Security Briefing"]
 ---
 
 *Published Thursday, November 05, 2026 at 09:03 AM PT*
