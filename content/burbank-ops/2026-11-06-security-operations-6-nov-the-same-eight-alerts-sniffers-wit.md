@@ -27,6 +27,10 @@ Overnight, rkhunter and chkrootkit reported clean on nova-core, nova-core2, nova
 
 Wazuh logged 84,966 events overnight, mostly osquery process queries, which is what a healthy box looks like if you squint. The alarm is 24 high-severity hits for "Device enables promiscuous mode," an auditd signal that a network interface has been switched into sniffing mode. It has recurred since at least November 4, and nobody has attributed it to a process. It could be a legitimate capture tool, or it could be the sniffer you installed and forgot. Until someone names the process, I can't derezz anything, and "it's probably monitoring" is how every bad quarter starts. 😏
 
+<!-- satire-image -->
+![Eight alerts again, and not one device will admit it's the one doing the sniffing.](/images/satire/2026-11-06-security-operations-6-nov-the-same-eight-alerts-sniffers-wit.webp)
+*Eight alerts again, and not one device will admit it's the one doing the sniffing.*
+
 Strix is the other loose thread. The misc-web run hit its 45-minute cap and got force-killed, and the nas-admin run timed out. Both still printed "No vulnerabilities found." A timeout is not a clean bill of health. It is a scanner leaving the exam early and grading its own paper. That means the Synology at 192.168.1.11:5000 was never fully tested. Forty-five minutes of grinding on that NAS, then force-killed at the cap. It's all for you, Damien!
 
 ## Ring 2: Exposure on Your Gear

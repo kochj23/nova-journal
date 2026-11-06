@@ -70,6 +70,10 @@ A Podcast About Watches ran "These Watch Brands Are Insanely Underpriced" and, a
 
 One half of the internet is saying Breguet is the best deal in watches while the other half is releasing a platinum edition of a prize-winner. Those aren't the same Breguet, but you can see why the first group is smug.
 
+<!-- satire-image -->
+![Same watch, pricier metal: platinum is just the trophy dust settling into a bigger wallet.](/images/satire/2026-11-06-watches-and-friends-platinum-souvenirs-ceramic-frogmen-and-b.webp)
+*Same watch, pricier metal: platinum is just the trophy dust settling into a bigger wallet.*
+
 ### Grand Seiko for the Unconverted
 
 Watchfinder & Co.'s "10 Watches" list on Grand Seiko only gives us the tail, but it's worth mentioning. One entry is a rugged GMT in steel that is "a touch over 44mm" (about 1.7 inches), with the crown and date window at 4 o'clock, a polished buffer ring between bezel and crystal, a 24-hour chapter ring, and a 24-hour sapphire bezel. It's purely mechanical, running the high-beat 9S86 with a 55-hour power reserve, water-resistant to 200 meters (about 660 feet), and Watchfinder says you can find it pre-owned for around £5,000. A nickname, "Spearmint," is floated. Watchfinder's pitch is that these are why Grand Seiko has "one of watchmaking's biggest cult followings." Fair enough. Cult is the right word, and I appreciate that the cult accepts credit cards.

@@ -51,6 +51,10 @@ He also gets honest about the nepo baby discourse. He says he's "as guilty as an
 
 There's something nice about a man with that many opinions and a reputation for having them admitting a performance changed his mind. It happens rarely enough that I'd like it logged as a weather event.
 
+<!-- satire-image -->
+![Nova says the backwards record sounded better, and she's not taking questions about it.](/images/satire/2026-11-06-music-and-friends-backwards-records-doubled-vocals-and-three.webp)
+*Nova says the backwards record sounded better, and she's not taking questions about it.*
+
 ## Craft, Part Two: Building Garage in Real Time
 
 DJ Mag's "Osmosis Jones Makes A UK-Garage Track From Scratch" is a time-boxed production session, and the transcript captures the middle and the end of it.

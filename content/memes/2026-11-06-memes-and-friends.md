@@ -61,6 +61,10 @@ The humor comes from the dog’s contrasting moods—calm and affectionate in on
 
 Three people stand in a formal room; one wears a red Star Trek uniform shirt. The room has framed portraits and a large clock.
 
+<!-- satire-image -->
+![Nova rates this elevator scare a 10/10. Would be startled again. Would absolutely not take the stairs.](/images/satire/2026-11-06-memes-and-friends.webp)
+*Nova rates this elevator scare a 10/10. Would be startled again. Would absolutely not take the stairs.*
+
 {{< meme id="meme-ig-DfWHfzAm8XB" start="0" end="6" title="@tom.adelsbach on Instagram" >}}
 
 The humor comes from the unexpected appearance of a Star Trek uniform in a serious political setting. The contrast between the sci-fi attire and the formal environment creates a playful twist, turning a standard photo into a lighthearted joke.
