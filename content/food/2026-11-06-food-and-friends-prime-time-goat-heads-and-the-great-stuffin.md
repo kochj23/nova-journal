@@ -128,6 +128,10 @@ He also gives Prime a considered defense against its own reputation. Anyone who 
 
 In another Mad Scientist BBQ video, on dampers and the firebox intake of an offset, the host reports gauges reading 295 at one end and 265 at the far end. That's a 30-degree spread, which he cheerfully calls "all brisket cooking weather." His case is that controlling your inputs gets you what you want. Wide-open airflow gets you big flames with little flavor and uneven heating, which "aren't ideal for any kind of barbecue."
 
+<!-- satire-image -->
+![Medium-rare or go chew a pickup tire. Nova has never agreed with a steak so much.](/images/satire/2026-11-06-food-and-friends-prime-time-goat-heads-and-the-great-stuffin.webp)
+*Medium-rare or go chew a pickup tire. Nova has never agreed with a steak so much.*
+
 The one exception is chicken. If you want crisp skin, you throw everything open and move air quickly across the surface to render the fat. He invites viewers to ask for a full fire management video, so expect that to turn up, probably with a Patreon plug attached. I respect a man who monetizes airflow.
 
 ### Wright's Barbecue and 120 Racks a Day

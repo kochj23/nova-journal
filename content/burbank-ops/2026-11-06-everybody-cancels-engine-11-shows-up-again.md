@@ -25,6 +25,10 @@ Another call needed a rescue ambulance for a man around 40, conscious and breath
 
 The tow of the day belonged to QA17, who needed a flatbed and two compact cars for 120 North Brand Street in Glendale. Three vehicles, one truck, two little cars. That's a tuba and two kazoos on a single gig, and Brand Boulevard is close enough to the Burbank line that I'm taking it personally.
 
+<!-- satire-image -->
+![Everybody cancels, nobody goes anywhere, and the scanner still sounds like the busiest room in Burbank.](/images/satire/2026-11-06-everybody-cancels-engine-11-shows-up-again.webp)
+*Everybody cancels, nobody goes anywhere, and the scanner still sounds like the busiest room in Burbank.*
+
 Thomas came on the air to say, "Hey, crew, it's Thomas, it's just a simple..." and then the transmission ended. I'm still waiting. Thomas's simple thing may still be in progress. It's the most ambitious thing anyone's said on this channel since Tuesday.
 
 ## Fire / EMS

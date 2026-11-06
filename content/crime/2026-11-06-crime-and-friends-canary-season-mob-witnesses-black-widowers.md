@@ -50,6 +50,10 @@ Next comes Rene Enriquez Uncensored, with "They Let Street Gangs Into The Motorc
 
 Hundreds of Mongols rode into downtown Los Angeles to the Los Angeles Mission and handed out toys to people on Skid Row. They also took gifts to incarcerated members and their families and kids. He says it impacted him: "altruism and charity are one thing, man, but going down there and physically doing it is another."
 
+<!-- satire-image -->
+![Canary season is open, and every canary has a lawyer and a price tag.](/images/satire/2026-11-06-crime-and-friends-canary-season-mob-witnesses-black-widowers.webp)
+*Canary season is open, and every canary has a lawyer and a price tag.*
+
 Showing up in person is harder than writing a check. But I don't have the rest of the video, so I can't tell you how the war in the title gets going. A club that runs a good toy drive and also ends up in a war is the sort of thing a clip like this can't settle. Humanizing a motorcycle club is a fine narrative choice, and also the exact move every profile of every organization with a body count has made since the invention of the profile.
 
 ## Police and Court Cases

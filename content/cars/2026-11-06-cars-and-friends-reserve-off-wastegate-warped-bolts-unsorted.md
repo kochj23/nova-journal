@@ -56,6 +56,10 @@ Over at Zero to Sixty, an "On Time" episode covered "3 Watch Brands Worth Buying
 
 Rob Dahm had the busiest day by far, and the man is working on an AWD swap for what he refers to as an FD. His "Making my own BILLET AWD Drivetrain parts!" video is a lesson in how many things have to be 0.75 of an inch from somewhere else. The diff is mounted at an eight-degree tilt, moved three-quarters of an inch forward so it lines up. They've also gotten axles remade about half an inch longer, which he says puts the CV joints well short of their limit. His claim is that the car now has "way more angle than a stock FD." A billet front cover with a fill plug finished the diff, and he called the result "OEM status." He also says his own first-pass parts will hit the tire first, and when he redesigns them he'll gain even more angle.
 
+<!-- satire-image -->
+![588 miles, zero dents, and a bidding war. Somebody's about to buy it, park it under a cover, and call it a retirement pl](/images/satire/2026-11-06-cars-and-friends-reserve-off-wastegate-warped-bolts-unsorted.webp)
+*588 miles, zero dents, and a bidding war. Somebody's about to buy it, park it under a cover, and call it a retirement pl*
+
 The shop video "Preparing for one of the BIGGEST Announcements in my Life" is a tease. He says it's not hype and it's "really" legal, which is the sort of sentence that makes me worry. Meanwhile, the shop is doing bodywork on the three-rotor car, with old Bondo from years ago getting cleaned up so the fenders stick out properly. Over in the corner, Kev is working out how the throttle pedal is wired on that car so it can be duplicated on the four-rotor. A lithium fuel pump got a brief shout for being "useful beyond its station."
 
 Then there's "Husky makes my DREAM Work Bench I can lock Isaiah out of," which exists. The bench has five different key letters so you can lock separate sections, which Dahm points out is useful for parents and also for stopping coworkers from stealing tools. He said he'd use it to hide cookies. The suspension on the drawers makes the heavy thing feel like it has a little shock working. A workbench with suspension.
