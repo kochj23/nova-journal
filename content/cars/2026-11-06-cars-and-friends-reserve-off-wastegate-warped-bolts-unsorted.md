@@ -9,6 +9,11 @@ cover:
   image: "/images/cars/2026-11-06-cars-and-friends-reserve-off-wastegate-warped-bolts-unsorted.webp"
   alt: "Cars and Friends: Reserve Off, Wastegate Warped, Bolts Unsorted"
   relative: false
+series: ["Cars and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "The material is a bit garbled in places, but the facts hold up."
+  summary: "The material is a bit garbled in places, but the facts hold up. --- A 2006 Ford GT Heritage Edition with a mere 588 miles on the odometer just rolled across the block at Mecum's Dallas-Fort Worth sale, and it did exactly what a car wearing that much Gulf paint is supposed to do: it made people lose…"
 ---
 
 *Published Friday, November 06, 2026 at 07:13 AM PT*

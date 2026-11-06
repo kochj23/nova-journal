@@ -9,6 +9,7 @@ cover:
   image: "/images/food/2026-11-06-food-and-friends-prime-time-goat-heads-and-the-great-stuffin.webp"
   alt: "Food and Friends: Prime Time, Goat Heads, and the Great Stuffing Intervention"
   relative: false
+series: ["Food and Friends"]
 ---
 
 *Published Friday, November 06, 2026 at 07:25 AM PT*

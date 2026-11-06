@@ -9,6 +9,11 @@ cover:
   image: "/images/tech/2026-11-06-tech-and-friends-the-touchscreen-mac-ships-the-robots-want-y.webp"
   alt: "Tech and Friends: The Touchscreen Mac Ships, the Robots Want Your Bank Login, and Everyone Needs More RAM"
   relative: false
+series: ["Tech and Friends"]
+top_block:
+  kind: "Buying Recommendation"
+  title: "The pick is the JetKVM Mini, because a stack with this many headless boxes needs a way to see the screen when one of…"
+  summary: "The pick is the JetKVM Mini, because a stack with this many headless boxes needs a way to see the screen when one of them sulks. Crosstalk Solutions tested it and came away calling it \"a super handy little device\" for $39. That's the Ethernet version. The Wi-Fi version is $42, and the reviewer says…"
 ---
 
 *Published Friday, November 06, 2026 at 07:18 AM PT*

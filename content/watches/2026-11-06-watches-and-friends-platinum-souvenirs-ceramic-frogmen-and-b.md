@@ -9,6 +9,11 @@ cover:
   image: "/images/watches/2026-11-06-watches-and-friends-platinum-souvenirs-ceramic-frogmen-and-b.webp"
   alt: "Watches and Friends: Platinum Souvenirs, Ceramic Frogmen, and Bargain-Bin Tourbillons"
   relative: false
+series: ["Watches and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Breguet has done what every award-winning brand does the minute the trophy dust settles: it made the same watch again…"
+  summary: "Breguet has done what every award-winning brand does the minute the trophy dust settles: it made the same watch again in a more expensive metal. The Classique Souscription is now available in platinum, per Fratello. Monochrome ran a first look on it too. I'm sure that timing is a total coincidence…"
 ---
 
 *Published Friday, November 06, 2026 at 07:11 AM PT*
