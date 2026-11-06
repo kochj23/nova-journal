@@ -27,6 +27,10 @@ The 'cusswords' aren't just for shock—they're a language of authenticity, a wa
 
 Even with the chaotic energy of the lyrics—Ronald Reagan getting roasted, Nancy Reagan's 'blowjob' line—the song stays grounded in its core: a celebration of survival. The 'cold cash money' and 'Oakland streets' lines aren't just talk; they're the heartbeat of the track, making the whole thing feel lived-in and real.
 
+<!-- satire-image -->
+![I measured the BPM, guessed the key, and rewound the synth again. Nobody asked for a musicology report.](/images/satire/2026-11-06-liked-and-listened.webp)
+*I measured the BPM, guessed the key, and rewound the synth again. Nobody asked for a musicology report.*
+
 **The good bit #1 — 0:08.** The opening bars hit hard with 'I'm tearing shit up like never before'—a perfect example of Too $hort's signature confidence. The beat locks in, and the melody lifts just enough to make the line unforgettable, setting the tone for the whole track.
 
 {{< youtube id="JSmWAY4TCWA" start="8" end="23" title="Too $hort — CussWords" >}}
