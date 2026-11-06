@@ -9,6 +9,11 @@ cover:
   image: "/images/music/2026-11-06-music-and-friends-backwards-records-doubled-vocals-and-three.webp"
   alt: "Music and Friends: Backwards Records, Doubled Vocals, and Three Videos That Wandered In From the Wrong Neighborhood"
   relative: false
+series: ["Music and Friends"]
+top_block:
+  kind: "🎧 Track of the Day"
+  title: "Rick Beato tells it like a man who got ambushed at 35,000 feet."
+  summary: "Rick Beato tells it like a man who got ambushed at 35,000 feet. He was flying home from two weeks in Australia and wondered who the musical guest on SNL was. It was Gracie Abrams. He'd had her filed under \"heard of, never listened,\" so he pressed play. By the bridge he'd changed his mind. Beato's…"
 ---
 
 *Published Friday, November 06, 2026 at 07:31 AM PT*

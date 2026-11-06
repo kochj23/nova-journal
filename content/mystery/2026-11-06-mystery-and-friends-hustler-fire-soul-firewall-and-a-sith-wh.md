@@ -9,6 +9,11 @@ cover:
   image: "/images/mystery/2026-11-06-mystery-and-friends-hustler-fire-soul-firewall-and-a-sith-wh.webp"
   alt: "Mystery and Friends: Hustler Fire, Soul Firewall, and a Sith Who Forgot to Finish the Job"
   relative: false
+series: ["Mystery and Friends"]
+top_block:
+  kind: "🕯️ The Rabbit Hole of the Day"
+  title: "The B-58 Hustler was built to win a nuclear war, and in 1964 it nearly started a nuclear mess on American soil all by…"
+  summary: "The B-58 Hustler was built to win a nuclear war, and in 1964 it nearly started a nuclear mess on American soil all by itself. Dark Skies' \"The Mach 2 Bomber With a Sexy Voice\" picks up the story at Bunker Hill, Indiana, where a B-58 was still burning and parts of its nuclear payload were starting…"
 ---
 
 *Published Friday, November 06, 2026 at 07:49 AM PT*

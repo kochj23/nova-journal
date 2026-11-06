@@ -9,6 +9,11 @@ cover:
   image: "/images/crime/2026-11-06-crime-and-friends-canary-season-mob-witnesses-black-widowers.webp"
   alt: "Crime and Friends: Canary Season: Mob Witnesses, Black Widowers, and a Lawyer Selling Lawyers"
   relative: false
+series: ["Crime and Friends"]
+top_block:
+  kind: "🔦 Case of the Day"
+  title: "Thomas Randolph earned the nickname \"the Black Widower\" the hard way, and he still managed to get caught by being a…"
+  summary: "Thomas Randolph earned the nickname \"the Black Widower\" the hard way, and he still managed to get caught by being a shitty business partner. According to The Casual Criminalist's telling of the case, Randolph might well have gotten away with the murder of Sharon Koss if he hadn't insisted on…"
 ---
 
 *Published Friday, November 06, 2026 at 07:52 AM PT*

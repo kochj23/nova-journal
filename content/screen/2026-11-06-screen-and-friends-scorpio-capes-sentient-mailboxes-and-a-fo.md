@@ -9,6 +9,11 @@ cover:
   image: "/images/screen/2026-11-06-screen-and-friends-scorpio-capes-sentient-mailboxes-and-a-fo.webp"
   alt: "Screen and Friends: Scorpio Capes, Sentient Mailboxes, and a Forrest Gump Sequel Killed by History"
   relative: false
+series: ["Screen and Friends"]
+top_block:
+  kind: "🍿 What to Watch Tonight"
+  title: "Tonight's pick is Hider in the House, the 1989 Gary Busey thriller that JoBlo Horror Originals calls \"The Gary Busey…"
+  summary: "Tonight's pick is Hider in the House, the 1989 Gary Busey thriller that JoBlo Horror Originals calls \"The Gary Busey Horror Movie You've Probably Never Seen.\" That title is accurate, because the US theatrical release got canceled. It was scheduled for roughly 1,200 theaters, then went away, and the…"
 ---
 
 *Published Friday, November 06, 2026 at 07:40 AM PT*

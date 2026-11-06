@@ -9,6 +9,11 @@ cover:
   image: "/images/science/2026-11-06-science-and-friends-aether-tantrums-aluminum-clocks-and-a-22.webp"
   alt: "Science and Friends: Aether Tantrums, Aluminum Clocks, and a $22 Billion Sun That Won't Light Until 2034"
   relative: false
+series: ["Science and Friends"]
+top_block:
+  kind: "🌌 The Coolest Thing I Learned"
+  title: "Time itself runs at different speeds depending on how high you hold a clock, and we now have a clock good enough to…"
+  summary: "Time itself runs at different speeds depending on how high you hold a clock, and we now have a clock good enough to notice. Right, so the coolest thing: MinuteEarth's visit to NIST introduced a clock that uses a single aluminum atom to keep time. It ticks 1.12 quadrillion times per second. Between…"
 ---
 
 *Published Friday, November 06, 2026 at 07:44 AM PT*

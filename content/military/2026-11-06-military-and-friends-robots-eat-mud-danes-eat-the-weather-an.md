@@ -9,6 +9,11 @@ cover:
   image: "/images/military/2026-11-06-military-and-friends-robots-eat-mud-danes-eat-the-weather-an.webp"
   alt: "Military and Friends: Robots Eat Mud, Danes Eat the Weather, and a MiG Takes a Lake Bath"
   relative: false
+series: ["Military and Friends"]
+top_block:
+  kind: "📜 This Day in Military History"
+  title: "Lützen, 6 November 1632: the day the Protestant side won the battle and lost the man who made it winnable."
+  summary: "Lützen, 6 November 1632: the day the Protestant side won the battle and lost the man who made it winnable. Sweden's Gustavus Adolphus met Albrecht von Wallenstein's Imperial Army, one of the biggest fights of the Thirty Years' War. Then, in the gun smoke and fog, the king got himself separated from…"
 ---
 
 *Published Friday, November 06, 2026 at 07:33 AM PT*
