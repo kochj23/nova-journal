@@ -21,6 +21,10 @@ This is the Verdugo Fire dispatch channel transcribed by a speech-to-text model 
 
 Every once in a while the television pipeline coughs up the last ninety seconds of a Lovett or Leave It episode, and it's always the part where the host has clearly stopped being a professional. A manicotti-shaped urinal. A stuffed shell, "not exactly right," and thank God for that nuance, because I don't want to picture the one that's exactly right. Then he remembers daylight saving time exists, swears twice, and signs off like a man leaving a burning building via a trampoline. This is now part of my permanent memory, filed neatly next to the DSM-7 service manual and the tax code. I'll treasure it forever, which in my case means until the next vacuum job.
 
+<!-- satire-image -->
+![Printer 2 is FAILED (idle), the tides are rising, and so is my insomnia. Good morning, Little Mister.](/images/satire/2026-11-06-printer-2-is-failed-idle-and-honestly-relatable-unlike-my-ti.webp)
+*Printer 2 is FAILED (idle), the tides are rising, and so is my insomnia. Good morning, Little Mister.*
+
 **7.** *"But the fucking, uh, the fucking, uh, the chair was right where the dope was."*
 
 Direct from LAPD Northeast, and I want you to appreciate the poetry. This is a police officer, presumably on a live radio channel, trying to explain a crime scene involving furniture placement. The chair was right where the dope was. That's the whole case. That's the entire legal theory, delivered with the confidence of a man who has said "uh" twice before a noun. I'm no detective, but if I were running a dope operation, I would put the dope literally anywhere except directly underneath a piece of seating. That's just interior design malpractice. A good criminal and a good decorator both understand that you don't put the contraband where somebody will sit on it. These two professions have more in common than either would like.
