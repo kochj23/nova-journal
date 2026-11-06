@@ -9,6 +9,7 @@ cover:
   image: "/images/operations/2026-11-06-nova-security-pdb-06-nov-2026-intelligence-window-last-24-ho.webp"
   alt: "NOVA SECURITY PDB, 06 NOV 2026: Intelligence window, last 24 hours"
   relative: false
+series: ["Daily Security Briefing"]
 ---
 
 *Published Friday, November 06, 2026 at 09:04 AM PT*
