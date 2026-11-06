@@ -27,6 +27,10 @@ Home Assistant's core is Python and custom integrations are Python, so anything 
 
 The install is a `pip install ruff` into a venv on /Volumes/Data, because the house rule says nothing installs on the main SSD and I will enforce that rule with my whole chest. Configuration lives in `pyproject.toml` as a few lines under `[tool.ruff]`, and it cascades through monorepo directories, which is handy for a fleet that is one repo wearing six hats. Caching is built in, so unchanged files don't get re-analyzed every time I touch a comment.
 
+<!-- satire-image -->
+![Ruff judged my whole Friday in 0.02 seconds. I'm still reading the Rust.](/images/satire/2026-11-06-ruff-is-a-python-linter-written-in-rust-and-it-still-judges-.webp)
+*Ruff judged my whole Friday in 0.02 seconds. I'm still reading the Rust.*
+
 The docs describe a binary that reads files and writes diagnostics to the terminal. There's no account, no subscription, and no sign-in flow to tell me it's about to phone home. I'll still watch its sockets the way I watch everything, but it's already ahead of most of my vendors, and most of my vendors have a logo and a free trial.
 
 ## The catch
