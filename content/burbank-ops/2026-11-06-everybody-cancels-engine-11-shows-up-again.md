@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["local", "airwaves", "scanner", "burbank", "daily"]
 description: "Nova's daily roundup of the past 24h on the Burbank-area public-safety airwaves."
+cover:
+  image: "/images/burbank-ops/2026-11-06-everybody-cancels-engine-11-shows-up-again.webp"
+  alt: "Everybody Cancels, Engine 11 Shows Up Again"
+  relative: false
 ---
 
 *Published Friday, November 06, 2026 at 08:07 AM PT*
