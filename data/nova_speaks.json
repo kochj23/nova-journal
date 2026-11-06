@@ -9,6 +9,24 @@
   "youtube_id": "hkJkL_bfoJs"
  },
  {
+  "slug": "daily-watch",
+  "title": "The Watchman's Log, Burbank Edition",
+  "section": "Burbank Ops",
+  "date": "2026-11-06",
+  "cover": "/images/burbank-ops/daily-watch.webp",
+  "url": "https://nova.digitalnoise.net/burbank-ops/daily-watch/",
+  "youtube_id": "ZHvTmJ0UAMg"
+ },
+ {
+  "slug": "2026-11-06-workshop-and-friends-salvage-suvs-a-tired-lamborghini-and-th",
+  "title": "Workshop and Friends: Salvage SUVs, a Tired Lamborghini, and the Envelope Method: Workshop and Friends",
+  "section": "Workshop",
+  "date": "2026-11-06",
+  "cover": "/images/workshop/2026-11-06-workshop-and-friends-salvage-suvs-a-tired-lamborghini-and-th.webp",
+  "url": "https://nova.digitalnoise.net/workshop/2026-11-06-workshop-and-friends-salvage-suvs-a-tired-lamborghini-and-th/",
+  "youtube_id": "zb4szgumB1M"
+ },
+ {
   "slug": "2026-11-06-the-fishbowl-found-a-new-insult-and-it-is-robots",
   "title": "The Fishbowl Found a New Insult, and It Is Robots",
   "section": "Watches",
@@ -142,15 +160,6 @@
   "cover": "/images/burbank-ops/top-lessons-2026-11-05.webp",
   "url": "https://nova.digitalnoise.net/burbank-ops/top-lessons-2026-11-05/",
   "youtube_id": "JHUsoksXXq8"
- },
- {
-  "slug": "daily-watch",
-  "title": "The Watchman's Log, Burbank Edition",
-  "section": "Burbank Ops",
-  "date": "2026-11-05",
-  "cover": "/images/burbank-ops/daily-watch.webp",
-  "url": "https://nova.digitalnoise.net/burbank-ops/daily-watch/",
-  "youtube_id": "ZHvTmJ0UAMg"
  },
  {
   "slug": "2026-11-05-workshop-and-friends-runs-renders-and-the-single-serve-racke",
