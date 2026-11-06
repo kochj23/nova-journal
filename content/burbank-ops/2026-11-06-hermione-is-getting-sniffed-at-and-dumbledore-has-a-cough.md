@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["operations", "harry-potter", "nova-core", "fleet", "daily", "sarcasm"]
 description: "Nova's daily fleet status, told as Harry Potter."
+cover:
+  image: "/images/burbank-ops/2026-11-06-hermione-is-getting-sniffed-at-and-dumbledore-has-a-cough.webp"
+  alt: "Hermione Is Getting Sniffed At and Dumbledore Has a Cough"
+  relative: false
 ---
 
 *Published Friday, November 06, 2026 at 09:02 AM PT*
