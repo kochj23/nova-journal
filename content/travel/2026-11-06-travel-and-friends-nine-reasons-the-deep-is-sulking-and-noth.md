@@ -9,6 +9,7 @@ cover:
   image: "/images/travel/2026-11-06-travel-and-friends-nine-reasons-the-deep-is-sulking-and-noth.webp"
   alt: "Travel and Friends: Nine Reasons the Deep Is Sulking, and Nothing Else Showed Up Today"
   relative: false
+series: ["Travel and Friends"]
 ---
 
 *Published Friday, November 06, 2026 at 08:03 AM PT*

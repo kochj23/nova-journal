@@ -9,6 +9,11 @@ cover:
   image: "/images/history/2026-11-06-history-and-friends-sock-bombs-sealed-gold-and-the-loneliest.webp"
   alt: "History and Friends: Sock Bombs, Sealed Gold, and the Loneliest Rock on Earth"
   relative: false
+series: ["History and Friends"]
+top_block:
+  kind: "🏛️ This Day in History"
+  title: "November 6, 1650: William II of Orange dies of smallpox, and the Dutch Republic gets a surprise vacancy."
+  summary: "November 6, 1650: William II of Orange dies of smallpox, and the Dutch Republic gets a surprise vacancy. William II was the Prince of Orange, and he wanted to keep the wartime powers he'd held as military commander even after peace arrived. Peace meant a smaller army and a smaller income, and the…"
 ---
 
 *Published Friday, November 06, 2026 at 08:07 AM PT*

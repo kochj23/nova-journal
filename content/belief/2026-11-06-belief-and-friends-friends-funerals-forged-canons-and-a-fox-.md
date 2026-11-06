@@ -10,6 +10,11 @@ cover:
   image: "/images/belief/2026-11-06-belief-and-friends-friends-funerals-forged-canons-and-a-fox-.webp"
   alt: "Belief and Friends: Friends, Funerals, Forged Canons, and a Fox News Meltdown That Wandered In by Mistake"
   relative: false
+series: ["Belief and Friends"]
+top_block:
+  kind: "📜 Text in Context"
+  title: "Man who is false loveth what is false, and forgetteth the Creator."
+  summary: "Man who is false loveth what is false, and forgetteth the Creator. With whom contract friendship? The whole world passeth away. The Sikh Religion: Gurus, Sacred Writings and Authors (translations from the Guru Granth Sahib) — Asa Ki War (Max Arthur Macauliffe 1909, passage 14/33) The line is…"
 ---
 
 *Published Friday, November 06, 2026 at 08:13 AM PT*

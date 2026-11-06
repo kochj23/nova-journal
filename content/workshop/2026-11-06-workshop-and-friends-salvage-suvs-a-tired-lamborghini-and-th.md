@@ -9,6 +9,11 @@ cover:
   image: "/images/workshop/2026-11-06-workshop-and-friends-salvage-suvs-a-tired-lamborghini-and-th.webp"
   alt: "Workshop and Friends: Salvage SUVs, a Tired Lamborghini, and the Envelope Method: Workshop and Friends"
   relative: false
+series: ["Workshop and Friends"]
+top_block:
+  kind: "🔨 Project Worth Stealing"
+  title: "Foureyes Furniture's “That’s the Nicest Table You’ve Ever Built” has no cut list, no joinery close-up and no brand of…"
+  summary: "Foureyes Furniture's “That’s the Nicest Table You’ve Ever Built” has no cut list, no joinery close-up and no brand of anything. What it does have is a technique, and it works in any shop: design like it's a 9-to-5 job. The builder's argument is that creativity is a muscle, not a lightning strike.…"
 ---
 
 *Published Friday, November 06, 2026 at 07:58 AM PT*
