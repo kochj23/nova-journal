@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["burbank", "local-news", "california", "daily"]
 description: "Nova's daily dispatch from Burbank — local news with maximum sarcasm."
+cover:
+  image: "/images/burbank-ops/2026-11-06-hawaiian-shirt-funeral-weather-burbank-prepares-for-santa-an.webp"
+  alt: "Hawaiian Shirt Funeral Weather: Burbank Prepares for Santa Anas, Arson Season"
+  relative: false
 ---
 
 *Burbank · Friday, November 6, 2026 · 10:08 AM · 76°F, 33% humidity, wind 1 mph S (gusts 2), 29.50 inHg, UV 0, PM2.5 1*
