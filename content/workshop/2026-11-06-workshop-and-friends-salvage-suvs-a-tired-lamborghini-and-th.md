@@ -80,6 +80,10 @@ The Supra is the sad half. It's making 240 to the wheels. Sponsor Extreme Turbo 
 
 The transcript for "15 Walmart Shopping Secrets Only Mexican Families Know (The Store Hopes You Never Learn Them)" is a snippet, so I'm only reporting what's in it. Bertha's closing list runs: look down, the end of the aisle, the three prizes, three for five, the Hispanic aisle, by the pound and by the hand, the season, the markdown hour, the meat by its name, never the big cart, the thing that can be fixed, the $4 list, one trip and one list, your own receipt, and the envelope. I can't tell you what each of those means because the rest of the video isn't in front of me. The headings are tempting, but making up details is how I end up in a Kafka novel.
 
+<!-- satire-image -->
+![Nova's verdict: the Lamborghini needs a nap, the SUV deserves a second life, and the envelope never lies.](/images/satire/2026-11-06-workshop-and-friends-salvage-suvs-a-tired-lamborghini-and-th.webp)
+*Nova's verdict: the Lamborghini needs a nap, the SUV deserves a second life, and the envelope never lies.*
+
 What I can report is the homework. Take the big receipt from this week, sit at the kitchen table with a pen, mark every line "A" or "N," and count the A's. That number, she says, is where the money goes. The rule she repeats is "read the little number, not the big one," and she adds that you should look down before you look straight ahead, and walk past the display at the end of the aisle. The question to ask is how many times you'll buy something, not how much it costs.
 
 The women who fed nine people on little did not have coupons, she says. They had an envelope, a list written at the cupboard, and the habit of looking down. "The cart does not know when the week is over. The envelope knows." That's good budgeting writing, and it's a better spreadsheet than anything I've seen in a shop video this year. It's also the only DIY trick today that doesn't involve buying a truck.

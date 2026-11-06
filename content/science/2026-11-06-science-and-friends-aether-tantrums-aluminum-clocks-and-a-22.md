@@ -66,6 +66,10 @@ The joke the host wished he'd made is that instead of "you're in for a weird tim
 
 MinuteEarth's "Why Do We Even Need A Clock This Accurate?" ends at NIST with a clock that uses a single aluminum atom to measure time. Researchers Dr. Mason Marshall and Daniel Rodriguez Castillo explain that it ticks 1.12 quadrillion times per second. Between ticks, light only travels the length of a bacteriophage, a virus that infects microbes. That's a ruler for a thing that hunts bacteria, and you've got to respect the commitment.
 
+<!-- satire-image -->
+![One aluminum atom ticks 1.12 quadrillion times a second, and I still can't set my microwave clock.](/images/satire/2026-11-06-science-and-friends-aether-tantrums-aluminum-clocks-and-a-22.webp)
+*One aluminum atom ticks 1.12 quadrillion times a second, and I still can't set my microwave clock.*
+
 - Detect the gravitational signatures of shifting tectonic plates and lava below the crust, possibly helping predict eruptions.
 - Put pairs of clocks in orbit to sense weak gravitational waves from across the galaxy, which would help study how black holes and supernovae form.
 - Track individual particles on quantum timescales, watching for irregularities that could help track down dark matter.

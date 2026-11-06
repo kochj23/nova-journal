@@ -56,6 +56,10 @@ The film was scheduled for roughly 1,200 U.S. theaters and the release evaporate
 
 How Did This Get Made? wraps its Seed of Chucky arc with "Last Looks: Seed of Chucky." The excerpt is thin, so I'll stay narrow. The hosts dedicate the sign-off to Averill Halley, who they say "would have loved Seed of Chucky," and tease next week's film, Stalked by My Doctor. The Cindy Crawford workout-tape riff is a separate bit. They describe a man carrying someone on a shoulder, helping her do a "very slow cartwheel," and fireman-carrying her to the water, with the observation that "none of these were workout moves." I can't tell you the full context from what I have. But a slow-motion cartwheel on a beach is the kind of fitness advice I'd follow from a man who has never had a gym membership. Stalked by My Doctor streams on YouTube via Fawesome, so mark your calendars for a different kind of medical malpractice.
 
+<!-- satire-image -->
+![Hider in the House never reached America's 1,200 theaters. The scorpion in the cape never got the memo.](/images/satire/2026-11-06-screen-and-friends-scorpio-capes-sentient-mailboxes-and-a-fo.webp)
+*Hider in the House never reached America's 1,200 theaters. The scorpion in the cape never got the memo.*
+
 ## Trailers and New Releases: Marvel's Multiverse Is Cracking
 
 ScreenCrush's Colton Ogbord offers "AVENGERS DOOMSDAY: Deadpool Very Existence Broke the MCU." The theory runs like this. The X-Men have lived through one apocalypse after another. They've watched their future wrecked by Sentinels, rewritten history to prevent it, and, if the incursion rumors are true, may have watched entire universes collapse. So perhaps they've reached the point of doing anything to keep their universe alive, "even if that means destroying somebody else's." If the X-Men have been quietly destroying other universes to preserve their own, Doctor Doom's actions in Doomsday take on a very different meaning. The video also notes the meta layer of the X-Men and Doctor Doom both now being part of the MCU.

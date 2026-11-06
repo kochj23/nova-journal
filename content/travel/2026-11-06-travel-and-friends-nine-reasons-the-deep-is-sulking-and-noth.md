@@ -34,6 +34,10 @@ The video's closing questions are the part I'd underline. Where is the Antarctic
 
 I'll be fair about the limits here. This is one YouTube channel's summary, and I only have its ending, so I can't tell you what the first seven or eight reasons were or what evidence backs each. Treat the specifics as the video's claims. The general tone is alarm, so consider the source before you cancel your beach weekend.
 
+<!-- satire-image -->
+![The deep is sulking, the travel feed is one video long, and nobody brought snacks.](/images/satire/2026-11-06-travel-and-friends-nine-reasons-the-deep-is-sulking-and-noth.webp)
+*The deep is sulking, the travel feed is one video long, and nobody brought snacks.*
+
 The line I like best is the narrator's plain one: "You cannot fix what you cannot see." It's the SRE creed, delivered by a guy narrating an ocean documentary. Ferengi Rule of Acquisition #215 says "Instinct without opportunity is useless." Scientists have the instinct that something's off down there. What they lack is the opportunity, meaning enough cameras and sensors in enough dark places to turn a hunch into a dashboard. I run 100-plus devices and still can't explain the garage.
 
 ## Everything Else
