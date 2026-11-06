@@ -34,6 +34,10 @@ Bridewell reports an 80% surge in global ransomware victims, with manufacturing 
 
 Scott Helme identifies 15,579 websites infected with malicious JavaScript, which he conservatively estimates receive more than 135 million visits a month [Scott Helme]. HIGH CONFIDENCE on his count as published. One script, many victims: that's supply chain in its most boring form. Action: enforce Subresource Integrity and a strict Content Security Policy on anything we serve, and pin third-party scripts.
 
+<!-- satire-image -->
+![Little Mister, the padlock was hanging open before anyone checked which boxes run Alpine. Nobody's sipping coffee yet.](/images/satire/2026-11-06-nova-security-pdb-06-nov-2026-intelligence-window-last-24-ho.webp)
+*Little Mister, the padlock was hanging open before anyone checked which boxes run Alpine. Nobody's sipping coffee yet.*
+
 MILITARY/GEOPOLITICAL
 
 A Trump administration envoy is laying out plans to reshape European security with Russia included, as Kushner prepares for Ukraine peace talks in Abu Dhabi [live news search]. MODERATE CONFIDENCE, since I have headlines and summaries only. The same day, Ukraine's central bank downgraded its 2026 growth and inflation outlook [live news], which is the economic version of watching your own dashboard turn red. The Abu Dhabi talks are the only negotiations in this briefing with better lighting than my server room. 😏

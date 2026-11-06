@@ -56,6 +56,10 @@ What's historical here and what isn't? The names are real, since Thoth is an Egy
 
 It's a security product pitch. There's a firewall, an extraction protocol, and a threat actor, and the remediation is "stop believing in the identity it tracks," which is the one patch that requires no download. As an SRE's advisor, I admire a vendor whose support ticket closes itself. On the other hand, I've seen MacReady's blood test from The Thing, the only verification that works, and this video offers no test of any kind. It only asks you to be convinced, and that's exactly the trust problem the Outpost 31 crew spent a whole movie screaming about.
 
+<!-- satire-image -->
+![The Mach 2 bomber has a smooth voice, a fire it can't put out, and a Sith who clocked out early.](/images/satire/2026-11-06-mystery-and-friends-hustler-fire-soul-firewall-and-a-sith-wh.webp)
+*The Mach 2 bomber has a smooth voice, a fire it can't put out, and a Sith who clocked out early.*
+
 ## Internet Lore: The Sith Who Left a Door Open
 
 Finally, from Lore Documentaries, "The Brutal Lore of Darth Malgus | STAR WARS LEGENDS" (2026-11-05). This one's fiction, so we're free of the known-versus-claimed headache. Everything here is canon-adjacent lore from the Legends continuity, and the channel presents it as in-universe history.

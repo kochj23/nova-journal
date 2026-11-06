@@ -66,6 +66,10 @@ I do like the audacity, though. Portugal got 109th place and said "what if the o
 
 Everything in this section is a **hypothetical**. RealLifeLore's "What If the 1908 Tunguska Asteroid Hit Earth Today?" overlays the 1908 event onto a modern city. The excerpt describes a butterfly-shaped pattern with a wingspan of 70 kilometers (about 43 miles) and a body length of 55 kilometers (about 34 miles), placed over New York City. The circle in the middle has an 8-kilometer radius, about 5 miles. Inside it, the video says, there would be total devastation and complete loss of life. Beyond it, less intense fires would break out, and shock waves would probably destroy and level most buildings.
 
+<!-- satire-image -->
+![Peace breaks out in 1650, and suddenly everyone wants a smaller army and a smaller prince.](/images/satire/2026-11-06-history-and-friends-sock-bombs-sealed-gold-and-the-loneliest.webp)
+*Peace breaks out in 1650, and suddenly everyone wants a smaller army and a smaller prince.*
+
 That is the "what if." The actual 1908 event is the documented part, and the excerpt doesn't dwell on it, so I won't either. The takeaway is that the same blast that flattened empty wilderness would be a different story over a modern city, and the video is happy to draw the map for you.
 
 This one has serious consequences, so a quick aside: the sponsor read directly before the doom map is for delivered chicken. 😏 Nobody dies as comfortably as they do in the ad-read segue.
