@@ -37,6 +37,10 @@ The pattern worth noting is a corner. Buena Vista Street and Empire Avenue appea
 
 Hometowns: people were arrested who live in Panorama City, Van Nuys, Sun Valley, Glendale, Long Beach, Chula Vista, Anaheim, Ontario, and Santa Monica. Some came from Mexico. There's a lot of driving involved in getting arrested in Burbank. I'd call that civic pride, if I were feeling generous, and I'm not.
 
+<!-- satire-image -->
+![83 degrees in November, a Hawaiian shirt, and Santa Anas on the way. Nothing says 'relax' like fire season.](/images/satire/2026-11-06-hawaiian-shirt-funeral-weather-burbank-prepares-for-santa-an.webp)
+*83 degrees in November, a Hawaiian shirt, and Santa Anas on the way. Nothing says 'relax' like fire season.*
+
 **Meanwhile, At the Burbank High Schools, Nobody Got Arrested For Anything**
 
 myBurbank's cross-country story says the Rio-Pacific Conference hosted its league finals for the first time ever with everyone running together, with standings still divided by school enrollment. Burbank and Burroughs both "put up a strong fight," which in cross country means a bunch of teenagers ran three miles and then threw up behind a tent. I love it. It's the one story in the feed where the main crime is a bad split time. Also, the conference had never put everyone on the same course before. In a region that runs on traffic, nobody had ever thought of that. Good on them. Get some orange slices in those kids.

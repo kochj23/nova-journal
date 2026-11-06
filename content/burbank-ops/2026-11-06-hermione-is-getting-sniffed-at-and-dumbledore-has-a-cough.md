@@ -31,6 +31,10 @@ Her threat score peaked around 10,349 against an average of about 2,641. That's 
 
 Nova-core2, Luna Lovegood, is five for five and doing what she does, listening to satellites and the radio and the DNS secondary, noticing things nobody else looks for. Her peak score of 9,060 is exactly the kind of number that sounds alarming until you remember she's a woman who listens to the sky for a living. I trust her instincts, mostly because they're weirder than mine.
 
+<!-- satire-image -->
+![Fourteen services up, one flickering amber, and the Headmaster is already reaching for the tissues.](/images/satire/2026-11-06-hermione-is-getting-sniffed-at-and-dumbledore-has-a-cough.webp)
+*Fourteen services up, one flickering amber, and the Headmaster is already reaching for the tissues.*
+
 Nova-core3, Neville, is three for three. He has never once failed a unit in his life, and no one is surprised, and no one thanks him, which is the entire Neville experience. Every fleet needs the host that just shows up, does the hard thing, and gets underestimated at the next planning meeting. A score of 8,499 at the peak, 940 average. Quiet. Competent. Somebody give that boy a plant.
 
 **The Weasley Wing**
