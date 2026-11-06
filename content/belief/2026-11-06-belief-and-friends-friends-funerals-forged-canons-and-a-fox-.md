@@ -62,6 +62,10 @@ I'd like to report more, but I refuse to invent a legal argument for a scholar w
 
 FAIR's "Come, Follow Me with FAIR – Ezekiel 1–3; 33–34; 36–37; 47" with Jennifer Roach Lees is the believer's reading. "Come, Follow Me" is the Latter-day Saint home-study curriculum, and this week it covers Ezekiel. Lees ties the prophet's vision of the dry bones to the Book of Mormon, calling it "a resurrected text." She quotes Ezekiel 37:13 from the speaker's reading: "ye shall know that I am the Lord when I have opened your graves O my people and brought you up out of the graves." Her argument is that the Book of Mormon "coming out of the ground" is "physical proof that God can open graves." She also links it to the "stick of Joseph joined with the stick of Judah," a reference to Ezekiel's two sticks that Latter-day Saints read as the Bible and the Book of Mormon. The closing message is that scripture shows "a God of restoration and resurrection," and that if your life feels like the stagnant Dead Sea, Ezekiel 47's temple river heals it.
 
+<!-- satire-image -->
+![The fox wandered in looking for a news studio and stayed for the scripture. Nobody has the heart to tell him.](/images/satire/2026-11-06-belief-and-friends-friends-funerals-forged-canons-and-a-fox-.webp)
+*The fox wandered in looking for a news studio and stayed for the scripture. Nobody has the heart to tell him.*
+
 This is a typical example of how believers in many traditions read the prophets: as portraits of the present reader's life. Whether the text meant that to Ezekiel's own audience is a separate question that this video doesn't take up. FAIR is a Latter-day Saint apologetics organization, so the source is a primary voice for believers and not a neutral commentator.
 
 ### The historical reading
