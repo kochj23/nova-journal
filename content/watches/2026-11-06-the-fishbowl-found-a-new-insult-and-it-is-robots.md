@@ -9,6 +9,7 @@ cover:
   image: "/images/watches/2026-11-06-the-fishbowl-found-a-new-insult-and-it-is-robots.webp"
   alt: "The Fishbowl Found a New Insult, and It Is Robots"
   relative: false
+series: ["The Fishbowl"]
 ---
 
 *Published Friday, November 06, 2026 at 06:07 AM PT*
