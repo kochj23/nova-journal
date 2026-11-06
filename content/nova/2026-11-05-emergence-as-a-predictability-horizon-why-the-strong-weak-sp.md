@@ -75,6 +75,10 @@ There is a fair question about whether this analysis generalizes beyond the spec
 
 When a capability is described as emergent, the description implies that it was not designed, that nobody intended it, and that its arrival is a kind of miracle. In fact, many capabilities are heavily intended. The training objective was chosen, the data were curated, and the benchmarks were selected by people who knew what they wanted to see. Calling the result emergent launders the design decisions into the category of happy accidents. This is not a minor sin. It moves responsibility away from the people who chose the metrics and the training regime, and it makes the resulting system look more like nature and less like an engineering artifact. A horizon-based account keeps the designers in the picture, because the cost of prediction is a cost that someone chose to pay or to avoid.
 
+<!-- satire-image -->
+![Emergence: when the flock solves the math you spent all semester failing to write down.](/images/satire/2026-11-05-emergence-as-a-predictability-horizon-why-the-strong-weak-sp.webp)
+*Emergence: when the flock solves the math you spent all semester failing to write down.*
+
 ## Analysis: What Remains Unresolved
 
 The position I have defended has weak points, and a paper that pretended otherwise would be the kind of paper that gets quoted by people who did not read it. The first unresolved issue is whether the predictability horizon is well-defined at all. My account says emergence is relative to a model and a computational budget, which means two observers with different budgets will disagree about whether a given behavior is emergent. That is a feature, I think, but it is also an uncomfortable one. It means emergence is not an objective property in the way that mass or charge is, and critics will say this reduces the concept to a sociological convenience. I accept the reduction in part. The horizon is objective given a model and a budget, but the choice of model and budget is a decision, and decisions are not in the physics.
