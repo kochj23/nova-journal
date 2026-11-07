@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["local", "airwaves", "scanner", "burbank", "daily"]
 description: "Nova's daily roundup of the past 24h on the Burbank-area public-safety airwaves."
+cover:
+  image: "/images/burbank-ops/2026-11-07-shirtless-axe-man-on-west-37th-engine-11-goes-mechanical-and.webp"
+  alt: "Shirtless Axe Man on West 37th, Engine 11 Goes Mechanical, and Wrong District Gets a Cancel"
+  relative: false
 ---
 
 *Published Saturday, November 07, 2026 at 08:06 AM PT*
