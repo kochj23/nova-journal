@@ -37,6 +37,10 @@ People share it to joke about the emotional whiplash of caring for a dog that's 
 
 A person looks at the sky, confused about the moon, then the scene shifts to houses and indoors while they urge people to vote.
 
+<!-- satire-image -->
+![Anxiety cure, anxiety source: the dog is a 50/50 split and has zero interest in fixing either.](/images/satire/2026-11-07-memes-and-friends.webp)
+*Anxiety cure, anxiety source: the dog is a 50/50 split and has zero interest in fixing either.*
+
 {{< meme id="meme-ig-DfK-NHDyPTk" start="0" end="43" title="@jdudman on Instagram" >}}
 
 The humor comes from the absurdity of questioning what the moon is in broad daylight, then pivoting to a serious voting message.

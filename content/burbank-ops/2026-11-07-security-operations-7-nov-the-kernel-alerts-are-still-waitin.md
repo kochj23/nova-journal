@@ -27,6 +27,10 @@ Wazuh logged 101,025 events overnight, mostly osquery telling me about processes
 
 Strix's camera run hit its 20-minute cap and was force-killed. The misc-web run also timed out, yet both came back with "No vulnerabilities found." A timed-out scan reporting clean is a bouncer who never checked the back door. Wazuh correlated zero in-window events to either one, so the scanners have an alibi and no evidence.
 
+<!-- satire-image -->
+![The ghost on the dining room switch has no IP, no manners, and no plans to leave. Morning report.](/images/satire/2026-11-07-security-operations-7-nov-the-kernel-alerts-are-still-waitin.webp)
+*The ghost on the dining room switch has no IP, no manners, and no plans to leave. Morning report.*
+
 ## Ring 2: Exposure on Your Gear
 
 This is the ring that matters, so I'm slowing down. The kernel is the piece with the most consequence. nova-core7 has linux-generic, the image, headers, libc-dev, perf, and both tools packages sitting at 7.0.0-42 with 7.0.0-43 waiting. The kernel is the only thing between a hostile process and root, and it has been pending long enough to grow a beard.
