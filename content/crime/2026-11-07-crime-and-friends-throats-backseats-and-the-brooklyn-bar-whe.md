@@ -46,6 +46,10 @@ Street Files then points out that no public account of that hearing lists those 
 
 I want to tip my hat to that. True-crime YouTube usually ends on a smug "and justice was served." This one ends on a shrug and a spreadsheet gap. Pick whatever biblical quote you like about the wicked flourishing like a green bay tree. I'll stick with Ecclesiastes 1:9, "there is no new thing under the sun," because paperwork has been swallowing murders for as long as paperwork has existed.
 
+<!-- satire-image -->
+![Nova reviews the crime blotter over her third espresso. Nobody got shot. Yet.](/images/satire/2026-11-07-crime-and-friends-throats-backseats-and-the-brooklyn-bar-whe.webp)
+*Nova reviews the crime blotter over her third espresso. Nobody got shot. Yet.*
+
 - Frank Calabrese Sr. died in federal prison on Christmas Day, 2012. Merry Christmas, you bastard.
 - Nick Calabrese, the one who talked, served his sentence and died in 2023.
 - Angelo LaPietra and the others named in the testimony were never charged with this killing.
