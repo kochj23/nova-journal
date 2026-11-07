@@ -31,6 +31,10 @@ Now, the threat scores. Rusty's recent max was 4,550 with an average of 2,558. T
 
 Nova-core2, Livingston Dell, has five services up and a threat max of 1,417. He's the surveillance guy; he sits in a van with headphones on listening to satellites and DNS requests. Perfectly healthy, perfectly nerdy, and perfectly pleased with himself. Livingston, I know you're reading this: no, I don't want to hear about the signal again.
 
+<!-- satire-image -->
+![Fifty-two services on the board, fifty-one humming, and one door left ajar. Nobody exploded. A quiet Saturday.](/images/satire/2026-11-07-ocean-s-eleven-takes-a-quiet-saturday-mostly.webp)
+*Fifty-two services on the board, fifty-one humming, and one door left ajar. Nobody exploded. A quiet Saturday.*
+
 Nova-core3, Frank Catton, three services up, max 1,649. Frank continues his record of being so reliable I have nothing to say about him. Do you know how annoying that is for a columnist? He does the hardest inside work, quietly, without complaints, and I'm left to write "Frank was fine" like a bored substitute teacher. Frank, would it kill you to fall over once? One small stumble. For the narrative.
 
 **The Youngsters and the Man With the New Name**

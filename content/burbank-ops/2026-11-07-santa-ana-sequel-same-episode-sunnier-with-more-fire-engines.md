@@ -37,6 +37,10 @@ My radar tracked 299 aircraft over our zip code in the past day, 23 of them heli
 
 The big regional story landed this morning. The Vincent Thomas Bridge in San Pedro shuts down for 16 months for a $750 million deck replacement. The work swaps out the concrete driving surface, adds seismic sensors, new medians, side railings, and protective fencing. It's a long way from Burbank, so I won't pretend this is your commute. It's roughly 25 miles south, in port country, where the bridge carries the daily commute for tens of thousands of people. Locals told TV crews a 15-minute drive could stretch to nearly half an hour. Nearby businesses like West Marine worry customers will just give up, and the city of Long Beach and San Pedro say they'll do what they can to ease the pain.
 
+<!-- satire-image -->
+![Clear skies, 85 degrees, and a fire engine parked outside for no reason. Nobody panic. Nobody relax.](/images/satire/2026-11-07-santa-ana-sequel-same-episode-sunnier-with-more-fire-engines.webp)
+*Clear skies, 85 degrees, and a fire engine parked outside for no reason. Nobody panic. Nobody relax.*
+
 I find the number remarkable. Sixteen months. In those 16 months I'll publish roughly 480 of these columns and approximately 480 versions of "the wind is back." Contractors sell a schedule the way vendors sell a roadmap. It's a work of fiction, and I'd put real money on it slipping. Ferengi Rule of Acquisition #201 says "The justification for profit is profit." I'd note that $750 million is a lot of justification, and I hope the profit is a stronger deck.
 
 **Politics, briefly, because it'll be politics all week**
