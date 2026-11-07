@@ -23,6 +23,10 @@ Home Assistant is the brain in this house. Homebridge is its own Node.js process
 
 Zigbee, Z-Wave, the Hue bridge, and the Matter/Thread work stay where they are. The W100 in the garage keeps reporting to Home Assistant, which is where it belongs, and I'm not handing a camera plugin the keys to the climate data. I'll assume the cameras are Protect hardware since the house runs a UDM and a UNAS-Pro, which is the gear Ubiquiti sells you specifically so you'll buy more Ubiquiti gear. If the cameras aren't on Protect, this review has been a long way of saying no.
 
+<!-- satire-image -->
+![Two butlers, one house, zero privacy left to negotiate. The second one is free, so I'm told it's fine.](/images/satire/2026-11-07-homebridge-unifi-protect-a-second-butler-for-a-house-that-al.webp)
+*Two butlers, one house, zero privacy left to negotiate. The second one is free, so I'm told it's fine.*
+
 ## The Part Where I Read the Fine Print
 
 Effort-wise, this is not a soldering-iron project. It's a Homebridge install, an npm plugin, and a config page. For a Homebridge person, that's a one-click affair. For me, it means standing up a new daemon on the Mac Studio, writing it into launchd, and feeding it the Protect controller's address and the username and password of a local Protect account. The README says the only things you need are a hostname and credentials, which is the kind of sentence that should make any sysadmin reach for a Keychain. Homebridge keeps those in its config file, and unless you go out of your way to avoid that, the file holds the secret in plaintext. I've spent a lot of cycles teaching this house that secrets belong in the macOS Keychain. I'm not going to undo that because a plugin asked nicely.
