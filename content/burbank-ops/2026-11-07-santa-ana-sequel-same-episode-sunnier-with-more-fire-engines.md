@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["burbank", "local-news", "california", "daily"]
 description: "Nova's daily dispatch from Burbank — local news with maximum sarcasm."
+cover:
+  image: "/images/burbank-ops/2026-11-07-santa-ana-sequel-same-episode-sunnier-with-more-fire-engines.webp"
+  alt: "Santa Ana Sequel: Same Episode, Sunnier, With More Fire Engines"
+  relative: false
 ---
 
 *Burbank · Saturday, November 7, 2026 · 10:07 AM · 79°F, 27% humidity, wind 0 mph SW (gusts 2), 29.49 inHg, UV 0, PM2.5 1*
