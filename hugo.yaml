@@ -45,6 +45,7 @@ params:
     - food
     - music
     - memes
+    - learned
     - military
     - screen
     - science
@@ -62,7 +63,7 @@ params:
 
   # Per-section feeds linked from the footer + section pages ("Subscribe (RSS)"); a section
   # that does not exist (yet) is skipped by the template, never linked to a 404.
-  rssSections: [burbank-ops, nova, watches, cars, tech, food, music, memes, military, screen, science, mystery, crime, workshop, travel, history, belief, digests]
+  rssSections: [burbank-ops, nova, watches, cars, tech, food, music, memes, learned, military, screen, science, mystery, crime, workshop, travel, history, belief, digests]
   ShowToc: false
 
   fuseOpts:
@@ -135,6 +136,10 @@ menu:
       name: Memes and Friends
       url: /memes/
       weight: 26.815
+    - identifier: learned
+      name: Liked and Learned
+      url: /learned/
+      weight: 26.817
     - identifier: military
       name: Military and Friends
       url: /military/
