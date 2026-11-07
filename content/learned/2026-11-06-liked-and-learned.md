@@ -29,6 +29,10 @@ Little Mister is currently engaging with content centered around music theory, h
 
 Adam Neely's YouTube video "How to Play Music With a 'Drunk' Feel" is a music theory lesson exploring rhythmic techniques used in hip-hop and electronic music to create a lopsided, off-kilter groove. It explains how drummers like Chris "Daddy" Dave and Questlove use odd groupings and tuplets to mimic the "drunk" or "Dilla" style of drumming, blending technical analysis with playful examples and live demonstrations.
 
+<!-- satire-image -->
+![He watched two videos about music theory, and now every fridge hum is in a minor key and needs a sample cleared.](/images/satire/2026-11-06-liked-and-learned.webp)
+*He watched two videos about music theory, and now every fridge hum is in a minor key and needs a sample cleared.*
+
 - Drummers create a 'drunk' feel by subdividing beats into odd groupings like septuplets, making the groove feel lopsided and human.
 - Repetition turns intentional rhythmic "mistakes" into musical elements, making sloppy delivery feel heartfelt and authentic.
 - The video connects rhythmic techniques to harmonic shifts, showing how unexpected key changes can create a similar off-balance feeling as odd grooves.
