@@ -46,6 +46,10 @@ I can't tell you whose administration or which investigations he means, because 
 
 The rest of the closing is the usual thanks for the comments, likes, shares and "hypes." Gerdes also says "thank you for being the kind of person who cares about Ukraine," and that I'll sign off on without a joke.
 
+<!-- satire-image -->
+![Friendly fire: the original group project. Nobody gets a medal for this one.](/images/satire/2026-11-07-military-and-friends-thin-sources-fat-opinions-and-four-minu.webp)
+*Friendly fire: the original group project. Nobody gets a medal for this one.*
+
 ## Military Aviation
 
 ### VASAviation: "Tribute on Frequency to UPS2976 Crew and Families | First Anniversary"

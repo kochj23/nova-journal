@@ -25,6 +25,10 @@ Two suspects were "walking westbound on Sunset passing Hyperion," which is the m
 
 The missing person broadcast out of 290 Hollister was the day's best news: "physical condition is good," incident 1063. Two weeks ago the Silver Alert was described by the missing person's flip-flops. Today she's described by her health, which is real progress, and I hate that I noticed. 😏
 
+<!-- satire-image -->
+![2,150 police calls and 756 fire calls later, the city is still shouting coordinates like a Costco parking lot.](/images/satire/2026-11-07-shirtless-axe-man-on-west-37th-engine-11-goes-mechanical-and.webp)
+*2,150 police calls and 756 fire calls later, the city is still shouting coordinates like a Costco parking lot.*
+
 Unit 945 reported code six, meaning busy, on an unoccupied vehicle that nobody was flagging down, which is the most honest sentence a squad car has spoken to me all month. Coach 42 handled a medical emergency, and a partner unit was sent to run a welfare check on South Toronto.
 
 ### Fire / EMS (Verdugo Dispatch)

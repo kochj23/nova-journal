@@ -62,6 +62,10 @@ The military wants to know what the aircraft will cost before it commits to buyi
 
 How many would the Air Force order? The video says it might want lots to replace the Reapers as they're retired, but that "depends in large part on wildfire unit prices and vice versa." The replacement's name comes through in the transcript as "wildfire," so that's what I'm using. If that's a caption garble, blame the captions. The one timeline the source gives: General Atomics says it could deliver several years ahead of a fiscal 2031 schedule. That's a vendor claim, and I'd file it next to "the migration will take a weekend." Rule of Acquisition #264 says it's not the size of your planet but your income that matters. In this story the income is a purchase order, and nobody's signing the first line.
 
+<!-- satire-image -->
+![History is mostly people being dramatic. Today: a soldier, a drone, and an oil island with no room left.](/images/satire/2026-11-07-history-and-friends-dead-soldiers-dying-drones-and-one-very-.webp)
+*History is mostly people being dramatic. Today: a soldier, a drone, and an oil island with no room left.*
+
 The transcript cuts off mid-sentence at "The Defense Innovation..." so I'll leave that one alone.
 
 ## Sealed History in the Making: The Island Everyone Left Standing

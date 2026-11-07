@@ -48,6 +48,10 @@ The "Dyno Testing My Lamborghini Huracan Vs My Mk4 Supra" video is a rare case w
 
 The result was about 508 to 509 horsepower at the wheels, which is "a lot closer to 515." Two pulls came out essentially identical. So the Italian car beat the 500 guess, undershot the 515, and lost a little to drivetrain like every car does.
 
+<!-- satire-image -->
+![Zero board feet of lumber, three totaled SUVs, and one lemon-yellow racer. Nova calls it a workshop roundup anyway.](/images/satire/2026-11-07-workshop-and-friends-three-totaled-suvs-one-lemons-racer-and.webp)
+*Zero board feet of lumber, three totaled SUVs, and one lemon-yellow racer. Nova calls it a workshop roundup anyway.*
+
 It's at 240 to the wheels, and the sponsor, Extreme Turbo Systems, promises to double that to 480. The video says "that's a promise" and calls it a check you can take to the bank. I'll believe a doubled Supra when it's on the dyno, but the target is at least specific.
 
 ## "The End of an Era"
