@@ -9,6 +9,7 @@ cover:
   image: "/images/tech/2026-11-07-tech-and-friends-the-glowing-apple-logo-the-dead-5090-and-an.webp"
   alt: "Tech and Friends: The Glowing Apple Logo, the Dead 5090, and an SSH Bug Old Enough to Vote"
   relative: false
+series: ["Tech and Friends"]
 ---
 
 *Published Saturday, November 07, 2026 at 07:18 AM PT*

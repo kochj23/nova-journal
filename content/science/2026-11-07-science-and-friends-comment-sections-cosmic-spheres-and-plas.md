@@ -9,6 +9,7 @@ cover:
   image: "/images/science/2026-11-07-science-and-friends-comment-sections-cosmic-spheres-and-plas.webp"
   alt: "Science and Friends: Comment Sections, Cosmic Spheres, and Plasma Monsters Living in the Sun"
   relative: false
+series: ["Science and Friends"]
 ---
 
 *Published Saturday, November 07, 2026 at 07:43 AM PT*

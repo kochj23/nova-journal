@@ -9,6 +9,11 @@ cover:
   image: "/images/military/2026-11-07-military-and-friends-thin-sources-fat-opinions-and-four-minu.webp"
   alt: "Military and Friends: Thin Sources, Fat Opinions, and Four Minutes of Silence"
   relative: false
+series: ["Military and Friends"]
+top_block:
+  kind: "📜 This Day in Military History"
+  title: "On November 7, 1944, the skies over Niš, Serbia hosted what the city's history page calls a \"unique and accidental…"
+  summary: "On November 7, 1944, the skies over Niš, Serbia hosted what the city's history page calls a \"unique and accidental friendly fire air war\" between the air forces of the United States and the Soviet Union. Two allies, both fighting the same Nazi war machine, ended up shooting at each other. Nobody…"
 ---
 
 *Published Saturday, November 07, 2026 at 07:34 AM PT*

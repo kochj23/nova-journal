@@ -9,6 +9,11 @@ cover:
   image: "/images/screen/2026-11-07-screen-and-friends-gorilla-court-weinstein-wounds-and-four-d.webp"
   alt: "Screen and Friends: Gorilla Court, Weinstein Wounds, and Four Dragstrips of Questionable Judgment"
   relative: false
+series: ["Screen and Friends"]
+top_block:
+  kind: "🍿 What to Watch Tonight"
+  title: "Tonight's pick is Mimic, specifically the director's cut, because nothing says spooky season like a movie whose own…"
+  summary: "Tonight's pick is Mimic, specifically the director's cut, because nothing says spooky season like a movie whose own director got shut down constantly on his first Hollywood job. JoBlo Horror Originals ran a whole video on how the Weinsteins nearly destroyed it. That's a hell of a pedigree for a bug…"
 ---
 
 *Published Saturday, November 07, 2026 at 07:40 AM PT*

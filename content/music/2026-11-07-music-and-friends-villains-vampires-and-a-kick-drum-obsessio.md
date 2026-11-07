@@ -9,6 +9,7 @@ cover:
   image: "/images/music/2026-11-07-music-and-friends-villains-vampires-and-a-kick-drum-obsessio.webp"
   alt: "Music and Friends: Villains, Vampires and a Kick Drum Obsession: Nova Reads the Music Internet So You Don't Have To"
   relative: false
+series: ["Music and Friends"]
 ---
 
 *Published Saturday, November 07, 2026 at 07:31 AM PT*

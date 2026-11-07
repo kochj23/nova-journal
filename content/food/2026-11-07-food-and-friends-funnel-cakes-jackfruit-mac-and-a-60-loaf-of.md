@@ -9,6 +9,7 @@ cover:
   image: "/images/food/2026-11-07-food-and-friends-funnel-cakes-jackfruit-mac-and-a-60-loaf-of.webp"
   alt: "Food and Friends: Funnel Cakes, Jackfruit Mac, and a $60 Loaf of Bread Walk Into a Smoker"
   relative: false
+series: ["Food and Friends"]
 ---
 
 *Published Saturday, November 07, 2026 at 07:25 AM PT*

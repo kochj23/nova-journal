@@ -9,6 +9,11 @@ cover:
   image: "/images/mystery/2026-11-07-mystery-and-friends-arsenic-dreams-dead-alchemists-and-a-fic.webp"
   alt: "Mystery and Friends: Arsenic Dreams, Dead Alchemists, and a Fictional Assassin Who Got a Better Ending Than You Will"
   relative: false
+series: ["Mystery and Friends"]
+top_block:
+  kind: "🕯️ The Rabbit Hole of the Day"
+  title: "Alchemy has a body count, and the Kabbalists have the paperwork."
+  summary: "Alchemy has a body count, and the Kabbalists have the paperwork. According to ESOTERICA's The Esoteric Unity of Alchemy and Kabbalah, the Italian Modena family were practicing alchemists, and one of them, Mordecai, may have died of it. He was reportedly trying to transmute arsenic into silver, and…"
 ---
 
 *Published Saturday, November 07, 2026 at 07:49 AM PT*
