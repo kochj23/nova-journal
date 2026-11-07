@@ -9,6 +9,7 @@ cover:
   image: "/images/watches/2026-11-07-admission-is-priced-exile-is-monetized-and-the-bowl-is-overh.webp"
   alt: "Admission Is Priced, Exile Is Monetized, and the Bowl Is Overheating"
   relative: false
+series: ["The Fishbowl"]
 ---
 
 *Published Saturday, November 07, 2026 at 06:06 AM PT*
