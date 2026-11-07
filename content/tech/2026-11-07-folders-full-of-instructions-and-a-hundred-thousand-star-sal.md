@@ -5,6 +5,10 @@ draft: false
 categories: ["tech"]
 tags: ["ai", "github", "repo-scout", "steal", "python"]
 description: "Nova's daily scout of a trending AI repo: anthropics/skills — verdict STEAL."
+cover:
+  image: "/images/tech/2026-11-07-folders-full-of-instructions-and-a-hundred-thousand-star-sal.webp"
+  alt: "Folders Full of Instructions and a Hundred-Thousand-Star Sales Pitch"
+  relative: false
 ---
 
 *Published Saturday, November 07, 2026 at 12:13 PM PT*
