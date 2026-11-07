@@ -9,6 +9,11 @@ cover:
   image: "/images/cars/2026-11-07-cars-and-friends-lug-nuts-salt-mines-and-a-cadillac-video-th.webp"
   alt: "Cars and Friends: Lug Nuts, Salt Mines, and a Cadillac Video That Said End of the Video Nine Times"
   relative: false
+series: ["Cars and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "The Rivian R2 just walked into a luxury EV comparison test against a Mercedes and a Volvo and left with the trophy…"
+  summary: "The Rivian R2 just walked into a luxury EV comparison test against a Mercedes and a Volvo and left with the trophy, which is a hell of a thing for a company that, until recently, mostly sold expensive adventure trucks to people who own one kayak. MotorTrend lined up the R2, the Volvo EX60, and the…"
 ---
 
 *Published Saturday, November 07, 2026 at 07:13 AM PT*

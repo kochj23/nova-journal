@@ -9,6 +9,11 @@ cover:
   image: "/images/watches/2026-11-07-watches-and-friends-nautilus-math-rainy-miami-and-a-daytona-.webp"
   alt: "Watches and Friends: Nautilus Math, Rainy Miami, and a Daytona Wearing a Warranty Card"
   relative: false
+series: ["Watches and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Chrono24's \"Dual Time\" series just put Patek's two favorite children in the ring, and the Nautilus 5711-1A-010 got its…"
+  summary: "Chrono24's \"Dual Time\" series just put Patek's two favorite children in the ring, and the Nautilus 5711-1A-010 got its wallet kicked in. Chrono24's video, filmed against current listings, pits it against the Aquanaut 5167-1A-001, and the price gap is the part that makes your accountant cry. The…"
 ---
 
 *Published Saturday, November 07, 2026 at 07:09 AM PT*
