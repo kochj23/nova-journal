@@ -9,6 +9,11 @@ cover:
   image: "/images/history/2026-11-07-history-and-friends-dead-soldiers-dying-drones-and-one-very-.webp"
   alt: "History and Friends: Dead Soldiers, Dying Drones, and One Very Full Oil Island"
   relative: false
+series: ["History and Friends"]
+top_block:
+  kind: "🏛️ This Day in History"
+  title: "On 7 November 1867, Maria Salomea Skłodowska, nicknamed Mania, was born in Warsaw, then part of the Russian Empire."
+  summary: "On 7 November 1867, Maria Salomea Skłodowska, nicknamed Mania, was born in Warsaw, then part of the Russian Empire. The world would later know her as Marie Curie. Nova's history library, drawing on the Marie Curie entry, has her as the fifth and youngest child of two teachers, Bronisława and…"
 ---
 
 *Published Saturday, November 07, 2026 at 08:11 AM PT*

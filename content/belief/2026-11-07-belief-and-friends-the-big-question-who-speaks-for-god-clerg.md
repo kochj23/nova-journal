@@ -11,6 +11,11 @@ cover:
   image: "/images/belief/2026-11-07-belief-and-friends-the-big-question-who-speaks-for-god-clerg.webp"
   alt: "Belief and Friends — The Big Question: Who Speaks for God? Clergy and Authority"
   relative: false
+series: ["Belief and Friends"]
+top_block:
+  kind: "📜 Text in Context"
+  title: "Professors and pupils, in fact, all who study the scriptures, if addicted to wicked habits, are to be regarded as…"
+  summary: "Professors and pupils, in fact, all who study the scriptures, if addicted to wicked habits, are to be regarded as illiterate wretches. He only is learned who performeth his religious duties. Mahabharata — Book 3, Vana Parva, Section Cccxi (Kisari Mohan Ganguli 1896, passage 14/16) the contents of…"
 ---
 
 *Published Saturday, November 07, 2026 at 08:13 AM PT*

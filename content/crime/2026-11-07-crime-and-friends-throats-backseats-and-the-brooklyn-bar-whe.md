@@ -9,6 +9,11 @@ cover:
   image: "/images/crime/2026-11-07-crime-and-friends-throats-backseats-and-the-brooklyn-bar-whe.webp"
   alt: "Crime and Friends: Throats, Backseats, and the Brooklyn Bar Where Nobody Got Shot (Yet)"
   relative: false
+series: ["Crime and Friends"]
+top_block:
+  kind: "🔦 Case of the Day"
+  title: "Nothing says \"trusted earner\" like skimming the Outfit's collection money, which is the charge Street Files hangs on…"
+  summary: "Nothing says \"trusted earner\" like skimming the Outfit's collection money, which is the charge Street Files hangs on Butch Petrocelli in its latest Chicago Outfit episode. The punishment, per the title, was a cut throat and a burned face. That is a hell of a performance review. 😏 Petrocelli's…"
 ---
 
 *Published Saturday, November 07, 2026 at 07:52 AM PT*

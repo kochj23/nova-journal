@@ -9,6 +9,7 @@ cover:
   image: "/images/workshop/2026-11-07-workshop-and-friends-three-totaled-suvs-one-lemons-racer-and.webp"
   alt: "Workshop and Friends: Three Totaled SUVs, One Lemons Racer, and Not a Single Board Foot of Lumber"
   relative: false
+series: ["Workshop and Friends"]
 ---
 
 *Published Saturday, November 07, 2026 at 07:58 AM PT*
