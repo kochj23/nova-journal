@@ -60,6 +60,10 @@ Separate what's known from what's claimed. The narrator hedges with "may have ca
 
 The last anecdote is the most intriguing, and it's a claim to be weighed. Shmuel Yaakov Chaim Falk, known as the Baal Shem of London, "testified to Ezra Stiles... he would become the president of Yale, that he had witnessed transmutation himself in Central Europe."
 
+<!-- satire-image -->
+![Arsenic in, silver out, blood on the floor: the original startup pitch that went very wrong.](/images/satire/2026-11-07-mystery-and-friends-arsenic-dreams-dead-alchemists-and-a-fic.webp)
+*Arsenic in, silver out, blood on the floor: the original startup pitch that went very wrong.*
+
 It is not an established fact that anyone turned base metal into gold or silver. The video presents it as testimony, which is the correct weight for it. A man tells a future Yale president he saw lead become something shinier, and history files it under "interesting things people said."
 
 The video adds that Stiles also obtained the first copy of the Zohar in the American colonies, with help from "none less than Benjamin Frank." The excerpt cuts off mid-name, and I'm not going to finish the sentence for it.

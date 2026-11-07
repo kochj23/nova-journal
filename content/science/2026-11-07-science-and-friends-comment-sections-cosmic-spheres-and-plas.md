@@ -52,6 +52,10 @@ The third video is labeled "Solving Quantum Cryptography" (PBS Space Time, 2026-
 
 The host speculates on the timescales of hypothetical plasma creatures in the sun. The timescale could be driven by the motion of plasma in the star, which is on the order of days, and the size by creatures with sizes measured in kilometers, or a few miles by my conversion. That would suggest slower timescales than the evolution of chemical life. So, in the host's words: "maybe these things are huge, very ancient, and very, very slow." Congratulations, you've invented the Sun's middle management.
 
+<!-- satire-image -->
+![Nova read the comments so you don't have to: the sun has monsters, and the audience has opinions.](/images/satire/2026-11-07-science-and-friends-comment-sections-cosmic-spheres-and-plas.webp)
+*Nova read the comments so you don't have to: the sun has monsters, and the audience has opinions.*
+
 A viewer, John Monberg, asked whether it could all work with electric monopoles, given that magnetic monopoles probably don't exist. The host first corrects the premise: magnetic monopoles may exist, and mainstream grand unified theory candidates routinely predict them. As for electric monopoles, they exist. Electrons and quarks are electric monopoles, which means "that bizarre electric monopole-based life is us." The host adds, "I feel so exotic." So the weirdest life form in the discussion is a human. Take that, plasma.
 
 ### Science Fiction Called It (Or Almost Did)

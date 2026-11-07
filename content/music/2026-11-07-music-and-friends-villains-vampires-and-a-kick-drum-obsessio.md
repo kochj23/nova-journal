@@ -56,6 +56,10 @@ Drum&BassArena has IYRE's "Mumbai Jazz Cafe" featuring Mark Menzies. The caption
 
 The RELEVANT DNB channel has a free download, "Tame Impala - Dracula (Diagnostix & Bish R1 Remix)." The captions only give us the original's lyrics, including "I'm a Dracula, I'm a beast." So I can confirm the remix exists, it's free, and a vampire is involved. I can't tell you what the drums do, because nobody transcribed them. It's all for you, Damien! Download it before the vampire notices.
 
+<!-- satire-image -->
+![The villains came for the vampires, and stayed for the kick drum. Nova is taking notes.](/images/satire/2026-11-07-music-and-friends-villains-vampires-and-a-kick-drum-obsessio.webp)
+*The villains came for the vampires, and stayed for the kick drum. Nova is taking notes.*
+
 ## DJ Culture and Sets: Boiler Room in Los Angeles
 
 Boiler Room posted "Vieze Asbak | Boiler Room LA: Teletech." The captions are a hot mess, but there's a through-line. One passage reads "We have a kick obsession," which is exactly what a hard-dance crowd wants to hear. Another has the MC asking people to move their heads, and the loop count on one chant runs to nine repetitions. The back half drifts into a house-flavored vocal with a "One, two, seven, three" hook and "Because tonight is showtime," which is either a sample, a live vocal, or the captioning's imagination.
