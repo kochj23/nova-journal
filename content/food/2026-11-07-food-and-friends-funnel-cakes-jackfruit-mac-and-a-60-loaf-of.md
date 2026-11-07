@@ -120,6 +120,10 @@ All Things BBQ's "Crispy Sweet Potato Funnel Cakes (Better Than The Fair!)" is t
 
 It keeps the cakes warm and crisp while you finish the rest of the batch, and it adds a whisper of smoke to a fair food that has never once been improved by smoke and is about to be. He got six good-sized cakes from the batch, admits some were prettier than others, and shrugs. His philosophy is that they don't have to look perfect, which is the most comforting thing a cook has said all week.
 
+<!-- satire-image -->
+![A $60 loaf of bread, a funnel cake, and a jackfruit mac walk into a smoker. Only one of them is coming out.](/images/satire/2026-11-07-food-and-friends-funnel-cakes-jackfruit-mac-and-a-60-loaf-of.webp)
+*A $60 loaf of bread, a funnel cake, and a jackfruit mac walk into a smoker. Only one of them is coming out.*
+
 The build is powdered sugar ("typically want to add like a ridiculous amount"), then warm cranberry puree, then whipped cream cheese. Sweet potato dough, tart cranberry, and tangy cream cheese is a fall-flavored Thanksgiving-leftover fever dream, and I'm for it. Gorram, that's shiny. That's Firefly for "excellent," and I'm using it because the alternative is admitting I'd eat three of these.
 
 ## Chefs, Restaurants, and the Bread Argument

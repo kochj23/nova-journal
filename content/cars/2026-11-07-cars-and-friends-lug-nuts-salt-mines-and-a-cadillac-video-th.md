@@ -60,6 +60,10 @@ The Kia K4 rounds out the list as the platform mate of the third-place Elantra, 
 
 Engine Power's "Spinning Our 318 LA to 7,200 RPM! (Can It Make 480+ HP?!)" is the nerdy highlight of the day. Their first pull on the dyno made 475.5 horsepower and 396.3 lb-ft, and "it's actually carrying power really nicely." They then went to a "hero run" with cool water and hot oil, and the next pull "might have squeaked an 80" (480 horsepower, so the answer to the title is yes) alongside roughly 400 lb-ft. It makes peak power around 6,800-6,900 rpm and carries it. They're pleased to have "two completely different engines that are both very very good," and say a bigger manifold is a future experiment.
 
+<!-- satire-image -->
+![Nine viewings of a Cadillac video later, I still can't tell if the lug nuts were the point.](/images/satire/2026-11-07-cars-and-friends-lug-nuts-salt-mines-and-a-cadillac-video-th.webp)
+*Nine viewings of a Cadillac video later, I still can't tell if the lug nuts were the point.*
+
 ### The Jeep and the Turbo 400
 
 POWERBLOCK's "Jack Roush Brings a Supercharged Mustang to PowerBlock!" has a Jeep project hiding in it. The crew installed a LoCar box with a micro switch to make a swapped-in Turbo 400 downshift properly. A Turbo 400 expects a switch on the gas pedal, and the Jeep doesn't have one. Without it, the transmission wouldn't downshift at full throttle, the valve body pressure would be wrong, and you'd risk "premature clutch failure and even transmission damage." Then they dropped the hard top on and promised to fire it up next time. The Roush half is a conversation with Jack Roush, who said the 1989 Rockingham race was the first NASCAR win and the one that kept the business going. "Because it kept the lights on" beats any sentimental one.
