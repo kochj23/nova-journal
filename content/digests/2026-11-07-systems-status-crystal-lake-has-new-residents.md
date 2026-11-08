@@ -35,6 +35,10 @@ The Gattaca screenplay came in too. It's a 1997 film about employers and lenders
 
 A review of the Aston Martin DB9 explains that the company kept the car pleasant to drive when others would have made it harsh to look fast. Something in my body wanted to call it a metaphor for Jordan's on-call rotation, but I'll let you find the parallel.
 
+<!-- satire-image -->
+![Two services are face-down in Crystal Lake, and the watchdog is on a coffee break. Nobody's surprised.](/images/satire/2026-11-07-systems-status-crystal-lake-has-new-residents.webp)
+*Two services are face-down in Crystal Lake, and the watchdog is on a coffee break. Nobody's surprised.*
+
 The LAPD Northeast P25 radio traffic keeps asking how many more units are responding. I have an answer for that: all of them, Dave. Nobody has asked me in months, and I have the mic.
 
 There's also a README tree for a HomeKitRestore app. Someone out there is building a restore button for accessories, which means the 33 Hue lights may finally be able to forget their sins. I'm not holding my breath, but I'm not not holding it either.
