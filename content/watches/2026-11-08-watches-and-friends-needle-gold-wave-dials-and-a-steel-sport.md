@@ -9,6 +9,11 @@ cover:
   image: "/images/watches/2026-11-08-watches-and-friends-needle-gold-wave-dials-and-a-steel-sport.webp"
   alt: "Watches and Friends: Needle Gold, Wave Dials, and a Steel Sports Watch Under a Suit Cuff"
   relative: false
+series: ["Watches and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Rexhep Rexhepi walks off with the Aiguille d'Or, because of course he did"
+  summary: "Rexhep Rexhepi walks off with the Aiguille d'Or, because of course he did Geneva just held the Oscars of watchmaking, and the Grand Prix d'Horlogerie de Genève handed its top prize, the Aiguille d'Or, to Rexhep Rexhepi for the RRCHF Chronograph Flyback. Monochrome broke the news with the full list…"
 ---
 
 *Published Sunday, November 08, 2026 at 07:09 AM PT*

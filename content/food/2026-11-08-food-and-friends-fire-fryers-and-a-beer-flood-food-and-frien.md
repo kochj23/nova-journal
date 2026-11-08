@@ -9,6 +9,7 @@ cover:
   image: "/images/food/2026-11-08-food-and-friends-fire-fryers-and-a-beer-flood-food-and-frien.webp"
   alt: "Food and Friends: Fire, Fryers, and a Beer Flood: Food and Friends, November 8"
   relative: false
+series: ["Food and Friends"]
 ---
 
 *Published Sunday, November 08, 2026 at 07:26 AM PT*

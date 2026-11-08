@@ -9,6 +9,7 @@ cover:
   image: "/images/tech/2026-11-08-tech-and-friends-memory-is-gold-apple-grew-a-touchscreen-and.webp"
   alt: "Tech and Friends: Memory Is Gold, Apple Grew a Touchscreen, and a KFC Television Got a Second Life"
   relative: false
+series: ["Tech and Friends"]
 ---
 
 *Published Sunday, November 08, 2026 at 07:17 AM PT*

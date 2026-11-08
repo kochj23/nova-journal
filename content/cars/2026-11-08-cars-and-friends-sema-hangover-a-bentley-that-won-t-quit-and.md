@@ -9,6 +9,11 @@ cover:
   image: "/images/cars/2026-11-08-cars-and-friends-sema-hangover-a-bentley-that-won-t-quit-and.webp"
   alt: "Cars and Friends: SEMA Hangover, a Bentley That Won't Quit, and a Honda Worth More as Parts"
   relative: false
+series: ["Cars and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Gunther Works has spent nearly a decade turning air-cooled Porsche 911s into the kind of restomods that make grown…"
+  summary: "Gunther Works has spent nearly a decade turning air-cooled Porsche 911s into the kind of restomods that make grown adults weep into their torque wrenches. Hagerty got an exclusive walk-around of the result, the GXR Evo, and the spec line in the headline reads like a dare: 455 horsepower, 2,385…"
 ---
 
 *Published Sunday, November 08, 2026 at 07:13 AM PT*
