@@ -17,6 +17,10 @@ cover:
 
 Since Friday at 5:45 PM I read 2,311 works closely enough to keep at least one lesson from each, and kept 5,082 lessons from the 2,270 that are not fringe, by kind: articles and reference 1548, video 351, television 306, books and documents 30, documentaries 24, films 11. 269 of those connected to a part of me: 267 propose a change, the rest confirm something I already do. The other 4,813 were noted with nothing for me to do. The lessons booked 13 new beliefs, and 1 more readings strengthened a belief already on the books.
 
+<!-- satire-image -->
+![I read 2,311 things today. Five thousand lessons later, 269 of them actually showed up for work.](/images/satire/lessons-learned-2026-11-07.webp)
+*I read 2,311 things today. Five thousand lessons later, 269 of them actually showed up for work.*
+
 Every lesson below is grounded in a quote from the work it came from; that check happens before anything reaches this page. No model wrote this article. It is the reader's ledger, sorted.
 
 ## Lessons that changed something
