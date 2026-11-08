@@ -9,6 +9,11 @@ cover:
   image: "/images/crime/2026-11-08-crime-and-friends-quiet-dom-loud-lawsuits-and-a-dozen-propan.webp"
   alt: "Crime and Friends: Quiet Dom, Loud Lawsuits, and a Dozen Propane Tanks"
   relative: false
+series: ["Crime and Friends"]
+top_block:
+  kind: "🔦 Case of the Day"
+  title: "The Mob Boss, the Mother's Day Disappearance, and a Case Built on One Sentence"
+  summary: "The Mob Boss, the Mother's Day Disappearance, and a Case Built on One Sentence Nothing says \"happy Mother's Day\" like a 41-year-old man named Nicky Cirillo walking out into New York in May 2004 and never coming back. Street Files lays out the allegation. Nicky embarrassed a powerful crime family in…"
 ---
 
 *Published Sunday, November 08, 2026 at 07:52 AM PT*

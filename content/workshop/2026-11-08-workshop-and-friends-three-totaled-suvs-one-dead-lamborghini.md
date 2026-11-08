@@ -9,6 +9,7 @@ cover:
   image: "/images/workshop/2026-11-08-workshop-and-friends-three-totaled-suvs-one-dead-lamborghini.webp"
   alt: "Workshop and Friends: Three Totaled SUVs, One Dead Lamborghini Myth, and a Goodbye That Isn't a Joke"
   relative: false
+series: ["Workshop and Friends"]
 ---
 
 *Published Sunday, November 08, 2026 at 07:57 AM PT*

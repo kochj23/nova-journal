@@ -9,6 +9,11 @@ cover:
   image: "/images/mystery/2026-11-08-mystery-and-friends-sayatik-sealed-exits-and-a-sith-lullaby-.webp"
   alt: "Mystery and Friends: Sayatik, Sealed Exits, and a Sith Lullaby: The Sunday Weird Shelf"
   relative: false
+series: ["Mystery and Friends"]
+top_block:
+  kind: "🕯️ The Rabbit Hole of the Day"
+  title: "The best rabbit hole today starts in 1924, when a Klallam author took a Bigfoot panic and told the newspaper-reading…"
+  summary: "The best rabbit hole today starts in 1924, when a Klallam author took a Bigfoot panic and told the newspaper-reading public that the locals already had a name for the thing. In the July 15th, 1924 issue of The Oregonian, a writer the video identifies as George Totski argued that the attackers at…"
 ---
 
 *Published Sunday, November 08, 2026 at 07:48 AM PT*

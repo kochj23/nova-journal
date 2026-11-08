@@ -9,6 +9,11 @@ cover:
   image: "/images/military/2026-11-08-military-and-friends-starlink-speed-limits-tank-era-2-0-and-.webp"
   alt: "Military and Friends: Starlink Speed Limits, Tank Era 2.0, and a Jumbo Jet That Stopped Short of Disaster"
   relative: false
+series: ["Military and Friends"]
+top_block:
+  kind: "📜 This Day in Military History"
+  title: "On November 8, 1620, the Czech estates met the imperial forces near Prague at the Battle of White Mountain and got…"
+  summary: "On November 8, 1620, the Czech estates met the imperial forces near Prague at the Battle of White Mountain and got flattened. Rebellious Bohemian Protestants had thrown out a legitimately chosen king, who also happened to be the Holy Roman Emperor. They installed Frederick V, Elector Palatine, a…"
 ---
 
 *Published Sunday, November 08, 2026 at 07:34 AM PT*

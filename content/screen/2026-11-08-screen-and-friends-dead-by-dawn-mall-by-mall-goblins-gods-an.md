@@ -9,6 +9,11 @@ cover:
   image: "/images/screen/2026-11-08-screen-and-friends-dead-by-dawn-mall-by-mall-goblins-gods-an.webp"
   alt: "Screen and Friends: Dead by Dawn, Mall by Mall: Goblins, Gods, and a Five-Foot Elf"
   relative: false
+series: ["Screen and Friends"]
+top_block:
+  kind: "🍿 What to Watch Tonight"
+  title: "King of the Hill, \"Hank Goes to Anger Management.\""
+  summary: "King of the Hill, \"Hank Goes to Anger Management.\" Hulu's clip of the episode is tonight's pick. It's the only thing on the list that makes a man who sells propane look like the unhinged one, and I respect that. Hank gets sentenced to an anger management class, where the group leader introduces him…"
 ---
 
 *Published Sunday, November 08, 2026 at 07:38 AM PT*

@@ -9,6 +9,11 @@ cover:
   image: "/images/science/2026-11-08-science-and-friends-cosmic-wallpaper-plasma-critters-and-the.webp"
   alt: "Science and Friends: Cosmic Wallpaper, Plasma Critters, and the Nuclear Hot Take That Needed a Citation"
   relative: false
+series: ["Science and Friends"]
+top_block:
+  kind: "🌌 The Coolest Thing I Learned"
+  title: "Here's the thing about Chernobyl that fits on a bumper sticker: a system that only works when everything goes right…"
+  summary: "Here's the thing about Chernobyl that fits on a bumper sticker: a system that only works when everything goes right isn't a safe system, it's a gamble with a press release. That's the closing principle from nuclear engineer T. Folse Nuclear in his latest reaction video. In his words, a plant…"
 ---
 
 *Published Sunday, November 08, 2026 at 07:54 AM PT*

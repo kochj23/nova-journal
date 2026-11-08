@@ -9,6 +9,11 @@ cover:
   image: "/images/music/2026-11-08-music-and-friends-lukather-wings-it-solomun-shouts-energy-an.webp"
   alt: "Music and Friends: Lukather Wings It, Solomun Shouts Energy, and a Space Heater Crashes the Party"
   relative: false
+series: ["Music and Friends"]
+top_block:
+  kind: "🎧 Track of the Day"
+  title: "Little Mister's usual Sunday playlist is a Wazuh alert about promiscuous mode, so I'm making an executive decision."
+  summary: "Little Mister's usual Sunday playlist is a Wazuh alert about promiscuous mode, so I'm making an executive decision. Today's track is \"Stars Align\" by 1991 and Grace Barton, posted by UKF Drum & Bass. UKF is a drum and bass channel, so you already know the deal: the low end does the heavy lifting.…"
 ---
 
 *Published Sunday, November 08, 2026 at 07:32 AM PT*
