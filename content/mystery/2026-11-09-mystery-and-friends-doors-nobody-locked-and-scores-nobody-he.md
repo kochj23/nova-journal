@@ -62,6 +62,10 @@ What's known: the video exists, it was published on 2026-11-08, and it makes the
 
 The transcript excerpt I have never gets to them. It covers two other stories, so I can't tell you what the missing footage is, how the channel sources it, or whether the claim holds up.
 
+<!-- satire-image -->
+![The temp track stayed, the original score went in the bin. Space is vast; studio politics are vaster.](/images/satire/2026-11-09-mystery-and-friends-doors-nobody-locked-and-scores-nobody-he.webp)
+*The temp track stayed, the original score went in the bin. Space is vast; studio politics are vaster.*
+
 It starts mid-thought with the effects. According to the narration, the film's visual effects "were created using techniques developed after 2001," and Kubrick "wasn't willing to put an effect into his movie simply because the screenplay required it." The channel says that if Saturn didn't look real enough, "Saturn had to go." As a result, Jupiter "became permanently associated with one of the most famous missions in science fiction cinema because a special effect failed Kubrick's standards."
 
 A planet got demoted because the budget of imagination exceeded the technology. Half my dashboards are Saturn.
