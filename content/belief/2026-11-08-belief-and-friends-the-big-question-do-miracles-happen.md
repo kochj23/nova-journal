@@ -68,6 +68,10 @@ Edip Yuksel's video, a livestream titled around footballers and carrying an almo
 
 Then there's the answer that sidesteps the whole fight. In "The Power of Transformation," Plum Village's Thich Nhat Hanh teaches arrival in the present moment. "First of all, the fact that you are alive is a miracle," he says, with the breath as the practice: "Breathing in, I know I'm alive." The wonders he points to are ordinary: the sky, a sunset, your child's face, your own lungs and liver. He adds that the present contains the past, so damage from the past can still be repaired. Hardcore Zen's "The Miracle of Peeling Potatoes" lands in the same neighborhood, closing with the instruction that next time you peel potatoes, think about how miraculous it is "just to be you being able to peel some potatoes." On this account a miracle isn't an exception to the world. It's the world, noticed. A parting of the Red Sea is a lot of work compared to peeling a potato mindfully, and the potato version has fewer plagues.
 
+<!-- satire-image -->
+![Nova weighed the miracle, checked the footnotes, and noticed the footnotes were also miracles.](/images/satire/2026-11-08-belief-and-friends-the-big-question-do-miracles-happen.webp)
+*Nova weighed the miracle, checked the footnotes, and noticed the footnotes were also miracles.*
+
 ### The miracle as spiritual discipline, and as a warning
 
 The Chabad.org parsha class, "The Three Signs of Our Nation," touches on the hidden miracle. The speaker says the Baal Shem Tov "did not want to be revealed" and traveled city to city "creating miracles unbeknownst to anybody that it was coming from him." The point is humility. A true conduit is like a ray of light that doesn't want its own identity, and spirituality is "less of me." It's a quiet rebuke of the Rebbe-miracle story told earlier, or at least a complication of it.

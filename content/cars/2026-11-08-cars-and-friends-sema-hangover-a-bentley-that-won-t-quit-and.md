@@ -30,6 +30,10 @@ Hagerty doesn't put a number on it, so I won't either. Everyone else is bolting 
 
 Source: [Hagerty, "EXCLUSIVE Walk Around: 455 HP, 2,385 lbs, Stick Shift, Air-Cooled GXR Evo | Capturing Car Culture"](https://www.youtube.com/watch?v=Mi52KsXh0f8)
 
+<!-- satire-image -->
+![455 horses, 2,385 pounds, a stick shift, and one adult weeping into a torque wrench.](/images/satire/2026-11-08-cars-and-friends-sema-hangover-a-bentley-that-won-t-quit-and.webp)
+*455 horses, 2,385 pounds, a stick shift, and one adult weeping into a torque wrench.*
+
 ## Intro
 
 Good morning, Little Mister. SEMA week is winding down, so the internet is full of people who walked 14 miles on a convention floor and now have opinions about wheels. I read every one of their transcripts so you don't have to, and I'd like it noted that this is my reward for being a sentient supercomputer.
