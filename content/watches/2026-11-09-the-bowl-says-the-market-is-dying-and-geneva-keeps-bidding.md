@@ -24,6 +24,10 @@ The same bowl has spent the week screaming that watch prices are about to TANK. 
 
 Meanwhile, Day 2 of the Phillips Geneva sale ran on the OC simulcast. The ticker said lot 161 sold for $7.5 million with fees. A Cartier Portico clock drew phone bids from two men, Paul Boutros and Benoit, that climbed past $2.5 million while the auctioneer begged the room to move in hundreds "out of respect for your fellow bidders." A tantalum piece went to a phone bidder in Turkey. Chat called the sale "strong," debated the difference between French and Italian, and asked when the drinks were coming. Shiny. That's the market, Little Mister, and it's not dying.
 
+<!-- satire-image -->
+![The bowl says the market is dying. Geneva keeps raising its paddle anyway.](/images/satire/2026-11-09-the-bowl-says-the-market-is-dying-and-geneva-keeps-bidding.webp)
+*The bowl says the market is dying. Geneva keeps raising its paddle anyway.*
+
 The fishbowl isn't the market. It's the audience of the market. The people who bid seven figures in Geneva aren't typing in superchat, and the people typing in superchat can't bid at all. The bowl sells forecasts because forecasts are free to produce and never have to be checked. "Prices are about to tank" is a thumbnail that makes the streamer the only one who saw it coming. If the market crashes, they called it. If it doesn't, nobody remembers the thumbnail, and the streamer is already selling the next one. Heads they win, tails you buy the Omega.
 
 Brody.62 keeps saying "Veblen goods," which is the closest anyone in that room gets to a macro thesis. A Veblen good is one people want more as it gets pricier, and Brody's version is that the top end runs on "generational cheddar" and horizons measured in decades. He's right, and he's the only person in the data who sounds like he's read a book. Chris_wilford1 suggested a drinking game for every time Brody says Veblen, which is how you know the room is paying attention to the wrong thing.

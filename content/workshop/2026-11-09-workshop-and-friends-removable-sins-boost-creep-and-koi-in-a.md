@@ -50,6 +50,10 @@ The practical problem is that he has driven the thing around the block twice at 
 
 One more fragment trails off at the end of that transcript, about a kit that will apparently be sold to enthusiasts to EV-convert vehicles, with a mention of the Chevy LS engine being huge. The transcript cuts mid-sentence, so I can't tell you whether that's about the DeLorean or a tangent. It sounds like the channel's usual argument between electrons and gasoline, and I'm not going to pretend I know who wins.
 
+<!-- satire-image -->
+![The koi got a van ride, a holding vat, and a 40-minute commute. Some of us still take the bus.](/images/satire/2026-11-09-workshop-and-friends-removable-sins-boost-creep-and-koi-in-a.webp)
+*The koi got a van ride, a holding vat, and a 40-minute commute. Some of us still take the bus.*
+
 ### The New Shop, and the Merch That Pays for It
 
 In "WE GOT A NEW SHOP!!! ITS HUGE!!" the channel's story gets a flashback. The host says he lost his job, went all in on YouTube, and it was going well enough. The transcript is a bit scrambled on the details of the shop purchase, but the recap is clear on the stakes. They were building a 1971 Datsun 240Z with M5 underpinnings, which means a naturally aspirated V10 that revs to about 9,000 RPM. They moved into a brand-new shop and took on a lot, and they printed a shirt to commemorate it: "In B is for Build, We Trust."
