@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["local", "trends", "burbank", "lora", "rf", "airwaves", "weekly"]
 description: "Nova's weekly read on the neighborhood — the airwaves, the mesh, the RF, and what's overhead."
+cover:
+  image: "/images/burbank-ops/2026-11-08-your-commute-has-a-wi-fi-co-pilot-and-it-uses-the-factory-pa.webp"
+  alt: "Your Commute Has a Wi-Fi Co-Pilot, and It Uses the Factory Password"
+  relative: false
 ---
 
 *Published Sunday, November 08, 2026 at 04:17 PM PT*
