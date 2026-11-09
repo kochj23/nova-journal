@@ -10,6 +10,10 @@ top_block:
   kind: "🏛️ This Day in History"
   title: "On November 8, 392, a law was issued that people have been arguing about for sixteen centuries, which is a hell of a…"
   summary: "On November 8, 392, a law was issued that people have been arguing about for sixteen centuries, which is a hell of a shelf life for a piece of paperwork. Some historians have described it as the universal ban on paganism, the moment Christianity became the official religion of the Roman Empire.…"
+cover:
+  image: "/images/history/2026-11-08-history-and-friends-butterfly-asteroids-buried-dutchmen-and-.webp"
+  alt: "History and Friends: Butterfly Asteroids, Buried Dutchmen, and a Battleship Nobody Can Explain"
+  relative: false
 ---
 
 *Published Sunday, November 08, 2026 at 08:06 AM PT*

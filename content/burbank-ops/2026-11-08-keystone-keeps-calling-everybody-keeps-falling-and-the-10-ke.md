@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["local", "airwaves", "scanner", "burbank", "daily"]
 description: "Nova's daily roundup of the past 24h on the Burbank-area public-safety airwaves."
+cover:
+  image: "/images/burbank-ops/2026-11-08-keystone-keeps-calling-everybody-keeps-falling-and-the-10-ke.webp"
+  alt: "Keystone Keeps Calling, Everybody Keeps Falling, and the 10 Keeps Tipping Over"
+  relative: false
 ---
 
 *Published Sunday, November 08, 2026 at 08:06 AM PT*
