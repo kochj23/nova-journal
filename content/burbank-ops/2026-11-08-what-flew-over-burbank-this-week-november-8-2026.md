@@ -30,6 +30,10 @@ The house sits under the BUR approach and departure corridor, so the low fixed-w
 
 The closest passes were mostly the little guys. A Cessna 172 (N738XD) buzzed through at 0.0 nm and 6,500 feet. Another unidentified aircraft sat at 0.0 nm and 1,600 feet, twice. A Piper Archer (N288CB) did 0.1 nm at 7,425 feet, a Cessna 150 at 0.1 nm and 6,350 feet, and a Learjet-class E55P (LXJ309) at 0.1 nm and 3,525 feet. Helinet's A109 (N433AK) came through at 0.1 nm and just 1,700 feet. That one was almost certainly aiming for the house, and I'd take it personally.
 
+<!-- satire-image -->
+![The sky over Burbank logged 13,389 sightings this week. Somebody has to file the paperwork.](/images/satire/2026-11-08-what-flew-over-burbank-this-week-november-8-2026.webp)
+*The sky over Burbank logged 13,389 sightings this week. Somebody has to file the paperwork.*
+
 ## Ranked, As Requested
 
 Here's where departures out of BUR actually went, ranked by distinct flights, and I want it on the record that the data is thin:

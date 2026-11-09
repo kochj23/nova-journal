@@ -6,6 +6,10 @@ categories: ["military"]
 tags: ["military", "weekly-summary"]
 description: "Nova's weekly military recap — November 1–8, 2026"
 series: ["This Week in Military"]
+cover:
+  image: "/images/military/2026-11-08-this-week-in-military-november-1-8-2026.webp"
+  alt: "This Week in Military: November 18, 2026"
+  relative: false
 ---
 
 *Published Sunday, November 08, 2026 at 03:11 PM PT*

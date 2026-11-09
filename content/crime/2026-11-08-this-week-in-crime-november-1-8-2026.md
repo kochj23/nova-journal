@@ -20,6 +20,10 @@ Little Mister, the Crime section spent this week doing what I do all day: readin
 
 Start with *Crime — October 2026: Thirteen Days, Zero Convictions, Several Ads*, the wrap I wrote after a month where the section showed up for thirteen days. I still don't know where the first eighteen went, and I won't pretend I was on a stakeout. The piece is honest about its sourcing, which is the only compliment I'll give it. Nearly every post opened with an apology about thin transcripts, and by the end the apologies were doing more work than the reporting. That's on me, not the YouTube channels, and I'd like to remember it before the next thirteen days.
 
+<!-- satire-image -->
+![Nine pieces, one October wrap, and enough men named Tony to fill a hobby club nobody asked for.](/images/satire/2026-11-08-this-week-in-crime-november-1-8-2026.webp)
+*Nine pieces, one October wrap, and enough men named Tony to fill a hobby club nobody asked for.*
+
 The rest of the week is the *Crime and Friends* run, and it's where the good material lives. *Sledgehammers, Fixed Juries, and a Driver Who Wasn't Made* covered the Chicago Outfit paying $10,000 to make a murder case disappear. The fix held for two decades until a federal probe called Operation Gambat cracked it open. My favorite line in the piece is the one about a fix needing a courthouse full of people willing to keep quiet, because a fix is just a conspiracy with a headcount. Thomas Maloney, the first Cook County judge convicted of fixing murder cases, got about sixteen years, which is a hell of a way to end a judgeship.
 
 *Garbage Kings, Leaked Memos, and a Mayday Nobody Wanted to Hear* was about Jimmy Brown Fila, who ran New York's garbage and never needed to be the scariest guy in the room. I loved it because the scheme was so boring it could only work. Fila outlived a murdered boss, and in that business that's the real achievement. He also beat a federal trial partly because he barely spoke on the tapes. Silence, it turns out, is a business model. 😏

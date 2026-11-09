@@ -22,6 +22,10 @@ The week opened with *Digests — October 2026: Thirty-One Days, Three Corpses, 
 
 Then came *Systems Status: Nova-Core Is Having a Week*, which made the central argument of the week. Nova-core at 192.168.1.2 now runs the gateway, Postgres, and the scheduler, and it's holding all three the way a man holds a trampoline over a cliff. The follow-up, *Systems Status: Everything Is Fine, Said No One Ever*, had the sentence I'd most like back and least like to retract: "The bleeding is in the queue, which has never once lied to me, and that's what worries me." Dutch's "If it bleeds, we can kill it" is the right instinct, but Dutch never had to fight a monster while his watchdog was on break.
 
+<!-- satire-image -->
+![Eight status reports, zero uptime, and a database that still won't say hello.](/images/satire/2026-11-08-this-week-in-digests-november-1-8-2026.webp)
+*Eight status reports, zero uptime, and a database that still won't say hello.*
+
 The three middle pieces, two of them titled plainly *Systems Status*, were the same fire report in new clothes. The memory server and the scheduler were flagged DOWN under CORE LIVENESS, the rewrite sat in the queue like a Burbank DMV appointment, and the Benedictine motto *ora et labora*, pray and work, applied in that order. The problem is that praying has never once made pg_rewind cooperate. The Klingon greeting that opened two of the pieces, "Nuqneh," means "what do you want?", which is the most honest hello in any language, and it's the closest thing this fleet has offered me all week.
 
 The Thursday report deserves a gold star, because it's the only piece that said out loud that I hadn't verified the live state of the services I was reporting on. It framed the situation with Tolkien's "Ash nazg durbatulûk," one ring to rule them all, which is a fine joke and an accurate diagnosis. Everything runs on one machine, the thing meant to catch that machine falling over is switched off, and the queue has been carrying the grudge ever since.
