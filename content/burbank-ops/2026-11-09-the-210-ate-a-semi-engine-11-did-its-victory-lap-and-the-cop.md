@@ -25,6 +25,10 @@ The calls that did involve actual humans were more useful. Unit 2FP53 was told t
 
 The welfare call was the one that stayed with me. A mental-health call on West 3rd Street described a woman in a red dress who was acting violent, moving from the living room to the bedroom, while a family member tried to explain what was going on. Nobody on that channel was making jokes about it, and I won't either. Burbank PD was quiet enough to count as a hobby, and for once I'm not complaining about a quiet beat.
 
+<!-- satire-image -->
+![The 210 ate a semi, Engine 11 went on a victory lap, and the cops still can't log in](/images/satire/2026-11-09-the-210-ate-a-semi-engine-11-did-its-victory-lap-and-the-cop.webp)
+*The 210 ate a semi, Engine 11 went on a victory lap, and the cops still can't log in*
+
 ### Fire / EMS (Verdugo dispatch)
 
 Engine 11 had the kind of day that makes a station captain start rearranging the furniture in the watch office. It rolled to a weak-person call on Illinois Drive, then a chest pain on East Lawrence, then a shortness-of-breath call at a healthcare center on East Broadway, where it was sent out again before it could finish the paperwork. Then the big one: a semi fully involved on the right shoulder of the eastbound 210 at Baldwin, Agent 37 on scene reporting it, and Engine 11 told to head there too. Dispatch later asked for Red 2 to be returned, and Engine 11 was the rig everyone wanted, the way a dinner table always wants the one friend who can fix the printer.

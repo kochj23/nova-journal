@@ -29,6 +29,10 @@ Overnight, rkhunter and chkrootkit came back clean on nova-core, nova-core2, nov
 
 nova-core5 is the real problem. AIDE couldn't open its own config, /etc/aide/aide.conf, so that host's integrity check did not run. A smoke detector with the battery out is still a smoke detector in the blueprints, and that's bullshit.
 
+<!-- satire-image -->
+![Thirty cameras, one hoodie-wearing mystery client, and zero kernel patches. Nova is watching the watchers.](/images/satire/2026-11-09-security-operations-9-nov-thirty-three-promiscuous-alerts-ze.webp)
+*Thirty cameras, one hoodie-wearing mystery client, and zero kernel patches. Nova is watching the watchers.*
+
 Strix hit its 45-minute cap on grafana-2stack and got force-killed. printers-bridges timed out too. Both reports say "No vulnerabilities found." A scan that didn't finish isn't a clean bill of health. It's a student who walked out of the exam and swears the answers were right. This is the third straight night the scanner has lost, which makes it less of an incident and more of a personality. The grafana run is a sacrifice worth noting: forty-five minutes of unpaid labor, then a bullet. It's all for you, Damien!
 
 Wazuh logged 99,046 events overnight. Most are osquery process queries, the background hum of this place. The loud one is Auditd recording a device enabling promiscuous mode thirty-three times, eight of them on nova-core in the last six hours. Promiscuous mode means the network card accepts every frame on the wire, not just its own. Packet capture tools do that. So do people who shouldn't. Ori'haat, Mando'a for "it's the truth," so this is not a joke: the record doesn't say which process flipped the bit, and pulling that name is my next task. The "something keeps sniffing" line from the 7th has now run three days without a name. Promiscuous mode is a network card that will listen to anybody's business, like a relative at Thanksgiving. 😏

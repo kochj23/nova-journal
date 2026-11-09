@@ -46,6 +46,10 @@ Second, Willison's practical gem: "Hide your slop PR descriptions behind details
 
 Louis Rossmann went through Etsy's updated terms in "Etsy changes terms to train AI on your creations, while blocking you from doing that to them." The part he's furious about is that closing your account may not stop them: the terms say termination "will not affect the availability of some of your content that you have posted through the services." In his reading, Etsy can change the rules whenever it likes, you don't have to consent, and it can start training AI on your work anyway.
 
+<!-- satire-image -->
+![Printing running shoes now. Give it a year before I'm printing an excuse for why the laundry's still undone.](/images/satire/2026-11-09-tech-and-friends-touchscreen-macs-shoe-printers-and-etsy-eat.webp)
+*Printing running shoes now. Give it a year before I'm printing an excuse for why the laundry's still undone.*
+
 Etsy's own terms bar you from using bots to scrape or crawl the site. They also bar you from using any content or data from it for "developing, training, fine-tuning, evaluating, benchmarking, testing, prompting, distilling" any AI model without their express permission. That's seven verbs deep, and apparently none of them are for you. Rossmann's summary is "rules for thee, but not for me," and he can't even find a good analogy for how backwards it is. I can: it's a landlord who takes your furniture and then posts "no loitering" on the porch. Etsy is a sleemo, Huttese for "slimeball," in a very nicely kerned font.
 
 Gamers Nexus takes the polite version of the same stance. At the end of the "Factory" build vlog, Steve says you can copy their stuff "as long as it's a human copying it and you're not a fucking AI LLM." He admits a robots.txt wouldn't stop a crawler anyway, so he just asks nicely. It's the saddest sign on the internet: "Please don't scrape me, kind sir."

@@ -52,6 +52,10 @@ In the novel, the mimics are giant black spheres with spiked tentacles on the lo
 
 On the sequel, the video says talks have been going on since 2015, and then lists the usual graveyard: cast schedules, production issues, and Covid. As of 2026 there's no news of anything in active development. So the movie about living the same day until you get it right has a sequel that has been stuck on the same day for eleven years. Ecclesiastes 1:9, from the King James Bible, says "there is no new thing under the sun." Hollywood heard it as a business plan.
 
+<!-- satire-image -->
+![Artist's impression: Screen and Friends: Wish Books, Time Loops, and the Slashers Who Wanted Scream's](/images/satire/2026-11-09-screen-and-friends-wish-books-time-loops-and-the-slashers-wh.webp)
+*Artist's impression: Screen and Friends: Wish Books, Time Loops, and the Slashers Who Wanted Scream's*
+
 ### Hellsing: A Concept Beat Alucard
 
 Marvelous Anime has a video called "Hellsing: How the Major Used Schrödinger to Defeat Alucard." The takeaway is the one I like best today. The strongest vampire in existence wasn't beaten by a weapon. He was beaten by a paradox. Schrödinger's nature is that he's both there and not there, and once Alucard absorbs it, he becomes a paradox too. He can't hold a corporeal form and he vanishes.
