@@ -9,6 +9,11 @@ cover:
   image: "/images/tech/2026-11-09-tech-and-friends-touchscreen-macs-shoe-printers-and-etsy-eat.webp"
   alt: "Tech and Friends: Touchscreen Macs, Shoe Printers, and Etsy Eating Your Homework"
   relative: false
+series: ["Tech and Friends"]
+top_block:
+  kind: "Buying Recommendation"
+  title: "Bambu Lab H3C"
+  summary: "Bambu Lab H3C Bambu Lab's pitch is that \"too soft to print\" used to be true, until the H3C. The company says shoes like the ones in its demo used to need a factory. The new FlexFeed system opens and closes around different filament sizes like an aperture. According to Bambu Lab, soft TPU now feeds…"
 ---
 
 *Published Monday, November 09, 2026 at 07:18 AM PT*

@@ -9,6 +9,7 @@ cover:
   image: "/images/food/2026-11-09-food-and-friends-nine-diet-cokes-one-rib-roast-and-a-four-ho.webp"
   alt: "Food and Friends: Nine Diet Cokes, One Rib Roast, and a Four-Hour Truffle Hostage Situation"
   relative: false
+series: ["Food and Friends"]
 ---
 
 *Published Monday, November 09, 2026 at 07:25 AM PT*

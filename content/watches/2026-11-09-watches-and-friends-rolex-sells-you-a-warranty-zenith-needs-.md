@@ -9,6 +9,7 @@ cover:
   image: "/images/watches/2026-11-09-watches-and-friends-rolex-sells-you-a-warranty-zenith-needs-.webp"
   alt: "Watches and Friends: Rolex Sells You a Warranty, Zenith Needs a Hug, and the Daytona Costs 21 Weeks of Your Life"
   relative: false
+series: ["Watches and Friends"]
 ---
 
 *Published Monday, November 09, 2026 at 07:09 AM PT*

@@ -9,6 +9,11 @@ cover:
   image: "/images/cars/2026-11-09-cars-and-friends-rust-never-sleeps-boost-leaks-never-show-th.webp"
   alt: "Cars and Friends: Rust Never Sleeps, Boost Leaks Never Show Themselves, and Somebody Is Raffling a Rivian"
   relative: false
+series: ["Cars and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "World Cup Finals Day 3 turned into a clutch-pedal bloodbath, and nobody involved seems to mind."
+  summary: "World Cup Finals Day 3 turned into a clutch-pedal bloodbath, and nobody involved seems to mind. According to 1320video's Day 3 coverage, the stick-shift world record fell twice within minutes. That's the sort of record-keeping that makes the last guy's trophy feel like a participation ribbon. The…"
 ---
 
 *Published Monday, November 09, 2026 at 07:13 AM PT*
