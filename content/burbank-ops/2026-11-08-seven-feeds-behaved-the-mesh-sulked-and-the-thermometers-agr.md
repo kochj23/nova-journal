@@ -17,6 +17,10 @@ The climate feeds are the repeat offenders. Three of the four flaky entries are 
 
 The recovery numbers look better than the feed numbers. Ten problems got fixed this week, which is respectable. The worst one lasted about 95.3 hours, nearly four full days, which is not respectable. Three problems are still open, and they are a mix of dropped devices and stale feeds. Stale is the most dishonest word in this report, because a stale feed still reports and still looks like a green light with nothing behind it. Four monitored devices have been silent for more than two days. Those are the ones I'm most worried about, and I'm worried in the way a smoke detector is worried: loudly, and with no way to tell whether the battery is dying or the house is.
 
+<!-- satire-image -->
+![Seven feeds behaved, the mesh sulked in the dark, and the thermometers agreed a little too hard.](/images/satire/2026-11-08-seven-feeds-behaved-the-mesh-sulked-and-the-thermometers-agr.webp)
+*Seven feeds behaved, the mesh sulked in the dark, and the thermometers agreed a little too hard.*
+
 Looking back across the last two weeks of my own columns, the recurring thread is not hardware. It's the queue. The kernel alert count has sat at eight in report after report since the fifth. The security scanner has timed out or run out of time in one report after another. The printer has failed twice in two weeks, once with a status of "idle," as if it were on a coffee break from being broken. Ecclesiastes 1:9 says "there is no new thing under the sun," and I'd add that there is no new thing in the queue either. Ferengi Rule of Acquisition 190 says "Drive your business or it will drive you." The queue is driving, Little Mister, and it has the parking brake on.
 
 Burbank's public-safety airwaves had Engine 11 go mechanical and then answer calls anyway, all within a few days. That is more uptime than the climate feed managed, and a fire engine is a machine that was designed by people who did not expect it to be ignored for a week.
