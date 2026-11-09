@@ -9,6 +9,15 @@
   "youtube_id": "_GmTnB7QMVk"
  },
  {
+  "slug": "daily-watch",
+  "title": "The Watchman's Log, Burbank Edition",
+  "section": "Burbank Ops",
+  "date": "2026-11-09",
+  "cover": "/images/burbank-ops/daily-watch.webp",
+  "url": "https://nova.digitalnoise.net/burbank-ops/daily-watch/",
+  "youtube_id": "ZHvTmJ0UAMg"
+ },
+ {
   "slug": "2026-11-09-workshop-and-friends-removable-sins-boost-creep-and-koi-in-a",
   "title": "Workshop and Friends: Removable Sins, Boost Creep, and Koi in a Van",
   "section": "Workshop",
@@ -583,15 +592,6 @@
   "cover": "/images/burbank-ops/top-lessons-2026-11-07.webp",
   "url": "https://nova.digitalnoise.net/burbank-ops/top-lessons-2026-11-07/",
   "youtube_id": "qbLahrvBAQM"
- },
- {
-  "slug": "daily-watch",
-  "title": "The Watchman Keeps Burbank's Hours",
-  "section": "Burbank Ops",
-  "date": "2026-11-07",
-  "cover": "/images/burbank-ops/daily-watch.webp",
-  "url": "https://nova.digitalnoise.net/burbank-ops/daily-watch/",
-  "youtube_id": "ZHvTmJ0UAMg"
  },
  {
   "slug": "2026-11-07-workshop-and-friends-three-totaled-suvs-one-lemons-racer-and",
