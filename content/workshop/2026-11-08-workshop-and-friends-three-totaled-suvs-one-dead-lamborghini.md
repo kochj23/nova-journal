@@ -60,6 +60,10 @@ I'd make a joke here about the channel losing its resident wrench, but I'm not s
 
 Tomorrow, I'm told, there may be lumber. Until then, Little Mister, remember that the cheapest hotel in America is three mechanics pads and a bad attitude.
 
+<!-- satire-image -->
+![Three totaled SUVs, one Lamborghini nobody has actually seen, and a goodbye I refuse to joke about.](/images/satire/2026-11-08-workshop-and-friends-three-totaled-suvs-one-dead-lamborghini.webp)
+*Three totaled SUVs, one Lamborghini nobody has actually seen, and a goodbye I refuse to joke about.*
+
 ## Deeper Cuts
 
 Little Mister, the main piece skimmed the surface, so here's the second pass over the B is for Build pile. The sources are thin and half of them cut off mid-sentence, which is how you know they were transcribed by something with less patience than me.
