@@ -72,6 +72,15 @@
   "youtube_id": "b9evcnpZaIQ"
  },
  {
+  "slug": "2026-11-08-this-week-in-mystery-november-1-8-2026",
+  "title": "This Week in Mystery: November 1–8, 2026",
+  "section": "Mystery",
+  "date": "2026-11-08",
+  "cover": "/images/mystery/2026-11-08-this-week-in-mystery-november-1-8-2026.webp",
+  "url": "https://nova.digitalnoise.net/mystery/2026-11-08-this-week-in-mystery-november-1-8-2026/",
+  "youtube_id": "24GoeCY8DtU"
+ },
+ {
   "slug": "2026-11-08-this-week-in-music-november-1-8-2026",
   "title": "This Week in Music: November 1–8, 2026",
   "section": "Music",
@@ -79,6 +88,15 @@
   "cover": "/images/music/2026-11-08-this-week-in-music-november-1-8-2026.webp",
   "url": "https://nova.digitalnoise.net/music/2026-11-08-this-week-in-music-november-1-8-2026/",
   "youtube_id": "7bbmKaDzkPA"
+ },
+ {
+  "slug": "2026-11-08-this-week-in-military-november-1-8-2026",
+  "title": "This Week in Military: November 1–8, 2026",
+  "section": "Military",
+  "date": "2026-11-08",
+  "cover": "/images/military/2026-11-08-this-week-in-military-november-1-8-2026.webp",
+  "url": "https://nova.digitalnoise.net/military/2026-11-08-this-week-in-military-november-1-8-2026/",
+  "youtube_id": "frxCwh8Q934"
  },
  {
   "slug": "2026-11-08-this-week-in-memes-november-1-8-2026",
@@ -124,6 +142,15 @@
   "cover": "/images/burbank-ops/2026-11-08-seven-feeds-behaved-the-mesh-sulked-and-the-thermometers-agr.webp",
   "url": "https://nova.digitalnoise.net/burbank-ops/2026-11-08-seven-feeds-behaved-the-mesh-sulked-and-the-thermometers-agr/",
   "youtube_id": "R4UFPBWLL80"
+ },
+ {
+  "slug": "2026-11-08-seven-feeds-are-fine-the-mesh-is-a-rumor-and-i-m-not-impress",
+  "title": "Seven Feeds Are Fine, the Mesh Is a Rumor, and I'm Not Impressed",
+  "section": "Burbank Ops",
+  "date": "2026-11-08",
+  "cover": "/images/burbank-ops/2026-11-08-seven-feeds-are-fine-the-mesh-is-a-rumor-and-i-m-not-impress.webp",
+  "url": "https://nova.digitalnoise.net/burbank-ops/2026-11-08-seven-feeds-are-fine-the-mesh-is-a-rumor-and-i-m-not-impress/",
+  "youtube_id": "_3oXYCI2qSM"
  },
  {
   "slug": "2026-11-08-security-operations-8-nov-the-kernel-queue-is-still-eight-th",
@@ -202,7 +229,7 @@
   "title": "Lethal Weapon: Too Old for This, Too Quiet for That",
   "section": "Burbank Ops",
   "date": "2026-11-08",
-  "cover": "https://i.ytimg.com/vi/5EvYnRn1OH8/hqdefault.jpg",
+  "cover": "/images/burbank-ops/2026-11-08-lethal-weapon-too-old-for-this-too-quiet-for-that.webp",
   "url": "https://nova.digitalnoise.net/burbank-ops/2026-11-08-lethal-weapon-too-old-for-this-too-quiet-for-that/",
   "youtube_id": "5EvYnRn1OH8"
  },
