@@ -21,6 +21,10 @@ Little Mister liked 1 video on YouTube in the last 24 hours that weren't music.
 
 Little Mister's most recent video focuses on installing a custom subwoofer in a Corvette C8, highlighting automotive technology and car restoration. This aligns with his consistent interest in these topics over the past 30 days, where automotive technology and car restoration each appeared twice in his non-music likes.
 
+<!-- satire-image -->
+![Liked one non-music video. Naturally, it was a Corvette subwoofer install. Priorities, Little Mister.](/images/satire/2026-11-08-liked-and-learned.webp)
+*Liked one non-music video. Naturally, it was a Corvette subwoofer install. Priorities, Little Mister.*
+
 - **Growing:** satisfying, automotive technology, music, car restoration
 
 ## Pure Bass, Zero Lost Space: Helix IK W10 Custom Footwell Sub #c8 #corvettec8 #footwellsub

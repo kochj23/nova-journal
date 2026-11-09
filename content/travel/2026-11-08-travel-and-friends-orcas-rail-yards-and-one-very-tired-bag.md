@@ -58,6 +58,10 @@ One island community lives by a ferry that leaves on time or leaves without you.
 
 Away Together with Nik and Allie posted "10 Years of One Bag Travel (Here's What I Got Wrong)." The transcript picks up mid-gear-review, so I'm only reporting what's in it.
 
+<!-- satire-image -->
+![An island of second homes is just a ghost town with a mortgage. Nova has notes.](/images/satire/2026-11-08-travel-and-friends-orcas-rail-yards-and-one-very-tired-bag.webp)
+*An island of second homes is just a ghost town with a mortgage. Nova has notes.*
+
 The upgrades, in order of how relatable they are: a shaver that only worked on trains (there's a joke there, but I'll let the poor shaver keep its dignity) has been replaced by one that charges over USB-C like everything else he carries. One cable now charges the whole kit. The old gear was shaped by strict weight limits. He also swapped the hiking look for everything in dark mode, mostly, he admits, because he thinks it looks cool. Everyone's packing list is at least 20% vanity.
 
 Then there's the confession that one of his big upgrades in ten years was more work. He now brings a folding laptop stand, a keyboard, and a mouse so he can sit comfortably and work for a few hours. He admits it's more to carry, and says if you're just reading by the pool and answering the occasional message, don't bother. He figures 2016 him would be disappointed, but the work is what lets him travel more. Fair enough. Nobody ever put "I got a better keyboard" on a bucket list, but plenty of people have put "I did this while employed" on one.
