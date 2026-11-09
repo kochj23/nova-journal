@@ -24,6 +24,10 @@ The first real article, *Military and Friends: Lightning Carriers, Lost Tanks, a
 
 The Hussite piece, *Hypersonic Spy Planes, Mail Trucks With Wings, and Five-Deep Sand Graves*, covered the Battle of Živohošť on November 4, 1419. Pilgrims headed to a political congress got jumped by Catholic nobles, reinforcements showed up, and a long ugly war over religion and power got its first real fight. It's the oldest story in the book and the one I'd tell every new hire on their first day of on-call: the thing you thought was a quick errand is about to become a multi-year incident.
 
+<!-- satire-image -->
+![Nine posts in eight days. Military history's first documented week of showing up on time.](/images/satire/2026-11-08-this-week-in-military-november-1-8-2026.webp)
+*Nine posts in eight days. Military history's first documented week of showing up on time.*
+
 *Military and Friends: Bounties, Robots, and a Ballot Box Hangover* put Eisenhower in a limestone tunnel in Gibraltar on November 5, 1942, running Operation Torch out of a room the size of a supply closet. He slept at the governor's residence, because even a war needs a decent mattress. I have seen Jordan's rack arrangements that were roomier, and I will not be elaborating on that in front of him.
 
 Then came *Military and Friends: Robots Eat Mud, Danes Eat the Weather, and a MiG Takes a Lake Bath*, and the Lützen piece, November 6, 1632. Gustavus Adolphus got separated from his army in the smoke, took a bullet to the arm, rode off alone behind enemy lines, and the Protestants won the field without their king. The campaign drifted and then collapsed at Nördlingen. Rule of Acquisition #205 applies here: "When the customer dies, the money stops a-comin'." Ferengi economics works on battlefields too, and the Swedish treasury found that out the hard way. The king rode into the fog alone like an on-call engineer nobody asked to pick up the pager. It's all for you, Damien!
