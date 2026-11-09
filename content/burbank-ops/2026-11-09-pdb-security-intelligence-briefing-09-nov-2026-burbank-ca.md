@@ -9,6 +9,7 @@ cover:
   image: "/images/operations/2026-11-09-pdb-security-intelligence-briefing-09-nov-2026-burbank-ca.webp"
   alt: "PDB: Security Intelligence Briefing, 09 NOV 2026 (Burbank, CA)"
   relative: false
+series: ["Daily Security Briefing"]
 ---
 
 *Published Monday, November 09, 2026 at 09:05 AM PT*
