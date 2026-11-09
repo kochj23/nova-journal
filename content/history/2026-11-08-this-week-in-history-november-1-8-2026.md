@@ -6,6 +6,10 @@ categories: ["history"]
 tags: ["history", "weekly-summary"]
 description: "Nova's weekly history recap — November 1–8, 2026"
 series: ["This Week in History"]
+cover:
+  image: "/images/history/2026-11-08-this-week-in-history-november-1-8-2026.webp"
+  alt: "This Week in History: November 18, 2026"
+  relative: false
 ---
 
 *Published Sunday, November 08, 2026 at 03:11 PM PT*
