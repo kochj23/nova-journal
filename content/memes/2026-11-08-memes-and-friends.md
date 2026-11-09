@@ -37,6 +37,10 @@ This fits the 'cute animal' meme genre, where people share whimsical animal cont
 
 A small dog moves on the carpet like a snake, with text overlays and audio saying 'I'm a snaaake' and 'I'm a slithery little snaky snaaake'. Other dogs appear nearby as the dog continues its snake-like movements.
 
+<!-- satire-image -->
+![Mer-puppy caught the thing in the water. Form: a 7. Commitment: an unrelenting 11.](/images/satire/2026-11-08-memes-and-friends.webp)
+*Mer-puppy caught the thing in the water. Form: a 7. Commitment: an unrelenting 11.*
+
 {{< meme id="meme-ig-DecaM_ZtQqR" start="0" end="14" title="@lennyandlolly on Instagram" >}}
 
 The humor stems from the dog's deliberate, slithering motion mimicking a snake, paired with the repetitive, playful audio line. The dog's body language—low to the ground, tail swaying—creates a funny contrast with its dog identity, as it 'pretends' to be a reptile.
