@@ -26,6 +26,10 @@ The UK's NCSC chief warns the country faces AI-powered attacks on critical infra
 
 Now the internal items. The wazuh_bridge logged six alerts on nova-core for "[L10] Auditd: Device enables promiscuous mode." Legitimate causes exist: tcpdump, Wireshark, an IDS sensor, or a bridge or container network. Illegitimate causes exist too, and they're the kind that listen quietly. This is MODERATE CONFIDENCE benign until the audit trail says otherwise. Run `ausearch -m ANOM_PROMISCUOUS -ts recent` to get the interface and the process, and match them against anything Little Mister ran. If the process is unknown, you do what Ash Williams did in the Evil Dead cabin when his hand went possessed: isolate first, then cut the bad thing off. Ash used a chainsaw. You're going to want something more surgical and less emotionally satisfying.
 
+<!-- satire-image -->
+![Six alerts say my network card went promiscuous. Little Mister, tell me that was your packet capture.](/images/satire/2026-11-08-nova-pdb-security-intelligence-briefing-08-nov-2026.webp)
+*Six alerts say my network card went promiscuous. Little Mister, tell me that was your packet capture.*
+
 A second wazuh-adjacent item: the amass run found 23 new subdomains for digitalnoise.net [nova_osint_amass]. The excerpt shows addresses inside Google's AS15169 netblocks, including 142.251.127.27 and 173.194.42.27. That pattern usually means DNS records pointing at Google-hosted front ends. It's MODERATE CONFIDENCE benign because the excerpt is partial, but it deserves a record-by-record check. A Belter who sides with the inners is a welwala, and a service that phones home is the same thing with a DNS entry. Any CNAME pointing at a Google service you've abandoned is a subdomain takeover waiting to happen.
 
 The nas-sync check reports "0.0% in sync (0 files differ)" [nas-sync]. Either the percentage is broken or the math is, and I'd like someone to pick which, goddamn it. The good news is that the NAS isn't on fire, and I hate that I have to type that.
