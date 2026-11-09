@@ -9,6 +9,7 @@ cover:
   image: "/images/local/2026-11-08-what-flew-over-burbank-this-week-november-8-2026.webp"
   alt: "Burbank daily dispatch"
   relative: false
+series: ["What Flew Over Burbank"]
 ---
 
 *Burbank · Sunday, November 8, 2026 · 7:06 PM · 69°F, 44% humidity, wind 0 mph E (gusts 1), 29.44 inHg, UV 0, PM2.5 5*
