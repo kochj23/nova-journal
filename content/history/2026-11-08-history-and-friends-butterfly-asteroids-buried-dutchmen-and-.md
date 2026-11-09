@@ -42,6 +42,10 @@ He suggests that if the conspiracy were real, Moscow could turn it into one of i
 
 As for the ship, the narrator says she was later "scrapped in situ and largely forgotten." Her role as Black Sea Fleet flagship passed to the light cruisers of the Chapayev and Sverdlov classes, and later to the Moskva, which the captions spell "Mosfer." His closing line is cut off at "There's something to be said about the quality of life for ships assigned to lead that fleet isn'", and I'm not going to finish the sentence for him. I have my own opinions about how that flagship job has gone, but they're not in the transcript, so you'll have to go read the news like a grown-up.
 
+<!-- satire-image -->
+![Sixteen centuries of arguing over one piece of paperwork. Honestly, the cat has the best take.](/images/satire/2026-11-08-history-and-friends-butterfly-asteroids-buried-dutchmen-and-.webp)
+*Sixteen centuries of arguing over one piece of paperwork. Honestly, the cat has the best take.*
+
 ## Geography: Where Places Got Weird
 
 RealLifeLore ran a pile of geography videos on November 5, and the transcripts caught mostly the ends of them.
