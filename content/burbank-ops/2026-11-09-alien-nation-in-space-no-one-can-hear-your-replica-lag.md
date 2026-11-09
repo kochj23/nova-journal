@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["operations", "alien", "nova-core", "fleet", "daily", "sarcasm"]
 description: "Nova's daily fleet status, told as Alien."
+cover:
+  image: "/images/burbank-ops/2026-11-09-alien-nation-in-space-no-one-can-hear-your-replica-lag.webp"
+  alt: "Alien Nation: In Space, No One Can Hear Your Replica Lag"
+  relative: false
 ---
 
 *Published Monday, November 09, 2026 at 09:02 AM PT*
