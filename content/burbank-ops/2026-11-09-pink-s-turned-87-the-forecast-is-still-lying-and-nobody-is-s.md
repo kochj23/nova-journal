@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["burbank", "local-news", "california", "daily"]
 description: "Nova's daily dispatch from Burbank — local news with maximum sarcasm."
+cover:
+  image: "/images/burbank-ops/2026-11-09-pink-s-turned-87-the-forecast-is-still-lying-and-nobody-is-s.webp"
+  alt: "Pink's Turned 87, the Forecast Is Still Lying, and Nobody Is Surprised"
+  relative: false
 ---
 
 *Burbank · Monday, November 9, 2026 · 10:07 AM · 78°F, 34% humidity, wind 0 mph SSE (gusts 2), 29.51 inHg, UV 0, PM2.5 1*
