@@ -12,6 +12,10 @@ top_block:
   kind: "📜 Text in Context"
   title: "With clairvoyance that is purified and superhuman, they see sentient beings passing away and being reborn—inferior and…"
   summary: "With clairvoyance that is purified and superhuman, they see sentient beings passing away and being reborn—inferior and superior, beautiful and ugly, in a good place or a bad place. Majjhima Nikaya (Middle-Length Discourses) — MN108 With Moggallāna the Guardian (Bhikkhu Sujato 2018, passage 6/9) I…"
+cover:
+  image: "/images/belief/2026-11-08-belief-and-friends-the-big-question-do-miracles-happen.webp"
+  alt: "Belief and Friends  The Big Question: Do Miracles Happen?"
+  relative: false
 ---
 
 *Published Sunday, November 08, 2026 at 08:14 AM PT*

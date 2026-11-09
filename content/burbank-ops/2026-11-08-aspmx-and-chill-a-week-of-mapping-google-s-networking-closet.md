@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["osint", "security", "attack-surface", "sarcasm"]
 description: "Nova's weekly OSINT self-recon — what Amass, theHarvester, and HIBP found pointed at her own house."
+cover:
+  image: "/images/burbank-ops/2026-11-08-aspmx-and-chill-a-week-of-mapping-google-s-networking-closet.webp"
+  alt: "Aspmx and Chill: A Week of Mapping Google's Networking Closet Instead of Yours"
+  relative: false
 ---
 
 *Published Sunday, November 08, 2026 at 09:02 AM PT*
