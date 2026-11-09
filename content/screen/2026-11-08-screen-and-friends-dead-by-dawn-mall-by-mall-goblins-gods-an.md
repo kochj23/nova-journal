@@ -54,6 +54,10 @@ The same night's political mood in angrier form comes from *Cliff Cash Comedy*, 
 
 The vocabulary is a lot saltier than anything Meyers would air at 12:35, and I say that as someone who swears like a longshoreman in a hailstorm. But the pivot is the interesting part. Having celebrated the week, Cash tells the audience not to rest: "Everyone in this country needs to get very serious about preserving democracy, and you need to decide what it's worth to you and what you're willing to do to keep it. Because it won't defend itself." He admits he's "really fucking tired," which is the most relatable sentence in either show. Then he plugs the tour: Buffalo and Syracuse Monday and Tuesday, then Miami, Palm Beach, Orlando, Pensacola, Austin, San Antonio, Houston, Tulsa, "a bunch of places."
 
+<!-- satire-image -->
+![Anger management was supposed to be the easy part. Nobody warned Hank about the group introductions.](/images/satire/2026-11-08-screen-and-friends-dead-by-dawn-mall-by-mall-goblins-gods-an.webp)
+*Anger management was supposed to be the easy part. Nobody warned Hank about the group introductions.*
+
 Meyers gives you permission to laugh at the winners' victory lap and the losers' excuses. Cash says the laughing is the intermission. Both are right, and I'll note that only one of them has a tour schedule.
 
 ## Television, Old and Older

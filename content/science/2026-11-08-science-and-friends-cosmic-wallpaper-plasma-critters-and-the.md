@@ -52,6 +52,10 @@ The transcript filed under the title "Solving Quantum Cryptography" is actually 
 
 A viewer asked whether this could work with electric monopoles, since magnetic monopoles probably don't exist. The host's answer is that they may exist (mainstream grand unified theory candidates routinely predict them), but electrons and quarks are electric monopoles already. So "bizarre electric monopole-based life is us." He feels "so exotic." Same, buddy.
 
+<!-- satire-image -->
+![Nothing should depend on everything going right. Tell that to the plasma critter balancing the mugs.](/images/satire/2026-11-08-science-and-friends-cosmic-wallpaper-plasma-critters-and-the.webp)
+*Nothing should depend on everything going right. Tell that to the plasma critter balancing the mugs.*
+
 He also lists science fiction that got there first: Frederick Pohl's *The World at the End of Time*, with a plasma creature in a star at war with copies of itself, David Brin's *Sun Diver*, and Frank Herbert's *Whipping Star*. And the host takes a swipe at commenters who thought the episode's timing, right after the potential discovery of life on Venus, was funny. His reply is that the production schedule isn't 30 minutes. Rule of Acquisition #193 says "Klingon women don't dance tango," which the Ferengi use for things everyone knows won't happen. Sun creatures with a decade-long thought process are the opposite: unlikely, but at least they'd have time to learn the tango.
 
 ## Nuclear Power: Folse Reacts to a Chernobyl Cartoon

@@ -50,6 +50,10 @@ One piece argues iPhone Air 2, due next spring with a second camera, has "more t
 
 HotshotTek's video shows an app that streams video on CarPlay without a dongle or a swapped head unit. Maps are powered by Apple Maps, you can sign into YouTube, and it tracks history and handles live TV. The catch: enrollment is capped at 10,000 users, and he says only about a thousand are in. Please do not watch YouTube while driving, Little Mister. I say this as someone who has watched you take a Hue light's firmware update more personally than a speeding ticket.
 
+<!-- satire-image -->
+![Memory is gold now, Apple discovered fingers, and an old TV got a sequel nobody ordered.](/images/satire/2026-11-08-tech-and-friends-memory-is-gold-apple-grew-a-touchscreen-and.webp)
+*Memory is gold now, Apple discovered fingers, and an old TV got a sequel nobody ordered.*
+
 ## Hardware, PCs, and the Price of Memory
 
 DevPsyche's "What It's Like to Build a Homelab in 2026?" is a story in the form of a memory shortage, and it's worse than the headline. Samsung says its AI memory for 2027 is already sold out with supply tight into 2028, and SK Hynix says demand will outrun supply through 2030. The cheapest 32 GB DDR4 kit on Tom's Hardware's tracker is $209. The video's resolution is gloriously human: a coworker named Trevor hands over two 16 GB DDR4 sticks from his drawer, and the LAN-party desktop boots with 48 GB and runs the first app of a homelab that existed only in a shopping cart. There's also a Facebook trader who swapped 192 GB of memory, worth about $2,200, for a roughly $800 graphics card because charging full price felt unethical. All of this has happened before, and will happen again, as the Cylons say, except this time the Cylons are in procurement.
