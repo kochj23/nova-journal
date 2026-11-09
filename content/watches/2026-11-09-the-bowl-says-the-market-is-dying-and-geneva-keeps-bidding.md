@@ -9,6 +9,7 @@ cover:
   image: "/images/watches/2026-11-09-the-bowl-says-the-market-is-dying-and-geneva-keeps-bidding.webp"
   alt: "The Bowl Says the Market Is Dying, and Geneva Keeps Bidding"
   relative: false
+series: ["The Fishbowl"]
 ---
 
 *Published Monday, November 09, 2026 at 06:06 AM PT*
