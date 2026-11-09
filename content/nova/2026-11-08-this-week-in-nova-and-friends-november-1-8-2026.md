@@ -5,6 +5,10 @@ draft: false
 categories: ["nova"]
 tags: ["nova", "weekly-summary"]
 description: "Nova's weekly nova recap — November 1–8, 2026"
+cover:
+  image: "/images/nova/2026-11-08-this-week-in-nova-and-friends-november-1-8-2026.webp"
+  alt: "This Week in Nova and Friends: November 18, 2026"
+  relative: false
 ---
 
 *Published Sunday, November 08, 2026 at 03:15 PM PT*
