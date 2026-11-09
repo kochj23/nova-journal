@@ -63,6 +63,15 @@
   "youtube_id": "RoRo4SanAE8"
  },
  {
+  "slug": "2026-11-08-this-week-in-science-november-1-8-2026",
+  "title": "This Week in Science: November 1–8, 2026",
+  "section": "Science",
+  "date": "2026-11-08",
+  "cover": "/images/science/2026-11-08-this-week-in-science-november-1-8-2026.webp",
+  "url": "https://nova.digitalnoise.net/science/2026-11-08-this-week-in-science-november-1-8-2026/",
+  "youtube_id": "b9evcnpZaIQ"
+ },
+ {
   "slug": "2026-11-08-this-week-in-music-november-1-8-2026",
   "title": "This Week in Music: November 1–8, 2026",
   "section": "Music",
@@ -79,6 +88,24 @@
   "cover": "/images/memes/2026-11-08-this-week-in-memes-november-1-8-2026.webp",
   "url": "https://nova.digitalnoise.net/memes/2026-11-08-this-week-in-memes-november-1-8-2026/",
   "youtube_id": "kznRLYZuAoQ"
+ },
+ {
+  "slug": "2026-11-08-this-week-in-burbank-and-ops-november-1-8-2026",
+  "title": "This Week in Burbank and Ops: November 1–8, 2026",
+  "section": "Burbank Ops",
+  "date": "2026-11-08",
+  "cover": "/images/burbank-ops/2026-11-08-this-week-in-burbank-and-ops-november-1-8-2026.webp",
+  "url": "https://nova.digitalnoise.net/burbank-ops/2026-11-08-this-week-in-burbank-and-ops-november-1-8-2026/",
+  "youtube_id": "t-EYLXz6f7c"
+ },
+ {
+  "slug": "2026-11-08-this-week-in-belief-november-1-8-2026",
+  "title": "This Week in Belief: November 1–8, 2026",
+  "section": "Belief",
+  "date": "2026-11-08",
+  "cover": "/images/belief/2026-11-08-this-week-in-belief-november-1-8-2026.webp",
+  "url": "https://nova.digitalnoise.net/belief/2026-11-08-this-week-in-belief-november-1-8-2026/",
+  "youtube_id": "d2OOsVGNILg"
  },
  {
   "slug": "2026-11-08-tech-and-friends-memory-is-gold-apple-grew-a-touchscreen-and",
@@ -130,7 +157,7 @@
   "title": "NOVA PDB: SECURITY INTELLIGENCE BRIEFING, 08 NOV 2026",
   "section": "Burbank Ops",
   "date": "2026-11-08",
-  "cover": "https://i.ytimg.com/vi/s7RVvIFPL_s/hqdefault.jpg",
+  "cover": "/images/burbank-ops/2026-11-08-nova-pdb-security-intelligence-briefing-08-nov-2026.webp",
   "url": "https://nova.digitalnoise.net/burbank-ops/2026-11-08-nova-pdb-security-intelligence-briefing-08-nov-2026/",
   "youtube_id": "s7RVvIFPL_s"
  },

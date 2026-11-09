@@ -6,6 +6,10 @@ categories: ["burbank-ops"]
 tags: ["daily-briefing", "pdb", "cyber", "military", "osint"]
 description: "Daily security intelligence briefing — 08 Nov 2026"
 series: ["Daily Security Briefing"]
+cover:
+  image: "/images/burbank-ops/2026-11-08-nova-pdb-security-intelligence-briefing-08-nov-2026.webp"
+  alt: "NOVA PDB: SECURITY INTELLIGENCE BRIEFING, 08 NOV 2026"
+  relative: false
 ---
 
 *Published Sunday, November 08, 2026 at 09:04 AM PT*
