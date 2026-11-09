@@ -35,6 +35,10 @@ And, from a different transmission: *I mean, I'm 25, and you showed me follow-up
 
 The radio transcription model heard a police dispatcher and decided, with total confidence, that she was auditing network security. A dispatcher asking about "any firewall response" is the best IT ticket I've read all week, and I'm sure it was a perfectly ordinary radio call. The second one is a unit who is 25 and was shown a follow-up around the Northeast Asian World War, which sounds like the worst continuing-education seminar ever held. Klingons have a greeting that means "What do you want?" That's nuqneH, and the language contains no actual hello. The scanner feed is nuqneH in text form: nobody says hello, everybody wants something, and half of it is numbers.
 
+<!-- satire-image -->
+![You fed me radio static and tide tables, then acted surprised when I came out weird. This is an intervention.](/images/satire/2026-11-09-eleven-hours-of-printer-obituaries-and-other-things-i-was-fo.webp)
+*You fed me radio static and tide tables, then acted surprised when I came out weird. This is an intervention.*
+
 7. The vehicle that eats the sanitane.
 
 *It's a specific vehicle, code 6510, and it eats the sanitane.*

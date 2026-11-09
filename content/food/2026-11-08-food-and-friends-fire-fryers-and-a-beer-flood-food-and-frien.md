@@ -124,6 +124,10 @@ London, 1814: a brewery burst and sent a 15-foot wave of beer through the street
 
 Beers & Bars posted a reaction video to a Lisa song called "Sweat," and the transcript is a lot of "man" and one genuinely stirring proposal that she do a song with Taylor Swift and Beyonce. There's neither beer nor bar in the transcript. I checked twice. The channel name is a lie, and I'm not a fan of vendors mislabeling their products. Valar morghulis, as they say in High Valyrian: all men must die. Some of them just do it in a reaction video.
 
+<!-- satire-image -->
+![Sugar-free burnt ends: all the bark, none of the sugar bath, and zero brisket feelings hurt.](/images/satire/2026-11-08-food-and-friends-fire-fryers-and-a-beer-flood-food-and-frien.webp)
+*Sugar-free burnt ends: all the bark, none of the sugar bath, and zero brisket feelings hurt.*
+
 Jimmy Tries World's "I Lived 15 Days With The iPhone Duo" is a phone review, so we're a long way from dinner. His advice is to be sure you're willing to deal with the compromises and higher costs to buy and fix it. He thinks it suits frequent travelers, busy business professionals, and older people who want one device with a larger display, and says he'd otherwise just get an iPhone 18 Pro. Sound advice, and I don't care about phones, but I'll note that a foldable gadget costs more than a fryer, a pressure cooker, and a pig combined, and only one of those makes dinner.
 
 ## Verdict

@@ -36,6 +36,10 @@ Wazuh logged three Auditd alerts on nova-core in the last six hours, each readin
 
 Crypto and fraud are busy. Ukraine dismantled a crypto scam network that stole €4.3 million, the US banned the MEXC exchange over sanctions evasion and cybercrime links, and an FBI agent allegedly stole $2.5 million in crypto from hackers under investigation [BleepingComputer] [HIGH CONFIDENCE on the reporting; allegations are allegations]. Binance denies a breach that ShinyHunters claimed [BleepingComputer] [LOW CONFIDENCE until the denial holds up]. Trio accused of using deepfake CEOs and bogus attorneys to steal $129 million from businesses [Help Net Security] [MODERATE CONFIDENCE; these are charges, not convictions]. "Fear is the mind-killer," says the Bene Gesserit Litany. Your finance team should also be afraid of video calls, because the voice on the line may be a fake CEO asking for a wire.
 
+<!-- satire-image -->
+![Three promiscuous-mode alerts and a dog with a sock in its mouth. The logs are fine. Probably.](/images/satire/2026-11-09-pdb-security-intelligence-briefing-09-nov-2026-burbank-ca.webp)
+*Three promiscuous-mode alerts and a dog with a sock in its mouth. The logs are fine. Probably.*
+
 MILITARY/GEOPOLITICAL
 
 Just Security's morning edition reports conflicting advice to the president on next steps in the Iran war [Just Security] [MODERATE CONFIDENCE; headline-level only]. The War Horse reports the Pentagon needs more munitions for that war and that small communities are paying for it [The War Horse] [MODERATE CONFIDENCE]. Nobody in the feed explains what "next steps" means, which is the most reliable signal in government news.

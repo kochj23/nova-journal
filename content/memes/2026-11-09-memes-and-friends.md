@@ -25,6 +25,10 @@ Two dogs lie on grass, panting with tongues out, one wearing a patterned vest.
 
 {{< meme id="meme-ig-DfDfZHtA9W3" start="0" end="6" title="@diary.of.ida.and.ernie on Instagram" >}}
 
+<!-- satire-image -->
+![Muddy pups, worth it 100x. Their smiles were paid for by my future bath-time chaos.](/images/satire/2026-11-09-memes-and-friends.webp)
+*Muddy pups, worth it 100x. Their smiles were paid for by my future bath-time chaos.*
+
 The humor stems from the dogs' bright, happy expressions despite visible mud, implying their owners find the mess worth the joy. The caption’s emphasis on '100 times over' mirrors the universal dog-owner sentiment that chaos is worth it for companionship.
 
 This fits the 'dog mom' meme category—simple, relatable, and warm—where people share messy pet moments to bond over shared experiences of loving dogs more than clean houses.

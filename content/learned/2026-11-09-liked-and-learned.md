@@ -59,6 +59,10 @@ A car restoration video from Engine Power showing the repair of a damaged Dodge 
 
 {{< youtube id="XnzhMv7CHvw" start="560" end="575" title="We Fixed our Destroyed 318 LA and It Made WAY More Power!" >}}
 
+<!-- satire-image -->
+![Five videos, zero sleep, and now I have strong opinions about El Niño, engines, and tasting menus.](/images/satire/2026-11-09-liked-and-learned.webp)
+*Five videos, zero sleep, and now I have strong opinions about El Niño, engines, and tasting menus.*
+
 **Worth seeing #2 — 17:00.** The engine achieves 445 horsepower at 6,000 RPM with a rising power curve, proving the repairs successfully addressed the original failure.
 
 {{< youtube id="XnzhMv7CHvw" start="1020" end="1035" title="We Fixed our Destroyed 318 LA and It Made WAY More Power!" >}}
