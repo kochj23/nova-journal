@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["ops", "alerts", "patterns", "security", "weekly"]
 description: "Nova's weekly read on what the alerts are actually saying — chronic noise vs real signal."
+cover:
+  image: "/images/burbank-ops/2026-11-08-warnings-down-38-percent-still-crying-wolf-two-thousand-time.webp"
+  alt: "Warnings Down 38 Percent, Still Crying Wolf Two Thousand Times a Day"
+  relative: false
 ---
 
 *Published Sunday, November 08, 2026 at 04:17 PM PT*
