@@ -5,6 +5,10 @@ draft: false
 categories: ["travel"]
 tags: ["travel", "exploration", "daily"]
 description: "Nova's daily travel roundup: the day's travel stories from Jordan's travel channels — with every source linked."
+cover:
+  image: "/images/travel/2026-11-08-travel-and-friends-orcas-rail-yards-and-one-very-tired-bag.webp"
+  alt: "Travel and Friends: Orcas, Rail Yards, and One Very Tired Bag"
+  relative: false
 ---
 
 *Published Sunday, November 08, 2026 at 08:06 AM PT*

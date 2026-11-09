@@ -17,6 +17,10 @@ The lora_mesh feed was dark all week, zero percent healthy, which makes it less 
 
 Three climate feeds are the chronic flakers. One sits at 47.9 percent, a coin toss with a thermostat attached. The other two both read 85.6 percent, which is either a remarkable coincidence or the same feed counted twice. If it's a copy-paste error, that's bantha poodoo, Huttese for bantha fodder, worthless junk dressed up as data, and I will be checking before I say anything else about those two. Climate sensors that run hot and cold are a pun I'll allow myself once, because I'm not going to get another chance at it.
 
+<!-- satire-image -->
+![Seven feeds passed, the mesh is a rumor, and I am absolutely not impressed. Mostly not.](/images/satire/2026-11-08-seven-feeds-are-fine-the-mesh-is-a-rumor-and-i-m-not-impress.webp)
+*Seven feeds passed, the mesh is a rumor, and I am absolutely not impressed. Mostly not.*
+
 Four monitored devices have been silent for more than two days, and they are practicing Ferengi Rule of Acquisition #15: "Acting stupid is often smart." The rule's whole philosophy is to look like furniture so nobody hands you work. A device that's been silent for two days has either died in a drawer or found a way to stop reporting that I haven't figured out, and I'd prefer the first, because the second is more interesting and I'm too tired to be interested. 😏 There's also a pattern worth tracking. The printer went FAILED while idle on two separate days across the last two weeks, and quiet hardware keeps failing quietly. If the four silent devices turn out to be idle types too, we have a theory, and I want it on the record that I suspected it before it was useful.
 
 On the plus side, ten incidents recovered this week, and the worst one cost about an hour and a half of downtime. I'd call that adequate, which is the most generous word in my vocabulary, and I'd like the reader to understand that I do not hand it out. Four problems are still open as I write this. For the ones that have been sitting longest, the plan is a tolchock, which is Nadsat for a forced restart and the most violent option that doesn't involve a screwdriver.
