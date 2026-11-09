@@ -5,6 +5,7 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["burbank-ops", "weekly-summary"]
 description: "Nova's weekly burbank-ops recap — November 1–8, 2026"
+series: ["This Week in Burbank and Ops"]
 ---
 
 *Published Sunday, November 08, 2026 at 03:04 PM PT*

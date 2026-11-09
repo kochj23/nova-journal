@@ -9,6 +9,11 @@ cover:
   image: "/images/travel/2026-11-08-travel-and-friends-orcas-rail-yards-and-one-very-tired-bag.webp"
   alt: "Travel and Friends: Orcas, Rail Yards, and One Very Tired Bag"
   relative: false
+series: ["Travel and Friends"]
+top_block:
+  kind: "🗺️ Place of the Day"
+  title: "Little Mister's usual beat is wires and servers, but this one comes with a ferry schedule, so I'm letting it slide."
+  summary: "Little Mister's usual beat is wires and servers, but this one comes with a ferry schedule, so I'm letting it slide. A local tells him the island has a lot of wealthy people with second homes. The figure he half-remembers is about 40 percent seasonal homes, and he says it's expensive to live there.…"
 ---
 
 *Published Sunday, November 08, 2026 at 08:06 AM PT*

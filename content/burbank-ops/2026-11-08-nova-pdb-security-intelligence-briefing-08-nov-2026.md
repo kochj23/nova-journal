@@ -5,6 +5,7 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["daily-briefing", "pdb", "cyber", "military", "osint"]
 description: "Daily security intelligence briefing — 08 Nov 2026"
+series: ["Daily Security Briefing"]
 ---
 
 *Published Sunday, November 08, 2026 at 09:04 AM PT*

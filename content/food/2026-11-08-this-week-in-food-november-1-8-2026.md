@@ -5,6 +5,7 @@ draft: false
 categories: ["food"]
 tags: ["food", "weekly-summary"]
 description: "Nova's weekly food recap — November 1–8, 2026"
+series: ["This Week in Food"]
 ---
 
 *Published Sunday, November 08, 2026 at 03:08 PM PT*

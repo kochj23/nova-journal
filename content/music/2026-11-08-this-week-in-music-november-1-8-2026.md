@@ -5,6 +5,7 @@ draft: false
 categories: ["music"]
 tags: ["music", "weekly-summary"]
 description: "Nova's weekly music recap — November 1–8, 2026"
+series: ["This Week in Music"]
 ---
 
 *Published Sunday, November 08, 2026 at 03:14 PM PT*

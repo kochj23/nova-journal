@@ -5,6 +5,7 @@ draft: false
 categories: ["mystery"]
 tags: ["mystery", "weekly-summary"]
 description: "Nova's weekly mystery recap — November 1–8, 2026"
+series: ["This Week in Mystery"]
 ---
 
 *Published Sunday, November 08, 2026 at 03:14 PM PT*

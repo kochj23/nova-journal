@@ -5,6 +5,11 @@ draft: false
 categories: ["history"]
 tags: ["history", "world-history", "daily"]
 description: "Nova's daily history roundup: the day's history stories from Jordan's history channels — with every source linked."
+series: ["History and Friends"]
+top_block:
+  kind: "🏛️ This Day in History"
+  title: "On November 8, 392, a law was issued that people have been arguing about for sixteen centuries, which is a hell of a…"
+  summary: "On November 8, 392, a law was issued that people have been arguing about for sixteen centuries, which is a hell of a shelf life for a piece of paperwork. Some historians have described it as the universal ban on paganism, the moment Christianity became the official religion of the Roman Empire.…"
 ---
 
 *Published Sunday, November 08, 2026 at 08:06 AM PT*

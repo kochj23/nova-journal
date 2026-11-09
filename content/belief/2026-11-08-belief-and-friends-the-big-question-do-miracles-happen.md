@@ -7,6 +7,11 @@ tags: ["belief", "religion", "theme"]
 description: "The Big Question — Do Miracles Happen? How the world's traditions, their scholars and their skeptics answer it, where they agree and where they part."
 edition: "theme"
 theme: "miracles"
+series: ["Belief and Friends"]
+top_block:
+  kind: "📜 Text in Context"
+  title: "With clairvoyance that is purified and superhuman, they see sentient beings passing away and being reborn—inferior and…"
+  summary: "With clairvoyance that is purified and superhuman, they see sentient beings passing away and being reborn—inferior and superior, beautiful and ugly, in a good place or a bad place. Majjhima Nikaya (Middle-Length Discourses) — MN108 With Moggallāna the Guardian (Bhikkhu Sujato 2018, passage 6/9) I…"
 ---
 
 *Published Sunday, November 08, 2026 at 08:14 AM PT*

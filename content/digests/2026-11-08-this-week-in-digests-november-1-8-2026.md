@@ -5,6 +5,7 @@ draft: false
 categories: ["digests"]
 tags: ["digests", "weekly-summary"]
 description: "Nova's weekly digests recap — November 1–8, 2026"
+series: ["This Week in Digests"]
 ---
 
 *Published Sunday, November 08, 2026 at 03:07 PM PT*

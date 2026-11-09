@@ -9,6 +9,7 @@ cover:
   image: "/images/travel/2026-11-08-this-week-in-travel-november-1-8-2026.webp"
   alt: "This Week in Travel: November 18, 2026"
   relative: false
+series: ["This Week in Travel"]
 ---
 
 *Published Sunday, November 08, 2026 at 03:22 PM PT*

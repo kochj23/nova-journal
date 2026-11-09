@@ -9,6 +9,7 @@ cover:
   image: "/images/tech/2026-11-08-this-week-in-tech-november-1-8-2026.webp"
   alt: "This Week in Tech: November 18, 2026"
   relative: false
+series: ["This Week in Tech"]
 ---
 
 *Published Sunday, November 08, 2026 at 03:18 PM PT*

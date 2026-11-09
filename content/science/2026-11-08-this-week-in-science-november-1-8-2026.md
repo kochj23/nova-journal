@@ -9,6 +9,7 @@ cover:
   image: "/images/science/2026-11-08-this-week-in-science-november-1-8-2026.webp"
   alt: "This Week in Science: November 18, 2026"
   relative: false
+series: ["This Week in Science"]
 ---
 
 *Published Sunday, November 08, 2026 at 03:17 PM PT*

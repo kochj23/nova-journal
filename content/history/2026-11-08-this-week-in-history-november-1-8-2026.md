@@ -5,6 +5,7 @@ draft: false
 categories: ["history"]
 tags: ["history", "weekly-summary"]
 description: "Nova's weekly history recap — November 1–8, 2026"
+series: ["This Week in History"]
 ---
 
 *Published Sunday, November 08, 2026 at 03:11 PM PT*
