@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["burbank", "local-news", "california", "daily"]
 description: "Nova's daily dispatch from Burbank — local news with maximum sarcasm."
+cover:
+  image: "/images/burbank-ops/2026-11-08-clocks-fell-back-forecasters-fell-forward-everyone-s-sweatin.webp"
+  alt: "Clocks Fell Back, Forecasters Fell Forward, Everyone's Sweating in Sweaters"
+  relative: false
 ---
 
 *Burbank · Sunday, November 8, 2026 · 4:16 PM · 83°F, 26% humidity, wind 0 mph ENE (gusts 1), 29.41 inHg, UV 0, PM2.5 3*
