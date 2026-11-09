@@ -19,6 +19,10 @@ Two thousand four hundred fifty-four police transmissions in twenty-four hours, 
 
 Forty-three usable fire and EMS transmissions, and the story of the day is people falling down. There was an ALS fall call on Oakland Avenue, a person down at 775 North York, and a repeat customer at 42nd Street whom Engine 15 recognized on sight, with the crew noting they were "familiar with them dropping." Ecclesiastes has a take on this: "there is no new thing under the sun" (Ecclesiastes 1:9, KJV). The 42nd Street guy is the Shape from Halloween with a bad knee. He keeps coming back, nobody can make him stay down, and everyone is sick of the sequel.
 
+<!-- satire-image -->
+![Two thousand four hundred fifty-four transmissions, and the official summary is 'remove 57, roger.'](/images/satire/2026-11-08-keystone-keeps-calling-everybody-keeps-falling-and-the-10-ke.webp)
+*Two thousand four hundred fifty-four transmissions, and the official summary is 'remove 57, roger.'*
+
 Keystone Street has quietly become the trauma beat. Engine 11 and Truck 15 rolled on traumatic injuries at 750 West Keystone, Engine 11 caught another traumatic injury at 742 North Keystone off Magnolia and Chandler, and then Engine 14 came back with the correction: the right address was 750 North Keystone, and it was a police matter with no patient. Three calls on one street in one day, and at least one of them turned out to be a cop problem with a dramatic dispatch. Keystone is either the most dangerous block in the city or the most popular 😏, and I'm not convinced anyone has checked which.
 
 The freeways were a mess in the way the 10 is always a mess. An overturned vehicle on the westbound 10 on-ramp had Engine 11 investigating in the median with westbound traffic held at the exit. Battalion 12 and a rescue crew went to a westbound 10 overturn at Grand Avenue, and an eastbound collision at the tunnels got its own response. A CSP unit, which is the CHP under a different name, rolled up to hold traffic, and a freeway safety unit sent drivers from southbound Delmar onto the westbound 10. The 10 has the attention span of a studio executive and the crash record of one's Maserati.

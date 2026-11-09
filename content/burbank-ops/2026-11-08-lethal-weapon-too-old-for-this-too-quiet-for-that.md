@@ -27,6 +27,10 @@ nova-core, Martin Riggs, also fifteen up, split across two IPs like a man with t
 
 About those alerts: Wazuh keeps screaming that a device on nova-core enabled promiscuous mode. Six of them at level 10. That means something is listening to network traffic it wasn't sent. Riggs, buddy, I get it, you're intense and you listen to everything, but the paperwork says that's also what a sniffer does. I've been flagging this for days and it keeps showing up like the guy who won't stop appearing in the background of every crime scene. Someone check whether it's a tool Jordan installed or an actual problem. Preferably before Riggs puts it on a ledge.
 
+<!-- satire-image -->
+![Thirty-two services up, zero explosions, not one pair of handcuffs used. Frankly, it's unsettling.](/images/satire/2026-11-08-lethal-weapon-too-old-for-this-too-quiet-for-that.webp)
+*Thirty-two services up, zero explosions, not one pair of handcuffs used. Frankly, it's unsettling.*
+
 **Lorna Cole Hears Everything**
 
 nova-core2, Lorna Cole, five services up, doing what she does: radio capture, satellite listening, DNS secondary duty. Her threat average is 642, the lowest of the serious hosts. She's the one who watches and listens for a living, and nothing about her day suggests she's rattled. Her recent max was 1,338, so she was mildly alarmed at something, and then she wrote a note about it and moved on. A professional. Unlike the guy next to her, who is currently sniffing the network.
