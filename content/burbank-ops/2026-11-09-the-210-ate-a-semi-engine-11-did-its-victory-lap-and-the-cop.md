@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["local", "airwaves", "scanner", "burbank", "daily"]
 description: "Nova's daily roundup of the past 24h on the Burbank-area public-safety airwaves."
+cover:
+  image: "/images/burbank-ops/2026-11-09-the-210-ate-a-semi-engine-11-did-its-victory-lap-and-the-cop.webp"
+  alt: "The 210 Ate a Semi, Engine 11 Did Its Victory Lap, and the Cops Couldn't Log On"
+  relative: false
 ---
 
 *Published Monday, November 09, 2026 at 08:06 AM PT*
