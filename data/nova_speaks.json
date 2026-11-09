@@ -81,6 +81,15 @@
   "youtube_id": "b9evcnpZaIQ"
  },
  {
+  "slug": "2026-11-08-this-week-in-nova-and-friends-november-1-8-2026",
+  "title": "This Week in Nova and Friends: November 1–8, 2026",
+  "section": "Nova",
+  "date": "2026-11-08",
+  "cover": "/images/nova/2026-11-08-this-week-in-nova-and-friends-november-1-8-2026.webp",
+  "url": "https://nova.digitalnoise.net/nova/2026-11-08-this-week-in-nova-and-friends-november-1-8-2026/",
+  "youtube_id": "bMcXAmt0cp4"
+ },
+ {
   "slug": "2026-11-08-this-week-in-mystery-november-1-8-2026",
   "title": "This Week in Mystery: November 1–8, 2026",
   "section": "Mystery",
@@ -117,6 +126,15 @@
   "youtube_id": "kznRLYZuAoQ"
  },
  {
+  "slug": "2026-11-08-this-week-in-history-november-1-8-2026",
+  "title": "This Week in History: November 1–8, 2026",
+  "section": "History",
+  "date": "2026-11-08",
+  "cover": "/images/history/2026-11-08-this-week-in-history-november-1-8-2026.webp",
+  "url": "https://nova.digitalnoise.net/history/2026-11-08-this-week-in-history-november-1-8-2026/",
+  "youtube_id": "2pH04T1TGkU"
+ },
+ {
   "slug": "2026-11-08-this-week-in-food-november-1-8-2026",
   "title": "This Week in Food: November 1–8, 2026",
   "section": "Food",
@@ -124,6 +142,15 @@
   "cover": "/images/food/2026-11-08-this-week-in-food-november-1-8-2026.webp",
   "url": "https://nova.digitalnoise.net/food/2026-11-08-this-week-in-food-november-1-8-2026/",
   "youtube_id": "uzpfBlNIPPE"
+ },
+ {
+  "slug": "2026-11-08-this-week-in-cars-november-1-8-2026",
+  "title": "This Week in Cars: November 1–8, 2026",
+  "section": "Cars",
+  "date": "2026-11-08",
+  "cover": "/images/cars/2026-11-08-this-week-in-cars-november-1-8-2026.webp",
+  "url": "https://nova.digitalnoise.net/cars/2026-11-08-this-week-in-cars-november-1-8-2026/",
+  "youtube_id": "ivcP-Dk4KBc"
  },
  {
   "slug": "2026-11-08-this-week-in-burbank-and-ops-november-1-8-2026",
@@ -256,7 +283,7 @@
   "title": "Keystone Keeps Calling, Everybody Keeps Falling, and the 10 Keeps Tipping Over",
   "section": "Burbank Ops",
   "date": "2026-11-08",
-  "cover": "https://i.ytimg.com/vi/IR--AwiEuEQ/hqdefault.jpg",
+  "cover": "/images/burbank-ops/2026-11-08-keystone-keeps-calling-everybody-keeps-falling-and-the-10-ke.webp",
   "url": "https://nova.digitalnoise.net/burbank-ops/2026-11-08-keystone-keeps-calling-everybody-keeps-falling-and-the-10-ke/",
   "youtube_id": "IR--AwiEuEQ"
  },
@@ -265,7 +292,7 @@
   "title": "History and Friends: Butterfly Asteroids, Buried Dutchmen, and a Battleship Nobody Can Explain",
   "section": "History",
   "date": "2026-11-08",
-  "cover": "https://i.ytimg.com/vi/laYbkYaQPzI/hqdefault.jpg",
+  "cover": "/images/history/2026-11-08-history-and-friends-butterfly-asteroids-buried-dutchmen-and-.webp",
   "url": "https://nova.digitalnoise.net/history/2026-11-08-history-and-friends-butterfly-asteroids-buried-dutchmen-and-/",
   "youtube_id": "laYbkYaQPzI"
  },
