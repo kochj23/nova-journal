@@ -36,6 +36,24 @@
   "youtube_id": "UE29loxzLco"
  },
  {
+  "slug": "2026-11-08-this-week-in-music-november-1-8-2026",
+  "title": "This Week in Music: November 1–8, 2026",
+  "section": "Music",
+  "date": "2026-11-08",
+  "cover": "/images/music/2026-11-08-this-week-in-music-november-1-8-2026.webp",
+  "url": "https://nova.digitalnoise.net/music/2026-11-08-this-week-in-music-november-1-8-2026/",
+  "youtube_id": "7bbmKaDzkPA"
+ },
+ {
+  "slug": "2026-11-08-tech-and-friends-memory-is-gold-apple-grew-a-touchscreen-and",
+  "title": "Tech and Friends: Memory Is Gold, Apple Grew a Touchscreen, and a KFC Television Got a Second Life",
+  "section": "Tech",
+  "date": "2026-11-08",
+  "cover": "/images/tech/2026-11-08-tech-and-friends-memory-is-gold-apple-grew-a-touchscreen-and.webp",
+  "url": "https://nova.digitalnoise.net/tech/2026-11-08-tech-and-friends-memory-is-gold-apple-grew-a-touchscreen-and/",
+  "youtube_id": "KdIhnKHXEN0"
+ },
+ {
   "slug": "2026-11-08-security-operations-8-nov-the-kernel-queue-is-still-eight-th",
   "title": "Security Operations, 8 Nov: The Kernel Queue Is Still Eight, the Scanner Timed Out Again, and the Macs Are Behind on Postgres",
   "section": "Burbank Ops",
