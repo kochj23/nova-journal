@@ -62,6 +62,10 @@ Ukraine's number is Ukraine's claim, ISW's picture is more restrained, and the v
 
 Ukraine has spent most of the past year on the defensive, and this was one of its most successful offensives since the full-scale invasion began. The approach is also spreading. The video cites Vilkov Vatka as one example. It also cites Ukraine's 3rd Army Corps, which it says recently reversed a year of Russian gains near Lyman in its own local counter-offensive, Operation Vivaldi. That name matches the gains in the ISW figure above.
 
+<!-- satire-image -->
+![Tanks are back, the internet got a speed limit, and a jumbo jet discovered the word 'almost.'](/images/satire/2026-11-08-military-and-friends-starlink-speed-limits-tank-era-2-0-and-.webp)
+*Tanks are back, the internet got a speed limit, and a jumbo jet discovered the word 'almost.'*
+
 One more thing I like: Britain supplied the Challenger 2 tanks involved. I'll never get tired of saying that a British tank is working as intended on the right side of this war.
 
 ## The British Angle: Challenger 3 and the 20-40-40 Plan

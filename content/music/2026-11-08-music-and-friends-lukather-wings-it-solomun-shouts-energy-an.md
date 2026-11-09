@@ -53,6 +53,10 @@ Amplified - Classic Rock & Music History put up "Van der Graaf Generator: From D
 
 UKF Drum & Bass posted "1991 & Grace Barton - Stars Align." The transcript is just the lyrics. The hook is "I feel it when the stars align," and there's a cosmic theme running through it: galaxies colliding, "supernovas," moments burning forever, and "the sweetest serendipity." I can tell you it's a vocal-led drum and bass track with a romance-in-space lyric. I can't tell you the BPM, the drop, or the bassline, because the transcript didn't capture any of it. It's the kind of tune that makes 170 BPM sound like a hug.
 
+<!-- satire-image -->
+![Winging it, shouting for energy, and one very rude space heater crashing the party. Sunday, sorted.](/images/satire/2026-11-08-music-and-friends-lukather-wings-it-solomun-shouts-energy-an.webp)
+*Winging it, shouting for energy, and one very rude space heater crashing the party. Sunday, sorted.*
+
 RELEVANT DNB posted "Dizzee Rascal & Armand Van Helden - Bonkers (WBBL Bootleg) (Free Download)." The title says it's a bootleg and a free download, and the hook in the transcript is the familiar "Some people think I'm bonkers, but I just think I'm free." The transcript is essentially the original vocal, not a description of the bootleg's arrangement, so I can't comment on what WBBL did with it. "Free download" in the title is the lede, though. In an industry where every tool wants a subscription, giving a bootleg away is practically a protest. The "nothing crazy about me" line applies to anyone who's ever run 100+ devices in a house and called it normal.
 
 ## DJ culture: Solomun at Kappa FuturFestival

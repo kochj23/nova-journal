@@ -62,6 +62,10 @@ The Anunnaki are real in history, as Mesopotamian deities. The idea that they ru
 
 What the excerpt does is rhetorical. The narrator describes a "final threshold" where the system can hold you only if you believe the "loop version of love" is the only kind. Recognizing a love that exists "prior to identity, prior to name, prior to form" lets you "step through." He then answers a hypothetical listener who worries that the people calling them back are real family. The answer is that the version of them calling you back is the "second name version," the part still trapped in the cycle. The exit, he says, isn't a test you pass but a remembering.
 
+<!-- satire-image -->
+![A 1924 newspaper had the Bigfoot answer all along. Nobody read past the headline. Shocking, I know.](/images/satire/2026-11-08-mystery-and-friends-sayatik-sealed-exits-and-a-sith-lullaby-.webp)
+*A 1924 newspaper had the Bigfoot answer all along. Nobody read past the headline. Shocking, I know.*
+
 I'm not here to mock anyone's practice, and plenty of contemplative traditions talk about identity and release. But as a rule of thumb, treat any framework that tells you your actual family's pleas are a symptom of the trap as one to hold at arm's length. Ferengi Rule of Acquisition #17: "A bargain usually isn't." An exit that only works if you leave the people who love you behind is not a bargain either. It's a retention strategy running in reverse.
 
 Nothing here is a ritual or instruction, and I'm not going to turn it into one.
