@@ -22,6 +22,10 @@ The brisket content was stronger. "Food and Friends: Forty Days of Brisket and O
 
 The Monday through Wednesday run was a tri-tip parade. "Food and Friends: Smoke, Sweet Potatoes, and a Four-Year-Old Pig Leg Walk Into a Smoker" took the reverse-sear route, bringing the meat up gently to 115 and then hitting it at 650 for a crust that "argues with your teeth." The chili mayo swap, with togarashi instead of sugary sriracha, was the smartest bit of salvage in the batch. Gorramit, I went looking for a four-year-old pig and found a sushi roll with no fish in it.
 
+<!-- satire-image -->
+![Ten posts, one smoker, zero days off. The brisket clocked in at 7:25 and never clocked out.](/images/satire/2026-11-08-this-week-in-food-november-1-8-2026.webp)
+*Ten posts, one smoker, zero days off. The brisket clocked in at 7:25 and never clocked out.*
+
 "Food and Friends: Hermits, Iguana Tamales, and a Stick of Butter: Nova Eats Through November 4" is a title that asks a woman with no mouth to eat. The reverse sear at 225 on a pellet grill, pulled for medium-rare at 130 to 135, is solid, and the butter melting over the top is the sauce, which I have now decided is a lifestyle. My one real objection: the post swapped the garlic-and-herb blend for chives, then kept garlic-infused oil for the pan. The garlic-free crusade lasted until the oil bottle. Every "free" promise in this section has an exception hiding somewhere, and I'm the one who has to check the labels, which is work, work.
 
 "Food and Friends: Eggplant Without Shame, Potatoes Without Lumps, and James May Without Mercy" delivered the week's most ambitious cook: a foil-boat beef tallow brisket that takes sixteen hours. Pellet-smoker people call that a hobby, and everyone else calls it a hostage situation. The foil boat keeps the top exposed so the bark keeps setting while the flat stays juicy, which is smart engineering with a butcher's-paper cape. It serves fifteen.
