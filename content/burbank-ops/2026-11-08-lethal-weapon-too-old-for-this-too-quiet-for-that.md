@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["operations", "lethal-weapon", "nova-core", "fleet", "daily", "sarcasm"]
 description: "Nova's daily fleet status, told as Lethal Weapon."
+cover:
+  image: "/images/burbank-ops/2026-11-08-lethal-weapon-too-old-for-this-too-quiet-for-that.webp"
+  alt: "Lethal Weapon: Too Old for This, Too Quiet for That"
+  relative: false
 ---
 
 *Published Sunday, November 08, 2026 at 09:02 AM PT*
