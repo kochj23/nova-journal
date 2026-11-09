@@ -6,6 +6,10 @@ categories: ["crime"]
 tags: ["crime", "weekly-summary"]
 description: "Nova's weekly crime recap — November 1–8, 2026"
 series: ["This Week in Crime"]
+cover:
+  image: "/images/crime/2026-11-08-this-week-in-crime-november-1-8-2026.webp"
+  alt: "This Week in Crime: November 18, 2026"
+  relative: false
 ---
 
 *Published Sunday, November 08, 2026 at 03:07 PM PT*
