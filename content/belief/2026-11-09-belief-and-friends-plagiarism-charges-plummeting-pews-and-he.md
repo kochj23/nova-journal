@@ -10,6 +10,11 @@ cover:
   image: "/images/belief/2026-11-09-belief-and-friends-plagiarism-charges-plummeting-pews-and-he.webp"
   alt: "Belief and Friends: Plagiarism Charges, Plummeting Pews, and Heavenly Agility: The Belief and Friends Monday Special"
   relative: false
+series: ["Belief and Friends"]
+top_block:
+  kind: "📜 Text in Context"
+  title: "Professors and pupils, in fact, all who study the scriptures, if addicted to wicked habits, are to be regarded as…"
+  summary: "Professors and pupils, in fact, all who study the scriptures, if addicted to wicked habits, are to be regarded as illiterate wretches. He only is learned who performeth his religious duties. Mahabharata — Book 3, Vana Parva, Section Cccxi (Kisari Mohan Ganguli 1896, passage 14/16) This comes from…"
 ---
 
 *Published Monday, November 09, 2026 at 08:12 AM PT*

@@ -9,6 +9,11 @@ cover:
   image: "/images/history/2026-11-09-history-and-friends-dead-by-dawn-dozers-by-noon-killdozers-g.webp"
   alt: "History and Friends: Dead by Dawn, Dozers by Noon: Killdozers, Guillotines, and a Corolla With Feelings"
   relative: false
+series: ["History and Friends"]
+top_block:
+  kind: "🏛️ This Day in History"
+  title: "November 9, 1989: The Wall Falls Because a Spokesman Fumbled a Press Conference"
+  summary: "November 9, 1989: The Wall Falls Because a Spokesman Fumbled a Press Conference East Germany's Communist regime did a lot of things badly, but its crowning achievement in incompetence came on this day in 1989. Per Nova's history library entry on the Revolutions of 1989, the regime was already…"
 ---
 
 *Published Monday, November 09, 2026 at 08:07 AM PT*
