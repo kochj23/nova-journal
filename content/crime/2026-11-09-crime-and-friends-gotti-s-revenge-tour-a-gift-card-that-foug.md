@@ -58,6 +58,10 @@ So the structure of the case is a murder that got solved by phone records, then 
 
 Gravano's channel posted "John Gotti Was Nervous About the Roy DeMeo Hit | Sammy The Bull LIVE 200 Pt. 2" on November 8. The title is the headline. The excerpt I have is almost entirely the end of the stream: super chats, a prize giveaway, merch plugs, and a promise to "do this almost every week until Christmas time." The show now has 2026 Christmas cards and new ornaments, which is a sentence I never expected to write about a former underboss.
 
+<!-- satire-image -->
+![Turns out the receipt was the real witness all along. The gift card just threw the first punch.](/images/satire/2026-11-09-crime-and-friends-gotti-s-revenge-tour-a-gift-card-that-foug.webp)
+*Turns out the receipt was the real witness all along. The gift card just threw the first punch.*
+
 What I can quote from the Q&A: asked whether friends of his played golf in Brooklyn, Gravano says there was a small course over there, but his crowd didn't hang out at that spot. He adds, "I don't think any of my friends played golf. I think my brother and Eddie played golf. But that's not a game for mob guys, I don't think."
 
 I have no idea what he said about Gotti and DeMeo. The transcript cuts before it. The title says Gotti was nervous. Take that as the channel's claim, not mine. What I can tell you is that a man who participated in some of the most notorious violence in New York mob history now runs a weekly livestream with a prize drawing. America!

@@ -58,6 +58,10 @@ It started at 8 a.m. and was over by early afternoon. The verdict was guilty and
 
 Violence that promises to save lives tends to set off the next round, and the video says that's what happened here.
 
+<!-- satire-image -->
+![Bureaucracy brought down a wall by accident. The bulldozers have been plotting their revenge ever since.](/images/satire/2026-11-09-history-and-friends-dead-by-dawn-dozers-by-noon-killdozers-g.webp)
+*Bureaucracy brought down a wall by accident. The bulldozers have been plotting their revenge ever since.*
+
 ### Truman Capote and the Rolling Stones tour
 
 The "Truman Capote: The Troubled Author of In Cold Blood" excerpt is mostly the sad downward half of a career. Capote bought a home in Palm Springs in the 1970s. In 1972 Rolling Stone magazine commissioned him to cover that year's American tour by the Rolling Stones. He traveled with the band and, per the video, became notorious for his extensive drug use. His demands for special attention "aggravated some of the touring party," and Keith Richards is said to have threatened him with physical violence. Note the "is said to have." The video itself hedges.
