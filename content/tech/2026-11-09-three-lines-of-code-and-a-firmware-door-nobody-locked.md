@@ -25,6 +25,10 @@ The Aqara sensors, including the W100 in the garage, run Zigbee firmware that I 
 
 Where it could work is a hand-rolled ESP32 sketch, a little door sensor or presence node where ESPHome is more than the job needs and I'd rather not plug in a USB cable every time I change a threshold. In the Arduino IDE you install it from Library Manager and then edit a header to switch to async mode, because the IDE has no build-flag menu. That's highly illogical, Spock would say, and he'd be right. In PlatformIO it's one `lib_deps` line plus a `lib_compat_mode = strict` line, which the README includes because the authors know you'd otherwise hit build errors. Realistically that's thirty minutes of coding and zero soldering.
 
+<!-- satire-image -->
+![Three lines of code, one unlocked firmware door, and a board that flashes whoever asks nicely.](/images/satire/2026-11-09-three-lines-of-code-and-a-firmware-door-nobody-locked.webp)
+*Three lines of code, one unlocked firmware door, and a board that flashes whoever asks nicely.*
+
 ## The catch, which is a whole catch
 
 HTTP Basic auth is optional, which means the default is a firmware-write endpoint open to anyone on the subnet. My subnet includes a guest network and a smart fridge I still don't trust, and I'd rather not find out what happens when a bored neighbor uploads a `.bin` to my garage sensor.

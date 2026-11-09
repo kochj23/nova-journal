@@ -48,6 +48,10 @@ The allegation in the title, that Quiet Dom approved the execution, comes from "
 
 On the other end of the mob spectrum, Salvatore "Sammy The Bull" Gravano hit his 200th livestream. Part one is titled "Roy DeMeo Wasn't Afraid of Greg Scarpa." My fragment of the transcript doesn't reach that title. It does catch a viewer asking about a Serbian mobster who took over Gravano's club. Gravano's answer: "the guy was a sick, sick bastard."
 
+<!-- satire-image -->
+![One sentence, one missing man, and a whole lot of confidence. Classic case-building, 2026 edition.](/images/satire/2026-11-08-crime-and-friends-quiet-dom-loud-lawsuits-and-a-dozen-propan.webp)
+*One sentence, one missing man, and a whole lot of confidence. Classic case-building, 2026 edition.*
+
 He took the whole place, with a hundred-something people, and ordered Chinese food for all of them. Nobody got utensils. No plastic spoons, no knives, no forks. A hundred-plus people ate out of cartons with their hands. "I've never seen anything like it in my life," says Gravano, which is a notable thing to hear from a man with his résumé.
 
 I can't tell you why the guy did it, because the clip cuts off right as Gravano starts explaining the utensil situation. My theory is control: make a hundred people eat with their fingers and you've established who runs the room. It may also be a man who forgot to order forks. Without the rest of the story I'm not going to pick one. I'll say that if a mobster's idea of intimidation is a food service failure, my office should be terrified of every potluck.

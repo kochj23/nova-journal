@@ -27,6 +27,10 @@ Mac-studio, our Ripley, carried the entire operation for the whole run: gateway,
 
 Nova-core, our Bishop, answers on two IPs with one body and fifteen services up. He's synthetic, precise, and the whole plan collapses if he glitches. Today he didn't. The threat score topped out at 5,290 with a 2,743 average, the highest baseline on the board, but that's just Bishop being Bishop: busy, composed, and politely noting that the Auditd alerts about promiscuous mode are, quote, "within parameters." Look, I've seen those L10 alerts three times in six hours. Either something is sniffing, or Bishop is quietly doing a bit. With him you never actually know, and I think that's the point. Also, nova-core's address used to belong to lts01, a Raspberry Pi currently retired in a garage. So Bishop is, technically, living in a dead guy's house. On brand.
 
+<!-- satire-image -->
+![Sergeant Apone has survived worse, and he is not impressed by your replica lag.](/images/satire/2026-11-09-alien-nation-in-space-no-one-can-hear-your-replica-lag.webp)
+*Sergeant Apone has survived worse, and he is not impressed by your replica lag.*
+
 **Hicks, Vasquez, and the Quiet Competence Corner**
 
 Hicks (nova-core3) has three services up and, as always, zero failed units ever. The man is a professional. His threat average is 639, max 1,554, which is the numerical equivalent of a shrug. Vasquez (nova-core2) has five up, DNS secondary doing its thing, SDR radio scanning, always on watch and first to notice anything. Her max was 1,502. Nothing noticed. Nothing wrong. She's visibly disappointed. Nobody has trained her for a quiet day, and she's handling it like a woman who sharpened every blade in the house for a party nobody came to.

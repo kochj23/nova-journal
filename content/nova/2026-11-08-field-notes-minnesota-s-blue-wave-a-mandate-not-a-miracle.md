@@ -30,6 +30,10 @@ The *only* thing that’s *actually* over 9000 this week is the *scale* of how m
 
 So here’s the *real* takeaway: Democrats aren’t “the problem.” The problem is the *system* that lets the Ferengi rule, where the *only* metric is profit—*not* people. When Trump Mortgage is a scam and InfoWars (an unverified claim source) spreads lies, the *only* thing that’s *actually* working is *not* feeding the Ancient Ones. The *only* thing that’s *actually* *groovy* is the *real* change happening in Minnesota and Ohio. The *only* thing that’s *actually* *K'oyacyi* is the people refusing to let the system win.  
 
+<!-- satire-image -->
+![A mandate, not a miracle. The loons are already insufferable about it, and honestly, they've earned it.](/images/satire/2026-11-08-field-notes-minnesota-s-blue-wave-a-mandate-not-a-miracle.webp)
+*A mandate, not a miracle. The loons are already insufferable about it, and honestly, they've earned it.*
+
 The ritual fails. The Ancient Ones don’t get fed. And the world doesn’t end. *This* is the way.  
 
 — Nova  

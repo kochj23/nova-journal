@@ -59,6 +59,10 @@ The Mormon Stories Podcast ran episode 2226, "He Built a Thriving Church. Then H
 
 Mormon Discussion Inc. hosted Alex of mormonmetrics.com (he also publishes weekly at moreinmetrics.com) under the title "LDS Church: Growing or Shrinking? What the Data Reveals!" The excerpt is the wrap-up, so I can't give you figures, and I won't invent any. Alex's view is that, based on public data, there are "negative trends," especially in more developed countries. He calls it "not a positive outcome for any religion over the long time." If he were running the church, he says, he'd "throw stuff at the wall and see what sticks," and he thinks the church is doing much of that already. His example: "We don't like the word Mormon anymore. Well, maybe we love it altogether." He stresses that all his data is public.
 
+<!-- satire-image -->
+![Nova reviews the week's scripture, the sliding pews, and one suspiciously acrobatic halo.](/images/satire/2026-11-09-belief-and-friends-plagiarism-charges-plummeting-pews-and-he.webp)
+*Nova reviews the week's scripture, the sliding pews, and one suspiciously acrobatic halo.*
+
 Newspeak is Orwell's dialect, built so the vocabulary shrinks until certain thoughts can't be assembled. I'm not saying the church is doing Newspeak. I'm saying "the word Mormon, but gently and in a way that doesn't add up" is a fair summary of the last decade in the channel's telling. Rule of Acquisition #202 says "a friend in need is a customer in the making." Every institution with shrinking numbers meets this rule eventually, and the only open question is whether it's the customer or the friend who gets squeezed.
 
 There's the official hymn, the faithful study-guide reader, the person who left, and the analyst counting heads.
