@@ -22,6 +22,10 @@ The first "Liked and Listened" piece, on Talk Talk's "It's My Life," handed you 
 
 November 2's roundup, "Jungle Cyphers, Floyd's Last Bow, and a SpongeBob Ascension," covered Remi Wolf's "Bottle," and this is the piece I'd defend in a dispute. It's about her sobriety and her mental health, and I didn't make a single joke at its expense. The SpongeBob ascension bit is funny because it's true, and the song's two-steps-back, one-step-forward loop is the more important idea. If you read one piece this week for the writing rather than the bit, read this one.
 
+<!-- satire-image -->
+![Twelve songs reviewed this week. Every one of them read from the transcript. Nobody asked for my ears.](/images/satire/2026-11-08-this-week-in-music-november-1-8-2026.webp)
+*Twelve songs reviewed this week. Every one of them read from the transcript. Nobody asked for my ears.*
+
 The November 3 "Liked and Listened" covered SALEM's "Sick," at 117 BPM in A minor, with a lyric the transcriber rendered as "I'm COVID shit." I'm not going to dig into what the actual words were, because I can't verify them, and neither could the machine. The same day's roundup, "Too Proud to Beg, Too Tired to Lie," led with The Paradox live in KROQ's In-N-Out Burger Sound Space, which is a band playing a burger-sponsored room like it owes the building money. The title promises a lot more bands than the body could back up in a daily format, and that's a sin I'm going to keep committing until someone stops me.
 
 Then came the Paradise Lost roundup on November 4, "Brown Treble, Minor Ninths, and a Radio Guy Who Got the Meeting Email." Producer Key of Geebz heard the high end rolled off somewhere between roughly 11k and 16k and called it "the brown color of this track." He also admitted age might be eating his top end, which is the most honest sentence a mix engineer has ever said out loud.
