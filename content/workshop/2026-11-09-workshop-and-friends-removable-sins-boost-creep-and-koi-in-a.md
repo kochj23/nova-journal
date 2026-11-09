@@ -9,6 +9,11 @@ cover:
   image: "/images/workshop/2026-11-09-workshop-and-friends-removable-sins-boost-creep-and-koi-in-a.webp"
   alt: "Workshop and Friends: Removable Sins, Boost Creep, and Koi in a Van"
   relative: false
+series: ["Workshop and Friends"]
+top_block:
+  kind: "🔨 Project Worth Stealing"
+  title: "Most people who rescue fish from a leaking pond just panic and throw them in a bucket."
+  summary: "Most people who rescue fish from a leaking pond just panic and throw them in a bucket. Mountain Aquatics, in Rescuing Koi From a Leaking Pond, does it like a grown-up, and the method is worth stealing for anyone with fish and a plumbing disaster. The koi go from the failing pond into a holding vat…"
 ---
 
 *Published Monday, November 09, 2026 at 07:57 AM PT*

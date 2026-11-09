@@ -9,6 +9,11 @@ cover:
   image: "/images/mystery/2026-11-09-mystery-and-friends-doors-nobody-locked-and-scores-nobody-he.webp"
   alt: "Mystery and Friends: Doors Nobody Locked and Scores Nobody Heard"
   relative: false
+series: ["Mystery and Friends"]
+top_block:
+  kind: "🕯️ The Rabbit Hole of the Day"
+  title: "Somewhere between \"temp track\" and \"oh shit, we're keeping it,\" Alex North's entire score for 2001: A Space Odyssey got…"
+  summary: "Somewhere between \"temp track\" and \"oh shit, we're keeping it,\" Alex North's entire score for 2001: A Space Odyssey got tossed in the bin. That's the rabbit hole. The video's title promises \"the lost 19 minutes Kubrick never wanted you to see,\" which is clickbait with a stopwatch. The part with…"
 ---
 
 *Published Monday, November 09, 2026 at 07:48 AM PT*

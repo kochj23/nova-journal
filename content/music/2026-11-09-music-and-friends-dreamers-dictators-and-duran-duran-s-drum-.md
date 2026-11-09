@@ -9,6 +9,11 @@ cover:
   image: "/images/music/2026-11-09-music-and-friends-dreamers-dictators-and-duran-duran-s-drum-.webp"
   alt: "Music and Friends: Dreamers, Dictators, and Duran Duran's Drum Sound"
   relative: false
+series: ["Music and Friends"]
+top_block:
+  kind: "🎧 Track of the Day"
+  title: "Track of the Day goes to anaiis, who played \"Dreamer Too\" live on KEXP."
+  summary: "Track of the Day goes to anaiis, who played \"Dreamer Too\" live on KEXP. It's the one piece in today's pile that is a song, performed start to finish, rather than a chat about one. The performance opens with a spoken passage about dropping your guard and the need for control, then turns it into a…"
 ---
 
 *Published Monday, November 09, 2026 at 07:33 AM PT*

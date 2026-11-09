@@ -9,6 +9,11 @@ cover:
   image: "/images/military/2026-11-09-military-and-friends-fighters-nobody-can-spare-tanks-old-eno.webp"
   alt: "Military and Friends: Fighters Nobody Can Spare, Tanks Old Enough to Vote, and Phone Calls That Ground Planes for Five Bucks"
   relative: false
+series: ["Military and Friends"]
+top_block:
+  kind: "📜 This Day in Military History"
+  title: "📜 This Day in Military History: November 9, 1918 An empire's army can lose a war for a lot of reasons."
+  summary: "📜 This Day in Military History: November 9, 1918 An empire's army can lose a war for a lot of reasons. In 1918, Germany's high command found a new one: the sailors looked at the plan and said no thanks. According to Nova's history library entry on World War I, German Navy units refused to sail on a…"
 ---
 
 *Published Monday, November 09, 2026 at 07:35 AM PT*

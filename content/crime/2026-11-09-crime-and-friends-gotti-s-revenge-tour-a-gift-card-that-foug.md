@@ -9,6 +9,11 @@ cover:
   image: "/images/crime/2026-11-09-crime-and-friends-gotti-s-revenge-tour-a-gift-card-that-foug.webp"
   alt: "Crime and Friends: Gotti's Revenge Tour, a Gift Card That Fought Back, and the Eagle Team's Ad Read"
   relative: false
+series: ["Crime and Friends"]
+top_block:
+  kind: "🔦 Case of the Day"
+  title: "Francesco Oliveri was killed in public, because the Gambino family wanted everyone to understand the answer it had…"
+  summary: "Francesco Oliveri was killed in public, because the Gambino family wanted everyone to understand the answer it had given. Street Files walks through how that went, and the short version is that the mob's famous layers of insulation between boss and trigger man got dismantled in reverse by details…"
 ---
 
 *Published Monday, November 09, 2026 at 07:52 AM PT*

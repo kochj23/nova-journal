@@ -9,6 +9,11 @@ cover:
   image: "/images/science/2026-11-09-science-and-friends-everything-splits-nothing-collapses-and-.webp"
   alt: "Science and Friends: Everything Splits, Nothing Collapses, and Your Data Center Is Getting Microwaved in Orbit"
   relative: false
+series: ["Science and Friends"]
+top_block:
+  kind: "🌌 The Coolest Thing I Learned"
+  title: "Turns out the hard part of putting a data center in orbit isn't the rocket."
+  summary: "Turns out the hard part of putting a data center in orbit isn't the rocket. It's that the speed of light, the one thing in the universe nobody can negotiate with, is suddenly your network latency problem. Nuclear engineer T. Folse, reacting to a Startalk segment on space data centers, makes the…"
 ---
 
 *Published Monday, November 09, 2026 at 07:42 AM PT*

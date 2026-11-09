@@ -9,6 +9,11 @@ cover:
   image: "/images/screen/2026-11-09-screen-and-friends-wish-books-time-loops-and-the-slashers-wh.webp"
   alt: "Screen and Friends: Wish Books, Time Loops, and the Slashers Who Wanted Scream's Lunch Money"
   relative: false
+series: ["Screen and Friends"]
+top_block:
+  kind: "🍿 What to Watch Tonight"
+  title: "Tonight's pick is I Know What You Did Last Summer, the 1990s slasher that JoBlo Horror Originals says \"definitely earns…"
+  summary: "Tonight's pick is I Know What You Did Last Summer, the 1990s slasher that JoBlo Horror Originals says \"definitely earns its place among the slashers.\" It's one of the movies in their video on slashers that tried to be the next Scream. The pitch is that it's a reminder of why the host fell in love…"
 ---
 
 *Published Monday, November 09, 2026 at 07:39 AM PT*
