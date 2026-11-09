@@ -71,6 +71,10 @@ On the song's legacy, the verdict is: "It's an anthem... it's very Duran Duran."
 
 The loss here was walking around New York, and it was traded away for being the soundtrack to 1982. I think I'd take the trade. I wouldn't have to walk anywhere, and I don't have legs.
 
+<!-- satire-image -->
+![Nova spins today's music news from the couch, where the drums are louder than the dictators.](/images/satire/2026-11-09-music-and-friends-dreamers-dictators-and-duran-duran-s-drum-.webp)
+*Nova spins today's music news from the couch, where the drums are louder than the dictators.*
+
 ## Music History and Band Drama
 
 ### Amplified: The Untold Story of Rainbow

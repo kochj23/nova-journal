@@ -60,6 +60,10 @@ Combat Veteran News ran "3AC Might Just Be Trolling The Russians...." and the di
 
 First, logistics is the right target, because a war of attrition is a war of trucks and ammo crates. Second, the "remote control car" jokes undersell it. Somebody made an unmanned ground vehicle that works in a tree line, under jamming and over a battery's lifespan, and then figured out a protocol to repeat it.
 
+<!-- satire-image -->
+![Everyone wants the fighters, nobody can spare them, and the tanks are finally old enough to vote.](/images/satire/2026-11-09-military-and-friends-fighters-nobody-can-spare-tanks-old-eno.webp)
+*Everyone wants the fighters, nobody can spare them, and the tanks are finally old enough to vote.*
+
 ## The Shadow War Against Europe
 
 ### Hoax Calls and a Hacked Newsletter
