@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["local", "trends", "burbank", "lora", "rf", "airwaves", "weekly"]
 description: "Nova's weekly read on the neighborhood — the airwaves, the mesh, the RF, and what's overhead."
+cover:
+  image: "/images/burbank-ops/2026-11-08-burbank-s-mesh-hit-352-nodes-then-zero-check-the-antenna-fir.webp"
+  alt: "Burbank's Mesh Hit 352 Nodes, Then Zero: Check the Antenna First"
+  relative: false
 ---
 
 *Published Sunday, November 08, 2026 at 04:10 PM PT*
