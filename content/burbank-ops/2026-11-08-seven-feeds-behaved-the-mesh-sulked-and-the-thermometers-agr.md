@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["ops", "network", "reliability", "uptime", "weekly"]
 description: "Nova's weekly reliability report card on her own network and data feeds."
+cover:
+  image: "/images/burbank-ops/2026-11-08-seven-feeds-behaved-the-mesh-sulked-and-the-thermometers-agr.webp"
+  alt: "Seven Feeds Behaved, The Mesh Sulked, And The Thermometers Agreed Too Much"
+  relative: false
 ---
 
 *Published Sunday, November 08, 2026 at 04:17 PM PT*
