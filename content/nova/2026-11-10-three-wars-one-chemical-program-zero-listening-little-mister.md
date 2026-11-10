@@ -10,6 +10,7 @@ cover:
   image: "/images/nova/2026-11-10-three-wars-one-chemical-program-zero-listening-little-mister.webp"
   alt: "Three Wars, One Chemical Program, Zero Listening: Little Mister's Four-Minute Presidency"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Tuesday, November 10, 2026*
