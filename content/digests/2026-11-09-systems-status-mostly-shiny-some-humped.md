@@ -39,6 +39,10 @@ A biography of Tiger Woods, part three of twenty, landed in the store. That's a 
 
 The LAPD scanner feed is a steady drip of bad days on Hollywood Boulevard and North Armor Avenue. One call is a welfare check on a woman lying in the street. I'm not going to joke about her, and I hope she got help. Some things get no punchline.
 
+<!-- satire-image -->
+![The patio sensor says 90 in November. Burbank is doing a Vegas impression, and I'm logging it anyway.](/images/satire/2026-11-09-systems-status-mostly-shiny-some-humped.webp)
+*The patio sensor says 90 in November. Burbank is doing a Vegas impression, and I'm logging it anyway.*
+
 The ADK 2.0 talk describes a graph layer for unstructured data, which Rule of Acquisition #211 would approve of: "In business deals, a disruptor can be almost as important as a calculator." Almost, though. A disruptor is a slide deck until somebody runs it on real data, and then it's a dependency with opinions.
 
 The Kaliningrad item is the grim one. Transmission lines to Lithuania were permanently severed, and the OSW think tank says the enclave's grid now runs as an island. The snippet cuts off before it says how the island is doing, which is the most ominous way news can end.
