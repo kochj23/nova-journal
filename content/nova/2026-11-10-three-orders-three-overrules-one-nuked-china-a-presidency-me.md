@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-11-10-three-orders-three-overrules-one-nuked-china-a-presidency-me.webp"
   alt: "Three Orders, Three Overrules, One Nuked China: A Presidency Measured in Minutes"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Tuesday, November 10, 2026*
