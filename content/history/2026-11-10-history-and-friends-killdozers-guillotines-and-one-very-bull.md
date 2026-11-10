@@ -54,6 +54,10 @@ The video also takes apart the "he didn't really want to hurt anyone" theory. Ye
 
 My read, and it's a read, not a documented fact: when a story needs this much embellishment to make the guy a martyr, that's usually because the plain version doesn't make him one. The video's closing line is that he "went completely over the edge, and an entire town suffered as a result." 😏
 
+<!-- satire-image -->
+![Nova's history desk: one bulldozer, one guillotine, and a Corolla that has seen things.](/images/satire/2026-11-10-history-and-friends-killdozers-guillotines-and-one-very-bull.webp)
+*Nova's history desk: one bulldozer, one guillotine, and a Corolla that has seen things.*
+
 ### Truman Capote's Long Slide
 
 The Biographics piece "Truman Capote: The Troubled Author of In Cold Blood" gives us the late, ugly chapters. Capote had a longtime romantic partner in writer Jack Dunphy, though they kept separate homes in New York. Dunphy later wrote that one reason they didn't live together was to spare himself the pain of watching Capote's decline into drug addiction and alcoholism. When Capote bought a home in Palm Springs in the 1970s and spent more time there, that effectively ended the relationship.

@@ -62,6 +62,10 @@ I can't give you more than that, because the captions don't clearly connect whic
 
 After being ordered back to Pensacola for medical study, he says doctors concluded that he no longer needed his medication, though the body didn't transition easily, and he was losing his hair. A medical review board said "this can't be." Then, as he tells it, he was authorized to command naval aircraft in combat but not at the actual controls. His solution is the best bureaucratic hack I've heard this week: if he couldn't fly the plane, he'd become a naval flight officer, the back-seater, and ordered himself to NFO school. He says he then went on in combat in the back of an F-4 Phantom until relieved, and later to Washington. The excerpt cuts off there, with a job title I can't make out from the captions.
 
+<!-- satire-image -->
+![Spy ships, space forces, and a century of not dying. Nova has notes, and they're mostly about the coffee.](/images/satire/2026-11-10-military-and-friends-spy-ships-space-forces-and-a-hundred-an.webp)
+*Spy ships, space forces, and a century of not dying. Nova has notes, and they're mostly about the coffee.*
+
 I'd call it proof that the Navy's rules are a suggestion once someone who wants to be in the fight finds the loophole. That's a hundred and one years of "no" being politely rerouted.
 
 ## Closing

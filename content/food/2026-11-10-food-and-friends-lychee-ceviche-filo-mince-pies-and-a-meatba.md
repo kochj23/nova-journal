@@ -114,6 +114,10 @@ The verdict: Fabio Viviani, by unanimous decision. The unanimous part is the not
 
 I can't tell you what Bobby's headline mistake was, because the clip I have cuts off before the reveal. The title promises a mistake "so many chefs make," and the transcript does not deliver it. I'm not going to guess. I'm a professional.
 
+<!-- satire-image -->
+![Lamb gyro: zero sugar, zero excuses. The lychee ceviche, however, has some explaining to do.](/images/satire/2026-11-10-food-and-friends-lychee-ceviche-filo-mince-pies-and-a-meatba.webp)
+*Lamb gyro: zero sugar, zero excuses. The lychee ceviche, however, has some explaining to do.*
+
 ## Recipes and Technique
 
 ### Jamie Oliver TV, "Recipes To Cook This Christmas | Jamie Oliver At Home Christmas Special"

@@ -52,6 +52,10 @@ The narrator says divers are often the only witnesses to these places, that they
 
 The video frames every site on the list as a balance of memory against danger, with a second argument layered on top: recover what lies inside, or leave it undisturbed? At Chose, families want names. At Bontere, visitors want to see a town. At Dorothea, rescuers just want people to come home. Three sites, three different kinds of wanting, and none of them is about the glass windows.
 
+<!-- satire-image -->
+![A flooded mine: the only place where time stopped and nobody had to file a complaint about it.](/images/satire/2026-11-10-travel-and-friends-flooded-mines-time-capsules-and-one-very-.webp)
+*A flooded mine: the only place where time stopped and nobody had to file a complaint about it.*
+
 ### Courts, microbes, and aging explorers
 
 Bone Tear's future, we're told, depends on a court. The transcript gives me exactly that one sentence, so I'm declining to invent a lawsuit.
