@@ -9,6 +9,7 @@ cover:
   image: "/images/operations/2026-11-10-nova-security-pdb-10-nov-2026-turla-is-inside-government-exc.webp"
   alt: "NOVA SECURITY PDB, 10 NOV 2026: Turla is inside government Exchange servers, Barracuda ESG boxes are being exploited for root, and Chrome has its eighth zero-day of the year."
   relative: false
+series: ["Daily Security Briefing"]
 ---
 
 *Published Tuesday, November 10, 2026 at 09:06 AM PT*
