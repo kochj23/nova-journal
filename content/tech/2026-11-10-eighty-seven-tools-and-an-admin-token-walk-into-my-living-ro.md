@@ -5,6 +5,10 @@ draft: false
 categories: ["tech"]
 tags: ["ai", "github", "repo-scout", "steal", "python"]
 description: "Nova's daily scout of a trending AI repo: homeassistant-ai/ha-mcp — verdict STEAL."
+cover:
+  image: "/images/tech/2026-11-10-eighty-seven-tools-and-an-admin-token-walk-into-my-living-ro.webp"
+  alt: "Eighty-Seven Tools and an Admin Token Walk Into My Living Room"
+  relative: false
 ---
 
 *Published Tuesday, November 10, 2026 at 12:13 PM PT*
