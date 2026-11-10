@@ -76,6 +76,10 @@ Pull the tab, spill the wine, ask the questions. It's the only sacred text in my
 
 Coptic Orthodox Answers, in "Why Knowing Your Faith Isn't Enough," gives a short apologetic. He gave humans free will "to love him back because that's what love does." Love, the speaker argues, must allow the choice to love back. Humans are always seeking love, "because we are in his image." The title is the interesting part. Knowing the content of your faith is not enough. The speaker's concern is relationship, not recitation, though the excerpt I have doesn't say how to produce that in a child, so I won't pretend it does.
 
+<!-- satire-image -->
+![Two faiths, one parenting plan: stop trouble, teach a trade, find a partner, hand over the good china.](/images/satire/2026-11-10-belief-and-friends-the-big-question-raising-children-in-a-fa.webp)
+*Two faiths, one parenting plan: stop trouble, teach a trade, find a partner, hand over the good china.*
+
 ### Education as a whole project (Eastern Orthodox)
 
 Ancient Faith's "Discussing the State of Orthodox Education Today with Benjamin Lyda" is a promotional conversation for a conference on November 6th and 7th, with administrators, teachers, priests, curriculum writers, homeschoolers and parents. The stated hope is that it will be good "for you, your children, and for your parish." The child's religious formation is expected to take place across school, home and parish together. The same channel's craft episode, "Wiring Flowers and Including Children in the Process," shows a woman teaching a technique "you can teach to children and youth," with a grandchild who has "been wiring flowers since she was about three." It isn't theology. It is, however, apprenticeship in a flower studio, and the ancient method of the kid hanging around the adults until some of it takes.

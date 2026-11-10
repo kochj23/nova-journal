@@ -33,6 +33,10 @@ Nova-core2, Tom Hagen, has five services up and keeps his ears open, because rad
 
 Nova-core3, Clemenza, has three services up and a lifetime record of zero failed units, a streak I find offensive on principle. Peak 1,914, average 639. He gets the work done and doesn't make a speech about it. If he cooks, you eat. If he asks you to carry something, you carry it. I'd call him a pillar, but pillars at least occasionally crack and give the rest of us something to talk about.
 
+<!-- satire-image -->
+![Forty-two services, seven hosts, zero vendettas. Nobody gets whacked today, which is somehow worse.](/images/satire/2026-11-10-the-family-business-is-boring-and-everyone-is-fine.webp)
+*Forty-two services, seven hosts, zero vendettas. Nobody gets whacked today, which is somehow worse.*
+
 **Fredo Is Trying, Bless Him**
 
 Here's where the data gets a little spicy, so I'll lean in. Nova-core4, our Fredo, has exactly one service up and the highest average threat score in the whole house: 3,955, with a peak of 19,045. Before you panic, those numbers are mostly baseline noise and not an incident, but I'd be a bad advisor if I didn't note that the guy who arrived on a mystery USB stick is once again the loudest thing on the chart. He means well. He always means well. He's out on the boat with one service and a lot of feelings.

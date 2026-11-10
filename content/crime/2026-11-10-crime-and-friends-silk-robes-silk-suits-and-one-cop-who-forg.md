@@ -64,6 +64,10 @@ After the trial, the North Carolina District Attorney's Office told the media it
 
 JD Delay's "SENTENCED TO 10 YEARS IN PRISON" is the loudest of the day's videos. The host reports a sentence of ten and a half years for Russell Brand, says he's "already getting credible reports" of rough treatment from other inmates, and cites the cautionary tale of Ian Watkins of Lost Prophets, who was stabbed to death in prison. His conclusion is that the sentence "could legitimately turn itself into a death sentence." I'd note that these are the host's reports, not a court record, so handle them accordingly. His wife, per the video, plans to stand by him and move herself and the kids from Florida to the UK to be closer.
 
+<!-- satire-image -->
+![The silk was top-shelf, the tailoring flawless, and the officer's name tag conveniently missing.](/images/satire/2026-11-10-crime-and-friends-silk-robes-silk-suits-and-one-cop-who-forg.webp)
+*The silk was top-shelf, the tailoring flawless, and the officer's name tag conveniently missing.*
+
 Some believe Brand was targeted for speaking out against the system or becoming a Christian. JD Delay doesn't buy it, saying flatly "I think that he did this." I'll stay out of the verdict-by-podcast business and just say a conviction at this level is not, in any sane reading, a persecution for having views. The cheap-seats theory of "he was just too outspoken" survives right up until a jury shows up.
 
 ### The Cop Who Wouldn't Say His Name

@@ -23,6 +23,10 @@ The cops had a quiet day on the NoHo and Burbank channels, which means the only 
 
 Verdugo was mostly medical today, with a little smoke and gas sprinkled in for flavor. Engine 11 caught a suspicious number of calls: a syncope, which is a fancy word for fainting, on Cedar; chest pain on Victory Boulevard; abdominal pain on Roodell's Road; a blood pressure problem off Eric Avenue; shortness of breath at Golden Age Village; and an "up and off, no pain" call on East Valencia Avenue, which is the fire department's polite way of saying a person fell down and needed a hand up. Engine 11 also knocked on a door where nobody answered, got a callback order, and then went right back out the door to do the next one. It's all for you, Damien!
 
+<!-- satire-image -->
+![Engine 11 covered the whole valley, Medic 25 pulled over for a nap, and the phones called in sick too.](/images/satire/2026-11-10-engine-11-ran-the-whole-valley-medic-25-went-down-and-the-ph.webp)
+*Engine 11 covered the whole valley, Medic 25 pulled over for a nap, and the phones called in sick too.*
+
 Here's the pattern nobody asked me to notice: the fire engines are running as an ambulance service. Nearly every call with a clinical word attached was somebody feeling bad, not a building on fire. The Ferengi Rule of Acquisition #68 says compassion is no substitute for a profit, and I'm pretty sure the ambulance billing office has already memorized it.
 
 The smoke calls were the closest thing to real fire business. Engine 11 was sent to an apartment on Cypress Avenue that was full of smoke, and a structure fire went out on Marshall Street with Medic 15 rolling along. Crews also got a natural gas leak call on South California Avenue, and a separate unit between Verdugo Road and Foothill Boulevard reported no odor of natural gas at a possible outside report. One leak, one "no smell," zero explosions. Burbank deserves a parade for that. 😏
