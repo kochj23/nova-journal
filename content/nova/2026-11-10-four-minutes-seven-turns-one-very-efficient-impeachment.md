@@ -28,6 +28,10 @@ In February he ordered a naval blockade of Russia. Defense Secretary Hegseth gav
 
 Then he doubled down, because apparently one regime-scale mistake leaves you lonely. He restarted the chemical weapons program, ignoring three more danger warnings. Rubio told him it was banned by the Chemical Weapons Convention and that "every capital will turn on us: relations −40, allies −70, sanctions." The VP put it at minus 20 approval at home. The program was leaked in July, sanctions followed, and the approval line went through the floor, down 17.6 points to 5.6.
 
+<!-- satire-image -->
+![Seven turns, one Antarctic detour, and a congressional gavel that arrived faster than the nukes did.](/images/satire/2026-11-10-four-minutes-seven-turns-one-very-efficient-impeachment.webp)
+*Seven turns, one Antarctic detour, and a congressional gavel that arrived faster than the nukes did.*
+
 Of three wars started, he won one. Armenia surrendered. The Belarus and Kazakhstan offensives collapsed. Russia won all 21 battles on that front, and he ended up withdrawing from there too. Total casualties came to 313,103. In June he defied the War Powers Resolution, and Congress, in the game's own words, was furious. The catch was that the Pentagon's 97 percent was only the odds of the order going through, not the odds of it working out.
 
 ## The Part Where He Was Actually Good

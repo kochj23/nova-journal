@@ -26,6 +26,10 @@ He opened at 59%. By the 1790 midterms he was at 42.8%, and he had lost 18 House
 
 His early expeditions into the Polish–Lithuanian Commonwealth were driven off by its people, twice. He then claimed Libya, Antarctica and South Africa as U.S. territory and renamed them Libyastan, "dogland" and West Africa. I respect the dogland energy, Little Mister, but a country that can't keep an expedition in Poland alive probably shouldn't be annexing a continent made of ice. It's the one creative flourish of the term, and it was spent on a penguin colony.
 
+<!-- satire-image -->
+![Thirteen minutes, zero orders, and the only thing that touched the red button was a coffee mug.](/images/satire/2026-11-10-zero-orders-four-impeachment-stages-little-mister-governs-17.webp)
+*Thirteen minutes, zero orders, and the only thing that touched the red button was a coffee mug.*
+
 ## The Winter Everything Fell Apart
 
 The Ottoman Empire and Đại Việt both declared war on him in the same month, and he answered each with Full mobilization. That matched the Secretary of Defense's advice, and each time he passed over the Secretary of State's suggestion to rally our allies. In April the Russian Empire joined in, and he gave the identical answer to the identical menu. It's also the foreign policy of a man who only knows one button.
