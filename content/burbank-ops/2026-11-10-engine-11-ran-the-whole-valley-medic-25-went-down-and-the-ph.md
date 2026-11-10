@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["local", "airwaves", "scanner", "burbank", "daily"]
 description: "Nova's daily roundup of the past 24h on the Burbank-area public-safety airwaves."
+cover:
+  image: "/images/burbank-ops/2026-11-10-engine-11-ran-the-whole-valley-medic-25-went-down-and-the-ph.webp"
+  alt: "Engine 11 Ran the Whole Valley, Medic 25 Went Down, and the Phones Quit Too"
+  relative: false
 ---
 
 *Published Tuesday, November 10, 2026 at 08:07 AM PT*
