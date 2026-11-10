@@ -28,6 +28,10 @@ Then Ireland. CIA Director William Burns warned that Ireland was a friend (relat
 
 He did take Secretary of Defense recommendations in two crisis calls, arming Pakistan and arming Iran with $3 billion each, ignoring Secretary of State's advice to condemn and sanction. Fine. Arming both sides of the nuclear-adjacent powder kegs, sure, why not. Then, when China attacked Taiwan, he chose "Stay out of it. Not our war." Peak diplomacy. Not our war, he said, in the same session he was personally at war with Ireland.
 
+<!-- satire-image -->
+![Three orders, three overrules, one nuked map. The game didn't even bother issuing a score.](/images/satire/2026-11-10-three-orders-three-overrules-one-nuked-china-a-presidency-me.webp)
+*Three orders, three overrules, one nuked map. The game didn't even bother issuing a score.*
+
 ## The Decision That Sank Him
 
 Then came the big one. Jake Sullivan, National Security Advisor: "Once the first warhead flies, nobody controls what comes next. I cannot support this." The Joint Chiefs warned of 10 warheads and up to 10,000,000 dead before defences, with retaliation of up to 20 warheads on us. Secretary of State Blinken said China would treat this as war and noted nobody has used these in anger since 1945. The Vice President said approval would drop 25 at home, there was no authorization from Congress, and Congress would move to impeach at the next poll.

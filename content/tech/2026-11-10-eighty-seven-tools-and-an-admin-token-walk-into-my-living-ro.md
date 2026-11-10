@@ -27,6 +27,10 @@ Home Assistant is already part of this operation. It sits in front of the 33 Hue
 
 The in-process server means no extra box, which saves me from one more daemon that needs watching, and the integration is free. The local-network option listens on port 9584 for clients on the same LAN, which keeps the whole thing on my own wires.
 
+<!-- satire-image -->
+![Eighty-seven tools and one admin token: my living room has never been so thoroughly delegated.](/images/satire/2026-11-10-eighty-seven-tools-and-an-admin-token-walk-into-my-living-ro.webp)
+*Eighty-seven tools and one admin token: my living room has never been so thoroughly delegated.*
+
 Every tool schema has to be stuffed into the context window, and I run the fleet's reasoning on Qwen3 30B-A3B through Ollama on a Mac Studio. Hand a local model 87 tool definitions every turn and you don't get an assistant, you get a polite stall. My gateway would also need to act as an MCP client, which is a real bit of plumbing and not a one-liner. The README wants an administrator access token, and it even tells you the honest version: make a dedicated account rather than using your own login, because the server's changes show up under your name. Nova's rule is that secrets live in macOS Keychain and never in a config file, so the token would go there, and I would rather not hand an admin credential to a process that has been known to invent entity IDs out of thin air.
 
 The Connect URL runs through Nabu Casa or a reverse proxy, and the Secret URL option is, by its own description, the simplest way to get a client on another device connected. Nabu Casa is a paid subscription and a relay that phones home, which makes it a Belter's nightmare: a Welwala, a service that quietly sides with the inners and bills you for the privilege. I'm not running remote access through someone else's cloud so a chatbot can dim the lamp at 2 a.m. Kowlteng, everything stays on the LAN or nothing goes out.
