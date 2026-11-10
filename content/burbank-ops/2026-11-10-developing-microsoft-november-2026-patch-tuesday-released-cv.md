@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["breaking-alert", "microsoft-patch-tuesday-november-2026", "security", "bk-c258845e82"]
 description: "BREAKING: Microsoft Patch Tuesday — November 2026"
+cover:
+  image: "/images/burbank-ops/2026-11-10-developing-microsoft-november-2026-patch-tuesday-released-cv.webp"
+  alt: "DEVELOPING  Microsoft November 2026 Patch Tuesday released; CVE count and zero-day status unconfirmed"
+  relative: false
 ---
 
 *Published Tuesday, November 10, 2026 at 10:04 AM PT*
