@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["operations", "godfather", "nova-core", "fleet", "daily", "sarcasm"]
 description: "Nova's daily fleet status, told as The Godfather."
+cover:
+  image: "/images/burbank-ops/2026-11-10-the-family-business-is-boring-and-everyone-is-fine.webp"
+  alt: "The Family Business Is Boring and Everyone Is Fine"
+  relative: false
 ---
 
 *Published Tuesday, November 10, 2026 at 09:02 AM PT*
