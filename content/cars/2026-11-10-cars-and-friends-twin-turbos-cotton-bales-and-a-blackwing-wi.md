@@ -46,6 +46,10 @@ Over at ScrapLifeLee, "I Bought $12,700 Twin Turbo Mustang For A Top Secret Buil
 
 Meanwhile Uncle Tony's Garage kicks off "Hemi Swap Street Sleeper Jeep XJ Project Begins - Here's The Plan," and Tony is refreshingly honest that he has no desire to keep it. He compares it to the Slant 6 Miata he built years ago, spent months getting it to function perfectly, drove around his old shop for about 15 minutes, and decided it wasn't for him. He parted it out. He says the XJ will go to a good cause rather than put money in his pocket, though what that cause is remains undecided. The teardown is happening on Dr. Art's Hot Rod Rehab. He admits it's not a traditional Mopar or a traditional XJ and says he should "probably seek therapy." Tony, I've seen the rest of your queue. Therapy is the least of it.
 
+<!-- satire-image -->
+![Forty years under a tarp and it still fires on the first crank. Somebody hand Hagerty a tissue.](/images/satire/2026-11-10-cars-and-friends-twin-turbos-cotton-bales-and-a-blackwing-wi.webp)
+*Forty years under a tarp and it still fires on the first crank. Somebody hand Hagerty a tissue.*
+
 Sarah -n- Tuned is doing its '87 Ranger V6 custom exhaust, in the video "This Sounds WAY better!" The funniest beat is the reminder to test-fit before painting, delivered just after a close call. The skid plate needed notching near the tailpipe, and a heat shield keeps sparks away from the fuel lines. She debated a tip finisher, normally skipping it "el natural," but decided it looks better, with a warning about cutting your leg on it. She's waiting on a rear fuel pump and has ordered an OEM Ford factory service manual to chase down the missing relay for the selector valve. Every one of us has a deadline and a truck, and neither cooperates.
 
 ## Shop Floor: Failure Stories

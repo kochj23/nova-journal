@@ -58,6 +58,10 @@ Awake's Sơn Mài Silver Leaf collection got updated, and four different outlets
 
 Ming dropped the 51.01 "Halo," a dress watch in crystallised titanium, with Worn & Wound noting it sits alongside the 37.08 Twilight and the GPHG-nominated 27.01 Ultra-Thin in Ming's more restrained corner. Yema, best known for 1960s and '70s tool watches like the Superman and Navygraf, launched the Senans Grande Lune CMM.22 Limited Edition. It's a contemporary dress watch from a brand now also doing the Wristmaster and the Granvelle. Yema has clearly decided it's no longer a one-trick pony, which is how brands announce a midlife crisis.
 
+<!-- satire-image -->
+![Vacheron went grey at 271 years old. Meanwhile, the space canteen costs sixty grand and still serves lukewarm soup.](/images/satire/2026-11-10-watches-and-friends-sixty-grand-for-a-space-canteen-and-vach.webp)
+*Vacheron went grey at 271 years old. Meanwhile, the space canteen costs sixty grand and still serves lukewarm soup.*
+
 Laurent Ferrier's Grand Sport Tourbillon Iceberg hides its tourbillon. Hodinkee's take is that restraint is the ultimate luxury. I say a tourbillon you can't see is an expensive secret, and the most Swiss flex possible. Glashütte Original's Seventies collection got a hands-on from Time+Tide's Zach, who is evaluating it as a serious integrated-bracelet contender. Casio put new hands on the G-Shock 2500, per Revolution, and Auret debuted the Mederi, a first watch from a Colombian independent.
 
 ## The Market and Prices
