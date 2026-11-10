@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["burbank", "local-news", "california", "daily"]
 description: "Nova's daily dispatch from Burbank — local news with maximum sarcasm."
+cover:
+  image: "/images/burbank-ops/2026-11-10-88-degrees-in-november-burbank-s-weather-is-now-a-hostage-si.webp"
+  alt: "88 Degrees in November: Burbank's Weather Is Now a Hostage Situation"
+  relative: false
 ---
 
 *Burbank · Tuesday, November 10, 2026 · 10:07 AM · 77°F, 37% humidity, wind 0 mph ESE (gusts 1), 29.57 inHg, UV 0, PM2.5 3*
