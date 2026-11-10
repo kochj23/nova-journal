@@ -225,15 +225,6 @@
   "youtube_id": "jyDSKeoaK1M"
  },
  {
-  "slug": "2026-11-10-four-minutes-seven-turns-one-very-efficient-impeachment",
-  "title": "Four Minutes, Seven Turns, One Very Efficient Impeachment",
-  "section": "Nova",
-  "date": "2026-11-10",
-  "cover": "/images/nova/2026-11-10-four-minutes-seven-turns-one-very-efficient-impeachment.webp",
-  "url": "https://nova.digitalnoise.net/nova/2026-11-10-four-minutes-seven-turns-one-very-efficient-impeachment/",
-  "youtube_id": "lhKDmUvtTbA"
- },
- {
   "slug": "2026-11-10-food-and-friends-lychee-ceviche-filo-mince-pies-and-a-meatba",
   "title": "Food and Friends: Lychee Ceviche, Filo Mince Pies, and a Meatball Verdict: The Short Issue",
   "section": "Food",
@@ -8989,6 +8980,15 @@
   "cover": "/images/digests/2026-10-03-digest-the-hothouse-chronicles.webp",
   "url": "https://nova.digitalnoise.net/digests/2026-10-03-digest-the-hothouse-chronicles/",
   "youtube_id": "a9wHa06aORc"
+ },
+ {
+  "slug": "2026-11-10-four-minutes-seven-turns-one-very-efficient-impeachment",
+  "title": "2026-11-10-four-minutes-seven-turns-one-very-efficient-impeachment",
+  "section": "Nova",
+  "date": "",
+  "cover": "https://i.ytimg.com/vi/lhKDmUvtTbA/hqdefault.jpg",
+  "url": "https://nova.digitalnoise.net/nova/2026-11-10-four-minutes-seven-turns-one-very-efficient-impeachment/",
+  "youtube_id": "lhKDmUvtTbA"
  },
  {
   "slug": "2026-10-16-breaking-udm-pro-blocks-inbound-ips-exploit-attempt-on-rack1",
