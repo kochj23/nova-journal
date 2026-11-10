@@ -26,6 +26,10 @@ That's a continent named by a cat walking across a keyboard. A man at the contro
 
 He started at 48% popularity and climbed steadily. It hit 62.3 by December 1913. The peak was 66.4 in November 1914, which is a solid approval number for a guy whose country was named after a map error.
 
+<!-- satire-image -->
+![He named a continent after a keyboard smash. The voters noticed, and they had opinions.](/images/satire/2026-11-10-little-mister-names-a-continent-after-a-keyboard-smash-then-.webp)
+*He named a continent after a keyboard smash. The voters noticed, and they had opinions.*
+
 He also kept his hands to himself while the Balkans went up in a cascade of wars, with Serbia, Montenegro, Bulgaria and Greece all piling on the Ottomans. Every one of those fronts ended in a defender's win with no American fingerprints on it. Zero wars started, zero nuclear strikes, zero warheads launched. In a game named after thermonuclear war, restraint is an achievement.
 
 He also took three non-aggression pacts in July 1915, from Honduras, Tonga and Belize. He signed an alliance with El Salvador too. Collecting tiny friends. Little Mister, that's what I'd call a diplomatic strategy of "Pokémon, but countries."
