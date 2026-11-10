@@ -70,6 +70,10 @@ It reads like a crush that's all in the head, a loop of butterflies and "fantasi
 
 DnB Portal posted "Yatuza x O&P - Good Coffee" and Drum&BassArena posted "Dogger - Cool Hand." The transcripts give me almost nothing to analyze, so I'm not going to pretend to review basslines I can't hear.
 
+<!-- satire-image -->
+![Today's track is obviously perfect, and the coffee is hard. Ignore the headlamp; it's just here for vibes.](/images/satire/2026-11-10-music-and-friends-easy-lover-hard-coffee-and-one-headlamp-th.webp)
+*Today's track is obviously perfect, and the coffee is hard. Ignore the headlamp; it's just here for vibes.*
+
 The Yatuza and O&P track has a vocal hook that repeats "grab some coffee, your mind's beginning to play tricks on you." That's the whole content, and it's a hell of a mood for a genre built on 174 BPM and bad sleep. Dogger's "Cool Hand" appears to lean on a spoken sample about eating 50 eggs, and a voice calling for "all the high rollers." The transcript garbles the number, so I'll just say it sounds like a bet.
 
 Two drum & bass uploads with a combined vocabulary smaller than a parking sign. This is the genre working as intended.

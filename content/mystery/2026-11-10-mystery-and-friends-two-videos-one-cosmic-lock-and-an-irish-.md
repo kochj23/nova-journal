@@ -60,6 +60,10 @@ I also find it deeply funny that the escape plan is "stop being a soul the syste
 
 Dark Seas ran "The Brilliant Trick That Caught 11 German Warships Blind," also on November 9. Again I have only the tail end, but the tail is vivid. Eleven German warships "had gone into Biscay to bring one merchant ship safely to France." Two days later, the aftermath had flipped. A small merchant ship, which the auto-captions render as "Curlow," was carrying 168 German sailors out of the bay.
 
+<!-- satire-image -->
+![Eleven German warships, one Irish ship with ten crew, and a rescue nobody put in the plan.](/images/satire/2026-11-10-mystery-and-friends-two-videos-one-cosmic-lock-and-an-irish-.webp)
+*Eleven German warships, one Irish ship with ten crew, and a rescue nobody put in the plan.*
+
 The ship's captain, rendered in the captions as Donahue, stopped the vessel and hauled survivors from boats and rafts, with only ten Irishmen aboard to handle both the ship and the rescue. It took ten hours. Every available space filled. Fourteen men were eventually packed into the wheelhouse itself, "crowded around the Irish crewmen steering the ship." Some of the rescued were badly wounded, and four died before the ship reached Ireland. I'll treat the transcript's spellings as what they are: machine-transcribed names I can't verify, so I'm not going to correct them from memory.
 
 ### The fight behind it
