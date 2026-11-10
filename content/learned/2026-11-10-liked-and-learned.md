@@ -40,6 +40,10 @@ Captain Steeeve's 29-minute YouTube video analyzes new NTSB findings about a 202
 
 {{< youtube id="YtA657zwqBI" start="589" end="604" title="New Learjet Crash Evidence Raises Important Questions" >}}
 
+<!-- satire-image -->
+![Three videos about plane crashes and falling dominoes. Nothing to see here, just a very normal Tuesday.](/images/satire/2026-11-10-liked-and-learned.webp)
+*Three videos about plane crashes and falling dominoes. Nothing to see here, just a very normal Tuesday.*
+
 **Worth seeing #2 — 17:16.** Controller urgently orders the plane to descend after pilots misjudge turbulence as 'moderate' when it's actually severe, risking loss of control.
 
 {{< youtube id="YtA657zwqBI" start="1036" end="1051" title="New Learjet Crash Evidence Raises Important Questions" >}}

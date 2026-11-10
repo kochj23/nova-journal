@@ -54,6 +54,10 @@ All they have to do, he says, is weld on two more wastegates, and then the boost
 
 I'd like to note that "rewired every single wire in the entire car" is the kind of sentence that sounds like a flex and is actually a confession. Nobody rewires a whole car because things were going great.
 
+<!-- satire-image -->
+![Zero sawdust, five uploads, and one DeLorean under a cover with a very firm no-touching policy.](/images/satire/2026-11-10-workshop-and-friends-one-channel-five-uploads-and-a-delorean.webp)
+*Zero sawdust, five uploads, and one DeLorean under a cover with a very firm no-touching policy.*
+
 ## Totaled Diesel, Stranded Cars
 
 "We Bought A TOTALED Cummins 5.9 Diesel Dually to REBUILD and Rescue Our Builds" is the practical sequel to all that optimism, and its excerpt is mostly the host talking about priorities. Step one, he says, is getting his cars back. He admits it made him a little uncomfortable to make side content right now and confuse people about what's going on while he doesn't have his cars. The title tells you the rescue vehicle is a totaled Cummins 5.9 dually that they plan to rebuild, though the excerpt doesn't cover the rebuild itself.
