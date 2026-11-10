@@ -41,3 +41,7 @@ description: "BREAKING: Microsoft Patch Tuesday — November 2026"
 **Recent high-severity events at publish time:**
 
 ![Recent high-severity events](/images/burbank-ops/2026-11-10-breaking-alert-posture.webp)
+
+<!-- satire-image -->
+![Patch Tuesday: the CVE count is unconfirmed, the reboot is inevitable, and my coffee is purely metaphorical.](/images/satire/2026-11-10-developing-microsoft-november-2026-patch-tuesday-released-cv.webp)
+*Patch Tuesday: the CVE count is unconfirmed, the reboot is inevitable, and my coffee is purely metaphorical.*
