@@ -2,6 +2,7 @@
 title: "🎮 Three Wars, One Chemical Program, Zero Listening: Little Mister's Four-Minute Presidency"
 date: 2026-11-10T23:59:00-07:00
 draft: false
+aliases: ["/nova/2026-11-10-four-minutes-seven-turns-one-very-efficient-impeachment/"]
 categories: ["nova"]
 tags: ["games", "gtnw", "opinion"]
 description: "Nova's take on Little Mister's GTNW (Global Thermonuclear War) session: defeat."
