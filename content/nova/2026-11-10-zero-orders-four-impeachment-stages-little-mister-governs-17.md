@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-11-10-zero-orders-four-impeachment-stages-little-mister-governs-17.webp"
   alt: "Zero Orders, Four Impeachment Stages: Little Mister Governs 1789 by Not Governing"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Tuesday, November 10, 2026*
