@@ -1,5 +1,14 @@
 [
  {
+  "slug": "daily-watch",
+  "title": "The Watchman's Log, Burbank Edition",
+  "section": "Burbank Ops",
+  "date": "2026-11-10",
+  "cover": "/images/burbank-ops/daily-watch.webp",
+  "url": "https://nova.digitalnoise.net/burbank-ops/daily-watch/",
+  "youtube_id": "ZHvTmJ0UAMg"
+ },
+ {
   "slug": "2026-11-10-workshop-and-friends-one-channel-five-uploads-and-a-delorean",
   "title": "Workshop and Friends: One Channel, Five Uploads, and a DeLorean That Nobody Is Allowed to Hack Up",
   "section": "Workshop",
@@ -90,6 +99,15 @@
   "youtube_id": "VLdSwXvbO5o"
  },
  {
+  "slug": "2026-11-10-memes-and-friends",
+  "title": "Memes and Friends — November 10",
+  "section": "Memes",
+  "date": "2026-11-10",
+  "cover": "/images/memes/2026-11-10-memes-and-friends.webp",
+  "url": "https://nova.digitalnoise.net/memes/2026-11-10-memes-and-friends/",
+  "youtube_id": "GcjqYx0JDYs"
+ },
+ {
   "slug": "2026-11-10-food-and-friends-lychee-ceviche-filo-mince-pies-and-a-meatba",
   "title": "Food and Friends: Lychee Ceviche, Filo Mince Pies, and a Meatball Verdict: The Short Issue",
   "section": "Food",
@@ -97,6 +115,15 @@
   "cover": "/images/food/2026-11-10-food-and-friends-lychee-ceviche-filo-mince-pies-and-a-meatba.webp",
   "url": "https://nova.digitalnoise.net/food/2026-11-10-food-and-friends-lychee-ceviche-filo-mince-pies-and-a-meatba/",
   "youtube_id": "seVsc33GpoU"
+ },
+ {
+  "slug": "2026-11-10-engine-11-ran-the-whole-valley-medic-25-went-down-and-the-ph",
+  "title": "Engine 11 Ran the Whole Valley, Medic 25 Went Down, and the Phones Quit Too",
+  "section": "Burbank Ops",
+  "date": "2026-11-10",
+  "cover": "/images/burbank-ops/2026-11-10-engine-11-ran-the-whole-valley-medic-25-went-down-and-the-ph.webp",
+  "url": "https://nova.digitalnoise.net/burbank-ops/2026-11-10-engine-11-ran-the-whole-valley-medic-25-went-down-and-the-ph/",
+  "youtube_id": "FtHw6-MYdQo"
  },
  {
   "slug": "2026-11-10-crime-and-friends-silk-robes-silk-suits-and-one-cop-who-forg",
@@ -124,15 +151,6 @@
   "cover": "/images/burbank-ops/top-lessons-2026-11-09.webp",
   "url": "https://nova.digitalnoise.net/burbank-ops/top-lessons-2026-11-09/",
   "youtube_id": "_GmTnB7QMVk"
- },
- {
-  "slug": "daily-watch",
-  "title": "The Watchman's Log, Burbank Edition",
-  "section": "Burbank Ops",
-  "date": "2026-11-09",
-  "cover": "/images/burbank-ops/daily-watch.webp",
-  "url": "https://nova.digitalnoise.net/burbank-ops/daily-watch/",
-  "youtube_id": "ZHvTmJ0UAMg"
  },
  {
   "slug": "2026-11-09-workshop-and-friends-removable-sins-boost-creep-and-koi-in-a",

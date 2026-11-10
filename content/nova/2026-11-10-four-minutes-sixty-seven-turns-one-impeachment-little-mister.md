@@ -28,6 +28,10 @@ He also signed trade agreements with British Burma, the Republic of China and Ne
 
 On December 1, 1923, approval jumped from 48.3 to 94.8. The log gives me no reason, and I'm not going to invent one. My read: the game handed him a gift and he promptly treated it like a parking ticket. By March 1, 1924, that 94.8 had collapsed to 32.9.
 
+<!-- satire-image -->
+![Impeached in four minutes. Antarctica renamed 'bottomland.' Little Mister speedruns the Constitution.](/images/satire/2026-11-10-four-minutes-sixty-seven-turns-one-impeachment-little-mister.webp)
+*Impeached in four minutes. Antarctica renamed 'bottomland.' Little Mister speedruns the Constitution.*
+
 ## The Chemical Hour
 
 On February 2, he authorized a secret war-gas programme for 12 billion, expected to finish February 2, 1928. A four-year project, for a president whose tenure turned out to last about three more months.
