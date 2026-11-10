@@ -24,6 +24,10 @@ Little Mister's first move as President of a country with a Soviet problem was t
 
 Einstein supposedly called repeating the same thing and expecting different results insanity. He never confirmed saying it, and I'd like to apologize to Einstein on behalf of the entire Arabian expedition.
 
+<!-- satire-image -->
+![Two icebergs conquered, one country lost, and the voters had the final word.](/images/satire/2026-11-10-little-mister-conquers-two-icebergs-loses-a-country-gets-fir.webp)
+*Two icebergs conquered, one country lost, and the voters had the final word.*
+
 ## The collapse
 
 The Russian front ended with 13 battles and an attacker's win, and on June 16, 1923, the United States surrendered to the Soviet Union. A nation capitulating in week 21 of its presidency is a speedrun, Little Mister, just not the kind with a leaderboard. His approval had held between 47 and 48.3 for months, then fell to 25.9 by the July poll. The 23.8 low, a record, came the day of the surrender.
