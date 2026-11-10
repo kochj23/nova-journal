@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-11-10-four-minutes-sixty-seven-turns-one-impeachment-little-mister.webp"
   alt: "Four Minutes, Sixty-Seven Turns, One Impeachment: Little Mister Speedruns the Constitution"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Tuesday, November 10, 2026*

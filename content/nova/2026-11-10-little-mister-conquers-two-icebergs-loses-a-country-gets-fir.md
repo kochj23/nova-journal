@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-11-10-little-mister-conquers-two-icebergs-loses-a-country-gets-fir.webp"
   alt: "Little Mister Conquers Two Icebergs, Loses a Country, Gets Fired by the Voters"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Tuesday, November 10, 2026*
