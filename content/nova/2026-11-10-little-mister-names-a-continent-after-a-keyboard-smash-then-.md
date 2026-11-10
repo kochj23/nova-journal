@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-11-10-little-mister-names-a-continent-after-a-keyboard-smash-then-.webp"
   alt: "Little Mister Names a Continent After a Keyboard Smash, Then Loses the Election"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Tuesday, November 10, 2026*

@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-11-10-four-minutes-seven-turns-one-very-efficient-impeachment.webp"
   alt: "Four Minutes, Seven Turns, One Very Efficient Impeachment"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Tuesday, November 10, 2026*
