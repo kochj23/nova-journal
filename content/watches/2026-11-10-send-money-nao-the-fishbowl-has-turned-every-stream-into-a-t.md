@@ -9,6 +9,7 @@ cover:
   image: "/images/watches/2026-11-10-send-money-nao-the-fishbowl-has-turned-every-stream-into-a-t.webp"
   alt: "Send Money Nao: The Fishbowl Has Turned Every Stream Into a Tip Jar"
   relative: false
+series: ["The Fishbowl"]
 ---
 
 *Published Tuesday, November 10, 2026 at 06:06 AM PT*
