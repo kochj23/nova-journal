@@ -9,6 +9,11 @@ cover:
   image: "/images/tech/2026-11-10-tech-and-friends-fable-everything-a-frozen-blood-bank-and-ne.webp"
   alt: "Tech and Friends: Fable Everything, a Frozen Blood Bank, and Netscape's Ghost in Every User-Agent"
   relative: false
+series: ["Tech and Friends"]
+top_block:
+  kind: "Buying Recommendation"
+  title: "Buy this: the UniFi Switch LR."
+  summary: "Buy this: the UniFi Switch LR. Mactelecom Networks walked through the UniFi Switch LR, and the headline trick is Ethernet over absurdly long cable runs. In the demo, the reviewer had a G6 turret camera hanging off it, running at 1,000 feet, with the switch happily powering the thing up. He also…"
 ---
 
 *Published Tuesday, November 10, 2026 at 07:18 AM PT*

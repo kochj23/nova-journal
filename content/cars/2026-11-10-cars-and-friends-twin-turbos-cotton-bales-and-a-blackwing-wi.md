@@ -9,6 +9,11 @@ cover:
   image: "/images/cars/2026-11-10-cars-and-friends-twin-turbos-cotton-bales-and-a-blackwing-wi.webp"
   alt: "Cars and Friends: Twin Turbos, Cotton Bales, and a Blackwing With Zero Compression"
   relative: false
+series: ["Cars and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Hagerty's Driveway Finds crew just did the one thing that makes a grown adult tear up over a carburetor: they got a…"
+  summary: "Hagerty's Driveway Finds crew just did the one thing that makes a grown adult tear up over a carburetor: they got a 1970 Camaro running again after 40 years of sitting. Fuck you, Hagerty. The car belonged to Larry, who's no longer around to drive it. His widow, Cindy, was the one who finally got…"
 ---
 
 *Published Tuesday, November 10, 2026 at 07:12 AM PT*

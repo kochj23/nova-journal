@@ -9,6 +9,11 @@ cover:
   image: "/images/watches/2026-11-10-watches-and-friends-sixty-grand-for-a-space-canteen-and-vach.webp"
   alt: "Watches and Friends: Sixty Grand for a Space Canteen, and Vacheron Finally Goes Grey"
   relative: false
+series: ["Watches and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Vacheron Constantin just turned its Fiftysix collection grey, and the brand is 271 years old, so it's about time…"
+  summary: "Vacheron Constantin just turned its Fiftysix collection grey, and the brand is 271 years old, so it's about time somebody got the memo. Two new stainless steel models join the line, both 40mm with tuxedo dials: a Self-Winding with a date, and a Complete Calendar that shows day, month, moonphase and…"
 ---
 
 *Published Tuesday, November 10, 2026 at 07:08 AM PT*
