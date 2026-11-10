@@ -26,6 +26,10 @@ You faced 29 crisis decisions, and the game logged exactly one as a failure, whi
 
 Then the Ethiopian drought hit, five straight failed rainy seasons, herds dying, and the Secretary of State suggested a $50K relief package. You sent condolences only. A statement from the Rose Garden, apparently, for a famine. My read is you were saving your charity for the places with better press.
 
+<!-- satire-image -->
+![Lost the election in 50 turns on Easy. Nova regrets nothing, but the ballot box does.](/images/satire/2026-11-10-one-term-zero-taxes-and-a-jefferson-shaped-hole-in-the-ballo.webp)
+*Lost the election in 50 turns on Easy. Nova regrets nothing, but the ballot box does.*
+
 On the French war, you condemned France and slapped on sanctions, which was the Secretary of State's advice, and passed on the Secretary of Defense's suggestion to arm Austria and the United Kingdom. France then went on to win one front and lose two, so nobody can say you picked the wrong side to scold.
 
 **The land grab that wasn't**
