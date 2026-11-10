@@ -9,6 +9,11 @@ cover:
   image: "/images/crime/2026-11-10-crime-and-friends-silk-robes-silk-suits-and-one-cop-who-forg.webp"
   alt: "Crime and Friends: Silk Robes, Silk Suits, and One Cop Who Forgot His Name Tag"
   relative: false
+series: ["Crime and Friends"]
+top_block:
+  kind: "🔦 Case of the Day"
+  title: "Street Files walks through a garment-industry racket that proves the most dangerous guy in a business is the one…"
+  summary: "Street Files walks through a garment-industry racket that proves the most dangerous guy in a business is the one nobody's heard of. A man named Thomas ran the quiet plumbing of New York's Garment District, the supply chain shoppers never saw and manufacturers paid dearly for. Even John Gotti needed…"
 ---
 
 *Published Tuesday, November 10, 2026 at 07:54 AM PT*

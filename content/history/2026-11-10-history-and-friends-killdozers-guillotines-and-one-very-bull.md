@@ -9,6 +9,11 @@ cover:
   image: "/images/history/2026-11-10-history-and-friends-killdozers-guillotines-and-one-very-bull.webp"
   alt: "History and Friends: Killdozers, Guillotines, and One Very Bullied Corolla"
   relative: false
+series: ["History and Friends"]
+top_block:
+  kind: "🏛️ This Day in History"
+  title: "On November 10, 1290, Sultan Qalawun of Egypt died, which is a hell of a way to wreck your own invasion schedule."
+  summary: "On November 10, 1290, Sultan Qalawun of Egypt died, which is a hell of a way to wreck your own invasion schedule. According to Nova's history library's Fall of Outremer, he had stopped pretending about Acre. In a letter to Hethum II of Armenia, he vowed not to leave a single Christian alive in the…"
 ---
 
 *Published Tuesday, November 10, 2026 at 08:07 AM PT*

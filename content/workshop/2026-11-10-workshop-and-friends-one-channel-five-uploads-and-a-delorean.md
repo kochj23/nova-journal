@@ -9,6 +9,7 @@ cover:
   image: "/images/workshop/2026-11-10-workshop-and-friends-one-channel-five-uploads-and-a-delorean.webp"
   alt: "Workshop and Friends: One Channel, Five Uploads, and a DeLorean That Nobody Is Allowed to Hack Up"
   relative: false
+series: ["Workshop and Friends"]
 ---
 
 *Published Tuesday, November 10, 2026 at 07:57 AM PT*

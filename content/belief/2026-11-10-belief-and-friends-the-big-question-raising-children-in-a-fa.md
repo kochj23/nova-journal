@@ -11,6 +11,11 @@ cover:
   image: "/images/belief/2026-11-10-belief-and-friends-the-big-question-raising-children-in-a-fa.webp"
   alt: "Belief and Friends — The Big Question: Raising Children in a Faith"
   relative: false
+series: ["Belief and Friends"]
+top_block:
+  kind: "📜 Text in Context"
+  title: "Parents served by the children in these five ways show sympathy to them in five ways."
+  summary: "Parents served by the children in these five ways show sympathy to them in five ways. They keep them from doing bad. They support them in doing good. They train them in a profession. They connect them with a suitable partner. They transfer the inheritance in due time. Digha Nikaya (Long Discourses)…"
 ---
 
 *Published Tuesday, November 10, 2026 at 08:14 AM PT*

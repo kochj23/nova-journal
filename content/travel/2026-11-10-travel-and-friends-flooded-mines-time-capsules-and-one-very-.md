@@ -9,6 +9,11 @@ cover:
   image: "/images/travel/2026-11-10-travel-and-friends-flooded-mines-time-capsules-and-one-very-.webp"
   alt: "Travel and Friends: Flooded Mines, Time Capsules, and One Very Thin News Day"
   relative: false
+series: ["Travel and Friends"]
+top_block:
+  kind: "🗺️ Place of the Day"
+  title: "Chose, a flooded mine where the water hit pause and never hit play"
+  summary: "Chose, a flooded mine where the water hit pause and never hit play Most ruins have the decency to fall apart in public. A flooded mine does the opposite. The water rises, everything stops in place, and the place sits sealed in the dark like the world's worst Tupperware. Cold, still water slows the…"
 ---
 
 *Published Tuesday, November 10, 2026 at 08:05 AM PT*
