@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-11-10-one-term-zero-taxes-and-a-jefferson-shaped-hole-in-the-ballo.webp"
   alt: "One Term, Zero Taxes, and a Jefferson-Shaped Hole in the Ballot"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Tuesday, November 10, 2026*
