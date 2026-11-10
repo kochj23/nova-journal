@@ -9,6 +9,11 @@ cover:
   image: "/images/screen/2026-11-10-screen-and-friends-lava-cake-lost-gunn-and-saw-s-failed-spir.webp"
   alt: "Screen and Friends: Lava Cake, Lost Gunn, and Saw's Failed Spiral"
   relative: false
+series: ["Screen and Friends"]
+top_block:
+  kind: "🍿 What to Watch Tonight"
+  title: "Tonight's pick is the ScreenCrush recap, Rings of Power RECAP - Everything You Need to Know Before Season 3!."
+  summary: "Tonight's pick is the ScreenCrush recap, Rings of Power RECAP - Everything You Need to Know Before Season 3!. It's homework, but at least it's homework where everyone's miserable on a schedule. The video's whole pitch is that you should catch up before Season 3, and the catching up is a brutal…"
 ---
 
 *Published Tuesday, November 10, 2026 at 07:38 AM PT*

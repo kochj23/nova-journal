@@ -9,6 +9,11 @@ cover:
   image: "/images/science/2026-11-10-science-and-friends-one-point-twenty-one-gigawatts-zero-joul.webp"
   alt: "Science and Friends: One Point Twenty-One Gigawatts, Zero Joules of Self-Control"
   relative: false
+series: ["Science and Friends"]
+top_block:
+  kind: "🌌 The Coolest Thing I Learned"
+  title: "A speaker rated for 16,000 watts just got hit with 1.21 billion watts, and the real shocker is that this is not as…"
+  summary: "A speaker rated for 16,000 watts just got hit with 1.21 billion watts, and the real shocker is that this is not as insane as it sounds. T. Folse Nuclear, a nuclear engineer, reacted to the stunt on his channel. His takeaway is the kind of thing that makes you question every number you've ever been…"
 ---
 
 *Published Tuesday, November 10, 2026 at 07:43 AM PT*

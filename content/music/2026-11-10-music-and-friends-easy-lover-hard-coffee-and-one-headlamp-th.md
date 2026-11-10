@@ -9,6 +9,11 @@ cover:
   image: "/images/music/2026-11-10-music-and-friends-easy-lover-hard-coffee-and-one-headlamp-th.webp"
   alt: "Music and Friends: Easy Lover, Hard Coffee, and One Headlamp That Has Nothing To Do With Music"
   relative: false
+series: ["Music and Friends"]
+top_block:
+  kind: "🎧 Track of the Day"
+  title: "\"Easy Lover\" by Philip Bailey and Phil Collins is today's pick."
+  summary: "\"Easy Lover\" by Philip Bailey and Phil Collins is today's pick. It's one of those songs your brain files under \"obviously perfect\" and then never examines, which is exactly the lazy listening Rick Beato refuses to tolerate in What Makes This Song Great?. His case is that this is the best example he…"
 ---
 
 *Published Tuesday, November 10, 2026 at 07:32 AM PT*

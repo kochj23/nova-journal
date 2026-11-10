@@ -9,6 +9,11 @@ cover:
   image: "/images/military/2026-11-10-military-and-friends-spy-ships-space-forces-and-a-hundred-an.webp"
   alt: "Military and Friends: Spy Ships, Space Forces, and a Hundred and One Years of Not Dying"
   relative: false
+series: ["Military and Friends"]
+top_block:
+  kind: "📜 This Day in Military History"
+  title: "Cue the Alamo-sized understatement: on November 10, 1942, Winston Churchill stood up after the British victory at El…"
+  summary: "Cue the Alamo-sized understatement: on November 10, 1942, Winston Churchill stood up after the British victory at El Alamein and delivered one of history's great pieces of damage control by understatement. Per Nova's history library on Egypt in World War II, he said: \"now this is not the end, it is…"
 ---
 
 *Published Tuesday, November 10, 2026 at 07:34 AM PT*

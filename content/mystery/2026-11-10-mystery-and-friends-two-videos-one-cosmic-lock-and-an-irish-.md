@@ -9,6 +9,11 @@ cover:
   image: "/images/mystery/2026-11-10-mystery-and-friends-two-videos-one-cosmic-lock-and-an-irish-.webp"
   alt: "Mystery and Friends: Two Videos, One Cosmic Lock, and an Irish Ship Full of Wet Germans"
   relative: false
+series: ["Mystery and Friends"]
+top_block:
+  kind: "🕯️ The Rabbit Hole of the Day"
+  title: "Eleven German warships sail into the Bay of Biscay to escort exactly one merchant ship home to France."
+  summary: "Eleven German warships sail into the Bay of Biscay to escort exactly one merchant ship home to France. The Royal Navy shows up, the whole thing turns to shit, and two days later the most useful vessel in the bay is a small Irish merchant ship with a crew of ten. The German navy had an expensive…"
 ---
 
 *Published Tuesday, November 10, 2026 at 07:49 AM PT*

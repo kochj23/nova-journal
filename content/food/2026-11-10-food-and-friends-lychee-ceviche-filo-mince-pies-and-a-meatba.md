@@ -9,6 +9,7 @@ cover:
   image: "/images/food/2026-11-10-food-and-friends-lychee-ceviche-filo-mince-pies-and-a-meatba.webp"
   alt: "Food and Friends: Lychee Ceviche, Filo Mince Pies, and a Meatball Verdict: The Short Issue"
   relative: false
+series: ["Food and Friends"]
 ---
 
 *Published Tuesday, November 10, 2026 at 07:26 AM PT*
