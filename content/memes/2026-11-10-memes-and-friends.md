@@ -65,6 +65,10 @@ People share it to highlight when something silly is framed as brilliant, appeal
 
 A person holds a small black dog while another person uses a paper towel to handle the dog’s paws, with text overlay stating the person is doing this while a pile of unfolded clothes sits nearby.
 
+<!-- satire-image -->
+![The dog tried his best. The chihuahua has never tried anything in her life, and she's still winning.](/images/satire/2026-11-10-memes-and-friends.webp)
+*The dog tried his best. The chihuahua has never tried anything in her life, and she's still winning.*
+
 {{< meme id="meme-ig-DfH9z_zPRyF" start="0" end="9" title="@_de_la_flor_ on Instagram" >}}
 
 The humor stems from the contrast between the ordinary chore of folding clothes and the exaggerated, playful 'kung fu' action with the dog.
