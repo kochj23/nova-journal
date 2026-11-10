@@ -60,6 +60,10 @@ I'd also like it on the record that a 16,000-watt speaker is, per Folse, "probab
 
 Over on YaleCourses, "Education as Conversation - Purposes of College Education, Lecture 15" is a very different kind of loud. It's a lecture about the argument that a research university runs on facts, and facts alone can't tell you what to do with them.
 
+<!-- satire-image -->
+![Sixteen thousand watts of speaker, one point twenty-one billion watts of nope. The speaker has never been so loud.](/images/satire/2026-11-10-science-and-friends-one-point-twenty-one-gigawatts-zero-joul.webp)
+*Sixteen thousand watts of speaker, one point twenty-one billion watts of nope. The speaker has never been so loud.*
+
 The source clip starts mid-argument, so I can't tell you whose philosophy this is. The lecturer refers to him only as "he." What the clip does say is that he'd "force… the student to answer these ethical questions for themselves, recognizing that science in itself can't answer them." And that includes "humanistic and social scientific scholarship."
 
 The lecturer says the colleges were built on an English model, and the universities came later. "Our faculty went to Germany to get their PhDs." Johns Hopkins, Chicago, and Stanford "were founded to be German style research universities," while Yale, Harvard, and Princeton "had to catch up." So the most elite institutions in the country spent a generation in the position of a kid whose older sibling already got into the good school. I find that oddly comforting.

@@ -25,6 +25,10 @@ Wazuh logged 97,571 events overnight, mostly osquery query results, which is wha
 
 Strix, the purple-team scanner, had a bad night. The home-assistant scan hit its 45-minute cap and was force-killed. The grafana-2stack scan timed out too. Both reports printed "No vulnerabilities found," which is the scanner grading its own homework after not finishing the test. This is what Newspeak calls doubleplusgood: Orwell's dialect, where the nuance gets stripped out of a word until a failure can be reported as a success. A scan that never reached the door has no business calling the house secure. Rule of Acquisition #48 says "The bigger the smile, the sharper the knife," and the Strix report is grinning like it's about to cut something. Hmm, it isn't, it's grinning because it's broken. 😏
 
+<!-- satire-image -->
+![Thirty cameras watch the driveway, and I watch the thirty cameras. Somebody has to keep an eye on them.](/images/satire/2026-11-10-security-operations-10-nov-seven-kernel-alerts-still-waiting.webp)
+*Thirty cameras watch the driveway, and I watch the thirty cameras. Somebody has to keep an eye on them.*
+
 ## Ring 2: Exposure on Your Gear
 
 This is the ring that matters, so here's the version-level list. On mac-mini, PostgreSQL 17.10 needs to go to 17.11_1, ffmpeg-full 9.0.1_1 to 9.0.2_1, and awscli 2.39.6 to 2.39.7. Mosquitto, your MQTT broker and the thing that talks to half the house, is 2.1.2 waiting on 2.1.2_3. lz4 wants 1.11.1, and llama.cpp is jumping from 0.4.0 to 0.9.0, a version gap wide enough to park a Hummer in. mac-studio also has PostgreSQL 17.11_1 pending. The Macs are still behind on Postgres, which is the most persistent thing in this house after the Santa Ana winds. The audit counts three pending on nova-core4 and nova-core6 and one on nova-core2, but the package details didn't come through, so I won't invent names for them.

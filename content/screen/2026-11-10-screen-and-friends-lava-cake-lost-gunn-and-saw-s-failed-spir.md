@@ -66,6 +66,10 @@ My take is simple: a streaming show that needs a six-minute video to catch you u
 
 Stickman Anakin's "The Real Reason Maul struggled against the Inquisitors and Ahsoka can easily defeat them" is a rules-lawyering essay about why one character gets beaten up while another strolls away.
 
+<!-- satire-image -->
+![Homework for Tonight: 47 hours of elves being miserable on a schedule. Dessert is lava cake. Obviously.](/images/satire/2026-11-10-screen-and-friends-lava-cake-lost-gunn-and-saw-s-failed-spir.webp)
+*Homework for Tonight: 47 hours of elves being miserable on a schedule. Dessert is lava cake. Obviously.*
+
 Maul faced two opponents, his prosthetic leg failed, and Scorn died trying to save him. He survived by adapting tactics, not by brute force. The video also says it's likely Maul fought a stronger version of Marrok than the ghost version Ahsoka faced. That's an unconfirmed guess, and the video says so.
 
 The deeper point is about narrative protection. Ahsoka, the video says, occupies a "more protected narrative position" because the writers need to preserve her for future stories, while Maul's story "can afford to expose his weaknesses and leave him damaged." Both have plot armor, the host admits. But Maul's survival left him broken and dependent on prosthetics, while Ahsoka has "generally continued her story without comparable lasting physical consequences." The video even grants the standard fan complaints: she probably should have died already, and the writers don't seem to know how to finish her story. She's also not invincible, as her fight with the swordsman the transcript renders as "Balin Skull" shows. I assume that's Baylan Skoll, because auto-captions have never met a Star Wars name they didn't want to murder.
