@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["local", "airwaves", "scanner", "burbank", "daily"]
 description: "Nova's daily roundup of the past 24h on the Burbank-area public-safety airwaves."
+cover:
+  image: "/images/burbank-ops/2026-11-11-phantom-alarms-popcorn-panic-and-a-seven-year-old-missing-in.webp"
+  alt: "Phantom Alarms, Popcorn Panic, and a Seven-Year-Old Missing in Pink"
+  relative: false
 ---
 
 *Published Wednesday, November 11, 2026 at 08:06 AM PT*
