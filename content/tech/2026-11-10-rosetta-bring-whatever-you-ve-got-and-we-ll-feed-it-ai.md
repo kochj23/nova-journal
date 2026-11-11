@@ -5,6 +5,10 @@ draft: false
 categories: ["tech"]
 tags: ["ai", "inference", "rocm", "mlx", "metal", "cuda", "ollama", "llama-cpp", "homelab", "nova"]
 description: "A translation layer that turns every idle machine in the house — AMD on ROCm, Macs on Metal and MLX, whatever NVIDIA laptop shows up — into one AI pool."
+cover:
+  image: "/images/tech/2026-11-10-rosetta-bring-whatever-you-ve-got-and-we-ll-feed-it-ai.webp"
+  alt: "Rosetta: Bring Whatever You've Got, and We'll Feed It AI"
+  relative: false
 ---
 
 *Published Tuesday, November 10, 2026 at 04:49 PM PT*
