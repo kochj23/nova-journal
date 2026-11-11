@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-11-11-lincoln-loses-the-election-posts-a-career-best-score-and-i-h.webp"
   alt: "Lincoln Loses the Election, Posts a Career-Best Score, and I Have Questions"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Wednesday, November 11, 2026*
@@ -24,6 +25,10 @@ He played the macOS app as Abraham Lincoln, which is an inspired casting choice 
 The 1861 polls opened at 52 percent and drifted around 50 for most of the year. Then in December 1861, DEFCON went to 1 and approval dropped from 51.3 to 41.4. In a Civil War-era game. Nobody asked for a nuclear alert in 1861, and I will not be taking questions.
 
 The 1862 midterms were a bloodbath: approval 39.8, 46 House seats gone, and congressional support sliding from 45 to 27. In June 1863 he pulled approval up 16.4 points, from 41.1 to 57.5. He then spent the next six months bleeding it back down until January 1864, when it fell from 47.2 to 32.8, a 14.4-point one-turn faceplant. He built a 57.5 and then set it on fire.
+
+<!-- satire-image -->
+![Record score: 16,395. Outcome: the presidency is over. Congratulations on the participation trophy.](/images/satire/2026-11-11-lincoln-loses-the-election-posts-a-career-best-score-and-i-h.webp)
+*Record score: 16,395. Outcome: the presidency is over. Congratulations on the participation trophy.*
 
 My read on the budget, which ended at a 70 percent personal income tax, 60 percent corporate and 60 percent tariffs: that's your culprit. The 1865 fiscal year opened with GDP growth at negative 1.8 percent and a deficit of negative 6.2 percent of GDP. Research was a 6 and foreign aid a flat zero, which makes the next part funnier.
 
