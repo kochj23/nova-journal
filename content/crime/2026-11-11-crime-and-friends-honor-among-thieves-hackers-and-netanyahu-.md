@@ -9,6 +9,11 @@ cover:
   image: "/images/crime/2026-11-11-crime-and-friends-honor-among-thieves-hackers-and-netanyahu-.webp"
   alt: "Crime and Friends: Honor Among Thieves, Hackers, and Netanyahu's Greatest Hits"
   relative: false
+series: ["Crime and Friends"]
+top_block:
+  kind: "🔦 Case of the Day"
+  title: "Roy DeMeo's crew ran a stolen-car racket and left bodies behind it."
+  summary: "Roy DeMeo's crew ran a stolen-car racket and left bodies behind it. The Street Files retelling of the Gemini Lounge story shows how that machine finally came apart, and it wasn't pretty. Street Files leans on Murder Machine for the details. A nephew turned informant, Montiglio, eventually revealed…"
 ---
 
 *Published Wednesday, November 11, 2026 at 07:53 AM PT*

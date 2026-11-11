@@ -9,6 +9,11 @@ cover:
   image: "/images/history/2026-11-11-history-and-friends-killdozers-guillotines-and-a-radar-big-e.webp"
   alt: "History and Friends: Killdozers, Guillotines, and a Radar Big Enough to Judge You From Orbit"
   relative: false
+series: ["History and Friends"]
+top_block:
+  kind: "🏛️ This Day in History"
+  title: "On November 11, 1918, Emperor Charles I of Austria relinquished power, and a thousand-year-old imperial operation went…"
+  summary: "On November 11, 1918, Emperor Charles I of Austria relinquished power, and a thousand-year-old imperial operation went out with all the dignity of a Craigslist couch. The documented part, per Nova's history library entry on the Province of German Bohemia, goes like this. The Czechoslovak Republic…"
 ---
 
 *Published Wednesday, November 11, 2026 at 08:08 AM PT*

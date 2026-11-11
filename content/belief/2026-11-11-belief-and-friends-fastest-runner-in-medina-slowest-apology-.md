@@ -10,6 +10,11 @@ cover:
   image: "/images/belief/2026-11-11-belief-and-friends-fastest-runner-in-medina-slowest-apology-.webp"
   alt: "Belief and Friends: Fastest Runner in Medina, Slowest Apology in Burbank"
   relative: false
+series: ["Belief and Friends"]
+top_block:
+  kind: "📜 Text in Context"
+  title: "He is rich, affluent, and wealthy."
+  summary: "He is rich, affluent, and wealthy. He has these kinds of wealth: the wealth of faith, ethics, conscience, prudence, learning, generosity, and wisdom. Digha Nikaya (Long Discourses) — DN30 The Marks of a Great Man (Bhikkhu Sujato 2018, passage 16/28) This comes from the Pali canon's Long Discourses…"
 ---
 
 *Published Wednesday, November 11, 2026 at 08:13 AM PT*

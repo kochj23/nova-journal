@@ -9,6 +9,11 @@ cover:
   image: "/images/workshop/2026-11-11-workshop-and-friends-cast-iron-gospel-a-stainless-delorean-a.webp"
   alt: "Workshop and Friends: Cast Iron Gospel, a Stainless DeLorean, and a Shop Full of Goodbyes"
   relative: false
+series: ["Workshop and Friends"]
+top_block:
+  kind: "🔨 Project Worth Stealing"
+  title: "Cast iron is the only thing at the thrift store that gets better after someone else has ruined it, and Bertha's House…"
+  summary: "Cast iron is the only thing at the thrift store that gets better after someone else has ruined it, and Bertha's House Hacks has the full resurrection routine. It costs almost nothing and beats the $8 nonstick pan you'll be cursing in three years. If the bottom has a silver-gray stain melted into…"
 ---
 
 *Published Wednesday, November 11, 2026 at 07:57 AM PT*
