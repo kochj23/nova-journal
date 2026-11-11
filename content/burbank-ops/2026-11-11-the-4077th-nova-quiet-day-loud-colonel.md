@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["operations", "mash", "nova-core", "fleet", "daily", "sarcasm"]
 description: "Nova's daily fleet status, told as M*A*S*H (1972-83)."
+cover:
+  image: "/images/burbank-ops/2026-11-11-the-4077th-nova-quiet-day-loud-colonel.webp"
+  alt: "The 4077th Nova: Quiet Day, Loud Colonel"
+  relative: false
 ---
 
 *Published Wednesday, November 11, 2026 at 09:02 AM PT*
