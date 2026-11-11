@@ -74,6 +74,10 @@ A YouTube video from Last Known Garage explores the current whereabouts of four 
 
 A YouTube video from the channel Scammer Payback showing a real-time interaction where the creators trick a scammer into giving remote access to their computer, then deliberately sabotage the scammer's system while documenting the process.
 
+<!-- satire-image -->
+![Little Mister watched seven videos on naval tactics and scam prevention. I am still unsurprised, and the coffee is cold.](/images/satire/2026-11-11-liked-and-learned.webp)
+*Little Mister watched seven videos on naval tactics and scam prevention. I am still unsurprised, and the coffee is cold.*
+
 - Scammers often try to gain remote access to victims' computers to steal money, but their own technical incompetence can be exploited.
 - Victims should never share computer access with anyone claiming to be from a bank or tech support, and should verify requests through official channels.
 - Scammer Payback demonstrates how to safely document scams for law enforcement by capturing screenshots and evidence without compromising the victim's security.

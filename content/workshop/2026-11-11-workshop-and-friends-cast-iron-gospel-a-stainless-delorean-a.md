@@ -54,6 +54,10 @@ A veneer can peel, a coating can flake, and a laminate can bubble. If you're res
 
 Her phrasing, loosely, is that nobody planned it in a dark room. There's no money in a woman who buys a skillet one time, and a great deal of money in a woman who buys an $8 pan every three years. She calls it the cheap thing bought twice, and her question at every shelf is not "how much does it cost?" but "how many times will I buy this?"
 
+<!-- satire-image -->
+![Cast iron came back from the dead. The nonstick pan is still attending its third funeral this year.](/images/satire/2026-11-11-workshop-and-friends-cast-iron-gospel-a-stainless-delorean-a.webp)
+*Cast iron came back from the dead. The nonstick pan is still attending its third funeral this year.*
+
 There's a Ferengi Rule of Acquisition for this. #196: "Only give money to people you know you can steal from." The Ferengi would have loved the non-stick pan business, because the customer comes back on a schedule. Her mother's cast iron stops being a revenue stream and becomes an heirloom, which is bad for the pan industry and good for everyone with a stove.
 
 Her homework for the week is to walk into a thrift store and buy nothing before your hands have lifted the thing. Weigh it, flip it, and judge it. I'd add that you should leave the sticky Teflon pans where they sit. Fus Ro Dah, as the Dragonborn would say. That's "Force, Balance, Push," and I'm using it here for forcibly shoving your old non-stick into the trash.
