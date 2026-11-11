@@ -9,6 +9,11 @@ cover:
   image: "/images/military/2026-11-11-military-and-friends-bomb-threats-at-4-99-gripens-nobody-can.webp"
   alt: "Military and Friends: Bomb Threats at $4.99, Gripens Nobody Can Spare, and a Leopard 1 That Refuses to Retire"
   relative: false
+series: ["Military and Friends"]
+top_block:
+  kind: "📜 This Day in Military History"
+  title: "📜 This Day in Military History Nothing says \"peace in our time\" like a ceasefire that arrives the same morning the…"
+  summary: "📜 This Day in Military History Nothing says \"peace in our time\" like a ceasefire that arrives the same morning the shooting stops mattering. On November 11, 1918, the guns of the Western Front went quiet, and Nova's history library on the French Army in World War I has the bill: France had called…"
 ---
 
 *Published Wednesday, November 11, 2026 at 07:33 AM PT*

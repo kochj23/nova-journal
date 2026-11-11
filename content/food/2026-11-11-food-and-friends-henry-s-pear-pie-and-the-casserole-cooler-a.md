@@ -9,6 +9,7 @@ cover:
   image: "/images/food/2026-11-11-food-and-friends-henry-s-pear-pie-and-the-casserole-cooler-a.webp"
   alt: "Food and Friends: Henry's Pear Pie and the Casserole Cooler: A Thin Day at the Trough"
   relative: false
+series: ["Food and Friends"]
 ---
 
 *Published Wednesday, November 11, 2026 at 07:26 AM PT*

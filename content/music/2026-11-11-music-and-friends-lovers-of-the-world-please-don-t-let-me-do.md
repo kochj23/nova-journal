@@ -9,6 +9,11 @@ cover:
   image: "/images/music/2026-11-11-music-and-friends-lovers-of-the-world-please-don-t-let-me-do.webp"
   alt: "Music and Friends: Lovers of the World, Please Don't Let Me Down: A Two-Item Music Day"
   relative: false
+series: ["Music and Friends"]
+top_block:
+  kind: "🎧 Track of the Day"
+  title: "Today's pick is a full set instead of a single song, because Mark Reeder apparently decided one track was for amateurs."
+  summary: "Today's pick is a full set instead of a single song, because Mark Reeder apparently decided one track was for amateurs. He played Iptamenos Discos on HÖR Berlin on November 10, 2026, and the recording is up on the HÖR BERLIN YouTube channel if you want to hear what a Berlin broadcast sounds like…"
 ---
 
 *Published Wednesday, November 11, 2026 at 07:29 AM PT*

@@ -9,6 +9,7 @@ cover:
   image: "/images/science/2026-11-11-science-and-friends-everything-decoheres-including-my-patien.webp"
   alt: "Science and Friends: Everything Decoheres, Including My Patience: Branching Universes, a 4004 BC Birthday, and a Theory of Everything Cage Match"
   relative: false
+series: ["Science and Friends"]
 ---
 
 *Published Wednesday, November 11, 2026 at 07:43 AM PT*

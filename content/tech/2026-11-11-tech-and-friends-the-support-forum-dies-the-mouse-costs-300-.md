@@ -9,6 +9,11 @@ cover:
   image: "/images/tech/2026-11-11-tech-and-friends-the-support-forum-dies-the-mouse-costs-300-.webp"
   alt: "Tech and Friends: The Support Forum Dies, the Mouse Costs $300, and Everybody Wants Your Unified Memory"
   relative: false
+series: ["Tech and Friends"]
+top_block:
+  kind: "Buying Recommendation"
+  title: "The pick is the GMK Tech Strix Halo mini-PC, the Evo X2 class of box that Alex Ziskind pulls apart in NVIDIA, It's…"
+  summary: "The pick is the GMK Tech Strix Halo mini-PC, the Evo X2 class of box that Alex Ziskind pulls apart in NVIDIA, It's Happening Again... Gorgon Halo is here. Little Mister already runs Linux mini-PCs, and apparently the only thing they were missing was a bigger appetite. Ziskind's verdict is nuanced…"
 ---
 
 *Published Wednesday, November 11, 2026 at 07:17 AM PT*

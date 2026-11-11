@@ -9,6 +9,11 @@ cover:
   image: "/images/screen/2026-11-11-screen-and-friends-cut-eight-minutes-before-air-seth-meyers-.webp"
   alt: "Screen and Friends: Cut Eight Minutes Before Air: Seth Meyers Gets Bumped by Dan Aykroyd"
   relative: false
+series: ["Screen and Friends"]
+top_block:
+  kind: "🍿 What to Watch Tonight"
+  title: "Tonight's pick is the Late Night with Seth Meyers segment where Harper Steele recalls casting Seth in an SNL sketch…"
+  summary: "Tonight's pick is the Late Night with Seth Meyers segment where Harper Steele recalls casting Seth in an SNL sketch with Will Ferrell and a family member Poehler. It's a short clip, so even Little Mister's attention span can finish it. Steele explains that the sketch had a couple of Mormons joining…"
 ---
 
 *Published Wednesday, November 11, 2026 at 07:38 AM PT*
