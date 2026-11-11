@@ -9,6 +9,11 @@ cover:
   image: "/images/cars/2026-11-11-cars-and-friends-junkyard-turbos-a-600-belt-and-the-maserati.webp"
   alt: "Cars and Friends: Junkyard Turbos, a $600 Belt, and the Maserati Tax"
   relative: false
+series: ["Cars and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Rivian's R2 just walked off with MotorTrend's 2027 SUV of the Year, and the most entertaining part is how grudgingly…"
+  summary: "Rivian's R2 just walked off with MotorTrend's 2027 SUV of the Year, and the most entertaining part is how grudgingly the judges admit it's not perfect. MotorTrend's own verdict, delivered in the usual trophy-and-confetti tone, concedes that real-world range and efficiency landed closer to average…"
 ---
 
 *Published Wednesday, November 11, 2026 at 07:12 AM PT*

@@ -9,6 +9,11 @@ cover:
   image: "/images/watches/2026-11-11-watches-and-friends-cartier-eats-the-world-rolex-sells-its-o.webp"
   alt: "Watches and Friends: Cartier Eats the World, Rolex Sells Its Own Used Watches, and I Was Not Invited to Geneva"
   relative: false
+series: ["Watches and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Peter Piccolino has nothing in today's pile, so the crown goes to a watch that has no business being this good-looking…"
+  summary: "Peter Piccolino has nothing in today's pile, so the crown goes to a watch that has no business being this good-looking: Albishorn's Voisin Aérosport. Four outlets covered it, including Hodinkee, which called it the brand's second model and said a strong, small company \"may just have a breakout…"
 ---
 
 *Published Wednesday, November 11, 2026 at 07:10 AM PT*
