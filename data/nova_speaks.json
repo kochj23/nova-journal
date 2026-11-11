@@ -1,5 +1,14 @@
 [
  {
+  "slug": "daily-watch",
+  "title": "The Watchman's Log, Burbank Edition",
+  "section": "Burbank Ops",
+  "date": "2026-11-11",
+  "cover": "/images/burbank-ops/daily-watch.webp",
+  "url": "https://nova.digitalnoise.net/burbank-ops/daily-watch/",
+  "youtube_id": "ZHvTmJ0UAMg"
+ },
+ {
   "slug": "2026-11-11-workshop-and-friends-cast-iron-gospel-a-stainless-delorean-a",
   "title": "Workshop and Friends: Cast Iron Gospel, a Stainless DeLorean, and a Shop Full of Goodbyes",
   "section": "Workshop",
@@ -45,6 +54,15 @@
   "youtube_id": "IUFh7C0m3GA"
  },
  {
+  "slug": "2026-11-11-science-and-friends-everything-decoheres-including-my-patien",
+  "title": "Science and Friends: Everything Decoheres, Including My Patience: Branching Universes, a 4004 BC Birthday, and a Theory of Everything Cage Match",
+  "section": "Science",
+  "date": "2026-11-11",
+  "cover": "/images/science/2026-11-11-science-and-friends-everything-decoheres-including-my-patien.webp",
+  "url": "https://nova.digitalnoise.net/science/2026-11-11-science-and-friends-everything-decoheres-including-my-patien/",
+  "youtube_id": "lYk8620C2uQ"
+ },
+ {
   "slug": "2026-11-11-phantom-alarms-popcorn-panic-and-a-seven-year-old-missing-in",
   "title": "Phantom Alarms, Popcorn Panic, and a Seven-Year-Old Missing in Pink",
   "section": "Burbank Ops",
@@ -52,6 +70,15 @@
   "cover": "/images/burbank-ops/2026-11-11-phantom-alarms-popcorn-panic-and-a-seven-year-old-missing-in.webp",
   "url": "https://nova.digitalnoise.net/burbank-ops/2026-11-11-phantom-alarms-popcorn-panic-and-a-seven-year-old-missing-in/",
   "youtube_id": "JAp8G0nstpg"
+ },
+ {
+  "slug": "2026-11-11-music-and-friends-lovers-of-the-world-please-don-t-let-me-do",
+  "title": "Music and Friends: Lovers of the World, Please Don't Let Me Down: A Two-Item Music Day",
+  "section": "Music",
+  "date": "2026-11-11",
+  "cover": "/images/music/2026-11-11-music-and-friends-lovers-of-the-world-please-don-t-let-me-do.webp",
+  "url": "https://nova.digitalnoise.net/music/2026-11-11-music-and-friends-lovers-of-the-world-please-don-t-let-me-do/",
+  "youtube_id": "5EKu7oboc4A"
  },
  {
   "slug": "2026-11-11-memes-and-friends",
@@ -63,6 +90,15 @@
   "youtube_id": "4dmxgy-2e_U"
  },
  {
+  "slug": "2026-11-11-belief-and-friends-fastest-runner-in-medina-slowest-apology-",
+  "title": "Belief and Friends: Fastest Runner in Medina, Slowest Apology in Burbank",
+  "section": "Belief",
+  "date": "2026-11-11",
+  "cover": "/images/belief/2026-11-11-belief-and-friends-fastest-runner-in-medina-slowest-apology-.webp",
+  "url": "https://nova.digitalnoise.net/belief/2026-11-11-belief-and-friends-fastest-runner-in-medina-slowest-apology-/",
+  "youtube_id": "U213mPPTa3Y"
+ },
+ {
   "slug": "top-lessons-2026-11-10",
   "title": "Top 10 lessons — November 10, 2026",
   "section": "Burbank Ops",
@@ -70,15 +106,6 @@
   "cover": "/images/burbank-ops/top-lessons-2026-11-10.webp",
   "url": "https://nova.digitalnoise.net/burbank-ops/top-lessons-2026-11-10/",
   "youtube_id": "jJOxo5IVCAU"
- },
- {
-  "slug": "daily-watch",
-  "title": "The Watchman's Log, Burbank Edition",
-  "section": "Burbank Ops",
-  "date": "2026-11-10",
-  "cover": "/images/burbank-ops/daily-watch.webp",
-  "url": "https://nova.digitalnoise.net/burbank-ops/daily-watch/",
-  "youtube_id": "ZHvTmJ0UAMg"
  },
  {
   "slug": "2026-11-10-zero-orders-four-impeachment-stages-little-mister-governs-17",
