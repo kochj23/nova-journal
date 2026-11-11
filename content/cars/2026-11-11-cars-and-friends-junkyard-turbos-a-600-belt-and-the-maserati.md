@@ -52,6 +52,10 @@ On the other end of the calendar, the Audrain Museum Network's "Best Shown" epis
 
 Steve Magnante's "BOSS 429 or SOHC 427 MAVERICK?" is a Junkyard Crawl episode, and the part we have is the best bit: a Maverick that was "a little killer with just junkyard parts." The turbo motor was "made out of junk parts," which means a blow-through setup on a four-barrel carburetor, an Offenhauser four-barrel intake, and "an inexpensive junkyard blower." He says the spring suspension was "really effective," there were slicks on the back, and it had a C4 automatic so the driver "didn't have to mess with shifting." Magnante calls it "a major sleeper in its original green paint."
 
+<!-- satire-image -->
+![Rivian's R2 won SUV of the Year, with a footnote about range doing a lot of heavy lifting.](/images/satire/2026-11-11-cars-and-friends-junkyard-turbos-a-600-belt-and-the-maserati.webp)
+*Rivian's R2 won SUV of the Year, with a footnote about range doing a lot of heavy lifting.*
+
 Somebody took a Ford economy car, bolted a salvage-yard turbo to a carburetor, hung slicks on the rear, and told it to go. No engineering department, no six-figure dyno schedule.
 
 The car being sold off in the video is not that car. This one is rusted "beyond any kind of hope," floors gone. Magnante shows an original small clutch assembly from a six-cylinder car, with a little pressure plate and a three-finger setup. He pulls the bonded and riveted disc apart and jokes, "hopefully not at 7,000 RPM." He also points out a difference from the Mustang: on the Maverick the trunk floor was not the top of the gas tank, because there was a steel floor between the tank and the luggage. Ford's attitude toward safety in 1970 was that the cargo would find out. A seller named in the description is taking parts inquiries, so if you need Maverick bits, go find the video.

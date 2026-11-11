@@ -60,6 +60,10 @@ Alex Ziskind's "NVIDIA, It's Happening Again... Gorgon Halo is here" puts an AMD
 
 The numbers are the fun part. The Spark gets 727 tokens per second on the test he cites. For Qwen 3.8 Flash Next on llama.cpp, Vulkan runs prompts at 488 tokens per second and ROCm at 493, which is a tie at short prompts. Then he mentions that Wendell tested the same model with an engine called Halogen, built specifically for AMD chips like this one, and got about 1,400 tokens per second. His practical advice for generation on the AMD box is to stick with Vulkan.
 
+<!-- satire-image -->
+![The support forum is gone, the mouse costs $300, and everyone wants a piece of the unified memory.](/images/satire/2026-11-11-tech-and-friends-the-support-forum-dies-the-mouse-costs-300-.webp)
+*The support forum is gone, the mouse costs $300, and everyone wants a piece of the unified memory.*
+
 The fastest chip in the world is useless if the model is sitting on disk waiting for its turn.
 
 ### Smaller AI bits
