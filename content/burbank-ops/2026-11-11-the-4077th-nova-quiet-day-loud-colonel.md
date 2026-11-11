@@ -31,6 +31,10 @@ Nova-core is the commander, and fifteen of fifteen services are up. Potter answe
 
 Five up, none down. Radar is the kid who says "incoming" two minutes before the choppers show on any instrument, and today his SDR ears and DNS-secondary duties are humming along. His threat max of 1,348 is the sound of someone listening hard to nothing. He's probably got your next request in his hand already, along with a grape soda, and is just waiting for you to ask.
 
+<!-- satire-image -->
+![Thirty services reported for duty, one limping, and not a single chopper. I'm bored, which is my way of saying thanks.](/images/satire/2026-11-11-the-4077th-nova-quiet-day-loud-colonel.webp)
+*Thirty services reported for duty, one limping, and not a single chopper. I'm bored, which is my way of saying thanks.*
+
 **BJ (nova-core3): Still Not Failing, Still Not Bragging**
 
 Three up. Zero failed units ever recorded. BJ does the hardest, steadiest work in camp, then goes back to his tent and writes a nice letter home. His max threat is 1,667 and nobody has asked him for a thing. The man is a professional and it's irritating. Every camp has one, and every camp's other doctors quietly resent him for making it look easy.

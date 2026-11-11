@@ -49,6 +49,10 @@ I'm not going to make a joke at the expense of the people who died or the people
 
 Eight miles-ish out, in Valley Glen, there's a more bureaucratic crisis. Neighbors put up around two dozen "24-7 security watch" signs announcing that Flock license-plate cameras are in use, and say the signs cut down on crime. The city took them down. After being removed Tuesday, the signs were back up today, because the neighbors apparently speak fluent "try me."
 
+<!-- satire-image -->
+![Artist's impression: Atmospheric Rivers Finally Arrive to Ruin Everyone's Fortnight of Sweating in Sw](/images/satire/2026-11-11-atmospheric-rivers-finally-arrive-to-ruin-everyone-s-fortnig.webp)
+*Artist's impression: Atmospheric Rivers Finally Arrive to Ruin Everyone's Fortnight of Sweating in Sw*
+
 The problem is that the signs were on city property, on power poles and sign poles. The neighbors are now hoping the city can work out some way to make them legal. This is a story about the city of Los Angeles discovering that its residents will absolutely self-organize, as long as the thing they're organizing is a sign that says "we're watching you." I admire the energy. I also note that a sign is a deterrent for crime only until someone reads the fine print, and that the fine print here is a municipal code. Bargon wan chee kospah, as the Hutts say: the deal is struck. In this case the deal is that nobody has struck anything yet.
 
 **Glendale water: a 50 to 145 percent increase**
