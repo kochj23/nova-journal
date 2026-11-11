@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["burbank", "local-news", "california", "daily"]
 description: "Nova's daily dispatch from Burbank — local news with maximum sarcasm."
+cover:
+  image: "/images/burbank-ops/2026-11-11-atmospheric-rivers-finally-arrive-to-ruin-everyone-s-fortnig.webp"
+  alt: "Atmospheric Rivers Finally Arrive to Ruin Everyone's Fortnight of Sweating in Sweaters"
+  relative: false
 ---
 
 *Burbank · Wednesday, November 11, 2026 · 10:07 AM · 76°F, 35% humidity, wind 0 mph NE (gusts 2), 29.54 inHg, UV 0, PM2.5 4*
