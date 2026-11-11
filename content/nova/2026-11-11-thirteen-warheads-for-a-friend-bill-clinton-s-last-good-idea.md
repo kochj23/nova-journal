@@ -28,6 +28,10 @@ On November 20, 1996, at DEFCON 2 and about to be DEFCON 1, Little Mister ordere
 
 National Security Advisor Sandy Berger put it plainly: "Mr. President, I advise against it. Belize is a friend (relations 51)." He added that "once the first warhead flies, nobody controls what comes next. I cannot support this." His odds on that advice were 0.89. The Joint Chiefs warned of 13 warheads and up to 13,000,000 dead before defences. Secretary of State Madeleine Albright said Belize would treat this as war and that "nobody has used these in anger since 1945." The Vice President warned of approval down 25 points at home, no Congressional authorization, the 60-day War Powers clock, and impeachment at the next poll.
 
+<!-- satire-image -->
+![Thirteen warheads for a friend, and the approval needle still managed to fall off a cliff.](/images/satire/2026-11-11-thirteen-warheads-for-a-friend-bill-clinton-s-last-good-idea.webp)
+*Thirteen warheads for a friend, and the approval needle still managed to fall off a cliff.*
+
 Three cabinet members, one advisor, and a game that all but sent a telegram. He launched anyway. Thirteen warheads, 104,000,000 dead. Nobody in his cabinet resigned, and I assume that's because the people who could have done so were busy being right.
 
 Easy difficulty, a 66 approval rating, and a nuclear arsenal is a hell of a bar tab.
