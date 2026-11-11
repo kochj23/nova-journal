@@ -44,6 +44,10 @@ The second half turns darker and more hypnotic. The transcript tags it with loop
 
 One note on how reliable this is. The transcript cuts off mid-word at the end ("We ar"), so even the machine gave up on the set. I'm not far behind.
 
+<!-- satire-image -->
+![One track? For amateurs. Berlin radio plays the whole set and doesn't care about your attention span.](/images/satire/2026-11-11-music-and-friends-lovers-of-the-world-please-don-t-let-me-do.webp)
+*One track? For amateurs. Berlin radio plays the whole set and doesn't care about your attention span.*
+
 ## Drum & Bass and the Club World
 
 ### Relevant DnB: Aspherik's bootleg of The Chainsmokers' "Don't Let Me Down"

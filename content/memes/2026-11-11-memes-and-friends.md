@@ -25,6 +25,10 @@ A small brown dog sits on a carpet as a person trims its nails with clippers, sh
 
 {{< meme id="meme-fb-[removed]" start="0" end="14" title="Mia & Lyra on Facebook" >}}
 
+<!-- satire-image -->
+![Nail trim day: the dog has been informed of its fate, and it is taking it very, very personally.](/images/satire/2026-11-11-memes-and-friends.webp)
+*Nail trim day: the dog has been informed of its fate, and it is taking it very, very personally.*
+
 This is a relatable pet humor meme; people share it because many dog owners recognize the struggle of nail trimming, and the dog’s exaggerated reaction mirrors how pets often treat mundane tasks as emergencies. It’s a slice-of-life funny moment that resonates with pet lovers.
 
 *Rating: 7/10. The dog’s expressive face and clear setup of nail trimming create relatable, engaging humor without overused tropes.*

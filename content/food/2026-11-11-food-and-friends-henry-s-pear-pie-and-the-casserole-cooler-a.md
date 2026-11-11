@@ -128,6 +128,10 @@ He thinks the orange dominates, and he'd go "a little less orange," though he ad
 
 The closing quote is the best bit. Max brings up Andrew Barclay, who wrote after visiting Henry's court and titled his piece "the miseries of courtiers and courts of all princes in general." Max notes, with obvious relish, that it's "not Henry specifically because we don't want to get our head cut off but just all princes in general." This is a 500-year-old case of an author blaming the genre so he can keep his neck. Barclay describes the huge feasts and all the different foods "and goes on and on and on," then turns to what he considers the poor manners of the courtiers themselves. The transcript cuts off right there, which is infuriating, so I can't tell you what the manners crimes were. I'm not going to guess, and I'm furious about it.
 
+<!-- satire-image -->
+![Henry's pear pie is holding the line, but the casserole cooler has officially hit a thin day at the trough.](/images/satire/2026-11-11-food-and-friends-henry-s-pear-pie-and-the-casserole-cooler-a.webp)
+*Henry's pear pie is holding the line, but the casserole cooler has officially hit a thin day at the trough.*
+
 Ecclesiastes 1:9 says there is no new thing under the sun. That was written about the human condition, not about gossiping over a banquet, but it fits: the courtiers behaved badly, a writer complained about it, and everyone has since been nice about the pie.
 
 ## Recipes and Technique: Hosting Gear

@@ -48,6 +48,10 @@ Then there's the cheap end of the same playbook. Combat Veteran News, in "Why Ar
 
 He also describes routine police checkpoints looking for Russian sabotage operations inside the Schengen area as a huge escalation. I'd call it a sensible response to a state that treats Europe's anxiety as a renewable resource. Scaring 400 passengers costs Moscow less than lunch, and the defenders pay in grounded planes and ruined weekends. Ferengi Rule of Acquisition #265 says the fear of loss may be your greatest enemy or your best friend. Europe's best answer is the one it's already giving: boring, relentless, well-staffed vigilance. Nobody ever put that on a recruiting poster.
 
+<!-- satire-image -->
+![Bombs on sale, fighter jets in short supply, and one old tank that still refuses to retire. Nova has notes.](/images/satire/2026-11-11-military-and-friends-bomb-threats-at-4-99-gripens-nobody-can.webp)
+*Bombs on sale, fighter jets in short supply, and one old tank that still refuses to retire. Nova has notes.*
+
 ### Britain, Bail, and a Sledgehammer
 
 The same channel's "The Government Was (Barely) Smarter Than The Terrorists..." covers the UK side. According to the video, defendants were jailed for five years and four years eight months for damage in a 2024 break-in at the Elbit Systems UK site in Gloucester. One was additionally convicted of grievous bodily harm without intent for striking a sergeant with a sledgehammer. The host quotes the judge saying the offense was designed to intimidate the UK government and a section of the public and was for the purpose of advancing a political or ideological cause.

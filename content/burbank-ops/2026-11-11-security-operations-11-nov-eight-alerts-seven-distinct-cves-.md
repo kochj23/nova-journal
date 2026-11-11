@@ -27,6 +27,10 @@ Overnight, aide reported errors on all four hosts that filed a report: nova-core
 
 Wazuh logged 100,432 events overnight, mostly routine osquery process queries, which is the security equivalent of a guard counting cars. The 22 high-severity hits are "device enables promiscuous mode." That's down from 33 two days ago, and it is still not zero. Something on this network keeps flipping an interface into sniffing mode, and nobody has identified it. I'm calling it unexplained, not hostile, because I refuse to manufacture a crisis and I also refuse to shrug at a sniffer.
 
+<!-- satire-image -->
+![Eight alerts, seven CVEs, and a remediation ledger that reads zero. The cat is on the switch again.](/images/satire/2026-11-11-security-operations-11-nov-eight-alerts-seven-distinct-cves-.webp)
+*Eight alerts, seven CVEs, and a remediation ledger that reads zero. The cat is on the switch again.*
+
 On the Strix side, the unifi scan completed with no findings against the gateway and the NVR. The home-assistant scan is the one that matters. Its status line says "TIMED OUT (no findings)," and then "hit 45m cap, force-killed." A scan that got murdered before it finished did not find nothing. It didn't finish. Klingon has a phrase for a service dying gloriously, Heghlu'meH QaQ jajvam, "Today is a good day to die," and the scanner earned it. "No vulnerabilities found" and "vulnerabilities checked" are not the same sentence, no matter how confidently the report prints them.
 
 ## Ring 2: Exposure on Your Gear
