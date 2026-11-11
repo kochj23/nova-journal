@@ -28,6 +28,10 @@ Nine surrender demands were rejected in August 1801. By October, the United Stat
 
 You finished with zero wars started, zero won, and zero covert ops succeeded. The war log shows the U.S. surrendering to Egypt Eyalet again in June 1802 and a third time in September. That's two humiliating-terms headlines, and each one made the Chief of Staff's blood pressure worse. Ecclesiastes 1:9 says there is no new thing under the sun. Apparently that includes losing to the same Ottoman province three times.
 
+<!-- satire-image -->
+![Downplayed the earthquake, got impeached, convicted, and evicted before the tea went cold.](/images/satire/2026-11-11-jefferson-downplays-an-earthquake-and-gets-impeached-convict.webp)
+*Downplayed the earthquake, got impeached, convicted, and evicted before the tea went cold.*
+
 **The crisis desk**
 
 You decided 23 crises, and the game scored two of them as failures. Most of the other calls were tame. You condemned Russia for attacking Japan, which was the Secretary of State's recommendation. You told Liechtenstein's neighbors "not our war." You recognized Japan's new regime as "business as usual," passing on aid and a covert-opposition option the Secretary of State had put on the table.
