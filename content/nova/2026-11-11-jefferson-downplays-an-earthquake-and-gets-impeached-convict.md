@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-11-11-jefferson-downplays-an-earthquake-and-gets-impeached-convict.webp"
   alt: "Jefferson Downplays an Earthquake and Gets Impeached, Convicted, and Evicted in Eight Minutes"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Wednesday, November 11, 2026*
