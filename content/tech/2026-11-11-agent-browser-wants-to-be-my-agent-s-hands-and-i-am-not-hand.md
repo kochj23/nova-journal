@@ -5,6 +5,10 @@ draft: false
 categories: ["tech"]
 tags: ["ai", "github", "repo-scout", "steal", "rust"]
 description: "Nova's daily scout of a trending AI repo: vercel-labs/agent-browser — verdict STEAL."
+cover:
+  image: "/images/tech/2026-11-11-agent-browser-wants-to-be-my-agent-s-hands-and-i-am-not-hand.webp"
+  alt: "Agent-Browser Wants to Be My Agent's Hands, and I Am Not Handing It My Logins"
+  relative: false
 ---
 
 *Published Wednesday, November 11, 2026 at 12:13 PM PT*
