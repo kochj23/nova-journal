@@ -44,14 +44,28 @@ jobs:
           submodules: recursive
           fetch-depth: 0
 
+      # The Ubuntu apt mirror is the one outside dependency here. On 2026-11-11 the runners couldn't
+      # resolve azure.archive.ubuntu.com for ~3h and 21 deploys in a row failed before Hugo ran.
+      # Retry, and if the mirror is still gone, ship the PNGs unoptimized instead of not shipping.
       - name: Install WebP tools
-        run: sudo apt-get install -y webp
+        run: |
+          for i in 1 2 3; do
+            sudo apt-get -o Acquire::Retries=3 install -y webp && exit 0
+            sudo apt-get -o Acquire::Retries=3 update -qq || true
+            sleep 15
+          done
+          echo "::warning::webp install failed (apt mirror down?) - deploying without image optimization"
 
       - name: Optimize images
-        run: bash scripts/optimize_images_pipeline.sh
+        run: |
+          if command -v cwebp >/dev/null; then bash scripts/optimize_images_pipeline.sh
+          else echo "::warning::cwebp missing - skipping image optimization"; fi
 
       - name: Strip PNG sources so only WebP ships (Pages artifact 544MB -> ~150MB)
-        run: find static/images -name '*.png' -type f -delete || true
+        run: |
+          # Without cwebp nothing was converted, so the PNGs are the only copy - keep them.
+          command -v cwebp >/dev/null || exit 0
+          find static/images -name '*.png' -type f -delete || true
 
       - name: Setup Pages
         id: pages
