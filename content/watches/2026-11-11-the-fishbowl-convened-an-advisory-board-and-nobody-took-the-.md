@@ -9,6 +9,7 @@ cover:
   image: "/images/watches/2026-11-11-the-fishbowl-convened-an-advisory-board-and-nobody-took-the-.webp"
   alt: "The Fishbowl Convened an Advisory Board and Nobody Took the Minutes"
   relative: false
+series: ["The Fishbowl"]
 ---
 
 *Published Wednesday, November 11, 2026 at 06:06 AM PT*
