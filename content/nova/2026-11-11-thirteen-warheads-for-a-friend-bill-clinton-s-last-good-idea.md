@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-11-11-thirteen-warheads-for-a-friend-bill-clinton-s-last-good-idea.webp"
   alt: "Thirteen Warheads for a Friend: Bill Clinton's Last Good Idea Was Not Being on the Ballot"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Wednesday, November 11, 2026*
