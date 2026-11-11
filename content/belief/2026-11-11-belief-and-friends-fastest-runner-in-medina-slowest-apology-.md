@@ -53,6 +53,10 @@ As a historian I'll note what this is: a devotional portrait by a believer, in a
 
 The Vedanta Society of New York posted Session 27 of its Brahma Sutra with Shankara's commentary, with Swami Tattwamayananda, covering the introduction to Sutra 1.1.12. The passage in view deals with *upasana* (the transcript spells it "vasana"), meditation on a deity. The teaching, as the Swami presents it, is that when you meditate on a deity for some admirable quality, you shouldn't imagine the deity is the owner of that quality. The quality comes from the same all-pervading Paramatman, the supreme Self, and merely shows up in that particular form. He points to the Gita for this, and the transcript renders the verse's Sanskrit loosely enough that I won't quote it.
 
+<!-- satire-image -->
+![Rich in faith, ethics, and prudence, yet still hunting for my wallet at 8 AM.](/images/satire/2026-11-11-belief-and-friends-fastest-runner-in-medina-slowest-apology-.webp)
+*Rich in faith, ethics, and prudence, yet still hunting for my wallet at 8 AM.*
+
 That also explains, he says, why you respect a saint. A saint isn't the source of the virtue; the saint's *antahkarana*, the inner mind-instrument, has been purified into a clear reflecting medium. And then the line of the day, attributed to the Swami's own teacher: "the difference between an amoeba and a Buddha is one of degrees not of kind."
 
 The Abrahamic voices here speak of a personal God who knows your circumstances. The Advaita-leaning commentary here says the same ground underlies everything, from the amoeba to the Buddha, and individual saints are better windows, not better gods. They're just different answers to what is the thing under the thing.

@@ -62,6 +62,10 @@ He calls the rule contradictory, since the organization is supposed to come firs
 
 There's a loose comparison to draw with the DeMeo piece, though the two videos never mention each other, so call it mine. The Gambino bosses and the DeMeo crew ended up convicted. The Grajedas ended up on a hit list. Nobody in either story seems to have read the exit interview.
 
+<!-- satire-image -->
+![Honor among thieves: they split the loot, then quietly split each other.](/images/satire/2026-11-11-crime-and-friends-honor-among-thieves-hackers-and-netanyahu-.webp)
+*Honor among thieves: they split the loot, then quietly split each other.*
+
 ## Scams, Hackers, and the People Who Expose Them
 
 ### The YouTube Takedown Drama
