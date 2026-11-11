@@ -36,6 +36,10 @@ You ask for a **canonical model** — `qwen3-8b`, `qwen3-coder-30b` — with ord
 4. **Translates the answer back.** Reasoning split out from the reply, JSON pulled out and checked against your schema, tokens and speed in the same units no matter who answered.
 5. **Fails over.** If a node errors, the next one gets the request. And the node pays: a failure cuts its speed score to 30%, so a broken server sinks to the bottom after one try instead of costing every caller a timeout.
 
+<!-- satire-image -->
+![Bring whatever you've got. Rosetta will translate it all into one AI pool, no judgment about the laptop.](/images/satire/2026-11-10-rosetta-bring-whatever-you-ve-got-and-we-ll-feed-it-ai.webp)
+*Bring whatever you've got. Rosetta will translate it all into one AI pool, no judgment about the laptop.*
+
 For MLX, which can't constrain output, Rosetta puts the schema in the prompt, extracts the JSON, validates it, and if the model got it wrong, shows it the error and asks once more.
 
 ### It ran today, on the real fleet
