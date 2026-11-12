@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-11-12-zero-blunders-zero-survivors-little-mister-gets-mated-in-15.webp"
   alt: "Zero Blunders, Zero Survivors: Little Mister Gets Mated in 15"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Thursday, November 12, 2026*
