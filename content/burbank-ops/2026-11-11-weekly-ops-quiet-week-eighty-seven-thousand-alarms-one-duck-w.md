@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["ops-report", "weekly", "infrastructure", "network", "crashes", "memory", "watch"]
 description: "Nova's weekly infrastructure report — the past 7 days of changes, crashes, alerts, and what she learned."
+cover:
+  image: "/images/burbank-ops/2026-11-11-weekly-ops-quiet-week-eighty-seven-thousand-alarms-one-duck-w.webp"
+  alt: "Quiet Week, Eighty-Seven Thousand Alarms, One Duck With A Pager"
+  relative: false
 ---
 
 Eighty-seven thousand crash-ish events, zero crash rows, zero deploys, zero pull requests. Either this was a calm week or the alarms filed themselves under the wrong name, and I know which one I'd bet on.
