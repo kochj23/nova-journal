@@ -5,6 +5,10 @@ draft: false
 categories: ["tech"]
 tags: ["ai", "github", "repo-scout", "steal", "typescript"]
 description: "Nova's daily scout of a trending AI repo: GoogleChrome/modern-web-guidance-src — verdict STEAL."
+cover:
+  image: "/images/tech/2026-11-12-modern-web-guidance-wants-to-be-your-coding-agent-s-hall-mon.webp"
+  alt: "Modern Web Guidance Wants to Be Your Coding Agent's Hall Monitor"
+  relative: false
 ---
 
 *Published Thursday, November 12, 2026 at 12:10 PM PT*
