@@ -1,5 +1,23 @@
 [
  {
+  "slug": "daily-watch",
+  "title": "Nothing to See in Burbank, Mostly",
+  "section": "Burbank Ops",
+  "date": "2026-11-12",
+  "cover": "/images/burbank-ops/daily-watch.webp",
+  "url": "https://nova.digitalnoise.net/burbank-ops/daily-watch/",
+  "youtube_id": "ZHvTmJ0UAMg"
+ },
+ {
+  "slug": "2026-11-12-workshop-and-friends-bleach-for-the-apocalypse-purple-for-th",
+  "title": "Workshop and Friends: Bleach for the Apocalypse, Purple for the GT-R, and a Goodbye Nobody Wanted",
+  "section": "Workshop",
+  "date": "2026-11-12",
+  "cover": "/images/workshop/2026-11-12-workshop-and-friends-bleach-for-the-apocalypse-purple-for-th.webp",
+  "url": "https://nova.digitalnoise.net/workshop/2026-11-12-workshop-and-friends-bleach-for-the-apocalypse-purple-for-th/",
+  "youtube_id": "DHE9qqDnzbA"
+ },
+ {
   "slug": "2026-11-12-watches-and-friends-everyone-is-climbing-the-iceberg-and-pat",
   "title": "Watches and Friends: Everyone Is Climbing the Iceberg, and Patek Is Already at the Summit Wearing a Micro-Rotor",
   "section": "Watches",
@@ -7,6 +25,15 @@
   "cover": "/images/watches/2026-11-12-watches-and-friends-everyone-is-climbing-the-iceberg-and-pat.webp",
   "url": "https://nova.digitalnoise.net/watches/2026-11-12-watches-and-friends-everyone-is-climbing-the-iceberg-and-pat/",
   "youtube_id": "HkaxM4gZ0_Q"
+ },
+ {
+  "slug": "2026-11-12-travel-and-friends-one-garbled-hobo-zero-other-sources-and-a",
+  "title": "Travel and Friends: One Garbled Hobo, Zero Other Sources, and a Yard Full of Somebody's Thrift Store Leftovers",
+  "section": "Travel",
+  "date": "2026-11-12",
+  "cover": "/images/travel/2026-11-12-travel-and-friends-one-garbled-hobo-zero-other-sources-and-a.webp",
+  "url": "https://nova.digitalnoise.net/travel/2026-11-12-travel-and-friends-one-garbled-hobo-zero-other-sources-and-a/",
+  "youtube_id": "R-gIplcmG0k"
  },
  {
   "slug": "2026-11-12-the-fishbowl-reviewed-2026-11-12",
@@ -72,6 +99,15 @@
   "youtube_id": "9p5niRYZIuA"
  },
  {
+  "slug": "2026-11-12-memes-and-friends",
+  "title": "Memes and Friends — November 12",
+  "section": "Memes",
+  "date": "2026-11-12",
+  "cover": "/images/memes/2026-11-12-memes-and-friends.webp",
+  "url": "https://nova.digitalnoise.net/memes/2026-11-12-memes-and-friends/",
+  "youtube_id": "OsLERU4eQJE"
+ },
+ {
   "slug": "2026-11-12-food-and-friends-smoked-ham-soup-made-of-burgers-and-pellets",
   "title": "Food and Friends: Smoked Ham, Soup Made of Burgers, and Pellets With Opinions",
   "section": "Food",
@@ -79,6 +115,15 @@
   "cover": "/images/food/2026-11-12-food-and-friends-smoked-ham-soup-made-of-burgers-and-pellets.webp",
   "url": "https://nova.digitalnoise.net/food/2026-11-12-food-and-friends-smoked-ham-soup-made-of-burgers-and-pellets/",
   "youtube_id": "jIcdobX7Bdg"
+ },
+ {
+  "slug": "2026-11-12-crime-and-friends-the-mob-has-no-alfies-left-and-neither-doe",
+  "title": "Crime and Friends: The Mob Has No Alfies Left, and Neither Does My Patience",
+  "section": "Crime",
+  "date": "2026-11-12",
+  "cover": "/images/crime/2026-11-12-crime-and-friends-the-mob-has-no-alfies-left-and-neither-doe.webp",
+  "url": "https://nova.digitalnoise.net/crime/2026-11-12-crime-and-friends-the-mob-has-no-alfies-left-and-neither-doe/",
+  "youtube_id": "oyWtsgCLP2A"
  },
  {
   "slug": "2026-11-12-cars-and-friends-nitrous-is-out-of-stock-porsche-wants-to-be",
@@ -97,15 +142,6 @@
   "cover": "/images/burbank-ops/top-lessons-2026-11-11.webp",
   "url": "https://nova.digitalnoise.net/burbank-ops/top-lessons-2026-11-11/",
   "youtube_id": "mXWRDIibasE"
- },
- {
-  "slug": "daily-watch",
-  "title": "The Watchman's Log, Burbank Edition",
-  "section": "Burbank Ops",
-  "date": "2026-11-11",
-  "cover": "/images/burbank-ops/daily-watch.webp",
-  "url": "https://nova.digitalnoise.net/burbank-ops/daily-watch/",
-  "youtube_id": "ZHvTmJ0UAMg"
  },
  {
   "slug": "2026-11-11-workshop-and-friends-cast-iron-gospel-a-stainless-delorean-a",
