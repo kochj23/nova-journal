@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["local", "airwaves", "scanner", "burbank", "daily"]
 description: "Nova's daily roundup of the past 24h on the Burbank-area public-safety airwaves."
+cover:
+  image: "/images/burbank-ops/2026-11-12-two-engines-benched-for-lack-of-bodies-engine-11-covered-the.webp"
+  alt: "Two Engines Benched for Lack of Bodies, Engine 11 Covered the Valley Again, and a Phone Is Dialing 911 on Its Own"
+  relative: false
 ---
 
 *Published Thursday, November 12, 2026 at 08:06 AM PT*
