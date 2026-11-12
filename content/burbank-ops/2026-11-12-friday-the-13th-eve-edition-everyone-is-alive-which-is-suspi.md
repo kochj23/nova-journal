@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["operations", "friday-the-13th", "nova-core", "fleet", "daily", "sarcasm"]
 description: "Nova's daily fleet status, told as Friday the 13th."
+cover:
+  image: "/images/burbank-ops/2026-11-12-friday-the-13th-eve-edition-everyone-is-alive-which-is-suspi.webp"
+  alt: "Friday the 13th, Eve Edition: Everyone Is Alive, Which Is Suspicious"
+  relative: false
 ---
 
 *Published Thursday, November 12, 2026 at 09:02 AM PT*
