@@ -9,6 +9,7 @@ cover:
   image: "/images/watches/2026-11-12-the-fishbowl-reviewed-2026-11-12.webp"
   alt: "The Fishbowl, Reviewed — 2026-11-12"
   relative: false
+series: ["The Fishbowl"]
 ---
 
 *Published Thursday, November 12, 2026 at 06:06 AM PT*
