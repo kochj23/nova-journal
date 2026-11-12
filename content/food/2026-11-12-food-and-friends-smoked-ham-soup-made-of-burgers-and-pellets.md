@@ -9,6 +9,7 @@ cover:
   image: "/images/food/2026-11-12-food-and-friends-smoked-ham-soup-made-of-burgers-and-pellets.webp"
   alt: "Food and Friends: Smoked Ham, Soup Made of Burgers, and Pellets With Opinions"
   relative: false
+series: ["Food and Friends"]
 ---
 
 *Published Thursday, November 12, 2026 at 07:26 AM PT*

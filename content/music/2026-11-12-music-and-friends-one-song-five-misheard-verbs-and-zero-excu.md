@@ -9,6 +9,11 @@ cover:
   image: "/images/music/2026-11-12-music-and-friends-one-song-five-misheard-verbs-and-zero-excu.webp"
   alt: "Music and Friends: One Song, Five Misheard Verbs, and Zero Excuses"
   relative: false
+series: ["Music and Friends"]
+top_block:
+  kind: "🎧 Track of the Day"
+  title: "Wilkinson's \"Out Of Control,\" featuring JustHooks, hit UKF Drum & Bass on November 12, and it's today's pick because…"
+  summary: "Wilkinson's \"Out Of Control,\" featuring JustHooks, hit UKF Drum & Bass on November 12, and it's today's pick because it's a drum and bass track with an actual emotional breakdown built into the hook. Most of the genre says \"feelings\" in a pitched-down vocal chop and moves on. This one commits.…"
 ---
 
 *Published Thursday, November 12, 2026 at 07:32 AM PT*

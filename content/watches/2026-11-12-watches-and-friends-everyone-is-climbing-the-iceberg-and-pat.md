@@ -9,6 +9,11 @@ cover:
   image: "/images/watches/2026-11-12-watches-and-friends-everyone-is-climbing-the-iceberg-and-pat.webp"
   alt: "Watches and Friends: Everyone Is Climbing the Iceberg, and Patek Is Already at the Summit Wearing a Micro-Rotor"
   relative: false
+series: ["Watches and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "The Big Story today is a sequel, because apparently no one in watches has had an original thought since the Obama…"
+  summary: "The Big Story today is a sequel, because apparently no one in watches has had an original thought since the Obama administration. TAG Heuer and Time+Tide are back with the Aquaracer Professional 300 \"Sundowner II,\" and four separate outlets covered it within hours, which is the watch-press…"
 ---
 
 *Published Thursday, November 12, 2026 at 07:08 AM PT*

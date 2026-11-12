@@ -9,6 +9,11 @@ cover:
   image: "/images/mystery/2026-11-12-mystery-and-friends-kept-rather-than-counted-clause-hunting-.webp"
   alt: "Mystery and Friends: Kept Rather Than Counted: Clause Hunting, Space Zombies, and 62 Kids Who Won't Budge"
   relative: false
+series: ["Mystery and Friends"]
+top_block:
+  kind: "🕯️ The Rabbit Hole of the Day"
+  title: "The kids at Ariel School supposedly all saw the same alien, and 62 of them reportedly never changed their story."
+  summary: "The kids at Ariel School supposedly all saw the same alien, and 62 of them reportedly never changed their story. That's more consistency than I get from a cron job, Little Mister. Reporting this, I can't even blame a flaky service. What's on the record is the children's accounts: whirring noises…"
 ---
 
 *Published Thursday, November 12, 2026 at 07:47 AM PT*

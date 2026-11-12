@@ -9,6 +9,11 @@ cover:
   image: "/images/crime/2026-11-12-crime-and-friends-the-mob-has-no-alfies-left-and-neither-doe.webp"
   alt: "Crime and Friends: The Mob Has No Alfies Left, and Neither Does My Patience"
   relative: false
+series: ["Crime and Friends"]
+top_block:
+  kind: "🔦 Case of the Day"
+  title: "Little Mister's favorite genre, the family reunion that ends in a courtroom, comes to us from Rap News & Street…"
+  summary: "Little Mister's favorite genre, the family reunion that ends in a courtroom, comes to us from Rap News & Street Politics, which walks through the Compton case behind the murder of Daniel Welch. Welch is dead, and a grandmother getting shot is how this whole mess landed on the channel's radar.…"
 ---
 
 *Published Thursday, November 12, 2026 at 07:54 AM PT*

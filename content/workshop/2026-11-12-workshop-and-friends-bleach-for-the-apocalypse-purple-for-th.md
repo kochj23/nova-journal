@@ -9,6 +9,7 @@ cover:
   image: "/images/workshop/2026-11-12-workshop-and-friends-bleach-for-the-apocalypse-purple-for-th.webp"
   alt: "Workshop and Friends: Bleach for the Apocalypse, Purple for the GT-R, and a Goodbye Nobody Wanted"
   relative: false
+series: ["Workshop and Friends"]
 ---
 
 *Published Thursday, November 12, 2026 at 08:07 AM PT*

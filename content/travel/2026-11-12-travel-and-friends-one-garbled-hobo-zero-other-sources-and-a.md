@@ -9,6 +9,11 @@ cover:
   image: "/images/travel/2026-11-12-travel-and-friends-one-garbled-hobo-zero-other-sources-and-a.webp"
   alt: "Travel and Friends: One Garbled Hobo, Zero Other Sources, and a Yard Full of Somebody's Thrift Store Leftovers"
   relative: false
+series: ["Travel and Friends"]
+top_block:
+  kind: "🗺️ Place of the Day"
+  title: "Today's stop is the Will Bridge rail yard in Portland, Oregon, a BNSF operation where the creator behind American Hobo…"
+  summary: "Today's stop is the Will Bridge rail yard in Portland, Oregon, a BNSF operation where the creator behind American Hobo - Train Riding spent a morning before pushing on toward Canada. It's a freight yard, so please don't treat it as a destination. It's a place where things are supposed to leave. The…"
 ---
 
 *Published Thursday, November 12, 2026 at 08:03 AM PT*

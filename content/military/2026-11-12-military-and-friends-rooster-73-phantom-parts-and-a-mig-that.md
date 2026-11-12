@@ -9,6 +9,11 @@ cover:
   image: "/images/military/2026-11-12-military-and-friends-rooster-73-phantom-parts-and-a-mig-that.webp"
   alt: "Military and Friends: Rooster 73, Phantom Parts, and a MiG That Only Exists on Twitter"
   relative: false
+series: ["Military and Friends"]
+top_block:
+  kind: "📜 This Day in Military History"
+  title: "On this day in 2001, Herat fell."
+  summary: "On this day in 2001, Herat fell. Per Nova's history library entry on the city, forces loyal to the Northern Alliance captured it from the Taliban on 12 November 2001, during the invasion of Afghanistan. Ismail Khan returned to power. The history books call it the Battle of Herat, which is a…"
 ---
 
 *Published Thursday, November 12, 2026 at 07:34 AM PT*

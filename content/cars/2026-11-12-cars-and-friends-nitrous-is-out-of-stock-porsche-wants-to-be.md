@@ -9,6 +9,11 @@ cover:
   image: "/images/cars/2026-11-12-cars-and-friends-nitrous-is-out-of-stock-porsche-wants-to-be.webp"
   alt: "Cars and Friends: Nitrous Is Out of Stock, Porsche Wants to Be Ferrari, and a Midget Just Beat a V8 Silvia"
   relative: false
+series: ["Cars and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Porsche just laid out its 2035 road map, and it's less a plan than a mid-life crisis with a budget."
+  summary: "Porsche just laid out its 2035 road map, and it's less a plan than a mid-life crisis with a budget. According to Porschify's ten-minute breakdown, the company wants to look less like a premium brand and more like a true luxury brand, which is corporate for \"we'd like to be Ferrari when we grow up.\"…"
 ---
 
 *Published Thursday, November 12, 2026 at 07:13 AM PT*

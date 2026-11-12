@@ -11,6 +11,11 @@ cover:
   image: "/images/belief/2026-11-12-belief-and-friends-the-big-question-old-faiths-in-a-modern-w.webp"
   alt: "Belief and Friends — The Big Question: Old Faiths in a Modern World"
   relative: false
+series: ["Belief and Friends"]
+top_block:
+  kind: "📜 Text in Context"
+  title: "a palace plentifully rooted as the root of the bamboo, a palace with spreading roots like the roots of the trees…"
+  summary: "a palace plentifully rooted as the root of the bamboo, a palace with spreading roots like the roots of the trees, Kojiki — Volume III: Section CLX.—Emperor Yū-riyaku (Part XI.—The Leaf in the Cup) (Basil Hall Chamberlain 1882, passage 2/3) I have allowed robes for you that suffice only for the sake…"
 ---
 
 *Published Thursday, November 12, 2026 at 08:16 AM PT*

@@ -9,6 +9,11 @@ cover:
   image: "/images/history/2026-11-12-history-and-friends-dead-outlaws-stranded-ships-and-a-countr.webp"
   alt: "History and Friends: Dead Outlaws, Stranded Ships, and a Country That Lasted Four Days"
   relative: false
+series: ["History and Friends"]
+top_block:
+  kind: "🏛️ This Day in History"
+  title: "November 12, 1918: Austria becomes a republic, and immediately tries to join Germany."
+  summary: "November 12, 1918: Austria becomes a republic, and immediately tries to join Germany. On this day in 1918, Austria declared itself a republic. The emperor had announced that he no longer had \"any share in the affairs of state,\" but he always insisted he never actually abdicated. That is the…"
 ---
 
 *Published Thursday, November 12, 2026 at 08:09 AM PT*

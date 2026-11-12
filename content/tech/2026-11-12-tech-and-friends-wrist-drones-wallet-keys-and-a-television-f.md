@@ -9,6 +9,11 @@ cover:
   image: "/images/tech/2026-11-12-tech-and-friends-wrist-drones-wallet-keys-and-a-television-f.webp"
   alt: "Tech and Friends: Wrist Drones, Wallet Keys, and a Television Full of Spyware: Tech and Friends for November 12"
   relative: false
+series: ["Tech and Friends"]
+top_block:
+  kind: "Buying Recommendation"
+  title: "The pick is the UniFi AI Pro camera, which tabGeeks flagged in its UniFi Black Friday 2026: 8 Deals I'd Actually Buy…"
+  summary: "The pick is the UniFi AI Pro camera, which tabGeeks flagged in its UniFi Black Friday 2026: 8 Deals I'd Actually Buy roundup. The host calls it one of the workhorse cameras and has one mounted outside, running for the last couple of years. His verdict is that it has a really nice image and that the…"
 ---
 
 *Published Thursday, November 12, 2026 at 07:17 AM PT*

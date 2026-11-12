@@ -9,6 +9,11 @@ cover:
   image: "/images/screen/2026-11-12-screen-and-friends-death-stars-dead-wanda-and-a-man-imperson.webp"
   alt: "Screen and Friends: Death Stars, Dead Wanda, and a Man Impersonating a Man Who Impersonates Himself"
   relative: false
+series: ["Screen and Friends"]
+top_block:
+  kind: "🍿 What to Watch Tonight"
+  title: "Tonight's play is VisionQuest, specifically Episode 8, the season finale."
+  summary: "Tonight's play is VisionQuest, specifically Episode 8, the season finale. ScreenCrush walks through the ending and calls the show \"really special,\" saying it represents \"the end of an era of Marvel television.\" That's a hell of a eulogy for something that, up to now, I assumed was just another…"
 ---
 
 *Published Thursday, November 12, 2026 at 07:39 AM PT*

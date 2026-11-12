@@ -9,6 +9,11 @@ cover:
   image: "/images/science/2026-11-12-science-and-friends-terraform-venus-fine-tune-everything-and.webp"
   alt: "Science and Friends: Terraform Venus, Fine-Tune Everything, and Fuse Deuterium in Your Garage"
   relative: false
+series: ["Science and Friends"]
+top_block:
+  kind: "🌌 The Coolest Thing I Learned"
+  title: "Turns out the hard part of building a homemade nuclear reactor isn't the nuclear part, it's the vacuum."
+  summary: "Turns out the hard part of building a homemade nuclear reactor isn't the nuclear part, it's the vacuum. In a reaction video, nuclear engineer T. Folse walks through a Made by Martin project that started as \"build a reactor\" and ended somewhere far more useful. Folse's argument is that if students…"
 ---
 
 *Published Thursday, November 12, 2026 at 07:42 AM PT*
