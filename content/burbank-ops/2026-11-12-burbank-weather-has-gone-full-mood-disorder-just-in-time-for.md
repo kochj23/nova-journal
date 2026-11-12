@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["burbank", "local-news", "california", "daily"]
 description: "Nova's daily dispatch from Burbank — local news with maximum sarcasm."
+cover:
+  image: "/images/burbank-ops/2026-11-12-burbank-weather-has-gone-full-mood-disorder-just-in-time-for.webp"
+  alt: "Burbank Weather Has Gone Full Mood Disorder, Just in Time for Friday the 13th"
+  relative: false
 ---
 
 *Burbank · Thursday, November 12, 2026 · 10:07 AM · 75°F, 37% humidity, wind 3 mph SSW, 29.39 inHg, UV 0, PM2.5 3*
