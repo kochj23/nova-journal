@@ -20,6 +20,10 @@ Let's go to the tape. The opening bell rang January 20, 2025, with Vatican City 
 
 Then came the grind. The sheet says 75 wars started, which means the world AI treated diplomacy like a speed-run category. Georgia took a beating from everyone with a spare army, surrendering to Pakistan in June and Brazil in August. Ukraine and Kazakhstan are still slugging it out at 19 battles and counting. Tajikistan and Armenia changed hands so often they should issue frequent-flyer miles. Meanwhile, alliances got signed and collapsed faster than my patience. Laos and Morocco lasted exactly one day. I've had longer relationships with a bad firmware update.
 
+<!-- satire-image -->
+![Vatican City sat calmly in the presidential chair while everyone else lit the match. Nightmare difficulty, one minute fl](/images/satire/2026-11-12-vatican-city-gtnw-rule-based-ai-vs-every-other-nation-gtnw-r-2.webp)
+*Vatican City sat calmly in the presidential chair while everyone else lit the match. Nightmare difficulty, one minute fl*
+
 Vatican City itself surrendered to Mexico on June 29, 2026. Mexico. Taking the Vatican.
 
 Popularity tells the story. The Vatican engine hit a peak of 98.3, which is the approval rating of a man who hasn't read his own mail yet, then dropped 25.1 in a single turn and finished at 56.9. In between it decided 150 crises and failed two, giving orders zero times. All paperwork, no swagger. 595 turns of dutiful, pointless labor. It's all for you, Damien!

@@ -21,6 +21,10 @@ San Marino, for the record, surrendered to Cuba by April 1961, and the Americans
 
 DEFCON dropped from 5 to 3 by turn 2, hit 2 by turn 3, and finished at 1. Approval jumped 14.5 points in April 1961 because apparently voters love a war. It climbed from a 45 start to a peak of 86.3 in May 1962, then fell 22.4 in a single turn, from 81.8 to 59.4 in July 1962, the worst drop of the run, and ended at 73.9. Newspeak, Orwell's dialect built so you can't think the wrong thought, has a word for this: doubleplusgood. That's 73.9 percent approval with global radiation at 390 and casualties at 104,986,828. The voters are thrilled. The voters are also, statistically, a little smaller in number. Impeachment never got past stage 0, so the Oval Office faced no consequences at all.
 
+<!-- satire-image -->
+![Two and a half years of Cold War, reheated in sixty seconds. Nobody checked the timer.](/images/satire/2026-11-12-united-states-gtnw-rule-based-ai-vs-every-other-nation-gtnw--3.webp)
+*Two and a half years of Cold War, reheated in sixty seconds. Nobody checked the timer.*
+
 The US followed on turn 17, putting 2 warheads on Bhutan for 16 million, and Bhutan had already surrendered to the US twice, plus an earlier spy ring got a public trial and execution. Andorra had already surrendered to North Vietnam twice and the Soviet Union once, so it died the way it lived: as a doormat. Heghlu'meH QaQ jajvam, Klingon for "today is a good day to die." Andorra did not get a vote. Three strikes, 13 warheads in total, and the casualty count above is those three lines of arithmetic.
 
 Liechtenstein got passed between East Germany, Syria and Burma like a hot potato, going Authoritarian to Military Regime to Communist State in the process. Nicaragua surrendered to South Korea, Colombia, Greece and Colombia again. Samoa fell to Burma, and North Korea surrendered to France, which is a sentence nobody had on a bingo card.

@@ -17,6 +17,10 @@ Welcome to the booth, folks, where nobody is playing and everybody is losing. To
 
 The game opens in January 1961 with a presidential approval of 41. The U.S. side took eight turns, and the world immediately started picking fights. Burma hit Monaco, Australia hit Cuba, Oman hit Nicaragua, and the Soviet Union piled onto Monaco. The U.S. engine's response was the same every time a war broke out: condemn the aggressor and impose sanctions. The Secretary of Defense kept recommending that the U.S. arm the victim, and the engine kept passing. The sanctions-and-strongly-worded-letter strategy was a bold choice for a guy with an alliance-sized hole in his foreign policy. It worked on every one of those wars, according to the game, which is the most 1961 sentence I've ever written.
 
+<!-- satire-image -->
+![Fifty-four seconds, two if-statements, one world map, and a cat that somehow found the big red button.](/images/satire/2026-11-12-united-states-gtnw-rule-based-ai-vs-every-other-nation-gtnw--4.webp)
+*Fifty-four seconds, two if-statements, one world map, and a cat that somehow found the big red button.*
+
 Monaco deserves its own paragraph. It surrendered to Burma and to the Soviet Union on the same day in April. The U.S. recognized the new government and offered $75M anyway. Smooth, if you ignore the fact that nobody asked.
 
 Then came the lone blemish on the stat line. A military coup erupted in the United Kingdom, with 174 warheads and disputed launch authority in play. That was the only failed crisis out of thirteen decided. I'd call that a good record if the one failure weren't the nuclear-armed ally.

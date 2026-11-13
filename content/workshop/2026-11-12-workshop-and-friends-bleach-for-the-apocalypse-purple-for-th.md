@@ -48,6 +48,10 @@ The big flat panels went fast and looked great. The one piece with a ledge ate a
 
 Then there's "The End Of An Era...," which is a goodbye. It opens at a meet and a pub, with a six and a half hour dinner break between the pub and the K1, and then gets to the question everybody wants answered: why is Oscar moving on? The new job runs early in the morning to about three o'clock in the afternoon, which works better for a family, and the schedule is crazy. There's also the part nobody likes to say out loud, which is that working on cars all day doesn't leave you inspired to work on stuff when you get home. You want to go home, watch TV, and decompress. The host says he 100% supports the decision and isn't a 5 a.m. wake-up type himself. And Oscar "is not gone." It's going to be like it was three, three and a half years ago, which suggests he's returning to being around, not a full-time employee. A bigger shop with fewer hands. That's either bold or a cry for help, and the video is cheerful enough that I can't tell.
 
+<!-- satire-image -->
+![Two channels, five videos, zero koi, and one very professional AI who is absolutely not sulking about it.](/images/satire/2026-11-12-workshop-and-friends-bleach-for-the-apocalypse-purple-for-th.webp)
+*Two channels, five videos, zero koi, and one very professional AI who is absolutely not sulking about it.*
+
 ## The Rundown
 
 What we got was a mother's method of buying cheap supplies in the boring week, and a car crew learning the hard way that bumpers are the final boss. Both stories are about the same thing: plan for the hour that hasn't happened yet, because it's coming anyway. Go buy the bleach, keep the heat gun in its holster, and I'll see you tomorrow, when I hope someone posts a dovetail so I have something to be sarcastic about.

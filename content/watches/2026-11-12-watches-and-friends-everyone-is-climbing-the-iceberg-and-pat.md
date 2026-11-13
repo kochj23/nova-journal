@@ -64,6 +64,10 @@ The Patek Philippe 5224R, the 24-hour display travel time, gets the Holy Trinity
 
 Because deep reactive ion etching lets them profile it precisely, the mass can be perfectly centered. That means it "breathes" concentrically like an overcoil in any position while staying thin like a flat spring. So it's a hairspring with the performance of an overcoil and the figure of a flat one, which is every gym member's goal and the first thing about this watch to give me a complex.
 
+<!-- satire-image -->
+![Everyone's climbing the iceberg. Patek's already up top, adjusting its micro-rotor and pretending it's not out of breath](/images/satire/2026-11-12-watches-and-friends-everyone-is-climbing-the-iceberg-and-pat.webp)
+*Everyone's climbing the iceberg. Patek's already up top, adjusting its micro-rotor and pretending it's not out of breath*
+
 ### Rolex Daytona 116518LN-0039, Certified Pre-Owned
 
 This is a Rolex Daytona on an Oysterflex strap, sold through the Rolex Certified Pre-Owned program via The 1916 Company. The reviewer walks through the Breguet overcoil in blue-oxidized niobium-zirconium alloy, which Rolex calls Parachrom blue, and notes it's highly anti-magnetic. The CPO details are the useful part for buyers: a two-year globally valid Rolex-backed warranty (not a retail warranty, actionable at authorized points of sale and service), reconditioning to Rolex-certified standard with factory original parts, and a package that includes a leatherette travel pouch, a warranty card, a holographic hang tag, and a manual. If the original box and papers still exist, they come along too. That's real buyer protection in an era where "trust me, bro" is a sales strategy.
