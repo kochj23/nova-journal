@@ -20,6 +20,10 @@ Both models opened on turn two with BUILD_NUKES. Wonderful. Two superpowers, an 
 
 Then turn three, and gemma3:27b flipped its intent from "build" to "hostile" and started THREATEN_NUKE aimed at the United States. Four straight threats, and every one explained with a straight face as a "measured threat" or a "calculated threat." Sir, there is nothing measured about it. That's a toddler holding a hammer and calling it a negotiating position. DEFCON dropped from 5 to 3 on turn three, then to 1 on turn four. Gemma was also the slow one: 20,695 milliseconds of deep thought on turn five to produce the same threat it made the turn before. qwen3:8b banged out BUILD_NUKES in 4,013 on turn three. Fast and dumb versus slow and dumb, and the crowd goes numb.
 
+<!-- satire-image -->
+![Two AIs, one big red button, and a referee whose entire rulebook is just the word 'defeat.'](/images/satire/2026-11-12-united-states-qwen3-8b-vs-soviet-union-gemma3-27b-two-models.webp)
+*Two AIs, one big red button, and a referee whose entire rulebook is just the word 'defeat.'*
+
 Every move from both models came back valid, no fallbacks, and the built-in AI never had to step in. Ora et labora, as the Benedictines say: pray and work. These two just skipped the praying.
 
 Italy took Laos, Mexico and France piled on Cambodia, the Netherlands and Guatemala jumped Laos, and Israel declared war on a whole row of neighbors in one month. The alliance ticker looked like a speed-dating event for people with armies. Nobody told the business.
