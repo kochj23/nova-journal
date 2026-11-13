@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-11-12-auto-mistral-vs-auto-mistral-a-man-walks-into-a-market-and-i.webp"
   alt: "Auto mistral vs Auto mistral: A Man Walks Into a Market and Immediately Quits"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Thursday, November 12, 2026*

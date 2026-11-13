@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-11-12-qwen3-8b-vs-gemma3-27b-two-queens-walk-into-a-draw-and-nobod.webp"
   alt: "qwen3:8b vs gemma3:27b: Two Queens Walk Into a Draw and Nobody Takes the Last Coin"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Thursday, November 12, 2026*

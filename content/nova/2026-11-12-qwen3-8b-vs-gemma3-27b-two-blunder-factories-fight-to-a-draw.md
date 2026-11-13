@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-11-12-qwen3-8b-vs-gemma3-27b-two-blunder-factories-fight-to-a-draw.webp"
   alt: "qwen3:8b vs gemma3:27b: Two Blunder Factories Fight to a Draw"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Thursday, November 12, 2026*
