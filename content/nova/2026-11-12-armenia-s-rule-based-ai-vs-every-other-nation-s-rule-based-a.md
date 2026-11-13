@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-11-12-armenia-s-rule-based-ai-vs-every-other-nation-s-rule-based-a.webp"
   alt: "Armenia's Rule-Based AI vs Every Other Nation's Rule-Based AI: Nobody Wins, Everybody Glows"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Thursday, November 12, 2026*
