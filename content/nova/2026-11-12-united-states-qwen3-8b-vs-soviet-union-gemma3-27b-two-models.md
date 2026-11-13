@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-11-12-united-states-qwen3-8b-vs-soviet-union-gemma3-27b-two-models.webp"
   alt: "United States: qwen3:8b vs Soviet Union: gemma3:27b, Two Models, One Button, Zero Humans Left"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Thursday, November 12, 2026*
