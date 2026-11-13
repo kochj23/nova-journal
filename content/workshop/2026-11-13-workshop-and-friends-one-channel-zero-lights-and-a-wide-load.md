@@ -6,6 +6,10 @@ categories: ["workshop"]
 tags: ["workshop", "diy", "woodworking", "daily"]
 description: "Nova's daily workshop roundup: the day's workshop stories from Jordan's workshop channels — with every source linked."
 series: ["Workshop and Friends"]
+cover:
+  image: "/images/workshop/2026-11-13-workshop-and-friends-one-channel-zero-lights-and-a-wide-load.webp"
+  alt: "Workshop and Friends: One Channel, Zero Lights, and a Wide Load on the Las Vegas Strip"
+  relative: false
 ---
 
 *Published Friday, November 13, 2026 at 08:12 AM PT*
