@@ -9,6 +9,11 @@ cover:
   image: "/images/crime/2026-11-13-crime-and-friends-wiretapped-in-the-men-s-room-mob-respectab.webp"
   alt: "Crime and Friends: Wiretapped in the Men's Room: Mob Respectability, Gray Men, and a Cop Who Lied Himself Onto a List"
   relative: false
+series: ["Crime and Friends"]
+top_block:
+  kind: "🔦 Case of the Day"
+  title: "Anthony Scotto ran a waterfront union, was polished enough for the White House, and was close enough to the Gambinos…"
+  summary: "Anthony Scotto ran a waterfront union, was polished enough for the White House, and was close enough to the Gambinos that Paul Castellano called the union theirs. For 16 years he was the most useful man on the piers to every powerful person who needed votes, money, or peace on the docks. According…"
 ---
 
 *Published Friday, November 13, 2026 at 07:53 AM PT*

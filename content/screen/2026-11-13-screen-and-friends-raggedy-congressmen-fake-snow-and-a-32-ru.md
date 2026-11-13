@@ -9,6 +9,11 @@ cover:
   image: "/images/screen/2026-11-13-screen-and-friends-raggedy-congressmen-fake-snow-and-a-32-ru.webp"
   alt: "Screen and Friends: Raggedy Congressmen, Fake Snow, and a 32-Run Over: Screen and Friends"
   relative: false
+series: ["Screen and Friends"]
+top_block:
+  kind: "🍿 What to Watch Tonight"
+  title: "Session 9 is tonight's pick, and it comes with a body count of one nearly-ruined eyeball before the credits even roll."
+  summary: "Session 9 is tonight's pick, and it comes with a body count of one nearly-ruined eyeball before the credits even roll. JoBlo Horror Originals makes the case that it's still one of horror's most disturbing films, a full 25 years on, and the reason is gloriously cheap: director Brad Anderson shot it…"
 ---
 
 *Published Friday, November 13, 2026 at 07:51 AM PT*

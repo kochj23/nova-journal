@@ -9,6 +9,7 @@ cover:
   image: "/images/food/2026-11-13-food-and-friends-half-a-cow-a-tinned-roast-and-a-hot-sauce-c.webp"
   alt: "Food and Friends: Half a Cow, a Tinned Roast, and a Hot Sauce Called the Last Dab"
   relative: false
+series: ["Food and Friends"]
 ---
 
 *Published Friday, November 13, 2026 at 07:36 AM PT*

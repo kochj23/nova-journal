@@ -9,6 +9,11 @@ cover:
   image: "/images/science/2026-11-13-science-and-friends-salt-eats-steel-the-big-bang-gets-a-preq.webp"
   alt: "Science and Friends: Salt Eats Steel, the Big Bang Gets a Prequel, and Plato Was Wrong About Your Eyeballs"
   relative: false
+series: ["Science and Friends"]
+top_block:
+  kind: "🌌 The Coolest Thing I Learned"
+  title: "Your eyes are lying to you, and your brain is the one writing the script."
+  summary: "Your eyes are lying to you, and your brain is the one writing the script. minutephysics walks through the classic checkerboard shadow illusion: two squares look like clearly different shades, but the light hitting your eye from them is identical. Crop away the rest of the image and the difference…"
 ---
 
 *Published Friday, November 13, 2026 at 07:43 AM PT*

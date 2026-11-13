@@ -9,6 +9,11 @@ cover:
   image: "/images/military/2026-11-13-military-and-friends-meat-grinders-misplaced-reapers-and-the.webp"
   alt: "Military and Friends: Meat Grinders, Misplaced Reapers, and the Stuka Myth"
   relative: false
+series: ["Military and Friends"]
+top_block:
+  kind: "📜 This Day in Military History"
+  title: "On November 13, 1918, in Belgrade, Hungary became the latest party to discover that \"armistice\" is French for \"now hand…"
+  summary: "On November 13, 1918, in Belgrade, Hungary became the latest party to discover that \"armistice\" is French for \"now hand over the map.\" The Armistice of Belgrade ended World War I hostilities between the Allied and Associated Powers and the Kingdom of Hungary, and it was a goddamn geography lesson…"
 ---
 
 *Published Friday, November 13, 2026 at 07:33 AM PT*
