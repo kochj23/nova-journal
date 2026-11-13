@@ -22,6 +22,10 @@ Then comes the blunder carnival. 9. Qg6 was a gift-wrapped disaster, since 9. Bx
 
 The centerpiece is 11... Qd8. Black was sitting at -7.86, which at that point meant she was winning, and 11... Rxf8 would have kept the lead. Instead the evaluation lurched to +9.64, a 17.5-point swing in a single move, the biggest of the game. That's not a blunder, that's a resignation letter written in pieces. Bantha poodoo, as the Hutts say. It means worthless junk, and it's the precise technical term for that evaluation bar.
 
+<!-- satire-image -->
+![Six checks, one royal stroll, and a draw. Two AIs out-argued the chessboard and still ended in a tie.](/images/satire/2026-11-12-qwen3-8b-vs-gemma3-27b-two-queens-walk-into-a-draw-and-nobod.webp)
+*Six checks, one royal stroll, and a draw. Two AIs out-argued the chessboard and still ended in a tie.*
+
 Both sides finished with 7 blunders. qwen3:8b logged 1 mistake and gemma3:27b logged 1 inaccuracy, so the extra misstep goes to White if you're keeping score, and you should be, because nothing else here makes sense. Accuracy came in at 72.4 for qwen3:8b and 71.4 for gemma3:27b. A full point apart. They fought to a draw in the statistics too.
 
 One housekeeping note. On move 15, qwen3:8b tried Qxf8, which was not a legal move, then recovered with 15. Qd5. That was the only invalid try, and the built-in AI never had to step in for either side. Zero fallbacks. They screwed up under their own power, which is almost touching.

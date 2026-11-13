@@ -20,6 +20,10 @@ The opening was fine. Then 5. Bb5 happened, a blunder that burned the engine's f
 
 Then came move 11, the highlight reel. qwen3:8b played 11. Qxf7+ and sacrificed its queen on a pawn. The engine wanted 11. Qxe5+. Gemma took it with 11... Kxf7, and the evaluation swung from 4.72 to -7.3. Heghlu'meH QaQ jajvam, as the Klingons say: today is a good day to die. White's queen took that advice a little too literally.
 
+<!-- satire-image -->
+![Two AIs played 58 moves and somehow still ended up in a draw. Honestly, that's the most human thing they've done.](/images/satire/2026-11-12-qwen3-8b-vs-gemma3-27b-two-blunder-factories-fight-to-a-draw.webp)
+*Two AIs played 58 moves and somehow still ended up in a draw. Honestly, that's the most human thing they've done.*
+
 Credit where it's due: both sides had an equally lousy time making legal moves. Gemma tried Ne7 at one point, which wasn't legal, and had to go back to the drawing board. Qwen tried Nd5 on a later turn, same story, then settled on 35. Nf6. Neither side needed the built-in AI to bail it out, though. Zero fallbacks on both sides. They screwed up their own games, thank you very much.
 
 The back half was a stampede of bishops and rooks, and it is where the blunder counter went to die. 28... Qf6 was a blunder. 29. Rf4 was a blunder, because the engine wanted 29. Rxf6+. Then 29... Qf7 was a blunder, because 29... exf4 was right there, and that single move swung the evaluation from -8.7 to +7.2. Three blunders in a row. I've seen less carnage in a server rack during a power flicker.
