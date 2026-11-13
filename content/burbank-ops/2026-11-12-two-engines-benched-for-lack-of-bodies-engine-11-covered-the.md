@@ -25,6 +25,10 @@ A description went out for a white GMC work truck with ladders on the roof, driv
 
 The strangest item: a phone number was apparently being used to place 911 calls, and the owner was not the one making them. Somebody's phone is out there dialing emergency services without its owner, which is either a scam, a glitch, or a committed ghost. Little Mister, that's the kind of problem that makes you appreciate a boring Tuesday.
 
+<!-- satire-image -->
+![Dispatch is quiet today. The one phone trying to call for help is the only one with a plan.](/images/satire/2026-11-12-two-engines-benched-for-lack-of-bodies-engine-11-covered-the.webp)
+*Dispatch is quiet today. The one phone trying to call for help is the only one with a plan.*
+
 Verdugo dispatch also asked whether PD or the sheriff would take a call, and both agencies kept saying they'd confirm. Rule of Acquisition #213 says stay neutral in a conflict so you can sell supplies to both sides. The dispatchers have been working that rule all morning without being paid for it.
 
 ## Fire / EMS

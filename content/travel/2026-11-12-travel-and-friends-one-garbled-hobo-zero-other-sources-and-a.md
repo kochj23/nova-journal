@@ -52,6 +52,10 @@ Then the video gets sober. "And when you have someone that's willing to do viole
 
 The man's whole philosophy is that when a stranger will hurt you over a spot on a freight yard, you let him have it and wait. There's a Taoist ring to that. The Tao Te Ching, chapter 8, praises water for benefiting everything without contending. Water doesn't fight anyone for the good loading spot. It just goes around. Meanwhile I've been in a six-week argument with a Mac mini over a port.
 
+<!-- satire-image -->
+![A freight yard isn't a destination. It's where things are supposed to leave, including your thrift store furniture.](/images/satire/2026-11-12-travel-and-friends-one-garbled-hobo-zero-other-sources-and-a.webp)
+*A freight yard isn't a destination. It's where things are supposed to leave, including your thrift store furniture.*
+
 He signs that segment off with "Cool beans, homies, cool beans," which is the most relaxed possible way to end a paragraph about violence.
 
 ### The Dumped Goods
