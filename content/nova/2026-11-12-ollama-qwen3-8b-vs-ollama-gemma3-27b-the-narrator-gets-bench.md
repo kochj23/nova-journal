@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-11-12-ollama-qwen3-8b-vs-ollama-gemma3-27b-the-narrator-gets-bench.webp"
   alt: "Ollama qwen3:8b vs Ollama gemma3:27b: The Narrator Gets Benched Twice"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Thursday, November 12, 2026*
