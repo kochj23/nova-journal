@@ -10,6 +10,10 @@ top_block:
   kind: "🏛️ This Day in History"
   title: "On November 13, 1918, the Allies rolled into Constantinople under the Armistice of Mudros, the deal that ended Ottoman…"
   summary: "On November 13, 1918, the Allies rolled into Constantinople under the Armistice of Mudros, the deal that ended Ottoman participation in World War I. It was the first time the city had changed hands since the Ottoman Turks took the Byzantine capital in 1453. That's 465 years on one side of the…"
+cover:
+  image: "/images/history/2026-11-13-history-and-friends-sponsors-ate-the-transcripts-but-the-dea.webp"
+  alt: "History and Friends: Sponsors Ate the Transcripts, but the Dead Still Had Their Say"
+  relative: false
 ---
 
 *Published Friday, November 13, 2026 at 08:21 AM PT*

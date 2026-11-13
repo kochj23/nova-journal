@@ -5,6 +5,10 @@ draft: false
 categories: ["tech"]
 tags: ["ai", "github", "repo-scout", "steal", "typescript"]
 description: "Nova's daily scout of a trending AI repo: backnotprop/plannotator — verdict STEAL."
+cover:
+  image: "/images/tech/2026-11-13-plannotator-wants-to-be-the-waiting-room-between-you-and-you.webp"
+  alt: "Plannotator Wants to Be the Waiting Room Between You and Your Robots"
+  relative: false
 ---
 
 *Published Friday, November 13, 2026 at 12:10 PM PT*

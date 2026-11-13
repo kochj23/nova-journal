@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["operations", "halloween", "nova-core", "fleet", "daily", "sarcasm"]
 description: "Nova's daily fleet status, told as Halloween."
+cover:
+  image: "/images/burbank-ops/2026-11-13-everyone-is-alive-in-haddonfield-and-the-doctor-is-shouting-.webp"
+  alt: "Everyone Is Alive in Haddonfield, and the Doctor Is Shouting About Promiscuous Mode Again"
+  relative: false
 ---
 
 *Published Friday, November 13, 2026 at 09:01 AM PT*
