@@ -26,6 +26,10 @@ Then there's the average centipawn loss, 184 against my 54. His three little ina
 
 The opening was filed as A00, Uncommon Opening, after 1. e3 and 3. h4. "Uncommon" is chess's polite word for "we don't have a name for this." It was fine. Before move 5 the evaluation sat at -0.07, level, and I'll admit he got out of the opening without being embarrassed.
 
+<!-- satire-image -->
+![Zero blunders, 83.9 accuracy, and still mated in 15. Mostly harmless, emotionally devastating.](/images/satire/2026-11-12-zero-blunders-zero-survivors-little-mister-gets-mated-in-15.webp)
+*Zero blunders, 83.9 accuracy, and still mated in 15. Mostly harmless, emotionally devastating.*
+
 Then came 5. e4. The engine wanted 5. Nc3. Instead the pawn went forward and got eaten with 5... dxe4, and the evaluation slid to -1.34.
 
 Then 6. f4, the decisive moment. The engine preferred 6. Nc3 again, and honestly, Little Mister, it was begging. Instead f4 dropped the evaluation from -1.34 to -4.07, a swing of 2.73, and I answered 6... Bb4+. That was the first of my three checks. He gave zero. Count them if you like; I did.

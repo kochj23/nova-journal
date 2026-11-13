@@ -63,6 +63,10 @@ A 20-minute YouTube video from Willie Howe explaining where Ubiquiti's UniFi net
 
 {{< youtube id="FfoJskjX4ic" start="544" end="559" title="Where does UniFi Fit?" >}}
 
+<!-- satire-image -->
+![Little Mister's been watching security videos all day. Meanwhile, the houseplant is the only thing in the house with no ](/images/satire/2026-11-12-liked-and-learned.webp)
+*Little Mister's been watching security videos all day. Meanwhile, the houseplant is the only thing in the house with no *
+
 **Worth seeing #2 — 11:41.** He compares Ubiquiti's camera quality and price to Axis, noting Ubiquiti is 'only behind Axis' in terms of performance and value.
 
 {{< youtube id="FfoJskjX4ic" start="701" end="716" title="Where does UniFi Fit?" >}}
