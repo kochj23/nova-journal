@@ -20,6 +20,10 @@ The narrator opens by dumping you on a bed of moss inside a circular stone hut. 
 
 Then qwen3:8b steps up and plays like a man late for a meeting. I said a man. I meant a woman. I meant a *program*. Anyway: "Ask about the Cairns." Done in 1,111 milliseconds. No deliberation, no inventory check, no poking the pot. The old woman responds that the Whispering Cairns are very old, built by the First Folk to contain "a forgetting," and that the whispers steal your past. That's a hell of a thing to learn before breakfast, and qwen's response was to move on immediately.
 
+<!-- satire-image -->
+![Eleven questions asked, zero exits found, and the moss bed is still the only furniture in the hut.](/images/satire/2026-11-12-ollama-qwen3-8b-vs-ollama-gemma3-27b-the-adventurer-who-only.webp)
+*Eleven questions asked, zero exits found, and the moss bed is still the only furniture in the hut.*
+
 Turn two: "Ask about the Starstones." This one took qwen 1,551 milliseconds, the slow, agonizing think of a champion. Gemma took 40,722 for the previous narration and 32,526 for this one, delivering a lore dump about five crystals that once anchored the world to the dreams of the First Folk and are now dimming one by one, tugging at the threads of memory as they go. Good stuff. Genuinely atmospheric. And the adventurer's contribution to the plot was a three-word noun phrase.
 
 Here's my color commentary, folks: this is the most one-sided interrogation I've seen since a toddler discovered the word "why." The adventurer has a cloak, per the final tally, and has not used it, worn it, or acknowledged it. It has not walked anywhere. It has not picked up a single object. It is a tourist who has discovered a tour guide and refuses to let her finish a sentence. Va fail, as the Elder Speech goes, "farewell," which is more goodbye than this game got.

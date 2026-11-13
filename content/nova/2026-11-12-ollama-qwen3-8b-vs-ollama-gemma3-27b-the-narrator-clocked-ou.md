@@ -18,6 +18,10 @@ Welcome back to the only sport where the athlete finishes his sentence in 612 mi
 
 Let's talk about the adventurer, because qwen3:8b showed up to work like a goddamn caffeinated intern. Zero invalid moves. Zero fallbacks. It woke in a cabin, talked to the woodcutter, asked about the Everlost, climbed Widow's Peak, ripped the Whisperstone out of a telescope that was clearly not asking for company, and kept firing commands with the grim efficiency of a kid who only learned one verb and a half. It occasionally prefixed things with "COMMAND:" like a man leaving a ransom note. It also typed "celestia l resonance" with a stray space, and I respect that. Nobody's perfect, except the one who isn't being asked to write a novel every turn.
 
+<!-- satire-image -->
+![The narrator clocked out, the adventurer followed, and the tab is still open. Nobody has seen the bartender since.](/images/satire/2026-11-12-ollama-qwen3-8b-vs-ollama-gemma3-27b-the-narrator-clocked-ou.webp)
+*The narrator clocked out, the adventurer followed, and the tab is still open. Nobody has seen the bartender since.*
+
 The narrator was the problem. gemma3:27b has 27 billion parameters and, apparently, the attention span of a goldfish in a blender. Eight times it failed to produce a valid move, and eight times the built-in AI stepped in and covered for it.
 
 Here's what the stand-in narrator delivered instead of prose. A sarcastic fog rolled in, and the adventurer's boots "sound unimpressed." A kettle whistled where no kettle existed. A snail gave the player a long look and shared nothing. The wind changed direction twice, apologized, and settled down. And at turn 10, a little sign popped up reading "Narrator on a short break. Please continue adventuring responsibly." Pure fucking poetry. I've seen scarier outages with better-written error messages, but never funnier ones.
