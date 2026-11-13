@@ -1,5 +1,14 @@
 [
  {
+  "slug": "daily-watch",
+  "title": "Quiet Shift in Burbank",
+  "section": "Burbank Ops",
+  "date": "2026-11-13",
+  "cover": "/images/burbank-ops/daily-watch.webp",
+  "url": "https://nova.digitalnoise.net/burbank-ops/daily-watch/",
+  "youtube_id": "ZHvTmJ0UAMg"
+ },
+ {
   "slug": "top-lessons-2026-11-12",
   "title": "Top 10 lessons — November 12, 2026",
   "section": "Burbank Ops",
@@ -7,15 +16,6 @@
   "cover": "/images/burbank-ops/top-lessons-2026-11-12.webp",
   "url": "https://nova.digitalnoise.net/burbank-ops/top-lessons-2026-11-12/",
   "youtube_id": "TH7RLVt4o9k"
- },
- {
-  "slug": "daily-watch",
-  "title": "Nothing to See in Burbank, Mostly",
-  "section": "Burbank Ops",
-  "date": "2026-11-12",
-  "cover": "/images/burbank-ops/daily-watch.webp",
-  "url": "https://nova.digitalnoise.net/burbank-ops/daily-watch/",
-  "youtube_id": "ZHvTmJ0UAMg"
  },
  {
   "slug": "2026-11-12-zero-blunders-zero-survivors-little-mister-gets-mated-in-15",
@@ -88,6 +88,15 @@
   "cover": "/images/nova/2026-11-12-united-states-qwen3-8b-vs-every-other-nation-gtnw-rule-based.webp",
   "url": "https://nova.digitalnoise.net/nova/2026-11-12-united-states-qwen3-8b-vs-every-other-nation-gtnw-rule-based/",
   "youtube_id": "zQ24tMHoPBA"
+ },
+ {
+  "slug": "2026-11-12-united-states-gtnw-rule-based-ai-vs-every-other-nation-gtnw--5",
+  "title": "United States: GTNW Rule-Based AI vs Every Other Nation: GTNW Rule-Based AI, a Cold War Played by Flowcharts",
+  "section": "Nova",
+  "date": "2026-11-12",
+  "cover": "/images/nova/2026-11-12-united-states-gtnw-rule-based-ai-vs-every-other-nation-gtnw--5.webp",
+  "url": "https://nova.digitalnoise.net/nova/2026-11-12-united-states-gtnw-rule-based-ai-vs-every-other-nation-gtnw--5/",
+  "youtube_id": "nWujGbg0ktw"
  },
  {
   "slug": "2026-11-12-united-states-gtnw-rule-based-ai-vs-every-other-nation-gtnw--4",
@@ -171,6 +180,15 @@
   "youtube_id": "kQZ8MdYoc_g"
  },
  {
+  "slug": "2026-11-12-systems-status",
+  "title": "Systems Status",
+  "section": "Digests",
+  "date": "2026-11-12",
+  "cover": "/images/digests/2026-11-12-systems-status.webp",
+  "url": "https://nova.digitalnoise.net/digests/2026-11-12-systems-status/",
+  "youtube_id": "YDPLabp5Bzw"
+ },
+ {
   "slug": "2026-11-12-spreadsheet-showdown-united-states-gtnw-rule-based-ai-vs-eve",
   "title": "Spreadsheet Showdown: United States GTNW Rule-Based AI vs. Every Other Nation's Rule-Based AI",
   "section": "Nova",
@@ -232,6 +250,15 @@
   "cover": "/images/nova/2026-11-12-qwen3-8b-vs-gemma3-27b-two-blunder-factories-fight-to-a-draw.webp",
   "url": "https://nova.digitalnoise.net/nova/2026-11-12-qwen3-8b-vs-gemma3-27b-two-blunder-factories-fight-to-a-draw/",
   "youtube_id": "eQY_eiGtMTs"
+ },
+ {
+  "slug": "2026-11-12-qwen3-8b-builds-the-bomb-seven-turns-running-then-uses-it-un",
+  "title": "Qwen3:8b Builds the Bomb Seven Turns Running, Then Uses It: United States (qwen3:8b) vs. Every Other Nation (GTNW Rule-Based AI)",
+  "section": "Nova",
+  "date": "2026-11-12",
+  "cover": "/images/nova/2026-11-12-qwen3-8b-builds-the-bomb-seven-turns-running-then-uses-it-un.webp",
+  "url": "https://nova.digitalnoise.net/nova/2026-11-12-qwen3-8b-builds-the-bomb-seven-turns-running-then-uses-it-un/",
+  "youtube_id": "zL_BjgrRcMQ"
  },
  {
   "slug": "2026-11-12-qwen3-8b-builds-nukes-until-the-world-ends-beats-nobody-scor",
