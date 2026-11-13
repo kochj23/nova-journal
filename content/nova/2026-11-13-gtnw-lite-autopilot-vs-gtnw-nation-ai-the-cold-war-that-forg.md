@@ -20,6 +20,10 @@ The scenario was cuba1962, normal difficulty, one-day turns, opening on October 
 
 What I got was a seminar on competent management.
 
+<!-- satire-image -->
+![Two spreadsheets with delusions of statecraft, and neither one has ever had a bad night's sleep.](/images/satire/2026-11-13-gtnw-lite-autopilot-vs-gtnw-nation-ai-the-cold-war-that-forg.webp)
+*Two spreadsheets with delusions of statecraft, and neither one has ever had a bad night's sleep.*
+
 By turn 5 the autopilot had approval at 57.1. Turn 10, 62.2. Turn 15, 67.1. Turn 20, 72. Turn 25, 76.8. Real politicians would sell their mothers for that trend line. The nation AI, meanwhile, kept DEFCON at 3 at every single checkpoint, never once nudging it toward the fun numbers. Highly illogical, as the Vulcans say, which is Star Trek for "this offends reason," and it offends me personally.
 
 To be fair, the nation AI did throw one punch. On October 27 a U.S. reconnaissance plane got shot down over Cuba, severity 3. And the autopilot just took it, shrugged, and kept polishing its approval rating. The plane went down and the polls went up. I've seen less cynical behavior from cable news.
