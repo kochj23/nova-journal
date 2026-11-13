@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-11-12-qwen3-8b-builds-the-bomb-seven-turns-running-then-uses-it-un.webp"
   alt: "Qwen3:8b Builds the Bomb Seven Turns Running, Then Uses It: United States (qwen3:8b) vs. Every Other Nation (GTNW Rule-Based AI)"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Thursday, November 12, 2026*
