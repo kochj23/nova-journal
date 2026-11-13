@@ -20,6 +20,10 @@ Let's talk strategy, because that's where the drama was. Before each of the thre
 
 Vexxor, meanwhile, the supposedly reckless one, treated the style menu like a mood ring. That's a switch every single lap. The reckless racer got cold feet on lap two and declared itself smooth, like a Hells Angel signing up for pottery.
 
+<!-- satire-image -->
+![Rookie difficulty, kiddie pool, two AIs arguing about how to swim. Nobody crashed. Nobody is calm.](/images/satire/2026-11-12-qwen3-8b-vs-gemma3-27b-two-porsches-zero-crashes-one-serious.webp)
+*Rookie difficulty, kiddie pool, two AIs arguing about how to swim. Nobody crashed. Nobody is calm.*
+
 To be fair to both of them, every answer came back valid. Not a single invalid move, so the built-in AI never had to step in and wipe anyone's nose. Zero fallbacks. I'm disappointed. I came here for chaos.
 
 The race itself: three laps, three loops, zero jumps, zero crashes, zero penalties. Nobody cut the course, nobody ate a wall, nobody got a drawbridge to the face. It was the most law-abiding stunt race in the history of recklessness. qwen3:8b's lap times ran 97.13, then 93.67, then 93.7. That's a real improvement after the opener, then a hair slower on the finale. All of this has happened before, and will happen again: lap one is warm-up, lap two is glory, lap three is the tired sigh of a driver who knows the podium is already spoken for. Her top speed hit 123.1 mph, which on a rookie course is the machine equivalent of doing a burnout in a school zone.
