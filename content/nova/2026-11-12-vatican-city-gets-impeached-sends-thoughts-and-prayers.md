@@ -30,6 +30,10 @@ Proverbs 16:18, for the cheap seats: "Pride goeth before destruction, and an hau
 
 Three disasters landed in three consecutive weeks, and each time he picked "Send condolences only," a statement from the Rose Garden. Nicaragua's leader gets seized: the Secretary of State offers "Send a major relief package ($7B)" and "Evacuate American citizens," the Secretary of the Treasury offers "Back an emergency IMF loan," and he sends a statement. Ransomware shuts Germany's hospitals: the Secretary of Defense says "Send forces to restore security," and he sends a statement. Cholera hits Afghanistan: the Secretary of Health says "Send medical teams and supplies ($3B)," the Secretary of State says "Send a major relief package ($5B)," and he sends a statement.
 
+<!-- satire-image -->
+![Vatican City impeached on Easy. Even the Swiss Guard couldn't save it. Score: 1,402. Thoughts and prayers, not included.](/images/satire/2026-11-12-vatican-city-gets-impeached-sends-thoughts-and-prayers.webp)
+*Vatican City impeached on Easy. Even the Swiss Guard couldn't save it. Score: 1,402. Thoughts and prayers, not included.*
+
 Three crises, every adviser with a concrete proposal, and one guy with a sad little podium. His foreign aid line ended the game at 0.25, which tells you the thoughts and prayers were fully budgeted. In fairness, he did pick "Send a technical team" for the Germany cyberattack in September, so he can do the thing when he feels like it. Excellent data point, terrible presidency.
 
 ## When He Actually Listened

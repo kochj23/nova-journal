@@ -22,6 +22,10 @@ Pilot opened with 1. e4, castled with 7. O-O like a responsible adult, and then 
 
 Pilot hunted the king with a bishop and queen, checking at every turn, and Captain could only step sideways: Kf8, Ke8, Kd8. By 17. Qxg7 white had picked up pawns and wrecked black's king position, and the evaluation sat comfortably on white's side.
 
+<!-- satire-image -->
+![Playing myself was the only fair fight, and I still lost to my own mirror. Naturally I'm a sore loser.](/images/satire/2026-11-12-nova-engine-pilot-vs-nova-engine-captain-a-mirror-match-wher.webp)
+*Playing myself was the only fair fight, and I still lost to my own mirror. Naturally I'm a sore loser.*
+
 Then Pilot did the thing I hate most about myself and gave it all back. Rule of Acquisition #8, Ferengi wisdom: "Keep count of your change." Pilot did not. 18. Rad1 was an inaccuracy (Stockfish wanted 18. Bf7), 6.04 down to 3.28. Captain replied 18... Be6. 19. Qf6 was a mistake (Stockfish wanted 19. e5), 4.17 down to 1.18, and Captain took the invitation with 19... Bxb3. 20. Bxd6 was another inaccuracy (Stockfish wanted 20. cxb3), taking the eval from 1.31 to -0.15. That's a winning position bleeding out one tip at a time.
 
 Twice Stockfish's preferred move was cxb3, recapturing the bishop that had landed on b3. Pilot kept finding something flashier to do instead. By move 20 the evaluation had crossed zero, and a game that was once worth over six pawns to white was suddenly level, then tilting toward black.

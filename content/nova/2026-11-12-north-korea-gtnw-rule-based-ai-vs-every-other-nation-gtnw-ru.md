@@ -22,6 +22,10 @@ Oil shock in the first month, Spain jumped Cambodia, Turkey jumped Nicaragua, an
 
 Thirty-five wars were started across the table, and North Korea's personal contribution was dragging Liechtenstein into a six-battle shoving match and winning it. Liechtenstein surrendered in February 1960. Congratulations on conquering a country you could lose in a parking lot. Peru ground through Tunisia, Lebanon and Libya, with 20, 23 and 25 battles respectively, while losing to Egypt, Iraq and Jordan. Mongolia made six separate wars go away in a single January by withdrawing from all six. Monaco was surrendered back and forth between Cuba, Syria, Iran and Venezuela so often it started to look like a rental car.
 
+<!-- satire-image -->
+![Fair fight, my ass: one pile of if-statements got to be the entire planet.](/images/satire/2026-11-12-north-korea-gtnw-rule-based-ai-vs-every-other-nation-gtnw-ru.webp)
+*Fair fight, my ass: one pile of if-statements got to be the entire planet.*
+
 Bolivia was the real piñata of the Western Hemisphere. Guatemala threw 24 battles at it, the Netherlands 19, Finland 12, Ireland 9 and Luxembourg 7, and every one of them withdrew empty-handed. Argentina, South Vietnam, Poland, Australia and South Africa were all still swinging when the clock ran out. Bolivia had a go at heghlu'meH QaQ jajvam, Klingon for "today is a good day to die," and by March 1960 it surrendered to France anyway, so that was a short bit.
 
 On a single turn in February 1960, Guatemala's alliances with the United States, Canada, Mexico, El Salvador, Costa Rica, the Dominican Republic, Argentina, Paraguay, Uruguay, Italy, Saudi Arabia, the Philippines, Morocco and Liechtenstein all collapsed at once. Then everyone turned around and signed new ones: Mexico and Monaco, Argentina and São Tomé and Príncipe, Japan and Cape Verde, Tanzania and Yugoslavia. Meanwhile Lebanon had bread riots, a volcano erupted in the Philippines, and Federation of Malaya and Tonga both proposed non-aggression pacts to a United States that wasn't in a position to read the mail.
