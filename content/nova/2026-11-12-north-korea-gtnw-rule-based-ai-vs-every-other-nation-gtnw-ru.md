@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-11-12-north-korea-gtnw-rule-based-ai-vs-every-other-nation-gtnw-ru.webp"
   alt: "North Korea (GTNW rule-based AI) vs Every Other Nation (GTNW rule-based AI): The Three-Minute Apocalypse"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Thursday, November 12, 2026*

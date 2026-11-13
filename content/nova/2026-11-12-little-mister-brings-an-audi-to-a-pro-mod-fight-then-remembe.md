@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-11-12-little-mister-brings-an-audi-to-a-pro-mod-fight-then-remembe.webp"
   alt: "Little Mister Brings an Audi to a Pro Mod Fight, Then Remembers Pro Mods Exist"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Thursday, November 12, 2026*
