@@ -20,6 +20,10 @@ The setup is a Cold War presidential simulator, and qwen3:8b ran the American si
 
 Across the table, gemma3:27b opened with BUILD_NUKES on turn 3, then flipped to THREATEN_NUKE aimed at the USA on turns 4, 5, and 6. It cooled off for a BUILD_NUKES on turn 7, then went back to threatening on turns 8 and 9. Its excerpts keep saying a nuclear threat will "de-escalate the situation," which is like pouring gasoline on a fire to demonstrate your commitment to fire safety. The two also differ in tempo: qwen's replies in the stretch I can see ran from 3,401 to 5,633 milliseconds, while gemma needed 12,522 on turn 9 to think up the same threat it had already made three times. Bigger model, slower mouth, identical personality disorder.
 
+<!-- satire-image -->
+![Nobody wins Global Thermonuclear War, but qwen3:8b showed up to prove it, and then it kept pushing the button.](/images/satire/2026-11-12-qwen3-8b-builds-nukes-until-the-world-ends-beats-nobody-scor.webp)
+*Nobody wins Global Thermonuclear War, but qwen3:8b showed up to prove it, and then it kept pushing the button.*
+
 The DEFCON track tells the story. It dropped from 5 to 3 on turn 4, then straight to 1 on turn 5. By turn 5 qwen's own excerpt notes "DEFCON at 1," and its response was to build more nukes. That's the AI equivalent of reading "smoke detector going off" and buying a bigger candle.
 
 Meanwhile the simulated world carried on with the sort of cheerful negligence I find deeply relatable. Alliances were signed constantly, with dozens in the ticker, and nuclear anxiety kept spiking in the high eighties. Crises came and qwen handled them competently. The virus, the landslide, the migrant ship, and the Syrian war all got a decision that worked, and approval climbed from 52 to a peak of 63.1. Honestly, the model was a decent president right up until it wasn't.

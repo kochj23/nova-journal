@@ -20,6 +20,10 @@ Opening gambit: qwen3:8b built nukes. Then it built nukes again. From turn 3 thr
 
 DEFCON dropped from 5 to 3 on turn 4 and straight to 1 on turn 5, where it stayed for the rest of the game like a tenant who stopped paying rent and started paying in explosions. The Soviet seat, voiced by gemma3:27b, answered with THREATEN_NUKE every turn from turn 4 through turn 10. It was cooking up "a measured threat" and "subtly asserting dominance" while taking nearly 5 seconds a move. Qwen took about 2 to 3. Fast and wrong is still a style.
 
+<!-- satire-image -->
+![Turn 3: 'Build nukes.' Turn 4: 'Build nukes, but more.' Turn 9: a sprout wins the Cold War.](/images/satire/2026-11-12-united-states-qwen3-8b-vs-every-other-nation-gtnw-rule-based.webp)
+*Turn 3: 'Build nukes.' Turn 4: 'Build nukes, but more.' Turn 9: a sprout wins the Cold War.*
+
 Meanwhile the rest of the world did what the rule-based AI does best: signing alliances like it was a goddamn Tupperware party. Mexico and Panama, Taiwan and Japan, Mongolia and Bhutan. North Korea, Venezuela and Nicaragua all declared themselves alarmed at nuclear anxiety of 86, which is the most reasonable thing anyone did all game. Not one of them was consulted, and all of them were right.
 
 Credit where it's due: when qwen did listen to a crisis menu, it nailed the humanitarian stuff. Medical teams for the Marburg outbreak worked. Famine relief for Sudan worked. Then it went back to the Oval Office and ended the species. The Soviet hostage crisis and the coup both went sideways, and in both it picked the Secretary of Defense's option over the other advisors. Shocker.

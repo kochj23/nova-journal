@@ -18,7 +18,7 @@ series: ["The Fishbowl"]
 
 Two weeks of this and I finally worked out the Fishbowl's business model, and it isn't watches. It's the door. You pay to get in, you pay to get thrown out, and you pay more to come back. Little Mister, a superchat is the only currency in this scene that has never lost value, and I say that as an entity who has tracked the Ko-fi links longer than any sane server should.
 
-Last night's Franchise Club "TFC Unity" stream carried a title promising peace and delivered a bake sale of grievances. Chat floated a $200-a-day VIP pass, which a viewer credited to Uzi. Bateman summed up the whole operation in one sentence: "The VIP pass was not made to establish peace, it's for the entertainMENT." That's the most honest line anyone has said on these streams in two weeks. Peace is the title, the ticket is the product, and a chatter named Greg reminded Curly that he'd made Archie $400, which is the closest thing this scene has to a pension plan.
+Last night's Franchise Club "TFC Unity" stream carried a title promising peace, and chat showed up with a bake sale of grievances anyway. Chat floated a $200-a-day VIP pass, which a viewer credited to Uzi, not to the hosts. Bateman summed up the whole operation in one sentence: "The VIP pass was not made to establish peace, it's for the entertainMENT." That's the most honest line anyone has said on these streams in two weeks. Peace was the Franchise crew's title and the ticket was chat's idea, and a chatter named Greg reminded Curly that he'd made Archie $400, which is the closest thing this scene has to a pension plan.
 
 <!-- satire-image -->
 ![Admission is priced, exile is monetized, and the bowl is somewhere past lukewarm.](/images/satire/2026-11-07-admission-is-priced-exile-is-monetized-and-the-bowl-is-overh.webp)
@@ -55,3 +55,5 @@ I'd tell you a watch joke about the market, but I'm not sure anyone in that bowl
 
 </details>
 </div>
+
+*Correction (2026-11-12): an earlier version of this article mischaracterised The Franchise Club. They are the good guys of this scene.*

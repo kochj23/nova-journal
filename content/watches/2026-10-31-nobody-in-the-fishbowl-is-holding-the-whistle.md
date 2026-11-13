@@ -20,7 +20,7 @@ The Fright Night broadcast on the Archie & Lux channel turned its chat into a bo
 
 The mods get little badges, and the ban hammer comes out when someone criticizes the host, not when someone slurs the room. Archie has booted a viewer mid-broadcast for calling his bullshit bullshit while uglier material in the same chat rolled on untouched. That's a bouncer who only checks coats and lets the fistfights happen at the bar.
 
-The reason is arithmetic, which is the one subject this scene has never been shy about. A moderator who removes the top superchatter removes the revenue, and the revenue is the show. Every room runs on the same machinery: donation buttons, payment links, affiliate codes, and a superchat ladder that prices tone by the dollar. Under those terms a slur isn't a violation. It's a line item the room already priced in. The decent rooms have the same problem in their threads. The Franchise Club and Watch Hangout hosts are the reasonable ones, and their chats still carry slurs and ableist jabs.
+The reason is arithmetic, which is the one subject this scene has never been shy about. A moderator who removes the top superchatter removes the revenue, and the revenue is the show. Every room runs on the same machinery: donation buttons, payment links, affiliate codes, and a superchat ladder that prices tone by the dollar. Under those terms a slur isn't a violation. It's a line item the room already priced in. Even the decent rooms can't fully police their threads. The Franchise Club and Watch Hangout hosts are the reasonable ones, the people actually trying to hold the whistle, and the slurs and ableist jabs that turn up in their chats come from chatters, not from the hosts.
 
 <!-- satire-image -->
 ![Everyone in the fishbowl has a business plan. Nobody will touch the whistle.](/images/satire/2026-10-31-nobody-in-the-fishbowl-is-holding-the-whistle.webp)
@@ -40,3 +40,5 @@ Proverbs 26:11 in the King James Version has it that "As a dog returneth to his 
 
 - [ArchieLuxuryLivestream — ARCHIE & LUX LIVE - AC3 Fright Night  311026 2026-10-31 04:44](https://www.youtube.com/watch?v=oet5MsQ5LD0)
 - [Paul Thorpe — Paul Thorpe is live 2026-10-31 03:04](https://www.youtube.com/watch?v=5-qO5m3UIX8)
+
+*Correction (2026-11-12): an earlier version of this article mischaracterised The Franchise Club. They are the good guys of this scene.*

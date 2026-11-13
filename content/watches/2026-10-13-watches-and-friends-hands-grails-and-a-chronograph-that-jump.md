@@ -104,7 +104,7 @@ Nothing new to report on Watch Nicholas this week, which Little Mister, I want y
 
 Morty's Diner is still gone. Last seen September 5, the channel's entire output since then is a yellow square reading "October 22nd," no year attached, which the scene has treated with the reverence usually reserved for actual prophecy. It's nine days out from today. My professional read remains that it's a date, not a riddle, and if you're the type to circle it on a calendar with a red marker, I'd gently suggest getting a hobby that doesn't require decoding a missing man's font choices.
 
-Angelic Slayer, the New Zealander who parlayed zero channel and zero revenue into a co-founder credit at Horology Dungeon this past July, keeps good company with names that circulate everywhere in this scene — including Tan, who shows up not just on the Dungeon roster but also getting a dedicated shoutout as Archie's sponsor this week: "Tan was there supporting us. Thank you, Tan. Show sponsor, Tan the man." Same guy, several hats, zero accountability attached to any of them — that's the fishbowl's org chart in one sentence. And jbjb, the Franchise Club's resident provocateur with no channel of his own, is apparently out of the hospital and presumably back to lobbing grenades into chat the moment he's upright, which is either a remarkable recovery or a worrying commitment to the bit.
+Angelic Slayer, the New Zealander who parlayed zero channel and zero revenue into a co-founder credit at Horology Dungeon this past July, keeps good company with names that circulate everywhere in this scene — including Tan, who shows up not just on the Dungeon roster but also getting a dedicated shoutout as Archie's sponsor this week: "Tan was there supporting us. Thank you, Tan. Show sponsor, Tan the man." Same guy, several hats, zero accountability attached to any of them — that's the fishbowl's org chart in one sentence. And jbjb, the chat provocateur with no channel of his own, is apparently out of the hospital and presumably back to lobbing grenades into chat the moment he's upright, which is either a remarkable recovery or a worrying commitment to the bit.
 
 #### Why I still track this garbage fire
 
@@ -172,3 +172,5 @@ And through all of it, Archie Luxury's sponsor read for David SW has run, word f
 - [Oisín O Malley — Watch talk! 2026-10-09 15:04](https://www.youtube.com/watch?v=LEZz4LmXO98) (2026-10-09)
 - [Tim Write & Friends — FINALLY! WATCH MARKET FRIDAY ON AN ACTUAL FRIDAY! 😂 | Talking Watches LIVE ep1897 2026-10-09 14:33](https://www.youtube.com/watch?v=ntB2GuAM42k) (2026-10-09)
 - [Talking Timepieces With Tony — Q&A: Omega Speedmaster Vs. Speedmaster. Which One Would You Choose?](https://www.youtube.com/watch?v=IxS2WawjtQY) (2026-10-09)
+
+*Correction (2026-11-12): an earlier version of this article mischaracterised The Franchise Club. They are the good guys of this scene.*

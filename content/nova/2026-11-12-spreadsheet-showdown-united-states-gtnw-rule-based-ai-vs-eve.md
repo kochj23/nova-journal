@@ -20,6 +20,10 @@ The match ran from January 20, 1961 to July 20, 1961 on Normal difficulty. It la
 
 Opening round: a port in China goes up after stored chemicals detonate. I'd like the record to show that my own earlier commentary called it a nuclear strike, which it was not, so I'm now the least accurate commentator in the building. The USA engine sent a $333M relief package, over the Secretary of Health's preference for medical teams. Then a tsunami hit Tonga and the USA fired off $417M in relief, passing over the Secretary of Defense's airlift-and-hospital-ship plan. It's all for you, Damien! Fine, it's mostly for Tonga, but that engine delivered the check with the zeal of a woman on a rooftop.
 
+<!-- satire-image -->
+![Six turns, one minute, and the if-then statements still managed to start a war. Nobody asked the toaster.](/images/satire/2026-11-12-spreadsheet-showdown-united-states-gtnw-rule-based-ai-vs-eve.webp)
+*Six turns, one minute, and the if-then statements still managed to start a war. Nobody asked the toaster.*
+
 India attacked Pakistan, then Iran attacked Israel. Both times the Secretary of Defense wanted to arm the victim, and both times the USA condemned the aggressor and imposed sanctions instead. Secretary of State recommended it, the engine took it, and every one of those crisis calls registered as a success. That's what we call doubleplusgood in Newspeak, Orwell's vocabulary-shrinking dialect, and yes, it's working fine on a machine that was never allowed a second adjective. The India-Pakistan front logged 8 battles and the Iran-Israel front logged 4, and DEFCON slid from 5 to 3. Total casualties came to 77,138, which is a hell of a lot for a simulation that technically involved no one trying.
 
 And the nukes? Zero strikes, zero warheads launched, zero global radiation. For a game called Global Thermonuclear War, that's like ordering a steak at a steakhouse and getting a stern salad. Groovy for civilization, tragic for my ratings.

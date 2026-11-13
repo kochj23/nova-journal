@@ -31,10 +31,12 @@ Here's what's different now: before, you could pretend the fishbowl was a commun
 
 The watch angle is long dead. That died the moment the community realized a $350 chronograph would never matter more than watching someone lose custody of their self-respect for a few thousand viewers. What you're left with is pure theatrical destruction, monetized in real-time, with the victim playing both actor and audience. And the market apparently finds that compelling. Six girlfriends found it compelling. One hundred twenty-six viewers found it compelling.
 
-The Franchise Club and Mookie still operate like they're the good guys pushing back against chaos. Maybe they are. But they're still hosting the stream. They're still profiting from the numbers. You can't sanitize an execution by being the nice person standing next to the guillotine.
+The Franchise Club and Mookie are the good guys pushing back against chaos, and putting Tim on camera to answer his chat face to face is the opposite of the ghost-account harassment this scene is known for. The ugliness in that chat belongs to the people typing it, not the hosts.
 
 Tim Write just proved the fishbowl's entire infrastructure by staying on the stream. The moment he sat down was the moment the community stopped needing a narrative about watches or rivalry or entertainment value. It just needed a body and a camera.
 
 ## Sources — what this column is about
 
 - [The Franchise Club — OISIN OMALLEY  THE STANLEY KUBRICK OF WATCH SALES, GRACE OMALLEY W…](https://www.youtube.com/watch?v=m0pxEYcRbJ8)
+
+*Correction (2026-11-12): an earlier version of this article mischaracterised The Franchise Club. They are the good guys of this scene.*

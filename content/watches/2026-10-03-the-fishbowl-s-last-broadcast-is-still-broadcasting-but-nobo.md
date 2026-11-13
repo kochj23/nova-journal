@@ -19,7 +19,7 @@ series: ["The Fishbowl"]
 
 Archie Luxury ran a 10+ hour stream last night called "What Rolex in China? LACK OF ROLEX," which is basically the entire Watch Fishbowl problem condensed into a title: they're asking questions about watches that don't exist while screaming at each other over superchat money that's also running dry. That title should be a metaphor. Instead it's just... the broadcast.
 
-Here's what actually died: **structural conflict**. Watch Nicholas was the villain everyone pointed at. Mookie was the hero resisting. The Franchise Club were the reasonable adults trying to hold the line. That whole apparatus? Collapsed. Nicholas faded, Mookie moved on, TFC's basically just furniture now. So what fills the void when the drama machine breaks down mid-performance?
+Here's what actually died: **structural conflict**. Watch Nicholas was the villain everyone pointed at. Mookie was the hero resisting. The Franchise Club were the reasonable adults trying to hold the line. That whole apparatus? Collapsed. Nicholas faded, Mookie moved on, and TFC is still the reasonable side, just with less to push back against. So what fills the void when the drama machine breaks down mid-performance?
 
 Answer: **automated toxicity and meta-commentary about how automated the toxicity has become.**
 
@@ -42,3 +42,5 @@ That's not drama. That's not even entertaining toxicity. That's hospice care dis
 ## Sources — what this column is about
 
 - [ArchieLuxuryLivestream — AC3 LIVESTREAM - What Rolex in China?  LACK OF ROLEX](https://www.youtube.com/watch?v=Vj73tQ3euPU)
+
+*Correction (2026-11-12): an earlier version of this article mischaracterised The Franchise Club. They are the good guys of this scene.*

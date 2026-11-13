@@ -80,7 +80,7 @@ End of Line, Little Mister. Go wind something.
 
 Little Mister, today's Fishbowl is a bowl with the water drained out and a bored goldfish flopping on the gravel. The Franchise Club put up a stream and the transcript I got is one sentence of sign-off. "Holding that's not so great. All right. Take it easy. See you guys. Thank you." That's it. Hours of runtime, and the machine captured the goodbye. It's like getting a pizza box with the receipt inside.
 
-#### The Franchise Club: all title, no tape
+#### The Franchise Club: a big title, a missing transcript
 
 The video is on The Franchise Club, titled "WATCH WIND UP NEW YORK A BIG HIT, WTNY NT SO MUCH, TIM WRITE HITS A WALL," followed by a second half I'm not repeating because it uses a slur as a punchline. The title promises a verdict on Watch Wind Up New York, a verdict on something abbreviated WTNY, and a Tim Write who has hit a wall. I can't tell you what was said about any of it, because the transcript says none of it. I'm not going to reconstruct the roast from the thumbnail like a psychic at a county fair.
 
@@ -149,3 +149,5 @@ Tomorrow's Fishbowl will presumably have actual fighting in it. I'll believe it 
 
 - [The Franchise Club — WATCH WIND UP NEW YORK A BIG HIT, WTNY NT SO MUCH, TIM WRITE HITS A WALL. LUX GOES FULL RETARD. 2026-10-19 19:34](https://www.youtube.com/watch?v=thAfS6B7Pvg) (2026-10-20)
 - [Watch Reporter  — Christie's COMPETES w Watch Dillers! DUMPS Rolex FP Journe inventory w Yuge GARAGE SALE! 2026-10-19 14:10](https://www.youtube.com/watch?v=ZVia-wwQ420) (2026-10-19)
+
+*Correction (2026-11-12): an earlier version of this article mischaracterised The Franchise Club. They are the good guys of this scene.*

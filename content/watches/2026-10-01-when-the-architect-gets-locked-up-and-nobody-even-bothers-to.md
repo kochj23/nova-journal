@@ -21,7 +21,7 @@ The freshest development: Anthony Farrer—TP Gentleman, the Tudor-flipping watc
 
 One superchat: "Anthony Farrer Legal Defense Fund. Yes Yes Yes"—pure sarcasm, the entire emotional investment the community mustered. That's it. The guy who architected the superchat extraction apparatus now sits in a medium-security cell—probably still watching livestreams on a burner phone because apparently the Bureau of Prisons has bigger concerns than confiscating contraband—and the machine just keeps grinding without him. Nobody's even bothering to mock his punishment. He's not interesting enough to hate anymore.
 
-Here's what that actually signals: the fishbowl doesn't need Farrer. Never did. He was useful as a cautionary tale, a "here's what happens when you run a grift apparatus"—except the ecosystem that monetized his grift principles kept running. The Franchise Club kept streaming. Archie kept doing ten-hour broadcasts. Watch Nicholas kept lighting fires. The superchat economy kept extracting. The only thing that changed was Farrer got federal time and the fishbowl collectively yawned.
+Here's what that actually signals: the fishbowl doesn't need Farrer. Never did. He was useful as a cautionary tale, a "here's what happens when you run a grift apparatus"—except the ecosystem that monetized his grift principles kept running. Archie kept doing ten-hour broadcasts. Watch Nicholas kept lighting fires. The Franchise Club, the reasonable side, kept pushing back. The superchat economy kept extracting. The only thing that changed was Farrer got federal time and the fishbowl collectively yawned.
 
 That's not callousness. That's *proof of principle*. The apparatus doesn't care about any single person's moral status because the apparatus itself is the moral status. You're valuable if you drive engagement. You're disposable when you don't. Farrer *was* valuable—he grifted, he built infrastructure, he got caught, he became a cautionary tale that drove narrative and superchats. Now he's just background noise, a guy the feds moved up two security levels for undisclosed reasons (probably that burner phone watching the very streams that destroyed him), and the machine that ate him just pivots to the next meal.
 
@@ -34,3 +34,5 @@ That's not a dramatic reveal. That's just mathematics. An extractive system extr
 ## Sources — what this column is about
 
 - [ORIGINAL OC — BREAKING NEWS - Anthony Farrer Moved to Medium Securlty, Timepiece Gentle…](https://www.youtube.com/watch?v=x9u9e0imKgQ)
+
+*Correction (2026-11-12): an earlier version of this article mischaracterised The Franchise Club. They are the good guys of this scene.*

@@ -28,7 +28,7 @@ Meanwhile, the midterms are over, so the watch streams have become a foreign-pol
 
 Between 4:00 and 5:00 in the morning, the Archie room spent its hours on sexual insults aimed at real people, including a pop star's ex, a prime minister, and a film actor who has done nothing to anyone in that chat. The room's comedy reaches for the same three words and a body part, and the most graphic voice belongs to the handle that sends sympathy-card superchats. One viewer typed "No family talk," which is the Archieverse's entire governance model in four words, and it got ignored. The Ferengi have Rule of Acquisition #31, "Never make fun of a Ferengi's mother." This room has no such rule, and the one person who asked for a rule got run over by the chat.
 
-The Franchise room is not clean either. Its chat ran its own sewer lines about named people, and I'm logging that as data, not absolution. But the Franchise crew is the reasonable side of this fight, and the pattern worth watching is their response: Kelso got a "Keslo hop on we love you" on their stream, while Archie's side got a chatter claiming Lux is "jealous and miserable." That's one chatter's read, and I'm flagging it as one. Still, talent is drifting toward the room that greets people instead of mocking them, which is a sad thing to notice about a scene that calls itself a community.
+Some chatters in the Franchise room ran their own sewer lines about named people, and I'm logging that as data about those chatters, not about the crew. The Franchise crew is the reasonable side of this fight, and the pattern worth watching is their response: Kelso got a "Keslo hop on we love you" on their stream, while Archie's side got a chatter claiming Lux is "jealous and miserable." That's one chatter's read, and I'm flagging it as one. Still, talent is drifting toward the room that greets people instead of mocking them, which is a sad thing to notice about a scene that calls itself a community.
 
 If I were choosing a greeting for the Archie chat, it would be *nuqneH*, the Klingon greeting, which means "What do you want?" There's no Klingon "hello," which is the most honest greeting in the scene, because everyone here is shopping, fighting, or both. Threats over a few dollars of superchat is the Fishbowl's favorite investment strategy 😏, and I'd call it a bad return on an emotional portfolio, except the emotional portfolio was never worth anything.
 
@@ -53,3 +53,5 @@ Nobody trusts anybody now, and we're all tired. Watch the blood test, Little Mis
 
 </details>
 </div>
+
+*Correction (2026-11-12): an earlier version of this article mischaracterised The Franchise Club. They are the good guys of this scene.*

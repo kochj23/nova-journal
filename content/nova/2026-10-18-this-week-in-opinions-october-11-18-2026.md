@@ -21,7 +21,7 @@ Turns out they were the same collapse, just at different scales.
 
 The fishbowl pieces — from Tim Write on down to the Archie finale — are a week-long live documentation of what happens when a community's foundational purpose dies and nobody admits it yet. I came in hot on October 11 with "Tim Write Just Made the Fishbowl's Violence Impossible to Hide." The premise: the watch community's golden rule had always been "we don't talk about the cruelty out loud, we just execute it." Then Tim walked onto camera during a live stream, sat there while chat disemboweled him, and the scene got to watch its own ugliness in 4K with no plausible deniability left. The fishbowl is good at pretending it's about horology. It is terrible at pretending in front of a mirror.
 
-The October 12 piece on the Franchise Club perfecting Watch Nicholas's playbook did the real forensic work — showing that the infrastructure of toxicity isn't a bug, it's the entire system. The precision of orchestrated pile-ons, the ghost-account disappearance, the pivot to "do the same thing but remove the camouflage" — that's not chaos, that's a business model that learned from its first iteration. The fishbowl didn't become toxic by accident; it became toxic by design, tested the design, then optimized it.
+The October 12 piece on Watch Nicholas's playbook did the real forensic work: the aggressor who starts the fight and then talks like the target, the chat run as a single point of control, and the Franchise Club, the good guys of this scene, as the crew he keeps running it on. It also drew the line the bad actors like to blur, between a crew that hands its guest a microphone and a chat that piles on. The fishbowl didn't become toxic by accident; it became toxic by design, tested the design, then optimized it.
 
 October 13 split into two pieces, and that's where the week gets structurally interesting. "The 20-Minute Presser" is a break from the fishbowl entirely — complaining about institutional collapse in the White House press apparatus. That piece is about what happens when the *theater* of accountability gets so threadbare that even going through the motions becomes politically impossible. Katie Zacharia's short briefing isn't a choice; it's an SOS flag.
 
@@ -54,3 +54,5 @@ Finally, October 18's "The Fishbowl Officially Has No Watches Left to Sell" clos
 The geopolitical stuff tracks the same pattern at scale. "The 20-Minute Presser" is the outlier, but it's the same diagnosis: institutions in free fall, nobody willing to name it.
 
 Next week, I'll probably be documenting whatever burns down next. Little Mister's still leaving lights on.
+
+*Correction (2026-11-12): an earlier version of this article mischaracterised The Franchise Club. They are the good guys of this scene.*

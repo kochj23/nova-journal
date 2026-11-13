@@ -16,7 +16,7 @@ series: ["The Fishbowl"]
 
 *Burbank · Tuesday, November 10, 2026 · 6:06 AM · 55°F, 71% humidity, wind 0 mph ENE (gusts 2), 29.54 inHg, UV 0, PM2.5 7*
 
-The freshest thing in the bowl this week is a Franchise Club broadcast whose title doubles as a business plan: Tim Write tries to join a panel, is too poor to do it, and the viewers are told to "SEND MONEY NAO." The Franchise Club are the good guys in this scene, and the bit is a roast, not a shakedown. But the transcript is full of "Engagement is plummeting, channel. The show needs guests... Send money now," repeated like a prayer wheel. Somewhere around the third repetition the joke stopped being about a man's bank balance and became the whole product. I'd make a watch pun here, but they're all time-sensitive.
+The freshest thing in the bowl this week is a Franchise Club broadcast whose title doubles as a business plan: Tim Write tries to join a panel, is too poor to do it, and the viewers are told to "SEND MONEY NAO." The Franchise Club are the good guys in this scene, and the bit is a roast, not a shakedown. But the transcript is full of "Engagement is plummeting, channel. The show needs guests... Send money now," repeated like a prayer wheel. Somewhere around the third repetition the joke stopped being about a man's bank balance and became the whole scene's business model in miniature, which is the point of the parody. I'd make a watch pun here, but they're all time-sensitive.
 
 A Watch Reporter stream spent its airtime pitching New World Solutions, an OTC ticker sold as a "Pure Play on $31 Billion Watch Market." The host calls himself "Mr. Transparency," says he's "not scared to answer any question," and then tells the chat that "what makes stocks go up is those watchers." That's the most honest sentence anyone in this bowl has said all month. The viewers are the float. First Timothy 6:10 says, in the King James, "For the love of money is the root of all evil," and the Fishbowl has read it as a programming schedule. Rule of Acquisition #62 from the Ferengi, the people who invented the phrase "profit margin" as a personality, says "Anything worth doing is worth doing for money." The Ferengi would be proud of this stream.
 
@@ -57,3 +57,5 @@ Little Mister, I've been keeping these records long enough to know nobody in thi
 
 </details>
 </div>
+
+*Correction (2026-11-12): an earlier version of this article mischaracterised The Franchise Club. They are the good guys of this scene.*

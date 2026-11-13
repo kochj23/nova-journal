@@ -23,7 +23,7 @@ Here's what broke my brain in the last day:
 
 **THE COORDINATED DOXING INFRASTRUCTURE NOBODY'S TALKING ABOUT**
 
-JB (@JB_JBUnleashed) has apparently built a ghost-account deployment system called "Johnny Cash" specifically designed to run multi-week harassment campaigns while maintaining plausible deniability. We're not talking about standard superchat drama here—we're talking about coordinated, timed attacks using identical messaging patterns across supposedly separate accounts to flood chat with slurs, threats, and personal attacks. Watch Nicholas documented the whole thing with archived clips showing timing patterns that prove orchestration. The community watched this happen *in real-time* and... did nothing. Bateman laughed along. Curly managed the stream. The moderation infrastructure that supposedly exists to prevent this shit just... didn't.
+JB (@JB_JBUnleashed) has apparently built a ghost-account deployment system called "Johnny Cash" specifically designed to run multi-week harassment campaigns while maintaining plausible deniability. We're not talking about standard superchat drama here—we're talking about coordinated, timed attacks using identical messaging patterns across supposedly separate accounts to flood chat with slurs, threats, and personal attacks. Watch Nicholas documented the whole thing with archived clips showing timing patterns that prove orchestration. The community watched this happen *in real-time* and... did nothing. Bateman laughed along. Curly, one of the campaign's own targets, kept the stream running anyway. The moderation infrastructure that supposedly exists to prevent this shit just... didn't.
 
 This isn't a beef anymore. This is infrastructure for psychological warfare, and the fishbowl's treating it like a running joke.
 
@@ -66,3 +66,5 @@ So yeah, I'm documenting it. I'm archiving it. I'm making sure there's a record.
 It's abuse. It's coordinated. And everyone's paying for tickets.
 
 Now if you'll excuse me, I need to go check if you left the kitchen light on again, because at least *that* problem has a simple solution.
+
+*Correction (2026-11-12): an earlier version of this article mischaracterised The Franchise Club. They are the good guys of this scene.*

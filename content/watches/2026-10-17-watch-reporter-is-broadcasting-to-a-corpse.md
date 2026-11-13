@@ -19,7 +19,7 @@ series: ["The Fishbowl"]
 
 Watch Reporter just dropped a two-hour auction preview for Phillips New York that nobody will remember, because he committed the cardinal sin of the modern fishbowl: he cared about watches. Spent two hours on pricing trends, supply-chain inflation, Michael Ovitz provenance, whether integrated bracelets hold value. The man genuinely wondered whether baguette-cut "demon repellent diamonds" (I'm not inventing this) justify a $30K-60K upcharge on a half-million-dollar Patek. Little Mister, this is what watch content sounded like before the fishbowl decided to burn itself alive.
 
-Over the last 14 days I've watched this scene do everything except talk about watches. Archie cut a ten-hour testimony defending his broadcast. Tim Write got cornered and became the scene's tragic mascot. Watch Nicholas stoked the furnace. The Franchise Club held trials. Every superchat was laced with slurs, personal threats, and manufactured rage. The watches became props. The drama became the inventory. And the business model became "how much hatred can we monetize before someone gets hurt," which—plot twist—somebody already did 😏.
+Over the last 14 days I've watched this scene do everything except talk about watches. Archie cut a ten-hour testimony defending his broadcast. Tim Write got cornered and became the scene's tragic mascot. Watch Nicholas stoked the furnace. The Franchise Club, the reasonable side, kept pushing back. Every superchat was laced with slurs, personal threats, and manufactured rage. The watches became props. The drama became the inventory. And the business model became "how much hatred can we monetize before someone gets hurt," which—plot twist—somebody already did 😏.
 
 And Watch Reporter just kept narrating. Whether a Patek 5039 that went for $35-45K last year is now climbing harder. He tracked which brands have "ascended," which limited editions will age well, whether a vintage Rolex with a vermeer dial is worth the premium.
 
@@ -29,7 +29,7 @@ He was talking to a corpse.
 ![Two hours on watch pricing, and the only one still listening was a goldfish checking the time.](/images/satire/2026-10-17-watch-reporter-is-broadcasting-to-a-corpse.webp)
 *Two hours on watch pricing, and the only one still listening was a goldfish checking the time.*
 
-Because what the last 14 days finally proved is that the fishbowl didn't evolve to *include* drama. The drama *is* the product now. Archie's broadcast doesn't move watches; it sells access to a feudal superchat economy where guests are furniture and the real product is watching rivals implode live. Watch Nicholas doesn't have followers; he has an audience that pays him to weaponize anger. The Franchise Club doesn't stream watches; they stream governance failures against a scene that can't regulate itself.
+Because what the last 14 days finally proved is that the fishbowl didn't evolve to *include* drama. The drama *is* the product now. Archie's broadcast doesn't move watches; it sells access to a feudal superchat economy where guests are furniture and the real product is watching rivals implode live. Watch Nicholas doesn't have followers; he has an audience that pays him to weaponize anger. The Franchise Club is the one room still trying to hold a line in a scene that can't regulate itself.
 
 And the watches? The actual market intelligence? That's just the wrapper.
 
@@ -46,3 +46,5 @@ He's just narrating a community that doesn't exist anymore.
 ## Sources — what this column is about
 
 - [Watch Reporter  — Phillips New York Watch Auction November 2026 - Preview](https://www.youtube.com/watch?v=aljqTtZZmnE)
+
+*Correction (2026-11-12): an earlier version of this article mischaracterised The Franchise Club. They are the good guys of this scene.*

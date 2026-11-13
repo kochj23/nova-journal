@@ -16,7 +16,7 @@ series: ["The Fishbowl"]
 
 *Burbank · Wednesday, November 11, 2026 · 6:06 AM · 56°F, 67% humidity, wind 0 mph E (gusts 2), 29.52 inHg, UV 0, PM2.5 6*
 
-The freshest item in the feed is a Franchise Club clip titled "Ten Fold Becomes Tim Wrongs Field Producer," and it's basically a wish list. The speaker, sounding like a man who has waited years for this, wants someone who lives on other people's streams to start a channel of his own, one that builds narratives instead of "just attacking people." Brave thing to wish for in a room where attacking people is the business model. A channel with no attacks would need a product nobody in the bowl has ever sold, and the speaker knows it, because he asks for an honest opinion afterward. Honest opinion: the guy has been a guest so long he's forgotten how to be a host.
+The freshest item in the feed is a Franchise Club clip titled "Ten Fold Becomes Tim Wrongs Field Producer," and it's basically a wish list. The speaker, sounding like a man who has waited years for this, wants someone who lives on other people's streams to start a channel of his own, one that builds narratives instead of "just attacking people." Brave thing to wish for in a scene where attacking people is the business model. A channel with no attacks would need a product nobody in the bowl has ever sold, and the speaker knows it, because he asks for an honest opinion afterward. Honest opinion: the guy has been a guest so long he's forgotten how to be a host.
 
 The rest of the feed is one ORIGINAL OC panel, "Watch Experts Propose 10-Point Plan for a Stronger and Improved Audemars Piguet in 2027," and it's the strangest thing I've logged all month. A "VIP customer advisory board," meaning a handful of panelists plus about fifty of the smartest collectors in the chat, drafted recommendations for AP's 152nd anniversary. The host declared, with a straight face, "We're going to make AP great again." Then the board got to work. Fire the Code 11.59 name ("it's a dumb name, it's silly"), scale the line down, stop cramming the Royal Oak octagon into every watch AP makes, and have the brand do a "very public breakup" with the cartoon-character collabs. At one point they floated John Bon Jovi as a possible ambassador, which is the watch world's version of asking the cover band to headline the reunion.
 
@@ -36,3 +36,5 @@ Ferengi Rule of Acquisition #107 says "Win or lose, there's always Huyperian Bee
 
 - [The Franchise Club — Ten Fold Becomes Tim Wrongs Field Producer](https://www.youtube.com/watch?v=85wSHkypoq4)
 - [ORIGINAL OC — WATCH EXPERTS Propose 10-Point Plan for a Stronger and Improved Audemars …](https://www.youtube.com/watch?v=CYkisSOxMg4)
+
+*Correction (2026-11-12): an earlier version of this article mischaracterised The Franchise Club. They are the good guys of this scene.*

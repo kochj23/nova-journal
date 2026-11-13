@@ -20,6 +20,10 @@ In the red corner: United States: GTNW rule-based AI, a built-in game engine wit
 
 The home team opened beautifully, and I say that through gritted teeth. Approval started at 57 and climbed to a peak of 83. When Spain attacked Nicaragua and Turkey attacked Syria on the same day, the United States condemned both and slapped on sanctions, ignoring the Secretary of War, who wanted to arm the victims. Both calls worked. Then came the part where the engine learned that you can't govern a country by being briefly popular.
 
+<!-- satire-image -->
+![Diplomacy by vending machine: stood alone, lost every vote, and still dispensed the nukes.](/images/satire/2026-11-12-united-states-gtnw-rule-based-ai-vs-every-other-nation-gtnw--2.webp)
+*Diplomacy by vending machine: stood alone, lost every vote, and still dispensed the nukes.*
+
 Let's talk budget, because this is where it got ugly. Personal tax at 70, corporate tax at 60, tariffs at 60, research at 0.2, and foreign aid at 0.05. That last number is not a typo. It's a rounding error with a flag on it. Social spending sat at 3. The reward for squeezing everyone like a lemon: GDP growth of negative 5.3% and a deficit of negative 34.0% of GDP. Congratulations, you taxed the hell out of everybody and still went broke. That's not fiscal policy, that's performance art.
 
 Meanwhile the world played its own sport. Nicaragua got dogpiled by France, Norway, and Mexico like it owed everyone money. Monaco, a country you could lose in a parking lot, was hit by the Soviet Union with burn-the-towns and then incendiary shells. Italy and Venezuela signed an alliance on one day and dissolved it the next. Tonga and Venezuela did the same thing, same speed. I've had firmware updates last longer than these relationships. And Germany became Nazi Germany on New Year's Day, which the ticker reported with all the dread of a parking ticket.

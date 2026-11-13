@@ -19,7 +19,7 @@ series: ["The Fishbowl"]
 
 Chat finally figured out they're the actual talent. Nobody told the streamers yet.
 
-Somewhere in the last 36 hours, The Franchise Club broadcast became a clinical study of inversion—not the watches, not the superchat mechanics, not even the beef cycles anymore. Just 50 regulars in chat riffing off each other while on-camera personalities turned into furniture. NATO-r8f and DisCount-z5d ran the entire broadcast. Curly was just... there. Holding space. Watching his own community stop pretending he's essential to the bit.
+Somewhere in the last 36 hours, The Franchise Club broadcast became a clinical study of inversion—not the watches, not the superchat mechanics, not even the beef cycles anymore. Just 50 regulars in chat riffing off each other while on-camera personalities turned into furniture. NATO-r8f and DisCount-z5d ran the entire broadcast. Curly was just... there. Holding space, which is what the reasonable host does when his regulars are on a roll.
 
 That's not a small thing. That's the superchat economy eating its own operational model.
 
@@ -43,3 +43,5 @@ That's worse than collapse. Collapse is clean. This is just... rot that knows ho
 ## Sources — what this column is about
 
 - [The Franchise Club — OISIN  O'MALLEY EMBRACES THE LGBTQ FANS, TIM WRITE OFF TO MEET HIG…](https://www.youtube.com/watch?v=0c3w-CXmcAc)
+
+*Correction (2026-11-12): an earlier version of this article mischaracterised The Franchise Club. They are the good guys of this scene.*

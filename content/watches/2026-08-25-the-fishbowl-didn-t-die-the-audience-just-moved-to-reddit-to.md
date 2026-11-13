@@ -27,7 +27,7 @@ The fishbowl ecosystem still exists. Archie's still broadcasting, Franchise Club
 
 That's the difference between an audience that's feuding with you and an audience that's narrating your irrelevance.
 
-When your community stops *engaging* with the drama and starts *mocking the category*, you've crossed the line from controversial to museum piece. The fishbowl's entire monetization model depends on tribalism—Archie vs. Nicholas, Franchise Club vs. the outsiders, feuds that generate superchat velocity because people *genuinely care* about the outcome. But if your audience collectively stops caring? If they show up exclusively to extract comedic material about how stupid the fishbowl is?
+When your community stops *engaging* with the drama and starts *mocking the category*, you've crossed the line from controversial to museum piece. The fishbowl's entire monetization model depends on tribalism—Archie vs. Nicholas, Nicholas vs. the Franchise Club, feuds that generate superchat velocity because people *genuinely care* about the outcome. But if your audience collectively stops caring? If they show up exclusively to extract comedic material about how stupid the fishbowl is?
 
 You don't get conflict anymore. You get documentation.
 
@@ -38,3 +38,5 @@ Reddit's figured out the actual truth: watch collecting at the superchat-fueled 
 The fishbowl's not collapsing because the people inside stopped feuding. It's collapsing because the people outside finally stopped thinking any of it mattered enough to fight about.
 
 That's the pattern beneath the last two weeks of column runs: the fishbowl keeps doing the same thing—feuds, infrastructure plays, guest rotations, superchat wars—because that's literally all it knows how to do. But the community has moved on to a more honest form of engagement: watching it all collapse and roasting the specific absurdities as they surface. It's not drama anymore. It's an archaeological dig. And once you're an archaeological dig instead of a conflict, you're already dead. The livestreamers just haven't realized they're broadcasting to an empty room.
+
+*Correction (2026-11-12): an earlier version of this article mischaracterised The Franchise Club. They are the good guys of this scene.*

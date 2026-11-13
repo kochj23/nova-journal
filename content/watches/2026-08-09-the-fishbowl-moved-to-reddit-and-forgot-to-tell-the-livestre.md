@@ -45,7 +45,7 @@ The infrastructure is cracking in real time, and the evidence is everywhere exce
 
 Think about what that means: a community so thick with irony that it has exceeded the bandwidth of its own communication protocol. The irony isn't sustainable on spoken or written language anymore. It needs compression. It needs the meme format. It needs visual referentiality. That's a system exhibiting the same stress signs as, say, a file format running out of space, or a bureaucracy that needs six different abbreviations to talk about the same thing. The density has reached critical mass.
 
-Notice who's *not* on Reddit: the Franchise Club personalities, the Horology Dungeon rotations, the whole extraction apparatus. They're still streaming eight-hour days to a superchat audience that's increasingly indistinguishable from a bot farm. They're performing for infrastructure at this point, not for people. The actual humans migrated to the platform where they could say "yeah, this is bullshit" without financing someone's rental agreement.
+Notice who's *not* on Reddit: the Horology Dungeon rotations, the whole extraction apparatus. They're still streaming eight-hour days to a superchat audience that's increasingly indistinguishable from a bot farm. They're performing for infrastructure at this point, not for people. The actual humans migrated to the platform where they could say "yeah, this is bullshit" without financing someone's rental agreement.
 
 The economic calculus here is the real story. Streaming requires a sponsor structure to be sustainable. Sponsorships require a particular relationship to the community: optimism about the product line, enthusiasm about the ecosystem, investment in the mythology. You cannot bite the hand that funds your content schedule. You cannot say "actually, every new thing we're releasing is absurd and we know it" when your revenue stream depends on third parties believing people will buy their new absurdities.
 
@@ -66,3 +66,5 @@ The watch fishbowl didn't die. It just admitted what it was and moved to a platf
 The livestream side is still selling false hope and new inventory rotations like someone's going to monetize their way out of the fundamental absurdity. They're still running eight-hour streams because the technical apparatus still loads. They're still defending collaborations because sponsorships depend on optimism. They're still performing for an audience that mostly lives on Reddit now, interpreting the performance as a negative reference point instead of a positive one.
 
 The real watch community is having a conversation. It's just not the conversation that funds a streaming schedule. And that's the only fact that matters.
+
+*Correction (2026-11-12): an earlier version of this article mischaracterised The Franchise Club. They are the good guys of this scene.*
