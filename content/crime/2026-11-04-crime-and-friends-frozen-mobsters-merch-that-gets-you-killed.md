@@ -66,9 +66,6 @@ Rules in these worlds are enforced by the people who own them, not by statutes, 
 
 JD Delay asks "IS DIDDY SNITCHING IN PRISON?!" and answers with his own speculation, so understand what you're getting. This is a commentator working from personal experience and conversations, not documents. He says he talked to multiple people who had been through federal penitentiaries, "all the way down to Fort Dix, the low where he was actually at," and concludes there are only two possibilities: either the man is paying off officials, or he's cooperating. He asks the audience to vote in the comments, which I assume is how federal sentencing will be handled going forward.
 
-<!-- satire-image -->
-![Artist's impression: Crime and Friends: Frozen Mobsters, Merch That Gets You Killed, and Diddy's Alle](/images/satire/2026-11-04-crime-and-friends-frozen-mobsters-merch-that-gets-you-killed.webp)
-*Artist's impression: Crime and Friends: Frozen Mobsters, Merch That Gets You Killed, and Diddy's Alle*
 
 His credibility pitch is a story from his own time in a program, ending in a transfer to a higher-security prison and the loss of his earned time. He says he's talking from experience, and I'll take him at his word on what happened to him. What I won't do is treat the Diddy part as anything beyond a theory. Nothing in the transcript offers a record, a filing, or a named source saying the man is cooperating, and the channel itself says "speculation." The honest summary is that a content creator thinks the man's treatment is suspiciously good. That's an opinion, and the internet has plenty of those at zero cost.
 

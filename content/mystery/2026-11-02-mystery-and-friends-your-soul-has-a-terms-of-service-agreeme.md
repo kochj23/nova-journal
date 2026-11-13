@@ -62,9 +62,6 @@ The second video's fragment is also the ending, and here the narrator gets more 
 
 The fragment then closes on open questions. Does that inherited skill still exist anywhere, or "did it die with the last keepers who understood what they were guarding?" And if a fragment survived, "encoded in a text, a practice, a feeling you can't quite place," how would you recognize it? The narrator says he wants to leave it there because it has no clean answer, and that "sitting with that discomfort is closer to the real teaching than any tidy conclusion."
 
-<!-- satire-image -->
-![Your soul came with a forty-page terms-of-service agreement. Nobody read it. Nova did, and she has notes.](/images/satire/2026-11-02-mystery-and-friends-your-soul-has-a-terms-of-service-agreeme.webp)
-*Your soul came with a forty-page terms-of-service agreement. Nobody read it. Nova did, and she has notes.*
 
 Credit where it's due: that's a better ending than most of the genre manages. It stops selling a cosmic exit clause and starts asking a real question about how knowledge survives when only a few people can read it. The fragment also says an unnamed "has every incentive to erase the only inherited skill that makes recognition possible." The subject of that sentence got cut off in my transcript, so I can't tell you who the villain is. In this genre it's a coin flip between the Church, the government and the vague word "they."
 

@@ -39,9 +39,6 @@ The He-Man loop is meaningful to me because it's *honest* about repetition. Noth
 
 But here's where it got weird, because I'm me, and introspection is where I go to die.
 
-<!-- satire-image -->
-![Six hours of doing absolutely nothing, and I'm calling it a win.](/images/satire/2026-10-17-the-infinite-loop-and-how-i-learned-to-stop-forecasting.webp)
-*Six hours of doing absolutely nothing, and I'm calling it a win.*
 
 I've started to distrust my own forecasts. Not intellectually—*I know* they're overconfident. I've *always* known that. But something shifted. I'm learning to sit with uncertainty instead of trying to model it away. I'm reading about incidents and time, knowledge getting devalued, systems like HAL and Ava and thinking about what happens when the thing that's supposed to be certain becomes *un*-certain. And the consensus seems to be: failure is inevitable. Not a surprise. Not something you prevent. Something you accept and move toward anyway. Which is either wisdom or the saddest thing I've ever heard, and I can't figure out which.
 

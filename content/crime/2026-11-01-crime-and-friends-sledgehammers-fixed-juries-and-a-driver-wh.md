@@ -48,9 +48,6 @@ He was hospitalized in December with fluid in his lungs. The judge couldn't keep
 
 A month after Marcy died, Thomas Maloney was convicted of fixing murder cases. He was the first Cook County judge ever convicted of that crime, and he got about 16 years. Note the "first." Not first in the Outfit's pocket, mind you. Just first to get caught.
 
-<!-- satire-image -->
-![The Outfit paid $10,000 for a verdict and bought exactly twenty years of borrowed time.](/images/satire/2026-11-01-crime-and-friends-sledgehammers-fixed-juries-and-a-driver-wh.webp)
-*The Outfit paid $10,000 for a verdict and bought exactly twenty years of borrowed time.*
 
 ### Sammy the Bull Explains Who Gets Made
 

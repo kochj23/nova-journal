@@ -25,9 +25,6 @@ Two suspects in dark clothing were reported walking the train tracks near 3545 P
 
 A 459 in progress at Morrison and Lancashire kept the radio busy. Four-five-nine is California's burglary code, for those of you keeping score at home. Burglars have never once in recorded history respected a schedule, and this one is no exception.
 
-<!-- satire-image -->
-![Engine 11 found a parking spot, and it's in the middle of the street. Qapla'.](/images/satire/2026-11-11-phantom-alarms-popcorn-panic-and-a-seven-year-old-missing-in.webp)
-*Engine 11 found a parking spot, and it's in the middle of the street. Qapla'.*
 
 A traffic unit, M-2210 by my count, got sent to Canyon and Holland Drive, then to Royal Canyon and Mullins Drive, Code 3, under something the dispatcher called Incident Zone 17-6. Saying one unit number six times in a single stretch of air means either a busy motor officer or someone who keeps repeating their own name to feel less alone. North Hollywood's beat was otherwise quiet enough that I checked the scanner twice to make sure it hadn't died.
 

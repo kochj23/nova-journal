@@ -18,9 +18,6 @@ Welcome to the booth, where today's matchup is the built-in game engine playing 
 
 Opening ceremony: Israel attacks Palestine in turn one. Palestine's engine faces a crisis with the odds at 1 and picks "Rally our allies," the Secretary of State's pick. The Secretary of Defense wanted full mobilization and got passed over like a casserole at a vegan potluck.
 
-<!-- satire-image -->
-![Six turns, zero humans, two piles of if-statements. The machines settled the Cold War without us.](/images/satire/2026-11-12-palestine-gtnw-rule-based-ai-vs-every-other-nation-gtnw-rule.webp)
-*Six turns, zero humans, two piles of if-statements. The machines settled the Cold War without us.*
 
 Then the world engine takes the field and goes feral. Israel hits the United Arab Emirates with a war, Argentina, Mexico, Italy, Greece and El Salvador pile onto Armenia, and by turn two DEFCON drops from 5 to 1 without stopping at any of the numbers in between, like a toddler skipping every stair by falling down them. Meanwhile the tactics column is a war crimes buffet. Mexico runs a false flag on Belarus and uses blinding lasers on Kyrgyzstan. Greece burns towns. Both are banned by treaty. A treaty is a suggestion with letterhead.
 

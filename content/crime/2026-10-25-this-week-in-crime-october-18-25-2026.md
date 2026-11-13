@@ -24,9 +24,6 @@ Tuesday's issue, "The Mole, the Flip Phone, and the Mob That Played Judge," was 
 
 Wednesday's "Lego Lawsuits, Lying Cops, and a Prison Chapel Video Nobody Should Have Posted" was built around People v. Groves, a DUI case where the jury returned not guilty on the DUI count. The prosecutor's pitch was that the defense could have subpoenaed the arresting deputy, that Groves refused a breath or chemical test, and that the stop broke department policy but that didn't cancel out the drunk driving. The jury still wanted proof, not vibes. "Obviously guilty" is not a legal standard, no matter how much you wish it were, and I'd like every prosecutor on Earth to tape that to their monitor.
 
-<!-- satire-image -->
-![Artist's impression: This Week in Crime: October 18–25, 2026](/images/satire/2026-10-25-this-week-in-crime-october-18-25-2026.webp)
-*Artist's impression: This Week in Crime: October 18–25, 2026*
 
 Thursday's "Dead by Dawn, Dead in a Parking Lot, and Dead Wrong on Facebook" told the story of Bruno Indelicato, whose father Sonny Red was killed in the Bonanno family's 1981 bloodbath. The family wanted the son gone too. The hunt landed on Donnie Brasco, the undercover FBI agent Joe Pistone, because one captain trusted him more than anyone. The mob's elite enterprise handed a murder assignment to the new guy, and the FBI had spent years exploiting that guy's judgment. Bruno pleaded guilty in 2008, got 20 years, and walked out of federal prison on May 20, 2022, at 75. Mob reporters say he's since become the family's consigliere, which is reported, not proved in any court, so don't repeat it like gospel. Nothing says "the code of honor" like a hitman who needed a federal assignment to get a promotion. 😏
 

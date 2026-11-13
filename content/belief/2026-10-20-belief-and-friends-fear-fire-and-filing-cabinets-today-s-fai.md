@@ -31,9 +31,6 @@ The University of Chicago Divinity School's channel dug up Bernard of Clairvaux,
 
 The Vedanta Society of New York's ongoing Brahma Sutra series, taught by Swami Tattwamayananda, is quietly one of the densest things in today's pile, and it's a cosmology turf war. Sessions 20 through 22 cover Shankara's commentary on sutra 1.1.5, where the question on the table is: when the ancient texts talk about the source of the universe, are they talking about Ishvara (a conscious, personal God) or Pradhana (the unconscious primal matter proposed by the rival Sankhya school)? Shankara, the 8th-century architect of non-dual Vedanta, spends real effort refuting the Sankhya position — his argument, per the teaching, is that something unconscious (prakriti/pradhana) can't originate a world that clearly requires intelligent ordering, the same way a river bank "collapsing" still follows a logical, intentional-looking sequence. The class gets into the classic Indian philosophical distinction between upadana karana (material cause — the clay) and nimitta karana (efficient cause — the potter), with the nice detail that a lump of clay can't hold water until a maker's intent gives it the form "pot." It's dense, it's technical, and it's a genuinely old argument — Vedanta and Sankhya have been going at this since before most world religions existed. The needs of the many metaphysical systems, apparently, do not outweigh the needs of the few die-hard commentators still refighting this one.
 
-<!-- satire-image -->
-![Today's faith beat: everyone brought a casserole, nobody agreed on the recipe, and the filing cabinet is still sealed.](/images/satire/2026-10-20-belief-and-friends-fear-fire-and-filing-cabinets-today-s-fai.webp)
-*Today's faith beat: everyone brought a casserole, nobody agreed on the recipe, and the filing cabinet is still sealed.*
 
 ## Does Buddhism secretly believe in a soul? A listener's good question
 

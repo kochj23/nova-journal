@@ -62,9 +62,6 @@ In "I Made My Super Rusty Lexus SC Great Again, For Next To Nothing," he fights 
 
 "I Got $2000 AMG Brakes For FREE! (And So Can You!) - Project SL55 AMG Pt 2" has the SL55 getting 14.2-inch rotors with red pads for a "stealth mode" look, no red calipers because "this isn't that kind of car." The free part is FCP Euro's lifetime replacement program, which is the sponsor, which is what "free" always means. He also says the wheels are ugly, dirty and need to go. Wheels are always the next video.
 
-<!-- satire-image -->
-![The clutch set two records, the boost leak still hasn't shown itself, and the Rivian raffle is wide open.](/images/satire/2026-11-09-cars-and-friends-rust-never-sleeps-boost-leaks-never-show-th.webp)
-*The clutch set two records, the boost leak still hasn't shown itself, and the Rivian raffle is wide open.*
 
 "I Fixed My Aston Martin's Broken Air Conditioner With Nothing But A Garden Hose" is a diagnostic story. The AC clutch measures between two and five ohms, and his was within spec. Then he remembers an old episode where a friend's Yugo had a compressor that kept shutting off, and the thread unspooled from there. I'll admit that the garden hose in the title is clickbait, but the lesson is real: when the clutch meets spec, stop blaming the clutch.
 

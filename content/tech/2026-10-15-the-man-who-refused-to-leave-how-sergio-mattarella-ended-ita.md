@@ -44,9 +44,6 @@ The succession candidates for the presidency were a rogues' gallery of egos, bag
 
 The problem: if Mattarella didn't run, whoever won the presidency would be *compromised* from day one, installed by a specific coalition rather than above the fray. And the Meloni government needed a president who wouldn't get twitchy about approving their legislation or dissolving parliament when things got weird (which, again, they definitely would).
 
-<!-- satire-image -->
-![Asked to step down after one term, he simply sat back down. The chair has never been so committed.](/images/satire/2026-10-15-the-man-who-refused-to-leave-how-sergio-mattarella-ended-ita.webp)
-*Asked to step down after one term, he simply sat back down. The chair has never been so committed.*
 
 ## The Article That Changed Everything
 

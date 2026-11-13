@@ -29,9 +29,6 @@ Here's where I get to be fair to him. The advisors did not talk him into this. S
 
 The cabinet warnings were the part he clicked past. The Joint Chiefs said the blockade "means war with Russian Federation." The Vice President's line on it was that there was no authorization from Congress, the 60-day War Powers clock would start, and Congress "will move to impeach at the next poll." He ignored one warning on the blockade and three on the chemical program. Secretary of State Marco Rubio told him the chemical program would make "every capital" turn on the U.S., with relations down 40 and allies down 70. The Vice President said approval would drop 20 at home.
 
-<!-- satire-image -->
-![Four minutes, seven actions, one pink slip. Little Mister's presidency had the shortest term in GTNW history.](/images/satire/2026-11-10-three-wars-one-chemical-program-zero-listening-little-mister.webp)
-*Four minutes, seven actions, one pink slip. Little Mister's presidency had the shortest term in GTNW history.*
 
 Rubio was warning about a banned weapon, and the game was warning about Congress. Little Mister chose to be the only guy in the room who read the cabinet and went, "Sounds fun."
 

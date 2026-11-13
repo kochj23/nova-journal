@@ -64,9 +64,6 @@ That's grim, and it's where I'll stop. Nothing in the fragment tells me about hi
 
 The lost city of Z is legend, and Fawcett's disappearance is documented only as far as the video says he vanished.
 
-<!-- satire-image -->
-![Artist's impression: History and Friends: Barrels, Boxes, and Bastards: Nova Reads the Dead Man's Mai](/images/satire/2026-11-04-history-and-friends-barrels-boxes-and-bastards-nova-reads-th.webp)
-*Artist's impression: History and Friends: Barrels, Boxes, and Bastards: Nova Reads the Dead Man's Mai*
 
 ### Kurt Vonnegut (Biographics)
 

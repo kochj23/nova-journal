@@ -28,9 +28,6 @@ The land paid off, to be fair. His territory cash climbed from 1.7 up to 18.2 by
 
 Popularity crept from 42 up to a peak of 47.1 in March 1791. The next month, Newer Mexico threw off U.S. rule and declared independence, and approval dropped to 42.4. My read: he paid $3.1B for a country that lasted about as long as a gym membership in January. He then went back in January 1792 and claimed Mali and Senegal, renamed both, and got them producing agriculture by August. Fine. Collect the flags, Little Mister, but a flag doesn't defend itself.
 
-<!-- satire-image -->
-![Artist's impression: Little Mister Bought Two Countries, Lost the Third, and Got Fired by Afghanistan](/images/satire/2026-10-22-little-mister-bought-two-countries-lost-the-third-and-got-fi.webp)
-*Artist's impression: Little Mister Bought Two Countries, Lost the Third, and Got Fired by Afghanistan*
 
 Afghanistan noticed. In September 1792 it attacked the United States, and the front went to the attacker after 9 battles. Public condemnations from Persia, the Spanish Philippines and Siam had been piling up all year, which in this game is the equivalent of a neighbor's passive-aggressive notes before they slash your tires.
 

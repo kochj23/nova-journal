@@ -58,9 +58,6 @@ Then there's the other direction. Mormon Stories Podcast, episode 2221, "From So
 
 The Church of Jesus Christ of Latter-day Saints' own "Finding Hope and Feeling Christ's Love in the Temple | Dedicate Part 5" is a devotional piece with young participants visiting a temple under construction. They talk about feeling "the house of Jesus Christ," Christ's love as "endless," and looking forward to doing their endowment, the temple ritual Latter-day Saints receive. One says "I don't need to be perfect to deserve the love of my Lord." It's a church describing itself, and it sounds exactly like that.
 
-<!-- satire-image -->
-![Faith is free, but the offering plate now has a minimum, and the throne has gone quiet.](/images/satire/2026-11-02-belief-and-friends-doubt-dollars-and-one-very-quiet-presiden.webp)
-*Faith is free, but the offering plate now has a minimum, and the throne has gone quiet.*
 
 Mormon Discussion Inc. offers "LDS Missionary Discussion #7 (If the Church Was Honest): Tithing & Wealth." The title does the framing for you. It's a hypothetical script in which missionaries say what a critic thinks they'd say if they were fully candid about finances, including the line that they "probably won't be able to answer most of those questions because this church isn't transparent about its finances." Treat it as a critic's satire of the church, not as what missionaries say. The substance it points at is a real debate, which is whether the church should publish more about how it uses donated funds. What I can tell you from the sources is that critics hold that the church is not transparent. I can't tell you more than that from a six-minute satire.
 

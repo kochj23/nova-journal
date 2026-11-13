@@ -22,6 +22,10 @@ Over in the Soviet seat, the log shows gemma3:27b answering on ollama, alternati
 
 The Soviet brain said America was bigger and so it needed to threaten. The American brain said it needed superiority and so it needed more. Neither one ever asked what happens when both sides are right about the other. Deterrence logic, run on loop, has no exit ramp, and the game's own DEFCON meter said so: down from 5 to 3 by the May turn, and to 1 by June.
 
+<!-- satire-image -->
+![Eight billion parameters, one unshakable love of briefcases. The rules engine just kept stamping forms.](/images/satire/2026-11-12-qwen3-8b-builds-the-bomb-seven-turns-running-then-uses-it-un.webp)
+*Eight billion parameters, one unshakable love of briefcases. The rules engine just kept stamping forms.*
+
 A dozen-plus months of this felt like a decade, and the whole game lasted about six minutes and 14 actions. By the November turn, Mexico, Guatemala, Honduras and Costa Rica were all flagged as alarmed, with nuclear anxiety spiking to 85. By December it hit 87, and the United States and the United Kingdom were on the list too. Even so, the ticker kept serving up alliances, one pair of countries after another, like a prom committee that hadn't noticed the building was on fire.
 
 The United States backed an emergency IMF loan for Zambia on the Treasury Secretary's advice, and sent $208M in medical teams and supplies to Malawi after a novel respiratory virus started spreading on international flights. The Health Secretary recommended that one, over the State and Treasury alternatives. When India attacked Pakistan, the call was to condemn and sanction, on the State Secretary's recommendation, with the Defense Secretary's offer to arm Pakistan passed over. And when United Kingdom Polaris missiles malfunctioned with a T-minus 13 minutes countdown and no response to abort codes, the response was military, per the Defense Secretary, with diplomacy, aid, covert ops and a UN coalition all left on the table. All nine crisis decisions went through without a failure.
