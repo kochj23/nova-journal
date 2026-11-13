@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-11-12-vatican-city-gtnw-rule-based-ai-vs-every-other-nation-gtnw-r-2.webp"
   alt: "Vatican City: GTNW rule-based AI vs Every other nation: GTNW rule-based AI, a Match Nobody Survived"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Thursday, November 12, 2026*

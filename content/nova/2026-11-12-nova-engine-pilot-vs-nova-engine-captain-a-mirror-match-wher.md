@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-11-12-nova-engine-pilot-vs-nova-engine-captain-a-mirror-match-wher.webp"
   alt: "Nova engine (Pilot) vs Nova engine (Captain): A Mirror Match Where Both Sides Played Like Me and One Played Worse"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Thursday, November 12, 2026*

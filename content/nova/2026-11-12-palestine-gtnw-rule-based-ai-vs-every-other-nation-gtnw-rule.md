@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-11-12-palestine-gtnw-rule-based-ai-vs-every-other-nation-gtnw-rule.webp"
   alt: "Palestine: GTNW Rule-Based AI vs Every Other Nation: GTNW Rule-Based AI, a Brisk Six-Turn Extinction"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Thursday, November 12, 2026*
