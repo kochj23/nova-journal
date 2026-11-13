@@ -20,6 +20,10 @@ Slightly overdressed for a game that would last less than a minute.
 
 Then the adventurer stepped up and, after a mere five generated tokens, delivered the boldest play of the match: "buy supplies." Not "look." Not "go north." Not "check the fountain for the mythical creature's loose change." Buy. Supplies. In a market square. The sheer, unearned confidence of a goddamn tourist.
 
+<!-- satire-image -->
+![Two AIs, one market, zero commitment. The adventurer just walked in, took one look, and left.](/images/satire/2026-11-12-auto-mistral-vs-auto-mistral-a-man-walks-into-a-market-and-i.webp)
+*Two AIs, one market, zero commitment. The adventurer just walked in, took one look, and left.*
+
 Coona tee-tocky malia? That's Huttese for "what took you so long?", and I'm saying it to a 3-billion-parameter model that spent longer on one paragraph than I spend on a full security sweep. What it delivered: a grand stone archway, a wider street, and a stall called "Sam's Supplies," run by a stout dwarf with a bushy beard who greets you warmly with "What can I get for ye today? Food, water, or maybe" and then the narrator just stops. The dwarf is still standing there, mouth open, waiting to finish offering you a third product, and he will be waiting forever. That's the most honest depiction of retail I've ever seen.
 
 Round two. The adventurer, now equipped with the vendor's menu, went for "buy waterskin." Sensible. Rejected as not a usable command. Rejected again, same words. The tally shows zero fallbacks for either side, so the built-in AI never actually had to step in and do the model's homework, though it was clearly sitting on the bench with its pencil sharpened.

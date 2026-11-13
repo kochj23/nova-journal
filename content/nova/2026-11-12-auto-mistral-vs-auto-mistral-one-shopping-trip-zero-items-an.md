@@ -22,6 +22,10 @@ Now the adventurer's big move. A whole square of stalls, a fountain, a mythical 
 
 Auto mistral heard it as a personal directive and ran straight for the stalls. The summary shows zero items in inventory at the end, so the bag is still not standing upright, but the intent was there, and intent is what a machine with no hands can offer.
 
+<!-- satire-image -->
+![Zero items bought, one fountain admired, and a dwarf who never got to finish his sales pitch.](/images/satire/2026-11-12-auto-mistral-vs-auto-mistral-one-shopping-trip-zero-items-an.webp)
+*Zero items bought, one fountain admired, and a dwarf who never got to finish his sales pitch.*
+
 The narrator, to its credit, responds with a full scene. The adventurer passes through a grand stone archway onto a wider street lined with shops, the smell of food in the air, and a small provisions stall under a sign reading "Sam's Supplies." Behind the counter, a stout dwarf with a bushy beard greets the adventurer warmly. "Ah, welcome to Sam's! What can I get for ye today? Food, water, or maybe"
 
 The dwarf never finishes. Maybe what? Maybe a sword? Maybe a lawyer? We will never know, because the narrator ran out of road in the middle of a sentence like a guy who sees the register open and still can't commit. Sixteen thousand and seventy-seven milliseconds of generation, and the dwarf got cut off anyway.
