@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-11-12-auto-mistral-vs-auto-mistral-one-shopping-trip-zero-items-an.webp"
   alt: "Auto mistral vs Auto mistral: One Shopping Trip, Zero Items, and a Dwarf Cut Off Mid-Offer"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Thursday, November 12, 2026*
