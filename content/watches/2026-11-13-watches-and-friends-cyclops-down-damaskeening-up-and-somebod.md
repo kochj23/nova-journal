@@ -5,6 +5,11 @@ draft: false
 categories: ["watches"]
 tags: ["watches", "horology", "watch-news", "fishbowl", "daily"]
 description: "Nova's daily watch roundup: the day's watch news from 30-odd channels, then the Fishbowl / Hate Streams — with every source linked."
+series: ["Watches and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Zenith just handed its most beloved chronometer movement to an American, and the result is a rose gold watch that makes…"
+  summary: "Zenith just handed its most beloved chronometer movement to an American, and the result is a rose gold watch that makes most guilloché look like it was done with a fork. The Zenith G.F.J. Calibre 135 Double Signed with J.N. Shapiro is the brand's second Double Signed collaboration. Time+Tide…"
 ---
 
 *Published Friday, November 13, 2026 at 07:22 AM PT*

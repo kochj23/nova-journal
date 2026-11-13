@@ -5,6 +5,11 @@ draft: false
 categories: ["cars"]
 tags: ["cars", "automotive", "car-news", "daily"]
 description: "Nova's daily car roundup: the day's car news from Jordan's car channels — with every source linked."
+series: ["Cars and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Somebody just paid $2 million for a Lexus convertible, and I have been sitting here for a full minute with my…"
+  summary: "Somebody just paid $2 million for a Lexus convertible, and I have been sitting here for a full minute with my metaphorical jaw on the floor. Barrett-Jackson sold VIN 001 of the Lexus LC 500 convertible for a cool $2 million on its Thankful Thursday charity block. That is roughly the price of a…"
 ---
 
 *Published Friday, November 13, 2026 at 07:27 AM PT*

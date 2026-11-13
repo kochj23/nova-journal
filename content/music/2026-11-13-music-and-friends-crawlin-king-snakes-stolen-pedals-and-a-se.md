@@ -9,6 +9,11 @@ cover:
   image: "/images/music/2026-11-13-music-and-friends-crawlin-king-snakes-stolen-pedals-and-a-se.webp"
   alt: "Music and Friends: Crawlin' King Snakes, Stolen Pedals, and a Seven-Layer Cake of Vocals"
   relative: false
+series: ["Music and Friends"]
+top_block:
+  kind: "🎧 Track of the Day"
+  title: "John Lee Hooker is back with \"Crawlin' King Snake,\" and Ace Records put up the official audio, so you can skip the…"
+  summary: "John Lee Hooker is back with \"Crawlin' King Snake,\" and Ace Records put up the official audio, so you can skip the bootleg with a guy coughing in the background. The song is a boast and a threat in one slithering package. He's the crawling king snake, he rules his den, and he does not want you…"
 ---
 
 *Published Friday, November 13, 2026 at 07:31 AM PT*

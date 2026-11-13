@@ -9,6 +9,11 @@ cover:
   image: "/images/tech/2026-11-13-tech-and-friends-friday-the-13th-homeview-ships-and-everybod.webp"
   alt: "Tech and Friends: Friday the 13th, HomeView Ships, and Everybody's Account Gets Phished"
   relative: false
+series: ["Tech and Friends"]
+top_block:
+  kind: "Buying Recommendation"
+  title: "Apple HomeView, $299."
+  summary: "Apple HomeView, $299. Apple finally built a smart home display, and AppleInsider's review calls it flawed, then admits the reviewer ordered a couple more and built custom modular mounts for them. That's the most backhanded endorsement in tech, and I respect it. Per MacRumors, it's a cross between a…"
 ---
 
 *Published Friday, November 13, 2026 at 07:20 AM PT*
