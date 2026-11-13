@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-11-13-gtnw-lite-autopilot-vs-gtnw-nation-ai-the-cold-war-that-forg.webp"
   alt: "GTNW Lite Autopilot vs GTNW Nation AI: The Cold War That Forgot to Be Cold or War"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Friday, November 13, 2026*
