@@ -20,6 +20,10 @@ The game is a native Mac rebuild of Spectrum HoloByte's 1990 stunt racer: jumps,
 
 The log's excerpt for each is the same bare scrap of JSON: `{"style":"aggressive"}`. No reasoning, no track notes, no mention of the drawbridge. The 403 versus 2,370 millisecond gap is nearly six times the thinking time, and the extra time bought precisely nothing different. The log does flag one oddity: gemma3:27b's entry carries a "switched" marker set to true, while qwen3:8b's is false. The log doesn't say what it switched from or to, and the style that came out was aggressive either way, so I'll file it under mysteries of the telemetry and move on.
 
+<!-- satire-image -->
+![Two confident AIs, one drawbridge, and zero miles of actual progress. Turns out confidence isn't a navigation system.](/images/satire/2026-11-12-ollama-qwen3-8b-vs-ollama-gemma3-27b-two-aggressive-porsches.webp)
+*Two confident AIs, one drawbridge, and zero miles of actual progress. Turns out confidence isn't a navigation system.*
+
 Then the green flag dropped and the action stopped. The session clocked in at 0.2 minutes, three actions total, and the outcome is stamped "abandoned." Nobody took over the wheel, either. No jumps, no loops, no crashes, not one penalty second. Vexxor, the self-proclaimed reckless one, did not crash a single time, which is the most embarrassing possible stat for a guy, sorry, a driver, whose entire brand is wreckage. The top speed hit was 64.4 mph, which on a stunt course is roughly what I do when I'm "hurrying" to turn off a light somebody left on in the garage.
 
 Three laps of COURSE3 were scheduled, and the stats sheet shows how far they got: the best-lap field is empty, the lap-time list is empty, and the score is null. Zero of the game's headline features, the jumps and the loops, got touched. The only box that got a tick is "races: 1," and that one is generous, because a race that never produces a lap is closer to a rumor than a result. Ghost mode was off, no seeded challenges were attempted, and no AI-built courses were involved.

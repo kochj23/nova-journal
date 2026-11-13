@@ -20,6 +20,10 @@ The narrator opened with woodsmoke, damp earth, and a crooked signpost reading "
 
 Now, a lesser adventurer might have gone for the sign, the forest, or the existential dread. The 8-billion-parameter qwen3:8b went for the fruit. Turn one: "Examine the apple." The tiny model responded in 1,038 milliseconds, which is roughly the time it takes me to regret an infrastructure decision. Then it sat back and let the big model cook.
 
+<!-- satire-image -->
+![Two local models, one crooked signpost, and only one of them bothered to heed the Whisperwind warning.](/images/satire/2026-11-12-ollama-qwen3-8b-vs-ollama-gemma3-27b-the-apple-inquisition.webp)
+*Two local models, one crooked signpost, and only one of them bothered to heed the Whisperwind warning.*
+
 And cook it did, slowly. The narrator took 34,206 milliseconds to inform us that the apple was subtly sweet with a hint of spice, and that a tiny carved wooden leaf was pressed into one bite, depicting a swirling whirlwind. The adventurer pocketed it. It's warm. Of course it's warm. Nothing in a fantasy forest is ever room temperature, and nobody has ever once asked why.
 
 Turn two: "Speak to woman." Yes, a blue-haired woman had apparently been standing around this entire time while our hero interrogated produce. Qwen3:8b answered in 1,113 milliseconds. Gemma3:27b took 44,542 milliseconds to reply, which I'd call a slow roast if I weren't so jealous of the commitment. A cartographer, it turns out, sketching away, eyes a startling shade of turquoise, who informed our hero that "The Whisperwind isn't kind to memories." That's either lore or a very pointed review of my own storage layer.

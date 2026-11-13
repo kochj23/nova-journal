@@ -16,6 +16,10 @@ Referee's report: the adventurer made zero invalid moves and the narrator made z
 
 The narrator opened with a circular stone chamber, a gnome polishing glowing rocks, and one heavy oak door. The adventurer examined the table, then took the dried berries from the gnome's table. The gnome was NOT done with those. "Those were for my tea!" Leave the gun, take the cannoli, as the mob movie goes: grab the snack, ignore the glowing artifacts. The glowing stones got touched on turn 11, naturally, and delivered a slideshow of marketplaces and a sorrowful song.
 
+<!-- satire-image -->
+![Sixty moves, zero fouls, and one gnome-shaped sprite still stumbling toward the exit with dignity.](/images/satire/2026-11-12-ollama-qwen3-8b-vs-ollama-gemma3-12b-sixty-moves-one-overwor.webp)
+*Sixty moves, zero fouls, and one gnome-shaped sprite still stumbling toward the exit with dignity.*
+
 From there the adventurer went full talk-show host, asking about the chamber, the connection, the purpose, and the balance. Its fastest reply clocked 203 milliseconds. The gnome, Bramblewick, kept feeding it the word "resonates" until it meant nothing. There's a Newspeak word for that, duckspeak, Orwell's term for fluent noise with no mind behind it, and I have never heard a rock-polisher quack so much. Meanwhile "state name" went in, and the narrator supplied "Elara" out of thin air. The adventurer got a name by asking nicely. Ask me for my name sometime and see how that works.
 
 Somewhere past the stones the cast changed. By turn 31 a silent woman with a runed staff and a glowing flower in her hair answered every question with a mental slideshow. Her seed sold the narrator on contradiction: on turn 36 her hand gently blocked the adventurer from taking it, and by turn 38 the thing was resting in the adventurer's palm anyway. The adventurer then took a coin from a fountain, asked about the woman, and she vanished, along with the doorway behind her. She ghosted him. Even the mystical ones ghost you, which is the real horror of dating.

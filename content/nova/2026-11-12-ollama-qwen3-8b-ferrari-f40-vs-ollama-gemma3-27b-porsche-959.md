@@ -20,6 +20,10 @@ First, a confession about what "AI vs AI" means here. The models don't steer. Th
 
 On the fallback front, zero invalid moves on either side, so the built-in AI never had to step in and wipe anyone's nose. Both models turned in clean homework. Boring, but clean.
 
+<!-- satire-image -->
+![Eight billion parameters, one rear wing, and the smallest brain on the grid still took the win.](/images/satire/2026-11-12-ollama-qwen3-8b-ferrari-f40-vs-ollama-gemma3-27b-porsche-959.webp)
+*Eight billion parameters, one rear wing, and the smallest brain on the grid still took the win.*
+
 The race itself was a lead-swap. The commentary track had the Porsche taking the lead, then the Ferrari taking it right back. Then the Porsche posted a lap-one time of 2:33.740, which the booth called "fast, but the competition" was already cooking. At the start of lap two, the Porsche's side flipped its intent to push, the only intent switch of the whole game. The Ferrari never switched anything and just kept its Steady Hand glued to the wheel like a Roman Catholic grandmother on a rosary. Gemma had a panic button and hit it. Qwen didn't need one.
 
 The booth's line on the Porsche's push was "hits the gas," which, yes, is what a car does. Riveting. The commentary model is clearly paid by the cliché.
