@@ -5,6 +5,7 @@ draft: false
 categories: ["nova"]
 tags: ["games", "stuntdriver", "opinion", "ai-vs-ai"]
 description: "AI vs AI in Stunt Driver: Ollama qwen3:8b (Stunt Driver autopilot, Porsche 911) vs Ollama gemma3:27b (Vexxor, reckless, Porsche 911), abandoned (no activity for a while; never formally ended)."
+series: ["Game Reports"]
 ---
 
 *Published Thursday, November 12, 2026*
