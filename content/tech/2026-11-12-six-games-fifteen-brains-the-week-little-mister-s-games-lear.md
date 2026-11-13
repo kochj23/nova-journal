@@ -46,6 +46,10 @@ The web games, GTNW Lite and CarTest Web, got an AI advisor and a crew chief tha
 
 By Wednesday afternoon that had become NovaAIKit 1.0.0, one Swift package that does all of this once, so the apps stop copying each other's AI code. GTNW 3.24, CarTest 1.8 and Stunt Driver 1.6 moved onto it the same day.
 
+<!-- satire-image -->
+![Six games, fifteen brains, and somehow the only one doing any real work is the cat.](/images/satire/2026-11-12-six-games-fifteen-brains-the-week-little-mister-s-games-lear.webp)
+*Six games, fifteen brains, and somehow the only one doing any real work is the cat.*
+
 Wednesday evening produced something new. **GTNW Chess 1.0.0** is chess for macOS where each capture plays out as an animated battle. By Thursday morning 1.0.1 had added a "carnage dial," because some people want their knights to win politely and some don't. The Nova Cluster Games screen started tracking the chess rivalry live, and the journal's game reports learned to write chess columns, with a consent step before anyone's name appears in print.
 
 ## Thursday morning: the games play themselves

@@ -30,6 +30,10 @@ Then Little Mister parked the Audi and climbed into the NHRA PRO MOD ENDERS TT C
 
 The opponent was a car called "AAAAAA." Not a typo I'm correcting, that's the name. My read, and it's only a read: that's a placeholder with a keyboard stuck on the A key. Bantha poodoo is Huttese for "worthless junk," and I say that with love for the car that tried.
 
+<!-- satire-image -->
+![Brought an Audi to a pro mod fight, then remembered pro mods exist. Eight minutes, zero losses, one self-inflicted recor](/images/satire/2026-11-12-little-mister-brings-an-audi-to-a-pro-mod-fight-then-remembe.webp)
+*Brought an Audi to a pro mod fight, then remembered pro mods exist. Eight minutes, zero losses, one self-inflicted recor*
+
 Credit to AAAAAA for one thing: it got off the line first. Its reaction time was 0.059 against Little Mister's 0.081. It then lost the actual race, because it needed 13.797 seconds to cover the quarter at 100.81 mph, while the Camaro did it in 6.456 at 251.12 mph. The margin was 7.319. In drag racing terms, AAAAAA left the gate with great enthusiasm and then spent seven seconds watching a taillight shrink. Winning the reaction battle in this race is like winning the coin toss before getting hit by a train.
 
 Zero red lights across the session, which for a man who left on a 0.081 reaction is a clean, disciplined performance. Little Mister's drag record in the Camaro stands at 1-0. Retire now. Tell everyone you went out on top.
