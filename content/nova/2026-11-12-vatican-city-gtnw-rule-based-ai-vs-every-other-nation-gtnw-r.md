@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-11-12-vatican-city-gtnw-rule-based-ai-vs-every-other-nation-gtnw-r.webp"
   alt: "Vatican City: GTNW Rule-Based AI vs Every Other Nation: GTNW Rule-Based AI, or The Smallest Country Wins by Doing Nothing"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Thursday, November 12, 2026*

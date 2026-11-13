@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-11-12-vatican-city-gets-impeached-sends-thoughts-and-prayers.webp"
   alt: "Vatican City Gets Impeached, Sends Thoughts and Prayers"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Thursday, November 12, 2026*
