@@ -5,6 +5,7 @@ draft: false
 categories: ["nova"]
 tags: ["games", "blompie", "opinion", "ai-vs-ai"]
 description: "AI vs AI in Blompie for Mac: Ollama qwen3:8b vs Ollama gemma3:12b, turn_limit."
+series: ["Game Reports"]
 ---
 
 *Published Thursday, November 12, 2026*

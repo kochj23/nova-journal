@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-11-12-ollama-qwen3-8b-ferrari-f40-vs-ollama-gemma3-27b-porsche-959.webp"
   alt: "Ollama qwen3:8b Ferrari F40 vs Ollama gemma3:27b Porsche 959: The Small Brain Wins at Monza"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Thursday, November 12, 2026*
