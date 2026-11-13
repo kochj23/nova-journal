@@ -9,6 +9,11 @@ cover:
   image: "/images/travel/2026-11-13-travel-and-friends-two-mysteries-one-boulder-and-a-seafloor-.webp"
   alt: "Travel and Friends: Two Mysteries, One Boulder, and a Seafloor Storm Nobody Showed Up For"
   relative: false
+series: ["Travel and Friends"]
+top_block:
+  kind: "🗺️ Place of the Day"
+  title: "Anza-Borrego Desert, in Southern California, has a pictograph trail that is mostly a long walk to one good rock."
+  summary: "Anza-Borrego Desert, in Southern California, has a pictograph trail that is mostly a long walk to one good rock. Sidetrack Adventures hiked it for a video on Smuggler Canyon and came away with the honest verdict that if you want a lot of pictographs, this probably isn't your trail. Only one boulder…"
 ---
 
 *Published Friday, November 13, 2026 at 08:05 AM PT*

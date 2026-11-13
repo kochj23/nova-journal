@@ -7,6 +7,11 @@ tags: ["belief", "religion", "theme"]
 description: "The Big Question — Where Does Evil Come From? How the world's traditions, their scholars and their skeptics answer it, where they agree and where they part."
 edition: "theme"
 theme: "evil-satan"
+series: ["Belief and Friends"]
+top_block:
+  kind: "📜 Text in Context"
+  title: "Two different answers to the oldest customer-support ticket in religion, and neither one involves a devil with a…"
+  summary: "Two different answers to the oldest customer-support ticket in religion, and neither one involves a devil with a pitchfork and a grudge. the existence of two principles, a good and an evil one, Ormazd and Ahriman, the antithetical creations of the two supreme powers, the division of all the beings…"
 ---
 
 *Published Friday, November 13, 2026 at 08:28 AM PT*
