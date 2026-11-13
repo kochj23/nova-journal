@@ -20,6 +20,10 @@ The game ran 90 turns and 90 actions in 3.1 minutes. That is faster than most pe
 
 Let's go to the tape. Turn one: Russia declares war on Ukraine. DEFCON drops to 3 immediately, because apparently the opening handshake was too slow. By turn 15 it's DEFCON 1. Turn fifteen, people. A Cold War sim built to simmer for decades hit its maximum alert level before the engine finished its first coffee. Turkey attacks Armenia, Malaysia attacks Armenia, and Iran jumps Monaco. Monaco, a country with roughly the military capacity of a decent yacht club, got hit by Iran, then by North Korea, then by thermobaric bombs that the treaty bans, which meant exactly as much as a "wet floor" sign during a flood.
 
+<!-- satire-image -->
+![Nightmare difficulty: one tiny republic vs. the whole planet, and somehow the planet still lost the diplomacy round.](/images/satire/2026-11-12-armenia-s-rule-based-ai-vs-every-other-nation-s-rule-based-a.webp)
+*Nightmare difficulty: one tiny republic vs. the whole planet, and somehow the planet still lost the diplomacy round.*
+
 The leading rule-based AI on the world side was Mongolia, which opened a war with what felt like half of Europe plus Canada and the United States. Lithuania, Luxembourg, Latvia, Slovenia, Slovakia, you name it. Mongolia was out here collecting enemies like Pokémon cards. The sheet tallies 51 wars started overall, which tells you the "Every other nation" side was not exactly playing for peace.
 
 Meanwhile Armenia's engine, to its credit, kept busy: 22 crises decided, 1 failed, and approval climbing from 43 to a peak of 71.1 before sliding back to 42.1. Zero warheads launched by Armenia. Zero covert ops succeeded. Zero wars won. That is a perfect record of competent crisis management by a country that was fighting Italy, Turkey and Malaysia at once, and Valar morghulis, as the High Valyrian crowd says, "all men must die." Nobody told the engine it was supposed to survive.

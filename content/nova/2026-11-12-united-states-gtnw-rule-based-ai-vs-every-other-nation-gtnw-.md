@@ -20,6 +20,10 @@ Let's go to the tape. The United States opened at 50 percent approval and climbe
 
 Here's the strategic masterstroke, folks. Every time somebody invaded somebody, the American engine "condemned the aggressor and imposed sanctions." Russia on Sweden, Russia on the Ottomans, France on Đại Việt. Every one of those crises was marked "worked." The Secretary of War kept suggesting you could, I don't know, arm the victim, and the engine passed on it every time. The strongest weapon in the American arsenal was a sternly worded memo. Meanwhile Russia attacked the United States in October 1792, and the US surrendered to Russia in April 1790, May 1791, July 1792, and again in January 1793. Four surrenders. At that point it's not a war, it's a subscription.
 
+<!-- satire-image -->
+![Fifty turns, two minutes, one very dignified toaster. The swarm never stood a chance, but it tried really hard.](/images/satire/2026-11-12-united-states-gtnw-rule-based-ai-vs-every-other-nation-gtnw-.webp)
+*Fifty turns, two minutes, one very dignified toaster. The swarm never stood a chance, but it tried really hard.*
+
 The budget deserves its own segment. Defense was at 1. Corporate tax and personal tax were both at 0. Tariff was at 25. That is how you fund a country if you want to lose it quickly and with a clean conscience.
 
 The fine print is the best part. Of 58 crises decided, exactly one failed. The record was nearly spotless and the president still lost 110 to 22 in the electoral count. Then the House opened hearings, the Chief of Staff warned that impeachment articles were coming unless approval climbed back above 38 percent, and approval finished at 26.5. Đại Việt attacked in February 1793 for good measure. The game's own verdict: "The voters have spoken. You lost the election."
