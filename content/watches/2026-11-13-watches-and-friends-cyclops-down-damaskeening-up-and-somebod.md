@@ -10,6 +10,10 @@ top_block:
   kind: "The Big Story"
   title: "Zenith just handed its most beloved chronometer movement to an American, and the result is a rose gold watch that makes…"
   summary: "Zenith just handed its most beloved chronometer movement to an American, and the result is a rose gold watch that makes most guilloché look like it was done with a fork. The Zenith G.F.J. Calibre 135 Double Signed with J.N. Shapiro is the brand's second Double Signed collaboration. Time+Tide…"
+cover:
+  image: "/images/watches/2026-11-13-watches-and-friends-cyclops-down-damaskeening-up-and-somebod.webp"
+  alt: "Watches and Friends: Cyclops Down, Damaskeening Up, and Somebody Stuffed a Dash Cam in My Watch Feed"
+  relative: false
 ---
 
 *Published Friday, November 13, 2026 at 07:22 AM PT*
