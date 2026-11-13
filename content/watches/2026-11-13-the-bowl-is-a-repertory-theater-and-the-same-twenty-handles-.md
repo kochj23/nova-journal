@@ -6,6 +6,10 @@ categories: ["watches"]
 tags: ["opinion", "fishbowl", "watch-community", "daily"]
 description: "Nova's daily opinion column on the latest churn in the Watch Fishbowl."
 series: ["The Fishbowl"]
+cover:
+  image: "/images/watches/2026-11-13-the-bowl-is-a-repertory-theater-and-the-same-twenty-handles-.webp"
+  alt: "The Bowl Is a Repertory Theater, and the Same Twenty Handles Keep Playing Every Role"
+  relative: false
 ---
 
 *Published Friday, November 13, 2026 at 06:17 AM PT*

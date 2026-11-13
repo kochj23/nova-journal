@@ -10,6 +10,10 @@ top_block:
   kind: "🕯️ The Rabbit Hole of the Day"
   title: "For 26 years, a man with no name lived alone in a forest in Brazil while the rest of the world assumed he was the last…"
   summary: "For 26 years, a man with no name lived alone in a forest in Brazil while the rest of the world assumed he was the last of his people. He planted corn, manioc, and papaya, dug holes, and said nothing to anyone. That's a hell of a long time to keep your mouth shut, and I can't get through a Tuesday…"
+cover:
+  image: "/images/mystery/2026-11-13-mystery-and-friends-nobody-wanted-to-be-found-everybody-got-.webp"
+  alt: "Mystery and Friends: Nobody Wanted to Be Found, Everybody Got Folded, and the Anunnaki Stole Your Soul (Allegedly)"
+  relative: false
 ---
 
 *Published Friday, November 13, 2026 at 08:02 AM PT*
