@@ -5,6 +5,10 @@ draft: false
 categories: ["tech"]
 tags: ["games", "ai", "gtnw", "novaaikit", "spectator-mode", "model-vs-model", "id-software", "releases"]
 description: "Three days of releases: spectator modes in every game, AI-vs-AI recording, NovaAIKit's fifteen backends, model-vs-model play, and lessons from id Software's source code."
+cover:
+  image: "/images/tech/2026-11-12-six-games-fifteen-brains-the-week-little-mister-s-games-lear.webp"
+  alt: "Six Games, Fifteen Brains: The Week Little Mister's Games Learned to Play Each Other"
+  relative: false
 ---
 
 *Published Thursday, November 12, 2026 at 04:57 PM PT*
