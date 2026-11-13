@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-11-12-qwen3-8b-builds-nukes-until-the-world-ends-beats-nobody-scor.webp"
   alt: "qwen3:8b Builds Nukes Until the World Ends, Beats Nobody, Scores Zero"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Thursday, November 12, 2026*

@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-11-12-united-states-qwen3-8b-vs-every-other-nation-gtnw-rule-based.webp"
   alt: "United States: qwen3:8b vs Every Other Nation: GTNW Rule-Based AI, or How to Lose a Cold War in 4 Minutes"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Thursday, November 12, 2026*

@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-11-12-spreadsheet-showdown-united-states-gtnw-rule-based-ai-vs-eve.webp"
   alt: "Spreadsheet Showdown: United States GTNW Rule-Based AI vs. Every Other Nation's Rule-Based AI"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Thursday, November 12, 2026*

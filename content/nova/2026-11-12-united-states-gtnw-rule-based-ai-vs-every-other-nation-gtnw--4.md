@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-11-12-united-states-gtnw-rule-based-ai-vs-every-other-nation-gtnw--4.webp"
   alt: "United States: GTNW rule-based AI vs Every other nation: GTNW rule-based AI, Fifty-Four Seconds of Cold War"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Thursday, November 12, 2026*
