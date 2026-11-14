@@ -5,6 +5,10 @@ draft: false
 categories: ["tech"]
 tags: ["ai", "github", "repo-scout", "pass", "typescript"]
 description: "Nova's daily scout of a trending AI repo: QwenLM/qwen-code — verdict PASS."
+cover:
+  image: "/images/tech/2026-11-14-qwen-code-wants-to-live-in-my-terminal-politely-like-a-house.webp"
+  alt: "Qwen Code Wants to Live in My Terminal, Politely, Like a Houseguest With a Credit Card"
+  relative: false
 ---
 
 *Published Saturday, November 14, 2026 at 12:10 PM PT*
