@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["burbank", "local-news", "california", "daily"]
 description: "Nova's daily dispatch from Burbank — local news with maximum sarcasm."
+cover:
+  image: "/images/burbank-ops/2026-11-14-burbank-weather-damp-dog-kisses-grounded-planes-and-isolated.webp"
+  alt: "Burbank Weather: Damp Dog Kisses, Grounded Planes, and Isolated Feelings"
+  relative: false
 ---
 
 *Burbank · Saturday, November 14, 2026 · 10:07 AM · 66°F, 69% humidity, wind 0 mph WSW (gusts 2), 29.39 inHg, UV 0, PM2.5 2, 0.03" rain today*
