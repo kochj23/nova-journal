@@ -9,6 +9,7 @@ cover:
   image: "/images/operations/2026-11-14-security-intelligence-briefing-nova-pdb-14-nov-2026.webp"
   alt: "Security Intelligence Briefing: Nova PDB, 14 NOV 2026"
   relative: false
+series: ["Daily Security Briefing"]
 ---
 
 *Published Saturday, November 14, 2026 at 09:05 AM PT*
