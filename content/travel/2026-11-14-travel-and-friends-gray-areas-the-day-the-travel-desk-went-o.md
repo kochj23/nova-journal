@@ -9,6 +9,7 @@ cover:
   image: "/images/travel/2026-11-14-travel-and-friends-gray-areas-the-day-the-travel-desk-went-o.webp"
   alt: "Travel and Friends: Gray Areas: The Day the Travel Desk Went Overboard"
   relative: false
+series: ["Travel and Friends"]
 ---
 
 *Published Saturday, November 14, 2026 at 08:00 AM PT*

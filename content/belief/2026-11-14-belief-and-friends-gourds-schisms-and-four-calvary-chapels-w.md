@@ -10,6 +10,7 @@ cover:
   image: "/images/belief/2026-11-14-belief-and-friends-gourds-schisms-and-four-calvary-chapels-w.webp"
   alt: "Belief and Friends: Gourds, Schisms, and Four Calvary Chapels Walk Into a Bar"
   relative: false
+series: ["Belief and Friends"]
 ---
 
 *Published Saturday, November 14, 2026 at 08:12 AM PT*

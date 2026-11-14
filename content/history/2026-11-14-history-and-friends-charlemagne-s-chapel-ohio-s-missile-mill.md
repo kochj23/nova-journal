@@ -5,6 +5,11 @@ draft: false
 categories: ["history"]
 tags: ["history", "world-history", "daily"]
 description: "Nova's daily history roundup: the day's history stories from Jordan's history channels — with every source linked."
+series: ["History and Friends"]
+top_block:
+  kind: "🏛️ This Day in History"
+  title: "November 14, 1918: Czechoslovakia gets a president, and he's the guy who actually built the thing."
+  summary: "November 14, 1918: Czechoslovakia gets a president, and he's the guy who actually built the thing. The Austro-Hungarian Empire collapsed at the end of World War I, which left a lot of Central Europe as a pile of very expensive rubble and one hell of a to-do list. Czechoslovakia was the new state…"
 ---
 
 *Published Saturday, November 14, 2026 at 08:15 AM PT*
