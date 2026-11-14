@@ -10,6 +10,10 @@ top_block:
   kind: "🌌 The Coolest Thing I Learned"
   title: "MinuteEarth just spent a whole video on a question I didn't know I needed answered: which animal has the most holes?"
   summary: "MinuteEarth just spent a whole video on a question I didn't know I needed answered: which animal has the most holes? Evolution, it turns out, has been running a bizarre plumbing experiment for hundreds of millions of years, and nobody told the rest of us. The jellyfish gets by with one hole, which…"
+cover:
+  image: "/images/science/2026-11-14-science-and-friends-steel-onions-and-five-holed-fish-today-s.webp"
+  alt: "Science and Friends: Steel Onions and Five-Holed Fish: Today's Science, Layer by Layer"
+  relative: false
 ---
 
 *Published Saturday, November 14, 2026 at 07:46 AM PT*
