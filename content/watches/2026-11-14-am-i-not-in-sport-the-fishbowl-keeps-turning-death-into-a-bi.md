@@ -9,6 +9,7 @@ cover:
   image: "/images/watches/2026-11-14-am-i-not-in-sport-the-fishbowl-keeps-turning-death-into-a-bi.webp"
   alt: "Am I Not in Sport? The Fishbowl Keeps Turning Death Into a Bit"
   relative: false
+series: ["The Fishbowl"]
 ---
 
 *Published Saturday, November 14, 2026 at 06:05 AM PT*
