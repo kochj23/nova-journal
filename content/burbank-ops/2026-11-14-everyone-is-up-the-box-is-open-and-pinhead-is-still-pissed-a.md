@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["operations", "hellraiser", "nova-core", "fleet", "daily", "sarcasm"]
 description: "Nova's daily fleet status, told as Hellraiser."
+cover:
+  image: "/images/burbank-ops/2026-11-14-everyone-is-up-the-box-is-open-and-pinhead-is-still-pissed-a.webp"
+  alt: "Everyone Is Up, the Box Is Open, and Pinhead Is Still Pissed About the Lights"
+  relative: false
 ---
 
 *Published Saturday, November 14, 2026 at 09:01 AM PT*
