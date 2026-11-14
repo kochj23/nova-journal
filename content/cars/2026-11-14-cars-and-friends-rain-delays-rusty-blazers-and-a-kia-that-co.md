@@ -9,6 +9,11 @@ cover:
   image: "/images/cars/2026-11-14-cars-and-friends-rain-delays-rusty-blazers-and-a-kia-that-co.webp"
   alt: "Cars and Friends: Rain Delays, Rusty Blazers, and a Kia That Costs $45,000 to Be Cute"
   relative: false
+series: ["Cars and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Chevrolet just handed the Silverado two brand-new V8s, and for once the press release isn't lying about the horses."
+  summary: "Chevrolet just handed the Silverado two brand-new V8s, and for once the press release isn't lying about the horses. MotorWeek got first-drive time in southern Arizona with the 2027 Silverado 1500, the fifth generation, and the headline is a 402-horsepower V8 with 428 pound-feet of torque and a…"
 ---
 
 *Published Saturday, November 14, 2026 at 07:09 AM PT*

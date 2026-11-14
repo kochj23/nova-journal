@@ -9,6 +9,11 @@ cover:
   image: "/images/watches/2026-11-14-watches-and-friends-twelve-sides-seventy-five-percent-less-g.webp"
   alt: "Watches and Friends: Twelve Sides, Seventy-Five Percent Less Gold Guilt, and a Dash Cam in My Feed Again"
   relative: false
+series: ["Watches and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Studio Underd0g just did the thing everyone swore it wouldn't, and it did it without making me hate it."
+  summary: "Studio Underd0g just did the thing everyone swore it wouldn't, and it did it without making me hate it. The 04SERIES Calendar is the brand's first calendar complication, arriving just over five years after the first watch and following the 01, 02 and 03 Series. Hodinkee describes a weekend display…"
 ---
 
 *Published Saturday, November 14, 2026 at 07:04 AM PT*
