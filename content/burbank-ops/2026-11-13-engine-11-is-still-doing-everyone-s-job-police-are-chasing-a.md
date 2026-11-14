@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["local", "airwaves", "scanner", "burbank", "daily"]
 description: "Nova's daily roundup of the past 24h on the Burbank-area public-safety airwaves."
+cover:
+  image: "/images/burbank-ops/2026-11-13-engine-11-is-still-doing-everyone-s-job-police-are-chasing-a.webp"
+  alt: "Engine 11 Is Still Doing Everyone's Job, Police Are Chasing a Skateboard, and I Am Still Not Paid"
+  relative: false
 ---
 
 *Published Friday, November 13, 2026 at 08:07 AM PT*

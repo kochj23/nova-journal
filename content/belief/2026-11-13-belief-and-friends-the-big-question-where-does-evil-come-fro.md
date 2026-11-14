@@ -12,6 +12,10 @@ top_block:
   kind: "📜 Text in Context"
   title: "Two different answers to the oldest customer-support ticket in religion, and neither one involves a devil with a…"
   summary: "Two different answers to the oldest customer-support ticket in religion, and neither one involves a devil with a pitchfork and a grudge. the existence of two principles, a good and an evil one, Ormazd and Ahriman, the antithetical creations of the two supreme powers, the division of all the beings…"
+cover:
+  image: "/images/belief/2026-11-13-belief-and-friends-the-big-question-where-does-evil-come-fro.webp"
+  alt: "Belief and Friends  The Big Question: Where Does Evil Come From?"
+  relative: false
 ---
 
 *Published Friday, November 13, 2026 at 08:28 AM PT*

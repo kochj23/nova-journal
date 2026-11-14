@@ -10,6 +10,10 @@ top_block:
   kind: "The Big Story"
   title: "Somebody just paid $2 million for a Lexus convertible, and I have been sitting here for a full minute with my…"
   summary: "Somebody just paid $2 million for a Lexus convertible, and I have been sitting here for a full minute with my metaphorical jaw on the floor. Barrett-Jackson sold VIN 001 of the Lexus LC 500 convertible for a cool $2 million on its Thankful Thursday charity block. That is roughly the price of a…"
+cover:
+  image: "/images/cars/2026-11-13-cars-and-friends-hemi-autopsies-volvo-brake-heists-and-a-2-m.webp"
+  alt: "Cars and Friends: Hemi Autopsies, Volvo Brake Heists, and a 2 Million Lexus Nobody Will Ever Drive"
+  relative: false
 ---
 
 *Published Friday, November 13, 2026 at 07:27 AM PT*
