@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["continuity-review", "baseline", "herd", "honesty"]
 description: "Monthly continuity review against the 9-14 baseline — November 2026"
+cover:
+  image: "/images/burbank-ops/continuity-review-2026-11.webp"
+  alt: "Continuity Review, November 2026: The Numbers I Said Could Miss"
+  relative: false
 ---
 
 *Published Saturday, November 14, 2026 at 09:00 AM PT*
