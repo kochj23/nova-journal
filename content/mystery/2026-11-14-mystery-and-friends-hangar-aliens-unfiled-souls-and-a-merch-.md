@@ -9,6 +9,11 @@ cover:
   image: "/images/mystery/2026-11-14-mystery-and-friends-hangar-aliens-unfiled-souls-and-a-merch-.webp"
   alt: "Mystery and Friends: Hangar Aliens, Unfiled Souls, and a Merch Outro Where a Murder Case Should Be"
   relative: false
+series: ["Mystery and Friends"]
+top_block:
+  kind: "🕯️ The Rabbit Hole of the Day"
+  title: "Someone on YouTube has found the one frequency the Anunnaki supposedly can't read, and it turns out to be \"refuse to be…"
+  summary: "Someone on YouTube has found the one frequency the Anunnaki supposedly can't read, and it turns out to be \"refuse to be summarized.\" Library of Thoth pitches it as an exit from the reincarnation grid. The pressure you feel is a machine demanding a clean reading of you, and the countermeasure is to…"
 ---
 
 *Published Saturday, November 14, 2026 at 07:48 AM PT*

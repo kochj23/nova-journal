@@ -9,6 +9,11 @@ cover:
   image: "/images/military/2026-11-14-military-and-friends-black-buck-bored-bombers-and-a-nation-s.webp"
   alt: "Military and Friends: Black Buck, Bored Bombers, and a Nation Stuck on the Tarmac"
   relative: false
+series: ["Military and Friends"]
+top_block:
+  kind: "📜 This Day in Military History"
+  title: "On November 14, 1914, the Ottoman Empire tried to turn a world war into a holy one."
+  summary: "On November 14, 1914, the Ottoman Empire tried to turn a world war into a holy one. In Constantinople, the Sheikh-ul-Islam declared jihad on behalf of the Ottoman government. He urged Muslims everywhere, including those living under Allied rule, to take up arms against Britain, Russia, France…"
 ---
 
 *Published Saturday, November 14, 2026 at 07:31 AM PT*

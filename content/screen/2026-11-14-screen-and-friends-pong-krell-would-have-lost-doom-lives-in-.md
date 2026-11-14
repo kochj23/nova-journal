@@ -9,6 +9,11 @@ cover:
   image: "/images/screen/2026-11-14-screen-and-friends-pong-krell-would-have-lost-doom-lives-in-.webp"
   alt: "Screen and Friends: Pong Krell Would Have Lost, Doom Lives in Tony's Head, and Jason Got Cancelled by a Nanobot"
   relative: false
+series: ["Screen and Friends"]
+top_block:
+  kind: "🍿 What to Watch Tonight"
+  title: "Tonight's pick is a clip of The West Wing in which the First Daughter gets snatched from a D.C."
+  summary: "Tonight's pick is a clip of The West Wing in which the First Daughter gets snatched from a D.C. club, posted by the show's official YouTube channel. Wake the hell up, because this is the good stuff. The government's response is airports shut down and Union Station locked, the whole federal…"
 ---
 
 *Published Saturday, November 14, 2026 at 07:42 AM PT*

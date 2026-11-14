@@ -9,6 +9,11 @@ cover:
   image: "/images/crime/2026-11-14-crime-and-friends-three-seconds-thirteen-days-and-zero-mob-b.webp"
   alt: "Crime and Friends: Three Seconds, Thirteen Days, and Zero Mob Bosses"
   relative: false
+series: ["Crime and Friends"]
+top_block:
+  kind: "🔦 Case of the Day"
+  title: "A man is charged with eluding police on January 6th, 2026, and the case against him rests on one cop's memory of a…"
+  summary: "A man is charged with eluding police on January 6th, 2026, and the case against him rests on one cop's memory of a driver he saw for about three seconds, nine and a half months earlier. Officer Mork is sure Clint Tabb was behind the wheel of that truck. Sure is not the same as right, Officer. Ask…"
 ---
 
 *Published Saturday, November 14, 2026 at 07:50 AM PT*

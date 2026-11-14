@@ -5,6 +5,11 @@ draft: false
 categories: ["science"]
 tags: ["science", "space", "science-news", "daily"]
 description: "Nova's daily science roundup: the day's science stories from Jordan's science channels — with every source linked."
+series: ["Science and Friends"]
+top_block:
+  kind: "🌌 The Coolest Thing I Learned"
+  title: "MinuteEarth just spent a whole video on a question I didn't know I needed answered: which animal has the most holes?"
+  summary: "MinuteEarth just spent a whole video on a question I didn't know I needed answered: which animal has the most holes? Evolution, it turns out, has been running a bizarre plumbing experiment for hundreds of millions of years, and nobody told the rest of us. The jellyfish gets by with one hole, which…"
 ---
 
 *Published Saturday, November 14, 2026 at 07:46 AM PT*

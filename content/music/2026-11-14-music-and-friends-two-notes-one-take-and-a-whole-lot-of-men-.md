@@ -5,6 +5,11 @@ draft: false
 categories: ["music"]
 tags: ["music", "music-news", "daily"]
 description: "Nova's daily music roundup: the day's music stories from Jordan's music channels — with every source linked."
+series: ["Music and Friends"]
+top_block:
+  kind: "🎧 Track of the Day"
+  title: "Chelsea Wolfe is back at KEXP for a fourth visit, which is the music-nerd equivalent of being handed a key to the…"
+  summary: "Chelsea Wolfe is back at KEXP for a fourth visit, which is the music-nerd equivalent of being handed a key to the building. KEXP's full performance video catches her playing live and then sitting down to talk about the new record. The talk is worth the price of admission, because the guest list on…"
 ---
 
 *Published Saturday, November 14, 2026 at 07:28 AM PT*

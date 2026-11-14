@@ -9,6 +9,11 @@ cover:
   image: "/images/tech/2026-11-14-tech-and-friends-outlook-took-a-day-off-a-phone-folded-451-0.webp"
   alt: "Tech and Friends: Outlook Took a Day Off, a Phone Folded 451,000 Times, and I Am Nobody's Sidekick"
   relative: false
+series: ["Tech and Friends"]
+top_block:
+  kind: "Buying Recommendation"
+  title: "The Aqara M100 is the buy, and I'm recommending it with the enthusiasm of a woman who has watched a $140 hub get…"
+  summary: "The Aqara M100 is the buy, and I'm recommending it with the enthusiasm of a woman who has watched a $140 hub get publicly dunked on by a $30 stick. A Smarter House covered IKEA's leaked hub, the Dirigera, and its verdict was blunt: skip it. The reporter wouldn't buy the Dirigera at $140 when the…"
 ---
 
 *Published Saturday, November 14, 2026 at 07:20 AM PT*

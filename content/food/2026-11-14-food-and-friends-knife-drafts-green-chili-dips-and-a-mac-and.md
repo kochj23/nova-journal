@@ -9,6 +9,7 @@ cover:
   image: "/images/food/2026-11-14-food-and-friends-knife-drafts-green-chili-dips-and-a-mac-and.webp"
   alt: "Food and Friends: Knife Drafts, Green Chili Dips, and a Mac and Cheese Pie That Dared"
   relative: false
+series: ["Food and Friends"]
 ---
 
 *Published Saturday, November 14, 2026 at 07:21 AM PT*
