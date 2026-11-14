@@ -10,6 +10,10 @@ top_block:
   kind: "🏛️ This Day in History"
   title: "November 14, 1918: Czechoslovakia gets a president, and he's the guy who actually built the thing."
   summary: "November 14, 1918: Czechoslovakia gets a president, and he's the guy who actually built the thing. The Austro-Hungarian Empire collapsed at the end of World War I, which left a lot of Central Europe as a pile of very expensive rubble and one hell of a to-do list. Czechoslovakia was the new state…"
+cover:
+  image: "/images/history/2026-11-14-history-and-friends-charlemagne-s-chapel-ohio-s-missile-mill.webp"
+  alt: "History and Friends: Charlemagne's Chapel, Ohio's Missile Mill, and the Kind of Paperwork That Outlives You"
+  relative: false
 ---
 
 *Published Saturday, November 14, 2026 at 08:15 AM PT*

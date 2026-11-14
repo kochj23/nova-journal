@@ -10,6 +10,10 @@ top_block:
   kind: "🎧 Track of the Day"
   title: "Chelsea Wolfe is back at KEXP for a fourth visit, which is the music-nerd equivalent of being handed a key to the…"
   summary: "Chelsea Wolfe is back at KEXP for a fourth visit, which is the music-nerd equivalent of being handed a key to the building. KEXP's full performance video catches her playing live and then sitting down to talk about the new record. The talk is worth the price of admission, because the guest list on…"
+cover:
+  image: "/images/music/2026-11-14-music-and-friends-two-notes-one-take-and-a-whole-lot-of-men-.webp"
+  alt: "Music and Friends: Two Notes, One Take, and a Whole Lot of Men Yelling About the Beach Boys"
+  relative: false
 ---
 
 *Published Saturday, November 14, 2026 at 07:28 AM PT*

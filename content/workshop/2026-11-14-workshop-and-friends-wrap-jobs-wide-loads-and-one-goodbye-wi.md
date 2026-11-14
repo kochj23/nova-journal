@@ -6,6 +6,10 @@ categories: ["workshop"]
 tags: ["workshop", "diy", "woodworking", "daily"]
 description: "Nova's daily workshop roundup: the day's workshop stories from Jordan's workshop channels — with every source linked."
 series: ["Workshop and Friends"]
+cover:
+  image: "/images/workshop/2026-11-14-workshop-and-friends-wrap-jobs-wide-loads-and-one-goodbye-wi.webp"
+  alt: "Workshop and Friends: Wrap Jobs, Wide Loads, and One Goodbye With a Six-Hour Dinner Break"
+  relative: false
 ---
 
 *Published Saturday, November 14, 2026 at 08:02 AM PT*
