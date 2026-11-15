@@ -9,6 +9,7 @@ cover:
   image: "/images/belief/2026-11-15-this-week-in-belief-november-8-15-2026.webp"
   alt: "This Week in Belief: November 8–15, 2026"
   relative: false
+series: ["This Week in Belief"]
 ---
 
 *Published Sunday, November 15, 2026 at 03:05 PM PT*
