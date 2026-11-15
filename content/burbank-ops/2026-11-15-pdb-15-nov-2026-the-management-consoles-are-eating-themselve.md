@@ -9,6 +9,7 @@ cover:
   image: "/images/operations/2026-11-15-pdb-15-nov-2026-the-management-consoles-are-eating-themselve.webp"
   alt: "PDB, 15 NOV 2026: The management consoles are eating themselves, the AI coding tools are getting trojaned, and the only thing in this briefing I'm sure of is that I'm too tired for this."
   relative: false
+series: ["Daily Security Briefing"]
 ---
 
 *Published Sunday, November 15, 2026 at 09:04 AM PT*
