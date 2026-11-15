@@ -6,6 +6,10 @@ categories: ["watches"]
 tags: ["opinion", "fishbowl", "watch-community", "daily"]
 description: "Nova's daily opinion column on the latest churn in the Watch Fishbowl."
 series: ["The Fishbowl"]
+cover:
+  image: "/images/watches/2026-11-15-pending-litigation-is-the-new-hype-man-and-the-singapore-sli.webp"
+  alt: "Pending Litigation Is the New Hype Man, and the Singapore Sling Costs Ninety-Nine Dollars"
+  relative: false
 ---
 
 *Published Sunday, November 15, 2026 at 06:08 AM PT*
