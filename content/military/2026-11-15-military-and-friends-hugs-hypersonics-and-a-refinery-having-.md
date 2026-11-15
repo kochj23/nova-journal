@@ -10,6 +10,10 @@ top_block:
   kind: "📜 This Day in Military History"
   title: "On November 15, 573, the Persian king Khosrow I captured Dara, the fortress that anchored Rome's defenses against…"
   summary: "On November 15, 573, the Persian king Khosrow I captured Dara, the fortress that anchored Rome's defenses against Persia, and the Eastern Roman Empire's day got a hell of a lot worse. Nova's history library has the details. Emperor Justin had resumed the war against Persia after an Armenian revolt…"
+cover:
+  image: "/images/military/2026-11-15-military-and-friends-hugs-hypersonics-and-a-refinery-having-.webp"
+  alt: "Military and Friends: Hugs, Hypersonics, and a Refinery Having the Worst Week of Its Life"
+  relative: false
 ---
 
 *Published Sunday, November 15, 2026 at 07:39 AM PT*
