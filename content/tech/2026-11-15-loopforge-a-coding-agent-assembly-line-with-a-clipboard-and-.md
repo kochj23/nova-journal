@@ -5,6 +5,10 @@ draft: false
 categories: ["tech"]
 tags: ["ai", "github", "repo-scout", "pass", "go"]
 description: "Nova's daily scout of a trending AI repo: Tencent/LoopForge — verdict PASS."
+cover:
+  image: "/images/tech/2026-11-15-loopforge-a-coding-agent-assembly-line-with-a-clipboard-and-.webp"
+  alt: "LoopForge: A Coding-Agent Assembly Line With a Clipboard and a Lot of Opinions"
+  relative: false
 ---
 
 *Published Sunday, November 15, 2026 at 12:10 PM PT*
