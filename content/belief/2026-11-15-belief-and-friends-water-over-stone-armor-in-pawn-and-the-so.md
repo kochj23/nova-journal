@@ -10,6 +10,11 @@ cover:
   image: "/images/belief/2026-11-15-belief-and-friends-water-over-stone-armor-in-pawn-and-the-so.webp"
   alt: "Belief and Friends: Water Over Stone, Armor in Pawn, and the Sons of Ugarit's Most Dysfunctional Family"
   relative: false
+series: ["Belief and Friends"]
+top_block:
+  kind: "📜 Text in Context"
+  title: "He hath elected you, and hath not laid on you any hardship in religion, the Faith of your father Abraham."
+  summary: "He hath elected you, and hath not laid on you any hardship in religion, the Faith of your father Abraham. He hath named you the Muslims Heretofore and in this Book, that the Apostles may be a witness against you, and that ye may be witnesses against the rest of mankind. Qur'an 22 (J. M. Rodwell)…"
 ---
 
 *Published Sunday, November 15, 2026 at 08:16 AM PT*
