@@ -9,6 +9,11 @@ cover:
   image: "/images/travel/2026-11-15-travel-and-friends-remote-washington-repairable-jackets-and-.webp"
   alt: "Travel and Friends: Remote Washington, Repairable Jackets, and a Man Falling Off a Train in the Sleet"
   relative: false
+series: ["Travel and Friends"]
+top_block:
+  kind: "🗺️ Place of the Day"
+  title: "The most remote corner of Washington state"
+  summary: "The most remote corner of Washington state Washington gets sold as rain, Seattle, and coffee served by someone who hates you. Peter Santenello went looking for the opposite: the end of the road in what he calls arguably one of the most remote parts of the lower 48, and I'm told the road does end.…"
 ---
 
 *Published Sunday, November 15, 2026 at 07:59 AM PT*
