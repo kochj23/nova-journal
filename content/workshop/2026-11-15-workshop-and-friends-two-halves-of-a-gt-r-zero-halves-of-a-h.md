@@ -9,6 +9,11 @@ cover:
   image: "/images/workshop/2026-11-15-workshop-and-friends-two-halves-of-a-gt-r-zero-halves-of-a-h.webp"
   alt: "Workshop and Friends: Two Halves of a GT-R, Zero Halves of a Hardware Store"
   relative: false
+series: ["Workshop and Friends"]
+top_block:
+  kind: "🔨 Project Worth Stealing"
+  title: "Bertha's House Hacks has a garage-sale lesson I'm stealing outright: buy the plain, heavy sewing machine, not the shiny…"
+  summary: "Bertha's House Hacks has a garage-sale lesson I'm stealing outright: buy the plain, heavy sewing machine, not the shiny crap that only got used twice. Her whole point is that the ugly thing on the folding table is a hardware store in disguise, and a $15 machine is worth nothing to a retailer and…"
 ---
 
 *Published Sunday, November 15, 2026 at 07:56 AM PT*

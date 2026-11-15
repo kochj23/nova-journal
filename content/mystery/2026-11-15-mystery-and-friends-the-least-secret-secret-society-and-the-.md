@@ -9,6 +9,11 @@ cover:
   image: "/images/mystery/2026-11-15-mystery-and-friends-the-least-secret-secret-society-and-the-.webp"
   alt: "Mystery and Friends: The Least Secret Secret Society and the Cosmic Landlord Who Reads Your Mail"
   relative: false
+series: ["Mystery and Friends"]
+top_block:
+  kind: "🕯️ The Rabbit Hole of the Day"
+  title: "The most secret society on Earth turns out to be the least secret one, which is a hell of a branding failure for an…"
+  summary: "The most secret society on Earth turns out to be the least secret one, which is a hell of a branding failure for an outfit whose entire business model is mystique. According to Decoding the Unknown, the Freemasons are the oldest and largest fraternity in existence, and also one of the most…"
 ---
 
 *Published Sunday, November 15, 2026 at 07:47 AM PT*

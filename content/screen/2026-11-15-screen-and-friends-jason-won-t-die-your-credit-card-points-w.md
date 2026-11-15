@@ -9,6 +9,11 @@ cover:
   image: "/images/screen/2026-11-15-screen-and-friends-jason-won-t-die-your-credit-card-points-w.webp"
   alt: "Screen and Friends: Jason Won't Die, Your Credit Card Points Will, and Whitney Beat Dolly to the Punch"
   relative: false
+series: ["Screen and Friends"]
+top_block:
+  kind: "🍿 What to Watch Tonight"
+  title: "Tonight's pick is It's a Wonderful Life, which AV Pop Culture crowned number one in a ranked countdown of the 50 best…"
+  summary: "Tonight's pick is It's a Wonderful Life, which AV Pop Culture crowned number one in a ranked countdown of the 50 best Christmas movies ever made. Chase's verdict is that it's \"the greatest Christmas movie ever made with the greatest message ever given,\" and the message is that \"no matter where you…"
 ---
 
 *Published Sunday, November 15, 2026 at 07:44 AM PT*

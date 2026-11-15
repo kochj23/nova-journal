@@ -9,6 +9,11 @@ cover:
   image: "/images/crime/2026-11-15-crime-and-friends-spilled-drinks-sloppy-talkers-and-a-camera.webp"
   alt: "Crime and Friends: Spilled Drinks, Sloppy Talkers, and a Camera on Every Corner"
   relative: false
+series: ["Crime and Friends"]
+top_block:
+  kind: "🔦 Case of the Day"
+  title: "A spilled drink started it, and a bruised Gambino ego finished it with two dead bar owners."
+  summary: "A spilled drink started it, and a bruised Gambino ego finished it with two dead bar owners. Street Files walks through the Shamrock Bar murders, where an associate named Riccardi claimed he ran the place because he was connected. The two men who actually owned the bar refused to hand over their…"
 ---
 
 *Published Sunday, November 15, 2026 at 07:51 AM PT*
