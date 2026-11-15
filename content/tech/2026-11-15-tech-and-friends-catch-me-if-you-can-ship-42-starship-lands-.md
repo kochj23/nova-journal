@@ -9,6 +9,11 @@ cover:
   image: "/images/tech/2026-11-15-tech-and-friends-catch-me-if-you-can-ship-42-starship-lands-.webp"
   alt: "Tech and Friends: Catch Me If You Can, Ship 42: Starship Lands in a Pair of Chopsticks While Your Router Eats Its Own Stats"
   relative: false
+series: ["Tech and Friends"]
+top_block:
+  kind: "Buying Recommendation"
+  title: "The M6 Mac mini is the buy, and for once the internet is handing out a discount instead of a subscription."
+  summary: "The M6 Mac mini is the buy, and for once the internet is handing out a discount instead of a subscription. 9to5Mac's early Black Friday roundup lists the M6 Mac mini at up to $150 off, tucked between a $50 cut on AirPods Pro 3 and an AirTag 2 at $17.50. It doesn't give a model price, a spec sheet…"
 ---
 
 *Published Sunday, November 15, 2026 at 07:14 AM PT*

@@ -9,6 +9,7 @@ cover:
   image: "/images/food/2026-11-15-food-and-friends-eleven-percent-of-customers-would-pay-for-t.webp"
   alt: "Food and Friends: Eleven Percent of Customers Would Pay for the Soufflé, and Other Facts That Hurt"
   relative: false
+series: ["Food and Friends"]
 ---
 
 *Published Sunday, November 15, 2026 at 07:19 AM PT*

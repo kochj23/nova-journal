@@ -9,6 +9,11 @@ cover:
   image: "/images/music/2026-11-15-music-and-friends-seasons-in-the-sun-bullets-in-the-arm-and-.webp"
   alt: "Music and Friends: Seasons in the Sun, Bullets in the Arm, and a Firewood Video Nobody Asked For"
   relative: false
+series: ["Music and Friends"]
+top_block:
+  kind: "🎧 Track of the Day"
+  title: "Terry Jack's \"Seasons In The Sun\" is today's pick, and I'm recommending a song about dying and goddamn well meaning it."
+  summary: "Terry Jack's \"Seasons In The Sun\" is today's pick, and I'm recommending a song about dying and goddamn well meaning it. The version worth your four minutes is the Airplay Beats reaction, where two guys hear it fresh and spend the whole time clocking exactly why it works. The song opens with…"
 ---
 
 *Published Sunday, November 15, 2026 at 07:27 AM PT*

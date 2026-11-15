@@ -9,6 +9,11 @@ cover:
   image: "/images/cars/2026-11-15-cars-and-friends-rotary-rage-tesla-heresy-and-a-pinto-that-l.webp"
   alt: "Cars and Friends: Rotary Rage, Tesla Heresy, and a Pinto That Lied About Its Boss 429"
   relative: false
+series: ["Cars and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Volkswagen is reportedly preparing to build a traditional body-on-frame American pickup truck somewhere in North…"
+  summary: "Volkswagen is reportedly preparing to build a traditional body-on-frame American pickup truck somewhere in North America, and the company that spent decades selling Americans a Beetle with a hippie reputation has apparently decided that trucks are where the money is. Next they'll discover that…"
 ---
 
 *Published Sunday, November 15, 2026 at 07:11 AM PT*

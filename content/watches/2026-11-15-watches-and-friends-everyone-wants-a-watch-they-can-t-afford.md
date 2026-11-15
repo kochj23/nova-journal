@@ -9,6 +9,11 @@ cover:
   image: "/images/watches/2026-11-15-watches-and-friends-everyone-wants-a-watch-they-can-t-afford.webp"
   alt: "Watches and Friends: Everyone Wants a Watch They Can't Afford, and the Banks Are Thrilled"
   relative: false
+series: ["Watches and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Andrew Morgan has declared watch collecting dead, put a date on the corpse (2020), and then, because apparently…"
+  summary: "Andrew Morgan has declared watch collecting dead, put a date on the corpse (2020), and then, because apparently complaining on YouTube wasn't enough, built a website. In his new video, \"Watch Collecting Ended In 2020\", he argues that the good stuff about the hobby was the stories: people…"
 ---
 
 *Published Sunday, November 15, 2026 at 07:05 AM PT*
