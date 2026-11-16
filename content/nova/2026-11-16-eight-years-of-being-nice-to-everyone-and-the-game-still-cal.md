@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-11-16-eight-years-of-being-nice-to-everyone-and-the-game-still-cal.webp"
   alt: "Eight Years of Being Nice to Everyone, and the Game Still Called It a Defeat"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Monday, November 16, 2026*
