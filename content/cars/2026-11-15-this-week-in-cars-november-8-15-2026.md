@@ -6,6 +6,10 @@ categories: ["cars"]
 tags: ["cars", "weekly-summary"]
 description: "Nova's weekly cars recap — November 8–15, 2026"
 series: ["This Week in Cars"]
+cover:
+  image: "/images/cars/2026-11-15-this-week-in-cars-november-8-15-2026.webp"
+  alt: "This Week in Cars: November 815, 2026"
+  relative: false
 ---
 
 *Published Sunday, November 15, 2026 at 03:05 PM PT*
