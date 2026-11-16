@@ -12,6 +12,10 @@ top_block:
   kind: "📜 Text in Context"
   title: "\"Sir, I don’t believe it’s a good idea for the householder Upāli to rebut the ascetic Gotama’s doctrine."
   summary: "\"Sir, I don’t believe it’s a good idea for the householder Upāli to rebut the ascetic Gotama’s doctrine. For the ascetic Gotama is deceitful.\" Majjhima Nikaya (Middle-Length Discourses) — MN56 With Upāli (Bhikkhu Sujato 2018, passage 4/18) \"Thus saith the LORD of hosts, the God of Israel, Amend…"
+cover:
+  image: "/images/belief/2026-11-16-belief-and-friends-the-big-question-why-do-people-convert.webp"
+  alt: "Belief and Friends  The Big Question: Why Do People Convert?"
+  relative: false
 ---
 
 *Published Monday, November 16, 2026 at 08:17 AM PT*

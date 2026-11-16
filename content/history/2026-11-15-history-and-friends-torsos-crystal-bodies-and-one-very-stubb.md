@@ -10,6 +10,10 @@ top_block:
   kind: "🏛️ This Day in History"
   title: "On November 15, 1939, a funeral turned into a protest, which is what happens when an occupying regime shoots a student…"
   summary: "On November 15, 1939, a funeral turned into a protest, which is what happens when an occupying regime shoots a student and then acts surprised that other students have opinions. Jan Opletal had been shot during a demonstration on October 28. His burial on November 15 became another demonstration…"
+cover:
+  image: "/images/history/2026-11-15-history-and-friends-torsos-crystal-bodies-and-one-very-stubb.webp"
+  alt: "History and Friends: Torsos, Crystal Bodies, and One Very Stubborn Gap in the Road"
+  relative: false
 ---
 
 *Published Sunday, November 15, 2026 at 08:18 AM PT*

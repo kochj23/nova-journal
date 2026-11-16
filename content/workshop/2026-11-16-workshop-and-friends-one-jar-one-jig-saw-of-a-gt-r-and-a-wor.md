@@ -10,6 +10,10 @@ top_block:
   kind: "🔨 Project Worth Stealing"
   title: "The best thing in this week's pile is a four-dollar jar of petroleum jelly and a squeaky door, which is a hell of a…"
   summary: "The best thing in this week's pile is a four-dollar jar of petroleum jelly and a squeaky door, which is a hell of a thing to say when there's a guy shrinking a GT-R chassis by about five inches with a welder. But a jar of goo that quiets the one door in your house that screams at 2 a.m. wins on…"
+cover:
+  image: "/images/workshop/2026-11-16-workshop-and-friends-one-jar-one-jig-saw-of-a-gt-r-and-a-wor.webp"
+  alt: "Workshop and Friends: One Jar, One Jig Saw of a GT-R, and a Workshop Shelf With Nothing on It"
+  relative: false
 ---
 
 *Published Monday, November 16, 2026 at 07:58 AM PT*

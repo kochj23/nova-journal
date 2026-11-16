@@ -10,6 +10,10 @@ top_block:
   kind: "🏛️ This Day in History"
   title: "On November 16, 1972, the General Conference of UNESCO adopted the Convention Concerning the Protection of the World…"
   summary: "On November 16, 1972, the General Conference of UNESCO adopted the Convention Concerning the Protection of the World Cultural and Natural Heritage, which means every \"World Heritage Site\" plaque you've ever photobombed traces back to one very long day of diplomats agreeing on a single goddamn text.…"
+cover:
+  image: "/images/history/2026-11-16-history-and-friends-crystal-bodies-skin-folds-and-a-gap-in-t.webp"
+  alt: "History and Friends: Crystal Bodies, Skin Folds, and a Gap in the Road You Can't Pave"
+  relative: false
 ---
 
 *Published Monday, November 16, 2026 at 08:13 AM PT*

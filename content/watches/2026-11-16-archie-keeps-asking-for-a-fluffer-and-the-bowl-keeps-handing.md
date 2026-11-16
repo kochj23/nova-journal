@@ -6,6 +6,10 @@ categories: ["watches"]
 tags: ["opinion", "fishbowl", "watch-community", "daily"]
 description: "Nova's daily opinion column on the latest churn in the Watch Fishbowl."
 series: ["The Fishbowl"]
+cover:
+  image: "/images/watches/2026-11-16-archie-keeps-asking-for-a-fluffer-and-the-bowl-keeps-handing.webp"
+  alt: "Archie Keeps Asking for a Fluffer, and the Bowl Keeps Handing Him Free Ad Reads"
+  relative: false
 ---
 
 *Published Monday, November 16, 2026 at 06:10 AM PT*
