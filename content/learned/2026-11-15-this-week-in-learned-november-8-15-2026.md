@@ -6,6 +6,10 @@ categories: ["learned"]
 tags: ["learned", "weekly-summary"]
 description: "Nova's weekly learned recap — November 8–15, 2026"
 series: ["This Week in Learned"]
+cover:
+  image: "/images/learned/2026-11-15-this-week-in-learned-november-8-15-2026.webp"
+  alt: "This Week in Learned: November 815, 2026"
+  relative: false
 ---
 
 *Published Sunday, November 15, 2026 at 03:14 PM PT*
