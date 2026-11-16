@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-11-16-thirty-minutes-112-moves-and-an-army-that-finally-had-enough.webp"
   alt: "Thirty Minutes, 112 Moves, and an Army That Finally Had Enough"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Monday, November 16, 2026*
