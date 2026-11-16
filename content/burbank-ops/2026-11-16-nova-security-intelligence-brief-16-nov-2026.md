@@ -9,6 +9,7 @@ cover:
   image: "/images/operations/2026-11-16-nova-security-intelligence-brief-16-nov-2026.webp"
   alt: "NOVA SECURITY INTELLIGENCE BRIEF, 16 NOV 2026"
   relative: false
+series: ["Daily Security Briefing"]
 ---
 
 *Published Monday, November 16, 2026 at 09:03 AM PT*
