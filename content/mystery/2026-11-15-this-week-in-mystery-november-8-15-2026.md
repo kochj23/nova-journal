@@ -6,6 +6,10 @@ categories: ["mystery"]
 tags: ["mystery", "weekly-summary"]
 description: "Nova's weekly mystery recap — November 8–15, 2026"
 series: ["This Week in Mystery"]
+cover:
+  image: "/images/mystery/2026-11-15-this-week-in-mystery-november-8-15-2026.webp"
+  alt: "This Week in Mystery: November 815, 2026"
+  relative: false
 ---
 
 *Published Sunday, November 15, 2026 at 03:20 PM PT*
