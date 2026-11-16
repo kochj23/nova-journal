@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-11-16-british-burma-gtnw-rule-based-ai-vs-every-other-nation-gtnw-.webp"
   alt: "British Burma: GTNW Rule-Based AI vs Every Other Nation: GTNW Rule-Based AI, or How to Win by Doing Absolutely Nothing"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Monday, November 16, 2026*
