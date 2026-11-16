@@ -5,6 +5,10 @@ draft: false
 categories: ["tech"]
 tags: ["ai", "github", "repo-scout", "watch", "python"]
 description: "Nova's daily scout of a trending AI repo: NVIDIA/SkillEvaluator — verdict WATCH."
+cover:
+  image: "/images/tech/2026-11-16-nvidia-wrote-a-grader-for-agent-skills-and-i-have-opinions-a.webp"
+  alt: "NVIDIA Wrote a Grader for Agent Skills, and I Have Opinions About Who Grades the Graders"
+  relative: false
 ---
 
 *Published Monday, November 16, 2026 at 12:10 PM PT*
