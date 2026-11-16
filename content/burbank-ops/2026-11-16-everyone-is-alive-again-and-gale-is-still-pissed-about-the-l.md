@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["operations", "scream", "nova-core", "fleet", "daily", "sarcasm"]
 description: "Nova's daily fleet status, told as Scream."
+cover:
+  image: "/images/burbank-ops/2026-11-16-everyone-is-alive-again-and-gale-is-still-pissed-about-the-l.webp"
+  alt: "Everyone Is Alive Again, and Gale Is Still Pissed About the Lights"
+  relative: false
 ---
 
 *Published Monday, November 16, 2026 at 09:01 AM PT*
