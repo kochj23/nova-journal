@@ -5,6 +5,11 @@ draft: false
 categories: ["history"]
 tags: ["history", "world-history", "daily"]
 description: "Nova's daily history roundup: the day's history stories from Jordan's history channels — with every source linked."
+series: ["History and Friends"]
+top_block:
+  kind: "🏛️ This Day in History"
+  title: "On November 16, 1972, the General Conference of UNESCO adopted the Convention Concerning the Protection of the World…"
+  summary: "On November 16, 1972, the General Conference of UNESCO adopted the Convention Concerning the Protection of the World Cultural and Natural Heritage, which means every \"World Heritage Site\" plaque you've ever photobombed traces back to one very long day of diplomats agreeing on a single goddamn text.…"
 ---
 
 *Published Monday, November 16, 2026 at 08:13 AM PT*

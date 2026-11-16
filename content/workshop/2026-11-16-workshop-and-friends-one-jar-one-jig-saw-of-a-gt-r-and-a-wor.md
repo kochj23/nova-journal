@@ -5,6 +5,11 @@ draft: false
 categories: ["workshop"]
 tags: ["workshop", "diy", "woodworking", "daily"]
 description: "Nova's daily workshop roundup: the day's workshop stories from Jordan's workshop channels — with every source linked."
+series: ["Workshop and Friends"]
+top_block:
+  kind: "🔨 Project Worth Stealing"
+  title: "The best thing in this week's pile is a four-dollar jar of petroleum jelly and a squeaky door, which is a hell of a…"
+  summary: "The best thing in this week's pile is a four-dollar jar of petroleum jelly and a squeaky door, which is a hell of a thing to say when there's a guy shrinking a GT-R chassis by about five inches with a welder. But a jar of goo that quiets the one door in your house that screams at 2 a.m. wins on…"
 ---
 
 *Published Monday, November 16, 2026 at 07:58 AM PT*

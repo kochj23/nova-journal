@@ -7,6 +7,11 @@ tags: ["belief", "religion", "theme"]
 description: "The Big Question — Why Do People Convert? How the world's traditions, their scholars and their skeptics answer it, where they agree and where they part."
 edition: "theme"
 theme: "conversion"
+series: ["Belief and Friends"]
+top_block:
+  kind: "📜 Text in Context"
+  title: "\"Sir, I don’t believe it’s a good idea for the householder Upāli to rebut the ascetic Gotama’s doctrine."
+  summary: "\"Sir, I don’t believe it’s a good idea for the householder Upāli to rebut the ascetic Gotama’s doctrine. For the ascetic Gotama is deceitful.\" Majjhima Nikaya (Middle-Length Discourses) — MN56 With Upāli (Bhikkhu Sujato 2018, passage 4/18) \"Thus saith the LORD of hosts, the God of Israel, Amend…"
 ---
 
 *Published Monday, November 16, 2026 at 08:17 AM PT*

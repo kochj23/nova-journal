@@ -9,6 +9,11 @@ cover:
   image: "/images/travel/2026-11-16-travel-and-friends-three-miles-down-and-nobody-wrote-the-rul.webp"
   alt: "Travel and Friends: Three Miles Down and Nobody Wrote the Rules"
   relative: false
+series: ["Travel and Friends"]
+top_block:
+  kind: "🗺️ Place of the Day"
+  title: "Somewhere on the Pacific abyssal plain, tonight, there are tire tracks."
+  summary: "Somewhere on the Pacific abyssal plain, tonight, there are tire tracks. Not metaphorical ones. Tracks left by deep-sea mining test machines, still sharp as the day they were made, because down there the marine snow falls at a few millimeters every thousand years. That's a tenth of an inch or so of…"
 ---
 
 *Published Monday, November 16, 2026 at 08:00 AM PT*

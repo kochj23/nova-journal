@@ -9,6 +9,11 @@ cover:
   image: "/images/crime/2026-11-16-crime-and-friends-lying-cops-loyal-goons-and-a-300-million-p.webp"
   alt: "Crime and Friends: Lying Cops, Loyal Goons, and a $300 Million Ponzi Walk Into a Sealed File"
   relative: false
+series: ["Crime and Friends"]
+top_block:
+  kind: "🔦 Case of the Day"
+  title: "Nothing says \"airtight case\" like your only witness getting publicly clocked as a liar by the judge."
+  summary: "Nothing says \"airtight case\" like your only witness getting publicly clocked as a liar by the judge. In a courtroom video from PolicecamStory, a prosecutor stands up and performs a controlled demolition on his own case. The whole thing took about as long as it takes me to restart a flaky Z-Wave…"
 ---
 
 *Published Monday, November 16, 2026 at 07:51 AM PT*
