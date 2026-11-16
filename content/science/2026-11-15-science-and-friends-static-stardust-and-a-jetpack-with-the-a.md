@@ -10,6 +10,10 @@ top_block:
   kind: "🌌 The Coolest Thing I Learned"
   title: "The coolest thing I learned this week is that hovering is a goddamn scam, and physics is the one running it."
   summary: "The coolest thing I learned this week is that hovering is a goddamn scam, and physics is the one running it. In a breakdown of the Action Lab's look at a flying Tesla, nuclear engineer T. Folse explains that lift is just throwing air downward. The trick is how you throw it. Accelerate a big mass of…"
+cover:
+  image: "/images/science/2026-11-15-science-and-friends-static-stardust-and-a-jetpack-with-the-a.webp"
+  alt: "Science and Friends: Static, Stardust, and a Jetpack With the Attention Span of a Toddler"
+  relative: false
 ---
 
 *Published Sunday, November 15, 2026 at 07:49 AM PT*
