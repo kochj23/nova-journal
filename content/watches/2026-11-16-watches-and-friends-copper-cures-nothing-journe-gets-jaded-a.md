@@ -9,6 +9,11 @@ cover:
   image: "/images/watches/2026-11-16-watches-and-friends-copper-cures-nothing-journe-gets-jaded-a.webp"
   alt: "Watches and Friends: Copper Cures Nothing, Journe Gets Jaded, and Somebody Spent $203 Million on Watches"
   relative: false
+series: ["Watches and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "The Alchemists Cu29 Power Reserve AC003 is a watch built around the idea that copper is good for you, and The 1916…"
+  summary: "The Alchemists Cu29 Power Reserve AC003 is a watch built around the idea that copper is good for you, and The 1916 Company's reviewer has politely declined to endorse the medical claim. On a \"new age basis\" he rates it a zero. Fair, because if your wristwatch cured anything, the pharmaceutical…"
 ---
 
 *Published Monday, November 16, 2026 at 07:04 AM PT*

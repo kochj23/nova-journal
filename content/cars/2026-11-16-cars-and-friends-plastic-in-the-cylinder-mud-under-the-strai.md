@@ -9,6 +9,11 @@ cover:
   image: "/images/cars/2026-11-16-cars-and-friends-plastic-in-the-cylinder-mud-under-the-strai.webp"
   alt: "Cars and Friends: Plastic in the Cylinder, Mud Under the Strait, and a $1,000 Argument Nobody Could Hear"
   relative: false
+series: ["Cars and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "The most interesting car news of the day is a boutique French-fry-sized hypercar that weighs less than a tonne (call it…"
+  summary: "The most interesting car news of the day is a boutique French-fry-sized hypercar that weighs less than a tonne (call it 2,200 pounds, a number most modern crossovers would rather not discuss). It makes 600 horsepower and comes from Donkervoort, and DRIVETRIBE got a close look at it. Only 150 will…"
 ---
 
 *Published Monday, November 16, 2026 at 07:10 AM PT*

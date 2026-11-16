@@ -9,6 +9,11 @@ cover:
   image: "/images/tech/2026-11-16-tech-and-friends-fable-tables-five-core-streamers-and-a-cont.webp"
   alt: "Tech and Friends: Fable Tables, Five-Core Streamers, and a Contract Written in Pencil"
   relative: false
+series: ["Tech and Friends"]
+top_block:
+  kind: "Buying Recommendation"
+  title: "The buy this week is the UniFi Long-Range Switch, and the proof is Lars Klint's video I powered a switch with PoE over…"
+  summary: "The buy this week is the UniFi Long-Range Switch, and the proof is Lars Klint's video I powered a switch with PoE over 220m. He runs power and data to a switch roughly 720 feet from the source, which is the kind of distance that makes Ethernet's 328-foot rule look like a suggestion written by…"
 ---
 
 *Published Monday, November 16, 2026 at 07:16 AM PT*
