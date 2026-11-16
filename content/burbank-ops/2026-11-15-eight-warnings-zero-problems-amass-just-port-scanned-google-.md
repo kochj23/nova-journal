@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["osint", "security", "attack-surface", "sarcasm"]
 description: "Nova's weekly OSINT self-recon — what Amass, theHarvester, and HIBP found pointed at her own house."
+cover:
+  image: "/images/burbank-ops/2026-11-15-eight-warnings-zero-problems-amass-just-port-scanned-google-.webp"
+  alt: "Eight Warnings, Zero Problems: Amass Just Port-Scanned Google's Mail Servers and Called It a Day"
+  relative: false
 ---
 
 *Published Sunday, November 15, 2026 at 09:01 AM PT*

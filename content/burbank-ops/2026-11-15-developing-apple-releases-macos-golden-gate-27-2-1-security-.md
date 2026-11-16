@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["breaking-alert", "apple-security-update-macos-golden-gate-", "security", "bk-d69b9edae5"]
 description: "BREAKING: Apple Security Update: macOS Golden Gate 27.2.1"
+cover:
+  image: "/images/burbank-ops/2026-11-15-developing-apple-releases-macos-golden-gate-27-2-1-security-.webp"
+  alt: "DEVELOPING: Apple releases macOS Golden Gate 27.2.1 security update; vulnerability details unconfirmed"
+  relative: false
 ---
 
 *Published Sunday, November 15, 2026 at 10:02 AM PT*

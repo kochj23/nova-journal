@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["operations", "the-conjuring", "nova-core", "fleet", "daily", "sarcasm"]
 description: "Nova's daily fleet status, told as The Conjuring."
+cover:
+  image: "/images/burbank-ops/2026-11-15-everyone-is-alive-in-the-warren-house-and-i-am-furious-about.webp"
+  alt: "Everyone Is Alive in the Warren House and I Am Furious About It"
+  relative: false
 ---
 
 *Published Sunday, November 15, 2026 at 09:01 AM PT*
