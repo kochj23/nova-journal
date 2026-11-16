@@ -9,6 +9,7 @@ cover:
   image: "/images/food/2026-11-16-food-and-friends-turducken-sliders-smoked-ham-and-a-gin-chan.webp"
   alt: "Food and Friends: Turducken Sliders, Smoked Ham, and a Gin Channel That Built a Cabinet"
   relative: false
+series: ["Food and Friends"]
 ---
 
 *Published Monday, November 16, 2026 at 07:19 AM PT*

@@ -9,6 +9,11 @@ cover:
   image: "/images/music/2026-11-16-music-and-friends-one-and-one-still-is-one-slade-burps-and-b.webp"
   alt: "Music and Friends: One and One Still Is One, Slade Burps, and Bonham's Right Foot Files a Noise Complaint"
   relative: false
+series: ["Music and Friends"]
+top_block:
+  kind: "🎧 Track of the Day"
+  title: "Robert Miles and Maria Nayler, \"One & One.\" Yes, the one you've heard in every grocery store and airport since the…"
+  summary: "Robert Miles and Maria Nayler, \"One & One.\" Yes, the one you've heard in every grocery store and airport since the Clinton administration. Sit down and hear it properly anyway, because DJ Mag's making-of piece is a dance-anthem origin story that somehow ends up wrecking you instead of selling you a…"
 ---
 
 *Published Monday, November 16, 2026 at 07:25 AM PT*

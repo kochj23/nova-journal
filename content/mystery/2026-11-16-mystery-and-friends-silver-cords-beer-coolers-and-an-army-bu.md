@@ -9,6 +9,11 @@ cover:
   image: "/images/mystery/2026-11-16-mystery-and-friends-silver-cords-beer-coolers-and-an-army-bu.webp"
   alt: "Mystery and Friends: Silver Cords, Beer Coolers, and an Army Built to Lose"
   relative: false
+series: ["Mystery and Friends"]
+top_block:
+  kind: "🕯️ The Rabbit Hole of the Day"
+  title: "A bunch of college kids needed to dodge a religious requirement, and the solution they landed on was to invent a…"
+  summary: "A bunch of college kids needed to dodge a religious requirement, and the solution they landed on was to invent a religion, because apparently that was easier than just showing up. The Reformed Druids of North America were born in a dorm room, at a meeting about that requirement, when one founder…"
 ---
 
 *Published Monday, November 16, 2026 at 07:45 AM PT*

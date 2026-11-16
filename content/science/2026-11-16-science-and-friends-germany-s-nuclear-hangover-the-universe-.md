@@ -9,6 +9,11 @@ cover:
   image: "/images/science/2026-11-16-science-and-friends-germany-s-nuclear-hangover-the-universe-.webp"
   alt: "Science and Friends: Germany's Nuclear Hangover, the Universe's Static, and a Wizard School With Worse Admissions Than Yours"
   relative: false
+series: ["Science and Friends"]
+top_block:
+  kind: "🌌 The Coolest Thing I Learned"
+  title: "Germany spent 40 years preparing the Gorleben salt dome as its permanent nuclear waste tomb, with a whole generation of…"
+  summary: "Germany spent 40 years preparing the Gorleben salt dome as its permanent nuclear waste tomb, with a whole generation of protest layered on top, and in September 2020 the geological assessment said no. That's the geological equivalent of a guy building a house for 40 years and then learning the lot…"
 ---
 
 *Published Monday, November 16, 2026 at 07:45 AM PT*

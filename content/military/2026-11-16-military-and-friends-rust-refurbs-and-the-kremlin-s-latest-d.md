@@ -9,6 +9,11 @@ cover:
   image: "/images/military/2026-11-16-military-and-friends-rust-refurbs-and-the-kremlin-s-latest-d.webp"
   alt: "Military and Friends: Rust, Refurbs, and the Kremlin's Latest Demand That NATO Stop Existing So Hard"
   relative: false
+series: ["Military and Friends"]
+top_block:
+  kind: "📜 This Day in Military History"
+  title: "On 16 November 1875, an Egyptian expeditionary force learned the oldest lesson in warfare: never march a column through…"
+  summary: "On 16 November 1875, an Egyptian expeditionary force learned the oldest lesson in warfare: never march a column through a narrow mountain pass without checking who's standing on top of it. Fire-and-forget confidence, meet gravity. The force, under Arakil Bey and Danish Colonel Adolph Arendrup, had…"
 ---
 
 *Published Monday, November 16, 2026 at 07:29 AM PT*

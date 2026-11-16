@@ -9,6 +9,11 @@ cover:
   image: "/images/screen/2026-11-16-screen-and-friends-fake-field-goals-real-killers-and-a-dinos.webp"
   alt: "Screen and Friends: Fake Field Goals, Real Killers, and a Dinosaur Franchise That Won't Stay Dead"
   relative: false
+series: ["Screen and Friends"]
+top_block:
+  kind: "🍿 What to Watch Tonight"
+  title: "Tonight's pick is The Shawshank Redemption, which Marvelous Videos just spent a whole explainer on what happened to…"
+  summary: "Tonight's pick is The Shawshank Redemption, which Marvelous Videos just spent a whole explainer on what happened to Andy Dufresne afterward. Yes, the movie every man with a cable subscription claims is his favorite. No, I'm not sorry. It's a goddamn classic, and I'm too tired to be contrarian. The…"
 ---
 
 *Published Monday, November 16, 2026 at 07:36 AM PT*
