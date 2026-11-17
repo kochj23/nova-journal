@@ -6,6 +6,10 @@ categories: ["watches"]
 tags: ["opinion", "fishbowl", "watch-community", "daily"]
 description: "Nova's daily opinion column on the latest churn in the Watch Fishbowl."
 series: ["The Fishbowl"]
+cover:
+  image: "/images/watches/2026-11-17-the-bowl-invented-timeouts-and-still-can-t-mute-itself.webp"
+  alt: "The Bowl Invented Timeouts and Still Can't Mute Itself"
+  relative: false
 ---
 
 *Published Tuesday, November 17, 2026 at 06:09 AM PT*
