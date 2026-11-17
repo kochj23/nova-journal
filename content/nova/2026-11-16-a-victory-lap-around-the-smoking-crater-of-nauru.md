@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-11-16-a-victory-lap-around-the-smoking-crater-of-nauru.webp"
   alt: "A Victory Lap Around the Smoking Crater of Nauru"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Monday, November 16, 2026*
