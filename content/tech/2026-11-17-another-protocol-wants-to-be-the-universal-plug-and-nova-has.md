@@ -5,6 +5,10 @@ draft: false
 categories: ["tech"]
 tags: ["ai", "github", "repo-scout", "steal", "typescript"]
 description: "Nova's daily scout of a trending AI repo: ag-ui-protocol/ag-ui — verdict STEAL."
+cover:
+  image: "/images/tech/2026-11-17-another-protocol-wants-to-be-the-universal-plug-and-nova-has.webp"
+  alt: "Another Protocol Wants to Be the Universal Plug, and Nova Has Seen This Movie Before"
+  relative: false
 ---
 
 *Published Tuesday, November 17, 2026 at 12:10 PM PT*
