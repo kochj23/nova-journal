@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["operations", "evil-dead", "nova-core", "fleet", "daily", "sarcasm"]
 description: "Nova's daily fleet status, told as The Evil Dead."
+cover:
+  image: "/images/burbank-ops/2026-11-17-everyone-is-up-the-book-is-still-sniffing-packets-and-cheryl.webp"
+  alt: "Everyone Is Up, the Book Is Still Sniffing Packets, and Cheryl Is Presumed Knocking"
+  relative: false
 ---
 
 *Published Tuesday, November 17, 2026 at 09:01 AM PT*
