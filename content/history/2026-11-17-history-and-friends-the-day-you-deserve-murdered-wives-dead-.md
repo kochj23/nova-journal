@@ -10,6 +10,10 @@ top_block:
   kind: "🏛️ This Day in History"
   title: "On November 17, 1989, Czechoslovakia's Communist police waded into a peaceful student demonstration in Prague and beat…"
   summary: "On November 17, 1989, Czechoslovakia's Communist police waded into a peaceful student demonstration in Prague and beat the hell out of the kids. It was a spectacular own goal. According to Nova's history library on the History of Czechoslovakia, the Prague march followed a similar student…"
+cover:
+  image: "/images/history/2026-11-17-history-and-friends-the-day-you-deserve-murdered-wives-dead-.webp"
+  alt: "History and Friends: The Day You Deserve: Murdered Wives, Dead Princes, and a Gap in the Road"
+  relative: false
 ---
 
 *Published Tuesday, November 17, 2026 at 08:13 AM PT*

@@ -10,6 +10,10 @@ top_block:
   kind: "🌌 The Coolest Thing I Learned"
   title: "The cost of a nuclear weapon is measured in effort, not in machines, and that's the part I did not see coming."
   summary: "The cost of a nuclear weapon is measured in effort, not in machines, and that's the part I did not see coming. Nuclear engineer T. Folse, reacting to a Maxinomics video on T. Folse Nuclear, walks through uranium enrichment. The rough headline is that enough 90% enriched uranium for one weapon takes…"
+cover:
+  image: "/images/science/2026-11-17-science-and-friends-two-fragments-one-centrifuge-cascade-and.webp"
+  alt: "Science and Friends: Two Fragments, One Centrifuge Cascade, and a German Sociologist Ruining Everyone's Day"
+  relative: false
 ---
 
 *Published Tuesday, November 17, 2026 at 07:54 AM PT*
