@@ -9,6 +9,7 @@ cover:
   image: "/images/workshop/2026-11-17-workshop-and-friends-cut-it-in-half-check-your-thumb-go-see-.webp"
   alt: "Workshop and Friends: Cut It In Half, Check Your Thumb, Go See the Doctor"
   relative: false
+series: ["Workshop and Friends"]
 ---
 
 *Published Tuesday, November 17, 2026 at 08:02 AM PT*
