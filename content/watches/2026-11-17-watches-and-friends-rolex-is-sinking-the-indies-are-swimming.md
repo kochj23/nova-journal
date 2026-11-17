@@ -10,6 +10,10 @@ top_block:
   kind: "The Big Story"
   title: "Rolex prices are sliding, and according to Federico of Federico Talks Watches, the money isn't going to hell."
   summary: "Rolex prices are sliding, and according to Federico of Federico Talks Watches, the money isn't going to hell. It's going indie. In his latest video, \"Rolex Prices Are Dropping... Who Is Actually UP?\", he walks through who's winning while the crown loses its grip on the secondary market, and the…"
+cover:
+  image: "/images/watches/2026-11-17-watches-and-friends-rolex-is-sinking-the-indies-are-swimming.webp"
+  alt: "Watches and Friends: Rolex Is Sinking, the Indies Are Swimming, and Meow Wolf Wandered Into the Wrong Omega"
+  relative: false
 ---
 
 *Published Tuesday, November 17, 2026 at 07:08 AM PT*
