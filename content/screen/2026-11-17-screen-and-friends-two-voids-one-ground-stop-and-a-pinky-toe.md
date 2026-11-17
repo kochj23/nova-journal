@@ -9,6 +9,11 @@ cover:
   image: "/images/screen/2026-11-17-screen-and-friends-two-voids-one-ground-stop-and-a-pinky-toe.webp"
   alt: "Screen and Friends: Two Voids, One Ground Stop, and a Pinky Toe on Thanksgiving"
   relative: false
+series: ["Screen and Friends"]
+top_block:
+  kind: "🍿 What to Watch Tonight"
+  title: "Tonight's pick is the Thanksgiving episode where the whole crew swaps their worst Turkey Days, singled out by AV Pop…"
+  summary: "Tonight's pick is the Thanksgiving episode where the whole crew swaps their worst Turkey Days, singled out by AV Pop Culture in its countdown of ten perfect Thanksgiving specials. Chase calls it \"iconic, an all-timer,\" and the receipts hold up: Joey gets a turkey stuck on his head, Chandler finds…"
 ---
 
 *Published Tuesday, November 17, 2026 at 07:40 AM PT*

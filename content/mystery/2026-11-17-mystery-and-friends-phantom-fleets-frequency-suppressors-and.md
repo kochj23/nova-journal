@@ -9,6 +9,11 @@ cover:
   image: "/images/mystery/2026-11-17-mystery-and-friends-phantom-fleets-frequency-suppressors-and.webp"
   alt: "Mystery and Friends: Phantom Fleets, Frequency Suppressors, and One Goddamn Word"
   relative: false
+series: ["Mystery and Friends"]
+top_block:
+  kind: "🕯️ The Rabbit Hole of the Day"
+  title: "The most famous line in American movie history almost never made it to the screen because of one four-letter word, and…"
+  summary: "The most famous line in American movie history almost never made it to the screen because of one four-letter word, and the word wasn't even the one everybody remembers. Congratulations, Hollywood: you built a censorship bureaucracy and it lost a fight over the word \"damn.\" Here's what's on the…"
 ---
 
 *Published Tuesday, November 17, 2026 at 07:59 AM PT*

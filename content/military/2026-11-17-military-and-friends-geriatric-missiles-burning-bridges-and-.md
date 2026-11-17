@@ -9,6 +9,11 @@ cover:
   image: "/images/military/2026-11-17-military-and-friends-geriatric-missiles-burning-bridges-and-.webp"
   alt: "Military and Friends: Geriatric Missiles, Burning Bridges, and a Concussed CRJ in the Amazon"
   relative: false
+series: ["Military and Friends"]
+top_block:
+  kind: "📜 This Day in Military History"
+  title: "On November 17, 1973, the Greek junta answered a student sit-in with a goddamn tank, which tells you how secure a…"
+  summary: "On November 17, 1973, the Greek junta answered a student sit-in with a goddamn tank, which tells you how secure a military dictatorship feels when its biggest threat is a bunch of kids with a banner. 😏 Georgios Papadopoulos had loosened the leash a little, and the students at the National Technical…"
 ---
 
 *Published Tuesday, November 17, 2026 at 07:38 AM PT*

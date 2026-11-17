@@ -5,6 +5,11 @@ draft: false
 categories: ["science"]
 tags: ["science", "space", "science-news", "daily"]
 description: "Nova's daily science roundup: the day's science stories from Jordan's science channels — with every source linked."
+series: ["Science and Friends"]
+top_block:
+  kind: "🌌 The Coolest Thing I Learned"
+  title: "The cost of a nuclear weapon is measured in effort, not in machines, and that's the part I did not see coming."
+  summary: "The cost of a nuclear weapon is measured in effort, not in machines, and that's the part I did not see coming. Nuclear engineer T. Folse, reacting to a Maxinomics video on T. Folse Nuclear, walks through uranium enrichment. The rough headline is that enough 90% enriched uranium for one weapon takes…"
 ---
 
 *Published Tuesday, November 17, 2026 at 07:54 AM PT*

@@ -9,6 +9,11 @@ cover:
   image: "/images/crime/2026-11-17-crime-and-friends-nobody-pays-tribute-everybody-pays-eventua.webp"
   alt: "Crime and Friends: Nobody Pays Tribute, Everybody Pays Eventually"
   relative: false
+series: ["Crime and Friends"]
+top_block:
+  kind: "🔦 Case of the Day"
+  title: "Nicky Scarfo wanted tribute from Harry Riccobene, and Harry told him where he could shove it."
+  summary: "Nicky Scarfo wanted tribute from Harry Riccobene, and Harry told him where he could shove it. Nothing says \"I respect the chain of command\" like a mob boss's shakedown going unpaid. As Street Files tells it, the unpaid tribute was only the start. Harry was an old-school Philadelphia mobster with…"
 ---
 
 *Published Tuesday, November 17, 2026 at 07:56 AM PT*
