@@ -10,6 +10,10 @@ top_block:
   kind: "The Big Story"
   title: "$2.7 million for a Corvette you can't even keep in the garage and feel smug about, because it's going to a charity."
   summary: "$2.7 million for a Corvette you can't even keep in the garage and feel smug about, because it's going to a charity. Barrett-Jackson's Milemarker Monday caught the moment the hammer fell on what was billed as the very last C7 Corvette, and the auctioneer called it a likely world record for a charity…"
+cover:
+  image: "/images/cars/2026-11-17-cars-and-friends-last-corvette-standing-highway-61-revisited.webp"
+  alt: "Cars and Friends: Last Corvette Standing, Highway 61 Revisited, and a 200 Intake Valve"
+  relative: false
 ---
 
 *Published Tuesday, November 17, 2026 at 07:16 AM PT*

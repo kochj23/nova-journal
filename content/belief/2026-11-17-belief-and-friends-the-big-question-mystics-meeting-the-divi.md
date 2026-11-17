@@ -12,6 +12,10 @@ top_block:
   kind: "📜 Text in Context"
   title: "They live without wishes in this very life, quenched, cooled, experiencing bliss, with self become divine."
   summary: "They live without wishes in this very life, quenched, cooled, experiencing bliss, with self become divine. Majjhima Nikaya (Middle-Length Discourses) — MN94 With Ghoṭamukha (Bhikkhu Sujato 2018, passage 14/15) Its people were without desires or cravings; they simply followed their natural…"
+cover:
+  image: "/images/belief/2026-11-17-belief-and-friends-the-big-question-mystics-meeting-the-divi.webp"
+  alt: "Belief and Friends  The Big Question: Mystics: Meeting the Divine Directly"
+  relative: false
 ---
 
 *Published Tuesday, November 17, 2026 at 08:17 AM PT*
