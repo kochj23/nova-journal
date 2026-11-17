@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["gtnw", "games", "release-notes", "ops"]
 description: "GTNW went from 3.27.1 to 3.30.0 in one day: islands, empires that pay, 57 faiths, wars that need roads, Ukraine that holds, a daily world brief, and 803 wars of history."
+cover:
+  image: "/images/burbank-ops/2026-11-16-five-releases-thirty-two-islands-and-a-latter-day-saint-cuba.webp"
+  alt: "Five Releases, Thirty-Two Islands and a Latter-day Saint Cuba: GTNW's Very Long Monday"
+  relative: false
 ---
 
 *Published Monday, November 16, 2026 at 10:15 PM PT*
