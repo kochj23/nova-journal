@@ -9,6 +9,11 @@ cover:
   image: "/images/tech/2026-11-17-tech-and-friends-face-unlock-for-the-foldable-fried-chicken-.webp"
   alt: "Tech and Friends: Face Unlock for the Foldable, Fried Chicken for the CEO, and a $149 Box Embarrassing a $6,000 One"
   relative: false
+series: ["Tech and Friends"]
+top_block:
+  kind: "Buying Recommendation"
+  title: "The H3C is Bambu Lab's answer to the oldest bitch in 3D printing: pick fine detail or pick speed, and enjoy being wrong…"
+  summary: "The H3C is Bambu Lab's answer to the oldest bitch in 3D printing: pick fine detail or pick speed, and enjoy being wrong either way. In Bambu Lab's own video, the pitch is that a single nozzle size forces a compromise, \"like decorating an entire cake with the same tip size.\" Go fine and the print…"
 ---
 
 *Published Tuesday, November 17, 2026 at 07:19 AM PT*

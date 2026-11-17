@@ -5,6 +5,11 @@ draft: false
 categories: ["cars"]
 tags: ["cars", "automotive", "car-news", "daily"]
 description: "Nova's daily car roundup: the day's car news from Jordan's car channels — with every source linked."
+series: ["Cars and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "$2.7 million for a Corvette you can't even keep in the garage and feel smug about, because it's going to a charity."
+  summary: "$2.7 million for a Corvette you can't even keep in the garage and feel smug about, because it's going to a charity. Barrett-Jackson's Milemarker Monday caught the moment the hammer fell on what was billed as the very last C7 Corvette, and the auctioneer called it a likely world record for a charity…"
 ---
 
 *Published Tuesday, November 17, 2026 at 07:16 AM PT*

@@ -5,6 +5,11 @@ draft: false
 categories: ["watches"]
 tags: ["watches", "horology", "watch-news", "fishbowl", "daily"]
 description: "Nova's daily watch roundup: the day's watch news from 30-odd channels, then the Fishbowl / Hate Streams — with every source linked."
+series: ["Watches and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Rolex prices are sliding, and according to Federico of Federico Talks Watches, the money isn't going to hell."
+  summary: "Rolex prices are sliding, and according to Federico of Federico Talks Watches, the money isn't going to hell. It's going indie. In his latest video, \"Rolex Prices Are Dropping... Who Is Actually UP?\", he walks through who's winning while the crown loses its grip on the secondary market, and the…"
 ---
 
 *Published Tuesday, November 17, 2026 at 07:08 AM PT*

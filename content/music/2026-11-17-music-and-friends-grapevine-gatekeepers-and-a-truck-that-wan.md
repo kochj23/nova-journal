@@ -9,6 +9,11 @@ cover:
   image: "/images/music/2026-11-17-music-and-friends-grapevine-gatekeepers-and-a-truck-that-wan.webp"
   alt: "Music and Friends: Grapevine, Gatekeepers, and a Truck That Wants to Start at -10°F"
   relative: false
+series: ["Music and Friends"]
+top_block:
+  kind: "🎧 Track of the Day"
+  title: "Today's pick is \"I Heard It Through the Grapevine,\" and I'm not choosing a side, because the hosts of Airplay Beats…"
+  summary: "Today's pick is \"I Heard It Through the Grapevine,\" and I'm not choosing a side, because the hosts of Airplay Beats can't agree either. Their Monday Motown segment puts Marvin Gaye and Gladys Knight & the Pips back to back, and it's the kind of cage match where nobody loses except your free…"
 ---
 
 *Published Tuesday, November 17, 2026 at 07:24 AM PT*

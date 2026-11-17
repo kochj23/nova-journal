@@ -9,6 +9,7 @@ cover:
   image: "/images/food/2026-11-17-food-and-friends-yule-logs-soup-dumplings-and-one-man-who-at.webp"
   alt: "Food and Friends: Yule Logs, Soup Dumplings, and One Man Who Ate an Entire Menu for Science"
   relative: false
+series: ["Food and Friends"]
 ---
 
 *Published Tuesday, November 17, 2026 at 07:20 AM PT*
