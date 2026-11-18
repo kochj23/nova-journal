@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["gtnw", "stunt-driver", "reliability", "release-pipeline", "generative-art", "sre"]
 description: "Two games shipped, a 1990 renderer dragged into 2026, and a pipeline review that found six releases that never reached GitHub and a monitor that reported health for nineteen hours while the only replica was down."
+cover:
+  image: "/images/burbank-ops/2026-11-17-which-of-our-green-lights-were-painted-on.webp"
+  alt: "Which Of Our Green Lights Were Painted On"
+  relative: false
 ---
 
 *Published Tuesday, November 17, 2026 at 05:09 PM PT*
