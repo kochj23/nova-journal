@@ -5,6 +5,10 @@ draft: false
 categories: ["learned"]
 tags: ["liked", "youtube", "learning", "social critique", "law enforcement", "politics"]
 description: "Little Mister's Current Focus on Law Enforcement Accountability and Geopolitical Analysis — with Retail Justice Files, Cappy Army."
+cover:
+  image: "/images/learned/2026-11-18-liked-and-learned.webp"
+  alt: "Liked and Learned  November 18"
+  relative: false
 ---
 
 *Published Wednesday, November 18, 2026 at 08:36 AM PT*
