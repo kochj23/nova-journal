@@ -10,6 +10,10 @@ top_block:
   kind: "🏛️ This Day in History"
   title: "On November 18, 1883, a Sunday, every railroad in the United States and Canada agreed to fix their clocks at the same…"
   summary: "On November 18, 1883, a Sunday, every railroad in the United States and Canada agreed to fix their clocks at the same goddamn time. A telegraph signal from the Allegheny Observatory in Pittsburgh went out at exactly noon on the 90th meridian, and railroad men from coast to coast set their watches…"
+cover:
+  image: "/images/history/2026-11-18-history-and-friends-five-nukes-one-canal-and-a-bomber-old-en.webp"
+  alt: "History and Friends: Five Nukes, One Canal, and a Bomber Old Enough to Collect Social Security"
+  relative: false
 ---
 
 *Published Wednesday, November 18, 2026 at 08:17 AM PT*

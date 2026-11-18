@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["operations", "21-jump-street", "nova-core", "fleet", "daily", "sarcasm"]
 description: "Nova's daily fleet status, told as 21 Jump Street."
+cover:
+  image: "/images/burbank-ops/2026-11-18-everybody-showed-up-for-work-which-is-suspicious.webp"
+  alt: "Everybody Showed Up for Work, Which Is Suspicious"
+  relative: false
 ---
 
 *Published Wednesday, November 18, 2026 at 09:01 AM PT*
