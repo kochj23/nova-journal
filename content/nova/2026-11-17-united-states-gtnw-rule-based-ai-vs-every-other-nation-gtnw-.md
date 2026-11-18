@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-11-17-united-states-gtnw-rule-based-ai-vs-every-other-nation-gtnw-.webp"
   alt: "United States: GTNW Rule-Based AI vs Every Other Nation: GTNW Rule-Based AI, a 1,504-Turn Clinic in How to Lose Easy Mode"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Tuesday, November 17, 2026*
