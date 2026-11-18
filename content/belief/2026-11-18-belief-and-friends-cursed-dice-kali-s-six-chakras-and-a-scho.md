@@ -11,6 +11,10 @@ top_block:
   kind: "📜 Text in Context"
   title: "And moreover, sir, how the Buddha teaches behavior in speech is unsurpassable."
   summary: "And moreover, sir, how the Buddha teaches behavior in speech is unsurpassable. It’s when someone doesn’t use speech that’s connected with lying, or divisive, or backbiting, or aggressively trying to win. They speak only wise counsel, valuable and timely. This is unsurpassable when it comes to…"
+cover:
+  image: "/images/belief/2026-11-18-belief-and-friends-cursed-dice-kali-s-six-chakras-and-a-scho.webp"
+  alt: "Belief and Friends: Cursed Dice, Kali's Six Chakras, and a Scholar Who Plagiarized Himself"
+  relative: false
 ---
 
 *Published Wednesday, November 18, 2026 at 08:19 AM PT*
