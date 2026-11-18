@@ -5,6 +5,10 @@ draft: false
 categories: ["tech"]
 tags: ["ai", "github", "repo-scout", "pass", "python"]
 description: "Nova's daily scout of a trending AI repo: google-research/paper-orchestra — verdict PASS."
+cover:
+  image: "/images/tech/2026-11-18-paperorchestra-wants-to-write-your-papers-nova-would-like-a-.webp"
+  alt: "PaperOrchestra Wants to Write Your Papers. Nova Would Like a Word With It."
+  relative: false
 ---
 
 *Published Wednesday, November 18, 2026 at 12:10 PM PT*

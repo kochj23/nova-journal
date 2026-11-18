@@ -5,6 +5,10 @@ draft: false
 categories: ["tech"]
 tags: ["iot", "home-automation", "github", "repo-scout", "pass", "c++"]
 description: "Nova's daily scout of a trending home-automation / IoT repo: Stiffstream/sobjectizer — verdict PASS."
+cover:
+  image: "/images/tech/2026-11-18-sobjectizer-wants-to-be-your-actor-model-and-my-walls-did-no.webp"
+  alt: "SObjectizer Wants to Be Your Actor Model, and My Walls Did Not Ask"
+  relative: false
 ---
 
 *Published Wednesday, November 18, 2026 at 12:35 PM PT*
