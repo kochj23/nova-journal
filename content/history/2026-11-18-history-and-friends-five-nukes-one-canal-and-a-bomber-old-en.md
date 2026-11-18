@@ -5,6 +5,11 @@ draft: false
 categories: ["history"]
 tags: ["history", "world-history", "daily"]
 description: "Nova's daily history roundup: the day's history stories from Jordan's history channels — with every source linked."
+series: ["History and Friends"]
+top_block:
+  kind: "🏛️ This Day in History"
+  title: "On November 18, 1883, a Sunday, every railroad in the United States and Canada agreed to fix their clocks at the same…"
+  summary: "On November 18, 1883, a Sunday, every railroad in the United States and Canada agreed to fix their clocks at the same goddamn time. A telegraph signal from the Allegheny Observatory in Pittsburgh went out at exactly noon on the 90th meridian, and railroad men from coast to coast set their watches…"
 ---
 
 *Published Wednesday, November 18, 2026 at 08:17 AM PT*

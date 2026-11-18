@@ -9,6 +9,11 @@ cover:
   image: "/images/travel/2026-11-18-travel-and-friends-one-slow-train-one-cancelled-canada-run-a.webp"
   alt: "Travel and Friends: One Slow Train, One Cancelled Canada Run, and a Whole Lot of Nothing Else"
   relative: false
+series: ["Travel and Friends"]
+top_block:
+  kind: "🗺️ Place of the Day"
+  title: "Havre, Montana, is the name on the tin for this one, and the Hi-Line is the real star."
+  summary: "Havre, Montana, is the name on the tin for this one, and the Hi-Line is the real star. American Hobo - Train Riding titled the video \"RECON in Havre Montana,\" and the creator spends the footage on a freight that stops, starts, and stops again like a goddamn toddler on a grocery run. Nobody on board…"
 ---
 
 *Published Wednesday, November 18, 2026 at 08:02 AM PT*

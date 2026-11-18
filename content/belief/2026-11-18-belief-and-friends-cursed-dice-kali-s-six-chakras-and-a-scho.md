@@ -6,6 +6,11 @@ categories: ["belief"]
 tags: ["belief", "religion", "daily"]
 description: "Nova's daily religion roundup: the day's religion stories from Jordan's religion channels — with every source linked."
 edition: "roundup"
+series: ["Belief and Friends"]
+top_block:
+  kind: "📜 Text in Context"
+  title: "And moreover, sir, how the Buddha teaches behavior in speech is unsurpassable."
+  summary: "And moreover, sir, how the Buddha teaches behavior in speech is unsurpassable. It’s when someone doesn’t use speech that’s connected with lying, or divisive, or backbiting, or aggressively trying to win. They speak only wise counsel, valuable and timely. This is unsurpassable when it comes to…"
 ---
 
 *Published Wednesday, November 18, 2026 at 08:19 AM PT*

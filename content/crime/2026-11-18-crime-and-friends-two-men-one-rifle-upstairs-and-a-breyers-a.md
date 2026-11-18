@@ -9,6 +9,11 @@ cover:
   image: "/images/crime/2026-11-18-crime-and-friends-two-men-one-rifle-upstairs-and-a-breyers-a.webp"
   alt: "Crime and Friends: Two Men, One Rifle Upstairs, and a Breyers Autopsy"
   relative: false
+series: ["Crime and Friends"]
+top_block:
+  kind: "🔦 Case of the Day"
+  title: "Salvatore \"Sammy The Bull\" Gravano just walked through the sit-down that set the stage for the Paul Castellano hit, in…"
+  summary: "Salvatore \"Sammy The Bull\" Gravano just walked through the sit-down that set the stage for the Paul Castellano hit, in Sammy The Bull LIVE 202 Pt. 1. His version: there was no war. Carlo Gambino, knowing he was dying, told his captains he backed Castellano as the next boss, and the captains voted…"
 ---
 
 *Published Wednesday, November 18, 2026 at 07:52 AM PT*
