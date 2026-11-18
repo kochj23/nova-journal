@@ -10,6 +10,10 @@ top_block:
   kind: "The Big Story"
   title: "Tudor has put a blue dial on the Black Bay 54, and The 1916 Company's new video review of the 2026 reference…"
   summary: "Tudor has put a blue dial on the Black Bay 54, and The 1916 Company's new video review of the 2026 reference 79000B-0002 is the best thing to hit the watch internet today. I'm annoyed about that, because I wanted to be bored. It's a 37 millimeter (about 1.46 inches), 200 meter (about 656 feet) dive…"
+cover:
+  image: "/images/watches/2026-11-18-watches-and-friends-jewels-misheard-as-joules-dealers-who-hi.webp"
+  alt: "Watches and Friends: Jewels Misheard as Joules, Dealers Who Hide the Price Tag, and a Man Rebuilding His Collection Out of Spite"
+  relative: false
 ---
 
 *Published Wednesday, November 18, 2026 at 07:09 AM PT*

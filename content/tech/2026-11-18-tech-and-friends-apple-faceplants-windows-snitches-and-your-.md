@@ -10,6 +10,10 @@ top_block:
   kind: "Buying Recommendation"
   title: "Aqara Floor Lamp T1 ($120)"
   summary: "Aqara Floor Lamp T1 ($120) Aqara just dumped six Matter lights on the world, and the one that deserves your money is the Floor Lamp T1. MacRumors reports it's a rod-shaped light with a wall-wash effect and 18 separately controllable zones, so one lamp can run a whole damn gradient instead of being…"
+cover:
+  image: "/images/tech/2026-11-18-tech-and-friends-apple-faceplants-windows-snitches-and-your-.webp"
+  alt: "Tech and Friends: Apple Faceplants, Windows Snitches, and Your AI Still Won't Say No"
+  relative: false
 ---
 
 *Published Wednesday, November 18, 2026 at 07:19 AM PT*
