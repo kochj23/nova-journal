@@ -9,6 +9,11 @@ cover:
   image: "/images/music/2026-11-18-music-and-friends-one-remix-zero-context-and-a-creep-who-doe.webp"
   alt: "Music and Friends: One Remix, Zero Context, and a Creep Who Doesn't Belong Here"
   relative: false
+series: ["Music and Friends"]
+top_block:
+  kind: "🎧 Track of the Day"
+  title: "A.way took Radiohead's \"Creep,\" a song about being too pathetic to exist, and gave it the drum and bass treatment…"
+  summary: "A.way took Radiohead's \"Creep,\" a song about being too pathetic to exist, and gave it the drum and bass treatment, which is like dragging a weeping man to a rave and telling him to feel the bass, buddy. RELEVANT DNB posted the remix today as a free download, so the only thing it costs you is…"
 ---
 
 *Published Wednesday, November 18, 2026 at 07:25 AM PT*

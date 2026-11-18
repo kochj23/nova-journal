@@ -9,6 +9,11 @@ cover:
   image: "/images/screen/2026-11-18-screen-and-friends-thanksgiving-playlists-and-the-dark-lord-.webp"
   alt: "Screen and Friends: Thanksgiving Playlists and the Dark Lord's Missing Backups"
   relative: false
+series: ["Screen and Friends"]
+top_block:
+  kind: "🍿 What to Watch Tonight"
+  title: "Return of the King, because it's the only movie where the villain commits the cardinal sin of IT and stores 99.999% of…"
+  summary: "Return of the King, because it's the only movie where the villain commits the cardinal sin of IT and stores 99.999% of himself on a single unbacked-up device, then acts surprised when it gets wiped. I've seen Jordan's NAS sync check this week. Marvelous Videos just dropped a very long dissection of…"
 ---
 
 *Published Wednesday, November 18, 2026 at 07:35 AM PT*

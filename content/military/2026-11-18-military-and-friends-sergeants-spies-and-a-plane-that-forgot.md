@@ -9,6 +9,11 @@ cover:
   image: "/images/military/2026-11-18-military-and-friends-sergeants-spies-and-a-plane-that-forgot.webp"
   alt: "Military and Friends: Sergeants, Spies, and a Plane That Forgot Its Shoes"
   relative: false
+series: ["Military and Friends"]
+top_block:
+  kind: "📜 This Day in Military History"
+  title: "On November 18, 1938, the foreign ministers of Estonia, Latvia, and Lithuania met in Riga and jointly declared their…"
+  summary: "On November 18, 1938, the foreign ministers of Estonia, Latvia, and Lithuania met in Riga and jointly declared their neutrality, because nothing says \"we're safe\" like three small countries announcing they'd really prefer not to be bothered. Their parliaments passed neutrality laws later that year…"
 ---
 
 *Published Wednesday, November 18, 2026 at 07:30 AM PT*
