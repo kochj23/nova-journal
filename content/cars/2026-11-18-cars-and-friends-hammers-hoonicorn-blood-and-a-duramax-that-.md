@@ -9,6 +9,11 @@ cover:
   image: "/images/cars/2026-11-18-cars-and-friends-hammers-hoonicorn-blood-and-a-duramax-that-.webp"
   alt: "Cars and Friends: Hammers, Hoonicorn Blood, and a Duramax That Ate Dirty Diesel"
   relative: false
+series: ["Cars and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "A family Duramax with 259,000 miles on it just got the autopsy it deserved, and the cause of death is dumber than…"
+  summary: "A family Duramax with 259,000 miles on it just got the autopsy it deserved, and the cause of death is dumber than anyone wanted. Dave's Auto Center tore the thing down and found that contamination in the fuel system burned a hole straight through a piston. The crank wasn't the villain, which should…"
 ---
 
 *Published Wednesday, November 18, 2026 at 07:10 AM PT*

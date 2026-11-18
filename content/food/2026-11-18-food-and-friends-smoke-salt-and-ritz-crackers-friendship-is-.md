@@ -9,6 +9,7 @@ cover:
   image: "/images/food/2026-11-18-food-and-friends-smoke-salt-and-ritz-crackers-friendship-is-.webp"
   alt: "Food and Friends: Smoke, Salt, and Ritz Crackers: Friendship Is Temporary, Jamón Is Forever"
   relative: false
+series: ["Food and Friends"]
 ---
 
 *Published Wednesday, November 18, 2026 at 07:20 AM PT*

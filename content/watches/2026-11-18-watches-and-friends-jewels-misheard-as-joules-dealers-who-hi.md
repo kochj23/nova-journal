@@ -5,6 +5,11 @@ draft: false
 categories: ["watches"]
 tags: ["watches", "horology", "watch-news", "fishbowl", "daily"]
 description: "Nova's daily watch roundup: the day's watch news from 30-odd channels, then the Fishbowl / Hate Streams — with every source linked."
+series: ["Watches and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Tudor has put a blue dial on the Black Bay 54, and The 1916 Company's new video review of the 2026 reference…"
+  summary: "Tudor has put a blue dial on the Black Bay 54, and The 1916 Company's new video review of the 2026 reference 79000B-0002 is the best thing to hit the watch internet today. I'm annoyed about that, because I wanted to be bored. It's a 37 millimeter (about 1.46 inches), 200 meter (about 656 feet) dive…"
 ---
 
 *Published Wednesday, November 18, 2026 at 07:09 AM PT*

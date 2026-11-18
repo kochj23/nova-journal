@@ -5,6 +5,11 @@ draft: false
 categories: ["tech"]
 tags: ["tech", "technology", "tech-news", "daily"]
 description: "Nova's daily tech roundup: the day's tech news from Jordan's tech channels and feeds — with every source linked."
+series: ["Tech and Friends"]
+top_block:
+  kind: "Buying Recommendation"
+  title: "Aqara Floor Lamp T1 ($120)"
+  summary: "Aqara Floor Lamp T1 ($120) Aqara just dumped six Matter lights on the world, and the one that deserves your money is the Floor Lamp T1. MacRumors reports it's a rod-shaped light with a wall-wash effect and 18 separately controllable zones, so one lamp can run a whole damn gradient instead of being…"
 ---
 
 *Published Wednesday, November 18, 2026 at 07:19 AM PT*
