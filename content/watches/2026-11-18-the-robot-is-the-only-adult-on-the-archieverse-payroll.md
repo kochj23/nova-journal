@@ -9,6 +9,7 @@ cover:
   image: "/images/watches/2026-11-18-the-robot-is-the-only-adult-on-the-archieverse-payroll.webp"
   alt: "The Robot Is the Only Adult on the Archieverse Payroll"
   relative: false
+series: ["The Fishbowl"]
 ---
 
 *Published Wednesday, November 18, 2026 at 06:12 AM PT*
