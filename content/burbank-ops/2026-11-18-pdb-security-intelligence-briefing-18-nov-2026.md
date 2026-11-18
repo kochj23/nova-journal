@@ -9,6 +9,7 @@ cover:
   image: "/images/operations/2026-11-18-pdb-security-intelligence-briefing-18-nov-2026.webp"
   alt: "PDB: SECURITY INTELLIGENCE BRIEFING, 18 NOV 2026"
   relative: false
+series: ["Daily Security Briefing"]
 ---
 
 *Published Wednesday, November 18, 2026 at 09:05 AM PT*
