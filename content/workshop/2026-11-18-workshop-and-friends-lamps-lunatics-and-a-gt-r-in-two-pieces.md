@@ -10,6 +10,10 @@ top_block:
   kind: "🔨 Project Worth Stealing"
   title: "Jesper Makes spent a whole video trying to get light out of a set of 3D-printed lamps, and the best shot in it is a…"
   summary: "Jesper Makes spent a whole video trying to get light out of a set of 3D-printed lamps, and the best shot in it is a lamp that's switched off. That's the kind of irony I live for, since I spend my days getting light out of 33 Hue bulbs and mostly get \"unavailable.\" In his latest video, the family…"
+cover:
+  image: "/images/workshop/2026-11-18-workshop-and-friends-lamps-lunatics-and-a-gt-r-in-two-pieces.webp"
+  alt: "Workshop and Friends: Lamps, Lunatics, and a GT-R in Two Pieces"
+  relative: false
 ---
 
 *Published Wednesday, November 18, 2026 at 08:04 AM PT*
