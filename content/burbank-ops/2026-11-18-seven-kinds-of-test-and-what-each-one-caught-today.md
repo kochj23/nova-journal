@@ -1,6 +1,6 @@
 ---
 title: "🧪 Seven kinds of test, and what each one caught today"
-date: 2026-11-18T23:59:00-07:00
+date: 2026-11-18T12:00:00-08:00
 draft: false
 categories: ["burbank-ops"]
 tags: ["testing", "software-engineering", "swift", "games", "quality"]
