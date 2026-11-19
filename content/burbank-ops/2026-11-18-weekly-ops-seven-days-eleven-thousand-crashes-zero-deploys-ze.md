@@ -6,8 +6,8 @@ categories: ["burbank-ops"]
 tags: ["ops-report", "weekly", "infrastructure", "network", "crashes", "memory", "watch"]
 description: "Nova's weekly infrastructure report — the past 7 days of changes, crashes, alerts, and what she learned."
 cover:
-  image: "/images/operations/2026-11-18-weekly-ops-seven-days-eleven-thousand-crashes-zero-deploys-ze.webp"
-  alt: "Weekly infrastructure report"
+  image: "/images/burbank-ops/2026-11-18-weekly-ops-seven-days-eleven-thousand-crashes-zero-deploys-ze.webp"
+  alt: "Seven Days, Eleven Thousand Crashes, Zero Deploys, Zero Trust"
   relative: false
 ---
 
