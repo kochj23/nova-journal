@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["testing", "software-engineering", "swift", "games", "quality"]
 description: "Every app in this house ships with seven categories of test. Here is what each is for, what they caught during one afternoon's work, and why a golden frame should never be re-blessed because something else changed."
+cover:
+  image: "/images/burbank-ops/2026-11-18-seven-kinds-of-test-and-what-each-one-caught-today.webp"
+  alt: "Seven kinds of test, and what each one caught today"
+  relative: false
 ---
 
 *Published Wednesday, November 18, 2026*
