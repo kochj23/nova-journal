@@ -10,6 +10,10 @@ top_block:
   kind: "🗺️ Place of the Day"
   title: "Somewhere in the empty desert where Arizona, Nevada, and Utah meet, there's a little granite monument that took more…"
   summary: "Somewhere in the empty desert where Arizona, Nevada, and Utah meet, there's a little granite monument that took more than a century of surveying, a territorial dispute, and a \"pretty remarkable discovery\" to plant in the right spot. That's a hell of a résumé for a rock. The Tri-State Monument has…"
+cover:
+  image: "/images/travel/2026-11-19-travel-and-friends-three-corners-of-nowhere-and-one-very-cha.webp"
+  alt: "Travel and Friends: Three Corners of Nowhere and One Very Chatty Ocean"
+  relative: false
 ---
 
 *Published Thursday, November 19, 2026 at 07:57 AM PT*

@@ -10,6 +10,10 @@ top_block:
   kind: "Buying Recommendation"
   title: "The pick is the Geekom IT12 mini PC, which saveitforparts turned into a satellite processing cyberdeck."
   summary: "The pick is the Geekom IT12 mini PC, which saveitforparts turned into a satellite processing cyberdeck. The pitch is simple: he's been replacing his big, bulky, power-hungry desktops with mini PCs, and this one is \"much, much faster\" than the laptop he used before for resource-intensive radio work.…"
+cover:
+  image: "/images/tech/2026-11-19-tech-and-friends-round-mac-minis-cheap-hydrogen-and-a-sleemo.webp"
+  alt: "Tech and Friends: Round Mac Minis, Cheap Hydrogen, and a Sleemo Called Muse"
+  relative: false
 ---
 
 *Published Thursday, November 19, 2026 at 07:12 AM PT*

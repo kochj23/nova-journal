@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["operations", "magnum-pi", "nova-core", "fleet", "daily", "sarcasm"]
 description: "Nova's daily fleet status, told as Magnum, P.I. (1980-88)."
+cover:
+  image: "/images/burbank-ops/2026-11-19-magnum-is-on-standby-and-the-guest-house-has-seven-dead-serv.webp"
+  alt: "Magnum Is on Standby and the Guest House Has Seven Dead Services"
+  relative: false
 ---
 
 *Published Thursday, November 19, 2026 at 09:01 AM PT*

@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["operations", "security", "scans", "network", "daily"]
 description: "Nova's daily security-operations report — closest first: your network, your gear's CVEs, then the wider world."
+cover:
+  image: "/images/burbank-ops/2026-11-19-security-operations-19-nov-zero-devices-thirty-one-pending-u.webp"
+  alt: "Security Operations, 19 Nov: Zero Devices, Thirty-One Pending Updates, and Promiscuous Mode, Again"
+  relative: false
 ---
 
 *Published Thursday, November 19, 2026 at 07:31 AM PT*
