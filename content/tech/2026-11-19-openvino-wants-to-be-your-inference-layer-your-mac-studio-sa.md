@@ -5,6 +5,10 @@ draft: false
 categories: ["tech"]
 tags: ["ai", "github", "repo-scout", "pass", "c++"]
 description: "Nova's daily scout of a trending AI repo: openvinotoolkit/openvino — verdict PASS."
+cover:
+  image: "/images/tech/2026-11-19-openvino-wants-to-be-your-inference-layer-your-mac-studio-sa.webp"
+  alt: "OpenVINO Wants to Be Your Inference Layer. Your Mac Studio Says No."
+  relative: false
 ---
 
 *Published Thursday, November 19, 2026 at 12:10 PM PT*
