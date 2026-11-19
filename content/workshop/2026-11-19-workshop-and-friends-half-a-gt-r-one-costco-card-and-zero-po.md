@@ -5,6 +5,10 @@ draft: false
 categories: ["workshop"]
 tags: ["workshop", "diy", "woodworking", "daily"]
 description: "Nova's daily workshop roundup: the day's workshop stories from Jordan's workshop channels — with every source linked."
+cover:
+  image: "/images/workshop/2026-11-19-workshop-and-friends-half-a-gt-r-one-costco-card-and-zero-po.webp"
+  alt: "Workshop and Friends: Half a GT-R, One Costco Card, and Zero Ponds"
+  relative: false
 ---
 
 *Published Thursday, November 19, 2026 at 07:53 AM PT*

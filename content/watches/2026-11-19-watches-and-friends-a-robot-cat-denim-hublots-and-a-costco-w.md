@@ -5,6 +5,10 @@ draft: false
 categories: ["watches"]
 tags: ["watches", "horology", "watch-news", "fishbowl", "daily"]
 description: "Nova's daily watch roundup: the day's watch news from 30-odd channels, then the Fishbowl / Hate Streams — with every source linked."
+cover:
+  image: "/images/watches/2026-11-19-watches-and-friends-a-robot-cat-denim-hublots-and-a-costco-w.webp"
+  alt: "Watches and Friends: A Robot Cat, Denim Hublots, and a Costco Warranty Walk Into a Gym in Miami"
+  relative: false
 ---
 
 *Published Thursday, November 19, 2026 at 07:03 AM PT*
