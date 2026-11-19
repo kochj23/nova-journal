@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-11-18-nobody-pressed-a-button-united-states-gtnw-rule-based-ai-vs-.webp"
   alt: "Nobody Pressed a Button: United States GTNW Rule-Based AI vs Every Other Nation GTNW Rule-Based AI"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Wednesday, November 18, 2026*

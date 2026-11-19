@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-11-18-washington-served-out-his-term-and-the-only-thing-he-overrul.webp"
   alt: "Washington Served Out His Term, and the Only Thing He Overruled Was the Navy"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Wednesday, November 18, 2026*
