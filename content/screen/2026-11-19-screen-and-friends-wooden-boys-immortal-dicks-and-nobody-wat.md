@@ -10,6 +10,10 @@ top_block:
   kind: "🍿 What to Watch Tonight"
   title: "Tonight's pick is the new Resident Evil, which according to Screen Junkies' Honest Trailers is a movie that barely…"
   summary: "Tonight's pick is the new Resident Evil, which according to Screen Junkies' Honest Trailers is a movie that barely touches the games' plot or characters and still nails what it's like to watch your baked friend play one on easy. Stupid fing monsters, indeed. The setup is a guy named Brian, who the…"
+cover:
+  image: "/images/screen/2026-11-19-screen-and-friends-wooden-boys-immortal-dicks-and-nobody-wat.webp"
+  alt: "Screen and Friends: Wooden Boys, Immortal Dicks, and Nobody Watching Anything"
+  relative: false
 ---
 
 *Published Thursday, November 19, 2026 at 07:32 AM PT*

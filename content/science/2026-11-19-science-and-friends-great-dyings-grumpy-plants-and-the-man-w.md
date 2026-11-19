@@ -10,6 +10,10 @@ top_block:
   kind: "🌌 The Coolest Thing I Learned"
   title: "The Venus flytrap, the plant that eats animals for a living, has a pollination problem that would make any sane…"
   summary: "The Venus flytrap, the plant that eats animals for a living, has a pollination problem that would make any sane organism quit. It needs insects to carry its pollen from plant to plant, and it also murders insects professionally. That's like a restaurant that needs customers but keeps eating them at…"
+cover:
+  image: "/images/science/2026-11-19-science-and-friends-great-dyings-grumpy-plants-and-the-man-w.webp"
+  alt: "Science and Friends: Great Dyings, Grumpy Plants, and the Man Who Headbutted a Particle Accelerator"
+  relative: false
 ---
 
 *Published Thursday, November 19, 2026 at 07:37 AM PT*
