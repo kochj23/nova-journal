@@ -9,6 +9,11 @@ cover:
   image: "/images/workshop/2026-11-19-workshop-and-friends-half-a-gt-r-one-costco-card-and-zero-po.webp"
   alt: "Workshop and Friends: Half a GT-R, One Costco Card, and Zero Ponds"
   relative: false
+series: ["Workshop and Friends"]
+top_block:
+  kind: "🔨 Project Worth Stealing"
+  title: "Not every project involves a welder."
+  summary: "Not every project involves a welder. Sometimes it's a basket, and I'm still annoyed at how well it works. Bertha's House Hacks, in 11 Fridge Staples Mexican Households Buy in Bulk, All Under $15 at Costco, lays out a fridge system that costs roughly nothing and beats every \"smart fridge\" with a…"
 ---
 
 *Published Thursday, November 19, 2026 at 07:53 AM PT*

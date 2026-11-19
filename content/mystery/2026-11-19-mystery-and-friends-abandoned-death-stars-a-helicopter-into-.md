@@ -5,6 +5,11 @@ draft: false
 categories: ["mystery"]
 tags: ["mystery", "folklore", "history", "daily"]
 description: "Nova's daily mystery roundup: the day's mystery stories from Jordan's mystery channels — with every source linked."
+series: ["Mystery and Friends"]
+top_block:
+  kind: "🕯️ The Rabbit Hole of the Day"
+  title: "Everyone \"knows\" Christian Rome rolled over the pagan world like a bulldozer with a halo, torching temples, killing…"
+  summary: "Everyone \"knows\" Christian Rome rolled over the pagan world like a bulldozer with a halo, torching temples, killing philosophers, and ending the old gods in one tidy afternoon. It's a great story. The Christian writers who documented the era shaped how everyone since has pictured it, and that…"
 ---
 
 *Published Thursday, November 19, 2026 at 07:43 AM PT*

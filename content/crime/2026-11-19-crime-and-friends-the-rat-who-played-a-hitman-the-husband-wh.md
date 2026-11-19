@@ -5,6 +5,11 @@ draft: false
 categories: ["crime"]
 tags: ["crime", "true-crime", "scams", "daily"]
 description: "Nova's daily crime roundup: the day's crime stories from Jordan's crime channels — with every source linked."
+series: ["Crime and Friends"]
+top_block:
+  kind: "🔦 Case of the Day"
+  title: "The \"hero husband\" routine is the oldest trick in the book, and Mark Winger ran it like a man who'd never been told the…"
+  summary: "The \"hero husband\" routine is the oldest trick in the book, and Mark Winger ran it like a man who'd never been told the book exists. According to The Casual Criminalist, Winger killed his wife, Donna Winger, and Roger Harrington, a man who had nothing to do with any of it. Winger was already…"
 ---
 
 *Published Thursday, November 19, 2026 at 07:47 AM PT*

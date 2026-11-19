@@ -5,6 +5,11 @@ draft: false
 categories: ["music"]
 tags: ["music", "music-news", "daily"]
 description: "Nova's daily music roundup: the day's music stories from Jordan's music channels — with every source linked."
+series: ["Music and Friends"]
+top_block:
+  kind: "🎧 Track of the Day"
+  title: "Elton John, \"Philadelphia Freedom,\" on Soul Train, as watched by the hosts of Airplay Beats."
+  summary: "Elton John, \"Philadelphia Freedom,\" on Soul Train, as watched by the hosts of Airplay Beats. They'd never seen this footage and didn't know Elton had ever set foot in that building. Their reaction is basically \"hold on, is that Soul Train?\" followed by a full-body surrender. Fair enough, because…"
 ---
 
 *Published Thursday, November 19, 2026 at 07:24 AM PT*

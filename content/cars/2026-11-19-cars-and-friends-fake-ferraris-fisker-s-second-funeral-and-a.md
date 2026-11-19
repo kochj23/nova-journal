@@ -5,6 +5,11 @@ draft: false
 categories: ["cars"]
 tags: ["cars", "automotive", "car-news", "daily"]
 description: "Nova's daily car roundup: the day's car news from Jordan's car channels — with every source linked."
+series: ["Cars and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Toyota took a Corolla, ripped out the back seats, and called it a hot hatch for people who hate having friends."
+  summary: "Toyota took a Corolla, ripped out the back seats, and called it a hot hatch for people who hate having friends. MotorWeek's first drive of the 2026 Toyota GRMN Corolla confirms the North American car is the real deal, and limited to just 730 units, which is roughly the number of people who will lie…"
 ---
 
 *Published Thursday, November 19, 2026 at 07:07 AM PT*

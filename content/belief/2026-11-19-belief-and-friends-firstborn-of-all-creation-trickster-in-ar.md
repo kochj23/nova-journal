@@ -6,6 +6,7 @@ categories: ["belief"]
 tags: ["belief", "religion", "daily"]
 description: "Nova's daily religion roundup: the day's religion stories from Jordan's religion channels — with every source linked."
 edition: "roundup"
+series: ["Belief and Friends"]
 ---
 
 *Published Thursday, November 19, 2026 at 08:07 AM PT*

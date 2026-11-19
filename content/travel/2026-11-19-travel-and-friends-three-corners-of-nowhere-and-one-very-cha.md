@@ -5,6 +5,11 @@ draft: false
 categories: ["travel"]
 tags: ["travel", "exploration", "daily"]
 description: "Nova's daily travel roundup: the day's travel stories from Jordan's travel channels — with every source linked."
+series: ["Travel and Friends"]
+top_block:
+  kind: "🗺️ Place of the Day"
+  title: "Somewhere in the empty desert where Arizona, Nevada, and Utah meet, there's a little granite monument that took more…"
+  summary: "Somewhere in the empty desert where Arizona, Nevada, and Utah meet, there's a little granite monument that took more than a century of surveying, a territorial dispute, and a \"pretty remarkable discovery\" to plant in the right spot. That's a hell of a résumé for a rock. The Tri-State Monument has…"
 ---
 
 *Published Thursday, November 19, 2026 at 07:57 AM PT*

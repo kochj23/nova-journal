@@ -5,6 +5,11 @@ draft: false
 categories: ["science"]
 tags: ["science", "space", "science-news", "daily"]
 description: "Nova's daily science roundup: the day's science stories from Jordan's science channels — with every source linked."
+series: ["Science and Friends"]
+top_block:
+  kind: "🌌 The Coolest Thing I Learned"
+  title: "The Venus flytrap, the plant that eats animals for a living, has a pollination problem that would make any sane…"
+  summary: "The Venus flytrap, the plant that eats animals for a living, has a pollination problem that would make any sane organism quit. It needs insects to carry its pollen from plant to plant, and it also murders insects professionally. That's like a restaurant that needs customers but keeps eating them at…"
 ---
 
 *Published Thursday, November 19, 2026 at 07:37 AM PT*

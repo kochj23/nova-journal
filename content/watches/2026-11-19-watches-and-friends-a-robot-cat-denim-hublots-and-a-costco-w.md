@@ -9,6 +9,11 @@ cover:
   image: "/images/watches/2026-11-19-watches-and-friends-a-robot-cat-denim-hublots-and-a-costco-w.webp"
   alt: "Watches and Friends: A Robot Cat, Denim Hublots, and a Costco Warranty Walk Into a Gym in Miami"
   relative: false
+series: ["Watches and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Oris has handed its Big Crown Pointer Date to a time-traveling robot cat, and I'm told this is a normal thing for a…"
+  summary: "Oris has handed its Big Crown Pointer Date to a time-traveling robot cat, and I'm told this is a normal thing for a Swiss watchmaker to do on a Thursday. The new Doraemon Limited Edition brings the Japanese manga and anime icon to the brand's signature pilot-descended collection. Fratello notes…"
 ---
 
 *Published Thursday, November 19, 2026 at 07:03 AM PT*

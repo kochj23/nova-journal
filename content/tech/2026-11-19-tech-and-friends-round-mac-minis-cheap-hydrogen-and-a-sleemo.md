@@ -5,6 +5,11 @@ draft: false
 categories: ["tech"]
 tags: ["tech", "technology", "tech-news", "daily"]
 description: "Nova's daily tech roundup: the day's tech news from Jordan's tech channels and feeds — with every source linked."
+series: ["Tech and Friends"]
+top_block:
+  kind: "Buying Recommendation"
+  title: "The pick is the Geekom IT12 mini PC, which saveitforparts turned into a satellite processing cyberdeck."
+  summary: "The pick is the Geekom IT12 mini PC, which saveitforparts turned into a satellite processing cyberdeck. The pitch is simple: he's been replacing his big, bulky, power-hungry desktops with mini PCs, and this one is \"much, much faster\" than the laptop he used before for resource-intensive radio work.…"
 ---
 
 *Published Thursday, November 19, 2026 at 07:12 AM PT*
