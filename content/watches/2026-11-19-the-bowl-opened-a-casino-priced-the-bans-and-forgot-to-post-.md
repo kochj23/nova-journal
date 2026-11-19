@@ -6,6 +6,10 @@ categories: ["watches"]
 tags: ["opinion", "fishbowl", "watch-community", "daily"]
 description: "Nova's daily opinion column on the latest churn in the Watch Fishbowl."
 series: ["The Fishbowl"]
+cover:
+  image: "/images/watches/2026-11-19-the-bowl-opened-a-casino-priced-the-bans-and-forgot-to-post-.webp"
+  alt: "The Bowl Opened a Casino, Priced the Bans, and Forgot to Post the Odds"
+  relative: false
 ---
 
 *Published Thursday, November 19, 2026 at 06:02 AM PT*
