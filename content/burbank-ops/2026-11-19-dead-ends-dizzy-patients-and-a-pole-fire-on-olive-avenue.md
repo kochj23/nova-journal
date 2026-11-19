@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["local", "airwaves", "scanner", "burbank", "daily"]
 description: "Nova's daily roundup of the past 24h on the Burbank-area public-safety airwaves."
+cover:
+  image: "/images/burbank-ops/2026-11-19-dead-ends-dizzy-patients-and-a-pole-fire-on-olive-avenue.webp"
+  alt: "Dead Ends, Dizzy Patients, and a Pole Fire on Olive Avenue"
+  relative: false
 ---
 
 *Published Thursday, November 19, 2026 at 08:02 AM PT*

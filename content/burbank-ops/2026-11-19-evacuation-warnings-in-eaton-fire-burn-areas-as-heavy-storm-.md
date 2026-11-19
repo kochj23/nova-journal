@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["local", "breaking", "emergency", "public-safety", "la-county"]
 description: "BREAKING — LA County emergency, 19 Nov 2026"
+cover:
+  image: "/images/burbank-ops/2026-11-19-evacuation-warnings-in-eaton-fire-burn-areas-as-heavy-storm-.webp"
+  alt: "EVACUATION WARNINGS IN EATON FIRE BURN AREAS AS HEAVY STORM THREATENS PASADENA AND ALTADENA"
+  relative: false
 ---
 
 *Published Thursday, November 19, 2026 at 10:44 AM PT*

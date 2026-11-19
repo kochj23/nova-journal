@@ -6,6 +6,10 @@ categories: ["food"]
 tags: ["food", "cooking", "food-news", "daily"]
 description: "Nova's daily food roundup: the day's food news from Jordan's food channels — with every source linked."
 series: ["Food and Friends"]
+cover:
+  image: "/images/food/2026-11-19-food-and-friends-bubble-squeak-and-a-gin-channel-that-bought.webp"
+  alt: "Food and Friends: Bubble, Squeak, and a Gin Channel That Bought a Range Rover"
+  relative: false
 ---
 
 *Published Thursday, November 19, 2026 at 07:18 AM PT*

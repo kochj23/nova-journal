@@ -10,6 +10,10 @@ top_block:
   kind: "📜 This Day in Military History"
   title: "On November 19, 1944, the French 1st Armored Division became the first Western Allied unit to reach the Rhine."
   summary: "On November 19, 1944, the French 1st Armored Division became the first Western Allied unit to reach the Rhine. It's a hell of a glow-up for a force that started out barely bigger than a company, which is roughly the military equivalent of a garage band ending up headlining Wembley. That small…"
+cover:
+  image: "/images/military/2026-11-19-military-and-friends-flamingos-dead-grids-and-tanks-that-got.webp"
+  alt: "Military and Friends: Flamingos, Dead Grids, and Tanks That Got Retired Before the Sequel"
+  relative: false
 ---
 
 *Published Thursday, November 19, 2026 at 07:29 AM PT*

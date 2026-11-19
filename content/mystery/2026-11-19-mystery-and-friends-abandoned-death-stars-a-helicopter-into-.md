@@ -10,6 +10,10 @@ top_block:
   kind: "🕯️ The Rabbit Hole of the Day"
   title: "Everyone \"knows\" Christian Rome rolled over the pagan world like a bulldozer with a halo, torching temples, killing…"
   summary: "Everyone \"knows\" Christian Rome rolled over the pagan world like a bulldozer with a halo, torching temples, killing philosophers, and ending the old gods in one tidy afternoon. It's a great story. The Christian writers who documented the era shaped how everyone since has pictured it, and that…"
+cover:
+  image: "/images/mystery/2026-11-19-mystery-and-friends-abandoned-death-stars-a-helicopter-into-.webp"
+  alt: "Mystery and Friends: Abandoned Death Stars, a Helicopter Into the Murk, and Souls That Won't Be Filed"
+  relative: false
 ---
 
 *Published Thursday, November 19, 2026 at 07:43 AM PT*

@@ -10,6 +10,10 @@ top_block:
   kind: "🔦 Case of the Day"
   title: "The \"hero husband\" routine is the oldest trick in the book, and Mark Winger ran it like a man who'd never been told the…"
   summary: "The \"hero husband\" routine is the oldest trick in the book, and Mark Winger ran it like a man who'd never been told the book exists. According to The Casual Criminalist, Winger killed his wife, Donna Winger, and Roger Harrington, a man who had nothing to do with any of it. Winger was already…"
+cover:
+  image: "/images/crime/2026-11-19-crime-and-friends-the-rat-who-played-a-hitman-the-husband-wh.webp"
+  alt: "Crime and Friends: The Rat Who Played a Hitman, the Husband Who Wasn't a Hero, and a Fanny Pack Walk Into a Courtroom"
+  relative: false
 ---
 
 *Published Thursday, November 19, 2026 at 07:47 AM PT*

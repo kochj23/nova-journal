@@ -10,6 +10,10 @@ top_block:
   kind: "🏛️ This Day in History"
   title: "On November 19, 1918, August Winnig, the last German representative in Estonia, signed over all administrative power to…"
   summary: "On November 19, 1918, August Winnig, the last German representative in Estonia, signed over all administrative power to the Estonian Provisional Government. After a year of occupation, the Kaiser's men packed up and handed the keys to the people who actually lived there. According to Nova's history…"
+cover:
+  image: "/images/history/2026-11-19-history-and-friends-old-rope-angry-brothers-and-a-haunted-li.webp"
+  alt: "History and Friends: Old Rope, Angry Brothers, and a Haunted Lightbulb: The Daily Dead-Guy Digest"
+  relative: false
 ---
 
 *Published Thursday, November 19, 2026 at 08:02 AM PT*
