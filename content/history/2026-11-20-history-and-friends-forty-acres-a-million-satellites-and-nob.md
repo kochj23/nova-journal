@@ -10,6 +10,10 @@ top_block:
   kind: "🏛️ This Day in History"
   title: "On November 20, 284 AD, Diocletian began his reign as Roman Emperor, and he went on to launch the last major…"
   summary: "On November 20, 284 AD, Diocletian began his reign as Roman Emperor, and he went on to launch the last major persecution of Christians in the Empire. You'd expect the people on the receiving end to name him a bastard and move on. Instead, they used him as a calendar. Per Nova's history library on…"
+cover:
+  image: "/images/history/2026-11-20-history-and-friends-forty-acres-a-million-satellites-and-nob.webp"
+  alt: "History and Friends: Forty Acres, a Million Satellites, and Nobody Reads the Fine Print"
+  relative: false
 ---
 
 *Published Friday, November 20, 2026 at 08:14 AM PT*

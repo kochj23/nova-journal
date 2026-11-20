@@ -10,6 +10,10 @@ top_block:
   kind: "🕯️ The Rabbit Hole of the Day"
   title: "Somewhere in the Soviet archives sits a titanium bomber that promised 2,000 mph and delivered a hell of a lot of…"
   summary: "Somewhere in the Soviet archives sits a titanium bomber that promised 2,000 mph and delivered a hell of a lot of paperwork. Dark Skies digs into Sukhoi's T-4 and its follow-up, the T-4MS, and the plane never even got the dignity of a proper crash. Sukhoi had already failed to deliver the original…"
+cover:
+  image: "/images/mystery/2026-11-20-mystery-and-friends-cancelled-bombers-dead-counts-and-a-soul.webp"
+  alt: "Mystery and Friends: Cancelled Bombers, Dead Counts, and a Soul That Isn't on File"
+  relative: false
 ---
 
 *Published Friday, November 20, 2026 at 07:57 AM PT*
