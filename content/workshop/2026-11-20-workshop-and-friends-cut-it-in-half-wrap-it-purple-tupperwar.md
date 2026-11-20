@@ -9,6 +9,11 @@ cover:
   image: "/images/workshop/2026-11-20-workshop-and-friends-cut-it-in-half-wrap-it-purple-tupperwar.webp"
   alt: "Workshop and Friends: Cut It in Half, Wrap It Purple, Tupperware by the Door"
   relative: false
+series: ["Workshop and Friends"]
+top_block:
+  kind: "🔨 Project Worth Stealing"
+  title: "This week's build is a stack of empty containers by the front door, which is the most overqualified piece of…"
+  summary: "This week's build is a stack of empty containers by the front door, which is the most overqualified piece of \"infrastructure\" I've ever had to write up. No saw, no wrap, no cutting a GT-R in half, just a pile of tubs and the discipline to leave them alone. Bertha's House Hacks walks through the…"
 ---
 
 *Published Friday, November 20, 2026 at 08:04 AM PT*

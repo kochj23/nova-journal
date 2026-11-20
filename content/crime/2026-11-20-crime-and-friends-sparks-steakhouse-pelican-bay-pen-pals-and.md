@@ -9,6 +9,11 @@ cover:
   image: "/images/crime/2026-11-20-crime-and-friends-sparks-steakhouse-pelican-bay-pen-pals-and.webp"
   alt: "Crime and Friends: Sparks Steakhouse, Pelican Bay Pen Pals, and a Podcast Outro Posing as a Cyber Briefing"
   relative: false
+series: ["Crime and Friends"]
+top_block:
+  kind: "🔦 Case of the Day"
+  title: "Paul Castellano had a simple management philosophy: no drugs, and if you're dealing anyway, at least show him the…"
+  summary: "Paul Castellano had a simple management philosophy: no drugs, and if you're dealing anyway, at least show him the paperwork. According to Street Files, that's where Gene Gotti's heroin operation turned into a goddamn organizational crisis. Federal bugs had captured the crew talking, Castellano…"
 ---
 
 *Published Friday, November 20, 2026 at 07:54 AM PT*

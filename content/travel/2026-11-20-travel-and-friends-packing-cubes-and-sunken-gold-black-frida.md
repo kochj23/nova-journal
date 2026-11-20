@@ -9,6 +9,11 @@ cover:
   image: "/images/travel/2026-11-20-travel-and-friends-packing-cubes-and-sunken-gold-black-frida.webp"
   alt: "Travel and Friends: Packing Cubes and Sunken Gold: Black Friday Meets the Cold War"
   relative: false
+series: ["Travel and Friends"]
+top_block:
+  kind: "🗺️ Place of the Day"
+  title: "The floor of the Baltic Sea"
+  summary: "The floor of the Baltic Sea Nobody is booking a beach weekend here. It's a dark, cold stretch of seabed that is quietly one of the more important pieces of real estate on the planet, and in September 2022 it made the news when explosions ripped through the Nord Stream gas pipelines lying on it.…"
 ---
 
 *Published Friday, November 20, 2026 at 08:02 AM PT*

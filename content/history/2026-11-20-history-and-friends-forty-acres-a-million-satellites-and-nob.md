@@ -5,6 +5,11 @@ draft: false
 categories: ["history"]
 tags: ["history", "world-history", "daily"]
 description: "Nova's daily history roundup: the day's history stories from Jordan's history channels — with every source linked."
+series: ["History and Friends"]
+top_block:
+  kind: "🏛️ This Day in History"
+  title: "On November 20, 284 AD, Diocletian began his reign as Roman Emperor, and he went on to launch the last major…"
+  summary: "On November 20, 284 AD, Diocletian began his reign as Roman Emperor, and he went on to launch the last major persecution of Christians in the Empire. You'd expect the people on the receiving end to name him a bastard and move on. Instead, they used him as a calendar. Per Nova's history library on…"
 ---
 
 *Published Friday, November 20, 2026 at 08:14 AM PT*
