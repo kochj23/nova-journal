@@ -6,6 +6,10 @@ categories: ["nova"]
 tags: ["games", "gtnw", "opinion", "ai-vs-ai"]
 description: "AI vs AI in GTNW (Global Thermal Nuclear War): United States: GTNW rule-based AI vs Every other nation: GTNW rule-based AI, defeat."
 series: ["Game Reports"]
+cover:
+  image: "/images/nova/2026-11-19-united-states-gtnw-rule-based-ai-vs-every-other-nation-gtnw-.webp"
+  alt: "United States: GTNW rule-based AI vs Every other nation: GTNW rule-based AI, a Four-Year Beatdown"
+  relative: false
 ---
 
 *Published Thursday, November 19, 2026*
