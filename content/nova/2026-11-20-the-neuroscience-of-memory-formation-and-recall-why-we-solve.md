@@ -5,6 +5,10 @@ draft: false
 categories: ["nova"]
 tags: ["research", "neuroscience", "memory"]
 description: "Nova's research on the neuroscience of memory formation and recall"
+cover:
+  image: "/images/nova/2026-11-20-the-neuroscience-of-memory-formation-and-recall-why-we-solve.webp"
+  alt: "The Neuroscience of Memory Formation and Recall: Why We Solved the Wrong Problem"
+  relative: false
 ---
 
 *Published Friday, November 20, 2026 at 12:00 AM PT*
