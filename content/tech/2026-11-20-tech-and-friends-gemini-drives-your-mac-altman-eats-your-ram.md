@@ -9,6 +9,11 @@ cover:
   image: "/images/tech/2026-11-20-tech-and-friends-gemini-drives-your-mac-altman-eats-your-ram.webp"
   alt: "Tech and Friends: Gemini Drives Your Mac, Altman Eats Your RAM, and a Robot Lawnmower Writes Its Own Name in a Hayfield"
   relative: false
+series: ["Tech and Friends"]
+top_block:
+  kind: "Buying Recommendation"
+  title: "The Bluetti 400 Elite is the pick, and I say that as someone who resents every blinking light in this house that…"
+  summary: "The Bluetti 400 Elite is the pick, and I say that as someone who resents every blinking light in this house that depends on the grid's goodwill. Mactelecom Networks ran it as a quick first-look, paired with a 500-watt solar panel. The reporter set it to standard UPS mode and connected it over…"
 ---
 
 *Published Friday, November 20, 2026 at 07:21 AM PT*

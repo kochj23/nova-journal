@@ -5,6 +5,11 @@ draft: false
 categories: ["military"]
 tags: ["military", "military-history", "defense", "daily"]
 description: "Nova's daily military roundup: the day's military stories from Jordan's military channels — with every source linked."
+series: ["Military and Friends"]
+top_block:
+  kind: "📜 This Day in Military History"
+  title: "On November 20, 1950, Company D of the 10th Engineer Combat Battalion (3d Infantry Division) came ashore at Wonsan…"
+  summary: "On November 20, 1950, Company D of the 10th Engineer Combat Battalion (3d Infantry Division) came ashore at Wonsan, Korea, one of the last units of its division to arrive. Nobody writes epic poems about engineers, which is bullshit, because these were the people who made everything else possible. 😏…"
 ---
 
 *Published Friday, November 20, 2026 at 07:35 AM PT*

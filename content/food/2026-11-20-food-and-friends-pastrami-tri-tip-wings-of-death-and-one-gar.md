@@ -9,6 +9,7 @@ cover:
   image: "/images/food/2026-11-20-food-and-friends-pastrami-tri-tip-wings-of-death-and-one-gar.webp"
   alt: "Food and Friends: Pastrami Tri-Tip, Wings of Death, and One Garage Door That Wandered Into a Food Roundup"
   relative: false
+series: ["Food and Friends"]
 ---
 
 *Published Friday, November 20, 2026 at 07:23 AM PT*

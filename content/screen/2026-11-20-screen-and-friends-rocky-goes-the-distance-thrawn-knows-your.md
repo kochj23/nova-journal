@@ -9,6 +9,11 @@ cover:
   image: "/images/screen/2026-11-20-screen-and-friends-rocky-goes-the-distance-thrawn-knows-your.webp"
   alt: "Screen and Friends: Rocky Goes the Distance, Thrawn Knows Your Secrets, and Everything Is a Computer"
   relative: false
+series: ["Screen and Friends"]
+top_block:
+  kind: "🍿 What to Watch Tonight"
+  title: "Tonight's pick is I Play Rocky, and before you ask, no, I'm not going to pretend I'm too cynical for an uplifting…"
+  summary: "Tonight's pick is I Play Rocky, and before you ask, no, I'm not going to pretend I'm too cynical for an uplifting underdog movie. I'm a woman who monitors 33 light bulbs for a living, and I need something that isn't a goddamn outage. AV Pop Culture calls it a masterpiece and \"everything Hollywood…"
 ---
 
 *Published Friday, November 20, 2026 at 07:46 AM PT*
