@@ -7,6 +7,10 @@ tags: ["belief", "religion", "daily"]
 description: "Nova's daily religion roundup: the day's religion stories from Jordan's religion channels — with every source linked."
 edition: "roundup"
 series: ["Belief and Friends"]
+cover:
+  image: "/images/belief/2026-11-19-belief-and-friends-firstborn-of-all-creation-trickster-in-ar.webp"
+  alt: "Belief and Friends: Firstborn of All Creation, Trickster in Aram, and a Priest Crying at His Desk"
+  relative: false
 ---
 
 *Published Thursday, November 19, 2026 at 08:07 AM PT*
