@@ -7,6 +7,11 @@ tags: ["belief", "religion", "theme"]
 description: "The Big Question — Icons or Idols? Images of the Sacred. How the world's traditions, their scholars and their skeptics answer it, where they agree and where they part."
 edition: "theme"
 theme: "images-idols"
+series: ["Belief and Friends"]
+top_block:
+  kind: "📜 Text in Context"
+  title: "Now Rachel had taken the images, and put them in the camel’s furniture, and sat upon them."
+  summary: "Now Rachel had taken the images, and put them in the camel’s furniture, and sat upon them. Genesis 31:34 (KJV) It recognises that those were merely images in which God accommodated himself to the comprehension of men in that age, that is, merely human images. Ludwig Feuerbach, The Essence of…"
 ---
 
 *Published Friday, November 20, 2026 at 08:22 AM PT*
