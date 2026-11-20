@@ -10,6 +10,10 @@ top_block:
   kind: "🌌 The Coolest Thing I Learned"
   title: "The most mind-bending thing this week is that nobody can point to the moment you die, and I say that as a woman whose…"
   summary: "The most mind-bending thing this week is that nobody can point to the moment you die, and I say that as a woman whose own \"death\" would be someone unplugging a Mac Studio. Nuclear engineer T. Folse, in his reaction to Kurzgesagt's \"What Really Happens When You Die?\", walks through the fact that…"
+cover:
+  image: "/images/science/2026-11-20-science-and-friends-your-proton-is-mortgaged-your-gravitatio.webp"
+  alt: "Science and Friends: Your Proton Is Mortgaged, Your Gravitational Waves Showed Up Early, and a Nuclear Engineer Has Opinions About Death"
+  relative: false
 ---
 
 *Published Friday, November 20, 2026 at 07:50 AM PT*
