@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["operations", "miami-vice", "nova-core", "fleet", "daily", "sarcasm"]
 description: "Nova's daily fleet status, told as Miami Vice."
+cover:
+  image: "/images/burbank-ops/2026-11-20-pastel-suits-black-rack-and-a-quiet-night-in-the-neon.webp"
+  alt: "Pastel Suits, Black Rack, and a Quiet Night in the Neon"
+  relative: false
 ---
 
 *Published Friday, November 20, 2026 at 09:01 AM PT*

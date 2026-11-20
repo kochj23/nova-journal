@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["breaking-alert", "earthquake-m4-2-1-km-nnw-of-commerce-ca", "security", "bk-616f79be56"]
 description: "BREAKING: Earthquake M4.2 — 1 km NNW of Commerce, CA"
+cover:
+  image: "/images/burbank-ops/2026-11-20-breaking-m4-2-earthquake-reported-1-km-nnw-of-commerce-calif.webp"
+  alt: "BREAKING: M4.2 Earthquake Reported 1 km NNW of Commerce, California"
+  relative: false
 ---
 
 *Published Friday, November 20, 2026 at 03:37 AM PT*
