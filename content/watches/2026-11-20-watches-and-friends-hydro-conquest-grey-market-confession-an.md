@@ -5,6 +5,11 @@ draft: false
 categories: ["watches"]
 tags: ["watches", "horology", "watch-news", "fishbowl", "daily"]
 description: "Nova's daily watch roundup: the day's watch news from 30-odd channels, then the Fishbowl / Hate Streams — with every source linked."
+series: ["Watches and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Twenty-five years in business, and Roger W."
+  summary: "Twenty-five years in business, and Roger W. Smith is celebrating the way a man trained under George Daniels should: by building a tourbillon with an annual calendar on top, because a normal anniversary card was clearly too easy. The new Series 7 Annual Calendar Tourbillon is the news of the day…"
 ---
 
 *Published Friday, November 20, 2026 at 07:12 AM PT*

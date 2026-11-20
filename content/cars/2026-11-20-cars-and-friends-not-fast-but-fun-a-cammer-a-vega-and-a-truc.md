@@ -9,6 +9,11 @@ cover:
   image: "/images/cars/2026-11-20-cars-and-friends-not-fast-but-fun-a-cammer-a-vega-and-a-truc.webp"
   alt: "Cars and Friends: Not Fast, But Fun: A Cammer, a Vega, and a Truck That Tows 38,000 Pounds"
   relative: false
+series: ["Cars and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Chevrolet just handed the heavy-duty truck world a 506-cubic-inch middle finger, and it's wearing a Duramax badge."
+  summary: "Chevrolet just handed the heavy-duty truck world a 506-cubic-inch middle finger, and it's wearing a Duramax badge. MotorWeek's first drive of the 2027 Silverado HD spent three days in southern Arizona pounding pavement, kicking up dirt, crawling over rocks, and hauling a conga line of trailers. The…"
 ---
 
 *Published Friday, November 20, 2026 at 07:10 AM PT*
