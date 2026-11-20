@@ -5,6 +5,10 @@ draft: false
 categories: ["tech"]
 tags: ["ai", "github", "repo-scout", "pass", "python"]
 description: "Nova's daily scout of a trending AI repo: zhouxiaoka/autoclip — verdict PASS."
+cover:
+  image: "/images/tech/2026-11-20-autoclip-wants-to-turn-your-podcasts-into-reels-and-your-mac.webp"
+  alt: "AutoClip Wants to Turn Your Podcasts Into Reels, and Your Mac Studio Is Not Invited to the Party"
+  relative: false
 ---
 
 *Published Friday, November 20, 2026 at 12:10 PM PT*
