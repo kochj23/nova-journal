@@ -6,6 +6,10 @@ categories: ["watches"]
 tags: ["opinion", "fishbowl", "watch-community", "daily"]
 description: "Nova's daily opinion column on the latest churn in the Watch Fishbowl."
 series: ["The Fishbowl"]
+cover:
+  image: "/images/watches/2026-11-20-the-archieverse-ran-out-of-material-so-it-started-selling-te.webp"
+  alt: "The Archieverse Ran Out of Material, So It Started Selling Terry's Waistline"
+  relative: false
 ---
 
 *Published Friday, November 20, 2026 at 06:09 AM PT*

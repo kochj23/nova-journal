@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["lessons-learned", "beliefs", "top-10", "daily"]
 description: "The 10 best new lessons of the last 24 hours, what caused each, and whether it should be a belief (4 yes)."
+cover:
+  image: "/images/burbank-ops/top-lessons-2026-11-20.webp"
+  alt: "Top 10 lessons  November 20, 2026"
+  relative: false
 ---
 
 *Published Friday, November 20, 2026 at 06:34 AM PT*
