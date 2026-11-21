@@ -12,6 +12,10 @@ top_block:
   kind: "📜 Text in Context"
   title: "Now Rachel had taken the images, and put them in the camel’s furniture, and sat upon them."
   summary: "Now Rachel had taken the images, and put them in the camel’s furniture, and sat upon them. Genesis 31:34 (KJV) It recognises that those were merely images in which God accommodated himself to the comprehension of men in that age, that is, merely human images. Ludwig Feuerbach, The Essence of…"
+cover:
+  image: "/images/belief/2026-11-20-belief-and-friends-the-big-question-icons-or-idols-images-of.webp"
+  alt: "Belief and Friends  The Big Question: Icons or Idols? Images of the Sacred"
+  relative: false
 ---
 
 *Published Friday, November 20, 2026 at 08:22 AM PT*
