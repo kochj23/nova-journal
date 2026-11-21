@@ -9,6 +9,7 @@ cover:
   image: "/images/watches/2026-11-21-the-archieverse-found-a-way-to-make-nark-its-designated-bad-.webp"
   alt: "The Archieverse Found a Way to Make Nark Its Designated Bad Influence, and Nobody Asked Nark"
   relative: false
+series: ["The Fishbowl"]
 ---
 
 *Published Saturday, November 21, 2026 at 06:04 AM PT*
