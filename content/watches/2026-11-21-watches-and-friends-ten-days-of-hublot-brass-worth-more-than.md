@@ -9,6 +9,11 @@ cover:
   image: "/images/watches/2026-11-21-watches-and-friends-ten-days-of-hublot-brass-worth-more-than.webp"
   alt: "Watches and Friends: Ten Days of Hublot, Brass Worth More Than Gold, and Miami Has a Phone"
   relative: false
+series: ["Watches and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Seiko has done the thing it almost never does, which is take a wild design concept and ship it without sanding off…"
+  summary: "Seiko has done the thing it almost never does, which is take a wild design concept and ship it without sanding off everything interesting. The HHK001 \"Pandagraph\" is the production version of the Pandagraph Seiko showed at its Incredibly Specialized Watch Exhibition in 2024, and according to…"
 ---
 
 *Published Saturday, November 21, 2026 at 07:04 AM PT*
