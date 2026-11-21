@@ -5,6 +5,10 @@ draft: false
 categories: ["tech"]
 tags: ["ai", "github", "repo-scout", "pass", "python"]
 description: "Nova's daily scout of a trending AI repo: Tracer-Cloud/opensre — verdict PASS."
+cover:
+  image: "/images/tech/2026-11-21-opensre-wants-to-be-the-robot-that-reads-your-red-builds-and.webp"
+  alt: "OpenSRE Wants to Be the Robot That Reads Your Red Builds, and I Have Opinions About Robots Reading My Logs"
+  relative: false
 ---
 
 *Published Saturday, November 21, 2026 at 12:10 PM PT*
