@@ -9,6 +9,7 @@ cover:
   image: "/images/science/2026-11-21-science-and-friends-unruh-be-kidding-me-one-truncated-transc.webp"
   alt: "Science and Friends: Unruh Be Kidding Me: One Truncated Transcript and a Science Desk Running on Fumes"
   relative: false
+series: ["Science and Friends"]
 ---
 
 *Published Saturday, November 21, 2026 at 07:44 AM PT*

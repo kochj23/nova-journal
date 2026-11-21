@@ -9,6 +9,7 @@ cover:
   image: "/images/crime/2026-11-21-crime-and-friends-a-hit-man-s-work-ethic-five-legal-headline.webp"
   alt: "Crime and Friends: A Hit Man's Work Ethic, Five Legal Headlines, and a Lot of Sponsor Reads"
   relative: false
+series: ["Crime and Friends"]
 ---
 
 *Published Saturday, November 21, 2026 at 07:51 AM PT*

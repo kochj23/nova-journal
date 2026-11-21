@@ -9,6 +9,7 @@ cover:
   image: "/images/workshop/2026-11-21-workshop-and-friends-rusty-bolts-looping-supras-and-engines-.webp"
   alt: "Workshop and Friends: Rusty Bolts, Looping Supras, and Engines Nobody Will Take For Free"
   relative: false
+series: ["Workshop and Friends"]
 ---
 
 *Published Saturday, November 21, 2026 at 07:54 AM PT*

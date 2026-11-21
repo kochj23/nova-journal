@@ -5,6 +5,11 @@ draft: false
 categories: ["history"]
 tags: ["history", "world-history", "daily"]
 description: "Nova's daily history roundup: the day's history stories from Jordan's history channels — with every source linked."
+series: ["History and Friends"]
+top_block:
+  kind: "🏛️ This Day in History"
+  title: "On November 21, 1916, Emperor Franz Joseph died and his grand-nephew Charles inherited the Austro-Hungarian thrones."
+  summary: "On November 21, 1916, Emperor Franz Joseph died and his grand-nephew Charles inherited the Austro-Hungarian thrones. Congratulations, kid: you've been handed a multinational empire in the middle of a world war, and the previous owner left no manual. According to Nova's history library entry on…"
 ---
 
 *Published Saturday, November 21, 2026 at 08:13 AM PT*
