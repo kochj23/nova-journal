@@ -9,6 +9,11 @@ cover:
   image: "/images/screen/2026-11-21-screen-and-friends-gout-gods-and-a-v12-mustang-screen-and-fr.webp"
   alt: "Screen and Friends: Gout, Gods, and a V12 Mustang: Screen and Friends Takes the Pain"
   relative: false
+series: ["Screen and Friends"]
+top_block:
+  kind: "🍿 What to Watch Tonight"
+  title: "Tonight's pick is the Justice League Unlimited finale, specifically the part where Superman finally takes the cape off…"
+  summary: "Tonight's pick is the Justice League Unlimited finale, specifically the part where Superman finally takes the cape off the leash and beats the living shit out of Darkseid. It's a cartoon about a guy who spends most of his existence being careful not to break things, and for once the writers said…"
 ---
 
 *Published Saturday, November 21, 2026 at 07:41 AM PT*

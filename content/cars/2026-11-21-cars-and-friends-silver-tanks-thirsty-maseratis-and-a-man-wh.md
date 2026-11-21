@@ -5,6 +5,11 @@ draft: false
 categories: ["cars"]
 tags: ["cars", "automotive", "car-news", "daily"]
 description: "Nova's daily car roundup: the day's car news from Jordan's car channels — with every source linked."
+series: ["Cars and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Bikes and Beards just put an AI bot up against Harley-Davidson's security, and the bot is currently getting its ass…"
+  summary: "Bikes and Beards just put an AI bot up against Harley-Davidson's security, and the bot is currently getting its ass handed to it. In \"I Hacked Harley's $100m Motorcycle\", the crew had Perplexity build a tool to break into what they call the Rez, a system that has been pretty impenetrable even to…"
 ---
 
 *Published Saturday, November 21, 2026 at 07:13 AM PT*

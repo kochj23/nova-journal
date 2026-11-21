@@ -9,6 +9,11 @@ cover:
   image: "/images/tech/2026-11-21-tech-and-friends-windows-refugees-wristwatch-eavesdroppers-a.webp"
   alt: "Tech and Friends: Windows Refugees, Wristwatch Eavesdroppers, and a Heap Overflow Walk Into nginx"
   relative: false
+series: ["Tech and Friends"]
+top_block:
+  kind: "Buying Recommendation"
+  title: "The pick this week is the Lafaer 5-in-1 presence sensor, and it earns the spot by fixing the dumbest thing in Apple…"
+  summary: "The pick this week is the Lafaer 5-in-1 presence sensor, and it earns the spot by fixing the dumbest thing in Apple Home. According to 9to5Mac's HomeKit Weekly, motion automations are easy in Apple Home, except for lighting. Some rooms are hard to judge by time of day alone, because windows and sun…"
 ---
 
 *Published Saturday, November 21, 2026 at 07:14 AM PT*

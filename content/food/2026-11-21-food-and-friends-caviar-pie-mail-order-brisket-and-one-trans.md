@@ -9,6 +9,7 @@ cover:
   image: "/images/food/2026-11-21-food-and-friends-caviar-pie-mail-order-brisket-and-one-trans.webp"
   alt: "Food and Friends: Caviar Pie, Mail-Order Brisket, and One Transcript That Fell Down the Stairs"
   relative: false
+series: ["Food and Friends"]
 ---
 
 *Published Saturday, November 21, 2026 at 07:19 AM PT*

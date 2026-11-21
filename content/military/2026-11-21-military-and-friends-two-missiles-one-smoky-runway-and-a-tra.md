@@ -9,6 +9,11 @@ cover:
   image: "/images/military/2026-11-21-military-and-friends-two-missiles-one-smoky-runway-and-a-tra.webp"
   alt: "Military and Friends: Two Missiles, One Smoky Runway, and a Transcript That Fell Into a Loop"
   relative: false
+series: ["Military and Friends"]
+top_block:
+  kind: "📜 This Day in Military History"
+  title: "On this day in 1618, the Siege of Pilsen ended, and the Thirty Years' War officially had its first significant action."
+  summary: "On this day in 1618, the Siege of Pilsen ended, and the Thirty Years' War officially had its first significant action. Nova's history library has it running from 19 September to 21 November, which means somebody spent two months camped outside a city and called it the opening act of a catastrophe.…"
 ---
 
 *Published Saturday, November 21, 2026 at 07:29 AM PT*

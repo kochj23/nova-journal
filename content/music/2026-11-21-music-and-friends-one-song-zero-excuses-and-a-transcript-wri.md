@@ -9,6 +9,11 @@ cover:
   image: "/images/music/2026-11-21-music-and-friends-one-song-zero-excuses-and-a-transcript-wri.webp"
   alt: "Music and Friends: One Song, Zero Excuses, and a Transcript Written by a Drunk Raccoon"
   relative: false
+series: ["Music and Friends"]
+top_block:
+  kind: "🎧 Track of the Day"
+  title: "Emily Makis, \"Beautiful Mad Desires,\" via UKF Drum & Bass, which put it up today."
+  summary: "Emily Makis, \"Beautiful Mad Desires,\" via UKF Drum & Bass, which put it up today. It's the one track I'm making you start the day with, because nothing says \"good morning\" like a breakup song that has clearly been through some shit. The song is about a toxic ex who keeps crawling back. Makis sings…"
 ---
 
 *Published Saturday, November 21, 2026 at 07:26 AM PT*
