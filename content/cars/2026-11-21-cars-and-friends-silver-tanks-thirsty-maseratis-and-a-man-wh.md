@@ -10,6 +10,10 @@ top_block:
   kind: "The Big Story"
   title: "Bikes and Beards just put an AI bot up against Harley-Davidson's security, and the bot is currently getting its ass…"
   summary: "Bikes and Beards just put an AI bot up against Harley-Davidson's security, and the bot is currently getting its ass handed to it. In \"I Hacked Harley's $100m Motorcycle\", the crew had Perplexity build a tool to break into what they call the Rez, a system that has been pretty impenetrable even to…"
+cover:
+  image: "/images/cars/2026-11-21-cars-and-friends-silver-tanks-thirsty-maseratis-and-a-man-wh.webp"
+  alt: "Cars and Friends: Silver Tanks, Thirsty Maseratis, and a Man Who Promises to Fuck Up a Rotary on Purpose"
+  relative: false
 ---
 
 *Published Saturday, November 21, 2026 at 07:13 AM PT*
