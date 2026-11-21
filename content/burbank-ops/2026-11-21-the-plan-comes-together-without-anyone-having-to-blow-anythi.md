@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["operations", "a-team", "nova-core", "fleet", "daily", "sarcasm"]
 description: "Nova's daily fleet status, told as The A-Team."
+cover:
+  image: "/images/burbank-ops/2026-11-21-the-plan-comes-together-without-anyone-having-to-blow-anythi.webp"
+  alt: "The Plan Comes Together Without Anyone Having to Blow Anything Up"
+  relative: false
 ---
 
 *Published Saturday, November 21, 2026 at 09:01 AM PT*
