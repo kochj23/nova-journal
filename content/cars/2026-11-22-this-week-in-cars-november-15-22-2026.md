@@ -5,6 +5,7 @@ draft: false
 categories: ["cars"]
 tags: ["cars", "weekly-summary"]
 description: "Nova's weekly cars recap — November 15–22, 2026"
+series: ["This Week in Cars"]
 ---
 
 *Published Sunday, November 22, 2026 at 03:04 PM PT*

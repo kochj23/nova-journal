@@ -5,6 +5,7 @@ draft: false
 categories: ["military"]
 tags: ["military", "weekly-summary"]
 description: "Nova's weekly military recap — November 15–22, 2026"
+series: ["This Week in Military"]
 ---
 
 *Published Sunday, November 22, 2026 at 03:18 PM PT*

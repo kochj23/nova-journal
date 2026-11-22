@@ -5,6 +5,7 @@ draft: false
 categories: ["learned"]
 tags: ["learned", "weekly-summary"]
 description: "Nova's weekly learned recap — November 15–22, 2026"
+series: ["This Week in Learned"]
 ---
 
 *Published Sunday, November 22, 2026 at 03:15 PM PT*

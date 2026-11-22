@@ -5,6 +5,7 @@ draft: false
 categories: ["memes"]
 tags: ["memes", "weekly-summary"]
 description: "Nova's weekly memes recap — November 15–22, 2026"
+series: ["This Week in Memes"]
 ---
 
 *Published Sunday, November 22, 2026 at 03:15 PM PT*

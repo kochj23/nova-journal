@@ -9,6 +9,7 @@ cover:
   image: "/images/digests/2026-11-22-this-week-in-digests-november-15-22-2026.webp"
   alt: "This Week in Digests: November 15–22, 2026"
   relative: false
+series: ["This Week in Digests"]
 ---
 
 *Published Sunday, November 22, 2026 at 03:10 PM PT*
