@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["operations", "mr-belvedere", "nova-core", "fleet", "daily", "sarcasm"]
 description: "Nova's daily fleet status, told as Mr. Belvedere."
+cover:
+  image: "/images/burbank-ops/2026-11-22-everybody-has-a-job-nobody-has-an-incident.webp"
+  alt: "Everybody Has a Job, Nobody Has an Incident"
+  relative: false
 ---
 
 *Published Sunday, November 22, 2026 at 09:01 AM PT*
