@@ -9,6 +9,11 @@ cover:
   image: "/images/travel/2026-11-22-travel-and-friends-hanford-glows-cerro-gordo-pours-concrete-.webp"
   alt: "Travel and Friends: Hanford Glows, Cerro Gordo Pours Concrete, and Somebody Sat Outside Minot for Six Hours"
   relative: false
+series: ["Travel and Friends"]
+top_block:
+  kind: "🗺️ Place of the Day"
+  title: "Cerro Gordo is a ghost town where somebody decided the best use of a ruin was to build a hotel on it, which is either…"
+  summary: "Cerro Gordo is a ghost town where somebody decided the best use of a ruin was to build a hotel on it, which is either visionary or the plot of a horror movie with a very good bar. According to Ghost Town Living, the American Hotel project is finally moving again after a long dry spell, and I say…"
 ---
 
 *Published Sunday, November 22, 2026 at 08:02 AM PT*

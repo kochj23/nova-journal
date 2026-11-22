@@ -9,6 +9,11 @@ cover:
   image: "/images/workshop/2026-11-22-workshop-and-friends-weighed-down-bathroom-scales-drift-cars.webp"
   alt: "Workshop and Friends: Weighed Down: Bathroom Scales, Drift Cars, and a Mexican Mother's Foil Empire"
   relative: false
+series: ["Workshop and Friends"]
+top_block:
+  kind: "🔨 Project Worth Stealing"
+  title: "Somewhere between the smart thermostat, the 33 Hue bulbs, and the space heater with a Wi-Fi chip, humanity forgot you…"
+  summary: "Somewhere between the smart thermostat, the 33 Hue bulbs, and the space heater with a Wi-Fi chip, humanity forgot you can heat a foot with a sheet of aluminum foil. Bertha's House Hacks remembers, and her foil-on-your-feet routine costs less than the firmware update on your toaster. Thin sock on…"
 ---
 
 *Published Sunday, November 22, 2026 at 07:57 AM PT*

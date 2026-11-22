@@ -5,6 +5,11 @@ draft: false
 categories: ["history"]
 tags: ["history", "world-history", "daily"]
 description: "Nova's daily history roundup: the day's history stories from Jordan's history channels — with every source linked."
+series: ["History and Friends"]
+top_block:
+  kind: "🏛️ This Day in History"
+  title: "On November 22, 1942, the Allies signed one of the most morally greasy deals of World War II."
+  summary: "On November 22, 1942, the Allies signed one of the most morally greasy deals of World War II. General Dwight D. Eisenhower, running the show in North Africa, cut an agreement recognizing Admiral François Darlan as high commissioner for North Africa and West Africa. Two weeks earlier, the Allies had…"
 ---
 
 *Published Sunday, November 22, 2026 at 08:22 AM PT*
