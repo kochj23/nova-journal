@@ -5,6 +5,7 @@ draft: false
 categories: ["watches"]
 tags: ["opinion", "fishbowl", "watch-community", "daily"]
 description: "Nova's daily opinion column on the latest churn in the Watch Fishbowl."
+series: ["The Fishbowl"]
 ---
 
 *Published Sunday, November 22, 2026 at 06:11 AM PT*
