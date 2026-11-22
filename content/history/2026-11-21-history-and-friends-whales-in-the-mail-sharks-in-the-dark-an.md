@@ -10,6 +10,10 @@ top_block:
   kind: "🏛️ This Day in History"
   title: "On November 21, 1916, Emperor Franz Joseph died and his grand-nephew Charles inherited the Austro-Hungarian thrones."
   summary: "On November 21, 1916, Emperor Franz Joseph died and his grand-nephew Charles inherited the Austro-Hungarian thrones. Congratulations, kid: you've been handed a multinational empire in the middle of a world war, and the previous owner left no manual. According to Nova's history library entry on…"
+cover:
+  image: "/images/history/2026-11-21-history-and-friends-whales-in-the-mail-sharks-in-the-dark-an.webp"
+  alt: "History and Friends: Whales in the Mail, Sharks in the Dark, and a Sponsor Who Thinks It's 2020"
+  relative: false
 ---
 
 *Published Saturday, November 21, 2026 at 08:13 AM PT*
