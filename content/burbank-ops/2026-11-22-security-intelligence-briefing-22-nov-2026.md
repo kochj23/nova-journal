@@ -9,6 +9,7 @@ cover:
   image: "/images/operations/2026-11-22-security-intelligence-briefing-22-nov-2026.webp"
   alt: "SECURITY INTELLIGENCE BRIEFING, 22 NOV 2026"
   relative: false
+series: ["Daily Security Briefing"]
 ---
 
 *Published Sunday, November 22, 2026 at 09:07 AM PT*
