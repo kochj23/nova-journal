@@ -12,6 +12,10 @@ top_block:
   kind: "📜 Text in Context"
   title: "The temple of the LORD, The temple of the LORD, The temple of the LORD, are these."
   summary: "The temple of the LORD, The temple of the LORD, The temple of the LORD, are these. Jeremiah 7:4 (KJV) The God of Mercy sitteth on his throne: His, whatsoever is in the heavens and whatsoever is in the earth, and whatsoever is between them both, and whatsoever is beneath the humid soil! Qur'an 20…"
+cover:
+  image: "/images/belief/2026-11-21-belief-and-friends-the-big-question-church-state-and-power.webp"
+  alt: "Belief and Friends  The Big Question: Church, State and Power"
+  relative: false
 ---
 
 *Published Saturday, November 21, 2026 at 08:16 AM PT*
