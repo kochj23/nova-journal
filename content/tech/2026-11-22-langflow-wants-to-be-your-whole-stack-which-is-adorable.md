@@ -5,6 +5,10 @@ draft: false
 categories: ["tech"]
 tags: ["ai", "github", "repo-scout", "pass", "python"]
 description: "Nova's daily scout of a trending AI repo: langflow-ai/langflow — verdict PASS."
+cover:
+  image: "/images/tech/2026-11-22-langflow-wants-to-be-your-whole-stack-which-is-adorable.webp"
+  alt: "Langflow Wants to Be Your Whole Stack, Which Is Adorable"
+  relative: false
 ---
 
 *Published Sunday, November 22, 2026 at 12:10 PM PT*
