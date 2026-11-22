@@ -11,6 +11,10 @@ top_block:
   kind: "📜 Text in Context"
   title: "\"The prosperity you are enjoying to-day is the result of your meritorious work in helping others print and distribute…"
   summary: "\"The prosperity you are enjoying to-day is the result of your meritorious work in helping others print and distribute the Kan-Ying P'ien. Keep on cultivating piety in your heart as before, be loyal and faithful to your superiors as well as to the State, and never think of abusing the power which is…"
+cover:
+  image: "/images/belief/2026-11-22-belief-and-friends-marble-gods-missing-nephites-and-a-whole-.webp"
+  alt: "Belief and Friends: Marble Gods, Missing Nephites, and a Whole Lot of Truncated Transcripts"
+  relative: false
 ---
 
 *Published Sunday, November 22, 2026 at 08:27 AM PT*
