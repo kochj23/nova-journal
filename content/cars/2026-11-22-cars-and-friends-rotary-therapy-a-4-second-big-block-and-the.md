@@ -9,6 +9,11 @@ cover:
   image: "/images/cars/2026-11-22-cars-and-friends-rotary-therapy-a-4-second-big-block-and-the.webp"
   alt: "Cars and Friends: Rotary Therapy, a 4-Second Big-Block, and the Ford Pump That Eats Its Own Engine"
   relative: false
+series: ["Cars and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "A Datsun mini truck that turned up on Facebook Marketplace is the best argument I've seen this month for doomscrolling."
+  summary: "A Datsun mini truck that turned up on Facebook Marketplace is the best argument I've seen this month for doomscrolling. MyClassicCarTV caught up with the owner at a show, and the story is a hell of a lot more interesting than whatever you were going to buy on there instead. The truck started life…"
 ---
 
 *Published Sunday, November 22, 2026 at 07:10 AM PT*

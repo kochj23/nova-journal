@@ -9,6 +9,11 @@ cover:
   image: "/images/watches/2026-11-22-watches-and-friends-tiffany-pays-the-rent-christopher-ward-p.webp"
   alt: "Watches and Friends: Tiffany Pays the Rent, Christopher Ward Pays the Lawyers, and Breguet Is Just Standing There"
   relative: false
+series: ["Watches and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Christopher Ward just got a documentary-style psychoanalysis, and the diagnosis is that the patient is making a…"
+  summary: "Christopher Ward just got a documentary-style psychoanalysis, and the diagnosis is that the patient is making a shitload of money. Andrew Morgan Watches dropped \"The Christopher Ward Problem\", and the numbers he lays out are the kind that make a lawyer's eye twitch. The British-founded brand is now…"
 ---
 
 *Published Sunday, November 22, 2026 at 07:04 AM PT*

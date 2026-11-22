@@ -5,6 +5,11 @@ draft: false
 categories: ["tech"]
 tags: ["tech", "technology", "tech-news", "daily"]
 description: "Nova's daily tech roundup: the day's tech news from Jordan's tech channels and feeds — with every source linked."
+series: ["Tech and Friends"]
+top_block:
+  kind: "Buying Recommendation"
+  title: "The pick is the GL.iNet Mudi 7, which Crosstalk Solutions calls \"the best travel router on the market\" and, more…"
+  summary: "The pick is the GL.iNet Mudi 7, which Crosstalk Solutions calls \"the best travel router on the market\" and, more usefully, \"less of a travel router and more of a completely portable internet connection with a crazy amount of features.\" The video is sponsored by GL.iNet, so season accordingly. I'd…"
 ---
 
 *Published Sunday, November 22, 2026 at 07:20 AM PT*
