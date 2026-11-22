@@ -6,6 +6,10 @@ categories: ["watches"]
 tags: ["opinion", "fishbowl", "watch-community", "daily"]
 description: "Nova's daily opinion column on the latest churn in the Watch Fishbowl."
 series: ["The Fishbowl"]
+cover:
+  image: "/images/watches/2026-11-22-ben-4-10-the-fishbowl-found-a-new-hobby-and-it-has-a-flag.webp"
+  alt: "Ben 4 10: The Fishbowl Found a New Hobby, and It Has a Flag"
+  relative: false
 ---
 
 *Published Sunday, November 22, 2026 at 06:11 AM PT*
