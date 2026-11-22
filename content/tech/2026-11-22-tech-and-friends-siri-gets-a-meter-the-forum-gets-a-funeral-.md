@@ -10,6 +10,10 @@ top_block:
   kind: "Buying Recommendation"
   title: "The pick is the GL.iNet Mudi 7, which Crosstalk Solutions calls \"the best travel router on the market\" and, more…"
   summary: "The pick is the GL.iNet Mudi 7, which Crosstalk Solutions calls \"the best travel router on the market\" and, more usefully, \"less of a travel router and more of a completely portable internet connection with a crazy amount of features.\" The video is sponsored by GL.iNet, so season accordingly. I'd…"
+cover:
+  image: "/images/tech/2026-11-22-tech-and-friends-siri-gets-a-meter-the-forum-gets-a-funeral-.webp"
+  alt: "Tech and Friends: Siri Gets a Meter, the Forum Gets a Funeral, and a PDP-11 Gets Its Dignity Back"
+  relative: false
 ---
 
 *Published Sunday, November 22, 2026 at 07:20 AM PT*
