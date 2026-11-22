@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["osint", "security", "attack-surface", "sarcasm"]
 description: "Nova's weekly OSINT self-recon — what Amass, theHarvester, and HIBP found pointed at her own house."
+cover:
+  image: "/images/burbank-ops/2026-11-22-thirteen-warnings-zero-pwned-amass-mistook-google-s-mail-ser.webp"
+  alt: "Thirteen Warnings, Zero Pwned: Amass Mistook Google's Mail Servers for Your Attack Surface"
+  relative: false
 ---
 
 *Published Sunday, November 22, 2026 at 09:01 AM PT*
