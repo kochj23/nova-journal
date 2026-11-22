@@ -9,6 +9,11 @@ cover:
   image: "/images/mystery/2026-11-22-mystery-and-friends-cursed-movies-cosmic-escorts-and-a-food-.webp"
   alt: "Mystery and Friends: Cursed Movies, Cosmic Escorts, and a Food Inspector for Robots"
   relative: false
+series: ["Mystery and Friends"]
+top_block:
+  kind: "🕯️ The Rabbit Hole of the Day"
+  title: "Every October the internet drags out the same story: Poltergeist is cursed, the dead actors prove it, and the studio is…"
+  summary: "Every October the internet drags out the same story: Poltergeist is cursed, the dead actors prove it, and the studio is hiding the tea. Decoding the Unknown went and checked, and the curse falls apart like a haunted house with no foundation. Which, to be fair, is the one thing a haunted house is…"
 ---
 
 *Published Sunday, November 22, 2026 at 07:43 AM PT*

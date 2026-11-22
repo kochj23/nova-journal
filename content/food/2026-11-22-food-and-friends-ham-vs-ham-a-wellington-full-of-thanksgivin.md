@@ -9,6 +9,7 @@ cover:
   image: "/images/food/2026-11-22-food-and-friends-ham-vs-ham-a-wellington-full-of-thanksgivin.webp"
   alt: "Food and Friends: Ham vs. Ham, a Wellington Full of Thanksgiving, and Four-Year-Old Jamón in a Smoker"
   relative: false
+series: ["Food and Friends"]
 ---
 
 *Published Sunday, November 22, 2026 at 07:22 AM PT*

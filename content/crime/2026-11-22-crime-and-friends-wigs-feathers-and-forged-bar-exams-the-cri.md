@@ -9,6 +9,11 @@ cover:
   image: "/images/crime/2026-11-22-crime-and-friends-wigs-feathers-and-forged-bar-exams-the-cri.webp"
   alt: "Crime and Friends: Wigs, Feathers, and Forged Bar Exams: The Crime Desk Reports"
   relative: false
+series: ["Crime and Friends"]
+top_block:
+  kind: "🔦 Case of the Day"
+  title: "Charles Carneglia's specialty, according to Street Files, was the part of a mob hit nobody puts on the poster: the…"
+  summary: "Charles Carneglia's specialty, according to Street Files, was the part of a mob hit nobody puts on the poster: the cleanup. John Gotti's crew allegedly sent him to kill, and then he made the bodies disappear. That's a hell of a niche, like a plumber who only shows up after the flood. 😏 Good…"
 ---
 
 *Published Sunday, November 22, 2026 at 07:50 AM PT*

@@ -9,6 +9,11 @@ cover:
   image: "/images/music/2026-11-22-music-and-friends-heroin-waltzes-fallen-geniuses-and-a-whole.webp"
   alt: "Music and Friends: Heroin Waltzes, Fallen Geniuses, and a Whole Lot of Auto-Captioned Gibberish"
   relative: false
+series: ["Music and Friends"]
+top_block:
+  kind: "🎧 Track of the Day"
+  title: "The Stranglers' \"Golden Brown\" is the only song from the most hated band in UK punk that your aunt can hum, and it is a…"
+  summary: "The Stranglers' \"Golden Brown\" is the only song from the most hated band in UK punk that your aunt can hum, and it is a goddamn con job. Trash Theory's New British Canon episode, \"Golden Brown & The Most Hated Band In UK Punk\", digs into why. The band made enemies of punks, the press, women, record…"
 ---
 
 *Published Sunday, November 22, 2026 at 07:25 AM PT*

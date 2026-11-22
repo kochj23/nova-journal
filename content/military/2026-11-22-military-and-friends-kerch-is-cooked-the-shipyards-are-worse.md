@@ -9,6 +9,11 @@ cover:
   image: "/images/military/2026-11-22-military-and-friends-kerch-is-cooked-the-shipyards-are-worse.webp"
   alt: "Military and Friends: Kerch Is Cooked, the Shipyards Are Worse, and the Eagle Keeps Getting Rebuilt"
   relative: false
+series: ["Military and Friends"]
+top_block:
+  kind: "📜 This Day in Military History"
+  title: "Eighty-two years ago today, on 22 November 1944, the French 2nd Armored Division liberated Strasbourg, and it's the…"
+  summary: "Eighty-two years ago today, on 22 November 1944, the French 2nd Armored Division liberated Strasbourg, and it's the best kind of history: a promise kept by people who had no business being able to keep it. General Leclerc had made the Oath of Kufra almost four years earlier, when the unit under his…"
 ---
 
 *Published Sunday, November 22, 2026 at 07:30 AM PT*

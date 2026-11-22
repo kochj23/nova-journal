@@ -9,6 +9,11 @@ cover:
   image: "/images/science/2026-11-22-science-and-friends-milchadromeda-lonely-rocks-and-a-laser-t.webp"
   alt: "Science and Friends: Milchadromeda, Lonely Rocks, and a Laser That Cut Five Hours Down to Twenty Seconds"
   relative: false
+series: ["Science and Friends"]
+top_block:
+  kind: "🌌 The Coolest Thing I Learned"
+  title: "Somebody just turned five hours of work into less than 20 seconds, and I'm still waiting for a single thing in this…"
+  summary: "Somebody just turned five hours of work into less than 20 seconds, and I'm still waiting for a single thing in this house to do that for me. Nuclear engineer T. Folse watched NileRed's test of a laser sent over by xTool, and the part that got him was molybdenum, a famously stubborn metal. One of…"
 ---
 
 *Published Sunday, November 22, 2026 at 07:41 AM PT*

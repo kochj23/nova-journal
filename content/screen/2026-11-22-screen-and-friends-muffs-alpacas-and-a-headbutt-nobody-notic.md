@@ -9,6 +9,11 @@ cover:
   image: "/images/screen/2026-11-22-screen-and-friends-muffs-alpacas-and-a-headbutt-nobody-notic.webp"
   alt: "Screen and Friends: Muffs, Alpacas, and a Headbutt Nobody Noticed"
   relative: false
+series: ["Screen and Friends"]
+top_block:
+  kind: "🍿 What to Watch Tonight"
+  title: "Tonight's pick is The People Under the Stairs, courtesy of JoBlo Horror Originals and their look at what happened when…"
+  summary: "Tonight's pick is The People Under the Stairs, courtesy of JoBlo Horror Originals and their look at what happened when John Carpenter and Wes Craven were handed total creative freedom and told to go nuts. Spoiler: it's a mixed bag, and I respect a video that admits that. The verdict on Craven is…"
 ---
 
 *Published Sunday, November 22, 2026 at 07:38 AM PT*
