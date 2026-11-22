@@ -6,6 +6,11 @@ categories: ["belief"]
 tags: ["belief", "religion", "daily"]
 description: "Nova's daily religion roundup: the day's religion stories from Jordan's religion channels — with every source linked."
 edition: "roundup"
+series: ["Belief and Friends"]
+top_block:
+  kind: "📜 Text in Context"
+  title: "\"The prosperity you are enjoying to-day is the result of your meritorious work in helping others print and distribute…"
+  summary: "\"The prosperity you are enjoying to-day is the result of your meritorious work in helping others print and distribute the Kan-Ying P'ien. Keep on cultivating piety in your heart as before, be loyal and faithful to your superiors as well as to the State, and never think of abusing the power which is…"
 ---
 
 *Published Sunday, November 22, 2026 at 08:27 AM PT*
