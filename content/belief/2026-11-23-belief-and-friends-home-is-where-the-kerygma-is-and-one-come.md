@@ -11,6 +11,10 @@ top_block:
   kind: "📜 Text in Context"
   title: "“Suppose there was an oil lamp burning."
   summary: "“Suppose there was an oil lamp burning. The oil, wick, flame, and light were all impermanent and perishable. Now, suppose someone was to say: ‘While this oil lamp is burning, the oil, the wick, and the flame are all impermanent and perishable. But the light is permanent, lasting, eternal, and…"
+cover:
+  image: "/images/belief/2026-11-23-belief-and-friends-home-is-where-the-kerygma-is-and-one-come.webp"
+  alt: "Belief and Friends: Home Is Where the Kerygma Is (and One Comedian Wandered In From Politics)"
+  relative: false
 ---
 
 *Published Monday, November 23, 2026 at 08:19 AM PT*
