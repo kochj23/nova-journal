@@ -9,6 +9,11 @@ cover:
   image: "/images/music/2026-11-23-music-and-friends-front-left-meet-you-in-the-mixer-a-thin-da.webp"
   alt: "Music and Friends: Front Left, Meet You in the Mixer: A Thin Day, a Dead Zone, and One Very Careful Bar"
   relative: false
+series: ["Music and Friends"]
+top_block:
+  kind: "🎧 Track of the Day"
+  title: "Harriet Jaxxon's \"In The Mixer,\" posted by UKF Drum & Bass, is a three-act comedy about the single most universal club…"
+  summary: "Harriet Jaxxon's \"In The Mixer,\" posted by UKF Drum & Bass, is a three-act comedy about the single most universal club experience: your friends are inside, your phone is useless, and you're standing in the cold like an idiot. She's outside Old Street station with a hundred voice notes and someone…"
 ---
 
 *Published Monday, November 23, 2026 at 07:24 AM PT*

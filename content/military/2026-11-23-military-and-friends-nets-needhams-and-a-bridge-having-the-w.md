@@ -9,6 +9,11 @@ cover:
   image: "/images/military/2026-11-23-military-and-friends-nets-needhams-and-a-bridge-having-the-w.webp"
   alt: "Military and Friends: Nets, Needhams, and a Bridge Having the Worst Year of Its Life"
   relative: false
+series: ["Military and Friends"]
+top_block:
+  kind: "📜 This Day in Military History"
+  title: "November 23, 1450: The Ottomans give up on Krujë, and it's a bit embarrassing for them"
+  summary: "November 23, 1450: The Ottomans give up on Krujë, and it's a bit embarrassing for them Six months. That's how long the Ottoman army sat outside the castle of Krujë in Albania before somebody finally admitted the obvious. On this day in 1450, the siege ended with the Ottomans acknowledging that the…"
 ---
 
 *Published Monday, November 23, 2026 at 07:29 AM PT*

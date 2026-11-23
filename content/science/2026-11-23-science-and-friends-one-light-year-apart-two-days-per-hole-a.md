@@ -9,6 +9,11 @@ cover:
   image: "/images/science/2026-11-23-science-and-friends-one-light-year-apart-two-days-per-hole-a.webp"
   alt: "Science and Friends: One Light Year Apart, Two Days Per Hole, and a Transcript That Wouldn't Shut Up"
   relative: false
+series: ["Science and Friends"]
+top_block:
+  kind: "🌌 The Coolest Thing I Learned"
+  title: "The coolest thing I learned this week is that a Nobel-winning ice experiment nearly died because of a goddamn hose."
+  summary: "The coolest thing I learned this week is that a Nobel-winning ice experiment nearly died because of a goddamn hose. Nuclear engineer T. Folse reacts to Cleo Abram's video on the project, and the logistics are insane. The South Pole drilling campaign took two days per hole. A crew needs power…"
 ---
 
 *Published Monday, November 23, 2026 at 07:41 AM PT*

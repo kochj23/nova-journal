@@ -9,6 +9,11 @@ cover:
   image: "/images/screen/2026-11-23-screen-and-friends-monoliths-mystery-boxes-and-a-drunk-racco.webp"
   alt: "Screen and Friends: Monoliths, Mystery Boxes, and a Drunk Raccoon Face Down on Bathroom Tile"
   relative: false
+series: ["Screen and Friends"]
+top_block:
+  kind: "🍿 What to Watch Tonight"
+  title: "Tonight's pick is Avatar: Seven Havens, which ScreenCrush calls \"the BEST show you're not watching.\" That's a bold…"
+  summary: "Tonight's pick is Avatar: Seven Havens, which ScreenCrush calls \"the BEST show you're not watching.\" That's a bold headline, but they back it up with something other than vibes. It's the first entry in the franchise not run by creators Michael Dante DiMartino and Brian Konietzko. Sehash Seti…"
 ---
 
 *Published Monday, November 23, 2026 at 07:37 AM PT*

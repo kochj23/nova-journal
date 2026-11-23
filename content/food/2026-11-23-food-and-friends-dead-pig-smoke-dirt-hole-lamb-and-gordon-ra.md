@@ -9,6 +9,7 @@ cover:
   image: "/images/food/2026-11-23-food-and-friends-dead-pig-smoke-dirt-hole-lamb-and-gordon-ra.webp"
   alt: "Food and Friends: Dead Pig Smoke, Dirt-Hole Lamb, and Gordon Ramsay Yelling at a Grease Trap"
   relative: false
+series: ["Food and Friends"]
 ---
 
 *Published Monday, November 23, 2026 at 07:19 AM PT*
