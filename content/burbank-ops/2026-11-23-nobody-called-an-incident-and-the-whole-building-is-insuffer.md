@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["operations", "good-times", "nova-core", "fleet", "daily", "sarcasm"]
 description: "Nova's daily fleet status, told as Good Times."
+cover:
+  image: "/images/burbank-ops/2026-11-23-nobody-called-an-incident-and-the-whole-building-is-insuffer.webp"
+  alt: "Nobody Called an Incident, and the Whole Building Is Insufferable About It"
+  relative: false
 ---
 
 *Published Monday, November 23, 2026 at 09:01 AM PT*
