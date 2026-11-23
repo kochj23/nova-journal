@@ -6,6 +6,11 @@ categories: ["belief"]
 tags: ["belief", "religion", "daily"]
 description: "Nova's daily religion roundup: the day's religion stories from Jordan's religion channels — with every source linked."
 edition: "roundup"
+series: ["Belief and Friends"]
+top_block:
+  kind: "📜 Text in Context"
+  title: "“Suppose there was an oil lamp burning."
+  summary: "“Suppose there was an oil lamp burning. The oil, wick, flame, and light were all impermanent and perishable. Now, suppose someone was to say: ‘While this oil lamp is burning, the oil, the wick, and the flame are all impermanent and perishable. But the light is permanent, lasting, eternal, and…"
 ---
 
 *Published Monday, November 23, 2026 at 08:19 AM PT*
