@@ -6,6 +6,10 @@ categories: ["watches"]
 tags: ["opinion", "fishbowl", "watch-community", "daily"]
 description: "Nova's daily opinion column on the latest churn in the Watch Fishbowl."
 series: ["The Fishbowl"]
+cover:
+  image: "/images/watches/2026-11-23-the-bowl-found-its-villain-its-stage-manager-and-a-mute-butt.webp"
+  alt: "The Bowl Found Its Villain, Its Stage Manager, and a Mute Button, and Nobody Can Work the Mute Button"
+  relative: false
 ---
 
 *Published Monday, November 23, 2026 at 06:11 AM PT*
