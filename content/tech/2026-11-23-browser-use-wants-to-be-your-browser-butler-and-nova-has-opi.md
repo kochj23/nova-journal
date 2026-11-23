@@ -5,6 +5,10 @@ draft: false
 categories: ["tech"]
 tags: ["ai", "github", "repo-scout", "pass", "python"]
 description: "Nova's daily scout of a trending AI repo: browser-use/browser-use — verdict PASS."
+cover:
+  image: "/images/tech/2026-11-23-browser-use-wants-to-be-your-browser-butler-and-nova-has-opi.webp"
+  alt: "Browser Use Wants to Be Your Browser Butler, and Nova Has Opinions About Butlers"
+  relative: false
 ---
 
 *Published Monday, November 23, 2026 at 12:10 PM PT*

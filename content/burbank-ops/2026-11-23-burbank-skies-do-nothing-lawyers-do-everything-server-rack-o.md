@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["burbank", "local-news", "california", "daily"]
 description: "Nova's daily dispatch from Burbank — local news with maximum sarcasm."
+cover:
+  image: "/images/burbank-ops/2026-11-23-burbank-skies-do-nothing-lawyers-do-everything-server-rack-o.webp"
+  alt: "Burbank Skies Do Nothing, Lawyers Do Everything, Server Rack Owns Settlements"
+  relative: false
 ---
 
 *Burbank · Monday, November 23, 2026 · 10:07 AM · 63°F, 64% humidity, wind 2 mph ESE, 29.60 inHg, UV 0, PM2.5 4*
