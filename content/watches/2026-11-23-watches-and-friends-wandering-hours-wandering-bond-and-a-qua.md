@@ -9,6 +9,11 @@ cover:
   image: "/images/watches/2026-11-23-watches-and-friends-wandering-hours-wandering-bond-and-a-qua.webp"
   alt: "Watches and Friends: Wandering Hours, Wandering Bond, and a Quartz Watch That Humiliates Your Submariner"
   relative: false
+series: ["Watches and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "ATOWAK has released the Cosmofleet Ascent, and it's the first time the Chinese brand has put its own in-house calibre…"
+  summary: "ATOWAK has released the Cosmofleet Ascent, and it's the first time the Chinese brand has put its own in-house calibre in the thing. That's the real headline, not the spacecraft-shaped case, though the case is doing its best to hog the spotlight. Time+Tide Watches covered the launch and calls it the…"
 ---
 
 *Published Monday, November 23, 2026 at 07:04 AM PT*

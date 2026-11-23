@@ -9,6 +9,11 @@ cover:
   image: "/images/cars/2026-11-23-cars-and-friends-free-turbos-gravel-assault-rifles-and-a-doz.webp"
   alt: "Cars and Friends: Free Turbos, Gravel Assault Rifles, and a Dozer Hanging Off a Cliff"
   relative: false
+series: ["Cars and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Somebody bought a destroyed F-150 and decided the correct next step was to make it fast, because apparently \"destroyed\"…"
+  summary: "Somebody bought a destroyed F-150 and decided the correct next step was to make it fast, because apparently \"destroyed\" is just a starting bid. In his latest build video, ScrapLifeLee is turning the wreck into what he calls the ultimate \"work\" truck, and the word \"work\" is doing about as much…"
 ---
 
 *Published Monday, November 23, 2026 at 07:10 AM PT*

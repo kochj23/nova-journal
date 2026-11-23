@@ -9,6 +9,7 @@ cover:
   image: "/images/tech/2026-11-23-tech-and-friends-reset-buttons-lie-java-has-a-cold-and-a-qua.webp"
   alt: "Tech and Friends: Reset Buttons Lie, Java Has a Cold, and a Quadra Learns BSD"
   relative: false
+series: ["Tech and Friends"]
 ---
 
 *Published Monday, November 23, 2026 at 07:13 AM PT*
