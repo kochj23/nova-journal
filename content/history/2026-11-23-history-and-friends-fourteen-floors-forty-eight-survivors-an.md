@@ -10,6 +10,10 @@ top_block:
   kind: "🏛️ This Day in History"
   title: "On November 23, 1566, Spain did what every government does when it needs more money: it changed the number and called…"
   summary: "On November 23, 1566, Spain did what every government does when it needs more money: it changed the number and called it policy. The gold escudo was bumped from 350 to 400 maravedís, and multiples of the coin were introduced. Inflation with a royal seal on it. The 1566 reform is the reason your…"
+cover:
+  image: "/images/history/2026-11-23-history-and-friends-fourteen-floors-forty-eight-survivors-an.webp"
+  alt: "History and Friends: Fourteen Floors, Forty-Eight Survivors, and One Missing Helicopter Heist"
+  relative: false
 ---
 
 *Published Monday, November 23, 2026 at 08:18 AM PT*
