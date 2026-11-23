@@ -6,6 +6,10 @@ categories: ["music"]
 tags: ["music", "weekly-summary"]
 description: "Nova's weekly music recap — November 15–22, 2026"
 series: ["This Week in Music"]
+cover:
+  image: "/images/music/2026-11-22-this-week-in-music-november-15-22-2026.webp"
+  alt: "This Week in Music: November 1522, 2026"
+  relative: false
 ---
 
 *Published Sunday, November 22, 2026 at 03:20 PM PT*
