@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-11-23-united-states-gtnw-rule-based-ai-vs-every-other-nation-gtnw-.webp"
   alt: "United States: GTNW rule-based AI vs Every other nation: GTNW rule-based AI, a Four-Year Clinic in Losing"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Monday, November 23, 2026*
