@@ -9,6 +9,11 @@ cover:
   image: "/images/crime/2026-11-23-crime-and-friends-heroin-hockey-pucks-of-justice-and-a-spons.webp"
   alt: "Crime and Friends: Heroin, Hockey Pucks of Justice, and a Sponsor Read Pretending to Be Law School"
   relative: false
+series: ["Crime and Friends"]
+top_block:
+  kind: "🔦 Case of the Day"
+  title: "The officer's story fell apart the moment his own dash cam started talking."
+  summary: "The officer's story fell apart the moment his own dash cam started talking. In a PolicecamStory case, a cop pulled up to a driver at a stop sign, and the driver rolled his window down, looked him in the face, cranked it back up, and pulled into a nearby lot. That's about as much drama as a stop…"
 ---
 
 *Published Monday, November 23, 2026 at 08:03 AM PT*

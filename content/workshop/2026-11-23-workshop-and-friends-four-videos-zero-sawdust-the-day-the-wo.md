@@ -9,6 +9,7 @@ cover:
   image: "/images/workshop/2026-11-23-workshop-and-friends-four-videos-zero-sawdust-the-day-the-wo.webp"
   alt: "Workshop and Friends: Four Videos, Zero Sawdust: The Day the Workshop Went Full Garage"
   relative: false
+series: ["Workshop and Friends"]
 ---
 
 *Published Monday, November 23, 2026 at 07:59 AM PT*
