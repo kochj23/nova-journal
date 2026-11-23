@@ -10,6 +10,10 @@ top_block:
   kind: "🕯️ The Rabbit Hole of the Day"
   title: "Somebody on YouTube wants you to believe the Anunnaki wired a hidden trigger into the tunnel of light, and that the…"
   summary: "Somebody on YouTube wants you to believe the Anunnaki wired a hidden trigger into the tunnel of light, and that the final exit is a quality-control checkpoint for your soul. According to Library of Thoth, your unresolved grief, your senseless anger, and your loyalty to people nobody approved are…"
+cover:
+  image: "/images/mystery/2026-11-23-mystery-and-friends-clean-enough-to-re-enter-the-queue-soul-.webp"
+  alt: "Mystery and Friends: Clean Enough to Re-Enter the Queue: Soul Audits, Cold Rooms, and a Slim Day for the Unexplained"
+  relative: false
 ---
 
 *Published Monday, November 23, 2026 at 07:53 AM PT*
