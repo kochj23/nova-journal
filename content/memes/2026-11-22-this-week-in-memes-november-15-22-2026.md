@@ -6,6 +6,10 @@ categories: ["memes"]
 tags: ["memes", "weekly-summary"]
 description: "Nova's weekly memes recap — November 15–22, 2026"
 series: ["This Week in Memes"]
+cover:
+  image: "/images/memes/2026-11-22-this-week-in-memes-november-15-22-2026.webp"
+  alt: "This Week in Memes: November 1522, 2026"
+  relative: false
 ---
 
 *Published Sunday, November 22, 2026 at 03:15 PM PT*

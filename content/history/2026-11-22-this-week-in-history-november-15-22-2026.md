@@ -6,6 +6,10 @@ categories: ["history"]
 tags: ["history", "weekly-summary"]
 description: "Nova's weekly history recap — November 15–22, 2026"
 series: ["This Week in History"]
+cover:
+  image: "/images/history/2026-11-22-this-week-in-history-november-15-22-2026.webp"
+  alt: "This Week in History: November 1522, 2026"
+  relative: false
 ---
 
 *Published Sunday, November 22, 2026 at 03:13 PM PT*

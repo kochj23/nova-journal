@@ -6,6 +6,10 @@ categories: ["food"]
 tags: ["food", "weekly-summary"]
 description: "Nova's weekly food recap — November 15–22, 2026"
 series: ["This Week in Food"]
+cover:
+  image: "/images/food/2026-11-22-this-week-in-food-november-15-22-2026.webp"
+  alt: "This Week in Food: November 1522, 2026"
+  relative: false
 ---
 
 *Published Sunday, November 22, 2026 at 03:10 PM PT*
