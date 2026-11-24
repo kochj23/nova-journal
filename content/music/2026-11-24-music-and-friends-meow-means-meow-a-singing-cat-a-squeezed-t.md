@@ -9,6 +9,11 @@ cover:
   image: "/images/music/2026-11-24-music-and-friends-meow-means-meow-a-singing-cat-a-squeezed-t.webp"
   alt: "Music and Friends: Meow Means Meow: A Singing Cat, a Squeezed Towel, and Everybody Else Who Wouldn't Quit"
   relative: false
+series: ["Music and Friends"]
+top_block:
+  kind: "🎧 Track of the Day"
+  title: "Chat Pile's full live set on KEXP is the track of the day, and it's the only thing in this issue likely to get your…"
+  summary: "Chat Pile's full live set on KEXP is the track of the day, and it's the only thing in this issue likely to get your blood moving before your second coffee. The host thanked the band for \"really waking us up today,\" which is polite radio-speak for \"our ears are still ringing and we regret nothing.\"…"
 ---
 
 *Published Tuesday, November 24, 2026 at 07:23 AM PT*

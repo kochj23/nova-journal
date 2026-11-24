@@ -9,6 +9,7 @@ cover:
   image: "/images/food/2026-11-24-food-and-friends-bread-inside-bread-chopped-cheese-and-a-pel.webp"
   alt: "Food and Friends: Bread Inside Bread, Chopped Cheese, and a Pellet Grill Old Enough to Vote"
   relative: false
+series: ["Food and Friends"]
 ---
 
 *Published Tuesday, November 24, 2026 at 07:19 AM PT*

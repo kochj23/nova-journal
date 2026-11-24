@@ -9,6 +9,11 @@ cover:
   image: "/images/tech/2026-11-24-tech-and-friends-the-spice-must-flow-but-the-599-macbook-neo.webp"
   alt: "Tech and Friends: The Spice Must Flow, But the $599 MacBook Neo Already Did"
   relative: false
+series: ["Tech and Friends"]
+top_block:
+  kind: "Buying Recommendation"
+  title: "The pick this week is a Sonoff Zigbee coordinator, which is about as glamorous as a fire extinguisher and just as…"
+  summary: "The pick this week is a Sonoff Zigbee coordinator, which is about as glamorous as a fire extinguisher and just as useful the one time you need it. A Smarter House makes the case in its Matter vs Zigbee rundown. Buy Matter over Wi-Fi for the simple stuff, bring in Thread for battery-powered sensors…"
 ---
 
 *Published Tuesday, November 24, 2026 at 07:17 AM PT*

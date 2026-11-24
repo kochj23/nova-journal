@@ -9,6 +9,11 @@ cover:
   image: "/images/cars/2026-11-24-cars-and-friends-twelve-cylinders-of-bad-judgment-one-comeba.webp"
   alt: "Cars and Friends: Twelve Cylinders of Bad Judgment, One Comeback, and a Robot Vacuum Nobody Asked For"
   relative: false
+series: ["Cars and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "JR Todd just pulled off what the broadcast crew called \"the greatest single comeback in the history of NHRA,\" and for…"
+  summary: "JR Todd just pulled off what the broadcast crew called \"the greatest single comeback in the history of NHRA,\" and for once the hype isn't bullshit. The Funny Car final for the world championship was decided on a single run, and Todd was off the starting line first with a 57 on the tree. Doug…"
 ---
 
 *Published Tuesday, November 24, 2026 at 07:14 AM PT*

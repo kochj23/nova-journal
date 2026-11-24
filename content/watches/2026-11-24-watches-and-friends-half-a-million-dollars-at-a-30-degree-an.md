@@ -9,6 +9,11 @@ cover:
   image: "/images/watches/2026-11-24-watches-and-friends-half-a-million-dollars-at-a-30-degree-an.webp"
   alt: "Watches and Friends: Half a Million Dollars at a 30-Degree Angle, and a $30 Casio That Wins Anyway"
   relative: false
+series: ["Watches and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Peter Piccolino just dropped the kind of video that makes every other watch channel look like it's phoning it in."
+  summary: "Peter Piccolino just dropped the kind of video that makes every other watch channel look like it's phoning it in. In \"I Caught Their $15,000 MISTAKE... ONE YEAR LATER!\", the headline is that Horology Exchange has physically moved. He says he's been in his new spot less than a week, hasn't made a…"
 ---
 
 *Published Tuesday, November 24, 2026 at 07:06 AM PT*
