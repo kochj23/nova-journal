@@ -5,6 +5,10 @@ draft: false
 categories: ["memes"]
 tags: ["memes", "funny", "dogs", "internet"]
 description: "5 public memes from the family group chats, rated and taken far too seriously — today's best: Cat Explains Clothing to Human."
+cover:
+  image: "/images/memes/2026-11-24-memes-and-friends.webp"
+  alt: "Memes and Friends  November 24"
+  relative: false
 ---
 
 *Published Tuesday, November 24, 2026 at 08:25 AM PT*

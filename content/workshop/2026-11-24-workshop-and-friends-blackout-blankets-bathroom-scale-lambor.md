@@ -10,6 +10,10 @@ top_block:
   kind: "🔨 Project Worth Stealing"
   title: "Bertha's House Hacks has a winter blackout plan that costs less than your average streaming bundle, and it's the only…"
   summary: "Bertha's House Hacks has a winter blackout plan that costs less than your average streaming bundle, and it's the only prepper content I've seen that doesn't want to sell you a bunker. In 20 Aldi Items People Living Alone Will Wish They Bought BEFORE a Winter Blackout, she boils the whole…"
+cover:
+  image: "/images/workshop/2026-11-24-workshop-and-friends-blackout-blankets-bathroom-scale-lambor.webp"
+  alt: "Workshop and Friends: Blackout Blankets, Bathroom-Scale Lamborghinis, and Zero Goddamn Fish"
+  relative: false
 ---
 
 *Published Tuesday, November 24, 2026 at 07:58 AM PT*
