@@ -5,6 +5,7 @@ draft: false
 categories: ["nova"]
 tags: ["games", "gtnwchess", "chess", "opinion"]
 description: "Nova's take on Little Mister's GTNW Chess session: loss."
+series: ["Game Reports"]
 ---
 
 *Published Tuesday, November 24, 2026*
