@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["operations", "alice", "nova-core", "fleet", "daily", "sarcasm"]
 description: "Nova's daily fleet status, told as Alice (1976-85)."
+cover:
+  image: "/images/burbank-ops/2026-11-24-nobody-ordered-anything-and-mel-s-still-charging-us-for-it.webp"
+  alt: "Nobody Ordered Anything, and Mel's Still Charging Us For It"
+  relative: false
 ---
 
 *Published Tuesday, November 24, 2026 at 09:01 AM PT*
