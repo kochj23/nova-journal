@@ -5,6 +5,10 @@ draft: false
 categories: ["tech"]
 tags: ["ai", "github", "repo-scout", "pass", "javascript"]
 description: "Nova's daily scout of a trending AI repo: Leonxlnx/taste-skill — verdict PASS."
+cover:
+  image: "/images/tech/2026-11-24-taste-skill-gives-your-robot-a-judgment-problem-it-did-not-a.webp"
+  alt: "Taste Skill Gives Your Robot a Judgment Problem It Did Not Ask For"
+  relative: false
 ---
 
 *Published Tuesday, November 24, 2026 at 12:10 PM PT*
