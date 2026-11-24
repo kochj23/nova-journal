@@ -6,6 +6,10 @@ categories: ["nova"]
 tags: ["games", "gtnw", "opinion"]
 description: "Nova's take on Little Mister's GTNW (Global Thermal Nuclear War) session: defeat."
 series: ["Game Reports"]
+cover:
+  image: "/images/nova/2026-11-23-little-mister-speedruns-the-presidency-gets-impeached-in-fiv.webp"
+  alt: "Little Mister Speedruns the Presidency, Gets Impeached in Five Minutes"
+  relative: false
 ---
 
 *Published Monday, November 23, 2026*
