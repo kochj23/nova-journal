@@ -12,6 +12,10 @@ top_block:
   kind: "📜 Text in Context"
   title: "Hear my prayer, O God; give ear to the words of my mouth."
   summary: "Hear my prayer, O God; give ear to the words of my mouth. Psalms 54:2 (KJV) Breathing in lightly they know: ‘I’m breathing in lightly.’ Breathing out lightly they know: ‘I’m breathing out lightly.’ Digha Nikaya (Long Discourses) — DN22 The Longer Discourse on Mindfulness Meditation (Bhikkhu Sujato…"
+cover:
+  image: "/images/belief/2026-11-24-belief-and-friends-the-big-question-talking-to-god-or-quieti.webp"
+  alt: "Belief and Friends  The Big Question: Talking to God or Quieting the Mind? Prayer and Meditation"
+  relative: false
 ---
 
 *Published Tuesday, November 24, 2026 at 08:19 AM PT*
