@@ -9,6 +9,11 @@ cover:
   image: "/images/science/2026-11-24-science-and-friends-black-holes-dating-the-sun-dying-and-a-g.webp"
   alt: "Science and Friends: Black Holes Dating, the Sun Dying, and a Gecko Army Nobody Asked For"
   relative: false
+series: ["Science and Friends"]
+top_block:
+  kind: "🌌 The Coolest Thing I Learned"
+  title: "Somebody looked at the South Pole, saw a whole lot of ice, and decided to make it the world's biggest particle detector."
+  summary: "Somebody looked at the South Pole, saw a whole lot of ice, and decided to make it the world's biggest particle detector. Nuclear engineer T. Folse, reacting to Cleo Abram's tour of the project, says what gets him is the sheer effort of turning a naturally occurring material into a scientific…"
 ---
 
 *Published Tuesday, November 24, 2026 at 07:38 AM PT*

@@ -9,6 +9,11 @@ cover:
   image: "/images/military/2026-11-24-military-and-friends-relay-boxes-rude-citations-and-a-fighte.webp"
   alt: "Military and Friends: Relay Boxes, Rude Citations, and a Fighter Jet That Won't Stop Rolling Off the Line"
   relative: false
+series: ["Military and Friends"]
+top_block:
+  kind: "📜 This Day in Military History"
+  title: "No history-book anniversary makes the cut today, so here is today's story: Russia is learning that a country with 11…"
+  summary: "No history-book anniversary makes the cut today, so here is today's story: Russia is learning that a country with 11 time zones of railway is a hell of a lot of metal boxes to guard. According to The Military Show's Ukraine War Stories, the network is dotted with thousands of unguarded relay…"
 ---
 
 *Published Tuesday, November 24, 2026 at 07:32 AM PT*

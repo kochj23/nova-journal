@@ -9,6 +9,11 @@ cover:
   image: "/images/mystery/2026-11-24-mystery-and-friends-counterfeit-souls-missing-rembrandts-and.webp"
   alt: "Mystery and Friends: Counterfeit Souls, Missing Rembrandts, and a Cruiser That Wouldn't Quit"
   relative: false
+series: ["Mystery and Friends"]
+top_block:
+  kind: "🕯️ The Rabbit Hole of the Day"
+  title: "A $500 million pile of stolen art has been missing for 35 years, and the FBI's best answer to \"where did it go\" is a…"
+  summary: "A $500 million pile of stolen art has been missing for 35 years, and the FBI's best answer to \"where did it go\" is a shrug with a badge. That's the Isabella Stewart Gardner Museum heist, and Decoding the Unknown takes a hard look at it in The Gardner Museum Heist: Who Stole $500 Million of Art?…"
 ---
 
 *Published Tuesday, November 24, 2026 at 07:44 AM PT*

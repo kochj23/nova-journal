@@ -9,6 +9,11 @@ cover:
   image: "/images/crime/2026-11-24-crime-and-friends-fish-fraud-and-a-man-who-cited-indiana-cod.webp"
   alt: "Crime and Friends: Fish, Fraud, and a Man Who Cited Indiana Code at a Cop"
   relative: false
+series: ["Crime and Friends"]
+top_block:
+  kind: "🔦 Case of the Day"
+  title: "The Fish Market Shakedown That Looked Like Business as Usual"
+  summary: "The Fish Market Shakedown That Looked Like Business as Usual Nothing says \"legitimate commerce\" like a teenager from Palermo ending up as the unofficial ruler of New York's Fulton Fish Market, and yet here we are. According to Street Files, Lanza never needed to own a single fish. He just…"
 ---
 
 *Published Tuesday, November 24, 2026 at 07:50 AM PT*

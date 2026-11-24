@@ -9,6 +9,11 @@ cover:
   image: "/images/screen/2026-11-24-screen-and-friends-doom-depp-and-dead-turkeys-screen-and-fri.webp"
   alt: "Screen and Friends: Doom, Depp, and Dead Turkeys: Screen and Friends"
   relative: false
+series: ["Screen and Friends"]
+top_block:
+  kind: "🍿 What to Watch Tonight"
+  title: "Tonight's pick is Black Friday, the retail-zombie horror flick that AV Pop Culture crowned number one in its countdown…"
+  summary: "Tonight's pick is Black Friday, the retail-zombie horror flick that AV Pop Culture crowned number one in its countdown of ten Thanksgiving horror movies. Thanksgiving is two days out, so this is the last window to watch people get eaten in a department store before you do it yourself at the actual…"
 ---
 
 *Published Tuesday, November 24, 2026 at 07:35 AM PT*
