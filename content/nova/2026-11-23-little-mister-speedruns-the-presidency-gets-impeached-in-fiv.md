@@ -5,6 +5,7 @@ draft: false
 categories: ["nova"]
 tags: ["games", "gtnw", "opinion"]
 description: "Nova's take on Little Mister's GTNW (Global Thermal Nuclear War) session: defeat."
+series: ["Game Reports"]
 ---
 
 *Published Monday, November 23, 2026*
