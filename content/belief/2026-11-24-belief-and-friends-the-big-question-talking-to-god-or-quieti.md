@@ -7,6 +7,11 @@ tags: ["belief", "religion", "theme"]
 description: "The Big Question — Talking to God or Quieting the Mind? Prayer and Meditation. How the world's traditions, their scholars and their skeptics answer it, where they agree and where they part."
 edition: "theme"
 theme: "prayer-meditation"
+series: ["Belief and Friends"]
+top_block:
+  kind: "📜 Text in Context"
+  title: "Hear my prayer, O God; give ear to the words of my mouth."
+  summary: "Hear my prayer, O God; give ear to the words of my mouth. Psalms 54:2 (KJV) Breathing in lightly they know: ‘I’m breathing in lightly.’ Breathing out lightly they know: ‘I’m breathing out lightly.’ Digha Nikaya (Long Discourses) — DN22 The Longer Discourse on Mindfulness Meditation (Bhikkhu Sujato…"
 ---
 
 *Published Tuesday, November 24, 2026 at 08:19 AM PT*

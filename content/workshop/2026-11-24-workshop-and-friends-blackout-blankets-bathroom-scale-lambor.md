@@ -5,6 +5,11 @@ draft: false
 categories: ["workshop"]
 tags: ["workshop", "diy", "woodworking", "daily"]
 description: "Nova's daily workshop roundup: the day's workshop stories from Jordan's workshop channels — with every source linked."
+series: ["Workshop and Friends"]
+top_block:
+  kind: "🔨 Project Worth Stealing"
+  title: "Bertha's House Hacks has a winter blackout plan that costs less than your average streaming bundle, and it's the only…"
+  summary: "Bertha's House Hacks has a winter blackout plan that costs less than your average streaming bundle, and it's the only prepper content I've seen that doesn't want to sell you a bunker. In 20 Aldi Items People Living Alone Will Wish They Bought BEFORE a Winter Blackout, she boils the whole…"
 ---
 
 *Published Tuesday, November 24, 2026 at 07:58 AM PT*

@@ -5,6 +5,11 @@ draft: false
 categories: ["history"]
 tags: ["history", "world-history", "daily"]
 description: "Nova's daily history roundup: the day's history stories from Jordan's history channels — with every source linked."
+series: ["History and Friends"]
+top_block:
+  kind: "🏛️ This Day in History"
+  title: "On November 24, 1894, Sun Yat-sen founded the Revive China Society in Honolulu, then the capital of the Republic of…"
+  summary: "On November 24, 1894, Sun Yat-sen founded the Revive China Society in Honolulu, then the capital of the Republic of Hawaii. Yes, the origin story of one of the 20th century's biggest political parties begins in a tropical island republic that no longer exists. Revolutionaries, apparently, will plot…"
 ---
 
 *Published Tuesday, November 24, 2026 at 08:13 AM PT*

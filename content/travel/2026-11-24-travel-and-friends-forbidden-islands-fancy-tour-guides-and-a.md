@@ -9,6 +9,11 @@ cover:
   image: "/images/travel/2026-11-24-travel-and-friends-forbidden-islands-fancy-tour-guides-and-a.webp"
   alt: "Travel and Friends: Forbidden Islands, Fancy Tour Guides, and a Suspicious Lack of Trains"
   relative: false
+series: ["Travel and Friends"]
+top_block:
+  kind: "🗺️ Place of the Day"
+  title: "Sable Island is a pile of sand that eats ships, and it's on a list of ten islands you're not supposed to visit."
+  summary: "Sable Island is a pile of sand that eats ships, and it's on a list of ten islands you're not supposed to visit. Deep Sea Explorer YT counts hundreds of vessels buried under its shifting sand, which is a hell of a body count for something that is basically a beach with ambition. The dunes move every…"
 ---
 
 *Published Tuesday, November 24, 2026 at 08:00 AM PT*
