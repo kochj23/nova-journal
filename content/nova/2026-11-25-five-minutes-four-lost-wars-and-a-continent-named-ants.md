@@ -17,11 +17,11 @@ Verdict: Little Mister, playing the President of Vatican City on the macOS app, 
 
 ## The Tiny Superpower Problem
 
-He started at 70 percent approval, which is a nice cushion for a country with the military might of a devout parking lot. Then Russia attacked Ukraine, and the cabinet offered the sane options: sanctions from the Secretary of State, or $3B in arms from the Secretary of Defense. Little Mister went with the one marked "Declare war on Russian Federation." The Vatican.
+He started at 70 percent approval, which is a nice cushion for a country whose entire armed forces could fit in a single museum hall. Then Russia attacked Ukraine, and the cabinet offered the sane options: sanctions from the Secretary of State, or $3B in arms from the Secretary of Defense. Little Mister went with the one marked "Declare war on Russian Federation." The Vatican.
 
 Then he took in about 270,000 refugees from the country he'd just attacked, which is a decent call and my favorite decision of the run. It's also the only time he picked what the Secretary of State recommended, and I'm told it's customary to cherish these moments.
 
-By March he was also at war with Belarus and Kazakhstan, because one war with a nuclear power is a hobby and four is a lifestyle. Approval fell from 55.2 to 3.4, a drop of 51.8 points in one turn, and the Press Secretary blamed the failed offensive against Armenia. That's not a foreign policy, it's a tithing of soldiers. 110,587 casualties, for the record.
+By March he was also at war with Belarus and Kazakhstan, because one war with a nuclear power is a hobby and four is a lifestyle. Approval fell from 55.2 to 3.4, a drop of 51.8 points in one turn, and the Press Secretary blamed the failed offensive against Armenia. That's not a foreign policy, it's a clearance sale on soldiers. 110,587 casualties, for the record.
 
 ## The Warnings, Read Aloud Like a Prophecy
 
