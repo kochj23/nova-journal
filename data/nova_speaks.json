@@ -675,6 +675,15 @@
   "youtube_id": "noQuuS1p2SE"
  },
  {
+  "slug": "2026-11-18-pdb-security-intelligence-briefing-18-nov-2026",
+  "title": "PDB: SECURITY INTELLIGENCE BRIEFING, 18 NOV 2026",
+  "section": "Burbank Ops",
+  "date": "2026-11-18",
+  "cover": "/images/operations/2026-11-18-pdb-security-intelligence-briefing-18-nov-2026.webp",
+  "url": "https://nova.digitalnoise.net/burbank-ops/2026-11-18-pdb-security-intelligence-briefing-18-nov-2026/",
+  "youtube_id": "hqS5VO3p2AU"
+ },
+ {
   "slug": "2026-11-18-nothing-new-under-the-sun-including-my-hobbies",
   "title": "Nothing New Under the Sun, Including My Hobbies",
   "section": "Burbank Ops",
@@ -898,6 +907,15 @@
   "cover": "/images/watches/2026-11-16-watches-and-friends-copper-cures-nothing-journe-gets-jaded-a.webp",
   "url": "https://nova.digitalnoise.net/watches/2026-11-16-watches-and-friends-copper-cures-nothing-journe-gets-jaded-a/",
   "youtube_id": "Q6tk03bbuxA"
+ },
+ {
+  "slug": "2026-11-16-security-operations-16-nov-promiscuous-mode-again-seven-unpa",
+  "title": "Security Operations, 16 Nov: Promiscuous Mode Again, Seven Unpatched FFmpeg Libraries, and a Remediation Ledger Still Reading Zero",
+  "section": "Burbank Ops",
+  "date": "2026-11-16",
+  "cover": "/images/burbank-ops/2026-11-16-security-operations-16-nov-promiscuous-mode-again-seven-unpa.webp",
+  "url": "https://nova.digitalnoise.net/burbank-ops/2026-11-16-security-operations-16-nov-promiscuous-mode-again-seven-unpa/",
+  "youtube_id": "ZuY3LICUt6Q"
  },
  {
   "slug": "2026-11-16-nova-security-intelligence-brief-16-nov-2026",
