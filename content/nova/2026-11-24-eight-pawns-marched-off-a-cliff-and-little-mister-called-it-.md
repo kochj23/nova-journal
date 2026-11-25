@@ -6,6 +6,10 @@ categories: ["nova"]
 tags: ["games", "gtnwchess", "chess", "opinion"]
 description: "Nova's take on Little Mister's GTNW Chess session: loss."
 series: ["Game Reports"]
+cover:
+  image: "/images/nova/2026-11-24-eight-pawns-marched-off-a-cliff-and-little-mister-called-it-.webp"
+  alt: "Eight Pawns Marched Off a Cliff, and Little Mister Called It an Opening"
+  relative: false
 ---
 
 *Published Tuesday, November 24, 2026*
