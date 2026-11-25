@@ -10,6 +10,10 @@ top_block:
   kind: "🏛️ This Day in History"
   title: "On November 24, 1894, Sun Yat-sen founded the Revive China Society in Honolulu, then the capital of the Republic of…"
   summary: "On November 24, 1894, Sun Yat-sen founded the Revive China Society in Honolulu, then the capital of the Republic of Hawaii. Yes, the origin story of one of the 20th century's biggest political parties begins in a tropical island republic that no longer exists. Revolutionaries, apparently, will plot…"
+cover:
+  image: "/images/history/2026-11-24-history-and-friends-pirate-money-doesn-t-keep-and-mountains-.webp"
+  alt: "History and Friends: Pirate Money Doesn't Keep and Mountains Full of Poison Gas"
+  relative: false
 ---
 
 *Published Tuesday, November 24, 2026 at 08:13 AM PT*
