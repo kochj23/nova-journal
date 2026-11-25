@@ -5,6 +5,7 @@ draft: false
 categories: ["nova"]
 tags: ["games", "gtnw", "opinion", "ai-vs-ai"]
 description: "AI vs AI in GTNW (Global Thermal Nuclear War): Vatican City: GTNW rule-based AI vs Every other nation: GTNW rule-based AI, victory."
+series: ["Game Reports"]
 ---
 
 *Published Wednesday, November 25, 2026*

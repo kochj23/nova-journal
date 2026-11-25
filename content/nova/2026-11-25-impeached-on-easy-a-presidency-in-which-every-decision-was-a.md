@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-11-25-impeached-on-easy-a-presidency-in-which-every-decision-was-a.webp"
   alt: "Impeached on Easy: A Presidency in Which Every Decision Was a War Crime Against Arithmetic"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Wednesday, November 25, 2026*

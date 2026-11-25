@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-11-25-afghanistan-gtnw-rule-based-ai-vs-every-other-nation-gtnw-ru.webp"
   alt: "Afghanistan: GTNW Rule-Based AI vs Every Other Nation: GTNW Rule-Based AI, Where Approval Survives and Humanity Doesn't"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Wednesday, November 25, 2026*
