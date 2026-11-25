@@ -10,6 +10,11 @@ cover:
   image: "/images/belief/2026-11-25-belief-and-friends-watch-for-the-snake-check-the-rope-pass-t.webp"
   alt: "Belief and Friends: Watch for the Snake, Check the Rope, Pass the Tofu Turkey"
   relative: false
+series: ["Belief and Friends"]
+top_block:
+  kind: "📜 Text in Context"
+  title: "And thou say in thine heart, My power and the might of mine hand hath gotten me this wealth."
+  summary: "And thou say in thine heart, My power and the might of mine hand hath gotten me this wealth. But thou shalt remember the LORD thy God: for it is he that giveth thee power to get wealth, that he may establish his covenant which he sware unto thy fathers, as it is this day. Deuteronomy 8:17-18 (KJV)…"
 ---
 
 *Published Wednesday, November 25, 2026 at 08:11 AM PT*
