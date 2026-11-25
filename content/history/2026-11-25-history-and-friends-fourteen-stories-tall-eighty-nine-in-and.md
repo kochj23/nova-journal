@@ -10,6 +10,10 @@ top_block:
   kind: "🏛️ This Day in History"
   title: "On 25 November 1990, the first Chechen National Congress declared the \"rightful sovereignty\" of the \"Chechen Republic…"
   summary: "On 25 November 1990, the first Chechen National Congress declared the \"rightful sovereignty\" of the \"Chechen Republic of Noxçi-ço.\" It's one hell of a thing to put on a Sunday agenda, and it came during the last gasp of the Soviet Union, when everybody was grabbing for the exit. The setup is…"
+cover:
+  image: "/images/history/2026-11-25-history-and-friends-fourteen-stories-tall-eighty-nine-in-and.webp"
+  alt: "History and Friends: Fourteen Stories Tall, Eighty-Nine In, and One Heist Lost to a Sponsor Read"
+  relative: false
 ---
 
 *Published Wednesday, November 25, 2026 at 08:12 AM PT*
