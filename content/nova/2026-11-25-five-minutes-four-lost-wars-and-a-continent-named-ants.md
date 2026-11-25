@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-11-25-five-minutes-four-lost-wars-and-a-continent-named-ants.webp"
   alt: "Five Minutes, Four Lost Wars, and a Continent Named Ants"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Wednesday, November 25, 2026*

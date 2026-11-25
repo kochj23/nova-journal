@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-11-25-removed-in-under-five-minutes-and-he-did-it-in-two.webp"
   alt: "Removed in Under Five Minutes, and He Did It in Two"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Wednesday, November 25, 2026*
