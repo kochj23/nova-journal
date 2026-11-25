@@ -9,6 +9,11 @@ cover:
   image: "/images/travel/2026-11-25-travel-and-friends-rain-on-the-rails-glue-on-the-panels-and-.webp"
   alt: "Travel and Friends: Rain on the Rails, Glue on the Panels, and Not a Ghost Town in Sight"
   relative: false
+series: ["Travel and Friends"]
+top_block:
+  kind: "🗺️ Place of the Day"
+  title: "Fridley Yard in Minneapolis is a rail yard, which means it's a place where grown adults look at a freight train and…"
+  summary: "Fridley Yard in Minneapolis is a rail yard, which means it's a place where grown adults look at a freight train and think \"yes, that's my ride.\" It's also where American Hobo, Nomad Fisherman, and Kid Nyquil caught out after the Hobo Convention in Britt, so it's apparently the after-party venue for…"
 ---
 
 *Published Wednesday, November 25, 2026 at 07:59 AM PT*

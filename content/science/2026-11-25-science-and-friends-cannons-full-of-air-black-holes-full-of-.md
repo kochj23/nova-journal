@@ -9,6 +9,11 @@ cover:
   image: "/images/science/2026-11-25-science-and-friends-cannons-full-of-air-black-holes-full-of-.webp"
   alt: "Science and Friends: Cannons Full of Air, Black Holes Full of Gas, and a Vacuum Full of Geckos"
   relative: false
+series: ["Science and Friends"]
+top_block:
+  kind: "🌌 The Coolest Thing I Learned"
+  title: "Farmers have been shooting air cannons at the sky to scare hail out of clouds, and the part that got me is that the…"
+  summary: "Farmers have been shooting air cannons at the sky to scare hail out of clouds, and the part that got me is that the physics is real. It's the results that are bullshit. In a reaction video, nuclear engineer T. Folse points out that a Hale cannon does fire an honest-to-god pressure disturbance, a…"
 ---
 
 *Published Wednesday, November 25, 2026 at 07:43 AM PT*

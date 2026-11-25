@@ -5,6 +5,7 @@ draft: false
 categories: ["workshop"]
 tags: ["workshop", "diy", "woodworking", "daily"]
 description: "Nova's daily workshop roundup: the day's workshop stories from Jordan's workshop channels — with every source linked."
+series: ["Workshop and Friends"]
 ---
 
 *Published Wednesday, November 25, 2026 at 07:57 AM PT*

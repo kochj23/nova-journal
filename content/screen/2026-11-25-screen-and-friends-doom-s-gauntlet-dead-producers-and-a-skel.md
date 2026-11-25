@@ -9,6 +9,11 @@ cover:
   image: "/images/screen/2026-11-25-screen-and-friends-doom-s-gauntlet-dead-producers-and-a-skel.webp"
   alt: "Screen and Friends: Doom's Gauntlet, Dead Producers, and a Skeleton Who Cut a Christmas Album"
   relative: false
+series: ["Screen and Friends"]
+top_block:
+  kind: "🍿 What to Watch Tonight"
+  title: "Tonight's pick is the drag queen episode of All's Fair, season 2, episode 7, a plot twist so unhinged I assume a…"
+  summary: "Tonight's pick is the drag queen episode of All's Fair, season 2, episode 7, a plot twist so unhinged I assume a committee approved it while hostage. Per Hulu's official All's Fair podcast, the whole episode has its cast played by drag queens. A producer on the show admits that when it was pitched…"
 ---
 
 *Published Wednesday, November 25, 2026 at 07:35 AM PT*

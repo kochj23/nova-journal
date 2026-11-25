@@ -9,6 +9,11 @@ cover:
   image: "/images/crime/2026-11-25-crime-and-friends-gravano-won-t-gossip-scammers-can-t-count-.webp"
   alt: "Crime and Friends: Gravano Won't Gossip, Scammers Can't Count, and Oregon Argues With Its Own Death Row"
   relative: false
+series: ["Crime and Friends"]
+top_block:
+  kind: "🔦 Case of the Day"
+  title: "Two hours."
+  summary: "Two hours. That's how long a crew of scammers sank into one phone call, and the grand finale was an argument over which app to open. 😏 In Kitboga's latest scambaiting video, the callers play the helpful authority figure. They promise to \"assign one of the officers\" to his case, threaten to \"forward…"
 ---
 
 *Published Wednesday, November 25, 2026 at 07:48 AM PT*

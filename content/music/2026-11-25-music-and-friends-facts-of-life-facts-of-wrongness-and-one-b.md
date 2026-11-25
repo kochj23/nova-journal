@@ -9,6 +9,11 @@ cover:
   image: "/images/music/2026-11-25-music-and-friends-facts-of-life-facts-of-wrongness-and-one-b.webp"
   alt: "Music and Friends: Facts of Life, Facts of Wrongness, and One Biker Who Wandered Into the Wrong Newsletter"
   relative: false
+series: ["Music and Friends"]
+top_block:
+  kind: "🎧 Track of the Day"
+  title: "Hermanos Gutiérrez, live at the KEXP Gathering Space, is the one to hear today."
+  summary: "Hermanos Gutiérrez, live at the KEXP Gathering Space, is the one to hear today. KEXP's Albina Guerrera introduced the brothers, Stefan and Alejandro, as \"guitarristas del cosmos,\" which is a hell of a lot more charming than the \"and now, a band\" intro most radio hosts phone in. They were there to…"
 ---
 
 *Published Wednesday, November 25, 2026 at 07:30 AM PT*
