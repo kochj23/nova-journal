@@ -9,6 +9,11 @@ cover:
   image: "/images/cars/2026-11-25-cars-and-friends-winged-warriors-wet-lancers-and-a-ford-that.webp"
   alt: "Cars and Friends: Winged Warriors, Wet Lancers, and a Ford That Won't Make Fuel Pressure"
   relative: false
+series: ["Cars and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Porsche built an electric Boxster, and Edmunds got to drive the prototype, so brace for a lot of people clutching their…"
+  summary: "Porsche built an electric Boxster, and Edmunds got to drive the prototype, so brace for a lot of people clutching their pearls and their gas cans. The Edmunds Cars drive of the Porsche Boxster EV asks the question every enthusiast has been screaming into the void: can an electric sports car be…"
 ---
 
 *Published Wednesday, November 25, 2026 at 07:09 AM PT*

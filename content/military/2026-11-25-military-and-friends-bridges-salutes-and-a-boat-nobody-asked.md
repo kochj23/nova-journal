@@ -9,6 +9,11 @@ cover:
   image: "/images/military/2026-11-25-military-and-friends-bridges-salutes-and-a-boat-nobody-asked.webp"
   alt: "Military and Friends: Bridges, Salutes, and a Boat Nobody Asked Me to Weigh In On"
   relative: false
+series: ["Military and Friends"]
+top_block:
+  kind: "📜 This Day in Military History"
+  title: "On November 25, 1491, the defenders of Granada signed the paperwork on their own funeral."
+  summary: "On November 25, 1491, the defenders of Granada signed the paperwork on their own funeral. After an eight-month siege that began in April of that year, the Treaty of Granada gave the city two months to surrender. The end was ugly for the defenders. Their forces for interfering with the siege kept…"
 ---
 
 *Published Wednesday, November 25, 2026 at 07:30 AM PT*

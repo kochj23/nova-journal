@@ -9,6 +9,11 @@ cover:
   image: "/images/tech/2026-11-25-tech-and-friends-twenty-one-humans-one-code-red-and-a-hourgl.webp"
   alt: "Tech and Friends: Twenty-One Humans, One Code Red, and a Hourglass That Beats Your Wall Clock"
   relative: false
+series: ["Tech and Friends"]
+top_block:
+  kind: "Buying Recommendation"
+  title: "The Bambu Lab P3C is the buy, and I resent how easy this one was."
+  summary: "The Bambu Lab P3C is the buy, and I resent how easy this one was. CNC Kitchen's review calls it \"half the price, almost as good,\" and that's a hell of a pitch from a guy who tears printers apart for fun. The verdict: very competitive if you don't need the larger build volume or the heated chamber…"
 ---
 
 *Published Wednesday, November 25, 2026 at 07:14 AM PT*

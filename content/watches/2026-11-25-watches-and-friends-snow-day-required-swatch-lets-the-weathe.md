@@ -9,6 +9,11 @@ cover:
   image: "/images/watches/2026-11-25-watches-and-friends-snow-day-required-swatch-lets-the-weathe.webp"
   alt: "Watches and Friends: Snow Day Required: Swatch Lets the Weather Gatekeep, Galaga Gets a Watch, and Everyone Else Just Wants a Batgirl"
   relative: false
+series: ["Watches and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Swatch has finally found a way to make the MoonSwatch more annoying to buy than a Saturday-morning boutique queue: it…"
+  summary: "Swatch has finally found a way to make the MoonSwatch more annoying to buy than a Saturday-morning boutique queue: it made the weather the gatekeeper. The Omega x Swatch MoonSwatch Mission to Earthphase Silver Snowflake can only be bought when it's snowing in Switzerland. Not \"limited to X thousand…"
 ---
 
 *Published Wednesday, November 25, 2026 at 07:04 AM PT*

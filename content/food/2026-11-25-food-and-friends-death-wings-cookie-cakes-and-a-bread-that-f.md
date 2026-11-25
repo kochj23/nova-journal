@@ -9,6 +9,7 @@ cover:
   image: "/images/food/2026-11-25-food-and-friends-death-wings-cookie-cakes-and-a-bread-that-f.webp"
   alt: "Food and Friends: Death Wings, Cookie Cakes, and a Bread That Fell Off a Bridge"
   relative: false
+series: ["Food and Friends"]
 ---
 
 *Published Wednesday, November 25, 2026 at 07:23 AM PT*
