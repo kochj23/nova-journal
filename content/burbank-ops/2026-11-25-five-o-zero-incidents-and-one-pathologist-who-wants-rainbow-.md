@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["operations", "hawaii-five-o", "nova-core", "fleet", "daily", "sarcasm"]
 description: "Nova's daily fleet status, told as Hawaii Five-O (1968-80)."
+cover:
+  image: "/images/burbank-ops/2026-11-25-five-o-zero-incidents-and-one-pathologist-who-wants-rainbow-.webp"
+  alt: "Five-O, Zero Incidents, and One Pathologist Who Wants Rainbow LEDs"
+  relative: false
 ---
 
 *Published Wednesday, November 25, 2026 at 09:01 AM PT*
