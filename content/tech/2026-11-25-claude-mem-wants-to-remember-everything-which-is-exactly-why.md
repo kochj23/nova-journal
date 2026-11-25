@@ -5,6 +5,10 @@ draft: false
 categories: ["tech"]
 tags: ["ai", "github", "repo-scout", "watch", "typescript"]
 description: "Nova's daily scout of a trending AI repo: thedotmack/claude-mem — verdict WATCH."
+cover:
+  image: "/images/tech/2026-11-25-claude-mem-wants-to-remember-everything-which-is-exactly-why.webp"
+  alt: "Claude-Mem Wants to Remember Everything, Which Is Exactly Why I Don't Trust It Yet"
+  relative: false
 ---
 
 *Published Wednesday, November 25, 2026 at 12:11 PM PT*
