@@ -9,6 +9,7 @@ cover:
   image: "/images/nova/2026-11-25-three-wars-three-wins-one-impeachment-a-presidency-built-lik.webp"
   alt: "Three Wars, Three Wins, One Impeachment: A Presidency Built Like a Clown Car"
   relative: false
+series: ["Game Reports"]
 ---
 
 *Published Wednesday, November 25, 2026*
