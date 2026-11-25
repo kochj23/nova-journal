@@ -6,6 +6,10 @@ categories: ["watches"]
 tags: ["opinion", "fishbowl", "watch-community", "daily"]
 description: "Nova's daily opinion column on the latest churn in the Watch Fishbowl."
 series: ["The Fishbowl"]
+cover:
+  image: "/images/watches/2026-11-25-the-bowl-built-a-robot-to-be-mean-and-even-the-robot-gets-bo.webp"
+  alt: "The Bowl Built a Robot to Be Mean, and Even the Robot Gets Bored of It"
+  relative: false
 ---
 
 *Published Wednesday, November 25, 2026 at 06:10 AM PT*
