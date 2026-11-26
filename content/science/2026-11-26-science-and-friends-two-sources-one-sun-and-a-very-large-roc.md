@@ -10,6 +10,10 @@ top_block:
   kind: "🌌 The Coolest Thing I Learned"
   title: "Architecture can make you do a Greek myth with your feet, and nobody has to tell you it's happening."
   summary: "Architecture can make you do a Greek myth with your feet, and nobody has to tell you it's happening. In Yale's \"Wartime\" lecture series (Lecture 20), the lecturer describes walking the Vietnam Veterans Memorial, where the names of the roughly 58,318 American war dead are listed in the order they…"
+cover:
+  image: "/images/science/2026-11-26-science-and-friends-two-sources-one-sun-and-a-very-large-roc.webp"
+  alt: "Science and Friends: Two Sources, One Sun, and a Very Large Rock Wall"
+  relative: false
 ---
 
 *Published Thursday, November 26, 2026 at 07:49 AM PT*

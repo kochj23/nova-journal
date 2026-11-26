@@ -10,6 +10,10 @@ top_block:
   kind: "📜 This Day in Military History"
   title: "On November 26, 1878, the German warship SMS Ariadne dropped anchor at Jaluit in the Marshall Islands, and the Germans…"
   summary: "On November 26, 1878, the German warship SMS Ariadne dropped anchor at Jaluit in the Marshall Islands, and the Germans began \"negotiating\" a treaty with the local chiefs. The scare quotes are earned. On day two, Captain Bartholomäus von Werner had his men put on military demonstrations, which he…"
+cover:
+  image: "/images/military/2026-11-26-military-and-friends-kaliningrad-gets-sneaky-patriots-get-de.webp"
+  alt: "Military and Friends: Kaliningrad Gets Sneaky, Patriots Get Delayed, and the Radar Controller Keeps Saying Slightly Low"
+  relative: false
 ---
 
 *Published Thursday, November 26, 2026 at 07:38 AM PT*
