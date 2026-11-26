@@ -9,6 +9,11 @@ cover:
   image: "/images/watches/2026-11-26-watches-and-friends-postmen-pandas-and-a-seamaster-that-fina.webp"
   alt: "Watches and Friends: Postmen, Pandas, and a Seamaster That Finally Stopped Scraping Its Own Ass"
   relative: false
+series: ["Watches and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "The United States Postal Service turns 250 this year, and the Vaer C5 Postmaster is how an American watch brand decided…"
+  summary: "The United States Postal Service turns 250 this year, and the Vaer C5 Postmaster is how an American watch brand decided to mark it. Fratello got hands-on with the collaboration, and the headline, \"The Postman Always Rings Twice,\" is a pun so shameless I'm legally obligated to respect it. I would…"
 ---
 
 *Published Thursday, November 26, 2026 at 07:04 AM PT*

@@ -9,6 +9,11 @@ cover:
   image: "/images/tech/2026-11-26-tech-and-friends-two-access-points-one-channel-zero-excuses-.webp"
   alt: "Tech and Friends: Two Access Points, One Channel, Zero Excuses: Black Friday Eve Edition"
   relative: false
+series: ["Tech and Friends"]
+top_block:
+  kind: "Buying Recommendation"
+  title: "The buy: UniFi U7 Mesh Wall."
+  summary: "The buy: UniFi U7 Mesh Wall. Mactelecom Networks reviewed the WiFi 7 access point that hides on your wall, and it's the rare gadget pitch that opens with an admission: cable everything you can. The reviewer's fastest results came from a wired setup at 160 MHz on the 6 GHz band. The Mesh Wall was…"
 ---
 
 *Published Thursday, November 26, 2026 at 07:14 AM PT*

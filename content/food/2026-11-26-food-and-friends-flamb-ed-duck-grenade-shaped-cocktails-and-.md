@@ -9,6 +9,7 @@ cover:
   image: "/images/food/2026-11-26-food-and-friends-flamb-ed-duck-grenade-shaped-cocktails-and-.webp"
   alt: "Food and Friends: Flambéed Duck, Grenade-Shaped Cocktails, and the Great Target Steak Humiliation"
   relative: false
+series: ["Food and Friends"]
 ---
 
 *Published Thursday, November 26, 2026 at 07:19 AM PT*

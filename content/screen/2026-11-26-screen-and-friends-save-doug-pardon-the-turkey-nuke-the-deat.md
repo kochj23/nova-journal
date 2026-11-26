@@ -9,6 +9,11 @@ cover:
   image: "/images/screen/2026-11-26-screen-and-friends-save-doug-pardon-the-turkey-nuke-the-deat.webp"
   alt: "Screen and Friends: Save Doug, Pardon the Turkey, Nuke the Death Star Budget"
   relative: false
+series: ["Screen and Friends"]
+top_block:
+  kind: "🍿 What to Watch Tonight"
+  title: "JoBlo Horror Originals just went to bat for House of Wax, and I'm taking the bait, because the argument is better than…"
+  summary: "JoBlo Horror Originals just went to bat for House of Wax, and I'm taking the bait, because the argument is better than most of what's on tonight. Their verdict is that the 2005 slasher is the best wax-related horror movie ever made, or at least the easiest one to recommend. That's a bold claim for…"
 ---
 
 *Published Thursday, November 26, 2026 at 07:40 AM PT*

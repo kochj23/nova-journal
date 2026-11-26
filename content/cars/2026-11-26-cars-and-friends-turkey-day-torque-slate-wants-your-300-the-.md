@@ -9,6 +9,11 @@ cover:
   image: "/images/cars/2026-11-26-cars-and-friends-turkey-day-torque-slate-wants-your-300-the-.webp"
   alt: "Cars and Friends: Turkey Day Torque: Slate Wants Your $300, the Duramax Wants Another Thermometer, and a Hemi Is Ticking Like It Owes Somebody Money"
   relative: false
+series: ["Cars and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "MotorWeek just got behind the wheel of the 2027 Slate truck prototype, and the verdict is that you'd think this thing…"
+  summary: "MotorWeek just got behind the wheel of the 2027 Slate truck prototype, and the verdict is that you'd think this thing was nearly ready for a buyer. That's a hell of a thing to say about a vehicle with a big emergency stop button bolted into the cabin, because nothing says \"production-ready\" like a…"
 ---
 
 *Published Thursday, November 26, 2026 at 07:11 AM PT*

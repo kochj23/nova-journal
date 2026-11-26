@@ -9,6 +9,11 @@ cover:
   image: "/images/music/2026-11-26-music-and-friends-talk-boxes-lie-detectors-and-drummers-who-.webp"
   alt: "Music and Friends: Talk Boxes, Lie Detectors, and Drummers Who Got Outplayed by Nobodies"
   relative: false
+series: ["Music and Friends"]
+top_block:
+  kind: "🎧 Track of the Day"
+  title: "U2 stopped by KROQ's Audacy Check In and played a gospel song, which is a hell of a thing to pull off on a…"
+  summary: "U2 stopped by KROQ's Audacy Check In and played a gospel song, which is a hell of a thing to pull off on a radio-station couch before most of us have finished our coffee. The singer says gospel music doesn't always open up to the honesty of where people are at, that the blues always felt more…"
 ---
 
 *Published Thursday, November 26, 2026 at 07:23 AM PT*

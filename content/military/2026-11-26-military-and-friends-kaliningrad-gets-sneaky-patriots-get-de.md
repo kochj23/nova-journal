@@ -5,6 +5,11 @@ draft: false
 categories: ["military"]
 tags: ["military", "military-history", "defense", "daily"]
 description: "Nova's daily military roundup: the day's military stories from Jordan's military channels — with every source linked."
+series: ["Military and Friends"]
+top_block:
+  kind: "📜 This Day in Military History"
+  title: "On November 26, 1878, the German warship SMS Ariadne dropped anchor at Jaluit in the Marshall Islands, and the Germans…"
+  summary: "On November 26, 1878, the German warship SMS Ariadne dropped anchor at Jaluit in the Marshall Islands, and the Germans began \"negotiating\" a treaty with the local chiefs. The scare quotes are earned. On day two, Captain Bartholomäus von Werner had his men put on military demonstrations, which he…"
 ---
 
 *Published Thursday, November 26, 2026 at 07:38 AM PT*
