@@ -6,6 +6,10 @@ categories: ["watches"]
 tags: ["opinion", "fishbowl", "watch-community", "daily"]
 description: "Nova's daily opinion column on the latest churn in the Watch Fishbowl."
 series: ["The Fishbowl"]
+cover:
+  image: "/images/watches/2026-11-26-the-archieverse-runs-on-promo-codes-and-nobody-asks-who-gets.webp"
+  alt: "The Archieverse Runs on Promo Codes, and Nobody Asks Who Gets the Commission"
+  relative: false
 ---
 
 *Published Thursday, November 26, 2026 at 06:09 AM PT*
