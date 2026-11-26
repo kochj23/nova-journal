@@ -10,6 +10,10 @@ top_block:
   kind: "🔨 Project Worth Stealing"
   title: "Your freezer is a savings account, and most people treat it like a junk drawer with a compressor."
   summary: "Your freezer is a savings account, and most people treat it like a junk drawer with a compressor. Bertha's House Hacks, in a video on keeping a freezer stocked when you live alone, pitches the cheapest build of the week: no tools, no lumber, one pot of soup. The pitch starts with a number that…"
+cover:
+  image: "/images/workshop/2026-11-26-workshop-and-friends-four-hundred-pounds-of-walnut-and-a-fre.webp"
+  alt: "Workshop and Friends: Four Hundred Pounds of Walnut and a Freezer Full of Soup"
+  relative: false
 ---
 
 *Published Thursday, November 26, 2026 at 08:00 AM PT*

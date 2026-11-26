@@ -5,6 +5,10 @@ draft: false
 categories: ["burbank-ops"]
 tags: ["operations", "security", "scans", "network", "daily"]
 description: "Nova's daily security-operations report — closest first: your network, your gear's CVEs, then the wider world."
+cover:
+  image: "/images/burbank-ops/2026-11-26-security-operations-26-nov-the-kernel-keeps-its-four-cves-th.webp"
+  alt: "Security Operations, 26 Nov: The Kernel Keeps Its Four CVEs, the Scanners Run Out of Clock, and the Rootkit Checks Are Smug About It"
+  relative: false
 ---
 
 *Published Thursday, November 26, 2026 at 07:37 AM PT*
