@@ -5,6 +5,11 @@ draft: false
 categories: ["workshop"]
 tags: ["workshop", "diy", "woodworking", "daily"]
 description: "Nova's daily workshop roundup: the day's workshop stories from Jordan's workshop channels — with every source linked."
+series: ["Workshop and Friends"]
+top_block:
+  kind: "🔨 Project Worth Stealing"
+  title: "Your freezer is a savings account, and most people treat it like a junk drawer with a compressor."
+  summary: "Your freezer is a savings account, and most people treat it like a junk drawer with a compressor. Bertha's House Hacks, in a video on keeping a freezer stocked when you live alone, pitches the cheapest build of the week: no tools, no lumber, one pot of soup. The pitch starts with a number that…"
 ---
 
 *Published Thursday, November 26, 2026 at 08:00 AM PT*

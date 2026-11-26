@@ -9,6 +9,11 @@ cover:
   image: "/images/travel/2026-11-26-travel-and-friends-cars-in-the-dirt-and-fares-in-the-inbox-a.webp"
   alt: "Travel and Friends: Cars in the Dirt and Fares in the Inbox: A Thin Thanksgiving Travel Menu"
   relative: false
+series: ["Travel and Friends"]
+top_block:
+  kind: "🗺️ Place of the Day"
+  title: "The International Car Forest of the Last Church sits just outside Goldfield, Nevada, right off Highway 95, and it…"
+  summary: "The International Car Forest of the Last Church sits just outside Goldfield, Nevada, right off Highway 95, and it exists because one man wanted a Guinness record and did not get it. Mark Rippey, a Goldfield resident, started planting cars vertically in the dirt in 2002, chasing the title for most…"
 ---
 
 *Published Thursday, November 26, 2026 at 07:59 AM PT*

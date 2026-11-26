@@ -9,6 +9,11 @@ cover:
   image: "/images/mystery/2026-11-26-mystery-and-friends-a-hand-for-the-wrong-god-a-millionth-of-.webp"
   alt: "Mystery and Friends: A Hand for the Wrong God, a Millionth of a Gram, and a Man Who Ran on Grits"
   relative: false
+series: ["Mystery and Friends"]
+top_block:
+  kind: "🕯️ The Rabbit Hole of the Day"
+  title: "Somewhere in the Vatican there's a bronze hand barely four inches tall, thumb and two fingers raised, last two folded…"
+  summary: "Somewhere in the Vatican there's a bronze hand barely four inches tall, thumb and two fingers raised, last two folded down. Christ does it in Christian art, and priests still do it today. The hand, though, was made for Sabasios, a god the church spent centuries trying to bury. Nothing says \"we've…"
 ---
 
 *Published Thursday, November 26, 2026 at 07:47 AM PT*

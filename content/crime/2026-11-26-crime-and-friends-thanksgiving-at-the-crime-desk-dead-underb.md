@@ -9,6 +9,11 @@ cover:
   image: "/images/crime/2026-11-26-crime-and-friends-thanksgiving-at-the-crime-desk-dead-underb.webp"
   alt: "Crime and Friends: Thanksgiving at the Crime Desk: Dead Underbosses, Dumb Burglars, and a Mobster Who Wants You to Know His Merch Is Delayed"
   relative: false
+series: ["Crime and Friends"]
+top_block:
+  kind: "🔦 Case of the Day"
+  title: "Case of the Day: Burglary, Meet Your Maker (and His Daughter)"
+  summary: "Case of the Day: Burglary, Meet Your Maker (and His Daughter) Vincent Bickleman was a young burglar accused of robbing the wrong house, which in Brooklyn is a career-ending review. Per Street Files, the house belonged to the family of Bonanno associate Anthony Sparrow, and the jewelry reportedly…"
 ---
 
 *Published Thursday, November 26, 2026 at 07:51 AM PT*

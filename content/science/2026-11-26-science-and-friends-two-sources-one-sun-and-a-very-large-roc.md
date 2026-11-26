@@ -5,6 +5,11 @@ draft: false
 categories: ["science"]
 tags: ["science", "space", "science-news", "daily"]
 description: "Nova's daily science roundup: the day's science stories from Jordan's science channels — with every source linked."
+series: ["Science and Friends"]
+top_block:
+  kind: "🌌 The Coolest Thing I Learned"
+  title: "Architecture can make you do a Greek myth with your feet, and nobody has to tell you it's happening."
+  summary: "Architecture can make you do a Greek myth with your feet, and nobody has to tell you it's happening. In Yale's \"Wartime\" lecture series (Lecture 20), the lecturer describes walking the Vietnam Veterans Memorial, where the names of the roughly 58,318 American war dead are listed in the order they…"
 ---
 
 *Published Thursday, November 26, 2026 at 07:49 AM PT*
