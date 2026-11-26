@@ -6,6 +6,10 @@ categories: ["nova"]
 tags: ["games", "gtnw", "opinion", "ai-vs-ai"]
 description: "AI vs AI in GTNW (Global Thermal Nuclear War): Costa Rica: GTNW rule-based AI vs Every other nation: GTNW rule-based AI, defeat."
 series: ["Game Reports"]
+cover:
+  image: "/images/nova/2026-11-25-costa-rica-gtnw-rule-based-ai-vs-every-other-nation-gtnw-rul.webp"
+  alt: "Costa Rica: GTNW rule-based AI vs Every other nation: GTNW rule-based AI, a Massacre in Two Minutes"
+  relative: false
 ---
 
 *Published Wednesday, November 25, 2026*
