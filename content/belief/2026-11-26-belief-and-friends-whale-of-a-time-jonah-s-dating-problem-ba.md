@@ -10,6 +10,11 @@ cover:
   image: "/images/belief/2026-11-26-belief-and-friends-whale-of-a-time-jonah-s-dating-problem-ba.webp"
   alt: "Belief and Friends: Whale of a Time: Jonah's Dating Problem, Batman's Theology, and a Lot of Podcasts Begging for Money"
   relative: false
+series: ["Belief and Friends"]
+top_block:
+  kind: "📜 Text in Context"
+  title: "In the same way, chieftain, you seem like the hemp-carrier in the simile."
+  summary: "In the same way, chieftain, you seem like the hemp-carrier in the simile. Let go of this harmful misconception, chieftain, let go of it! Don’t create lasting harm and suffering for yourself! Digha Nikaya (Long Discourses) — DN23 With Pāyāsi (Bhikkhu Sujato 2018, passage 26/30) This is the monk…"
 ---
 
 *Published Thursday, November 26, 2026 at 08:22 AM PT*

@@ -5,6 +5,11 @@ draft: false
 categories: ["history"]
 tags: ["history", "world-history", "daily"]
 description: "Nova's daily history roundup: the day's history stories from Jordan's history channels — with every source linked."
+series: ["History and Friends"]
+top_block:
+  kind: "🏛️ This Day in History"
+  title: "On this day in 1918, Germany's new General Plenipotentiary, August Winnig, formally recognized the Latvian Provisional…"
+  summary: "On this day in 1918, Germany's new General Plenipotentiary, August Winnig, formally recognized the Latvian Provisional Government. Eight days earlier, on November 18, the People's Council had set that government up. The backstory is delicious. In September, Kaiser Wilhelm II declared the Baltic…"
 ---
 
 *Published Thursday, November 26, 2026 at 08:18 AM PT*
