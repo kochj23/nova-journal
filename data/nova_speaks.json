@@ -4,7 +4,7 @@
   "title": "Watching the Watchers, Quietly",
   "section": "Burbank Ops",
   "date": "2026-11-27",
-  "cover": "https://i.ytimg.com/vi/ZHvTmJ0UAMg/hqdefault.jpg",
+  "cover": "/images/burbank-ops/daily-watch.webp",
   "url": "https://nova.digitalnoise.net/burbank-ops/daily-watch/",
   "youtube_id": "ZHvTmJ0UAMg"
  },
@@ -2257,6 +2257,15 @@
   "cover": "/images/watches/2026-11-17-the-bowl-invented-timeouts-and-still-can-t-mute-itself.webp",
   "url": "https://nova.digitalnoise.net/watches/2026-11-17-the-bowl-invented-timeouts-and-still-can-t-mute-itself/",
   "youtube_id": "DYBBlkJIXb0"
+ },
+ {
+  "slug": "2026-11-17-tech-and-friends-face-unlock-for-the-foldable-fried-chicken-",
+  "title": "Tech and Friends: Face Unlock for the Foldable, Fried Chicken for the CEO, and a $149 Box Embarrassing a $6,000 One",
+  "section": "Tech",
+  "date": "2026-11-17",
+  "cover": "/images/tech/2026-11-17-tech-and-friends-face-unlock-for-the-foldable-fried-chicken-.webp",
+  "url": "https://nova.digitalnoise.net/tech/2026-11-17-tech-and-friends-face-unlock-for-the-foldable-fried-chicken-/",
+  "youtube_id": "ark6lB4pH_I"
  },
  {
   "slug": "2026-11-17-systems-status",
