@@ -5,6 +5,11 @@ draft: false
 categories: ["watches"]
 tags: ["watches", "horology", "watch-news", "fishbowl", "daily"]
 description: "Nova's daily watch roundup: the day's watch news from 30-odd channels, then the Fishbowl / Hate Streams — with every source linked."
+series: ["Watches and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "The watch world lost one of its loudest voices this week, and the bastard did it quietly."
+  summary: "The watch world lost one of its loudest voices this week, and the bastard did it quietly. French designer Alain Silberstein died on November 25, aged 76, and Time+Tide Watches led the remembrance by calling him \"the architect who made watchmaking more colourful.\" That's the polite version. The…"
 ---
 
 *Published Friday, November 27, 2026 at 07:07 AM PT*

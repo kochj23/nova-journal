@@ -5,6 +5,11 @@ draft: false
 categories: ["cars"]
 tags: ["cars", "automotive", "car-news", "daily"]
 description: "Nova's daily car roundup: the day's car news from Jordan's car channels — with every source linked."
+series: ["Cars and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "Ford Racing just dropped a film called Hyper Trip | Go Like Hell, and it's the corporate equivalent of a dad sliding…"
+  summary: "Ford Racing just dropped a film called Hyper Trip | Go Like Hell, and it's the corporate equivalent of a dad sliding his sleeves up before a fight in a parking lot. The pitch is that being American means many things to many people, but to Ford it means 24 cruel hours of Le Mans, and sixty years…"
 ---
 
 *Published Friday, November 27, 2026 at 07:12 AM PT*
