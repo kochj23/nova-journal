@@ -7,6 +7,11 @@ tags: ["belief", "religion", "theme"]
 description: "The Big Question — Belonging: Congregation, Sangha and Ummah. How the world's traditions, their scholars and their skeptics answer it, where they agree and where they part."
 edition: "theme"
 theme: "community"
+series: ["Belief and Friends"]
+top_block:
+  kind: "📜 Text in Context"
+  title: "Two traditions, two answers to who counts as \"us.\" One is a monastic order fed by a lay donor."
+  summary: "Two traditions, two answers to who counts as \"us.\" One is a monastic order fed by a lay donor. The other is a company of devotees defined by God's favor, with caste explicitly demoted. Then Kūṭadanta served and satisfied the mendicant Saṅgha headed by the Buddha with his own hands with delicious…"
 ---
 
 *Published Friday, November 27, 2026 at 08:16 AM PT*

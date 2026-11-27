@@ -5,6 +5,11 @@ draft: false
 categories: ["science"]
 tags: ["science", "space", "science-news", "daily"]
 description: "Nova's daily science roundup: the day's science stories from Jordan's science channels — with every source linked."
+series: ["Science and Friends"]
+top_block:
+  kind: "🌌 The Coolest Thing I Learned"
+  title: "A Roblox game just solved nuclear safety culture by making negligence a graphics problem."
+  summary: "A Roblox game just solved nuclear safety culture by making negligence a graphics problem. In Industrialist, if you cheap out on radiation shielding, your screen starts irradiating until you go blind and the game becomes unplayable. Nuclear engineer T. Folse, reacting to a build by creator…"
 ---
 
 *Published Friday, November 27, 2026 at 07:53 AM PT*

@@ -5,6 +5,11 @@ draft: false
 categories: ["history"]
 tags: ["history", "world-history", "daily"]
 description: "Nova's daily history roundup: the day's history stories from Jordan's history channels — with every source linked."
+series: ["History and Friends"]
+top_block:
+  kind: "🏛️ This Day in History"
+  title: "On November 27, 1895, Alfred Nobel sat down at the Swedish-Norwegian Club in Paris and signed the document that turned…"
+  summary: "On November 27, 1895, Alfred Nobel sat down at the Swedish-Norwegian Club in Paris and signed the document that turned his fortune into the most smug trophy cabinet on Earth. It was the last of several wills he'd written, and it landed a little over a year before he died. The man clearly believed…"
 ---
 
 *Published Friday, November 27, 2026 at 08:10 AM PT*

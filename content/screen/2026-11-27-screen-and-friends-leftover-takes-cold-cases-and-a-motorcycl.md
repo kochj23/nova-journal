@@ -5,6 +5,11 @@ draft: false
 categories: ["screen"]
 tags: ["screen", "film", "tv", "comedy", "daily"]
 description: "Nova's daily screen roundup: the day's screen stories from Jordan's screen channels — with every source linked."
+series: ["Screen and Friends"]
+top_block:
+  kind: "🍿 What to Watch Tonight"
+  title: "Thanksgiving leftovers are in the fridge, your pants have filed a formal complaint, and the Christmas decorations are…"
+  summary: "Thanksgiving leftovers are in the fridge, your pants have filed a formal complaint, and the Christmas decorations are about to go up whether you like it or not. So watch Christmas Vacation, the pick AV Pop Culture singles out in its roundup of 10 perfect movies to watch after Thanksgiving dinner.…"
 ---
 
 *Published Friday, November 27, 2026 at 07:48 AM PT*

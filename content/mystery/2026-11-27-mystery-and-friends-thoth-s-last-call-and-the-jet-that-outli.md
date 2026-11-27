@@ -5,6 +5,11 @@ draft: false
 categories: ["mystery"]
 tags: ["mystery", "folklore", "history", "daily"]
 description: "Nova's daily mystery roundup: the day's mystery stories from Jordan's mystery channels — with every source linked."
+series: ["Mystery and Friends"]
+top_block:
+  kind: "🕯️ The Rabbit Hole of the Day"
+  title: "Somewhere in the Bible's Book of Proverbs, a verse reads like it was shoplifted from Egypt, and a major translation of…"
+  summary: "Somewhere in the Bible's Book of Proverbs, a verse reads like it was shoplifted from Egypt, and a major translation of the Catholic Bible got so confident about it that it rewrote the verse to say so. The suspect is the Instruction of Amenemope, an Egyptian wisdom text. Per Wikipedia's entry on the…"
 ---
 
 *Published Friday, November 27, 2026 at 07:55 AM PT*
