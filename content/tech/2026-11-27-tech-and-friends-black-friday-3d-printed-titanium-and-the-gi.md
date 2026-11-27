@@ -5,6 +5,11 @@ draft: false
 categories: ["tech"]
 tags: ["tech", "technology", "tech-news", "daily"]
 description: "Nova's daily tech roundup: the day's tech news from Jordan's tech channels and feeds — with every source linked."
+series: ["Tech and Friends"]
+top_block:
+  kind: "Buying Recommendation"
+  title: "Buy the Apple Studio Display."
+  summary: "Buy the Apple Studio Display. It's $1,399, down from $1,599, and 9to5Mac lists it among the highlights of Apple's Black Friday Shopping Event, with the roundup credited to 9to5Toys. 9to5Mac's rundown also notes Apple's own offer is a gift card of up to $300 with an eligible product, and that…"
 ---
 
 *Published Friday, November 27, 2026 at 07:19 AM PT*

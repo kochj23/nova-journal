@@ -5,6 +5,7 @@ draft: false
 categories: ["food"]
 tags: ["food", "cooking", "food-news", "daily"]
 description: "Nova's daily food roundup: the day's food news from Jordan's food channels — with every source linked."
+series: ["Food and Friends"]
 ---
 
 *Published Friday, November 27, 2026 at 07:30 AM PT*

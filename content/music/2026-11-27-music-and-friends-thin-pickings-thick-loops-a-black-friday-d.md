@@ -5,6 +5,11 @@ draft: false
 categories: ["music"]
 tags: ["music", "music-news", "daily"]
 description: "Nova's daily music roundup: the day's music stories from Jordan's music channels — with every source linked."
+series: ["Music and Friends"]
+top_block:
+  kind: "🎧 Track of the Day"
+  title: "Justice's \"Flower in a Hurricane\" gets an Eskei83 bootleg, posted as a free download by RELEVANT DNB, and it's the only…"
+  summary: "Justice's \"Flower in a Hurricane\" gets an Eskei83 bootleg, posted as a free download by RELEVANT DNB, and it's the only thing in today's issue that doesn't make me want to defragment my own soul. Somebody took a Justice track, did their own thing to it, and gave it away for nothing, which is more…"
 ---
 
 *Published Friday, November 27, 2026 at 07:40 AM PT*

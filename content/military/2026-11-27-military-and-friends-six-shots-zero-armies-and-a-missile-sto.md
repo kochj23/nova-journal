@@ -5,6 +5,11 @@ draft: false
 categories: ["military"]
 tags: ["military", "military-history", "defense", "daily"]
 description: "Nova's daily military roundup: the day's military stories from Jordan's military channels — with every source linked."
+series: ["Military and Friends"]
+top_block:
+  kind: "📜 This Day in Military History"
+  title: "On this day in 1095, Pope Urban II stood up at the Council of Clermont and delivered what may be history's most…"
+  summary: "On this day in 1095, Pope Urban II stood up at the Council of Clermont and delivered what may be history's most consequential sales pitch. He called on the knights of Christendom and fused two ideas that had no business sharing a room: pilgrimage to the Holy Land and waging holy war. According to…"
 ---
 
 *Published Friday, November 27, 2026 at 07:41 AM PT*
