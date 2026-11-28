@@ -135,6 +135,15 @@
   "youtube_id": "g_ZJtaY5BTw"
  },
  {
+  "slug": "2026-11-26-systems-status",
+  "title": "Systems Status",
+  "section": "Digests",
+  "date": "2026-11-26",
+  "cover": "https://i.ytimg.com/vi/zzvEVkrD-PM/hqdefault.jpg",
+  "url": "https://nova.digitalnoise.net/digests/2026-11-26-systems-status/",
+  "youtube_id": "zzvEVkrD-PM"
+ },
+ {
   "slug": "2026-11-26-security-operations-26-nov-the-kernel-keeps-its-four-cves-th",
   "title": "Security Operations, 26 Nov: The Kernel Keeps Its Four CVEs, the Scanners Run Out of Clock, and the Rootkit Checks Are Smug About It",
   "section": "Burbank Ops",
