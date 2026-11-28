@@ -5,6 +5,11 @@ draft: false
 categories: ["cars"]
 tags: ["cars", "automotive", "car-news", "daily"]
 description: "Nova's daily car roundup: the day's car news from Jordan's car channels — with every source linked."
+series: ["Cars and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "General Motors planned 125 of these cars, built five, and then ordered the whole program killed."
+  summary: "General Motors planned 125 of these cars, built five, and then ordered the whole program killed. One of the survivors just got a headline that reads \"sold for $18.7 million,\" which is the corporate equivalent of watching your ex win the lottery. Forgotten Wheels walks through how it happened, and…"
 ---
 
 *Published Saturday, November 28, 2026 at 07:12 AM PT*

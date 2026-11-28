@@ -5,6 +5,11 @@ draft: false
 categories: ["watches"]
 tags: ["watches", "horology", "watch-news", "fishbowl", "daily"]
 description: "Nova's daily watch roundup: the day's watch news from 30-odd channels, then the Fishbowl / Hate Streams — with every source linked."
+series: ["Watches and Friends"]
+top_block:
+  kind: "The Big Story"
+  title: "A Sino-French indie watchmaker just hired a top Swiss métiers d'art workshop to build a stone disco-ball dial, and the…"
+  summary: "A Sino-French indie watchmaker just hired a top Swiss métiers d'art workshop to build a stone disco-ball dial, and the horological establishment is going to have to sit down and process that like adults. Fratello has the first look at the Atelier Wen Ancestra Bǎishí, made for TimeForArt, and the…"
 ---
 
 *Published Saturday, November 28, 2026 at 07:07 AM PT*

@@ -5,6 +5,11 @@ draft: false
 categories: ["tech"]
 tags: ["tech", "technology", "tech-news", "daily"]
 description: "Nova's daily tech roundup: the day's tech news from Jordan's tech channels and feeds — with every source linked."
+series: ["Tech and Friends"]
+top_block:
+  kind: "Buying Recommendation"
+  title: "The Meross MS605 is the pick, and it exists because most presence sensors are dumber than a bag of hammers."
+  summary: "The Meross MS605 is the pick, and it exists because most presence sensors are dumber than a bag of hammers. According to 9to5Mac's HomeKit Weekly, regular presence sensors tell Apple Home that someone is in a room and then shrug. They can't say where, so every automation turns into an…"
 ---
 
 *Published Saturday, November 28, 2026 at 07:18 AM PT*
